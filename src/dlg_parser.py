@@ -13,20 +13,27 @@ def parse_input(input_file):
     return parsed_dlg
 
 def line_to_data (dataset, line, exeption_info):
-    datapoint={}
+    datapoint = {}
     try:
         if not(re.match(r"^\[.*\]$", line)):
-            splited = line.split(': ', 1)
-            datapoint['speaker'] = splited[0]
-            datapoint['text'] = re.sub(r"^\(.*\)\s",'',splited[1])
+            datapoint['Comment_flg'] = 'N'
+            splitted = line.split(': ', 1)
+            datapoint['Speaker'] = splitted[0]
+            datapoint['Text'] = re.sub(r"^\(.*\)\s", '', splitted[1])
             try:
-                action = re.findall(r"^\(.*\)", splited[1])[0]
-                datapoint['action'] = comment
+                action = re.findall(r"^\(.*\)", splitted[1])[0]
+                datapoint['Action'] = action
             except:
-                datapoint['action'] = ''
+                datapoint['Action'] = ''
+            dataset.append(datapoint)
+        else:
+            datapoint['Comment_flg'] = 'Y'
+            datapoint['Text'] = line
+            datapoint['Speaker'] = ''
+            datapoint['Action'] = ''
             dataset.append(datapoint)
     except:
         exeption_info.append(line)
         print('Bad line exeption:')
-        print('Line text: ',line)
+        print('Line text: ', line)
         print('====================================================')
