@@ -1,0 +1,236 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+Ma2JoAd-1,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,"[Joe, as usual, is lying in bed with prostitutes in his apartment. He gets out of bed, stretches out and looks in the window.]",,Y,,Ma2JoAd-2
+Ma2JoAd-2,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,What the hell?!,,N,Ma2JoAd-1,Ma2JoAd-3
+Ma2JoAd-3,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He sees that Vito’s grabbed by the long arm of the law. This is Chapter 6 of the original game.],,Y,Ma2JoAd-2,Ma2JoAd-4
+Ma2JoAd-4,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"No, no FUCK!",,N,Ma2JoAd-3,Ma2JoAd-5
+Ma2JoAd-5,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Girl from the bar,Everything alright baby?,,N,Ma2JoAd-4,Ma2JoAd-6
+Ma2JoAd-6,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[Joe's running to the phone.],,Y,Ma2JoAd-5,Ma2JoAd-7
+Ma2JoAd-7,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Waiter,This is Freddy's.,,N,Ma2JoAd-6,Ma2JoAd-8
+Ma2JoAd-8,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,It's Joe… Henry there?,,N,Ma2JoAd-7,Ma2JoAd-9
+Ma2JoAd-9,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Waiter,"Hey Joe. No, Henry ain't here. But Luca's lookin’ for ya. Hold on a sec.",,N,Ma2JoAd-8,Ma2JoAd-10
+Ma2JoAd-10,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Shhhhit…,,N,Ma2JoAd-9,Ma2JoAd-11
+Ma2JoAd-11,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He's make a sign to the prostitutes to get out of his apartment.],,Y,Ma2JoAd-10,Ma2JoAd-12
+Ma2JoAd-12,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,Barbaro! Where the hell are you?,,N,Ma2JoAd-11,Ma2JoAd-13
+Ma2JoAd-13,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,I'm home. Listen Vito just got pinched. That's why I-,,N,Ma2JoAd-12,Ma2JoAd-14
+Ma2JoAd-14,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,"Already? SHIT! Alright, shut your mouth and listen. You remember that thing Vito did with the gas stomps, right? We just heard that somebody decided to squeal",,N,Ma2JoAd-13,Ma2JoAd-15
+Ma2JoAd-15,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Who was it!,,N,Ma2JoAd-14,Ma2JoAd-16
+Ma2JoAd-16,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,Some guy who works in the gas station in your neighborhood.,,N,Ma2JoAd-15,Ma2JoAd-17
+Ma2JoAd-17,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,I’ll kill the fuck.,,N,Ma2JoAd-16,Ma2JoAd-18
+Ma2JoAd-18,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,"No you won't. You're just gonna send him a message for now, let him know who he's fuckin' with. He ends up in a wheelchair line, but don't kill the guy. That's heat we don't need. Got it?",,N,Ma2JoAd-17,Ma2JoAd-19
+Ma2JoAd-19,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"Yeah, I got it.",,N,Ma2JoAd-18,Ma2JoAd-20
+Ma2JoAd-20,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,You better. Come by the bar when you're done.,,N,Ma2JoAd-19,Ma2JoAd-21
+Ma2JoAd-21,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,FUCK! God dammit. Where the fuck are my pants…,,N,Ma2JoAd-20,Ma2JoAd-22
+Ma2JoAd-22,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He dresses fast and leaves the apartment.],,Y,Ma2JoAd-21,Ma2JoAd-23
+Ma2JoAd-23,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Old lady,I heard ya last night with that floozy. I oughta call the cops.,,N,Ma2JoAd-22,Ma2JoAd-24
+Ma2JoAd-24,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He's coming up to the gas station.],,Y,Ma2JoAd-23,Ma2JoAd-25
+Ma2JoAd-25,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"There you are, you little prick.",,N,Ma2JoAd-24,Ma2JoAd-26
+Ma2JoAd-26,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,"[Once he gets inside, he throws the attendant on the floor right away.]",,Y,Ma2JoAd-25,Ma2JoAd-27
+Ma2JoAd-27,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,We need to talk. Sound good to you?,,N,Ma2JoAd-26,Ma2JoAd-28
+Ma2JoAd-28,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[The attendant hits him with an empty canister.],,Y,Ma2JoAd-27,Ma2JoAd-29
+Ma2JoAd-29,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"Ah, shhhhit!!! Get over here, you little fuck!",,N,Ma2JoAd-28,Ma2JoAd-30
+Ma2JoAd-30,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[Attendant's running away. Joe rushes into a chase.],,Y,Ma2JoAd-29,Ma2JoAd-31
+Ma2JoAd-31,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Gonna kill this little prick… Can't just take its beatin' like a man…,,N,Ma2JoAd-30,Ma2JoAd-32
+Ma2JoAd-32,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He catches up with him and puts his gun in attendant's mouth.],,Y,Ma2JoAd-31,Ma2JoAd-33
+Ma2JoAd-33,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Let's try this again.,,N,Ma2JoAd-32,Ma2JoAd-34
+Ma2JoAd-34,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Attendant,"It wasn't me! I swear! It was Stan! Please, please! It wasn't me! I didn’t say nothin' nobody. You gotta believe me. I was Stan. He's the one who bought the stamps I swear!",,N,Ma2JoAd-33,Ma2JoAd-35
+Ma2JoAd-35,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"Sorry, pal I heard that one before.",,N,Ma2JoAd-34,Ma2JoAd-36
+Ma2JoAd-36,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Attendant,"I ain’t lying. It was Stan who told the caps, not me, I swear! Please. Please.",,N,Ma2JoAd-35,Ma2JoAd-37
+Ma2JoAd-37,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Alright. Let’s pretend I believe ya. Where's Stan right now?,,N,Ma2JoAd-36,Ma2JoAd-38
+Ma2JoAd-38,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Attendant,His shift just ended. He's headin' straight to the train station... Catchin' the 5 o'clock to Birkland. Ain't comin' back till he has to testify.,,N,Ma2JoAd-37,Ma2JoAd-39
+Ma2JoAd-39,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,You know what's gonna happen if you're lyin' to me.,,N,Ma2JoAd-38,Ma2JoAd-40
+Ma2JoAd-40,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He drives to the train station.],,Y,Ma2JoAd-39,Ma2JoAd-41
+Ma2JoAd-41,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"Hey, Stan! Where ya goin'?",,N,Ma2JoAd-40,Ma2JoAd-42
+Ma2JoAd-42,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Stan,"Oh, shiiit!",,N,Ma2JoAd-41,Ma2JoAd-43
+Ma2JoAd-43,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"C'mere, Stan! I just wanna talk! You're starting to piss me off! Guy's a fuckin' circus freak. All... this fuckin... runnin’.",,N,Ma2JoAd-42,Ma2JoAd-44
+Ma2JoAd-44,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,"[In an attempt to escape from Joe, Stan rushes into two workers carrying a heavy box.]",,Y,Ma2JoAd-43,Ma2JoAd-45
+Ma2JoAd-45,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Worker 1,Hey! Watch where you're going!,,N,Ma2JoAd-44,Ma2JoAd-46
+Ma2JoAd-46,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Worker 2,"Hey, watch it now!",,N,Ma2JoAd-45,Ma2JoAd-47
+Ma2JoAd-47,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[Caught up with Stan Joe hitting him in the face.],,Y,Ma2JoAd-46,Ma2JoAd-48
+Ma2JoAd-48,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Now I want ya to listen real careful Stan. You're gonna leave town tonight. And you ain't gonna come back.,,N,Ma2JoAd-47,Ma2JoAd-49
+Ma2JoAd-49,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Stan,Fine. But it ain't gonna make a difference.,,N,Ma2JoAd-48,Ma2JoAd-50
+Ma2JoAd-50,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,What the hell’s that supposed to mean?,,N,Ma2JoAd-49,Ma2JoAd-51
+Ma2JoAd-51,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Stan,Nothing.,,N,Ma2JoAd-50,Ma2JoAd-52
+Ma2JoAd-52,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[Joe breaks his finger.],,Y,Ma2JoAd-51,Ma2JoAd-53
+Ma2JoAd-53,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,You got yourself nine good fingers left. Wanna make it eight?,,N,Ma2JoAd-52,Ma2JoAd-54
+Ma2JoAd-54,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Stan,There's somebody else. Somebody who knows about a lot more than just the OPA robbery. DA said he's gonna take down everybody. The DA's gunnin for you. He's gonna take down your whole operation.,,N,Ma2JoAd-53,Ma2JoAd-55
+Ma2JoAd-55,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Who is this guy?,,N,Ma2JoAd-54,Ma2JoAd-56
+Ma2JoAd-56,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Stan,No idea…,,N,Ma2JoAd-55,Ma2JoAd-57
+Ma2JoAd-57,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[Joe's shoots a bullet next to Stan's head.],,Y,Ma2JoAd-56,Ma2JoAd-58
+Ma2JoAd-58,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Stan,I don't know! I heard the cops… the cops are keepin' him safe somewhere. Guess I wasn't important enough for that,,N,Ma2JoAd-57,Ma2JoAd-59
+Ma2JoAd-59,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,You’re not. Remember that. Now get your ass up. You got a train to catch.,,N,Ma2JoAd-58,Ma2JoAd-60
+Ma2JoAd-60,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He's calling Luca from the nearest pay phone.],,Y,Ma2JoAd-59,Ma2JoAd-61
+Ma2JoAd-61,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Waiter,This is Freddy's.,,N,Ma2JoAd-60,Ma2JoAd-62
+Ma2JoAd-62,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"Hey, it's Joe. Lemme talk to Luca.",,N,Ma2JoAd-61,Ma2JoAd-63
+Ma2JoAd-63,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Waiter,Sure hold on he's right here. It's Barbaro.,,N,Ma2JoAd-62,Ma2JoAd-64
+Ma2JoAd-64,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,Joe. It done yet?,,N,Ma2JoAd-63,Ma2JoAd-65
+Ma2JoAd-65,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Yeah but there's somebody else.,,N,Ma2JoAd-64,Ma2JoAd-66
+Ma2JoAd-66,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,What do you mean.,,N,Ma2JoAd-65,Ma2JoAd-67
+Ma2JoAd-67,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,The greasemonkey said the DA's got somebody else. Somebody who's gonna take out the whole operation.,,N,Ma2JoAd-66,Ma2JoAd-68
+Ma2JoAd-68,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,Fuckin' Mazzeo... I knew it.,,N,Ma2JoAd-67,Ma2JoAd-69
+Ma2JoAd-69,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Who the hell's that?,,N,Ma2JoAd-68,Ma2JoAd-70
+Ma2JoAd-70,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,"Richie Mazzeo. They picked him up last month. Guy's a retard but he could put us all away. FUCK! Alright listen, you're gonna find out where they're keepin' him I don't care how. When you do, you make sure he don't talk to nobody ever again. Got it?",,N,Ma2JoAd-69,Ma2JoAd-71
+Ma2JoAd-71,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"Yeah, I got it. So did you, uh, he or from Vito?",,N,Ma2JoAd-70,Ma2JoAd-72
+Ma2JoAd-72,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,Just worry about Mazzeo. We'll take care of Vito.,,N,Ma2JoAd-71,Ma2JoAd-73
+Ma2JoAd-73,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[Joe's driving to the police station. Two people are coming out of it.],,Y,Ma2JoAd-72,Ma2JoAd-74
+Ma2JoAd-74,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective,What's the matter? Somebody shit in your corn flakes this morning?,,N,Ma2JoAd-73,Ma2JoAd-75
+Ma2JoAd-75,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective 2,Yeah. The Captain when he put me on babysittin' duty.,,N,Ma2JoAd-74,Ma2JoAd-76
+Ma2JoAd-76,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective,"Take that up with the DA pal. Star witnesses ain't too easy to come by. Sides, I can think of a lot worse than playing cards with the fellas all night.",,N,Ma2JoAd-75,Ma2JoAd-77
+Ma2JoAd-77,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective 2,All I’m sayin' is I got better things to do than babysit some wiseguy stoolpigeon.,,N,Ma2JoAd-76,Ma2JoAd-78
+Ma2JoAd-78,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"Alright, c'mon, just spill the beans already...",,N,Ma2JoAd-77,Ma2JoAd-79
+Ma2JoAd-79,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective,"Hey, ya know what? Maybe you'll get lucky and a truckload of wiseguys 'll show up shoot the place up good.",,N,Ma2JoAd-78,Ma2JoAd-80
+Ma2JoAd-80,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective 2,You really know how to cheer a guy up you know that?,,N,Ma2JoAd-79,Ma2JoAd-81
+Ma2JoAd-81,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective,"Yeah, don't mention it.",,N,Ma2JoAd-80,Ma2JoAd-82
+Ma2JoAd-82,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,"[They get in the car and leave, driving to the boat dock on the outskirts of town. Joe sneaks up on his ice floes.]",,Y,Ma2JoAd-81,Ma2JoAd-83
+Ma2JoAd-83,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Ssssshit!,,N,Ma2JoAd-82,Ma2JoAd-84
+Ma2JoAd-84,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective,Here. Brought ya some coffee.,,N,Ma2JoAd-83,Ma2JoAd-85
+Ma2JoAd-85,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective 2,Thanks. I’m freezing my balls off out here.,,N,Ma2JoAd-84,Ma2JoAd-86
+Ma2JoAd-86,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective,"I told you to dress warm, didn’t I?",,N,Ma2JoAd-85,Ma2JoAd-87
+Ma2JoAd-87,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective 2,"Hey, I’m wearing the same damn thing as you. It’s just that I’m standing out here while the canary in there’s all nice and warm.",,N,Ma2JoAd-86,Ma2JoAd-88
+Ma2JoAd-88,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Detective,"God bless the criminal justice system, eh.",,N,Ma2JoAd-87,Ma2JoAd-89
+Ma2JoAd-89,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Bingo.,,N,Ma2JoAd-88,Ma2JoAd-90
+Ma2JoAd-90,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He's quietly strangling the detective and finds a cabin where the chief witness Richie Mazzeo and several policemen are hiding.],,Y,Ma2JoAd-89,Ma2JoAd-91
+Ma2JoAd-91,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Richie,"What the hell are you waitin’ for! Shoot this asshole! You're supposed to be protectin' me, for fuck's sake!",,N,Ma2JoAd-90,Ma2JoAd-92
+Ma2JoAd-92,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[In this very moment Joe breaks the door and kills one of the cops. Richie is running away.],,Y,Ma2JoAd-91,Ma2JoAd-93
+Ma2JoAd-93,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Shit!,,N,Ma2JoAd-92,Ma2JoAd-94
+Ma2JoAd-94,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He kills the rest of the cops. Richie gets in his car and drives away. Joe rushes into the chase.],,Y,Ma2JoAd-93,Ma2JoAd-95
+Ma2JoAd-95,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Argh... If this asshole gels away I'm fucked.,,N,Ma2JoAd-94,Ma2JoAd-96
+Ma2JoAd-96,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[They go to the icy lake. Joe crashes into Ritchie's car.],,Y,Ma2JoAd-95,Ma2JoAd-97
+Ma2JoAd-97,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"You like that, ya rat! Whoawhoawhoawhoa! Hallefuckinlah... How 'bout little bumper cas!? Ohhh... Shit! Hoo. Not doin' that again. Come on, you fuck.",,N,Ma2JoAd-96,Ma2JoAd-98
+Ma2JoAd-98,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He pushes Ritchie's car to the curb and shoots the chief witness with a shotgun.],,Y,Ma2JoAd-97,Ma2JoAd-99
+Ma2JoAd-99,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"Alright, now back to Freddy's.",,N,Ma2JoAd-98,Ma2JoAd-100
+Ma2JoAd-100,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He's going to the bar...],,Y,Ma2JoAd-99,Ma2JoAd-101
+Ma2JoAd-101,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,"Hey, you wanna argue with the boss, Henry? Huh? I didn't think so. Just worry about that leg of yours. Alright, I'll see ya.  Well?",(to Joe) ,N,Ma2JoAd-100,Ma2JoAd-102
+Ma2JoAd-102,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,It's done.,,N,Ma2JoAd-101,Ma2JoAd-103
+Ma2JoAd-103,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,Alright. Good job.,,N,Ma2JoAd-102,Ma2JoAd-104
+Ma2JoAd-104,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"So uh, what's happening with Vito?",,N,Ma2JoAd-103,Ma2JoAd-105
+Ma2JoAd-105,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,We got him the best lawyer in town He'll be out in mo time.,,N,Ma2JoAd-104,Ma2JoAd-106
+Ma2JoAd-106,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[Vito's trial begins - the events of Chapter 6 of the original game are repeated.],,Y,Ma2JoAd-105,Ma2JoAd-107
+Ma2JoAd-107,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Judge,...for your crimes against the people of this city and of this great country… this court hereby sentences you to ten years in a federal penitentiary.,,N,Ma2JoAd-106,Ma2JoAd-108
+Ma2JoAd-108,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[After the trial...],,Y,Ma2JoAd-107,Ma2JoAd-109
+Ma2JoAd-109,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Ssssshit! FUCK! What the hell? You said he was gonna get off!,,N,Ma2JoAd-108,Ma2JoAd-110
+Ma2JoAd-110,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,"First of all, lower your fuckin' voice. Second, we'll talk about it tomorrow, not now. Go home and cool off, then come back in the morning. Understand?",,N,Ma2JoAd-109,Ma2JoAd-111
+Ma2JoAd-111,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"Yeah, whatever…",,N,Ma2JoAd-110,Ma2JoAd-112
+Ma2JoAd-112,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[He leaves.],,Y,Ma2JoAd-111,Ma2JoAd-113
+Ma2JoAd-113,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Luca,Dumb son of a bitch…,,N,Ma2JoAd-112,Ma2JoAd-114
+Ma2JoAd-114,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",,[Joe's coming home. His phone starts ringing.],,Y,Ma2JoAd-113,Ma2JoAd-115
+Ma2JoAd-115,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Ugh... Who the hell is this now...  Yeah.,(picks it up) ,N,Ma2JoAd-114,Ma2JoAd-116
+Ma2JoAd-116,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Henry,"Joe, listen to me-",,N,Ma2JoAd-115,Ma2JoAd-117
+Ma2JoAd-117,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,"Henry! You hear what happened to Vito? The little cocksucker said he was gonna take care of everything, and then he goes-",,N,Ma2JoAd-116,Ma2JoAd-118
+Ma2JoAd-118,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Henry,"Joe! Will you shut your mouth and listen to me!!! Look, I’m sorry about Vito, there was nothin’ I could do, but you gotta listen. You just made Luca’s hit list.",,N,Ma2JoAd-117,Ma2JoAd-119
+Ma2JoAd-119,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,What's that supposed to mean?,,N,Ma2JoAd-118,Ma2JoAd-120
+Ma2JoAd-120,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Henry,"It means THEY'RE GONNA KILL YOU. That's how happens, Joe. You must've pissed him off good. You probably got about 5 minutes before the guys show up.",,N,Ma2JoAd-119,Ma2JoAd-121
+Ma2JoAd-121,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Joe,Yeah? Let 'em come. What the hell do I care.,,N,Ma2JoAd-120,Ma2JoAd-122
+Ma2JoAd-122,﻿WITNESS,"LITTLE ITALY, FEBRUARY 26TH, 1945",Henry,"What are you gonna do, tough guy? Kill 'em? And then who do you think's gonna happen tomorrow? Look, you got two choices you can either skip town or you can stay and die. And hey, Joe, what you did for me at the distillery... we’re even now.",,N,Ma2JoAd-121,Ma2JoAd-123
+Ma2JoAd-123,﻿WITNESS,FIVE YEARS LATER,,"[Joe's going back to the Empire Bay. He grew a mustache, put on a Hawaiian shirt and aviator glasses.]",,Y,Ma2JoAd-122,Ma2JoAd-124
+Ma2JoAd-124,﻿WITNESS,FIVE YEARS LATER,Tony Balsamo,You got some balls comin' back here.,,N,Ma2JoAd-123,Ma2JoAd-125
+Ma2JoAd-125,﻿WITNESS,FIVE YEARS LATER,Joe,Ey!!! Oh!!!!,,N,Ma2JoAd-124,Ma2JoAd-126
+Ma2JoAd-126,﻿WITNESS,FIVE YEARS LATER,Tony,Look at this guy! Jeez you ain’t changed a bit! What the hell are you wearin' though?,,N,Ma2JoAd-125,Ma2JoAd-127
+Ma2JoAd-127,﻿WITNESS,FIVE YEARS LATER,Joe,"What, you mean my disguise? Not bad, huh?",,N,Ma2JoAd-126,Ma2JoAd-128
+Ma2JoAd-128,﻿WITNESS,FIVE YEARS LATER,Tony,"Yeah, it's about as subtle as a kick in the nuts.",,N,Ma2JoAd-127,Ma2JoAd-129
+Ma2JoAd-129,﻿WITNESS,FIVE YEARS LATER,Joe,"Alright alright, so how's my place?",,N,Ma2JoAd-128,Ma2JoAd-130
+Ma2JoAd-130,﻿WITNESS,FIVE YEARS LATER,Tony,Like I told yo on the phone - it's just like ya left it. Here's the keys.,,N,Ma2JoAd-129,Ma2JoAd-131
+Ma2JoAd-131,﻿WITNESS,FIVE YEARS LATER,Joe,"Nice. And uh, how bout that job we talked about.",,N,Ma2JoAd-130,Ma2JoAd-132
+Ma2JoAd-132,﻿WITNESS,FIVE YEARS LATER,Tony,"Don't worry, I got more than enough work for both of us these days. You want a lift?",,N,Ma2JoAd-131,Ma2JoAd-133
+Ma2JoAd-133,﻿WITNESS,FIVE YEARS LATER,Joe,No thanks. Think I'll grab my own,,N,Ma2JoAd-132,Ma2JoAd-134
+Ma2JoAd-134,﻿WITNESS,FIVE YEARS LATER,,"[A note appears on the screen, apparently written by Tony.]",,Y,Ma2JoAd-133,Ma2JoAd-135
+Ma2JoAd-135,﻿WITNESS,FIVE YEARS LATER,Tony,"Welcome back to civilization, buddy! When you were having your fun in the south, I took care of your apartment and other stuff. I left a car for you outside the station, so you can drive around and see what's new. Just keep a low profile. Five years is still not long enough for some people to forget what you've done. When you're done sightseeing, you can get back to work. I'm sure there are people around here who might have some interesting jobs for you.",,N,Ma2JoAd-134,Ma2JoAd-136
+Ma2JoAd-136,﻿WITNESS,Get the car and get rollin'.,,[At the exit of the railway station he is welcomed by two scumbags.],,Y,Ma2JoAd-135,Ma2JoAd-137
+Ma2JoAd-137,﻿WITNESS,Get the car and get rollin'.,Scumbag 1,"Hey tons-o-fun, where you goin’!?",,N,Ma2JoAd-136,Ma2JoAd-138
+Ma2JoAd-138,﻿WITNESS,Get the car and get rollin'.,Scumbag 2,"Yeah, you forgot to pay the toll. That’ll be five bucks. (about 55 bucks in 2020]",,N,Ma2JoAd-137,Ma2JoAd-139
+Ma2JoAd-139,﻿WITNESS,Get the car and get rollin'.,Joe,"Wrong guy, wrong day.",,N,Ma2JoAd-138,Ma2JoAd-140
+Ma2JoAd-140,﻿WITNESS,Get the car and get rollin'.,,[He's kickin' their asses.],,Y,Ma2JoAd-139,Ma2JoAd-141
+Ma2JoAd-141,﻿WITNESS,Get the car and get rollin'.,Joe,Hope that was worth live bucks.,,N,Ma2JoAd-140,Ma2JoAd-142
+Ma2JoAd-142,GOING OUT OF BUSINESS,Get the car and get rollin'.,Tony,"Hey, Joe. Had to call in a favor to get you this so don't fuck it up. We got this thing goin' on with Derek. Hot cars and shit. Should be a lot of dough in it for all of us. But we gotta get rid of the competition first. Couple of little punks, too stupid to know who they dealin' with, set up shop in some warehouse in Millville. You get down there and light the place up good. Take 'em out of business and we'll take care of you. Poor sons of bitches won't know what hit them.",,N,Ma2JoAd-141,Ma2JoAd-143
+Ma2JoAd-144,SKUNK IN THE TRUNK,Get the car and get rollin'.,Marty,"Joe, I'm in big fuckin’ trouble here! I hit some guy - I mean some crazy fuck just jumped in front of my cab this morning! He came outta nowhere, he had to be like drunk or somethin'! The fucker's dead Joe! The cops’ll never believe it was an accident! You gotta help me! I didn't think was lookin' so I shoved his body in my trunk. You gotta do somethin' with it fast!",,N,Ma2JoAd-143,Ma2JoAd-145
+Ma2JoAd-146,LIMO MOVIN',Get the car and get rollin'.,Tony,"Hey, this car thing's startin' to pay off. Be surprised how many of these rich bastards are cheaper than the shylocks downtown. Just got an order for a limo at our, uh, discount prices. find it, bring it to the dock so we can move it fast and you’ll get your cut. But Joe, these downtown pricks want it perfect. You scratch it up and you get shit.",,N,Ma2JoAd-145,Ma2JoAd-147
+Ma2JoAd-147,WHEELS OF EVIDENCE,Steal the limo and deliver it to the docks.,Mike,"Some little shitbag that bought a Kingfisher from me, fucked up goo The asshole used the car in a fuckin' job, and then runs when the goddamn cops show up. Joe, the cops got that car in holding right now. They start looking around, and it's gonna make a lot of people we know nervous. You find that car and make it disappear, or it’ll be both our asses!",,N,Ma2JoAd-146,Ma2JoAd-148
+Ma2JoAd-149,CONNECTION,Steal the limo and deliver it to the docks.,Eddie,"Tony got word from Derek that some fuckers are tryin' to move some heavy shit through the docks without coughin' up their share. This ain't the usual stuff, we're talkin' army grade shit here, enough to make a fortune on the street. Tony pulled some favors, looks like it's me and him on this job. We gotta take 'em for all they got. I pull this off, could be the break I need to get back inside.",,N,Ma2JoAd-148,Ma2JoAd-150
+Ma2JoAd-151,CONNECTION,Steal the limo and deliver it to the docks.,Tony,"OK, listen Joey. This'll go a lot smoother if we do it nice'n quiet.",,N,Ma2JoAd-150,Ma2JoAd-152
+Ma2JoAd-152,CONNECTION,Steal the limo and deliver it to the docks.,,[Joe throws a grenade.],,Y,Ma2JoAd-151,Ma2JoAd-153
+Ma2JoAd-153,CONNECTION,Steal the limo and deliver it to the docks.,Thug,"What the fuck... Oh, shit!",,N,Ma2JoAd-152,Ma2JoAd-154
+Ma2JoAd-154,CONNECTION,Steal the limo and deliver it to the docks.,Joe,Great. Looks like we're doin' this the hard way.,,N,Ma2JoAd-153,Ma2JoAd-155
+Ma2JoAd-155,CONNECTION,Steal the limo and deliver it to the docks.,Tony,"That looks like the last of ‘em. Ok, I’m gonna go start up the train. You get the main gate open and get rid of the blocks under the train wheels. Hey, Joe! See that big fuckin' gate over there. Open it up already!",,N,Ma2JoAd-154,Ma2JoAd-156
+Ma2JoAd-156,CONNECTION,Steal the limo and deliver it to the docks.,,[They steal a train and go to a striptease bar.],,Y,Ma2JoAd-155,Ma2JoAd-157
+Ma2JoAd-157,CONNECTION,Steal the limo and deliver it to the docks.,Tony,"Nice goin, Joey. Tell ya what after we unload this shit, let's hit the town. I wanna introduce ya to a friend o' mine.",,N,Ma2JoAd-156,Ma2JoAd-158
+Ma2JoAd-158,CONNECTION,Steal the limo and deliver it to the docks.,Joe,"...so now Vito's in the big house, and I gotta look over my shoulder every two seconds.",,N,Ma2JoAd-157,Ma2JoAd-159
+Ma2JoAd-159,CONNECTION,Steal the limo and deliver it to the docks.,Eddie,"Yeah, yeah, I heard about that. But hey - Tony vouched for ya and ya done good tonight, so I tell ya what - ya keep up the good work, you keep your nose clean and I'll talk to the fellas... See what we can do about gettin' ya a pass.",,N,Ma2JoAd-158,Ma2JoAd-160
+Ma2JoAd-160,CONNECTION,Steal the limo and deliver it to the docks.,Joe,A pass? Whataya mean?,,N,Ma2JoAd-159,Ma2JoAd-161
+Ma2JoAd-161,CONNECTION,Steal the limo and deliver it to the docks.,Eddie,A pass. Means ya won’t have to worry about the Clemente guys no more. What do ya say?,,N,Ma2JoAd-160,Ma2JoAd-162
+Ma2JoAd-162,CONNECTION,Steal the limo and deliver it to the docks.,,[Joe agrees.],,Y,Ma2JoAd-161,Ma2JoAd-163
+Ma2JoAd-163,CONNECTION,Steal the limo and deliver it to the docks.,Eddie,"Alright, let's drink to it!",,N,Ma2JoAd-162,Ma2JoAd-164
+Ma2JoAd-164,OLD MAN'S PERILS,Steal the limo and deliver it to the docks.,Giuseppe,"Joe, thank God you are here. Three of my best customers pulled a big job that went bad. I just found out the cops are looking for them and I worry they will catch them soon. It is very risky for me to be on the street right now. Can you warn them? Joe, I've known these customers for years. They are like family. Do this as a favor for me, please.",,N,Ma2JoAd-163,Ma2JoAd-165
+Ma2JoAd-166,A LESSON IN MANNERS,Steal the limo and deliver it to the docks.,Eddie,"Joe, got a little here. Seems some fuck got a little too hands on with my number one girl at the cathouse last night. Scared her so bad she's refusin' to go to work. I ain't got time for this domestic shit, Joe. I want ya' to head to this fuck's place today, and make sure he understands the rules, Don’t go doin’ nothin' too crazy though, guys one of our best customers.",,N,Ma2JoAd-165,Ma2JoAd-167
+Ma2JoAd-168,SEND A MESSAGE,Steal the limo and deliver it to the docks.,Eddie,"Joe, looks like the DA is getting fuckin' greedy again. Sonnavabitch turned down this month's payoff, has the balls to say it ain't enough. That asshole just bought a new car with our fuckin' money and this is what I get. I want you to find the little shit's ride and leave a message under the hood. Harry'll set you up. Just remember Joe, I want him scared, not dead. And I want it done now!",,N,Ma2JoAd-167,Ma2JoAd-169
+Ma2JoAd-170,GUNRUNNING,Steal the limo and deliver it to the docks.,Eddie,"Just got my hands on a big score of guns I gotta move on, and I could use another guy. Tony's been right about you so far, so I'm thinkin' of cuttin' you in. There's a delivery of guns waitin' in Riverside that I need you to taker care of fast. You get the goods, then sell 'em quick to the local dealers. Don't fuck this up, and there'll be a nice cut in it for ya'.",,N,Ma2JoAd-169,Ma2JoAd-171
+Ma2JoAd-172,CHARLIE'S CAR,Steal the limo and deliver it to the docks.,Giuseppe,"Joe, I cannot thank you enough. My friends and I... we owe you. But there is still a small problem. My friends, they borrowed a car from Charlie for their job. The car needs to get back to Charlie but not if the cops are looking for it. Can you help me on this? I will make it worth your time.",,N,Ma2JoAd-171,Ma2JoAd-173
+Ma2JoAd-174,STOLEN GOODS,Steal the limo and deliver it to the docks.,Eddie,"Joe, some fuck just hit one of our armored trucks before we got a chance to unload the guns. Had to be an inside job. I don't need this bullshit right now. I don't care what you do or who you gotta kill, but you get our guns back, now!",,N,Ma2JoAd-173,Ma2JoAd-175
+Ma2JoAd-176,BOMB UNDER THE SEAT,Steal the limo and deliver it to the docks.,Giuseppe,"Joe, a customer came in today and offered me a good deal on his car. Cars are usually not my thing, but this deal is too good to pass and the guy desperately needs the cash. Can you take the car to Charlie and sell it? You know cars better than I do and I trust you will get us a fair deal. Of course, you will get a good cut from the profits. Be careful, Joe. There's something„. funny about this guy. He was anxious to give me the car.",,N,Ma2JoAd-175,Ma2JoAd-177
+Ma2JoAd-178,CAN'T STOP ME NOW,Steal the limo and deliver it to the docks.,Charlie,"Got a little situation here Joe. Did a little extra body work on a car as a special order. Rigged the brakes so they would give out after a few days. Problem is some dumb grease monkey here gave the car to the wrong guy. But there's some folk' we know that ain’t gonna be happy if that car ain't here when they need it. I need you to get it back. If you're lucky, the brakes will still work fine. But hey, way you drive, it's not like you use the things anyway.",,N,Ma2JoAd-177,Ma2JoAd-179
+Ma2JoAd-181,SUPERMARKET,Steal the limo and deliver it to the docks.,Joe,Who the fuck brings a Tommy to the grocery store?,,N,Ma2JoAd-180,Ma2JoAd-182
+Ma2JoAd-182,SUPERMARKET,Steal the limo and deliver it to the docks.,,[Joe and Tony kill every cop in the supermarket and catch the owner.],,Y,Ma2JoAd-181,Ma2JoAd-183
+Ma2JoAd-183,SUPERMARKET,Steal the limo and deliver it to the docks.,Tony,C'mere yo little bastard... Where's the key to the safe!? Better start talkin' while you can.,,N,Ma2JoAd-182,Ma2JoAd-184
+Ma2JoAd-184,SUPERMARKET,Steal the limo and deliver it to the docks.,,"[While Tony beats up the supermarket owner, the building is surrounded by police.]",,Y,Ma2JoAd-183,Ma2JoAd-185
+Ma2JoAd-185,SUPERMARKET,Steal the limo and deliver it to the docks.,Loudspeaker,You in the supermarket - This is the Empire Bay Police Department come out with your hands in the air.,,N,Ma2JoAd-184,Ma2JoAd-186
+Ma2JoAd-186,SUPERMARKET,Steal the limo and deliver it to the docks.,Tony,"Shit Joe, keep 'em busy. Almost done here…",,N,Ma2JoAd-185,Ma2JoAd-187
+Ma2JoAd-187,SUPERMARKET,Steal the limo and deliver it to the docks.,,[Joe starts shooting at the coming cops...],,Y,Ma2JoAd-186,Ma2JoAd-188
+Ma2JoAd-188,SUPERMARKET,Steal the limo and deliver it to the docks.,Loudspeaker,This is the Empire Bay Police Department. Drop your weapons and come out immediately!,,N,Ma2JoAd-187,Ma2JoAd-189
+Ma2JoAd-189,SUPERMARKET,Steal the limo and deliver it to the docks.,Tony," Hey, I can do this all fuckin' day. Just give us the damn key and we can all go home. What do you enjoy bein' a punchin' bag?!",(to the owner) ,N,Ma2JoAd-188,Ma2JoAd-190
+Ma2JoAd-190,SUPERMARKET,Steal the limo and deliver it to the docks.,The Owner,I ain't giving you shit!,,N,Ma2JoAd-189,Ma2JoAd-191
+Ma2JoAd-191,SUPERMARKET,Steal the limo and deliver it to the docks.,Tony,"Hey, it's your funeral.",,N,Ma2JoAd-190,Ma2JoAd-192
+Ma2JoAd-192,SUPERMARKET,Steal the limo and deliver it to the docks.,Loudspeaker,This is your last warning. Drop the guns and come on out!,,N,Ma2JoAd-191,Ma2JoAd-193
+Ma2JoAd-193,SUPERMARKET,Steal the limo and deliver it to the docks.,The Owner,"Ok, ok... umfp... Alright! Alright, that's enough… Cough!",,N,Ma2JoAd-192,Ma2JoAd-194
+Ma2JoAd-194,SUPERMARKET,Steal the limo and deliver it to the docks.,Tony,"Bout fuckin' time. Now let's go! We better get outta here, Joe. I don't think these are the regular cops. Shit. Unless ya brought your gas mask, that means we gotta go.",,N,Ma2JoAd-193,Ma2JoAd-195
+Ma2JoAd-195,SUPERMARKET,Steal the limo and deliver it to the docks.,,"[They run out of the administration office and get into a car standing on the podium. Breaking through the shop window, they leave.]",,Y,Ma2JoAd-194,Ma2JoAd-196
+Ma2JoAd-196,SUPERMARKET,Steal the limo and deliver it to the docks.,Tony,"Hahahaha, FLICK YOU!",,N,Ma2JoAd-195,Ma2JoAd-197
+Ma2JoAd-197,SUPERMARKET,Steal the limo and deliver it to the docks.,Joe,Yeah!!,,N,Ma2JoAd-196,Ma2JoAd-198
+Ma2JoAd-198,SUPERMARKET,Steal the limo and deliver it to the docks.,,[Joe arrives at the secret place of the Falcone family where someone is being tortured.],,Y,Ma2JoAd-197,Ma2JoAd-199
+Ma2JoAd-199,SUPERMARKET,Steal the limo and deliver it to the docks.,Carlo Falcone,Tell Rocco to come see me if he talks.,,N,Ma2JoAd-198,Ma2JoAd-200
+Ma2JoAd-200,SUPERMARKET,Steal the limo and deliver it to the docks.,,[He leaves.],,Y,Ma2JoAd-199,Ma2JoAd-201
+Ma2JoAd-201,SUPERMARKET,Steal the limo and deliver it to the docks.,Eddie,"It ain't like I'm squeamish or nothin'. I, I, I just don't wanna ruin another good suit. You're not havin ‘this one ya...",,N,Ma2JoAd-200,Ma2JoAd-202
+Ma2JoAd-202,SUPERMARKET,Steal the limo and deliver it to the docks.,,[Joe enters.],,Y,Ma2JoAd-201,Ma2JoAd-203
+Ma2JoAd-203,SUPERMARKET,Steal the limo and deliver it to the docks.,Eddie,"Hey, look who's here.",,N,Ma2JoAd-202,Ma2JoAd-204
+Ma2JoAd-204,SUPERMARKET,Steal the limo and deliver it to the docks.,,[Rocco comes out in his apron with blood all over him.],,Y,Ma2JoAd-203,Ma2JoAd-205
+Ma2JoAd-205,SUPERMARKET,Steal the limo and deliver it to the docks.,Rocco,"Ah, fuck... FUCK! God dammit. How many times I gotta tell ya? How many times!! Ya buy the good pliers. Not this cheap piece of shit! Who's this?",,N,Ma2JoAd-204,Ma2JoAd-206
+Ma2JoAd-206,SUPERMARKET,Steal the limo and deliver it to the docks.,Eddie,This is Joe. The guy I was tellin' ya about.,,N,Ma2JoAd-205,Ma2JoAd-207
+Ma2JoAd-207,SUPERMARKET,Steal the limo and deliver it to the docks.,Rocco,"Yeah, right. How ya doin', Joe. My guys, Eddie and Balls they told me you done some good work for us. Listen I got some more jobs for you now. You call these off, I'll have a discussion with that cocksucker Gurino for you. Sound good to you?",,N,Ma2JoAd-206,Ma2JoAd-208
+Ma2JoAd-208,SUPERMARKET,Steal the limo and deliver it to the docks.,Joe,Yeah sure.,,N,Ma2JoAd-207,Ma2JoAd-209
+Ma2JoAd-209,SUPERMARKET,Steal the limo and deliver it to the docks.,Rocco,Alright excuse us now would ya. Me and this shithead got work to do.,,N,Ma2JoAd-208,Ma2JoAd-210
+Ma2JoAd-210,SUPERMARKET,Steal the limo and deliver it to the docks.,,[He and Eddie are leaving.],,Y,Ma2JoAd-209,Ma2JoAd-211
+Ma2JoAd-211,SUPERMARKET,Steal the limo and deliver it to the docks.,Joe,Alright see you fellas later.,,N,Ma2JoAd-210,Ma2JoAd-212
+Ma2JoAd-212,SUPERMARKET,Steal the limo and deliver it to the docks.,Rocco, C'mon let's go. You're diggin' the damn hole.,(to Eddie) ,N,Ma2JoAd-211,Ma2JoAd-213
+Ma2JoAd-213,GREASEBALLS' ARENA,Steal the limo and deliver it to the docks.,Charlie,"Joe! Some fucks broke in here last night and ran off with a roadster. Had to be that prick greaser I just shit-canned. I've seen what those fuckers do with these things, Joe. When they're done racin' it, car wont even be good for parts. That car-ain't mine Joe. Belongs to someone with a lot more juice than me and you. You get it back for me in one piece and Ill take care of you big time. But Joe, I ain’t lookin' for a bloodbath here, I just want my car back. Try not to kill someone for a change then.",,N,Ma2JoAd-212,Ma2JoAd-214
+Ma2JoAd-215,HIT CONTRACT,Steal the limo and deliver it to the docks.,Rocco,"Alright Joe, got somethin’ for ya' that's a little more… delicate. Got word one of our guys' is lookin' to get himself promoted. Sonnavabitch is ready to make a move on Falcone. I need this asshole dead, today. Guy is well liked, don't think anyone, even Falcone will believe it. You take him out, but you make sure it don't get back to anyone, especially me. I got somethin' special for ya' to pull off the job. And Joe, you better not fucking miss.",,N,Ma2JoAd-214,Ma2JoAd-216
+Ma2JoAd-217,BET ON THAT,Steal the limo and deliver it to the docks.,Rocco,"Okay Barbaro, let's see if you're as good as they say. We got some two-bit bookie thinks he can run a side racket under our nose and not pay us our cut. Last mistake hell ever make. I need you to find this fuck and send a message to the rest of our guys. You find him, you kill him, then you take out his entire crew! Pull this off, come back and see me. Don't, and you’ll be prayin' for Luca's gentle touch when I'm through with you.",,N,Ma2JoAd-216,Ma2JoAd-218
+Ma2JoAd-219,PIECE OF CAKE,Steal the limo and deliver it to the docks.,Rocco,"Alright Joe, you done good. Looks like Balls and Eddie got it right for a change. Got a van I need picked up in the Uptown parkin' lot. This thing's got some important cargo Falcone wants delivered to him now. I need someone solid on this who ain’t gonna fuck up. Guess that's you. Get the van and bring it back, but make sure you don’t draw any heat on us. When you're through, see me about ham' that talk with Gurino for ya'.",,N,Ma2JoAd-218,Ma2JoAd-220
+Ma2JoAd-223,CATHOUSE,Steal the limo and deliver it to the docks.,Eddie,"Hey, Joe.",,N,Ma2JoAd-222,Ma2JoAd-224
+Ma2JoAd-224,CATHOUSE,Steal the limo and deliver it to the docks.,Joe,"Hey, fellas.",,N,Ma2JoAd-223,Ma2JoAd-225
+Ma2JoAd-225,CATHOUSE,Steal the limo and deliver it to the docks.,Rocco,So how'd it go?,,N,Ma2JoAd-224,Ma2JoAd-226
+Ma2JoAd-226,CATHOUSE,Steal the limo and deliver it to the docks.,Joe,I wasn't no picnic I'll tell yo that. I got fuckin' ambushed.,,N,Ma2JoAd-225,Ma2JoAd-227
+Ma2JoAd-227,CATHOUSE,Steal the limo and deliver it to the docks.,Rocco,"Alright, alright. We'll talk about it later. Excuse me for a minute, would ya, fellas.",,N,Ma2JoAd-226,Ma2JoAd-228
+Ma2JoAd-228,CATHOUSE,Steal the limo and deliver it to the docks.,,[Rocco goes to his office and nodding to the guard at the entrance. The guard nods back.],,Y,Ma2JoAd-227,Ma2JoAd-229
+Ma2JoAd-229,CATHOUSE,Steal the limo and deliver it to the docks.,Eddie,"Joe, why don’t ya go get us another round.",,N,Ma2JoAd-228,Ma2JoAd-230
+Ma2JoAd-230,CATHOUSE,Steal the limo and deliver it to the docks.,Joe,You got it.,,N,Ma2JoAd-229,Ma2JoAd-231
+Ma2JoAd-231,CATHOUSE,Steal the limo and deliver it to the docks.,,[Joe's going to the bar for drinks. In that very moment Rocco and his men leave the office and start shooting. Carlo Falcone is shot in the shoulder. ],,Y,Ma2JoAd-230,Ma2JoAd-232
+Ma2JoAd-232,CATHOUSE,Steal the limo and deliver it to the docks.,Rocco,Finish ‘em off.,,N,Ma2JoAd-231,Ma2JoAd-233
+Ma2JoAd-233,CATHOUSE,Steal the limo and deliver it to the docks.,Eddie,That son of a bitch... I fuckin' knew it!  Kill these fucks! I'll take care of Carlo. Get rid of these guys.,(to Joe) ,N,Ma2JoAd-232,Ma2JoAd-234
+Ma2JoAd-234,CATHOUSE,Steal the limo and deliver it to the docks.,Rocco,Fuck you!,,N,Ma2JoAd-233,Ma2JoAd-235
+Ma2JoAd-235,CATHOUSE,Steal the limo and deliver it to the docks.,Eddie,"Joe! Let's go. We gotta take these guys out. C'mon ya fucks! Yeah, how'd that feel. They're blocking the entrance! Shit! We gotta move, now! Through the dressin' room! C'mon let's go! Hey! What are ya waiting for, Joe! Alright, let's split up! You want the stage or the door! See ya soon. Try not to get killed huh? Don't let 'em get away! Fuck! This was my favorite fuckin' whorehouse too...",,N,Ma2JoAd-234,Ma2JoAd-236
+Ma2JoAd-236,CATHOUSE,Steal the limo and deliver it to the docks.,,[They're coming out of the building.],,Y,Ma2JoAd-235,Ma2JoAd-237
+Ma2JoAd-237,CATHOUSE,Steal the limo and deliver it to the docks.,Eddie,"Come on, Joe, we're goin' after ‘em.",,N,Ma2JoAd-236,Ma2JoAd-238
+Ma2JoAd-238,CATHOUSE,Steal the limo and deliver it to the docks.,,[They get in the car and drive away.],,Y,Ma2JoAd-237,Ma2JoAd-239
+Ma2JoAd-239,CATHOUSE,Steal the limo and deliver it to the docks.,Eddie,"Alright, get in there and take care of 'em.",,N,Ma2JoAd-238,Ma2JoAd-240
+Ma2JoAd-240,CATHOUSE,Steal the limo and deliver it to the docks.,Joe,You ain't even gonna help?!,,N,Ma2JoAd-239,Ma2JoAd-241
+Ma2JoAd-241,CATHOUSE,Steal the limo and deliver it to the docks.,Eddie,"Somebody's gotta stay here in case more of 'em show up. Look, you take care of this, and I'll take care of you. You have my word. Now get movin'.",,N,Ma2JoAd-240,Ma2JoAd-242
+Ma2JoAd-242,CATHOUSE,Steal the limo and deliver it to the docks.,,[Joe enters Rocco's secret hiding place. It looks like it's the same construction site where Joe and Vito will be tortured in chapter 14 of the original game - Stairway to Heaven.],,Y,Ma2JoAd-241,Ma2JoAd-243
+Ma2JoAd-243,CATHOUSE,Steal the limo and deliver it to the docks.,Rocco’s Thug,Kill this fat fuck!,,N,Ma2JoAd-242,Ma2JoAd-244
+Ma2JoAd-244,CATHOUSE,Steal the limo and deliver it to the docks.,,"[Joe starts climbing the stairs to the top, killing Rocco's men.]",,Y,Ma2JoAd-243,Ma2JoAd-245
+Ma2JoAd-245,CATHOUSE,Steal the limo and deliver it to the docks.,Thug,Come get some asswipe!,,N,Ma2JoAd-244,Ma2JoAd-246
+Ma2JoAd-246,CATHOUSE,Steal the limo and deliver it to the docks.,Thug,"Uhh, shit... I don't wanna die, please!",,N,Ma2JoAd-245,Ma2JoAd-247
+Ma2JoAd-247,CATHOUSE,Steal the limo and deliver it to the docks.,Thug,"Oh, no!",,N,Ma2JoAd-246,Ma2JoAd-248
+Ma2JoAd-248,CATHOUSE,Steal the limo and deliver it to the docks.,Thug,"No, please, I got a family!",,N,Ma2JoAd-247,Ma2JoAd-249
+Ma2JoAd-249,CATHOUSE,Steal the limo and deliver it to the docks.,Thug,Don't let him through!,,N,Ma2JoAd-248,Ma2JoAd-250
+Ma2JoAd-250,CATHOUSE,Steal the limo and deliver it to the docks.,Thug,Let's go! Take him down!,,N,Ma2JoAd-249,Ma2JoAd-251
+Ma2JoAd-251,CATHOUSE,Steal the limo and deliver it to the docks.,Thug,God dammit somebody kill him already!,,N,Ma2JoAd-250,Ma2JoAd-252
+Ma2JoAd-252,CATHOUSE,Steal the limo and deliver it to the docks.,,"[At the top of the construction site, Joe finds Rocco.]",,Y,Ma2JoAd-251,Ma2JoAd-253
+Ma2JoAd-253,CATHOUSE,Steal the limo and deliver it to the docks.,Rocco,"Big mistake, asshole. If you had any idea what fucking Carlo's gonna do…",,N,Ma2JoAd-252,Ma2JoAd-254
+Ma2JoAd-254,CATHOUSE,Steal the limo and deliver it to the docks.,,"[Joe is pointing his gun at him. Meanwhile, Eddie quietly drinks whiskey in his car when suddenly Rocco's body falls on his car’s hood. He and Joe are heading out to meet Carlo Falcone. Luca's there, too. Joe smiles and shows him his middle finger.]",,Y,Ma2JoAd-253,Ma2JoAd-255

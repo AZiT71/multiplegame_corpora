@@ -1,0 +1,4356 @@
+Chapter 1Edit
+Invincible City Slavia (無敵都市　スラビア)Edit
+Classroom A
+
+Gulliver Boy Character 004
+よっ！ 暴れん坊将軍！　ガリバーちゃん！ また　サボるのかい!?
+Gulliver Boy Character 005
+今は授業中よ！　話しかけないで！
+Gulliver Boy Character 004
+ちゃんと席に ついてないと シロジー先生に　しかられるぞ！
+Gulliver Boy Character 005
+ガリバーって　どこかみんなと　違うのよね。　そこが魅力<3
+Gulliver Boy Character 004
+あーあ　タイクツしちゃうよ！！　シロジー先生の話　長いからなぁ…
+Gulliver Boy Character 004
+ムニャムニャ……カルボナーラ……
+Event: Exit Classroom
+
+Gulliver Boy Character 006
+こら！！　ガリバー 授業をサボるのか！ お前はこれ以上単位を落としたら落第なんだぞ!!	
+Gulliver Boy Character 001
+シロジー先生!! オレはもっと 楽しく 魔法を おぼえたいんだ。 こう毎日 本ばっかり 読んでたんじゃ 脳みそが くさっちまうぜ! じゃあな!!	
+Gulliver Boy Character 006
+おいこら ガリバー!! …ガリバー!!
+School hallway
+
+Gulliver Boy Character 009
+ガリバー！　また　お前か！まだ授業は　終わっていないぞ！ 早く　教室に戻れ！
+Classroom B
+
+Gulliver Boy Character 008
+どこかで　こういう箱を見つけたら すぐに　開けてみると　いいわ。 ステキな宝物が　入ってるわよ！
+Gulliver Boy Character 007
+雷の魔法を　見せてやるよ！それ!!　サンダー／サンダーボルト サンダーウェイブ／サンダーストーム！
+Gulliver Boy Character 004
+チャプター先生は　この魔法学校の 校長なんだ。…でも　そのくせして 授業は　いっつも　自習なんだ。きっと　裏庭で　サボってんだぜ。 ずるいよな…
+Gulliver Boy Character 005
+『２ぼたんをおすと　きゃんぷがめん』チャプター先生の出した　宿題なんだけど　いまいち意味が　わかんないのよね…
+Gulliver Boy Character 005
+『まめなセーブは身を助ける！』　チャプター先生から教わった格言よ。　セーブは　宿屋で　できるんですって。
+Gulliver Boy Character 005
+シロジー先生は　たとえて言うなら モチをついたみたいな　性格だから嫌い！チャプター先生は　たとえて言うなら 粉をふいたみたいな　性格だから好き！
+Gulliver Boy Character 004
+時々　ベランダから抜け出すような ヤツがいるけど… ぼくは　マジメに勉強するんだ。
+Gulliver Boy Character 007
+魔法は　強さによって名前が変わるんだ。 炎の魔法なら　ファイア／ファイアボール ファイアウォール／ファイアストーム! ……どう？　ぜんぶ　言えたでしょ？ ついでに　見せてあげるよ！ それ!!
+Gulliver Boy Character 008
+氷の魔法の活用は　アイス／アイスアロー アイスブラスト／アイスストーム!! いくわよぉ!! …くすんっ　…しっぱい…
+Behind the School
+
+Event: Chat with the Principal
+
+Gulliver Boy Character 010
+おっ！ガリバー!! また授業を サボっとるな？	
+Gulliver Boy Character 001
+チャプター先生！　毎日まいにち　勉強勉強って　こればっかりじゃ　つまんねぇよ！ もっと簡単に　おぼえられる　魔法ってのは　ないのかよ？！	
+Gulliver Boy Character 010
+まぁ　あせるでない！　ガリバー…　お前は『魔法マインド』という言葉を　聞いたことが　あるか？	
+Gulliver Boy Character 001
+ない！
+Gulliver Boy Character 010
+ふふふ…そうかい。魔法マインドさえ　持っていれば　魔法は自然と心の中に　浮かんでくる　ものなのじゃがなあ…	
+Gulliver Boy Character 001
+それ！　それだ！その魔法…ウインド…とかいうヤツぁ　どうやったら　手に入るんだ？	
+Gulliver Boy Character 010
+『魔法マインド』じゃ…ガリバー…　魔法マインドは　おのれの心を　みがくことによって　開く…	
+Gulliver Boy Character 001
+心をみがく　…どうやって？
+Gulliver Boy Character 010
+よいか　ガリバー…　心というものは　みがこうと思って　みがけるものではない。 その時　その時を…　一生懸命　生きることによって　おのずと　みがかれていく　ものなのじゃ。	
+Gulliver Boy Character 001
+わかんねえよ！もっと　スキッと言ってくれ！	
+Gulliver Boy Character 010
+ほほほ…お前は　どこか違う子じゃ。　きっといつか　わしの言っている　意味が　わかるはずじゃ…	
+Gulliver Boy Character 001
+そうか……　うん！ちょっと町に出て　心をみがいてくるぜ！！
+Gulliver Boy Character 010
+まぁ　よいか…　心の窓は　自分自身で　開くものじゃからな…
+Streets
+
+Gulliver Boy Character 011
+最近　街の外にいるモンスターが 強なってのう…港町に行くにも ひと苦労じゃよ…
+Gulliver Boy Character 012
+王宮のコンチキ王様って　ステキよね。 あの人　むかし　アルバーンっていう国を たった一人で救った英雄なんですって。
+Gulliver Boy Character 013
+…ガリバー！　こいつの言ってることは 気にしないでくれよな。 なんせ　異常に物覚えが　悪いんだ。
+Gulliver Boy Character 013
+あんた　見かけない顔だな？　旅のお方かい？　ここはユーゴ最大の都市　スラビアだ。
+Gulliver Boy Character 013
+よう！　ガリバー！ おまえん家って　金持ちなんだな… なんてったって　おまえん家の別荘はnこの　スラビアで　一番大きいもんな…n…なんか…くやしいよな…
+Gulliver Boy Character 012
+あなたのお家の　リスタおばさんってやさしいし　料理は上手だし… よく気がつくし　きれい好きだし… ほんっとに　一流の家政婦よね。n私も　見ならわなくっちゃ！
+Gulliver Boy Character 012
+あら？　ガリバー！ また授業をサボったの？ しょうがない子ね… 元気が　ありあまってるみたい… でも　街の外には　出ちゃダメよ。 モンスターが　ウヨウヨいるんだから…
+Church
+
+Gulliver Boy Character 017
+聖魔教会に　寄付したら シンケーツーが　治ったんじゃ！ ああ…ありがたや…ありがたや…
+Gulliver Boy Character 012
+呪いのアイテムって　呪いを解くと すごく　貴重なアイテムになったり　するのよね…だから　やっかいなのよ。
+Gulliver Boy Character 013
+あの　ばぁさんは　あ言ってるけどな… オレは　イマイチ信用できねぇんだよな… 寄付なんて　しないほうがいぜ！
+Gulliver Boy Character 013
+呪いのアイテムってのは　恐ろしいぜ… 持っているだけで いろんな不幸なことが 起こるんだ。バトルのたんびに　毒にかったり… 歩くスピードが　スゲエ遅くなったり… もし　呪われちまったら そのアイテムを捨てるか　こで呪いを 解いてもらうかしねぇと　大変だぜ!!
+House A
+
+Gulliver Boy Character 013
+ガリバー！　聞いたぜ！　おまえさん　サン・マルコの鐘とかいうのを　ぶっ壊したんだってな。それで　とっ捕まって　こんな　イナカの魔法学校に　ムリヤリ　入れられたんだってな？　いやぁ　暴れん坊だとは聞いてたけど…　そのへんのガキとは　スケールが違うな…　いつか…大物になるぜ！！
+House B
+
+Gulliver Boy Character 017
+お父上の　パ・トスカーニさんは　お元気かね？　あの方には　むかし　世話になったのじゃよ。　執事のスミスさんも　たっしゃでn　やっておるかのう…ベニスに戻ったら　お二人に　よろしく　伝えておくれ！
+School Hallway
+
+Gulliver Boy Character 009
+ガッ　ガリバー!! いったい　どうやって　外に出たんだ？……まったく　しょうがないヤツだ… シロジー先生　カンカンに　怒ってたぞ！ もう　どうなっても知らんからな!!
+Item Shop
+
+Gulliver Boy Character 013
+ガリバー！　いいこと　教えてやるよ。 モンスターの中にはな… 毒を吐いてくるヤツがいるんだ。そんなときは　ここの店の解毒石を使え！ 体中の毒が　すぅっと　抜けていくぜ!!
+Gulliver Boy Character 020
+戦いの極意は　道具を使いこなすこと… 回復石は　われ　無敵騎士団も 愛用しています！ スキッとさわやか!　確かな効果！ ユーゴ製薬の　回復石!!　お近くの 道具屋または　コンビニでどうぞ！
+Gulliver Boy Character 016
+ガリバー！　街の外に出るんなら　ウチの 回復石 買ってけよ！　昔から言うだろ！n『そなえあれば　うれしいな』ってな！日ごろから　準備が良ければ うれしいことも　あるだろうって意味だ。 おぼえとけよ！　さぁ何が欲しいんだ？
+Pub
+
+Gulliver Boy Character 015
+ガリバー!!　ここには　お前に飲ます 酒なんて　ないぞ！ さぁ！　帰った帰った!！
+Gulliver Boy Character 014
+…うぃっく！　…ヒックッ…なんでぇ！ みんな　ジロ見やがって！　そんなに オレたち獣人が　めずらしいのか？ バカ野郎　獣人だからってレタス… じゃなかった！　キャベツ… じゃなかった！　差別するなよな!!
+Gulliver Boy Character 012
+酒場ってさ　いろんな人が集まるから 情報を　集めるときは　便利よ。 ついでに　お酒も飲めるしね！　ふふ。
+Gulliver Boy Character 013
+世界中を旅してるとさ いろんな獣人に　出会うんだ。 オレが知ってるだけでも…馬獣人だろ… …象獣人だろ…ウサギ獣人だろ… …とにく　いろいるんだ。
+Gulliver Boy Character 016
+あっ！　不景気だ！！　金がねぇのに 仕事もねぇ！　いっそアルバーンに行って 海賊にでも　なるかな…
+Toscani House (トスカーニ家・別)
+
+Event: Enter Toscani House
+
+Gulliver Boy Character 019
+ガリバー坊ちゃん!! 学校は どうしたんです？ どうして そんなに お勉強が 嫌いなんですか？…全く情けない!!	
+Gulliver Boy Character 001
+うわっ 放せよ!! リスタ!!	
+Gulliver Boy Character 019
+今日という 今日は 許しません!!	
+Gulliver Boy Character 019
+いいですか？　ガリバー坊ちゃん!! あなたは ベニス王に もっとも 信頼されている 大富豪・トスカーニ家の ひとり息子なのですよ。こんなことで 万が一 魔法学校を 落第するような事になればベニスにいらっしゃる お父さまに 何と申し開き すれば良いか… 坊ちゃを お預り している このリスタ 今日は鬼になります。今日の食事は抜き！ しばらくこの部屋で 反省なさってください!!
+Event: Read Edison's Letter
+
+Gulliver Boy Character 002
+テーブルの上に　手紙があります。 取りますか？ はい いいえ ガリバーは　手紙を読みました。	『やぁ ガリバー！元気でやってるい？ ボクだよ。 エソンだよ！ 学校は 楽しいかい？　でも 君が毎日 机にかじりついて 勉強している姿なんて とても 想像できないな… にゃはははは… あっ ごめんごめん 君はボクをかばって 学校に 行かされたような もんだもんね。 …知ってるんだ。 君ん家の執事の スミスが イヤミったらしく 教えてくれたよ。 ボクが あの空中移動装置に 自爆スイッチさえ つけなければ あんな騒ぎには ならなかったもんね。 でもね ボクも反省して 今度は もっとごいモノを 発明したんだ。 君に まっさきに 見せてあげるから 早く ベニスに戻っておいでよ！学校なんて　とっとと卒業してさ！ 君のいないベニスは　タイクツで　死にそうだよ。　じゃあね！！　エソン』
+Event: Phone Call with the King
+
+Gulliver Boy Character 021
+ガリバーよ!! わしじゃ！ コンチキ王じゃ!! お前が レベルアップするまで あと １０の経験値が必要!! ここまでの冒険を 記録するかね？ …あはのは!! …冗談だよーん！ 冗談！ 王として この世に 生を受けた以上 こんな アリガチな セリフを 一度で いから しゃべって みたかったのさ！ おお そうだ 皆が 誤解すると いけないから もう一度 ここで おさらい しておこう… この世界は セーブは 宿屋でしか 出来ない。 ４つのファイルに 自由に 書き込めるから 便利だぞ!! それじゃぁな!!	
+Gulliver Boy Character 021
+もしもし…かんじんの 用件を 忘れてたぞ!! もしもし…もしもし…おお つながってるか！ あのね！　またさ… わしとバトルで 勝負しようじゃないの?! この ユーゴ大帝国 広しといえども わしほどの強者は いないわけよ！ 国民も兵も みんな そんなわしを 尊敬してた… お前が この国に来るまでは！ これまでの お前との勝敗は… えーと…わしの ０勝１６敗…くわああ！ これは なにかの間違いだ！ 絶対間違い！　今度こそ勝つ！ 絶対勝てるのだ！　あはははは… すごい秘密兵器を 用意したのだ！ 待ってるぞ！　王宮に来い！待たせるなよ！　逃げたら 一生 負け犬と 言いづけてやるぞ！
+Event: Exiting Toscani House
+
+Gulliver Boy Character 019
+ガリバー坊っちゃん！ 大変です！ 王宮のコンチキ王様から 招待状です！	リスタは　ガリバーに 招待状を　手渡しました。
+Gulliver Boy Character 001
+ふーん…	
+Gulliver Boy Character 019
+さあ 早く 行ってらっしゃい！
+Gulliver Boy Character 019
+さあ！　ガリバー坊ちゃん！ 王様が　お待ちかねです。 早く　王宮へ…
+Inn
+
+Gulliver Boy Character 011
+宿屋に泊まるときは　ゆめゆめ セーブを　忘れるでないぞ！ これが一番　大事なことじゃ!! そういえば　むかし　担任の先生が よく言っておったのう… 『まめなセーブは身を助ける！』とな…
+Gulliver Boy Character 013
+宿屋に泊まりゃぁ　毒だろうが何だろうが スキっと回復しちまうぜ!! ……ただよ…呪いだけは…ダメだ…
+House C
+
+Gulliver Boy Character 012
+この子の病気はね　お薬じゃ治らないの… でも　心配しなくていわ。 病名は　け・びょ・う！けびょうって　言ったって　毛のはえるn病気じゃないわよ！　勉強がキライだから ズル休み　してるの。まったくもう…
+Gulliver Boy Character 008
+ガリバー君じゃない？　私よ。イリアよ！ …なんだか　さいきん体がだるくって… 今日も学校　休んじゃった。
+Castle
+
+Gulliver Boy Character 020
+ガリバー。王様が　お呼びだぞ！ どうせまた　バトルごっだろ？ たまには　負けてやれよ！
+Gulliver Boy Character 020
+いいですか？　接待バトルですよ!! 本気出しちゃ　ダメですよ！
+Gulliver Boy Character 020
+戦争を　やったことのない騎士団なんて 税金の　ムダ使いのような気もしますが… でも　ひょっとしたら それが平和て　ものなのかも しれませんよ。
+Gulliver Boy Character 020
+バトルの曲について 私に一言 説明させて　いただけませんか？ 説明を聞く　聞かない もう　お気づきになってるかも　しれませんけど　バトルをしている時に　急に　曲が変わることが　あるんです。 じゃーん！　じゃじゃじゃじゃーん！　っていう感じの曲…あっ！　口で言うより　聞いて　いただいた方が　早いですね！
+はい！　鳴らしました！　この曲！　これは　ガリバーさん！　あなたの　テーマ曲んです！　あなただけのために　天才音楽家の　ジャスティス・タナカ先生が　作曲を　なさったんです！　いや　うらやましい！　バトル中に　この曲が　かったら　もう　イケ状態！　我が道に敵無し！　っていう　合図なんです。　どうです？　い曲でしょ？　『来た！　来たぁ！』って　気分に　なりませんか？　これで　私の説明は　終わりです。曲を　止めますね。　…よいしょっと！　では！　がんばって下さい！　そして　国中に　あなたのテーマ曲を　鳴り響かせて下さいね！
+
+Gulliver Boy Character 020
+むかし　コンチキ王様の家来に 『無敵商人　ビッグ・マウス』という 獣人が　おりましたが…　ある日　とつぜん旅に出て それっきり　ゆくえ不明です。
+Gulliver Boy Character 020
+コンチキ王様は　『無敵』という言葉が 好きなのです。 王様が『無敵王』なら 王宮は『無敵王宮』… このスラビアの街は『無敵都市』… 我々も『無敵騎士団』どと 名乗っています。 たしかに　戦いに負けたことは 一度もありません。なにせ 戦争を　やったことがないもので…
+Event: Battle with the King
+
+Gulliver Boy Character 021
+ああ 遅いぞ ガリバー！ 今日は 絶対に 勝つからな ！ さあ バトルだ ！バトルぅ！	
+Gulliver Boy Character 021
+わしばかり 秘密兵器を用意して ずるいなんて言われちゃ かなわんから… お前に バトルの極意を授けちゃう！ なんて 心が広い王様… いいか 一回しか教えないぞ！ 『左手』というのが 必殺攻撃コマンド！ 行くぞ！　ガリバー！　覚悟しろ！	
+Gulliver Boy Character 021
+今のは 練習じゃ練習… あははは… それでは 本気を出していくぞ!!
+Gulliver Boy Character 021
+(win) あー！ くやしい！ くやしい!! くやしーーい！ また来るんだぞ！ 金貨１００枚を　もらいました。	
+Gulliver Boy Character 021
+(lose) やーーーっと 勝ったぞ！ わーーーい！　わーーーい！ わーーーい！ ほんじゃ　わしの自慢話を聞け！
+Event: Victorious, the King Tells His Tale
+
+Gulliver Boy Character 021
+昔 わしがモテだった話をしよう！ あれは アルバーンという町に 旅をしたときのことだ…
+そこの酒がうまくて うまくて… わしは つい飲み過ぎて ウトと眠ってしまった。 ふと気がつくと そこは 突然 お花畑じゃないか！ ピンクのハスの花が咲き乱れ とても 幻想的な風景であった. 『お目覚めですか コンチキ王様…』 その声に振り返ると 美しいブリジッドが 悲しい顔で 立っていた。 『勇敢な無敵王様 助けてください！』 『あなたの その悲しみを とりのぞき わたしに　笑顔を見せてくれるのなら　どんなことでも　いたしましょう…』 『やはり　あなたは　勇敢なお方…　どうか　スネーク山の大蛇を　やっつけて下さい！』 『大蛇は一年に一齠　女を食べるのです！　私たち海の民は　山の神である　蛇に弱いのです。』 『だから　女をさしだし　大蛇が　あばれないように…　今年は　わたしが…』 『そんな　ひどいことは　ゆるせん！　よし！　退治してやる！』 と　わしは　天馬を呼び　天空をかけ　スネーク山へと　向かった。 だが　一転にわかに　黒雲がわきあがり　雷鳴がとどろくと　ビカビカビカーッ！ しかし　わしは　少しも　さわがず　天馬をあやった！ そこへ　いきなり　雲を割って　大蛇が　襲いかってきたのだ！ わしは　腰に下げた『王様の剣』をぬくと　大蛇に向かって　斬りつけた。 だが　大蛇は火炎を吐きつけ　『王様の剣』を溶かした。　やつは　強い！　メチャメチャ強い！ さすがの　わしも　ビビった！　はじめて　負けるかもしれない…　だが　わしは　無敵王だ！ 勇気をふりしぼった！　すると　どうだ…勇気のしずくが　『灼熱の剣』にかわった！ 『わしは　負けないーーーー！』 そして　大蛇の死闘は　一昼夜つづいた！　二日目の朝がきた… すでに　わしの体力は限界だ…　最後の力をふりしぼった！ 『灼熱の剣』が雄叫びをあげた。　グオオオオオオオオオオーーー！ 『灼熱の剣』が　大蛇にからみつき　大蛇は　スネーク山に封印された… そして　わしは　アルバーンの英雄なった。　女たちと　毎夜毎夜の宴会じゃ！ いやー　そのすごいこと…　強い男は　モテるのだ！　ワハハハハハハハハ！　ハハのハッ！
+
+Gulliver Boy Character 021
+どうじゃ　ガリバー？　もう一度　バトルするか？　はい　いいえ
+Streets
+
+Gulliver Boy Character 007
+ガリバー！！　大変だよ！！　たった今　職員会議で　君の追試が　決まった　らしいんだ！！ …追試に合格しなきゃ　落第だって！！　すぐに　学校に行きなよ！！
+School Hallway
+
+Gulliver Boy Character 009
+ガリバー！　追試だって？　だから　言ったじゃないか！
+きっと　試練の洞窟だぞ！　…あっ…なんて　恐ろしい…とにく　くわしい話は　シロジー先生から聞け！
+
+Classroom A
+Event: Teacher Tells About the Exam
+
+Gulliver Boy Character 006
+おお　サボりのガリバー君！！　これは　ゆっくりな　ご到着じゃな！さっそく　追試の内容だが…オホン！ よいか　ガリバー！　試練の洞窟に行き　『黒い筒』を　取って来るのだ！…あそこは恐ろしい場所だぞ！！ まぁ　無理だと思ったら　さっさと　あきらめて　ここに戻ってくることだな… そして　もう一年　みっちり　勉強して　もらおうじゃないか！ これが　洞窟の鍵じゃ！　さあ　『黒い筒』を取って来い！
+Gulliver Boy Character 006
+試練の洞窟は　この街の南じゃ！　ま　せいぜい　ガンバルことだな！
+OverworldEdit
+Gulliver Boy Character 000
+この先　無敵都市スラビア
+Gulliver Boy Character 000
+北…無敵都市スラビア 南…試練の洞窟
+Gulliver Boy Character 000
+この先　ユーゴの港
+Cave of Trials (試練の洞窟)Edit
+Gulliver Boy Character 007
+３つの部屋は　クリアーしたんだ…　だけど…最後の部屋が…恐ろしい…　…うっ…
+Gulliver Boy Character 007
+だめだよー。難しいよー。　ひとつも　できないよー。
+Gulliver Boy Character 007
+…あ…足が…すくんじゃて…　…ガリバー…ボクは　もうダメだ…　…そ…そういえば…
+Event: Boss Battle
+
+Gulliver Boy Character 022
+ほう　よくぞ　こまで来れたな！　百年ぶりに　バトルが　できるわい！ わしの力が　お前の自信を　打ち砕き　恐怖　憎悪　悪夢　虚脱 あらゆる力が　お前に人間の弱さを　思い知らだろう… さぁ　来るがよい！
+Event: Post-Battle
+
+Gulliver Boy Character 010
+よくやった…ガリバーよ！はははははははは！　わしじゃ　チャプターじゃ。 お前を　試したのは…　大いなる可能性を　見たからじゃ。　お前は　百年に一度のz09才能を持っておるこの試練によって…今　お前の身体に　魔法マインドが宿った。	
+Gulliver Boy Character 001
+魔法マインド？！	
+Gulliver Boy Character 010
+うむ！　そうじゃ。　もう　わしが教えられることは何もない！　あとは　お前自身の生き方じゃ… おのれの　信じる道を進め！さあ　その『黒い筒』を　開けてみるがよい！
+Gulliver Boy Character 001
+…こ　これは卒業証書？	
+Gulliver Boy Character 010
+はははは…　わしの役目も　おわったようじゃ…　ここを出るがよい…	キャンプ画面の　コマンド『能力』が　使えるようになりました。
+ガリバーは　ファアの魔法を　おぼえました。
+
+Gulliver Boy Character 007
+やっぱ　おめぇはスゲェよ！ あの試練を　クリアーしちまうなんてな!!
+Gulliver Boy Character 007
+スゲェや！　ガリバー！　卒業だって?! ようっし!! オレも負けてられないぞ!!
+Gulliver Boy Character 008
+おめでとう！　ガリバー!!　あなたって スゴイのね…たとえて言うなら ヘビに にらまれたようなゴさよね。
+Gulliver Boy Character 008
+おめでとう！　ガリバーg00 私　信じてたのよ！　あなたなら… きっと　大丈夫だって…。
+Gulliver Boy Character 007
+…そ…それは…卒業証書…… やったね！　ガリバー!! これで　キミもベニスに帰れるんだね！
+Gulliver Boy Character 007
+卒業おめでとう！　ガリバー！　キミは　もう魔法が　使えるんだね！　すごいや！　ボクも　がんばらなくちゃ！
+Gulliver Boy Character 010
+ガリバーよ！　さらに心を磨け！　そうすれば　たくさんの魔法を　憶えることが　出来るじゃろう… さぁ　ゆけ！！　お前にとって　この国は　せますぎる　ようじゃからな！！
+Port of Yugo (ユーゴの港)Edit
+Streets
+
+Gulliver Boy Character 019
+ガリバー　坊っちゃん！ ご卒業　おめでとうございます！ これでようやく　ベニスに帰れますね！ 坊ちゃを　おむかえに 執事のスミスが　まいりましたよ！ 船の準備も　できております。 どうぞ…おたっしゃで！　時々は… …ユーゴに遊びに　来てくださいね！
+Event: Get On the Boat
+
+Gulliver Boy Character 024
+ガリバー 坊っちゃん！執事のスミスめに ござります！ すこし見ぬ間に... なんと 大きくなられた ことでござんしょう… まさに かわい子には旅… でござりまするな…	
+Gulliver Boy Character 019
+お父さまの いいつけで スミスさんが きたのです…さぁ 坊っちゃん！ベニスに帰れますよ！ 船が出ます！準備はいですね？	
+Gulliver Boy Character 019
+(choose no) もう 出発なのに… まだ どこかで 遊びたいんですか… まったくもう…
+Gulliver Boy Character 024
+このスミスが 船長と 交渉いたしますです！ 坊っちゃんの 好きになさりませ！ 準備が できしだい 船を出すことに いたしましょう！	
+Gulliver Boy Character 024
+(choose yes) それでは 坊っちゃん 出航ですぞ!! いざ！ ベニスへ！
+Gulliver Boy Character 019
+もう　出発なのに… まだ　どこかで　遊びたいんですか… まったく　もう…
+Chapter 2Edit
+Kingdom of Venice (ベニス王国)Edit
+Event: The Butler Takes Gulliver Home
+
+Gulliver Boy Character 024
+さぁ坊っちゃん！ ベニスに 着きましたぞ!! 美しき アドリア海の花嫁… うるわしの都 ベニス!! ささっ お屋敷へ まいりましょうぞ!!	
+Gulliver Boy Character 024
+さぁ　だんな様が　お待ちです。 奥へどうぞ!!
+Gulliver's House - 1st Floor
+
+Event: Dad and Lawrence
+
+Gulliver Boy Character 028
+…まったく やっかいな 事にったな…	
+Gulliver Boy Character 029
+え…このまでは…ベニスは…	
+Gulliver Boy Character 028
+何とか 手を打たねば… …ん? おお!! ガリバー!! 戻って来たんだな!! ちょうどい！ 紹介しよう。 息子のガリバーだ。	
+Gulliver Boy Character 029
+初めまして。 ロレンスと申します。
+Gulliver Boy Character 028
+彼はもともと アルジェという国の 王様だったんだ。 しかし 今は国を捨て こうして 放浪の旅をしている…	
+Gulliver Boy Character 029
+…トスカーニ様…昔の話です…	
+Gulliver Boy Character 028
+ああ 私だ…?! うん...うん？ ガリバー! すまないが 急な用事が 出来てしまったんだ。 …ちょっと 出かけて来る！ さぁ行こう!! ロレンス!!	
+Gulliver Boy Character 001
+ったく 何なんだよ…
+Gulliver Boy Character 029
+ずいぶん　ヤンチャをしたそうですね。　でも　人生は　チャレンジです！　いっぱい　遊ぶことですよ… これは…お父さまに　ナイショです…	ロレンスは　ガリバーに　金貨１０００枚を　手渡しました。
+Gulliver Boy Character 024
+お出かけですか？　坊っちゃん　ベニスの街を　見て回るのは　けっこうなことですが…
+あのエソンとか　いう少年と　遊ぶことだけは　許しませんぞ。
+
+ガリバーは　本の背表紙を　読みました。背表紙には　こう書かれています。 『かなりエッチな本』 ガリバーは　前かがみになってしまいました。
+Gulliver's House - 2nd Floor
+
+Gulliver Boy Character 025
+雪のノースランドにて… 宿屋なる少年・アイアンコングと…
+Gulliver Boy Character 026
+マルセイユタワーにて… レジスタンスの女戦士・ジャンヌと…
+Gulliver Boy Character 027
+シチリア海岸にて… レッド・マと　その娘ニキータ。 ガリバー　３歳。
+Gulliver Boy Character 026
+メシュナ大帝国・王宮にて 王女様に　えっけん。
+Gulliver Boy Character 025
+クリミアにて　妖精ティンクと出会う。
+Chinatown (中華街)
+
+Gulliver Boy Character 031
+さぁさ　イラシャイ　いらしゃい ４０００年の歴史を誇る　中国大魔術団！ 見なきゃ　損アルよーー!! お　ガリバー坊ちゃん！ ひさしぶりアルね！ 中で　リー１０倍博士　待ってるアルよ！ 見せたいものある　言ってたアル！ 楽屋に　いるアル！　ささ　入るアル！
+Chinatown Tent
+
+Event: Meet Phoebe
+
+Gulliver Boy Character 032
+おおっ ガリバー! 戻ってきたのか？ わしじゃ！リー１０倍博士じゃ!! しばらく見ないうちに ずいぶんと たくましくなったな。 おお そうじゃ お前に よい物を見せてやろう。	
+Gulliver Boy Character 032
+大変じゃ！ 妖精が 女になりおった!!	
+Gulliver Boy Character 001
+女に？ なんだそりゃ？
+Gulliver Boy Character 032
+古い文献に 確か書いてあったぞ！ 妖精は最初 男でも女でもない 中性として 生まれてくる。そして 初めて恋をした相手が 男なら女に… 女なら男に その姿を 変えるとな…	
+Gulliver Boy Character 001
+恋?! ででで でもよ!! 恋って まさかこいつ!!	
+Gulliver Boy Character 999
+なによぉ！ あなたが あたしを 女にしたのよ。 責任取ってよぉ。
+Gulliver Boy Character 001
+責任ったってな！ オレはまだ…何も…	
+Gulliver Boy Character 032
+…何を言っておるのやら…	
+Gulliver Boy Character 999
+ねぇ 知ってる？　妖精のキスはね。 『ずっとあなたから離れない』って 意味があるのよ。
+Gulliver Boy Character 001
+マジかよ？	
+Gulliver Boy Character 999
+アタシが今 決めたの。 ずーっと あなたと一緒よ！	フィービーが　仲間になりました。　キャンプ画面の　コマンド　『フィービー』が　使えるように　なりました。
+Gulliver Boy Character 032
+妖精が 仲間になるとは お前は 本当に ラッキーじゃな…	
+Gulliver Boy Character 001
+てめっ リー!! ひとごとだと 思いやがって！ だいたい おめぇが…	
+Gulliver Boy Character 032
+まぁ そう言うな。 かわいい 子ではないか！
+Gulliver Boy Character 001
+くそっ 憶えてやがれ!! この落とし前 いつか１０倍にして 返してやるぜ!!
+Gulliver Boy Character 032
+そうじゃ　エソンがnお前に　会いたがっておったぞ…nわんぱくハウスに　いるはずじゃが…
+Wanpaku House Killer Street (わんぱくハウスキラーストリート)
+
+Event: Reunite with Edison
+
+Gulliver Boy Character 002
+うわーーーーーガリバーだ!!!! いつ戻ったの? 教えてくれないなんて みずくさい じゃないか！ 見て見て 今度の発明は すごいよ！　電磁どっかーん！！！！	
+Gulliver Boy Character 001
+ぶわっ げホげホ!!	
+Gulliver Boy Character 002
+…ごめん…ボクは そうやって いつも 君にめいわくかけちゃう… こないだ サン マルコの鐘を こわしちゃった時も 君が ボクをかばって…
+Gulliver Boy Character 001
+気にするな エソン！ 失敗なんて だれにもある！ 人生はチャレンジだ！	
+Gulliver Boy Character 002
+...チャレン...ジ?	
+Gulliver Boy Character 001
+そうさ自信をもてよ！ お前はベニス１の大発明家だ！
+Gulliver Boy Character 002
+......大発明家?	
+Gulliver Boy Character 001
+そうそっ!! その調子!! お前は てんさ…い… …やべっ…	
+Gulliver Boy Character 002
+…天才?! ねぇ いま…天才って言ったよね？ …そうだよね。ボクは天才だもんね！！ 失敗を恐れてちゃぁ ダメさ!! ９９回の失敗は １回の大成功でチャラ！ だってボクは天才なんだもん!!!!
+Gulliver Boy Character 001
+…ああっ そ そうさ。 そうだよな…	
+Gulliver Boy Character 002
+…ねぇ ガリバー!!	
+Gulliver Boy Character 001
+あん?
+Gulliver Boy Character 002
+もっと言って！	
+Gulliver Boy Character 001
+…うん…	エヅソンが 仲間になりました。　キャンプ画面の　コマンド『装着』が　使えるようになりました。
+Gulliver Boy Character 002
+ねぇ…その妖精は　なんだい？	
+Gulliver Boy Character 001
+あ…フィービーのことか…　まぁ　友達だ…仲良くしてくれ。	
+Gulliver Boy Character 002
+うん…
+San Marco Square (サン・マルコ広場）
+
+潮風にのって　どこからともなく　美しい歌声が　聞こえてきました。
+Event: Masked Man Outside of Cafe
+
+Gulliver Boy Character 033
+ご入場のお客様は　この仮面をつける　きまりに　なっております。　さぁ！！　どうぞ…	ガリバーたちは　仮面をつけました。
+Event: Entering the Cafe
+
+FMV	
+Gulliver Boy Character 001
+でも　かわい子だったな…	
+Gulliver Boy Character 999
+ガリバーー！　忘れないでよね！　私とあなたは　妖精のくちづけを　かわした仲なのよ！
+Gulliver Boy Character 001
+かっ　かわした…おい！　ゴカイをまねくようなこと　言うな！	
+Gulliver Boy Character 999
+ひっどーい！	
+Gulliver Boy Character 001
+わっ　わかったから　大声だすなって…　よし！　行くぞ！
+Event: Exit and Return the Mask
+
+Gulliver Boy Character 033
+お帰りですか？　では　仮面を　お戻しください。	ガリバーたちは　仮面を　はずしました。
+Event: The Butler Says to Head Back Home
+
+Gulliver Boy Character 024
+坊ちゃん！　探していたのですよ！ だんな様が　お呼びです。早く お屋敷に　おもどりくださいませ…
+Gulliver's House - 1st Floor
+
+Event: Obtain Stamp Book From Gulliver's Father
+
+Gulliver Boy Character 028
+ガリバーよさっきは　すまなかった。　やっかいな　事があってな… おお　そうだ！　魔法学校を卒業したんだってね。　おめでとう！ では　そろそろ　トスカーニ家の　あとつぎとして　貿易のことも　勉強しなさい！ 貿易とは　安く買って　高く売ることだ。…簡単だろう！ まあ　そのためには　多くの人と出会い　誰よりも　多くの情報を　持ってなければ　ならんがね。まず　この金を　貿易で　増やしてみなさい！	パパは　ガリバーに金貨２０００枚を　手渡しました。	
+Gulliver Boy Character 028
+貿易に　必要なことは……知恵と勇気！　そして……多くの経験だ！ さあ　お前自身の力で　この広い世界を　切り開いて　みなさい！船は港に　用意させよう！	
+Gulliver Boy Character 024
+お待ちくださいませ！！　だんな様！！
+Gulliver Boy Character 028
+なんだ？　スミス　そんなに　あわてて…	
+Gulliver Boy Character 024
+失礼ながら…坊ちゃんが一人で　貿易をなさるなど…あまりに危険でございます！わたくし　スミスめがお供いたします！	
+Gulliver Boy Character 028
+…………スミス　また…昔の　思い出病かい…	
+Gulliver Boy Character 024
+お願いでございます！　だんな様と命をかけた　あの７つの海を　坊ちゃんと暴れまわるのが　夢だったのです！ どうか　この　ささやかな夢を　かなえて　くださりませ…
+Gulliver Boy Character 028
+………しかし…その　もう歳じゃないか…いや　気持ちは　うれしいが…	
+Gulliver Boy Character 024
+そらぁ　ねえだろう！　大将！昔　あんたが　約束したんだぜ！いつか　息子に海を教えてくれってな！	
+Gulliver Boy Character 028
+偉くなって　忘れちまったのかい！大将の　男の大きさにホレてオレは　海賊をやめたんだぜ！	
+Gulliver Boy Character 024
+海がオレを　呼んでるぜ!!海賊の血が　さわぐんだーーー!!
+FMV	
+Gulliver Boy Character 028
+ううむ……海賊をやめトスカーニ家のためにつくしてくれたが… その間も　海を忘れられず…体を　きたえていたのか…… わかったよ　スミス！　家のことは誰かをやとうことにする。お前はガリバーを助けてやってくれ！	
+Gulliver Boy Character 024
+くああああっ！話がわかるじゃねえか！　大将！オレがついてりゃ　百人力でい！ おう！　ガリ公！　行こうじゃねえか！なぁに心配はいらねえよ！オレがついてるからよ。なっまかせときなって！	
+Gulliver Boy Character 001
+黙って聞いてりゃ……いい気に　なってんじゃねえぞ！ ついてくんのは　勝手だがよ！オレに命令をするなッ！
+Gulliver Boy Character 024
+…がはははははは！いや！　さすが　大将の息子だ！たのもしや!!　たのもしや!! では　私は　港で船の準備をしてまいります！	
+Gulliver Boy Character 001
+じゃあ父さん　行ってくるよ。	
+Gulliver Boy Character 028
+がんばれよ！　ガリバー！貿易の勉強は　将来きっと　役にたつ！ それと…………スミスのことだがあれで　なかなか　頼れる男だ…仲良くやれよ… それと　この　スタンプ帳を持って行きなさい。きっと　役に立つはずだ。
+Gulliver Boy Character 028
+貿易に　必要なことは……知恵と勇気！　そして……多くの経験だ！ さあ　お前自身の力でこの広い世界を　切り開いて　みなさい！
+Venice Port (ベニスの港）
+
+Event: Get Back on the Boat
+
+Gulliver Boy Character 024
+おぅおぅおぅおぅ！　モタモタ するんじゃねぇ！　遅いぞ！　ガリ公！船が出るぞー！　出航だー!! 出航だー!!	
+Gulliver Boy Character 002
+…でもさ ガリバー…驚いちゃったよね。あのスミスが元海賊だったなんて…	
+Gulliver Boy Character 001
+まあな…ま　まかせとこうぜ！	
+Gulliver Boy Character 024
+さあ　いくぞ　てめぇら！準備は　いいか？出航だーーーーー!!!!
+OverworldEdit
+Event: Sailing Around
+
+Gulliver Boy Character 024
+忠告しておこう！貿易は『安く買って高く売る！』これが　極意だ。 ただし「安い」「高い」を見きわめるのはてめぇの度胸しだい！人の情報は　大事にすることだな！	
+Gulliver Boy Character 024
+見ろよガリ公！あれが…イスパニアの　機雷だ！さわっちまったら…ズドンだ！ ったく　あんなモン置かれちゃぁ商売あがったりだよな！イスパニアの　クソ野郎め！	
+Gulliver Boy Character 024
+ここは　ユーゴの港だ！　…そういやぁユーゴについては　ガリ公！おまえさんのほうが　くわしかったな！ このユーゴとベニス…そしてアルバーンを行ったり来たりしてりゃぁ　貿易なんてなんとか　なるモンさ！	
+Gulliver Boy Character 024
+ここは　アルバーン！　海賊の国だ！男も女も　オトナもコドモもみぃんな　海賊を　やってんだぜ！ 国王は　シルバー船長って　言ってなヤツが　はなたれ小僧だったころからの古い　つき合いだ！ そういや昔　この国に　ビビビのおやじがいたな…ビビビは　いいものを安く売っていたが…今は　どうしてるか…
+Port of YugoEdit
+Event: Docking at Yugo
+
+Gulliver Boy Character 024
+いいかガリ公!!　貿易は港にある『貿易酒場』で　やるもんだ！ わかったら　とっとと　貿易酒場に行け！売りたいヤツと　買いたいヤツが仲良く酒を　飲んでるハズだぜ!!
+Kingdom of VeniceEdit
+Event: Return to Venice
+
+Gulliver Boy Character 024
+…ぼ…坊っちゃん…　港のようすが…　おかしいとは　思いませぬか？ 人が　ひとっこひとり　歩いておりませぬ!!　それに…さきほどから感じている…この　胸騒ぎは…？ だんな様が　心配です！私は　ひと足先に　お屋敷に　戻ります…
+Gulliver's Home - 1st Floor
+
+Gulliver Boy Character 024
+坊っちゃん！　だんな様にはお会いに　なりましたか？　お屋敷にはいらっしゃらない　ようなのですが。。。
+San Marco Square
+
+Gulliver Boy Character 034
+ベニスは　すでに　われわれイスパニア軍の　支配下にある!!　逆らうと　ようしゃしないぞ!!
+Gulliver Boy Character 034
+あ！！　トスカーニの息子だ！！　つかまえろ！！
+Gulliver Boy Character 034
+ひっ捕らえろ！！　こいつが　ガリバーだッ！！
+Gulliver Boy Character 034
+トスカーニの息子だな？…とうとう　見つけたぞ!!
+Gulliver Boy Character 034
+ベニスは　イスパニアの植民地となった!!　子供は　おとなしく　家に戻ってろ!!
+Gulliver Boy Character 034
+ここは　立入禁止だ!!…逆らうヤツは　銃殺するぞ!!
+Gulliver Boy Character 034
+いよいよ　われらが覇王・ジュド?[様の　地中海　征服計画が　始まるぞ！
+Gulliver Boy Character 034
+子供が　ウロチョロするな！殺されたいのか!？
+Gulliver Boy Character 034
+ジーク・ジュドー!!（ジュドー様　ばんざい!!）
+Gulliver Boy Character 034
+ベニスは征服した！あとは　あの娘を　探し出すことだ！
+Gulliver Boy Character 034
+おらおら！　ジャマだ！われらが　イスパニア軍に　逆らうとようしゃしないぞ！
+Gulliver Boy Character 034
+ついにベニスは　われわれ　イスパニアの　ものとなった!!　ジュドー様も　お喜びのことだろう…
+Palace of Venice (ベニス王宮)
+
+Event: Spotted by Guards
+
+Gulliver Boy Character 034
+動くな!!	
+Gulliver Boy Character 002
+…いいから　だまって手を上げろ！です。……命をかけて…Jガリバーさん…彼のためにも…タペストリーの伝承を…見てやってください……�動くな!!Eイ…イスパニア兵……こんなところまで……	
+Gulliver Boy Character 034
+…いいから　だまって手を上げろ！
+Gulliver Boy Character 002
+さっき　動くなって言ったじゃないか!!	
+Gulliver Boy Character 034
+黙れ!!	
+Gulliver Boy Character 001
+てっ　てめっ!!
+Event: Meet Doga
+
+Gulliver Boy Character 034
+動くな!!	
+Gulliver Boy Character 001
+と　父さん…	
+Gulliver Boy Character 035
+ぐはははは…さからっても　ムダだ！おまえの　おやじが…どうなっても　よいのか？	
+Gulliver Boy Character 001
+だ　誰だ？　おまえは？
+Gulliver Boy Character 035
+教えてやろう。　オレの名はドガ。　昨日まで　ベニス王宮騎士団の　将軍だった男…　そして今日　ベニスの王となる男だ！	
+Gulliver Boy Character 028
+ガリバー!!　逃げるんだ!!　私にかまうな!!	
+Gulliver Boy Character 035
+ぐはははは…動くな!!　さからうと　お前の　おやじを撃つぞ!!	ドガに　さからいますか？
+Event: Choose Yes
+
+Gulliver Boy Character 035
+くそっ!!　くそ!!　ふざけるなよ小僧！　これは　あそびじゃないぞ…この　オレに　さからうな!!	
+Gulliver Boy Character 001
+と　父さん!!…… ……… ……… ……… ………てめぇーーーーーーーーーッ!!そ!! (battle)	
+Gulliver Boy Character 035
+くっ…くそっこ…こんな小僧に………	
+Gulliver Boy Character 028
+これで…………いいんだ…私は　よい息子をもった……神に　感謝している…… いいか………どんなときも　くじけるんじゃないぞ…お前の信じる道を……うっ！
+Event: Choose No
+
+Gulliver Boy Character 035
+ぐはははは…それでよい!! この小僧を　連れて行け!!	FMV	
+Gulliver Boy Character 028
+おおっ！　ガリバー!! 気がついたか!!	
+Gulliver Boy Character 001
+…ここは…？
+Gulliver Boy Character 028
+残念ながら　あまり楽しい 場所ではない…ここは王宮の地下牢だ。	
+Gulliver Boy Character 001
+…くそっ！	
+Gulliver Boy Character 028
+……しかし 男らしくなったな………… …………ガリバー………… 排うむ……そろそろ　話しておこう実は…………………………………お前は　私の実の子ではない。 赤ん坊の　お前は玄関に　すてられいてた…… 私はスミスと一緒に　母親がわりをし………お前を　育てた…… 夜中に　よく泣く子でな……おんぶして　夜のベニスを歩きまわったものだ………… こんな　話をしたのは　お前が　大人になったと思ったからだ………………… だが　忘れないで欲しい私は　お前を　本当の息子だと思っている……………	
+Gulliver Boy Character 001
+少し……おどろいた…………
+Gulliver Boy Character 002
+どっかーん!!	
+Gulliver Boy Character 034
+だっ　誰だ？!	
+Gulliver Boy Character 002
+ふふふふふっ　ある時はベニスの孤児また　ある時は　白衣の天才発明家…　そして　またある時は　紅顔の美少年！ そして　その実体は…	
+Gulliver Boy Character 001
+エジソン!!
+Gulliver Boy Character 002
+ガリバー!!さぁ！　脱出だ!!	
+Gulliver Boy Character 028
+ベニス王を　助けねば!!
+Gulliver Boy Character 034
+このッ！！　このッ！！　えーい！！　くたばれ！！
+Gulliver Boy Character 037
+……くっ！負けるもんか！えい！　とりゃ！
+Gulliver Boy Character 034
+……しぶといヤツめ！これでもくらえ！
+Gulliver Boy Character 037
+…こ…ここは　われわれにまかせて…王様を……
+Gulliver Boy Character 034
+……はぁ…はぁ…ぶっ…ぶっ殺してやる!!
+Event: Dad vs. Doga
+
+Gulliver Boy Character 035
+ベニスは…オレのものだ！オレの部下になれ！　トスカーニ！ オレの権力と　おまえの財力が合わさればイスパニアの　ジュドーを倒し世界を　この手に握れる!!	
+Gulliver Boy Character 028
+ふざけるなドガ！キサマの腐った野心に興味などない!!	
+Gulliver Boy Character 035
+おまえの腕では　このドガを斬れん!!トスカーニ！　オレの部下になれば命は　助けてやるぞ…	
+Gulliver Boy Character 028
+キサマの部下に　なるくらいなら…死んだ方が　ましだ!! ガリバー！そこで見ているんだ！　父の戦いを！
+Gulliver Boy Character 035
+……ぐははははは…… はははっはは!! トスカーニ!! このドガをここまで　追いつめたのはお前が　はじめてだぞ!!	
+Gulliver Boy Character 001
+き、きさまーっ！	
+Gulliver Boy Character 035
+ふん……バカな親父の子供は　もっとバカか!!オレに勝てると思うのか!!	(battle)
+Gulliver Boy Character 035
+な……なんだと……こんな……な……なんだと……こんな……	
+Gulliver Boy Character 028
+……ガ……ガリバー……お前に……渡すものが…… こっ…これを……このディスクは　お前のものだ……	FMV	
+Gulliver Boy Character 001
+…返事してくれよ!!父ーーーさん!!
+
+Event: Aftermath
+
+Gulliver Boy Character 024
+…だんな様…くくくく ………………だんな様………	
+Gulliver Boy Character 002
+………ガリバー…	
+Gulliver Boy Character 036
+トスカーニ……すまぬ!!わしが……わしが……弱い王だから……お前を　こんな……ううううう……
+Gulliver Boy Character 037
+ベニス王様…………反乱軍は　国外に逃げました。ドガは…死んだという　うわさです。	
+Gulliver Boy Character 036
+……ガリバー……どうか　わしを　ゆるしておくれ… いや　どんなに　あやまってもゆるされない　ことだろう……せめて…これを　受け取ってくれ…むかし　トスカーニからあずかっていたものだ……
+Gulliver Boy Character 024
+…しばらく……一人にしておいて　くだされ……
+Gulliver Boy Character 002
+ガリバー！ボクたちは　いつも　いっしょだよ！
+Gulliver Boy Character 023
+…坊ちゃん…うまく…言えねぇんですが………………………その…トスカーニ様は……幸せだったと…思うんです… ………だって…こんなにも…立派に…………成長なさった…坊ちゃんに…みとられて………天国へ……行ったんですからね…… …………出すぎたこと…言っちまって……すいませんでした……………………………………… ゴンドラに　乗りますかい？
+
+Event: Misty and Gekkou
+
+Gulliver Boy Character 003
+きゃーーー！	
+Gulliver Boy Character 002
+…ガリバー！今……女の子の悲鳴…	
+Gulliver Boy Character 001
+こっちだ!!	FMV
+Gulliver Boy Character 024
+ガリバー坊っちゃん…坊っちゃん…	
+Gulliver Boy Character 001
+くっそー　あんにゃろー!!　女の前でハジかかせやがって……　憶えてろ!!	
+Gulliver Boy Character 024
+坊っちゃん…いけません。…だんな様が　お亡くなりになった今…坊っちゃんだけが…トスカーニ家を…	
+Gulliver Boy Character 002
+月光は　船で南に向かったよ！行こう！　ガリバー！あの子を助けてあげようよ!!
+Gulliver Boy Character 024
+しかし　坊っちゃん…南の海は　イスパニアの機雷で封鎖されておりますぞ………	
+Gulliver Boy Character 001
+スミス…こいつは　オレのケンカなんだ。負けるわけには　いかねぇ!!	
+Gulliver Boy Character 024
+わかりました。しかし　坊っちゃん。最後に　ひとつだけ　このスミスの話をお聞きください。まずは　アルバーンに向かうのです。そこに住む海戝・シルバー船長なら力になって　くれることでしょう。イスパニアの機雷など　彼の手にかかれば…	
+Gulliver Boy Character 002
+本当？　わかったよ！アルバーンだね!!
+Gulliver Boy Character 024
+お待ちください！坊っちゃん…あそこの海賊は　用心深いので有名です。さぁどうぞ　これを　お持ちくださりませ。	
+Gulliver Boy Character 002
+よぉーし！　さぁ行こう！ガリバー!!
+Gulliver Boy Character 024
+……ガリバー坊ちゃん………………お気をつけて………
+Palace of Venice
+
+Gulliver Boy Character 036
+は…多くの罪を…犯してきた…つぐなうことの　出来ない……多くの…罪を…
+Event: Leaving for Alban
+
+Gulliver Boy Character 037
+はぁっ！　はぁ！　…間にあった！ガリバー！　伝言があるんだ！	
+Gulliver Boy Character 001
+……伝言？	
+Gulliver Boy Character 037
+はぁ…はぁ…女の子を連れた…スカしたヤツに　言われたんだ！『獅子の洞窟で待つ！』ってな…
+Gulliver Boy Character 002
+…そいつ!!　月光だ!!	
+Gulliver Boy Character 037
+オレも　言われたぜ………『獅子の洞窟』は　南にあるんだが…でも…機雷があるからな…… あいつ…おまえの力を　試してやるってそう　言ってたぜ！……気をつけろよ…ガリバー……
+Port of Alban (アルバーンの港)Edit
+Gulliver Boy Character 038
+この先　海賊以外　通行禁止！なに？　シルバー船長に会うだと?! バーカ言ってんじゃねえ！　帰れ帰れ！ ……ん？　ちょっと待て！お前のその手紙……こ　これはあの　有名な海賊スミスのサイン！ シルバー船長に　とどけるんですね!? いや　失礼いたしました…ど…どうぞ…
+Balkan Village (バルカンの村)Edit
+Gulliver Boy Character 040
+大洪水じゃ　大洪水が起きるぞ！そして…それが　終わりの始まりじゃ！ 逃げ出せ！　逃げ出せ！すべてを投げだしベニスから　逃げ出すのじゃー！
+Gulliver Boy Character 038
+こらー！ここはシルバー船長の家だぞ！ 船長は子供がキライだ。殺されないうちに帰れ!! …ん？　待て　その手紙を見せてみろ！これは　元海賊スミー君の手紙!!スミスはスミー君って言ってさ昔は有名だったんだよな。いやあ　なつかしいな。さあ　奥に船長がいるからさ手紙を渡してあげてよ！
+Event: Meet Captain Silver
+
+Gulliver Boy Character 039
+オレのうしろに　立つんじゃねえ！	
+Gulliver Boy Character 002
+ヒエーッ！	
+Gulliver Boy Character 002
+だって最初からうしろ　向いてたじゃないか！
+Gulliver Boy Character 039
+うるせー!!ガキが　ナマイキ言うんじゃねえ！ったく！　めざわりだ！　出てけ！	
+Gulliver Boy Character 002
+スミスの手紙を 揩ﾁて来たんだ！	
+Gulliver Boy Character 039
+なんだって？　あのスミスの手紙？どれ見せてみろ！うそだったら　承知しねぇぜ！ …ふん…なるほど…どうやら　本物のようだな…ふむふむ…なに？　獅子の洞窟に案内だと？ わかった…助けてやってもいい…………だが　いますぐってのは　ダメだぜ！酒場のブリジッドが　困ってんだ。 口を新しく してやりてんだが…蛇口は　スネーク山にあってな…あそこにゃ　蛇がいるんだ… どんな怪物も　平気なオレだが…どうも　蛇だけはイカン！それで　オレも困ってんだ… 蛇口を取って来い！　それが獅子の洞窟へ　案内する条件だ。 どうだ？蛇口を取ってきてくれるか！？
+Gulliver Boy Character 039
+そうか！　たのむぞ！蛇口は スネークマン・ジョーが　持ってるはずだ！ オレは　ブリジッドの酒場で待ってるぜ！成功を祈る!!
+Snake Mountain (スネーク山)Edit
+Event: After Boss Battle
+
+Gulliver Boy Character 002
+ガリバー！　やったぞ！ほら！　これが『蛇口』だ！ブリジッドの酒場に急ごう！
+Balkan VillageEdit
+Bridgette's Tavern (ブリジットの酒場)
+
+Event: Bring Faucet to the Tavern
+
+Gulliver Boy Character 039
+おう！　てメッセージぇら！早かったじゃねぇか！ 蛇口は？　おおう　持ってきたか！じゃあ　もらってくぜ!!	
+Gulliver Boy Character 002
+まったく　勝手なヤツだよな。ひとこと　ありがとうが　あってもいいじゃないか！	
+Gulliver Boy Character 039
+りがとうよ！ お前たちも　２階に上がってこいよ！	
+Gulliver Boy Character 002
+に　２階って…ごくっ…秘密の花園…	
+Gulliver Boy Character 999
+……………	
+Gulliver Boy Character 001
+行こう!
+Event: Enter the Captain's Quarters
+
+Gulliver Boy Character 041
+やっぱり　シルバー船長ね！あの　スネーク山から『蛇口』を取ってくるなんて！　す・て・き<3. これで　また　ウマ酒がつくれるわ!	
+Gulliver Boy Character 039
+なんてことはねえさ！たかが　蛇の山じゃねえか！がっははははははははは！ おおっと　ごめんよ！迎えが　きちまった…ひさしぶりに　海に出るんだ！ ブリジッド！　幸せに暮らすんだぜ！海の男に　ホレちゃいけねえよ！	
+Gulliver Boy Character 039
+さあ　てめぇら！　いこうぜ！今度はオレ様が　約束を守る番だ！ 男ってのは　いつでも　カッコつけて生きてくもんだ… さぁて　オレはいろいろと準備がある！港で待ってるぜ！　早く来いよ！	
+Gulliver Boy Character 041
+なによ…バカみたい！
+Port of AlbanEdit
+Event: Set Sail with Silver
+
+Gulliver Boy Character 039
+さあ　行こうぜ！獅子の洞窟は　南だ！オレが　船を動かしてやる！ 出航だぁぁ!!
+Gulliver Boy Character 039
+ふーん……そうか………トスカーニの　おやじさん 天国に　行っちまったか… ……………………………………で　おめぇは　なんで獅子の洞窟に　行くんだ?!	
+Gulliver Boy Character 001
+オレに　ハジをかかせたヤツを　ブッ倒すためだ！	
+Gulliver Boy Character 002
+それと　いろいろあって……	
+Gulliver Boy Character 039
+……女が　からんでるな…
+Gulliver Boy Character 002
+当たりーーッ！すっごく　かわいい子なんだ！	
+Gulliver Boy Character 999
+もうっ！　どうして男の人って そうやって ボインに弱いの？あたしだってね…今にぼいーんっと…	
+Gulliver Boy Character 002
+ぼいーんっと…ねぇ…	
+Gulliver Boy Character 999
+なに　想像してるのよぉ！エッチ!!
+Gulliver Boy Character 039
+おぅ　おめぇら！　いつまでも　バカなこと　言ってんじゃねぇ！さぁ　着いたぞ！ ここの機雷を　ふっ飛ばせばいいんだろ？見てろよ！　オレの力を… 大砲用意!!	
+Gulliver Boy Character 038
+たいほう　よぉーい!!	
+Gulliver Boy Character 039
+よぉーし…撃てっ!!	
+Gulliver Boy Character 039
+うわぁーっはっは!!　見たかぁ　このオレ様の手にかかりゃ　イスパニアの機雷なんて　オモチャだぜ　オモチャ！ …さぁ　小僧!!　行こぅぜ!!
+あそこに見える滝が　世界の果てだ。 おめぇ　知ってたか？ 地球はテーブルみたいに平べったくてそれを蛇が　ささえてるんだ。	
+Gulliver Boy Character 038
+船長！　このあたりです！	
+Gulliver Boy Character 002
+見えないじゃないか！どこに　獅子の洞窟が…	
+Gulliver Boy Character 039
+わかんねぇ　ガキだな！下だよ下!!
+Gulliver Boy Character 002
+下って……？　	
+Gulliver Boy Character 039
+おめぇら　そんな事も知らなかったのかよ？ いいか…獅子の洞窟は海底にあるんだ！さぁ　潜るぞ!!	
+Gulliver Boy Character 002
+ででで　でもね。ボクは…泳げないから…	
+Gulliver Boy Character 039
+なぁに　気にすることないさ！　オレ様が　引っ張ってってやる！ おめぇらは　ほんの２　３分息を止めてるだけで　いいのさ。簡単だろ？
+Gulliver Boy Character 002
+ががが　ガリバー！どうする？	海に潜りますか？	
+Gulliver Boy Character 039
+おうっし!!　気に入った!!さすがに　オレが見込んだガキどもだぜ！　そこのちっこいの　おめぇはどうする？	
+Gulliver Boy Character 999
+あたしは平気！　ガリバーについてくわ！
+Gulliver Boy Character 039
+いい根性だ！　行くぜ!!	FMV
+Lion's Cave (獅子の洞窟)Edit
+Event: Entering the Cave
+
+Gulliver Boy Character 001
+おい！　見たか？海底に都市があったぞ！	
+Gulliver Boy Character 039
+あれは　古代の遺跡さ。宝なんて　なんもねえよ！　それより　早く上がれ！ オレは　ここで待ってるぜ。案内するだけの約束だからな。あとはおまえたちだけで　なんとかしな！
+Gulliver Boy Character 039
+どうした？ここで休みたいのか？ じゃ　ゆっくり休め… ついでに　セーブしてくかい？ 海賊の辞書に　不可能の文字はねぇ！それじゃ　宿帳を開くぜ！ それじゃ　まぁせいぜい　ガンバレよな…うぁーっはっはっは!
+Event: Confrontation at Cave's End
+
+Gulliver Boy Character 042
+その首飾りを　よこせ！	
+Gulliver Boy Character 003
+あ！返してッ!!それは　大事なお守り!!　　	
+Gulliver Boy Character 042
+やはりな……伝説の『月の首飾り』…こいつが『青い石』の発見器なのか!!
+Gulliver Boy Character 003
+……『青い石』…………発見器……　何のことッ？！	
+Gulliver Boy Character 042
+ほう……何も知らんのか……まぁ　知らぬ方がよい…	
+Gulliver Boy Character 002
+あいつだ!!　月光だ!!　行こう!!
+Gulliver Boy Character 003
+あっ…あなた……あの時の…	
+Gulliver Boy Character 042
+フッ……我々を追ってきたと　いうのか？…おろかな…	
+Gulliver Boy Character 042
+さぁ　かかって来い!!
+Event: After Boss Battle
+
+Gulliver Boy Character 001
+くそっ　勝てねぇ!!	
+Gulliver Boy Character 042
+身の程を知らず…自分の力を過信する者を おろか者と言うのだ！ お前に勝ったとて…私に得るものはない…だが！　私のジャマをする者は　殺す！ 何っ？!	
+Gulliver Boy Character 098
+星影忍法　バラ吹雪！
+Gulliver Boy Character 098
+月光！　かくごっ！	
+Gulliver Boy Character 042
+そんな術など　きかん！	お前の心臓に　わたしの刃を突き立ててやる!!　(FMV)
+Gulliver Boy Character 002
+あれっ　なんだろうなんか　スイッチみたいだ……	
+Gulliver Boy Character 002
+ねぇ！　ガリバー！ここのスイッチ　押してみようよ！
+Event: Cave In
+
+Gulliver Boy Character 002
+ガリバー！　なんの扉だろう…ここから　脱出できるかも　しれないよ！ あ　開かないよ！	
+Gulliver Boy Character 001
+くそったれー！　開けーーー！	
+Gulliver Boy Character 002
+あ　開いたぞ！
+Gulliver Boy Character 001
+ラッキー！	
+Gulliver Boy Character 001
+な　なんだ?!　こりゃ？	
+Gulliver Boy Character 002
+なんか　乗り物みたいだね！すごい発見かも　しれないよ！ガリバー！ メカのことなら　まかしといて!!
+Gulliver Boy Character 002
+うーん…　見たこともない…　機械だ…どうしたら　動くんだろう…
+扉は　ビクともしません。岩で　ふさがれているようです。
+Event: Examine Steering Wheel
+
+Gulliver Boy Character 001
+う　うわぁぁぁぁーーーっ！どうなってんだーーーーっ！	
+Gulliver Boy Character 002
+勝手に　動き出したーーーー!!	FMV
+Gulliver Boy Character 002
+ん…ガリバー…ここは？	
+Gulliver Boy Character 001
+わからねぇ…	
+Gulliver Boy Character 002
+とにかく…外に出てみようよ！
+Event: Exit the Sub
+
+Gulliver Boy Character 002
+こっ…これは…	
+Gulliver Boy Character 001
+…ひでぇ…	
+Gulliver Boy Character 002
+みんな…どうしちゃったんだろう…ガリバー!!　探してみようよ！
+Kingdom of VeniceEdit
+Cafe Florin (カフェ・フロリン)
+
+Event: That Singing Voice
+
+Gulliver Boy Character 002
+ガリバー!!　あの声は…あの………あの　おっぱいの大きい子……	
+Gulliver Boy Character 001
+助かったんだな……会いに　行こうぜ！	
+Gulliver Boy Character 002
+……うん…
+Event: Reuinion with Misty
+
+(FMV)	ミスティが　仲間になりました。
+Chinatown
+
+Gulliver Boy Character 043
+ボクの名前は　ミラクル・マンモス器用な魔術師さ！　今　リー１０倍博士のところで　修行中なんだ。 士の弟子は　世界中にいるよ！もちろん　全員が獣人だよ！　きっとキミたちの　力になってくれるハズさ！ ボクのお兄ちゃんも…いちおう…博士の弟子なんだけど…すっごく　不器用なんだ… でも　心は　やさしいからもしも　どこかで会ったらよろしく　言っといてね。 それじゃぁ　がんばってね！ミラクルパニクルるるるるる・・・!!
+Event: Obtain the Mist Globe from Dr. Lee 10
+
+Gulliver Boy Character 032
+おおっ　ガリバー！　元気だったか！まぁ　お前は　生きてると信じとったぞ！　おお！　フィービーも元気そうじゃな… エジソンも…そこの友達も…みんな無事で　よかったのう… しかし　大変なことになったな！クーデターの後は　洪水… わしも　もう少し早く　ベニスをおさらば　するんじゃったな… ところで…ガリバー…この洪水の原因を　知りたくないか？	
+Gulliver Boy Character 002
+おしえて！　おしえて！　おしえて！
+Gulliver Boy Character 001
+おしえてくれよ…	
+Gulliver Boy Character 032
+今は…多くを語れぬ…しかし　これだけは言える。 れは古えの呪いじゃ…これから先　さらに良くない事が起こるぞ！	
+Gulliver Boy Character 001
+迷信ってヤツかい…
+Gulliver Boy Character 032
+迷信ではない！…そして　ガリバー！　お前の運命も…大いなる波に　飲み込まれる… しかし　わしには見える…その運命に　たち向かって行くお前の姿が… 友人として…微力だが　このわしも力になろう！これを　受け取るがよい!!	リー１０倍博士は　ガリバーに『魔拳グローブ』を　手渡しました。 すると…ガリバーの左手に　ふしぎな力が　みなぎりました。	
+Gulliver Boy Character 001
+どうだ？　にあうか？	
+Gulliver Boy Character 003
+うん！　カッコイイよ!!
+Gulliver Boy Character 002
+まぁまぁだね…
+Gulliver Boy Character 032
+その『魔拳グローブ』はお前の　持っている力を　最大限に引き出してくれるだろう……… がんばるのじゃぞ！　ガリバー！お前たちの力で運命を　きりひらくのじゃ！
+Gulliver Boy Character 032
+渡しておいてから　言うのもナンじゃがその『魔拳グローブ』には　ひとつだけ問題があってな… いちど　身につけたら　絶対に外れないのじゃ…　ま　ささいなことじゃあまり　気にするでないぞ！
+Event: Return to the Submarine
+
+Gulliver Boy Character 002
+ねぇガリバー!!これからどうするの？	
+Gulliver Boy Character 003
+私の　首飾り……取り返して　くれるんでしょ…	
+Gulliver Boy Character 001
+あの　月光って　ヤローぶっつぶしてやる！
+Gulliver Boy Character 002
+イスパニアも　ぶっつぶそうよ！ま　そのためには　とりあえず資金かせぎかな…	
+Gulliver Boy Character 044
+おうおうおう！　なぁに説明くさいこと　言ってやがんでぃ？!　	
+Gulliver Boy Character 003
+え？　誰？
+Gulliver Boy Character 044
+てやんでぃ！　べらんめぃ！こっちとら　エドッコでぃ！ このアトランティスの秘宝シーライオンを　仕切ってる！モンクあっか？　あん？	
+Gulliver Boy Character 002
+べっ…べつに　モンクは…ないけどさ…何で　アトランティスと　江戸が関係あるのさ！	
+Gulliver Boy Character 044
+そ…それは…その………べらんめぃ！こっちとら　気が短いんでぃ！ガータガタ言わずに　聞け！ いいか！　まずはこの船の動かし方を教えてやる！　ここのカジを操作すると出航でぃ！
+Gulliver Boy Character 002
+カジって…これだよね！	
+Gulliver Boy Character 044
+あったりめーの　コンコンチキよ！カジとケンカは　江戸の花でぃ！	
+Gulliver Boy Character 002
+こ…これが…古代アトランティスの文明…
+Gulliver Boy Character 044
+おぅともよ！	
+Gulliver Boy Character 002
+カ…カガクのイメージが…	
+Gulliver Boy Character 044
+世の中にゃぁ　てめぇらのジョーシキをこえた世界があるんでぃ！ ついでに説明しておくとよ！航行中は　ランボタンで画面切り替えだ！
+Gulliver Boy Character 002
+ランボタン？	
+Gulliver Boy Character 044
+ま！　おまじないみたいなモンだ！それじゃオイラは　下にいるからな！ 下で金庫の　番をしててやる！まっ万事まかしときなって！　あばよ!	
+Gulliver Boy Character 003
+…何だったのかしら…
+Gulliver Boy Character 002
+よくわかんないけど…仲間みたいだよ…	
+Gulliver Boy Character 003
+そ…そうね…
+Gulliver Boy Character 002
+カジを操作すると　出航できるってあいつ　言ってたよ！
+Gulliver Boy Character 003
+さぁ！　行きましょ！　ガリバー！
+Gulliver Boy Character 002
+さぁ　行こう!!　ガリバー!! 出航だ! シーライオン！　発進!!
+Invincible City SlaviaEdit
+Toscani House
+
+Gulliver Boy Character 019
+あなたのお父さまは…りっぱな方でした…戦争で…父も母もなくした私を…実の妹のように…育てて下さいました… 本当に…戦争なんて…戦争なんて…
+School
+
+Gulliver Boy Character 045
+ガリバー！　チャプター先生がいなくなっちゃったんだ…探しても　どこにもいないんだ…
+だから　ここで　待ってるんだ…ずっと…
+
+Gulliver Boy Character 008
+私たち…卒業しても…こうしてここに集まって…チャプター先生のこと…思い出してるの…　やさしい先生だったなぁ…
+Gulliver Boy Character 007
+魔法学校が　廃校になるなんて…ボクは　ぜったい信じないぞ!!ぜったいに…ゆるさないぞ!!
+Gulliver Boy Character 005
+チャプター先生って…ひょっとして…わたしたちの…まぼろし…だったのかも…しれない… だって…気が付いたら私たち…先生の写真って…一枚も……持ってなかったのよ… ちゃんと先生を真ん中にした写真も…現像したら　そこだけポッカリと…誰も写っていないの…
+Gulliver Boy Character 005
+…ガリバー………………………チャプター先生が…消えちゃったの……すごく…さみしい… コンパスをなくした…船乗りみたいに…ネジの切れた…オルゴールみたいに…割れちゃった…合わせ鏡みたいに…
+Gulliver Boy Character 004
+ボク…いつか　チャプター先生みたいなりっぱな　教師になるんだ。
+Gulliver Boy Character 007
+やぁ！　ガリバー!!　ひさしぶり!!チャプター先生に教わった　炎の魔法…今なら…カンペキに出せるよ!!
+Gulliver Boy Character 008
+あら？　ガリバーじゃない！なつかしいわぁ！　元気だった？うしろの人　ひょっとして　恋人？
+Balkan VillageEdit
+Event: Praise for Edison
+
+Gulliver Boy Character 038
+あー！　たまんねぇよ！　あの大洪水…そういや　昔から　よく言うもんな…『天災は…忘れたころに…やってくる』	その時　エジソンの耳がピクっと動きました。	
+Gulliver Boy Character 002
+…てんさい？…今…この人…天才って言ったよね！ そうだよね！　ボクは天才だもんね！ …忘れたころに　やってくるって？そうさ！　ボクたち　忘れたころにここに来たし…あの時だって…	その後　エジソンの自慢話はまる一日　続いてしまいました。
+Gulliver Boy Character 002
+あっ！　もうこんな時間だ！ねぇ　おじさん！　立ち話もナンだからさ　話の続きは　宿屋かどこかで… ………	しかし　目の前の男はピクリとも　動きません。	
+Gulliver Boy Character 038
+なんだい？　まーったく失礼なヤツだな！せっかく人が………ねぇガリバー！キミも　そう思うだろ？	
+Gulliver Boy Character 001
+…あっ…ああ……
+Chapter 3Edit
+Napoli (ナポリ)Edit
+Miyabi
+
+Gulliver Boy Character 046
+サシミにケチャップ…オシンコにオリーブオイル…焼きサカナに生クリーム… おえっ！いくらなんでも　客がひどすぎる！ああ　店やめたい…
+Gulliver Boy Character 046
+わび!!
+Streets
+
+Event: Meet Steel Bat
+
+Gulliver Boy Character 047
+がっびーん!!あーん　つかまっちゃった!!せっかく　スパイの練習してたのに… 感激だわ!!私　美少女スパイのスチール・バット！感激だわ<3 私　美少女スパイのスチール・バット！	
+Gulliver Boy Character 999
+…変な　おんなぁー!!フツー　自分のこと美少女なんて言えるぅ？	
+Gulliver Boy Character 047
+あら！あなた　妖精ね！うわぁ！　黒と白でとってもステキ！	
+Gulliver Boy Character 999
+ふん！
+Gulliver Boy Character 047
+ま　それはそれとして！ねぇねぇ　知ってる？	
+Gulliver Boy Character 002
+な…何を…？	
+Gulliver Boy Character 047
+あのね。この街の地下にはげっこーさんの秘密基地が　あるらしいわ。	
+Gulliver Boy Character 003
+月光ですって!!
+Gulliver Boy Character 047
+うん！　げっこーさん!!あの人　ステキよね！	
+Gulliver Boy Character 002
+月光の秘密基地って…どうして　それを…	
+Gulliver Boy Character 047
+秘密基地の情報だもん情報源は　もちろん秘密よ！　真相はこうもりだけが　知っているの！	
+Gulliver Boy Character 003
+あのね。私たち　遊んでるヒマはないの！　月光を見つけ出して月の首飾りを．．．
+Gulliver Boy Character 047
+あっ！　そうだ！すっかり　忘れてたわ。 私　リー１０倍博士に　手紙もらったの…あなたたちの　力になれって！かげながら　協力するわ！ 私　『ミヤビ』で待ってる！あそこが　秘密基地の入口なの。じゃね。ばっはっはぁーい!!	
+Gulliver Boy Character 999
+なんなのぉ？　あのおんなぁ!!
+Miyabi
+
+Event: Steel Bat Joins
+
+Gulliver Boy Character 046
+わび!!	『さび』が　ふしぎな声を出しました。	
+Gulliver Boy Character 046
+さび！ わびさびは日本の心！うむ　仲間であったか！入ってよろしい！	
+Gulliver Boy Character 047
+感激だわ！　これで秘密の地下基地に　入れるわね。それじゃ　レッツＧＯＧＯＧＯ!!！
+Gulliver Boy Character 999
+あんた　ついてくるつもり？	
+Gulliver Boy Character 047
+あんた　じゃなくて！ 美少女スパイのスチール・バット！バットちゃん　って呼んで!!	美少女スパイ　スチール・バットが強引に　仲間になりました。バットは　ガリバーに　魔拳ソニックのディスクを　手渡しました。
+Gulliver Boy Character 032
+ひさしぶりじゃのぉ…　ガリバー！わしじゃ！　リー１０倍博士じゃ！ ここで　おまえに　魔拳ディスクについて説明しておこう！ 各地にちらばった　わしの弟子たちはそれぞれ　魔拳ディスクというものを持っておる！ おまえは　彼らを仲間にするたびにその　魔拳ディスクを一枚　手に入れることが　できるのじゃ！ 魔拳ディスクは　おまえの身につけた魔拳グローブに　ある特別な力を与える。しかし　持っているだけではダメじゃ。 おまえたちの船　シーライオンに魔拳ローダーという　装置があるはずじゃ　そこに　魔拳ディスクをさしこむがよい！ …すこし　長い説明になったが…理解してもらえたかな？
+Gulliver Boy Character 032
+そうか！　では　わしはまたベニスに戻ることにしよう…ガリバー！　がんばるのじゃぞ！	
+Gulliver Boy Character 002
+なんか　一方的に説明して…帰っちゃったよ…　	
+Gulliver Boy Character 003
+博士…あの説明のために…わざわざ　ベニスから　来たのかしら？
+Gulliver Boy Character 999
+きっと　よっぽど　ヒマなのよ！
+Gulliver Boy Character 002
+じゃ　ま　とりあえず…船に戻って先に魔拳ローダかな？　で　その後に月光を倒すということで…
+Gulliver Boy Character 999
+エジソン！　なんか　博士の説明口調がうつったんじゃない？	
+Gulliver Boy Character 002
+いや…はは…は
+Chika Wafuu Dungeon (地下和風ダンジョン)Edit
+Gekkou no Ma (月光の間）
+
+Event: Gekkou
+
+Gulliver Boy Character 042
+これは　おどろいた。まさか　君たちに　この秘密基地がつきとめられるとは...	
+Gulliver Boy Character 003
+月の首飾りを返してッ！	
+Gulliver Boy Character 001
+月光!!　返せ！	
+Gulliver Boy Character 042
+くくく…ははははは！　笑止千万！この月光に　貴様ていどの　ウデで勝てるとでも　思っているのか！ よかろう…こよいの月をお前の　見おさめにしてやろう！かかってこい！　ガリバー!!
+Gulliver Boy Character 042
+ウデを上げたな　ガリバー！だが　私が忍者であることを忘れるなよ！ ははははは…キサマが倒したのは私の影だ！そうだ　ほうびに　ひとつ教えよう。 もうすぐ　この秘密基地は　爆発する早く　逃げたほうが　いいぞ…ハハハハハハハハハハハハ……………	
+Gulliver Boy Character 002
+うっ…ガリバー!!毒だ！　毒の霧…身体が…動かないよ…
+Gulliver Boy Character 001
+ううっ…ここは？	
+Gulliver Boy Character 012
+あら　気がついた…ああ　よかった！ここは　ナポリの宿屋！心配　いらないよ… でも　赤い忍者の女の子がさあんたらを　運んできたときはびっくりしたわよ…	
+Gulliver Boy Character 003
+赤い忍者…あの人だわ！でも　どうして　いつも助けて　くれるのかしら？　	
+Gulliver Boy Character 001
+知らねえよ…助けるのが　シュミなんだろう…	
+Gulliver Boy Character 012
+もうひとりの　うるさい女の子はさっき　出ていったよ。
+Gulliver Boy Character 012
+まったく…若い人は　ムリするから…
+Event: Villain Spotted in Rome
+
+Gulliver Boy Character 047
+ガリバーさん!!ねぇねぇ　知ってる…？	
+Gulliver Boy Character 002
+バット！　どうしたんだぃ？	
+Gulliver Boy Character 047
+ベニスで反乱を起こしたドガ将軍…彼がなんと！ローマに　いるらしいわ！	
+Gulliver Boy Character 001
+なんだとー！　ドガのクソ野郎！生きて　やがったのか!!	
+Gulliver Boy Character 002
+ドガのヤツ　今度はローマで悪いこと　してるんだ！
+Event: Return to the Sub
+
+Gulliver Boy Character 047
+ＢＵＴ!!	
+Gulliver Boy Character 002
+な　なんだい？　いきなり！	
+Gulliver Boy Character 047
+ローマに行くなら　おソバを買って行ったほうが　いいわ！
+Gulliver Boy Character 003
+え？　おソバ？	
+Gulliver Boy Character 047
+うそう！　おソバ！ローマには　ジョアンナっていうメイドさんがいるの。 その人って　すごい　ワガママでおみやげに　おソバを買って行かないと街に　入れてくれないって　ウワサよ。 これがホントのメイドのみやげ…よね？	
+Gulliver Boy Character 002
+…なんかちょっと　違うと思う…
+Sicily (シチリア)Edit
+獣人をつれていきますか？　つれていく　つれていかない
+
+Item Shop
+
+Gulliver Boy Character 048
+だめだ　不景気だ。。。　いま　夜逃げの準備なんだ。。。　出てってくれ！ そうだ　あんた　いいとこに来た！　この指輪　ニキータさんが　あずけていったんだ。。。 どうも　わけありみたいでよ。。。　高価な婚約指輪なんだな。。。 相っちまうわけには　いかねえからよ。。。 だから　返してきてくれ！　ニキータさんに　返してきてくれ！　。。。これが。。。その指輪だ！
+Gulliver Boy Character 048
+くえぐれも　たのんだぞ！　ちゃんと　 ニキータさんに渡してくれよ！　ネコババするなよ！ え？　そんなに心配なら　自分で　わたせって？　そっそんな。。。ふるふるふるふる。。。
+Nikita's Home (ニキータの家)
+
+Event: Meet Nikita
+
+Gulliver Boy Character 050
+なんだよ…赤マフィアに入るのか!!ちぇ！　ガキが…出ていきな！ えっ!! …………………………………… 出ていけ！	
+Gulliver Boy Character 050
+また来たのか!!　出ていきな！ えっ!？!　………あんたの…………その………指輪………？ …そんな　指輪…持ってこないで！どこかに　捨てな！	
+Gulliver Boy Character 002
+捨てろって　言ってるよ…
+Gulliver Boy Character 050
+ま　待って！　その指輪は……捨てないで……………ガリバー！	
+Gulliver Boy Character 002
+え？　ガリバー！　知り合いなの？	
+Gulliver Boy Character 001
+オレは…知らねえよ…
+Gulliver Boy Character 050
+そう　憶えていない？ずいぶん　むかしのことだもんね… あたしの母さん…レッド・ママとあんたの父さん…パパ・トスカーニは親友だったのよ。 あたし　小さい頃　ベニスのお家に遊びにいったわ…忘れちゃったの？ あんたが　こんな小さかったものね…あんた　すごく　きかん坊でさ…ああ…なんだか　泣けてきちゃった… あの頃は　楽しかった…母さんも　元気だったし… 幸せが　すぐそこにあって不幸なんて　考えてもいなかった……………………………………… ねえ　あんたを男と　みこんでたのみがあるの！ その指輪を　コルシカのマーロンに返してきて！お願い！　ガリバー!!
+Gulliver Boy Character 050
+お願い！　ガリバー!!その指輪を　コルシカのマーロンに返してきて！
+Corsica （コルシカ）Edit
+Barbershop Secret Room
+
+Event: Eavesdropping on the White Mafia
+
+Gulliver Boy Character 049
+うまく　いってるニャン！	
+Gulliver Boy Character 049
+赤マフィアと　青マフィア…もうすぐ　また戦争になるニャン！	
+Gulliver Boy Character 049
+しかし…さすがは　キャット様！赤と青を　戦争させてそれから　ゆっくり…ニャハハハ…
+Gulliver Boy Character 049
+おれたちが　白マフィアだって赤も青も　気がついて　ニャイのさ！バカなやつらだニャン！	
+Gulliver Boy Character 049
+２年前は　失敗したからニャァ…せっかく　レッド・ママを　殺したのに…戦争にならなかったニャン！	
+Gulliver Boy Character 049
+こんどは　マーロンを殺して…ニャハハハ！　楽しみニャン！
+Streets
+
+Event: Marlon's Bodyguard
+
+Gulliver Boy Character 051
+……な…何だよ？　オマエ……何ジロジロ　み…見てんだよ？お？　や…やる気だな…ようっし！ ほ…本気だぞ！　…いためつけて……や…やるからな…かかって…きや……きやきやきや… あ…あにきーー！　あにきーー！あやしい　ヤツですぜ！　来て下さい！こいつを　ぶちのめして下さい！	
+Gulliver Boy Character 052
+オレは　ラオー。青マフィアで　一番強い男どうだ　オレと勝負しようぜ！ オレに勝ったらマーロン様に会わせるぜ！さぁ！　タイマン勝負だ!!
+Event: Meet Marlon
+
+Gulliver Boy Character 052
+…くっ！　ゆだんしちまったぜ！おまえら…なかなか…ヤルじゃねぇか…約束だ！　マーロン様に会わしてやる！	
+Gulliver Boy Character 053
+ラオーに　勝ったのか…オレに　なんの用だ！	
+Gulliver Boy Character 001
+あんたに　渡す物が　あるんだ…	ガリバーは　マーロンに婚約指輪を　渡しました。
+Gulliver Boy Character 053
+ん？　……そ　それは…ニキータにあげた　婚約指輪… まだ　持っていて　くれたのか……ニキータは　婚約指輪を　捨てたと言った…あれは　ウソだったのか！	
+Gulliver Boy Character 003
+女の　ウソには……男への　甘えがあるわ。	
+Gulliver Boy Character 053
+え……あのニキータが……	
+Gulliver Boy Character 003
+ええ…つっぱってる女ほど心の中は　弱いものよ… きっと　あなたが　あやまるのを期待してたのね……。
+Gulliver Boy Character 053
+そうか…難しいもんだな…だが　もう　おそい！ 仲間が　彼女に　やられている…戦争は　さけられない！	
+Gulliver Boy Character 003
+男って　どうしようも　ないのね…	
+Gulliver Boy Character 001
+床屋に　白い服のマフィアがいたぜ！キャットとかいう　ヤツが　戦争をさせたがってるって　言ってたな…	
+Gulliver Boy Character 053
+な　なんだと！　ちょっと待て！今　しらべる！　おーい！　だれか床屋を　しらべるず！！ はい！ ここで　すこし　待っててくれ！
+Gulliver Boy Character 052
+おとなしく　待っててくれ…
+
+Event: Marlon Returns
+
+Gulliver Boy Character 053
+よし！　いまから　彼女に会う！もう　戦争は　ヤメだ！くそっ！　白マフィアめ！ たとえ　彼女に　撃たれようと仲直り　しなければ！さあ　行こう！
+SicilyEdit
+Event: Arriving
+
+Gulliver Boy Character 048
+げっ！　…て　てめえは………マーロン!!!!　ヒエー!!!!	
+Gulliver Boy Character 050
+なにしに来た!!	
+Gulliver Boy Character 053
+ゆるしてくれ・・・	
+Gulliver Boy Character 050
+うるさい！帰れ！撃ち殺すよ！
+Gulliver Boy Character 053
+それで　仲直りできるなら撃ってくれ！　ニキータ！	
+Gulliver Boy Character 050
+本当に　撃つよ！……………	
+Gulliver Boy Character 003
+ダメ！
+Gulliver Boy Character 001
+だまってろ…
+Gulliver Boy Character 050
+撃てないわ……あんたを　撃てるわけ　ないじゃない!!だって……
+Gulliver Boy Character 053
+ニキータ！結婚してくれ!!　もう　絶対にキミを　悲しませない!! オレの中に流れるマフィアの血にかけて　ちかう!!	
+Gulliver Boy Character 050
+うん！	
+Gulliver Boy Character 053
+もう　戦争は終わりだ！二人で　力を合わせ平和な　国にしよう!!	
+Gulliver Boy Character 001
+行こう…
+Gulliver Boy Character 053
+ニキータ…これからは　二人で　力を合わせて！この国を平和にしていこう！
+Gulliver Boy Character 050
+…………マーロン……
+Marlon's House (back in Corsica)
+
+Gulliver Boy Character 053
+…よよっ…よう！　き…来てくれたのか？いや…うれしいな…ま…ゆっくりしてけ！おまえは　オレたちの恩人だからな！	
+Gulliver Boy Character 050
+…ガリバー………ありがとう…
+Port of Rome (ローマの港)Edit
+Streets
+
+Gulliver Boy Character 012
+アタシゃ　キャット様のメイドジョアンナさ。なんだか　ナポリ名物のソバが　食べたい気分なんだけどねぇ… おや？　…そのにおい…あんた　ソバを持ってるね？ なかなか気がきくじゃないか！さぁ！　そいつを　よこしな！ここを通してやるよ！ だけど　中でどんな　トラブルにまきこまれても　知らないからね！
+Navona (ナボナの村)Edit
+Streets
+
+Event: Swindled Gentleman
+
+Gulliver Boy Character 054
+私は…全てを失った… 地位を…名誉を…財産を…屋敷を…そして…最愛の娘を… …くそっ！あの　いまいましい　キャットめ！	
+Gulliver Boy Character 003
+キャットって…？	
+Gulliver Boy Character 054
+ああ　キャットのヤツが……娘を…かわいいスターシャをさらって　いったんだ!!	
+Gulliver Boy Character 002
+女の子を　さらうなんて　最低だな!!ボクたちが　助けてあげるよ！	
+Gulliver Boy Character 054
+ふんっ！　お前らのような子供に　何が　出来るというのだ？さぁ　出て行ってくれ!!
+Gulliver Boy Character 054
+娘を助けるだと？　…お前らのような子供に　何が　出来るというのだ？さぁ　出て行ってくれ!!
+
+Event: Pepperoncini and Friends
+
+Gulliver Boy Character 055
+王様が　たのしそうだ。こっちの暮らしが向いているんだ。	
+Gulliver Boy Character 057
+ううっ…楽しい…わけねえよ…トホホホ…王宮の暮らしに戻りたい!!	
+Gulliver Boy Character 056
+はい　わしがペペロンチーニ王じゃ！ああ　あいさつは　いらないぞよ！ みんな　自由勝手に　どーぞ！ いやぁ　たのしい！　ここの生活！なにせ　風呂に入らんで　いいからなぁ。仕事もしなくてＯＫじゃよ！　どーぞ！ 起きたいとき　起き。寝たいとき　寝る。なはははは　これぞ　究極のぜいたく！お前も　やりなさい！　どーぞ！
+Gulliver Boy Character 055
+王ちゃまは　味覚オンチだからな…ああ　人間の食事がしたい！
+Gulliver Boy Character 057
+これは　これは。　いらしゃい！ちょうど　ヤキ魚が焼けたところです。おひとつ　いかがですか？	ヤキ魚を　受け取りますか？	
+Gulliver Boy Character 057
+さあ　どーぞ！おいしいですよ！
+Event: The Big Musical Number!
+
+Gulliver Boy Character 056
+わしがルンペン王ペペロンチーニじゃ！うわーははは！ どうじゃ？　われわれの歌は？もういちど　聞くかね？ どーぞ！	
+Gulliver Boy Character 056
+では　フルコーラスでどーぞ！
+Gulliver Boy Character 055
+Gulliver Boy Character 056
+Gulliver Boy Character 057
+♪ ♪ We we Lumpen!
+Hilarious Humpen!
+There is nothing to lose!
+Easy-to-use pleasures good music GOOD LUCK!
+Nothing needs a pleasant life!
+From the morning until the evening GOOD LUCK!
+It's your own life!
+When the stomach is heh trash gourmet every day luxury dressed.
+Stardust broad dream gathered drunk on the free booze!
+We are Lumpen!
+Hilarious Humpen!
+We are Lumpen!
+Hilarious Humpen!
+There is nothing to lose!
+(guitar solo)
+We Lumpen!
+Hilarious Humpen!
+There is nothing to lose!
+To failure Toast! Worry GOOD BYE!
+Nothing needs a pleasant life!
+If you only have a dream, you have to worry GOOD BYE!
+It's your own life!
+Even if you wear
+rags, your heart is free and your life is upstream Up to you .
+We are Lumpen!
+Hilarious Humpen!
+We are Lumpen!
+Hilarious Humpen!
+There is nothing to lose! ♪ ♪
+Downtown (ダウンタウン)Edit
+Streets Event: Hungry Guards
+
+Gulliver Boy Character 049
+ここは　偉大なる白マフィアのボスキャット様の　お屋敷だニャン。中に入ることは　ゆるさニャイぞ!!	
+Gulliver Boy Character 049
+…よう！　相棒！	
+Gulliver Boy Character 049
+ニャンだ？
+Gulliver Boy Character 049
+…腹　へらニャイか？	
+Gulliver Boy Character 049
+さっき　メシ食ったニャン！	
+Gulliver Boy Character 049
+…でもよう…いわしのカンヅメ……だろ？
+Gulliver Boy Character 049
+ニャニが　言いたいニャン？	
+Gulliver Boy Character 049
+…こうやって　じっとしてると　腹へらニャイか？　…腹？	
+Gulliver Boy Character 049
+オリャー　へってニャイぞ！
+Gulliver Boy Character 049
+…ニャンかよぅ！	
+Gulliver Boy Character 049
+ニャンだよ!!	
+Gulliver Boy Character 049
+…最近　メシ食うことだけが…楽しみ　ニャンだよ　にゃ…
+Gulliver Boy Character 049
+おミャー　さみしいヤツだニャー！　他にニャイのか？　楽しみが？	
+Gulliver Boy Character 049
+…しいて　あげれば…	
+Gulliver Boy Character 049
+ふんふん？
+Gulliver Boy Character 049
+…おやつ…か…にゃぁ？	
+Gulliver Boy Character 049
+むっかー!!　オミャーとはつきあってられん　ニャロメ!!　!オリャー帰る！　あばよ!!	
+Gulliver Boy Character 049
+…あっ！？　おーい！！　帰りに　ヤキ魚買ってきてくれ　にゃぁーー!!　…ああっ腹へった　にゃぁ…
+Gulliver Boy Character 049
+くんくん　いいにおい…だにゃ？　…あっぁ　オミャー！ヤキ魚を　持ってるにゃん？ こっち　来い　にゃん！それを　食わせてくれ　ニャロメ！
+ガリバーは　ヤキ魚を　渡しました。
+Gulliver Boy Character 049
+うぐうぐっ　あはっ！　はふはふ…うミャぁ！　普通のヤキ魚にない…ビミョーな　すっぱさ… そして　この　ベチャッとした舌ざわり…鼻をくすぐる…このツンとしたニオイが…また…私の食欲をさそう… うっぐん…いやあ　こんな　うミャぁヤキ魚　生まれて初めて食ったにゃんいったい　どこでこれを… …う？　はがっ？　ぴりゅりゅ？……いや　話の途中で　すまニャイ…くるる？…ちょ　ちょっと…トイレに… すっ　すぐ戻るからニャ！ここで　待ってろ　にゃん!!
+Cat Mansion (キャットの屋敷)
+
+Event: Meet Cat
+
+Gulliver Boy Character 058
+生きてる女なんて　キライ！…わがままでさ！ロウ人形は　あたしを裏切らないわ！ ねー！　おーどりー!!ああっ　この冷たい肌…ゾクゾクしちゃう!! …あら？　おかしいわね！人間の　ニオイがするわ… 誰よ！　そこにいるのは!!出てらっしゃい！	
+Gulliver Boy Character 002
+キャット！　女の子たちを　解放しろ！	
+Gulliver Boy Character 058
+ほほほほ…女の子？…ひょっとして　この子たちの　事かしら？ …オードリー…キャッシー…ジェニファー…スターシャ…
+Gulliver Boy Character 003
+スターシャですって？あの　モスチャイルド公爵の娘さん？	
+Gulliver Boy Character 058
+あら？　モスチャイルド公爵だなんて　懐かしい名前ね。今頃　どうしてるのかしら？ アタシ　苦悩してる男ってだーいすきなの…もっともっともっとイジメて　あげたくなっちゃう！ あ…そうだわ！　いいことを思いついた！ んな　親父なんかより　もっともっと若くて　ぴちぴちした男をイジメて　あげちゃおうかしら？ …ふふふっ　わかる？あんたたちの　ことよ！
+Gulliver Boy Character 058
+んもう！　何やってんのよ！ぐず!!　マヌケ!!　ドジ!! もーう　頭に来たわ！あんたたち！　出番よ！
+Gulliver Boy Character 058
+何よ！　…こんな…こんなガキ共に!!ノロマ!!　人間のクズ!!…こうなったら　第３弾　行くわよ！
+Gulliver Boy Character 058
+…ああっ　何てことなの？ アタシの大切な　部下たちが…	
+Gulliver Boy Character 002
+大切な　部下のワリにはなんか…ずいぶん　ソマツにあつかってたような…？	
+Gulliver Boy Character 058
+おだまり!!　ああっ　かわいそうに…痛かったでしょうね…苦しかったでしょうね… でも　安心して！　アタシがいつかきっと　かたきを取ってあげる！このうらみ…　一生忘れないわ…
+Event: Strange Sound
+
+う…うう……う…………………	
+Gulliver Boy Character 002
+あれ？　何か聞こえなかったか?	
+Gulliver Boy Character 003
+聞こえたわ！　女の子の声よ!!	
+Gulliver Boy Character 002
+きっと　さらわれた　女の子たちだ。助けてあげよう!!
+Gulliver Boy Character 012
+あたし…何回も…何回も………………あのキャットに …………………………………………………………………………熱いローソクで …………………………………………………………………………………………………………………
+…取られちゃったんです………………………ロウ人形の人型を………………
+
+Gulliver Boy Character 012
+…あいつら　あたしたちを利用するだけ　利用して… ロウ人形が完成したらロクに食事も　くれなかったわ。
+Gulliver Boy Character 012
+スターシャっていう　女の子が昨日まで　ここにいたんだけど… 今朝　お金持ちの将軍の所に売られて行ったわ。たしか　ドガ将軍とか言ってたかしら？
+Gulliver Boy Character 012
+あたしを…助けてくれるの？自由になれるなんて　信じらんない!!
+あたしはフィーダ！　ずっと前からここに閉じ込められていたの……あーん　恐かったぁ!!
+
+Event: Leia
+
+Gulliver Boy Character 059
+助けに来て　下さったのですね。私は　花屋のレイアと言います… 実は私…あなたに　伝えたいことがあってワザとキャットに　捕まったのです。	
+Gulliver Boy Character 002
+…ムチャクチャだなぁ…	
+Gulliver Boy Character 059
+モスチャイルド公爵の娘　スターシャさんは　トレビの花屋敷に捕らえられています。 しかし　花屋敷に入るためにはある特別な鍵が　必要なのです。 コロッセウムにある　私のお店に来てください。あなたに　その鍵をお渡し　しましょう。
+Colliseum (コロッセウムの村)Edit
+Florist (花屋）
+
+Event: Get the Flower Key
+
+Gulliver Boy Character 059
+あなたがたの　おかげでこうして　また　お店を始められます。ほんとうに　ありがとうございました。 こんな　すさんだ世の中だから…せめて花をかざる心のゆとりだけでも　みんなに持っていてもらいたいって　思うんです。 さぁ　これが　花屋敷の鍵です。花でつくった『花の鍵』なんですよ。きれいでしょう?
+Colosseo (コロッセオ)
+
+Gulliver Boy Character 060
+おー!!　スゲッ!!　おおおっ！　これは！ああッ！あんなトコまで！　うひょー！あうっ!!　あうっ!!　あうっ!!　おーー!! んー何だよ!!せっかく　いいトコなのに… え？　あんたも　のぞきたいって？…しょうがねぇな… (FMV)
+Event: Participate
+
+Gulliver Boy Character 063
+ここは地獄のコロッセオ!!また　命知らずな若者がやってきたようだな…
+勝負するかい？それとも　ルールの説明を聞くかい？
+勝負する/説明を聞く
+それじゃ　かけ金として金貨１００枚を　もらうぜ！ あんたの乗る魔神は　奥にあるよ！それじゃ　気をつけてな！
+
+Gulliver Boy Character 063
+…すげぇ！　すげぇよ！　あんた！まさか　７回戦まで　勝ち抜くとはねぇ… オレは　今まで　何人もの魔神戦士を見てきたけど　あんた　特別だ！ さぁ！　賞金の　金貨１２８００枚！受け取ってくれ！
+Trevi　（トレビ）Edit
+Hayanashiki (花屋敷）
+
+Event: Dead Flowers
+
+Gulliver Boy Character 003
+ひどいわ！花がみんな　枯れている！	
+Gulliver Boy Character 001
+ここにいるヤツの　こころの中がすけて見えるぜ！	
+Gulliver Boy Character 002
+ドガ将軍がいるんだ！さあ　行こうよ！
+−−最愛の妻　サーシャ・モスチャイルドここに眠る−−
+
+ガリバーは　花の鍵を　使いました。
+
+Event: Disgraced General
+
+Gulliver Boy Character 035
+くそっ　くそっ！　あいつらが　ジャマしなければ　いまごろ　イスパニアからほうびをもらい…… どっかの国の　王になっていたんだ！ くそっ！　くそっ！こんなところ　たいくつだ！　ウイッ！酒だ酒だ！　女だ女だ！
+Gulliver Boy Character 035
+あああ！　お前は……………ガ　ガリバー！ おのれ！　オレのジャマしやがって！今度こそ　お前のオヤジと同じように　あの世に送っててやる！　ガハハハハ！
+Battle
+
+Gulliver Boy Character 035
+ゆ　ゆるしてくれ……………オレは　イスパニアのジュドーにだまされていたんだ… たのむ　命だけは　助けてくれ！
+Choose "Yes"
+
+Gulliver Boy Character 035
+……………すまないおれも　ベニスの将軍だった男だ…この礼は　させてもらう…………… そうだ　ひとつ　教えよう…………　王宮にいる　非情なるマルチスにはファイヤーの魔法が　有効だぜ！
+Choose "No"
+
+Gulliver Boy Character 035
+くそっ！　くそっ！	−−ドガ将軍　花屋敷に死ス！−−	ガリバーは　父のかたきを　うちました！
+Event: Try to Leave
+
+Gulliver Boy Character 002
+たしか　この屋敷にはモスチャイルド公爵の娘さんが捕まっている　はずだよ。ガリバー！　助けてあげようよ！
+Event: Rescue Stasha
+
+壁に　ボタンがあります。押しますか？
+Gulliver Boy Character 061
+私はスターシャ…モスチャイルド家の一人娘です。あなた方には　なんとお礼を言ったらいいのか… そうだ！　父に会ってください父は古くから　わが家に伝わる『ロムロスのメダル』を持っています。 きっと　あなた方のお役に立つ　はずです。
+Event: Exit (You Spared Doga)
+
+Gulliver Boy Character 029
+ガリバーさん！ドガは　王宮に向かいました。 トリオ・デ・イスパニアの３男非情なるマルチスと　さしちがえるつもりのようですよ！　では… え？　なぜ私が　そんなことを教えたかですって？…それは　ナイショです。
+Event: Exit (You Did Not Spare Doga)
+
+Gulliver Boy Character 029
+ガリバーさん！ついに　お父上の　かたきをうちましたね！　おめでとうございます！ しかし　本当の敵は　イスパニアです。ジュドーを倒す　その日までさらに　気をひきしめて　戦って下さい。 あ！　そうそう！トリオ・デ・イスパニアの３男非情なるマルチスは　王宮にいます。 私が　こっそり　鍵を開けておきました。今なら　ヤツを　倒せますよ！　では… え？　なぜ私が　そんなことをしたかですって？…それは　ナイショです。
+Roman Royal Palace (ローマ王宮)
+
+Event: Meet Maltese (You Spared Doga)
+
+Gulliver Boy Character 035
+もう　イスパニアのいいなりには　ならんぞ！　マルチス！このドガさまの力を　見せてやる！ ぐえええ！	
+Gulliver Boy Character 062
+くだらないヤツ…殺すのも　かったるい… あれ　扉が開いてたのか…オタクたち　だれ？	
+Gulliver Boy Character 001
+うるせー！　てめえらのやりかた気に入らねえな！	
+Gulliver Boy Character 062
+ボク　トリオ・デ・イスパニアの非情なるマルチス! ふーん　バトルする気なんだ…ボクときっと　オタクらを　殺しちゃうはははははははは！ 殺すよ！　絶対　殺すからね!!ボクに　生意気なこと　言ったキミ！特に　ゆるさないよ!!
+Event: Meet Maltese (You Did Not Spare Doga)
+
+Gulliver Boy Character 062
+あれ　扉が開いてたのか…オタクたち　だれ？	
+Gulliver Boy Character 001
+うるせー！　てめえらのやりかた気に入らねえな！	
+Gulliver Boy Character 062
+ボク　トリオ・デ・イスパニアの非情なるマルチス! ふーん　バトルする気なんだ…ボクときっと　オタクらを　殺しちゃうはははははははは！ 殺すよ！　絶対　殺すからね!!ボクに　生意気なこと　言ったキミ！特に　ゆるさないよ!!
+Event: Aftermath
+
+Gulliver Boy Character 062
+うおーーー!!…ゴルゴス兄さん!!ヤツを…ヤツをーーーー!!	床に何か　光る物が　落ちています…
+Navona (optional detour)
+
+Gulliver Boy Character 054
+娘を助けていただき感謝の言葉も　ございません。 これは　わがモスチャイルド家の家宝　『ロムロスのメダル』です。 このメダルは　英雄が持つべきもの…あなた方にこそ！　ふさわしいものです。さぁ　お受け取り　ください。
+Gulliver Boy Character 061
+イヤなことも　たくさんあったけど…こうして　お父さんに　また会えてそれが…　なによりの幸せです。 本当に…ありがとうございました。
+ColliseumEdit
+Colosseo
+
+ガリバーは　巨人の鍵を　使いました。 巨人の鍵は　音もなくくだけ散りました。
+
+Colosseo Underground (コロッセオ地下)
+
+Event: Meet Gorgos
+
+Gulliver Boy Character 064
+がっはっはっはっはそうか…オレと　やろうってのか？ いいだろう…先に一発　なぐらせてやるぜ！さぁ　かかって来い!!
+Gulliver Boy Character 065
+くっ…痛てぇじゃねぇか!!生まれて初めてオレを　本気に　させやがったな！ …もう　ようしゃ　しねぇぜ！さぁ　こっちに来い!!
+Gulliver Boy Character 065
+しっ　信じられねぇ…このオレさまより…強いヤツらが…いるな…ん…て…
+地上へと続く　はしごがあります。登りますか？
+
+Event: Meet Eroica
+
+Gulliver Boy Character 066
+まて!! ふふふ　驚かせて　すまなかった！部下の非礼は　おわびするよ！私の名はエロイカ…完全なるエロイカ！ さぁ　ここに来るがいい！この私と　正々堂々と勝負しようじゃないか！	
+Gulliver Boy Character 066
+ふふふ　ガリバー！…君のうわさは　聞いているよ… マルチスもゴルゴスも…君たちの前に　敗れ去ったそうだね……その勇気と努力は　認めてあげよう! しかし　ここまでだ。今の君たちはしかし　ここまでだ。当に勇気のある者ならこの私と戦おうとはしないはずだからね… 戦いは　ダビンチの芸術に似ている。完全に計算され純粋で　なければならない… さぁ　見せてやろう！この私の…完全なる力を…!!
+Gulliver Boy Character 066
+…なっなぜだ…私の計算に…狂いがあったと…いうのか…	
+Gulliver Boy Character 001
+お前の計算は　かんぺきだったよ！でもな　ひとつだけ　ミスがあった…それは…このオレを敵に回したことだ!!	ガリバーは　月のシリウスを手に入れました。
+宝箱には　レムスのメダルが入っています。取りますか？
+
+Trevi Streets
+
+Gulliver Boy Character 055
+トホホホホ…ガリバーさん！王ちゃまを説得して　くださいよぉ！ルンペンなんて　イヤですよぉ!!
+Gulliver Boy Character 057
+おいしい　ヤキ魚が　食べたくなったらどうぞまた　ナボナの村へおこしくださいね！　待ってますよ！
+
+Event: A Grateful King
+
+Gulliver Boy Character 056
+…このたびの働き　まことに 見事であったぞ!!　よくぞ！このローマを　救ってくれた！	
+Gulliver Boy Character 002
+ねぇ王様！　そのかっこうでお礼言われても　ちっともうれしく　ないんだけどなぁ…	
+Gulliver Boy Character 056
+いやいや　わしは　このカッコがスキなんじゃ…そして　この生活も… 王宮はこのまま　市民に解放しよう！そして　わしは　ルンペン王として　民に愛される　王となるのじゃ！
+v
+Gulliver Boy Character 003
+…お言葉ですが…王様！せめて　お風呂ぐらいは…	
+Gulliver Boy Character 056
+うっ　うるさーい!!クサイというのもまっこと　人間らしいではないか！ 体を　きれいにしても心が　よごれていては　イカン!! 人間　好きに生きることがよいとわしは　気づいたのじゃ！うわーはっははは!!　どーぞ！　
+Navona Streets
+
+Gulliver Boy Character 054
+あなた方は私に…忘れかけていた言葉を…そう　勇気という言葉を思い出させて　くださいました。
+これからは　娘と力を合わせモスチャイルド家をたてなおして　いきます。
+
+Chapter 4Edit
+Monaco (モナコへの港街)Edit
+Gulliver Boy Character 034
+ほらっ　そこの子供！モナコの港に　入りたいなら金貨３０枚の　入国税を払え！
+なかなか　いい心がけだ！よし！　入っていいぞ！
+
+
+Event: Second Toll
+
+Gulliver Boy Character 034
+おい　金貨４０枚だ!!	
+Gulliver Boy Character 002
+えー？　だって　さっき入口で払ったじゃないか？	
+Gulliver Boy Character 034
+それは入国税だろ！オレが取っているのは　通行税だ！ほら　金貨４０枚!!	
+Gulliver Boy Character 034
+なかなか　いい心がけだ！よし！　入っていいぞ！
+Event: Third Toll
+
+Gulliver Boy Character 034
+おっ　オレに話しかけたな？『会話税』を　取るぞ！	
+Gulliver Boy Character 002
+じゃぁ　話しかけないよ！	
+Gulliver Boy Character 034
+話しかけない場合は　『無視税』を取ることに　なっている。	
+Gulliver Boy Character 003
+だったら　どうすればいいのよ！
+Gulliver Boy Character 034
+おっ　質問だな？『質問税』は　金貨　何枚だったかな？たしか…	
+Gulliver Boy Character 001
+ふざけんなよ!!　みんな　こんなヤツに　かまってないで行こうぜ!！	
+Gulliver Boy Character 034
+…あっ　そういう場合は『行こう税』を…あっ　いや…何でも　ない!!
+Antoine Theater　（アントワーヌ劇場）
+
+Gulliver Boy Character 015
+お客さん！　お客さーん!!タダ見は　ダメですよ！　ちゃんと受け付けで　お金を払ってください！
+いらっしゃいませ　モナコ国営アントワーヌ劇場へ　ようこそ! ご入場は　金貨８００枚！ごらんに　なりますか？
+それでは　奥へどうぞ！
+
+Event: Meet Grucho Mucho
+
+Gulliver Boy Character 067
+…ん？　なんでぇなんでぇ…ウック久しぶりの…客…って聞けば…ウぃ…たった４人かよ…？ ったーく…やーってらんねーや…昔ゃあ　４００人の客　相手に…ヒック……そりゃー大舞台を…ははは… よう!!　…いいか！　おめぇら!!ひとりあたま…１００人分拍手しろよ…それじゃ　いくぞ！ 今日の歌………おめぇらに　選ばせてやるよ！
+内気なハトとチャールストン
+悲しいイヌとロックンロール
+間抜けなブタとパンク
+
+グルーチョ・ムーチョは　酔っぱらってねこんで　しまいました。
+Avalon (あばろん)
+
+Event: Sailor Tells of Grucho
+
+Gulliver Boy Character 068
+オレはよ！　人に命令するのは…好きじゃ　ねぇんだが…よ!! グルーチョ・ムーチョ!!ヤツの舞台は…見ろ!! カジノなんかで遊んでる　ヒマがあるならとにかく激情…じゃねぇや　劇場に行け！そして黙って　ヤツの歌を聞け!! 人に命令するのは　好きじゃねぇがよ…ヤツの歌を聞いたら　またここに来い！ 一緒に　ヤツのことを語り合おうじゃねぇか！	
+Gulliver Boy Character 003
+歌なら　もう聞いたわ。 …そうか…で　どうだった？まだ　ヤツの魂は生きていたか？ 生きているも　なにも　あのおじいさん舞台の途中で　寝ちゃったわよ。	
+Gulliver Boy Character 068
+え？　寝てたって？　…しょうがねぇなやめさせられちまうぞ……で？　親方は　何て言ってたんだ？	
+Gulliver Boy Character 002
+え？　寝てたって？	
+Gulliver Boy Character 068
+親方ってのは　劇場のオーナーの事さ。楽屋に行ってみな？たぶん　会えるはずだぜ！ …なあ　お前ら！　命令するのは好きじゃねぇんだがよ…親方にその辺を　聞いてみてくれよ。
+Dressing Room　（楽屋 ）
+
+Gulliver Boy Character 069
+グルーチョ・ムーチョか…いやぁ…あいつにはまいったよ!! 今まで　もうけさせてもらったから こうして　舞台を　やらせてるけど… 毎日　ヨッパラってさ……ああ…おまけに　イスパニアを　おこらせるような　歌ばかり　うたうからな… だいいち…あんなの　最近　はやらないよお客さんが　楽しくないもんな……まぁヤツの時代も　終わったってことだ… グルーチョを　やめさせて若い踊り子を　入れよう！
+Avalon
+
+Event: Godot's Grip
+
+Gulliver Boy Character 068
+オレはよ！　人に命令するのは…好きじゃ　ねぇんだが…よ!! グルーチョ・ムーチョ!!ヤツの舞台は…見ろ!! カジノなんかで遊んでる　ヒマがあるならとにかく激情…じゃねぇや　劇場に行け！そして黙って　ヤツの歌を聞け!! 人に命令するのは　好きじゃねぇがよ…ヤツの歌を聞いたら　またここに来い！ 一緒に　ヤツのことを語り合おうじゃねぇか！	
+Gulliver Boy Character 003
+歌なら　もう聞いたわ。 …そうか…で　どうだった？まだ　ヤツの魂は生きていたか？ 生きているも　なにも　あのおじいさん舞台の途中で　寝ちゃったわよ。	
+Gulliver Boy Character 068
+え？　寝てたって？　…しょうがねぇなやめさせられちまうぞ……で？　親方は　何て言ってたんだ？
+Gulliver Boy Character 002
+親方は　やめさせるって……	
+Gulliver Boy Character 068
+…そうか…そいつは残念だ… なぁ　お前！口は　かたいか？	
+Gulliver Boy Character 002
+うっ　うん！
+Gulliver Boy Character 068
+…ここだけの　話だけどよ！ヤツは　知ってるんだ。 このモナコを　影で支配する男ゴドーのことを…
+
+Gulliver Boy Character 002
+ゴドー？	
+Gulliver Boy Character 068
+そうだ。このモナコのギャンブルの収益は　全てイスパニアのために使われている。これは　知ってたか？	
+Gulliver Boy Character 003
+いいえ…知らなかったわ…
+Gulliver Boy Character 068
+金は全て　ゴドーが集めイスパニアに　送っている。 ヤツさえ倒せば　イスパニアにかなりの　打撃を与えることが出来るんだが…	
+Gulliver Boy Character 002
+それで…そのゴドーっていう男はどこにいるの？	
+Gulliver Boy Character 068
+それは…グルーチョ・ムーチョしか…知らない…
+Grand Casino　（グラン・カシノ）
+
+Event: Generous Lawrence
+
+Gulliver Boy Character 029
+どうです？　楽しんでますか？たまには　息抜きも必要ですものね。
+さぁ　どうぞ　このお金をお使いください！…他の皆さんには　ナイショですよ！
+
+金貨４０００枚を　手に入れました。	
+Gulliver Boy Character 002
+ね　ねぇあんた！　何者なの？	
+Gulliver Boy Character 029
+私ですか？　…そうですね………あなたがたの　ファンです。では……
+Event: Dr. Horse
+
+Gulliver Boy Character 070
+フンッ！　機械とギャンブルなんて…くだらねぇ… オレはいつも…死神と　ギャンブルをやっている。命　取ったり　取られたりのな。。。	
+Gulliver Boy Character 002
+………………………………何だったんだ…あいつ………
+Event: Bar Bunny
+
+Gulliver Boy Character 071
+いらっしゃいませ！ご注文は　何になさいますか？
+スクリュー・ドライバー…金貨２０枚
+パイル・ドライバー………金貨４０枚
+Ｆ１・ドライバー…………金貨８０枚
+では　金貨８０枚　いただきます！よろしいですか？
+それ！　いっき！　いっき！
+
+ガリバーは　酔っぱらってしまいました。
+Gulliver Boy Character 071
+うふふ　楽しんでる？
+
+Gulliver Boy Character 072
+おやッ！　これはラッキー！　あなたは１００００人目の　お客様です!! ささっ！　お客様には　賞品としてゴールド・カードを　さしあげます！いやぁ　おめでとう　ございます!!
+Gulliver Boy Character 071
+あら？　あなた『ゴールド・カード』を持っているのね？　ス・テ・キ！それじゃ　特別室に　ご案内するわ！
+VIP Room (VIPルーム)
+
+Event: Mopping Minigame
+
+Gulliver Boy Character 071
+ねぇボク！　金貨８枚であたしと　イイコトしない？	
+Gulliver Boy Character 002
+え…えっ？イイコトって…？	
+Gulliver Boy Character 071
+とぉっても　気持ちイイコトよ。ねぇ　どうする？	気持ちイイコトを　しますか？
+Gulliver Boy Character 071
+うふふっそれじゃ　奥の部屋に来て!!	
+Gulliver Boy Character 071
+それじゃ　ボク。この部屋を　お願いね。はいっ　モップ!!	
+Gulliver Boy Character 071
+どう？　イイ汗　かいたでしょ？おかげで　お部屋も　きれいになったわ！労働って　気持ちいいわよね？ もっと　キビキビ　働いてくれたら今度は　おだちん　あげるわ！また　チャレンジしてね！	
+Gulliver Boy Character 002
+どうだった？　ガリバー…やっぱり…気持ちよかった？
+
+Gulliver Boy Character 001
+…………………………
+Gulliver Boy Character 071
+１０秒！　すっごーい！はやいのね！　あなた！　ステキ！おだちん　１００倍に　はずんじゃう！ 金貨８００枚を　もらいました。
+Streets
+
+Gulliver Boy Character 060
+欲望の館マダム・キャットーステキな　ロウ人形の館よ！ ねぇ！　入ってかない…？金貨２０００枚！　スッゴイわよぉーー!!
+それじゃ　お客様　ごあんなーい!
+
+House of Desire　（欲望の館）
+
+Gulliver Boy Character 073
+悪徳の報い
+
+Gulliver Boy Character 074
+因果応報
+
+Gulliver Boy Character 075
+堕落　そして壮絶なる死
+
+Event: Cat's Trap
+
+Gulliver Boy Character 058
+オーッホホホ！ガリバー!!　憶えてる？キャットよ!! あんたのせいで　ローマから追放されたマフィア・キャットよ!! あんたたちのために　スッゴイ死に場所を用意してあげたの…右から２番目のロウ人形を　押してみて！
+Event: Cowardly Cat
+
+Gulliver Boy Character 058
+オーッホホホ！あなたたちは　ここで死ぬのよ！　さぁ　私の可愛い娘たち…こいつらを　殺しちゃいなさい!!
+Event: Cornered Cat
+
+Gulliver Boy Character 058
+なっ　何よこのカギ!!　…あっ　開かないじゃないの！！　んもう　…げ？　…しかた　ないわね…こうなったら　勝負よ!!　アタシの力…見せて　あげちゃうンだから!!	
+Gulliver Boy Character 058
+シ…死んじゃうの？…これが…美人薄命って… …死ぬの？　アタシ…死んじゃうの？…これが…美人薄命って… あ？!　あたし…男だったわ…………………こんど　生まれかわったら…………きっと　女に……美しい女に…
+Marseille （マルセイユの港）Edit
+House
+
+Event: Lawrence Provides an Upgrade for Edison
+
+Gulliver Boy Character 029
+ガリバーさんですね？　あなたにささやかな　プレゼントがあります。さぁ！　これを　お受け取り下さい。	
+Gulliver Boy Character 029
+これさえあれば　あなたの船はパワーアップしますよ。 取り付け方は　メカにくわしい　お友達に相談して下さいね。それじゃ… あ…なぜ私が　こんな物を　持っているか知りたいですか？…それは…ナイショです…
+Port of Algiers　（アルジェの港街）Edit
+Streets
+
+Gulliver Boy Character 034
+しかしウナギってのは　あの細い身体でどうやって　電気を起こしてるんだ？ま　つかみ所のない　話だけどな…
+Gulliver Boy Character 013
+『魂を持たない　どうしようもない土地』…カミュとかいう　有名な作家が…この国のことを　こう言ったんだ… よけいなお世話だよな！　まったく…そんな　ブランデーみたいな名前の男に　とやかく言われたかねぇよ！
+Gulliver Boy Character 034
+お前らのようなガキが　観光気分で来るところではない!!帰れ！　帰れ!! 子供は　ＳＳＳ塾にでも　入って勉強してりゃ　いいんだ!!
+Gulliver Boy Character 034
+お前たち　まさか採掘所からの脱走者じゃないだろうな？ リプリー様に　見つかるに早く　持ち場にもどれ！おしおき　されるぞ!!
+Gulliver Boy Character 013
+ああ…暑い！　アフリカン・サマーだ！…どのぐらい　暑いかって言うと… な? このぐらい　暑いんだよ！
+Gulliver Boy Character 034
+電気ウナギ養殖場と…地下の電炭採掘場…そしてドレイのように　働く男たち… アルジェには　電力をつくるすべてが　あるわけだ……
+Gulliver Boy Character 011
+…むかしの　アルジェは…そりゃぁ　いい国じゃった…豊かで　平和で……………… それが　今では……………………………………………
+Gulliver Boy Character 017
+若い男たちは皆　地下の採掘所で 働かされておる。 ここにいるのは　イスパニア兵と…わしらのような　老いぼれだけじゃ…
+Gulliver Boy Character 023
+電気ウナギから　電気をつくる……この最新科学の発明が　アルジェを豊かに　しました。 しかし……イスパニアに……すべてを　取られ……いまでは　ひどいものです。
+−−電炭採掘所のバイト求む!!　　アルジェ職業安定所−−
+
+
+Throne Room
+
+Gulliver Boy Character 013
+むかし　この国に　ロレンス様っていう王様がいたんだ。でも王宮の内部のみにくい　権力争いが　イヤになって… 王位を　大臣のジョームスに　ゆずって放浪の旅に　出ていってしまったんだ… それからだよ…この国が　イスパニアに占領されて　しまったのは…
+Gulliver Boy Character 013
+ジョームス王は　アルジェがイスパニアに攻められた時　真っ先に　逃げ出したんだあんなヤツ　この国のハジだよ…
+Gulliver Boy Character 012
+ああ…こんな時…ロレンス様がいてくれたら…
+Pub
+
+Gulliver Boy Character 016
+銅の盆銅の盆銅の盆銅の盆銅の盆銅の盆銅の盆…ははは！　宣伝なんて　商品名を何回言えるかが勝負さ！　銅の盆銅の盆
+銅の盆　ドンチュノー？　アルジェ名物の工芸品だ！　金貨２７０００枚！　買え！
+ありがとよ！　銅の盆！ほら　銅の盆！　受け取れよ！　銅の盆！!!ボンボン　銅の盆　銅のボンボン！
+
+Gulliver Boy Character 013
+羊の足を　パイで包んだその名も　『羊の足のパイ包み』！…そのまんまじゃねぇか！ でも　その　そのまんま　かげんがたまらなく　ステキなんだ！買って来い！　金貨３０００枚出す！
+Gulliver Boy Character 016
+ミントティーは　いらんかね？この香り…この味わい…飲んでミント　わからんぞ！　あははは… …ウケなかったか…ちっ！ミントティーは金貨９８０枚だ！　買え！
+よし！　そうでなくっちゃ！いやぁ　本物のわかるヤツは　ちがうな！ほらよ！　受け取れよ！
+
+Gulliver Boy Character 079
+はらヘリーノ　ペコリーノチーズ食いテーノ　金　出シーノ金貨１０００枚　出スーノ！
+Gulliver Boy Character 023
+おぅ！　なぁんてこったい！　オリーブ！てことで　オレは今　オリーブオイルを探してるんだ！　持ってないか？
+金貨１０００枚で　買うぞ！持ってないか？　え？　持ってない？おぅ！　なぁんてこったい！
+
+Gulliver Boy Character 012
+クスクス！　クスクス！　クスクス！…あっ！　笑ってるわけじゃ　ないのよ！クスクス！　クスクスを　売ってるの！ クスクス！　クスクスって言うのは小麦粉の団子に　シチューをかけた食べ物なのよ！　クスクス！ クスクス！　金貨１２８０枚なんだけど…クスクス！　クスクス！　買う？
+クスクス！　ありがと！　クスクス！
+
+Casbah (カスバ)
+
+Event: Eagle v. Toscani
+
+Gulliver Boy Character 076
+へっへっへ…兄ちゃん…いい体　してるじゃねぇか？どうだい？　ボクシングやらねぇか？ オレのマイボーイ　ハンマー・イーグルに勝ったら　金貨６００枚のファイトマネーをやるぜ！ もちろん　タイマン勝負だ！…どうでぇ？　やってみる気はあるかい？	
+Gulliver Boy Character 076
+へっへっへ…このオレの目に狂いはなかった！　さぁ　行けよ！四角いジャングルが　待ってるゼ！	赤コーナー　覆面ボクサーハンマー・イーグル!!青コーナー　ガリバー・トスカーニ！	
+Gulliver Boy Character 077
+へっ　ファイトマネーに目がくらんだガキが　のこのことリングに上がって来やがったな。 言っとくがよ　オレはつぇえゼ！オレの右の拳がうなるのを　三度見たやつはいまだに　いないのさ… １ラウンド…いや…１分で終わらせてやる！さぁ　かかって来いよ！
+Gulliver Boy Character 076
+立てぇ!!立つんだイーグルぅ!!
+Gulliver Boy Character 076
+イーグルが…負けた……しかたねぇ…約束だ……受け取れよ！	ガリバーは　ファイトマネーとして金貨６００枚を　受け取りました。	
+Gulliver Boy Character 077
+オレは　ボクサーだ！言葉は　いらねぇ……なぐり合って　理解するんだ！ おっさん！　オレは……あいつと　なぐ合ってオレの　『あした』が　見えたんだ！ あいつに　ついて行くぜ！
+Gulliver Boy Character 076
+あ…あぁ…わかったよ…いつか　こんな日が来ると思っていたさ……
+お前の　獣人としての血がめざめる時がな…… さぁ…行けよ…行け！　イーグル!!お前の　『あした』のために！
+
+Gulliver Boy Character 077
+ま　そういうことだ。よろしくたのむぜ…ガリバー！	イーグルは　ガリバーに　魔拳イーグルのディスクを　手渡しました。 覆面ボクサーハンマー・イーグルが仲間になりました。　
+Gulliver Boy Character 076
+…兄ちゃん…よろしくたのむぜ！オレのマイボーイハンマー・イーグルを… あいつぁ　このオレが　手塩にかけて育てた　ボクサーなんだ！
+
+Cave
+
+Gulliver Boy Character 034
+ここは　電炭採掘所だ！関係者以外　通すわけにはいかん！
+
+Library
+
+Event: To the Mines
+
+Gulliver Boy Character 016
+よう！　シケたツラ　してやがんな！おまえも　アレだろ？　仕事を探しにここに　来たんだろ？ だったら　炭坑夫　やらねぇか？なぁに　仕事は簡単さ！ 待遇も　バッチリ！ギャラも　ガッポリ！仕事は　ノンビリ！ まぁ　３日やったら　やめられねぇな！どうだい？ すぐ　おっぱじめるかい？	
+Gulliver Boy Character 016
+よし！　決まった。それじゃ　これを渡そう！こいつが　電炭採掘所の通行証だ！	通行諚を　手に入れました。
+Gulliver Boy Character 016
+さっそくだが　案内するぜ！ついて来いよ！	
+Gulliver Boy Character 034
+よう！　親方！また　新入りの炭坑夫をつれて　来たのかい？	
+Gulliver Boy Character 016
+そうともよ！　こんだけイキのいい　ヤツら　そろえりゃリプリー様も　お喜びに　なるだろうさ！
+Gulliver Boy Character 034
+ま　せいぜい　ぶっ壊れない　ていどにコキ使ってやって　くれよな！ははははは!!	
+Gulliver Boy Character 016
+リプリー様！若い　バイトを　つれて来ましたゼ！ バイトですから　別に死んだって　かまいませんよ！あはははははは……	
+Gulliver Boy Character 078
+そこに　置いときな！
+Gulliver Boy Character 016
+ははッ！　では　あたくしはこれで　失礼いたします…	
+Gulliver Boy Character 078
+ボヤボヤするな！　バイト！電炭を　５０個だ！あつめて　ここに持っといで!!
+Mine
+
+足もとに　電炭が落ちています。取りますか？
+
+Event: Harvesting Charcoal for Ripply
+
+電炭を全て　リプリーに渡しますか？
+ガリバーは　リプリーに全ての電炭を　渡しました。
+
+Gulliver Boy Character 078
+何だ…これっぽっちかい…まだまだ　足りないよ!!　烽ﾁと　マジメに　やんな!!	
+Gulliver Boy Character 078
+なに　やってんだ　このバカッ！電炭を　持ってくるんだよッ!!	
+Gulliver Boy Character 078
+…そうかい…アタシが　女だと思って甘く　見てるねッ!! アタシは　バイトなんて大キライなんだッ!! さぁ　モンスターのエサにでもなるが　いいさ！あははははははははは！
+Gulliver Boy Character 080
+おねがいだぁ！　もう許してくれぇ！これ以上　ボクを　いじめないでよ〜!!ぐっすん!!
+Gulliver Boy Character 080
+おい　新入り！　さっさと掘れよ！リプリー様に見つかるとモンスターのエサにされるぞ！
+Gulliver Boy Character 080
+プリーの前じゃ　ペコペコしてるクセにオレたちの　前だと　急にイバりやがる！あーあっ！　たまんねぇよ！
+Gulliver Boy Character 080
+家に帰してもらえん。かあちゃんの顔　忘れちまった…トホホホ…
+Gulliver Boy Character 080
+ヒーッ！　つらい！　つらいよぅ！朝から　…ずっと　この調子だ…メシも食ってねぇのに…死んじまうよ！
+Gulliver Boy Character 080
+朝から晩まで　穴掘りだ。ああ…子供に会いてぇ…
+Gulliver Boy Character 080
+アルジェの王・ジョームス１世様もリプリーに　国外追放されたってな……ま　関係ないけどな…
+Gulliver Boy Character 080
+あの監督　言ってるだろ？『健全な肉体に健全な精神』って… でもよ…すでにオレの肉体は　ボロボロだし…精神は　レロレロだ…
+Gulliver Boy Character 034
+体を動かせ！健全な肉体に　健全な精神！
+Gulliver Boy Character 034
+全部だ！　ここにある全部！いっさいの電炭を！　今日中に掘るのだ！いいか！　全部だぞ！　わかったな！
+Gulliver Boy Character 080
+そりゃ…言うだけなら… カンタンだよ…だったら　やってみろよ！　おまえ！…ぶつぶつぶつ…
+Gulliver Boy Character 080
+リプリーってのは氷の女だ。人間の命より　電炭１個の方が大事なんだぜ！　ったく!!
+Gulliver Boy Character 080
+ああ　つらい…つらすぎる…オレに　休みをくれぇぇぇぇー!!
+Gulliver Boy Character 080
+けっ！　やってらんねぇぜ！まったくよ………何様の　つもりだよ！　あいつは!!!!
+−−この先　リプリー様の部屋。　　文句のある方は　どうぞ……−−
+
+−−やさしい　リプリー様は　　あなたの文句に　すなおに　　耳を　かたむけます！−-
+
+−−私と一緒に考えましょう！　　リプリーより−−
+
+The Pit
+
+Event: Ripply's "Human Resources" Speech
+
+Gulliver Boy Character 078
+あたしに　文句を言いたいヤツがまだ　いたんだね…絶対に　ゆるさないよッ!! そこは　カスをこらしめる『ビリビリの間』！ あははははははははは！そこを出ると　みんな反省しておとなしく　なるんだ!!
+Gulliver Boy Character 080
+…もう　歩けん……反省します。リプリー様に…文句は…いいません…
+Gulliver Boy Character 080
+ちくしょう！　あのハリ紙…不満のあるヤツを　見つける　ワナだったのか…くそっ！
+Gulliver Boy Character 080
+ふ…ふざけんなよ…リプリー！て…てめぇの　言いなりに…なるか……
+Gulliver Boy Character 080
+リプリー様…これからはもっと　まじめに働きます。
+Gulliver Boy Character 080
+オ…オレ…レジスタンス……こ…こんなワナが…あるなんて…
+Machine Room
+
+Gulliver Boy Character 013
+よう！　新入りか!!『パワーアップ装置』　作動ＯＫだってリプリー様に　言ってきてくれ！ 青いボタンで　作動するんだ。くれぐれも　間違えないようにって…赤いボタンは　自爆ボタンだって… わかったな!!　青いボタンだぞ!!…あっ　これ　リプリー様の部屋のカギ！
+Gulliver Boy Character 013
+ここは　秘密送電所だ！　上のヤツらが掘った電炭を　ここで燃やして　電気を起こしてるんだ。まぁ　見てみろよ！ …と　こんな感じさ！　大量の電気をジブラルタルに送り　あの　移動要塞を…おっと　これは　秘密だった…
+Gulliver Boy Character 013
+電炭を　大量に燃やしものすごい電力を　つくってんだ…ジブラルタルに　送電するらしい… どうして　こんなに電力が　必要なんだ？!
+Gulliver Boy Character 013
+いま　パワーアップ装置を点検してるんだ！話しかけるな!!
+Ripply's Room
+
+Event: Ripply Confronted
+
+Gulliver Boy Character 078
+な…なんだ　お前は？	
+Gulliver Boy Character 002
+よくも　だましたなッ！これが　イスパニアのやり方なのか!!	
+Gulliver Boy Character 078
+あははははは！カスは　やっぱり　カスだよ！ いいかい？　世の中には２種類の　人間がいる。支配するヤツと　されるヤツ!! 支配されるヤツには自由に発言する　権利はない!!ただ　だまって　働くことさ！	
+Gulliver Boy Character 001
+ふざけんなよ…	
+Gulliver Boy Character 078
+ふん！　カスでも　おこるんだね…いいだろう！　相手をしてやる!! とことん　思い知らせてやる!!お前が　カスだってことをねッ!!
+Gulliver Boy Character 078
+こっ…こんなこと…絶対に…ありえないわ…あ…あたしが…男なんかに負けるわけが…あんな　カスに…
+Event: Exit
+
+Gulliver Boy Character 002
+ねぇ…さっき　秘密送電所で　ボタンがどうのこうのって　言ってたよね…あそこに　行ってみようよ！
+Machine Room
+
+赤いボタンを　押しますか？
+
+Mine
+
+Gulliver Boy Character 080
+へへっ…さっきからずっと…仕事　サボってるんだ…　♪ふふふーんでも誰にも　怒られないんだよな！ ♪るるるーん！　これが自由！　♪たららいやな仕事も　しなくていい！　♪ららら家に帰っても　誰も　文句言わない！　え？　だったら早く　帰れって？…ちがうんだよ！　しばらくは　このよいんに　ひたっていたいんだよ！
+Gulliver Boy Character 080
+イスパニアのヤツらが　いなくなってみんな　それぞれの国に帰って行ったよ！すげぇ　幸せそうな顔で… きみのおかげさ！　ありがとう！一言　お礼を言いたくてずっと…待ってたんだ！ それじゃぁ　オレ　帰るよ！家族が　待ってるからな！……あんたのこと…忘れないよ！
+Gulliver Boy Character 080
+アルジェは自由を　取り戻したんだ！もう　イスパニアのドレイじゃないんだ！…キミのおかげだよ！　ガリバー！
+Gulliver Boy Character 080
+え？　あんたら　リプリーを倒したって？じゃぁ　もう穴掘り　しなくていいのか？やったぁ！　家に帰れるぞぉ！
+Gulliver Boy Character 080
+`リプリーが　いなくなったからって関係ないさ！　オレはオレの仕事をする！それが　プロってもんさ！ まじめにがんばってりゃ　きっと　いつかいいこともある！　それを信じてさぁ！　掘って掘って掘って…
+Gulliver Boy Character 080
+平和だ！　アルジェが平和になったんだ！自由だ！　これが自由ってモンだ！酒だ！　あびるほど　飲んでやる！
+Gulliver Boy Character 080
+ああ…身体が…かってに…動いてしまう…もう…掘らなくて……いいのに…
+Streets
+
+Gulliver Boy Character 080
+イスパニアが　いなくなって…ようやく　気づいたんだ…オレは　やっぱり　穴掘りが好きだ！ これからまた　この電炭採掘所で働くつもりさ！　今度は　自分のために！そして　オレの家族のために！ 今まで　つらくて　しかたなかったけど… そうだよな…『やらされてる』って思えば仕事なんて　つらくて　当たり前だよな…
+Gulliver Boy Character 080
+さぁ！　また　電炭を掘るぞ！掘って掘って…掘りまくって…そして…アルジェの未来を　きりひらくんだ！
+MonacoEdit
+Antoine Theater
+
+Gulliver Boy Character 067
+…華やかな　ライムライトの影でこうして　去って行く男がいる…ははっ　笑ってくれ…
+Avalon
+
+Event: Learning Godot's Location
+
+Gulliver Boy Character 067
+ゴドーを待ってる　バカどもめ…　ん？　お前たちも…ゴドーを　待っているのか？	
+Gulliver Boy Character 002
+違うよ！　ボクたちはイスパニアを　倒すんだ！	
+Gulliver Boy Character 067
+…え？　なにぃ？イスパニアを倒すだって？…バカ言っちゃぁ　いけねぇよ!! オレだってよ…ちったぁ…逆らってみたさ…でもよ…相手が悪ぃ…悪すぎた！ 見ろよ…仕事を失って…飲んだくれた…このオレのみっともねー姿をよぅ！…ヒック!!
+Gulliver Boy Character 003
+グルーチョさん！私たち…本気なんです！	
+Gulliver Boy Character 067
+じゃ　やってみろ!!イスパニア　倒す前によ…まず　ゴドーを倒せ！　ヤツは地下だ！ カジノのバニーに　暗号を言えば中に入れて　くれるはずだぜ！今からその暗号を　教えてやろう！ 『山羊の耳のスープ』だ！まぁ　せいぜい　がんばれよ!! はははははは!!
+Grand Casino
+
+Event: Bar Bunny and the Passcode
+
+Gulliver Boy Character 071
+いらっしゃいませ！ご注文は　何になさいますか？
+ワイルド・ハニーパイ
+山羊の耳のスープ
+ブラウン・チェリー
+どうぞ　こちらへ…
+
+Gold Coin Sorting Station (金貨選別所)
+
+Event: Meet Godot
+
+Gulliver Boy Character 081
+むっ　誰だ　キサマ!!
+
+Gulliver Boy Character 002
+みんなを　休ませて　あげなよ!!かわいそうじゃ　ないか!!	
+Gulliver Boy Character 081
+ふふふ…バカどもに　休息など必要ない！さぁ　おまえら！　働け働け！馬車馬のようにな!!	
+Gulliver Boy Character 003
+…ひどい…ゆるせないわ!!
+Gulliver Boy Character 081
+…ほう…この黄金伯爵　ゴドー様に 口答え　できるヤツが　いたとはな…面白い…では…こうしたらどうかな？ ふふふふ…こいつらは　オレの命令には逆らえない！ …さぁ　お前ら！この　薄汚い 　ガキどもを　やっつけろ！特別ボーナスを　やるぞ!! ははははは　結局　世の中は金さ！こいつらは金さえ　もらえりゃ友達だって　裏切るんだ!	
+Gulliver Boy Character 002
+ひょえー！　ガリバー!!どうしよう？	
+Gulliver Boy Character 067
+待たせたな!! 皆の衆!!	
+Gulliver Boy Character 081
+何だ！　お前は!!
+Event: Grucho's Big Moment
+
+Gulliver Boy Character 067
+♪ ♪
+がんぼってみようぜ　誰かのために
+どうせ　－人じゃ　生きてゆけない
+Muuuuuu......Try, Try, Try
+知ってるかい？！
+だけど　愛が必要なんだ
+知ってるかい？！
+そうさ　愛が必要なんだ
+I Said I　Love You ♪ ♪
+
+
+Event: Beat Godot
+
+Gulliver Boy Character 081
+うううっ　馬鹿な…お前たち…金は欲しくないのか? くそっ…こうなったら　力ずくで　ねじ伏せてやる!!	
+Gulliver Boy Character 081
+…た…頼む…助けてくれ…金なら…いくらでも…だ…す…	
+Gulliver Boy Character 082
+いよう！　兄弟!! 見てたのことアルよ！ あのゴドーを倒す姿！ あいつにゃ　ずいぶん　商売をジャマされたのこと……いつかブッ倒そうと　思ってたんだが… まぁ　あんたらに先を　こされちまったわな！
+Gulliver Boy Character 002
+誰なんだよ？　おまえ…	
+Gulliver Boy Character 082
+あっ？　オレかい？…よっくぞ!!　聞いてくれました! オレの名はビッグ・マウス!!　無敵商人　ビッグ・マウスだ!!　あんたら　気に入ったぜ!!	無敵商人　ビッグ・マウスが仲間になりました。
+Gulliver Boy Character 082
+なんってったって！無敵だからな！　このオレは! あんたらは　きっと　このオレが　仲間になったことを神様に　感謝するだろうよ！ あーっはっは!!　…は!!	
+Gulliver Boy Character 002
+まだ誰も　仲間にするなんて言っては…	
+Gulliver Boy Character 082
+だーまらっしゃい!!　そうした方が　あとあと便利なんだって!! じゃ　オレは　あんたの船で待ってるから！　それと…こいつはあんたに　くれてやるのことアルよ！
+マウスは　ガリバーに　魔拳ゴールドのディスクを　手渡しました。	
+Gulliver Boy Character 082
+おーお！　それとよ！　そこの　お嬢ちゃん!!	
+Gulliver Boy Character 003
+ミスティっていう　名前があるんだけど!!
+Gulliver Boy Character 082
+おーー！　そう…じゃぁよぅ!!　ミスティ!!	
+Gulliver Boy Character 003
+気安く　呼ばないでよ!!	
+Gulliver Boy Character 082
+ありゃりゃ！　なんか難しい女だねー！…まぁいいや！　あんたにはこいつをプレゼントだ!! …まぁ　ほんの…お近づきの印ってトコかな…取っとけよ!!それじゃぁな… おう！　ミスティ!!…オレにホレるなよ!!
+Gulliver Boy Character 003
+だっ　誰が!!	
+Gulliver Boy Character 002
+ねぇねぇ…ミスティ！何をもらったの？	
+Gulliver Boy Character 003
+月の首飾りが…反応してるわ!!…これって…ひょっとして… …青い…石？
+青い石・ジュピターを手に入れました。 その時　どこからともなく美しいメロディが　流れてきました… 『青き石　輝く時戦いの　どらが　聞こえる』 その声を…ミスティは　遠い昔に…どこかで　聞いたような……そんな気がしました…
+Gulliver Boy Character 067
+ゴドーを　ブッ倒したのか……こりゃ…イスパニアも…って思っちまうな… ムチャだと思うがそのエネルギーがイイぜ!! ひさしく　忘れていたな…こんな気持ち…そうだよな！　やれば　できるんだ！とにかく　やらなきゃ　ダメなんだ… ありがとうよ　目を覚まさせてくれて…これは　オレの　すおな　気持ちだ！　受け取ってくれ！ また　劇場に来いよ!!最高の舞台を　見せてやるぜ!! …あっ　それとよ！イスパニアを　ぶっ倒すならまずはマルセイユへ行け!! あそこにはオレの弟カラムーチョがいる。お前の力に　なって　くれるはずだぜ！
+MarseilleEdit
+Gulliver Boy Character 015
+金網のむこうには…私の恋人……フランシーヌが…ああ…フランシーヌ…この手で　だきしめたい！
+
+Event: Sneaking Through the Fence
+
+Gulliver Boy Character 083
+あの…ガリバーさんですか？!	
+Gulliver Boy Character 001
+ああ…そうだけど…	
+Gulliver Boy Character 083
+わたし…カラムーチョです…	
+Gulliver Boy Character 002
+おじさんがカラムーチョか！グルーチョの弟だろ!
+Gulliver Boy Character 083
+しっ!!　声が大きすぎます。目立ったことをすると兵士に　にらまれますから…	
+Gulliver Boy Character 002
+でもさ…いちばん　目立ってるのは…その　立て看板じゃないのかな？	
+Gulliver Boy Character 083
+こっ…これは失礼しました。すぐに捨ててきます。 さぁ　こちらへどうぞ!!秘密の　抜け道が　ありますので…	
+Gulliver Boy Character 002
+うわっ!!　…声が大きいよ!!　目立たないようにって　言ったのはおじさんだよ!!
+Gulliver Boy Character 083
+…まっ　まことに申し訳ない!!　すっかり　忘れておりました。兄のグルーチョから話は　聞いております…ささっ　こちらへ…	
+Gulliver Boy Character 083
+さぁ　ここまで来たら安心です。ここをこうすると…	
+Gulliver Boy Character 002
+ねぇ　おじさん？	
+Gulliver Boy Character 083
+はいはい！　何でしょう？
+Gulliver Boy Character 002
+もう　普通に喋っていいかな？	
+Gulliver Boy Character 083
+…！そっ　そうですよね。いやぁ　すいません。不器用なもんで… ええ　もう大丈夫。思う　ぞんぶん大声を上げられますよ。 あーえーいーうーえーおーあーおー!!　…ほぅら　大丈夫でしょう？	
+Gulliver Boy Character 034
+誰だ！　こんなところで奇声を発しているのは!!	
+Gulliver Boy Character 083
+いえ…あの…べっ…べつに…
+Gulliver Boy Character 034
+あやしい　ヤツめ!!ちょっと　来てもらおうか!!	
+Gulliver Boy Character 003
+…何だったの？…あの人…	
+Gulliver Boy Character 002
+…さぁ…
+Gulliver Boy Character 084
+この金網の奥に　恋人の…ボブがいるの…でも…　イスパニアに占領されて…ずっと…はなればなれなの…
+Village of Charles (シャルルの村圀囓覧)Edit
+Jeanne's House (ジャンヌの家)
+
+Event: Meet Jeanne
+
+Gulliver Boy Character 085
+あんたが　ガリバーかい？ウワサには　聞いているよ…あたしがジャンヌさ。今年で５０才だ！ なに？　若く見えるって…あたり前だよ！ あたしは　戦ってんだ！あの　イスパニアとね！ マルセイユを　とりもどすんだ！子供たちが　子供らしい生活ができる国にするのさ！ むかしの　あったかい家族ってのを かならず　とりもどす戦いさ！ おや？　…あんたたちを案内した…カラムーチョはどうしたんだい？	
+Gulliver Boy Character 002
+あのおじさん　兵士に　捕まっちゃったよ！	
+Gulliver Boy Character 085
+何だって!!　困ったねぇ… すぐに　クロスビーを　お呼び!!
+Gulliver Boy Character 086
+クロスビーは…ギックリゴシで　動けません！	
+Gulliver Boy Character 085
+それじゃぁ　スティルスは？	
+Gulliver Boy Character 086
+スティルスは…シンケーツーです！
+Gulliver Boy Character 085
+ナッシュは？　ヤングは？バッファローは？　デジャブは？	
+Gulliver Boy Character 086
+は…はい……それら全員…食中毒で　入院しました… ゲートボールのとき　食べたベントーがどうも　くさってた　みたいで…	
+Gulliver Boy Character 085
+あああ…もう！　なんてこと…………… ………………………………………… パエリアのヤツを　倒して……………ＳＳＳ塾から　子供たちを　助けるあたしの　大計画が………………… ああ！　この足さえ　ちゃんと動けば………　ねぇ　ガリバー！お願いだよ…　わたしたちの　かわりにパエリアを…パエリアを倒しておくれ！
+Gulliver Boy Character 085
+ありがとう　ガリバー!! やっぱり　トスカーニの息子だね… そうだ！　とにかく　カラムーチョを探して　アイツから『ゴムゴム』を　もらいな！ 『ゴムゴム』がないと　パエリアの電撃ムチで　やられちまうよ！ ああ…しゃべってたら　なんだかますいが　きいてきたみたいだ… わるいけど　休ませてもらうよ　………………………………………　スーー　………………………………
+Gulliver Boy Character 086
+かわりに　私が説明　いたしましょうか？ トスカーニさま…ロレンスさま…多くの方々に　えんじょをもらって武器は　あつめたんです…… でも……こう　オイボレばかりじゃ…そうそう……カラムーチョはプロヴァンス刑務所です！　この『万能鍵』を　もっていって　下さい！ あなた方に　このようなお願いをするのは…非常に心苦しいのですが…どうぞ…お気をつけて…
+MarseilleEdit
+Prison (刑務所)
+
+Gulliver Boy Character 034
+最近　イスパニアに　さからうレジスタンスの活動が　活発なんだ。見つけたら　通報しろよ！
+
+Gulliver Boy Character 034
+ここは刑務所だ。中に入りたけりゃどこかで　悪いことして来るんだな！ハハハハハハ!!　
+
+Event: Prison Break
+
+Gulliver Boy Character 034
+聞いたか？　ジュドー様の命令で　アイツがこの国に　来ている　らしいぜ！	
+Gulliver Boy Character 034
+…アイツって…ヤツのことか？	
+Gulliver Boy Character 034
+…そうさ　あの恐ろしい男のことだ。なんでも…金貨５万枚で引き受けたとか…	
+Gulliver Boy Character 034
+そんなに…　
+Gulliver Boy Character 034
+ああ…しかし　ヤツにしか出来ない　大仕事だ…	
+Gulliver Boy Character 034
+…そうだろうな…しかし　いよいよ　始まるんだな。本格的な　レジスタンス狩りが…	
+Gulliver Boy Character 034
+ああっ　おもしろくなってきたな…　オレたちも　がんばって　レジスタンスのヤツらを　血祭りにあげてやろうぜ！	
+Gulliver Boy Character 002
+そんなことは　させないぞ!!
+Gulliver Boy Character 034
+なんだ　小僧!!　…さては　お前もレジスタンスだな!!	
+Gulliver Boy Character 034
+ふざけやがって!!子供だからって　ようしゃしないぜ！
+ガリバーは　万能鍵を　使いました。 万能鍵は　音もなく　くだけ散りました。
+
+Event: Receive Rubber
+
+Gulliver Boy Character 083
+おおっ！　助けてくださるのですね！ありがたい!!　ありがたい!!…ここのメシの　まずさと言ったら…	
+Gulliver Boy Character 003
+世間話　しているヒマはないわ!!さぁ　行きましょう!!	
+Gulliver Boy Character 083
+まっ　待ってください！これを　お渡し　しなければ…	
+Gulliver Boy Character 083
+この『ゴムゴム』は　パエリアを倒すための　秘密のアイテムなのです！ まず　この原理から説明いたしましょう！この『ゴムゴム』は…　	
+Gulliver Boy Character 002
+わわっ　わかったよ！わかった!!さぁ　行こう!!
+Village of CharlesEdit
+Event: Gekkou Returns
+
+Gulliver Boy Character 042
+むっ　ガリバー！	
+Gulliver Boy Character 001
+月光!!今度こそ　決着をつけるぞ!!	
+Gulliver Boy Character 002
+そうだ!!	
+Gulliver Boy Character 042
+ふっ　元気がいいな…！しかたない…くらえっ!!
+Event: Cowardly Killer
+
+Gulliver Boy Character 042
+強くなったな！　ガリバー!!この勝負　あずけた… いや　私の負けにしておこう！さらばだ!!	
+Gulliver Boy Character 002
+な…なんだ…いまの　爆発は!!	
+Gulliver Boy Character 003
+見て!!　村が…	
+Gulliver Boy Character 003
+ひ…ひどい……誰が　こんな事を…	
+Gulliver Boy Character 001
+月光のヤツだ…	
+Gulliver Boy Character 083
+ガリバーさん!!　こっちです！
+Event: Check on Jeanne
+
+Gulliver Boy Character 085
+く…くやしいよ …………… 村が　やられた ………………………………………………… あんな　男ひとりに…… せっかく……せっかくＳＳＳ塾までの…………	
+Gulliver Boy Character 002
+あきらめちゃダメさ！	
+Gulliver Boy Character 085
+あんたらは　いい子だね。若いってのは　スバラしいよ！ あたしら　レジスタンスが　バックアップできないのに……あんたらだけを行かせられないさ…… 今日は……もう寝かせておくれ……スーー ……スーー ………………………
+Gulliver Boy Character 086
+本当に…パエリアと戦うのですか………それなら………タンスのうしろに…地下道への　入り口が…………… タンスを動かす　スイッチは…………ヌイグルミの下に　あります… でも……あまり……ムリをなさらずに…あなた方に……これ以上………………ご迷惑を……かけるわけには……………
+
+Gulliver Boy Character 083
+ガリバーさん…あなたに　いっぱいたくさん　ごめいわくを　かけてしまってジャンヌ様に　しかられてしまいました… あっ！　いえ！　決して！しかられたのは　あなたのせいだなんて…あの…がんばって…ください…
+
+Gulliver Boy Character 087
+ヌイグルミの下に　スイッチがあります。押しますか？
+
+目の前に大きな岩があります。 おそらく　この岩がジャマをしてまっすぐに　掘れなかったのでしょう…
+地上へと続く　はしごがあります。登りますか？
+
+SSS　School　（SSS塾）Edit
+Event: Meet Paella
+
+Gulliver Boy Character 088
+だめよ！　だめよ！　だーめだめ!!そんなことじゃ　立派なＳＳＳにはなれないわって感じィ!! キーっ!!ミーの前で　そんなブザマな姿を見せちゃったりするわけぇ？ おっしおきよぉーー!! ピシピシピシピシピシピシピシピシ!! ピィーシピシピシピシピシピシ!!	
+Gulliver Boy Character 089
+やめてください！　教官!!	
+Gulliver Boy Character 088
+お黙り!!黙らない黙ります黙るとき黙れば黙れ!! …ミーに口答えしちゃったりするわけぇ？
+Gulliver Boy Character 089
+いえっ　そんなつもりは…	
+Gulliver Boy Character 088
+こいつはね！　オチコボレなの!! ダメダメって感じィ！ こーぉいうカスは　ミーがビシビビシビシビシビシビシビシビシビシビシビシビシビシお仕置きしなきゃダぁメなの！	
+Gulliver Boy Character 089
+で…でも…
+Gulliver Boy Character 088
+でーももストライキも安保反対も最後の時計台放送も中津川フォークジャンボリーもあーりません！！ ミーに絶対服従しない限り　ＳＳＳにわ　はいれなぁーい!!	
+Gulliver Boy Character 089
+…すみませんでした。パエリア様…	
+Gulliver Boy Character 088
+そーれでよろしーい!!　さぁ　とっとと　このオチコボレを片付けて　次は　殺人術の講義よーーーーん!!
+扉は　かたく　閉ざされています。
+
+AAA Room
+
+Gulliver Boy Character 090
+今日　パエリア教官からジュドー王様の半生について　お話をうかがったんだ……感動したなぁ…
+Gulliver Boy Character 090
+人を１人殺したら　殺人だけど１００万人殺したら　英雄になれる。パエリア教官に　教わった言葉だよ。
+Gulliver Boy Character 090
+ジュドー王様が　真の覇王として世界に君臨するために　ボクらは一生懸命勉強しなくちゃ　ならないんだって…
+Gulliver Boy Character 090
+パエリア様の　ムチでたたかれるとスキッ！　っとするんだ！愛のムチって　感じかな…
+Gulliver Boy Character 090
+よくできると　パエリア様はキャンディをくれるんだ。とっても　おいしいよ！
+
+SSS Room
+
+Gulliver Boy Character 090
+ん？　君たちは新入りかい？ボクたちはＳＳＳ！　まっ　言ってみればエリートって感じかな？
+Gulliver Boy Character 090
+いつかこの命　ジュドー王様のために捧げるんだ。それがこのボクにとって最高の未来なんだ！
+Gulliver Boy Character 090
+君もＳＳＳに入っちゃったりするワケ？　ボクなんかさ　言わせてもらえばＳＳＳの中でも最高の戦士なんだ！
+Gulliver Boy Character 090
+ああ…早く戦争がしたいな…そしたら　これまでの勉強の成果を思うぞんぶん　試せるのになぁ…
+Gulliver Boy Character 090
+競争こそ　人間の本質だよ！　ボクたちは５億匹の精虫の中の　選りすぐりの１匹によって　生まれたんだからね…
+Gulliver Boy Character 090
+頭のいい人間が　バカを支配する！当然だよね。だからボクたち　毎日いっしょうけんめい　勉強してるんだ。
+Gulliver Boy Character 090
+ローマ大学なんて　目じゃないよ！だってさ　あいつら　ボクたちとは偏差値が　３０も　ちがうんだもん。
+Gulliver Boy Character 090
+努力できるのも　ひとつの才能なんだよ。だってさ　バカなヤツって　ほとんどがこらえ性　ないでしょ？
+Hallway
+
+Event: Spotted
+
+Gulliver Boy Character 003
+…何よ!!　あの子たちみんなジュドーのことばかり…しゃべって…… どうして？…　誰があの子たちを……あんな風に　しちゃったの…私…私…許せない!!	
+Gulliver Boy Character 088
+誰かしらぁ…廊下で　さわいじゃったりしているのは？ あーら　見かけない顔だったりするわねぇ！　ひょっとしてレジスタンスかしら？! ミーはね。ここの鬼教官でパエリアって言うの。 子供が　レジスタンスしちゃ　ダメよ！あたしが　洗脳して　あげちゃうわ！ピシピシピシピシピシピシピシピシッ！	
+Gulliver Boy Character 001
+…気にいらねぇな…てめぇ…気にいらねぇよ!!
+Gulliver Boy Character 088
+あらあら　まーだ　わかってないみたいね。 廊下で　騒いじゃったりしたら　ミーのかわいい　生徒たちの　お勉強のジャマになっちゃったり　するのよねェ… …いいわ　それじゃ職員室に　きなさーい！　じーっくり反省させて　あげちゃったりするからさ まってるわよー!!アディユーゥ!!	
+Gulliver Boy Character 002
+まっ　待てぇ!!
+Faculty Room
+
+Event: Boss Time
+
+Gulliver Boy Character 088
+あーら　早かったわね。どう？　反省する気になったりした？	
+Gulliver Boy Character 002
+誰が反省なんか！！　お前が　反省しろ!!	
+Gulliver Boy Character 088
+んまぁ　スナオじゃなかったりするのね！イヤーンな感じィ！ それじゃ　こうしましょう！　ミーの作った　特製キャンディを　ごちそうしてあげちゃったり　しちゃうわ！ …これを食べると　どぉーんなオチコボレでも　スナオにすなおーになっちゃったり　しちゃうのよねー!! んんーーエンリョしちゃったりすることはないのよーん！　実はミーなんかさ　おフランスの　王家の生まれなわけよ。 そのミーが作った　キャンディだったりする　ワケですもん。まぁーずいなんて　言わせないわぁ!! さぁ　おフランスが誇る最高のキャンディを…あなたのお口に…突っ込んじゃったり　するわけよね！
+エジソンは　洗脳キャンディを食べて　しまいました。	
+Gulliver Boy Character 002
+ふわぁ…ガっ…ガリバぁー!!　やっぱり…ボクら…まちがってたよ!! パエリア…教官の…言う通り…悪いコトするのは…良くないよ…ピシピシピシピシッ！	
+Gulliver Boy Character 003
+エジソン!!いったい　どうしちゃったのよ!!
+Gulliver Boy Character 088
+ほほーほほっ！これで　オチコボレが一人減ったわねぇ？ 次は誰に…食べさせちゃったりしちゃおうかしらーん！	
+Gulliver Boy Character 001
+ふざけんな!!　	
+Gulliver Boy Character 088
+このデブ野郎!! …デブ野郎？!…デブ野郎ですって!!むむむむむむむむむむ… ついに　ミーを怒らしちゃったりしちゃったようね？　かぁくごしなさい！今度は電撃ムチよぉ！　ピシピシッ！
+Gulliver Boy Character 088
+ミッ…ミーは…こんな…美しくない死に方…イヤイヤイヤイヤイヤイヤよーー!!	
+Gulliver Boy Character 002
+あれ？　ボクは何を……パエリアは…パエリアは倒したのかい？	
+Gulliver Boy Character 003
+心配しなくて　いいのよ。エジソン！パエリアは　やっつけたわ！	
+Gulliver Boy Character 002
+ごめーん！ボク　ねぼけてたみたいだ…
+Event: One Last Thing
+
+Gulliver Boy Character 091
+ねぇ　お兄ちゃん！お兄ちゃんに　これあげる！ボクはもう　こんなの　いらないや！	ＳＳＳバッチを持ってるとイスパニアで　戦車に乗れるんだよ。
+Chapter 5Edit
+Port of Hispania（イスパニアの港)Edit
+Event: The Tour
+
+Gulliver Boy Character 034
+おっ！　ＳＳＳバッチを持っているな！イスパニア要塞を　見学したいのか？
+
+よし！　中に入っていいぞ!!
+
+Gulliver Boy Character 034
+おっ！　ツアー参加者だね？さぁ　戦車に乗せてあげよう！	
+Gulliver Boy Character 034
+ここが　われらイスパニアと盟友国リスボンを結ぶ　地下大トンネル『覇王の道』の入口だ。 まぁ　言ってみればイスパニアの大動脈だな！
+Gulliver Boy Character 034
+イスパニア要塞の城壁は世界最高の　守備力を誇っている。…ちょっと　試してみるかい？ な？　ビクとも　しなかっただろ？	
+Gulliver Boy Character 034
+しっ　静かにしろ!!ここは　ジュドー王様の　いらっしゃる宮殿だ。 …お？　お前たち　運がいいな！ちょうど　ジュドー王様の演説が始まるみたいだぞ!!	FMV
+Gulliver Boy Character 034
+いやぁ　すごい演説だったよな！オレなんか　まだ身体の　ふるえが　止まらないぜ！	
+Gulliver Boy Character 034
+どうだったかね？　見学ツアーは？	
+Gulliver Boy Character 003
+…吐き気がするわ!!
+Gulliver Boy Character 002
+あ…！　彼女…乗り物酔い…しちゃった　みたいなんだ……ハハ…気にしないで…くださいね…	
+Gulliver Boy Character 003
+…最低よ!!　…あんなヤツ…死ねば　いいんだ!!	
+Gulliver Boy Character 002
+どうしたんだ…ミスティ…
+Gulliver Boy Character 003
+ほっといてよ!!	
+Gulliver Boy Character 002
+ミスティが　変だよ…ガリバー……	
+Gulliver Boy Character 001
+オレも　あんなヤツは死ねばいいと　思うぜ……
+BattleshipEdit
+Event: Silver to the Rescue
+
+Gulliver Boy Character 002
+うわっ　…ダメだよガリバー!!先に進めないよ!!	そう　簡単にあきらめちゃいけねぇな…	
+Gulliver Boy Character 001
+シルバー!!	
+Gulliver Boy Character 039
+ひさしぶりだな！　ガリバー！オレが　力になって　やるぜ！
+Gulliver Boy Character 002
+え？　でも…どうやって？	
+Gulliver Boy Character 039
+作戦は　２つある！　…その１オレが突っ込む！　…その２お前が突っ込む！　さぁどっちだ？	
+Gulliver Boy Character 002
+ら…乱暴すぎるよ…	
+Gulliver Boy Character 039
+うるせー!!時間がねぇんだ！　早く決めろ!!
+シルバーに頼む
+自分でやる
+
+FMV	(first option chosen only)
+Gulliver Boy Character 001
+カッコつけんじゃねーーーーッ！シルバーーーーッ!!…………………バカヤロー!!	
+Gulliver Boy Character 002
+行こう！　ガリバー！シルバー船長の　勇気を…ムダに　できないさ！
+Power Department (動力部)
+
+Event: Computer Paradise
+
+Gulliver Boy Character 002
+…すごいよガリバー!!…すごすぎるよ… でも　こんなのが　戦争に使われたら…ガリバー!! 決めたよ!! ボクはこの要塞を　爆破する…	
+Gulliver Boy Character 003
+…でも…どうやって？	
+Gulliver Boy Character 002
+まっかせてよ！　ミスティ！ボクは天才だよ!! …いいかい！　れだけ大きな要塞だ！もちろん　普通の爆弾じゃビクともしないさ！ でもね。逆に　これだけ大きな要塞ならそれを動かすエネルギーって相当なものになるだろ!! そこがポイントさ!!　このエネルギーの大きさを利用すれば　動力システムは連鎖的に　破壊されるはずなんだ！
+Gulliver Boy Character 999
+ふーん　エジソンって頭いいのね!!	
+Gulliver Boy Character 002
+いーまごろ気付いたのかい？おばかさんだなぁ!!	
+Gulliver Boy Character 999
+おバカとは　なによぉ!!あんただって　ヘッポコ発明家じゃない！
+Gulliver Boy Character 002
+へっ…ヘッポコだってぇ！よくもそんな…	
+Gulliver Boy Character 003
+二人とも　ケンカしてる場合じゃないでしょ！ それじゃエジソン!!まず　どうすればいいの？	
+Gulliver Boy Character 002
+だってさ　フィービーが…
+Gulliver Boy Character 003
+きげん直してよ…エジソン！あなただけが　頼りなのよ!!ね!!　天才発明家さん!!	
+Gulliver Boy Character 002
+…そうかい？　…そうだよね!!　ボクは天才発明家だもんね　よし!!　まずは動力室だ！　動力室を探そう！
+Event: Edison at the Computer
+
+Gulliver Boy Character 002
+あっ　これだよこれ!!ガリバー！　ちょっとどいて! …だめだ…このコンピューターじゃ　アクセスがふじゅうぶんなんだ。 どこか他の場所に　メインコンピューターがあるはずなんだけど…	
+Gulliver Boy Character 999
+ねぇ　エジソン！メインコンピューターって一番偉いコンピューターの事でしょ！ だったら　一番偉い人の部屋に　あるんじゃないかしら…	
+Gulliver Boy Character 002
+…そうか!!　艦長室か!!頭いいじゃないか！　フィービー!!	
+Gulliver Boy Character 999
+いーまごろ気付いたのかい？おばかさんだなぁ!!
+Gulliver Boy Character 002
+ははっ　ボクが悪かったよ！仲直りしよう！　フィービー!!	
+Gulliver Boy Character 999
+いいわよ…	
+Gulliver Boy Character 002
+さぁ　急いで艦長室を探そう!!
+Second Floor
+
+扉は　かたく　閉ざされています。
+敵が　何か落としていきました。
+扉のくぼみに　赤い玉をはめ込みました。
+赤い玉は　音もなく　くだけ散りました。
+
+Top Floor
+
+Event: Meet Budo Muscle
+
+Gulliver Boy Character 002
+あっ！　あったよ！　これだ！これがメインコンピューターだ！	
+Gulliver Boy Character 092
+チミチミっ　チミたち!!なぁーにやってルームランナー？ ぼーくはこの要塞の艦長！巨砲　ブドー・マッスルって言いマッスル！ おややぁ　怪しいことしてマッスルね？シょっとしてぇ！　チミたち　レジスタンスかなぁ？	
+Gulliver Boy Character 002
+ガリバー!!　たのむぞ！ボクは　コンピューターを!!	
+Gulliver Boy Character 092
+チミたち　レジスタンスだなッ!! ぼーくはチミたちを殺しマッスル!!　ぼーくのシットポイントは　でっかいよー！　それじゃ地獄のエクササイズだ!!
+Gulliver Boy Character 002
+…よし！　これでＯＫだ!!おまたせ!!　もうすぐこの要塞は爆発するよ！　早いトコ逃げよう!!	
+Gulliver Boy Character 092
+…まぁーだまだぁ!! ふふふ　いい身体してマッスルね…	
+Gulliver Boy Character 003
+やっやめてよ!!このヘンタイ!!
+Gulliver Boy Character 092
+…しあーせだなぁ…ボークはチミを…放さないぞ!!ふシシシシシシシシシ!!	
+Gulliver Boy Character 002
+ガリバー！時間がないよ!!爆発しちゃうよッ!!	
+Gulliver Boy Character 003
+あなたたちだけでも…早く逃げて!!
+Gulliver Boy Character 001
+くそったれーーーーッ!!	
+Gulliver Boy Character 001
+て。。。てめぇは。。。	
+Gulliver Boy Character 002
+げっ…月光!!
+Gulliver Boy Character 042
+礼はいらぬぞ…ガリバー!!お前に　このような下らない場所で死んで欲しく　ないのだ！ …ふふっ　カサブランカに…お前に　ふさわしい死に場所を用意しておいた。…忘れるな…お前を倒す男の名は　この月光だということをな… ふふふ　ガリバー！カサブランカで待っているぞ!!…カサブランカでな！！！！	
+Gulliver Boy Character 002
+ああ…グチャグチャうるさいヤツだ…………… 急ごう!!　早く!!まだ　間に合うよ!!	
+Gulliver Boy Character 001
+ミスティー！
+Gulliver Boy Character 003
+ガリバー……	
+Gulliver Boy Character 002
+脱出だ!!	FMV
+END OF DISC 1 (SEGA SATURN VERSION)
+
+Port of Casablanca (カサブランカの港)Edit
+City of Darkness: Curtis (闇の街・カーティス)Edit
+The Casablanca Bar
+
+Gulliver Boy Character 013
+ボギーの彼女はよ…金のために…満月パレスに入ったんだ…それ以来さボギーのヤツが　無口になったのは…
+
+Gulliver Boy Character 093
+オレの目の前で…酒は…飲まねぇでくれ！　…オレは…客と　酒を飲まねぇ　主義なんだ！ そのかわり　あばれなきゃ誰が　何をしても　いいぜ…ここは　酒場の　自由がある。
+
+Gulliver Boy Character 013
+ボギーは　ここの支配人さ。あいつ　酒のまないんだ。それで　信用が　あるんだろうな…
+
+Gulliver Boy Character 080
+キミの　ひとみに　乾杯！
+Gulliver Boy Character 096
+…どうでもいいけど　目ヤニ　つけたまま言って欲しくないわ！
+
+
+Gulliver Boy Character 095
+ !うつ・く・し・き　マルセーイユ！!!われ・らが　祖・国！いやぁ…うれしくて　つい歌っちまった… あんた　ガリバーさんだろ？マルセイユを　救った　英雄だろ？オレ　レジスタンスなんだ！ あんたに　ヒミツの情報をやるよ！ここの　ウェイターの　ザコールはオレたち　レジスタンスの仲間だ！ ちょくちょく　話を聞いてみろ！役に立つ情報が　手に入るはずだぜ！
+
+Gulliver Boy Character 097
+…ガリバーさんですね。私は　ザコール。レジスタンスのメンバーです。 アルジェの送電ケーブル　爆破！そして　ジブラルタル　撃破！本当に　すばらしい　活躍ですね… 各地で　レジスタンスが次々に　立ち上がっています！すべて　あなたの　おかげです！ われわれは　リスボンにいる仲間と連絡を取って　次のイスパニア破壊作戦を計画しているんですよ！ 新しい情報が　入りしだい報告しますので　ちょくちょくこの店に　寄ってくださいね。
+
+Gulliver Boy Character 094
+ピアノ　弾いてやろうか？
+曲を　リクエストしてくれ。
+ボクのお気に入り
+Ｂ列車で行こう
+時は　すぎて
+ＨＥＹ！　ＢＯＹ！　もう１曲　弾くかい？
+はい/いいえ
+Gulliver Boy Character 093
+サム！　その曲は弾くな　と言っただろう!!
+…すまねぇな…坊や今日は　ピアノはダメだ…
+
+Black White Bar
+
+Event: Nichirin
+
+Gulliver Boy Character 098
+あら？　ひさしぶりじゃない！	
+Gulliver Boy Character 002
+あれ！　キミは……	
+Gulliver Boy Character 098
+ふふっ　日輪って呼んで…	
+Gulliver Boy Character 003
+…日輪さん　あなたにまだ　…助けてもらったお礼を　言ってなかったわ。
+Gulliver Boy Character 098
+いいのよ…そんなこと…	
+Gulliver Boy Character 002
+ねぇ　日輪！日輪も　イスパニアを敵に　まわしているの？	
+Gulliver Boy Character 098
+イスパニア？…そんなの　関係ないわ。	
+Gulliver Boy Character 002
+じゃぁ　何でボクたちを助けてくれたのさ!!
+Gulliver Boy Character 098
+…そうねぇ…何でかしら…ひょっとしたらうらやましかったから…かな？	
+Gulliver Boy Character 002
+何が　うらやましかったんだい？	
+Gulliver Boy Character 098
+…あなた…ガリバーって言うんだっけ？	
+Gulliver Boy Character 001
+…ああ…
+Gulliver Boy Character 098
+…ガリバー…あなた…獅子の洞窟で　命がけになって　あの月光に立ち向かっていったでしょ… …その時　思ったの。誰かのために…一生懸命になれる…そんな男の子が…まだ　いたんだなぁって…	
+Gulliver Boy Character 001
+んな　骨董品みたいな　言い方するなよ…	
+Gulliver Boy Character 098
+ガリバー！　　…今度は…私のために…力を貸して欲しいの… タルカスの村に住んでいる星影老師に会って!!	
+Gulliver Boy Character 003
+星影老師？
+Gulliver Boy Character 098
+…星影老師は…私と月光の師匠…そう　私たちは…ずっと昔　師のもとで　修行をしていたの。 …あの頃の月光は…生き生きとしていた……私たちは　互いに競いあって技を　みがいていったわ。 …でもね…彼は…月光は…変わってまった…… お願い!!　…ガリバー!!…月光を…倒して!! ……………………… 星影老師なら…月光の弱点を　ご存じのはず…	
+Gulliver Boy Character 003
+…日輪さん…	
+Gulliver Boy Character 002
+ねぇ　日輪！　ひょっとして日輪は月光のこと　好きだったの？	
+Gulliver Boy Character 098
+…そんな昔のこと…忘れちゃったわ！
+Gulliver Boy Character 099
+いらっしゃいませ！　ジャパニーズ・サケ日本酒は　いかがですか？他じゃ　手に入りませんよ！
+コシの寒葉院i……………金貨２２５０枚
+サツマ白波男i……………金貨１９８０枚
+ビ少年殺しi………………金貨３６００枚
+では　金貨２２５０枚　いただきます。　よろしいですね？
+はい/いいえ
+ありがとう　ございました！
+
+Streets
+
+Gulliver Boy Character 013
+悪いけど…話　聞いちゃったぜ…あの女忍者…日輪って　言うんだってな…月光ってヤツを　追いかけてんだってな… でも…そんなのムリだよ！だってそうだろ？　日輪と月光って太陽と月のことだろ？ 太陽は　月を　何億年も前から追いかけ続けてるけど　一度だって追いついたこと　ないだろ？
+Tarcas Village (タルカスの村)Edit
+Starlight Hermitage (星影庵)
+
+Event: Meet Gekkou's Master
+
+Gulliver Boy Character 101
+…なんじゃ　お前たちは? 勝手に人様の　家を訪れようとは…くんくん…いいにおいじゃのぅ… ひょっとして　わしの好きな『手みやげ』を買ってきたのか? なかなか　気がきくではないか!! それを持って　こっちに来んさい！
+Gulliver Boy Character 102
+ひひひ　ま　せっかくの　手みやげじゃ。さっそく　いっぱいやらせてもらっておるぞ…うっひひひ…ウィック… で　お前たちは　この星影に何の用があるのじゃ？	
+Gulliver Boy Character 003
+おじいさん！　私たち…月光の弱点を知りたいんです。	
+Gulliver Boy Character 102
+フム…弱点か…ぷわぁ教えてやらんでもないぞ！しかし　それを知ってどうする？
+Gulliver Boy Character 001
+決まってるじゃねぇか！月光を倒すんだ！	
+Gulliver Boy Character 102
+ほう　月光を倒すとな？なかなか　頼もしいではないか！　ぷわぁ…うめぇ…じゃが　ヤツは強いぞ！ うぃ〜わしは　お前たちのような　若者がムザムザ　死んで行く姿を見とうはない…ふむ…どうしたものか… うむ！　では　こうしようではないか！このわしが　お前たちの力を試してみよう。 お前たちが　わしに勝ったらヤツの弱点を　教えてやろう。しかし　負けたときは… …そうじゃな…月光のことは　すっぱり　あきらめてイナカにでも　帰った方がよいぞ！ どうじゃ？この勝負　受けて立つかな？
+はい/いい
+
+Gulliver Boy Character 102
+では　勝負じゃ！…こちらから　ゆくぞ！
+ガリバーは　シーカーの魔法をおぼえました。	
+Gulliver Boy Character 102
+まいった!!	
+Gulliver Boy Character 002
+約束だよ！月光の弱点を　教えてくれるって…
+Gulliver Boy Character 102
+まぁ　そう　あせるでない！その前に…これから話すことを良く聞いて欲しいのじゃ。 戦いは　まず敵を知ることが大切…少し長くなるがガマンするのじゃぞ！ お前たちも　知っているかとは思うが月光は　わしの弟子じゃった。 それも　１００年に一人の才能を持った忍術の天才じゃった。 しかしの…　巨大な才能は時として　人を不幸にする。 修行をつむにつれ　月光の力は師匠である　わしをはるかに　越えていきおった。 そして…もはや　ヤツに　たちうちできる者はどこにも　おらんようになった。 今の月光は　イスパニアに協力することで　より強い敵を求めて　おるやもしれん。 より強い敵に出会い…そして倒す。おそらく　それだけが　今のヤツの生きる目的なのじゃろう… 考えてみれば…不幸な男じゃ…	
+Gulliver Boy Character 002
+ねぇ　おじいさん！　そろそろ　月光の弱点を教えてよ!!	
+Gulliver Boy Character 102
+…そんな物は…ない!!
+Gulliver Boy Character 002
+へ？	
+Gulliver Boy Character 102
+月光の技は　カンペキじゃ！弱点など　あるはずがなかろう！ …じゃが…ひとつだけ…ヤツの分身…あの術だけは　見破る　スベがある！　…それは…	
+Gulliver Boy Character 002
+…それは？
+Gulliver Boy Character 102
+心の目を…開くことじゃ！	
+Gulliver Boy Character 002
+心の目？そ…それはどうやって？	
+Gulliver Boy Character 102
+こたえは…お前たち自身で見つけるがよい！では…健闘を祈っておるぞ!!
+Gulliver Boy Character 102
+星影は　深い　めい想に　入っていった　ようです。 いや…単に酔っ払って寝ている　だけのようです。
+Moon City (ムーン・シティ)Edit
+Moon Rabbit
+
+Gulliver Boy Character 096
+なんか…青い石…青い石って満月さん　うるさいのよ…なにかしら？　青い石って…
+
+Gulliver Boy Character 016
+あそこにいる　ヒゲの男…ああ見えても　昔はアルジェの王様だったんだってさ！ でも今じゃ　落ちぶれて……相手をしてくれるのはあのホホホのおじさんくらいさ！
+
+Gulliver Boy Character 103
+国破れて…山河あり……ああ…わしも今や…アルジェを追われ…　こうして酒に…おぼれる毎日… ああ…この気持ち…わかってくれるか？　友よ！
+
+Gulliver Boy Character 104
+ほーっほほほほ!!
+Full Moon Palace Outskirts (月パレス)
+
+Event: Introducing Baron Fullmoon
+
+Gulliver Boy Character 100
+うっききききき！貴女と私の…相性チェーック!! さぁて　次の質問に答えてください！相性ピッタンコの場合は　もれなく魅惑の楽園・満月パレスにご招待!! それでは　いってみよー!!
+Gulliver Boy Character 100
+Ｑ１：満月男爵は　　　　宇宙一の　いい男だと思う
+はい/いいえ
+
+Gulliver Boy Character 100
+Ｑ２：満月男爵の頭脳には　　　　とても　たちうちできない！
+はい/いいえ
+
+Gulliver Boy Character 100
+Ｑ３：満月男爵を　愛している！
+はい/いいえ
+
+Gulliver Boy Character 100
+Ｑ４：満月男爵の　犬になれる！
+はい/いいえ
+
+Gulliver Boy Character 100
+Ｑ５：満月男爵のためなら　死ねる！
+はい/いいえ
+
+Gulliver Boy Character 100
+Ｑ６：満月男爵の　足元にひれふすことが　　この上もない喜び！
+はい/いいえ
+
+Gulliver Boy Character 100
+Ｑ７：満月男爵の　ドレイになることを　　　本日　ここに宣する！
+はい/いいえ
+
+Full Moon Palace 1F
+
+Gulliver Boy Character 105
+……あの曲を　嫌いなのかしら… お願いです！　…どこかで…ボギーという名の　男に会ったら…どうか…これを…渡してください…
+……あの人は　まだ……あの曲を　嫌いなのかしら…
+
+Full Moon Palace 4F
+
+Event: Meeting Baron Fullmoon
+
+Gulliver Boy Character 100
+むーんストリーム... むーんストリーム！むーんストリーム!! 夜の闇を　静かにたゆたう雲は無限の大宇宙の営みを　告げています。 満月いただく　果てしない光の海…流れゆく風に　耳をかたむければ瞬く星の　お喋りさえも聞こえてくる… 夜の　しじまーるのなんと　じょうぜつなことでしょう。 こよい　満月パレスがあなたに　お送りするギャグの定期便 ムーンストリーム。 みなさまの夜間非行のお供をいたしますパイロットはわたくし満月男爵です。	
+Gulliver Boy Character 100
+うきききき全国のボーイズ＆ガールズそうして　お坊っちゃんお嬢ちゃん。 全国的に今晩は。我輩がバロン・フルムーン。そう…月よりの落伍者・満月男爵である。 以後　我輩の支配下における朝と昼はない。うきききき だが　心地よい夜を提供しようさらに　我が名を　たたえよ。拍手！　はぁーくしゅ!! ダンケ・ダンケ!!
+Gulliver Boy Character 002
+…なっ　なんなんだよ…こいつ…	
+Gulliver Boy Character 100
+おっ 君たちかな？ 今度入った　ドレイというのは…	
+Gulliver Boy Character 002
+…どっ　ドレイなんかじゃないやい!!	
+Gulliver Boy Character 100
+へーん！　でも　ここまで来れたって事は自分で　ドレイだって認めたからだよー！！	
+Gulliver Boy Character 002
+…認めてなんて　ないモン!!	
+Gulliver Boy Character 100
+ほんじゃ！　この満月が月にかわって　おしいれよー!! うきききききーーーーッ!!ギタギタに　してやるーーーッ!!
+Gulliver Boy Character 100
+うきききき我輩がギャグやってるのに何　マジやってんだよぅ！ …こうなったら奥の手だ！月光！　月光！あとは　まかせたぞーーッ！	
+Gulliver Boy Character 002
+あっ！　ひきょー者ッ!!	
+Gulliver Boy Character 100
+ふふふっ　ガリバー！待っていたぞ!!ジブラルタルでの約束を憶えているか？ お前にふさわしい　死に場所を　用意すると言う　あの約束だ!!ふふふふふ　さぁ…見せてやろう！	FMV
+Event: Gekkou's Last Stand
+
+Gulliver Boy Character 042
+…美しい…これぞわれわれの勝負に　ふさわしい場所…さぁ　ゆくぞ！　ガリバー!!
+床に何か　光る物が　落ちています…	
+Gulliver Boy Character 042
+…ふっ…強く…なったな…ガリバー!!	
+Gulliver Boy Character 098
+月光ぉーーー!!	
+Gulliver Boy Character 042
+…にっ…日輪……お前には悪いことをした……うらまれて当然だ…もう…私の戦いも…終わった…… せめて…最後は……お前の手でとどめを……させ！
+Gulliver Boy Character 098
+…バカッ！　最後まで……カッコつけやがって!!そんなこと…できないよッ!! (FMV)	
+Gulliver Boy Character 002
+…みんな…死んじゃったのかな…日輪も…月光も…	
+Gulliver Boy Character 001
+戦いで　いつも　誰かを失う…がまん　ならねぇな…ちくしょう!!
+Port of CasablancaEdit
+Gulliver Boy Character 097
+…はぁ　はぁ　…間に合った！ガリバーさん。私です！ウェイターの　ザコールです！ 実は…リスボンにいる　仲間からこのような手紙が　届いたんです。ガリバーさんに　お渡ししようと思って...
+どうも　これはレジスタンスの隠れ家を示した　暗号になっているらしいのですが私には　さっぱり理解できません。 …私は　店がありますので…これで　失礼させて　いただきます。どうか　がんばってくださいね！
+
+Port Town Tunis (チュニスの港街)Edit
+Pinky Punch
+
+Gulliver Boy Character 060
+いらっしゃい！　ここは明朗会計バー『ピンキーパンチ』だ。 飲み放題　食べ放題！どうだい？　遊んでかないかい？
+金貨３枚を　払いますか？
+はい/いいえ
+お客さま　ごあんなぁーい!! さぁ　店内は飲み放題　食べ放題!! ごゆっくりどうぞー!!
+Gulliver Boy Character 014
+うィっく!!タイガーちゃんは　どこだ！オレのタイガーちゃんを　呼んでこーい！
+
+Gulliver Boy Character 013
+飲み放題　食べ放題で料金は　たったの金貨３枚だろ？安いよな。。。ほんっとに安い!!
+
+Gulliver Boy Character 071
+うふふっ　いらっしゃい！何を食べたいの？
+ゾウ煮
+ウマ煮
+ウナドン
+ガリバーは　満腹しました。
+Gulliver Boy Character 013
+ここのママは　ピンク・タイガーって　言うんだけどさ。。。すごい美人!!もうオレなんか　メロメロって感じ！ 今日はまだ　店に出てないみたいだけどさたぶん　もうじき会えるぜ！そんな予感がするんだ。
+
+Gulliver Boy Character 071
+うふふっ　いらっしゃい！何を飲みたいの？
+高級ワイン
+高級ウィスキー
+高級ビール
+ガリバーは　酔っぱらってしまいました。
+Gulliver Boy Character 013
+よう！　そこの小僧！酒は飲んでも…飲まれるな！うわーっはっは!!だ！　うったえてやるぞ！
+
+Gulliver Boy Character 106
+いいか！　そこの君！お酒は　オトナになってから！タバコも　オトナになってから！ ゲームは　１日１時間！名人とキミとの　約束だぞ!!
+ガリバーの　酔いが　さめました。
+
+Event: Meet Pink Tiger
+
+Gulliver Boy Character 060
+おや？　もうお帰りですか？それでは　サービス料として金貨３０００００枚を頂きます。	
+Gulliver Boy Character 002
+え?!　…そんな　ずるいよ！金貨３枚ポッキリって言ったじゃないか！	
+Gulliver Boy Character 060
+なぁに　バカ言ってるんだよ！ オレはな　金貨３枚しか　払わねぇようなケチな客は　首の骨を　ポッキリと折ってやるって　そう言ったんだよ。	
+Gulliver Boy Character 002
+なっ　何だってぇ？	
+Gulliver Boy Character 107
+…そうぞうしいわね…何があったの？
+Gulliver Boy Character 060
+あっ　あねさん!!	
+Gulliver Boy Character 002
+この人　ひどいんだ！金貨３０００００枚を出せなんて言い出すんだ！	
+Gulliver Boy Character 107
+あら？　かわいそうに……そうよね。ちょっとバーで遊んだだけで金貨３０００００枚は　高すぎるわよね。 。。。れじゃ　こうしましょう！金貨３０００枚に　まけてあげる！　私たちに　寄付してちょうだい！	
+Gulliver Boy Character 003
+ふざけないでよ!!	
+Gulliver Boy Character 107
+…そう…じゃぁ　しかたないわね。ちょっと　暴力しちゃおうかな！
+Gulliver Boy Character 107
+あーあ　負けちゃったわ！こんな子供に　負けてるようじゃジュドーを倒すなんて夢のまた夢ね…	
+Gulliver Boy Character 002
+え？　いま何て言ったの？ジュドーを倒すって…？	
+Gulliver Boy Character 107
+そうよ。ここの連中はみんなイスパニアに　うらみを持っているの。 だから　こうしてお金を集めてジュドーを倒す　計画を立ててるのよ。	
+Gulliver Boy Character 003
+気持ちはわかるけど。。。　やり方が。。。
+Gulliver Boy Character 107
+目的のためなら…手段は　選ばないわ。	
+Gulliver Boy Character 002
+ねえ！　だったらさ！一緒に戦おうよ！ボクたちの敵も　イスパニアなんだ！	
+Gulliver Boy Character 003
+そうよ！　いくらジュドーを倒すため　だからってあんなことをしてちゃ　いけないわ。	
+Gulliver Boy Character 107
+……………………悪いけど……出て行って！
+Gulliver Boy Character 107
+…悪いけど……出て行って！
+Streets
+
+Event: One Thing Before You Go
+
+Gulliver Boy Character 060
+よ…よかった…間に合った…タイガーの　あねさんは…ツメを　悪くしちまってよ… それで　弱気なんだ…たのむ！　『鉄のツメ』を　手に入れてあねさんに　あげてくれ！ 金は前払い　しておくぜ！
+金貨３００００枚を　手に入れました。
+Port of Libson　（リスボンの港）Edit
+Event: Meet Iron Kong
+
+Gulliver Boy Character 108
+…ガリバー！…何も言うな…お前の言いたいことは……わかる。 今は　わけあって　名前も身分も　語ることは　出来ぬが…お前とここで出会ったのも　これまた宿命！ ノースランドに来るがよい！…何も言うな……わかる。
+Northland Village (ノースランドの村)Edit
+Inn
+
+Event: Kong's Service
+
+Gulliver Boy Character 108
+ようこそ宿屋なる親父の宿『ホテル・ド・宿命』へ… お前たちが　ここに来たのは　これまた…宿命…金はいらぬ…泊まっていきなさい!
+はい/いいえ
+
+Gulliver Boy Character 108
+うむ…これもまた…宿命…	
+Gulliver Boy Character 108
+寝るな!!　死ぬぞ!! すきま風だ！…ついに…この日が来てしまったか…
+Gulliver Boy Character 002
+何が　すきま風だよ!!雪だって入ってるじゃないか！ ヒドイよ！　こんなボロっちい宿に泊めるなんて!!	
+Gulliver Boy Character 108
+うむ…わかる…	
+Gulliver Boy Character 002
+答になって　いないじゃないか!!
+Gulliver Boy Character 108
+いいかな…宿は命と書いて…宿命と読む。さぁ　お前たち！ここを出るのだ！	
+Gulliver Boy Character 002
+だから答に　なっていない…って。。。	
+Gulliver Boy Character 108
+何も言うな…わかる…
+Gulliver Boy Character 108
+…ついに　この日が来たか…もう　この国に　みれんは…ない！店じまいだ!!！	
+Gulliver Boy Character 108
+…いよいよ　この宿屋なる親父が　立つときがきた！ これもまた…宿命!!　…何も言うな！おまえのことは…わかる！	宿屋なる親父　アイアン・コングが仲間になりました。
+Gulliver Boy Character 002
+ちょっと待った！なんか　変じゃないか？ いままでさ…　獣人っていうのは職業の前に　説明が　あっただろ？なぁ　フィービー！	
+Gulliver Boy Character 999
+そうよ…『美少女スパイ』だったら美少女の　スパイだし… 『無敵商人』とかだったら無敵の　商人だし… でも　『宿屋なる親父』っていうのは宿屋の　親父なんでしょ？宿屋を取ったら　単なる…へんな親父？	
+Gulliver Boy Character 002
+それは　納得がいかないよ！宿屋の親父なんてアタリマエじゃないか！ いくら　獣人だからってぜんぜん　説得力がないよ！
+Gulliver Boy Character 108
+へんな親父だって…だぁーーー！…何も言うな…わかる！	コングは　ガリバーに　魔拳オーラのディスクを　手渡しました。
+LibsonEdit
+Purple Rain (パープルレイン)
+
+Event: Clumsy Bartender
+
+Gulliver Boy Character 015
+最近　景気が悪くってね　ごらんの通りお客さんも　少ないんですよ。…あっ　すいません…ご注文ですね！
+赤色２号
+すみれ色の涙
+青い分度器
+
+Gulliver Boy Character 015
+これは　オン・ザ・ハウス！…私の　オゴリですよ！　さぁどうぞ！あっ!!　……しまった!!	マスターは　手をすべらせグラスを　倒してしまいました。 ガリバーの持っている　『水色の手紙』はぬれてしまいました。	これは　失礼いたしました!!…お持ち物が　ぬれてしまいましたね。まことに　もうしわけございません… …あの…ぬれてしまった　お持ち物…お手紙か　なにかですよね…ご確認なさっては　いかがですか？
+Area Beneath Purple Rain
+
+Event: Meet Guernica
+
+Gulliver Boy Character 109
+ガリバー君だろ？　君のうわさは聞いているよ。ボクはゲルニカ。レジスタンスの破壊工作員だ。 今　ボクたちは　イスパニアの軍事工場を爆破する計画を　たてているんだ。 あそこでは　とっても恐ろしいマル秘の　研究が行われている。いま　爆破しないと　ヤバイんだ！ …ガリバー君　キミも　ボクたちの！力になってくれないか？
+はい/いいえ
+
+Gulliver Boy Character 109
+そうか!!　協力してくれるのか！ありがとう!!　ガリバー君!! …さっそく　たのみたい　ことがある！工場の第１研究所で　ボクたちの仲間がドレイになっている… ボクたちは　全員　顔を知られてしまってるんだ… いまは　君にしか　たのめない！おねがいだ！　彼らを　助けてくれ!!
+はい/いいえ
+
+Gulliver Boy Character 109
+そ　そうか！　ありがとう!!第１研究所に行くには　この街のリニアトレインを使うといい. この　ニセＩＤカードを使えばゲートを抜けられるはずだ。
+Gulliver Boy Character 109
+第１研究所に行くには　この街の　リニアトレインを使うといい。 ニセＩＤカードを使えばゲートを抜けられるはずだ。
+LT
+
+Gulliver Boy Character 013
+ここは　研究所行きのリニアトレイン乗り場だ！　あんたらもあそこで働くのかい？　改札は　奥だぜ！
+
+Linear Train Platform: 1 (リニアトレイン乗り場)
+
+第１研究所行きの　リニアトレインです。乗りますか？
+はい/いいえ
+
+Gulliver Boy Character 095
+……オレたち　レジスタンスだ…この奥にいる　仲間を助けたいんだけど……見張りのロボットがいて……
+
+Gulliver Boy Character 110
+そいつと目が合うと　ビリビリビリビリ！うわぁ！　思い出しただけで…恐ろしい…ビリビリ…ビリビリ！　…ビビビビ！ いいか！　ヤツと目があったら決して！　身体を動かすな！でないと…床から電撃が…ビリビリ！
+
+Gulliver Boy Character 111
+見張りロボットには　ボタンのような物がついています。押しますか？
+はい/いいえ
+
+パネルに　スイッチがあります。押しますか？
+はい/いいえ
+
+Area Beneath Purple Rain
+
+Event: Guernica's Speech
+
+Gulliver Boy Character 109
+…みんな!!これまで良く　がんばってくれた！ これからいよいよ！第２研究所の　爆破計画を実行する!! …イスパニアは強大だ!!ボクたちの中にも…命を落とす者が　出るかも知れない… しかし…これだけはわかってくれ！自由っていうのは…誰かが与えてくれる　ものなんかじゃない！ 池与えられた自由なんて　ブタの自由だ！人間の…本当の自由は自分自身の力で　勝ち取るものなんだ！ さぁ！　戦おう!!ボクらの自由を　取りもどすために!!
+Gulliver Boy Character 095
+負けられねぇぜ!!	
+Gulliver Boy Character 095
+やったろうじゃんか!	
+Gulliver Boy Character 095
+自由を!!
+Gulliver Boy Character 095
+リスボンに真の平和を!!	
+Gulliver Boy Character 095
+くたばれジュドー!!	
+Gulliver Boy Character 095
+腕が鳴るぜ!!
+Gulliver Boy Character 095
+ゼ！	
+Gulliver Boy Character 095
+革命だ！　革命だぁ!!	
+Gulliver Boy Character 109
+ガリバー君！　ボクたちは　これから第２研究所を　爆破する。 し…できたら…協力してくれ…あっ…いや…ムリにとは　言わない…じゃ　ボクたちは　行く!!
+Linear Train Platform: 2
+
+Gulliver Boy Character 095
+奥にある　暗い部屋は　壁のスイッチを押せば　明るくなります。…けど…そうすると…モンスターが　活動を…
+
+Gulliver Boy Character 095
+この先　敵がどんどん強くなってます。私は足をくじいてしまって……でも　心はくじけてません！ 足が折れても　戦って戦って…戦いぬく　つもりです…うぎっ…………もう少しここで　休んでいこう…
+
+Gulliver Boy Character 095
+ゲートは　われわれが爆破しました。ゲルニカさんたちは　この奥にいます。さぁ　あなた方も急いでください!!
+Event: A Victory Cut Short
+
+Gulliver Boy Character 109
+…みんな！　この奥に　メイン・タービンがある!! さぁ　最後の力をふりしぼるんだ！自由を勝ち取るために!!	
+Gulliver Boy Character 100
+うきききき全国のボーイズ＆ガールズ…	
+Gulliver Boy Character 109
+…だっ　誰だ！！	
+Gulliver Boy Character 100
+むきーーーー！話の途中に　割り込みおって!!…いいから最後まで聞け!! …我輩が　バロン・フルムーン。そう…月よりの落伍者満月男爵である。汚らわしき　ネズミどもよ…月が変わって　来月よーー!! …もとい月に誓って　全滅よーー!!
+Event: The Main Turbine
+
+Gulliver Boy Character 002
+ガリバー!! ここが　メイン・タービンだ！	
+Gulliver Boy Character 999
+そんなの…カンバン見れば誰だって　わかるじゃない！	
+Gulliver Boy Character 002
+…そ…そうかもしれないけどさ…でも　この　タービンを爆破できるのは　ボクだけさ！ 見てなよ…電磁どっかー…？
+Gulliver Boy Character 100
+♪どかーんと　いっぱつやってみよぉー!!　うきききききき!!そうはいかんもんねー!!　ぷー!!	
+Gulliver Boy Character 002
+…じっ　ジャマするな!!	
+Gulliver Boy Character 100
+うきききき！我輩がジャマだってぇ!!　そっちこそ我輩のジャマをしてるクセに…
+Gulliver Boy Character 002
+何言ってるんだ！お前が　ジャマしてんだろ!!	
+Gulliver Boy Character 100
+ジャマなのは　そっちだもんね！	
+Gulliver Boy Character 002
+お前だ!!
+Gulliver Boy Character 100
+お前だ!!	
+Gulliver Boy Character 002
+お前だ!!	
+Gulliver Boy Character 100
+お前だ!
+Gulliver Boy Character 002
+よーし！　こうなったらどっちが　ジャマなのか勝負しようじゃないか！	
+Gulliver Boy Character 100
+望むところだプー!!
+Gulliver Boy Character 100
+うきききき！　負けるが勝ちぃ勝つが負けだもんねぇーー！やーい！　負け負け負け負けぇーー！	
+Gulliver Boy Character 002
+電磁どっかーーーーん!!!!	
+Gulliver Boy Character 003
+エ…エジソン…ちょっと…やりすぎじゃないかしら…	
+Gulliver Boy Character 002
+…ごめん…
+Linear Train Platform: 3
+
+Gulliver Boy Character 112
+コノヤロ！　このやろ！何が覇王のジュドー王だ!!でかい顔しやがって!! 最初はジャブだ！ボデーだ！　チンだ!!電撃パンチだ!! えーい！　面倒だ!!　お前らまとめて　ＧＡＭＥ　ＯＦＦ!!
+Analysis Room (分析室)
+
+Event: Goodnight Moon
+
+Gulliver Boy Character 100
+うきききききサイ・スペクトラム１１４！エリーナ・カトリッチ２５０！ ハンガリオ計数１３４０!!　ドメーニ・アルタリオ０．１４８!!マンボ・ナンバー５！ うききききき!!そうか　わかったぞ！ このジュピターさえ　集めれば、イスパニアごと　手に入る!!	
+Gulliver Boy Character 113
+ジュピターを集めて……どうしたというのだ？　満月よ…	
+Gulliver Boy Character 100
+うぎぎぎぎゅわわわぁジュジュ　ジュドーーー様!!!! (FMV)
+Gulliver Boy Character 003
+ガ…ガリバー!!エジソン!!	
+Gulliver Boy Character 113
+ふふったあいもない…さぁ　ミスティ…来るんだ!!	
+Gulliver Boy Character 003
+近寄らないで!!	
+Gulliver Boy Character 113
+いやーーーーッ!!
+Gulliver Boy Character 002
+ガリバー!!　大変だ!!ミスティがいない!!	
+Gulliver Boy Character 100
+あっ…あの娘なら…ジュドーが…	
+Gulliver Boy Character 002
+まっ　満月男爵!!	
+Gulliver Boy Character 100
+わっ…我輩は…もうダメ…ガリバー…聞け！　月と…星と太陽…それが…絶対力の源… 星は…青い石…ジュピター…ガリバー…ジュドーを…追え!!ヤツは…奥の扉… ガリバー…青い石を…取り戻せ………………最後に…一言…
+Gulliver Boy Character 002
+だい？　満月…!!	
+Gulliver Boy Character 100
+…月が変わって…来月よ…うききき…きき…き…	
+Gulliver Boy Character 002
+…満月!!…つっ　つまらないよ…
+Event: Rescue Guernica
+
+Gulliver Boy Character 109
+ガリバー君…無事だったのか！　たのむ！　ここから出してくれ!!	
+Gulliver Boy Character 002
+ボクが開けるよ！…下がってて…	
+Gulliver Boy Character 999
+ホントに　下がってた方がいいわよ！黒こげに　なっちゃうから…	
+Gulliver Boy Character 002
+…うるさいなぁ　いくよ！電磁どっかーーーーん!!
+
+Event: Filling Guernica In
+
+Gulliver Boy Character 109
+ガリバー君…ジュドーはイスパニアに　戻ったぞ！	
+Gulliver Boy Character 002
+…ミスティが……ミスティが　ジュドーにさらわれちゃったんだ！	
+Gulliver Boy Character 109
+そうか…彼女を助けたいのか…わかった。こんどはボクたちが　力になろう!! この先にある　覇王の道…あそこは　リスボンとイスパニアを結ぶ大地下トンネルに　なっている。 そこを　抜ければ…イスパニア要塞の内部へ行けるはず… そうだ！　マルセイユのレジスタンスと　連絡を取ろう！みんなで　イスパニアに攻め込むんだ！ ガリバー君…よく聞いてくれ！覇王の道を　開く暗号は…１４３２だ。…………死ぬなよ！
+壁に　レバーがあります。操作しますか？
+
+The Great Hispania Empire (イスパニア大帝国)Edit
+Event: Jeanne
+
+Gulliver Boy Character 085
+いよいよ　来ちまったんだねぇ…この日が… アタシらが　イスパニアをぶっつぶし自由を勝ち取るこの日が… ガリバー！　ジソン！　あんらも……しばらく見ないうちに　ずいぶんたくましく　なったじゃないか！ 息子の　ゲルニカを助けてくれたんだってね。アタシからもお礼を言わせてもらうよ。 でもね…本当に喜びをわかち　あえるのは…ジュドーを倒してからだよ！ まぁ　見てなよ!!アタシたち　レジスタンスの力を!!
+Event: Guernica
+
+Gulliver Boy Character 109
+ガリバー君！　いよいよ最終決戦だ!!…これまで　僕たちに協力してくれたこと… まずは　お礼を言わせてくれ。…ありがとう!!
+Gulliver Boy Character 085
+さぁ　みんな!!　根性　見せるんだよ！ …今まで　味わってきた…苦しみも…悲しみも…痛みも……そして　悔しさも… 全てを　あの城壁に　ぶつけるんだ！突撃だよっ!!!!	FMV
+Gulliver Boy Character 085
+…城壁に…穴は開いたかい？ああ……目が見えないよ…… 穴に…レジスタンスのみんなは…突撃したかい？ジュドーを　やっつけたかい？ どうなんだい……レジスタンスの勝利かい？ …そうかい…ああ……自由が…そこに…見える…
+
+Gulliver Boy Character 109
+まだ…まだ…負けじゃない…　そ…そうだろう…ガリバー……負けじゃ…ないよな……
+Event: Grief
+
+Gulliver Boy Character 002
+……ゲルニカが……ジャンヌが……………ひどいよ……こんなの… ジュドーのヤローーーッ!!ガリバー！　ボクたちも戦おう!!	
+Gulliver Boy Character 001
+……わかってる……………………
+
+Event: Big Mouse Drops by to Say He Brought the Sub
+
+Gulliver Boy Character 082
+ガリバー！　オレだ！　無敵商人ビッグ・マウスだ！　船を持ってきたぜ！　港に　つないであるぞ！ …お？　おい　ミスティはどうした!!ま…まさか！ …そうかい…それで　あんたらはイスパニアと　やり合うんだな　ミスティを　取り戻す戦いか！ えらいッ！　しびれたねぇ！オレは　いい友達を　持ったと自慢できるぜ!! よっしゃー!!船は　まかせろ！オレが守ってやるぜ!!
+Hispania Fortress (イスパニア要塞)
+
+Event: Judo?
+
+Gulliver Boy Character 002
+見つけたぞ！　ジュドー!!…ミスティは　どこだ!!	
+Gulliver Boy Character 113
+…………	
+Gulliver Boy Character 002
+なんだぁ！　おどかすなよ！オモチャじゃないか！！	
+Gulliver Boy Character 113
+死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ死ネ
+Gulliver Boy Character 114
+わ…わたしの　つくったクローンを……な…なんてことだ……… これは……ジュドー様の細胞から　つくった……クローンだ……… ああ…まだ…完全ではない…… あははははははははは…おまえなど　地獄に落ちろ！あははははははははは… この先に…さらに……いっぱい…あははははははははは… 進め！　そのまま行け！お前たちの地獄へ!!あははははははは！
+Gulliver Boy Character 114
+あははははははは！ ……狂ってる………
+
+Gulliver Boy Character 115
+私は　庭師のガーディです…いつか…あなた方がくると…わかっていました。 病気になった　枝は切らねば　いけませんものね…… ジュドー様の命令で…いくつか　部屋を作りました。変わった　部屋なんです… たぶん…あの方は…病気です……精神のね…… 切ってしまわないと……人間という　木　そのものが……倒れてしまうでしょう……
+…ミスティ様を　お探しですね？ご心配なく…この要塞の　最上階にいらっしゃいます…あの方と　一緒に…
+
+Age 1 Room (１歳の部屋)
+
+Event: Judo's Past: Part 1
+
+Gulliver Boy Character 117
+かわいいねぇジュドー！	
+Gulliver Boy Character 116
+かわいいねぇジュドー！
+目の前に　あやしげな像があります。調べますか？
+はい/いいえ
+扉は　かたく　閉ざされています。
+Gulliver Boy Character 113
+殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス殺ス
+Age 5 Room (5歳の部屋)
+
+Event: Judo's Past: Part 2
+
+Gulliver Boy Character 117
+あいしているよジュドー	ママ…ママ…	
+Gulliver Boy Character 116
+あいしているよジュドー	パパ…パパ…
+
+Gulliver Boy Character 113
+殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル殺シテヤル
+Age 10 Room (10歳の部屋)
+
+Event: Judo's Past: Part 3
+
+くるしいようパパ くるしいようママ	
+Gulliver Boy Character 117
+かわいいね。ミスティ	
+Gulliver Boy Character 116
+あいしてるよミスティ
+Gulliver Boy Character 118
+おい！　見ろよ！ヤツが　ガリバーだろ？ ？…ジュピターを持っている…ふむ…まちがいないな… そうとも…あとは高みの見物だな… …この戦い…どちらが倒れる？ くっくっくっ…決まってるじゃないか！…弱いほうさ…
+Age 15 Room (15歳の部屋)
+
+Event: Judo's Past: Part 4
+
+Gulliver Boy Character 116
+ジュドー!!　ジュドー!!	
+Gulliver Boy Character 117
+かわいそうなジュドー… かわいそうなジュドー…	
+Gulliver Boy Character 119
+おにいちゃんおにいちゃん おにいちゃんおにいちゃん	あいつが　ぼくの体を…
+Room of the Supreme Ruler (覇王の間)
+
+Event: The Final Confrontation with Judo
+
+Gulliver Boy Character 002
+みっ　ミスティ!!!!	
+Gulliver Boy Character 003
+…なぁに？　…兄さん…	
+Gulliver Boy Character 002
+どうしたんだよ！　ミスティ!!ボクだよ！　エジソンだよ!!
+Gulliver Boy Character 003
+…そうよね…兄さん…	
+Gulliver Boy Character 001
+てめぇ…ジュドー!!ミスティに　何をしやがった!!	
+Gulliver Boy Character 113
+ふふふ…ミスティは　戻ったんだよ…二人が…幸せな　時を過ごしていた……あの頃に…
+Gulliver Boy Character 003
+…そうよね! 兄さん…	
+Gulliver Boy Character 002
+ミスティを…もとに　もどせーーーッ!!	
+Gulliver Boy Character 003
+…なぁに？　…兄さん…
+Gulliver Boy Character 001
+ミスティは…てめぇのオモチャじゃ　ねぇぞ!!!!	
+Gulliver Boy Character 113
+美しい友情だが…ヘドが出るな。 キサマごときに　いったい　何がわかる！ミスティは　ここにいるのが幸せなのだ！	
+Gulliver Boy Character 003
+…そうよね! 兄さん…
+Gulliver Boy Character 113
+ガリバーとか言ったな…キサマに　ひとつ教えてやる！ 私は１０才の時　父親の手で　機械の体にされたんだ！　父親の実験材料だぞ！たった１０才で…………… 父を殺し　この国を奪ったのも私のような　ヒゲキをなくすためだ！私は　世界を幸福にしようと思った. だが…この体が…壊れ始め…それを直すためにはジュピターが　必要なのだ！ ジュピターが４つあればハレルヤが………この体を直すのだ!!	
+Gulliver Boy Character 001
+勝手な　ことばかり　言うなッ！	
+Gulliver Boy Character 113
+人間なんて　みんな自分勝手なのだ!!もう　これ以上　私のジャマはさせぬ!!死ねーーーッ!!　ガリバーッ!!
+Event: After
+
+FMV	２つめのジュピターを手に入れました。 ３つめのジュピターを手に入れました。 その時　どこからともなく美しいメロディが　流れてきました… 『信じあい　助けあい感じあい　触れあう』 『立てよ　いざ立ち上がれ悪しき力を　打ち倒す４人の　希望の力』 その声を…ミスティは　遠い昔に…どこかで　聞いたような……そんな気がしました…	
+Gulliver Boy Character 003
+…………	
+Gulliver Boy Character 001
+…ミスティ…	
+Gulliver Boy Character 003
+……かわいそうな人だけど兄さんだなんて　思いたくない！あんなやつ…兄さんじゃない！ …………………………………でも…どうして…涙が　流れるの… ねぇ　どうしてなの　ガリバー！	
+Gulliver Boy Character 001
+泣けよ…ミスティ思いっきり　泣け!!	
+Gulliver Boy Character 003
+ガリバーーーーッ!!
+Gulliver Boy Character 003
+おはよう　ガリバー！	
+Gulliver Boy Character 001
+おはよう……	
+Gulliver Boy Character 003
+きのうは　いっぱい泣いちゃってゴメンね…もう平気。ぐっすり眠ったら元気になったわ… もう泣かないよ！さぁ　ハレルヤを追いかけましょう!!
+Streets
+
+Event: The Truth About Judo's Modifications
+
+Gulliver Boy Character 115
+ガリバーさん…私です…庭師のガーディです。まずは…あなた方におわびをせねば…なりませんね… あの方の狂気が…この世界を…こんなにも…ねじ曲げていたのですから… あなた方に…たとえようのない…苦しみと…悲しみを…与えていたのですから… しかし…これだけは…わかって　いただきたいのです…すべては…悲しい心の…すれちがいなのです。 …ジュドー様は１０歳に　なられた時…重い病気に　かかってしまったのです…身体がどんどん　腐ってゆく奇病に… このままでは　命まで　奪われてしまう…そう　お考えになった　お父様は…息子の身体を…機械と交換したのです… ジュドー様の　お身体は…それほどまで　病んでいたのです。…それなのに…………………… ミスティさん…お兄様のこと…どうか…悪く思わないでくださいね…	
+Gulliver Boy Character 120
+ガリバーさん…お願いです！メシュナに向かって下さい！そこに…メシュナの女王がいます！ ハレルヤを呼び出したのは　あいつです！ジュドー様の　かたきを取ってくれとは言えません…しかし…………………… このままでは　世界が破滅してしまいます	
+Gulliver Boy Character 120
+ハレルヤが　完全復活するまでにはまだ時間が　かかります…今なら　間に合うはずなのです！ ガリバーさん…どうか…お願いです！世界を救えるのは…あなた方　だけなのです！
+Chapter 6Edit
+Port of Athens (アテネの港)Edit
+Streets
+
+Gulliver Boy Character 013
+大きな声じゃ　言えねぇが…イスパニアの　かわりに　聖魔教会がのさばってきた… なんだか　支配者が　かわっただけとしか　オレには　思えないんだ…
+Gulliver Boy Character 012
+聖魔教会しか　ないわよ！ 紅茶キノコ…ヨーグルトキノコ…いろいろ　試したけど…いまは　聖魔教会のポンピーよ!
+Gulliver Boy Character 013
+イスパニア　バンザーイ！え!!　もう言わなくていい…いや　クセに　なっちまってな…
+Gulliver Boy Character 023
+ジュドーを　やっつけたのは子供だって　ウワサだ……本当かね？　まさかな… まぁ　歴史は　ヒーローを欲しがるから…ははははは…
+Gulliver Boy Character 007
+ねぇ！　知ってる？ジュドーを　倒したのはガリバーって　子供なんだよ！ すごいな…ボクも大きくなったらガリバーみたいに　なるんだ！
+Gulliver Boy Character 012
+イスパニアに支配されて眠れない　日々だったの… でも　聖魔教会で　祈ってから身も心も　スッキリ！
+Gulliver Boy Character 012
+いなくなったから　言うわけじゃないけど…イスパニア兵ってねすっごい　下品だったのよ！ え？!　どんなふうに　下品だったかって？…………そ　そんな……言えないわ………………
+Gulliver Boy Character 121
+ルルブ様の前では…人間の命など豆つぶのように　小さきものです。 神の前に…命を投げ出すことを恐れてはいけません！
+Gulliver Boy Character 121
+悪魔の国　イスパニアは消滅しました。これは天罰です。われらが　ルルブ様は決して悪を　おゆるしにはなりません！ …祈るのです…この地上全てが…ルルブ様のお力のもと…ひとつになるように…
+Gulliver Boy Character 012
+ルルブ様の　お教えは…すさんだ　私たちの心に希望を与えて　くださるわ…
+Gulliver Boy Character 011
+ジュドーさえ　いなくなれば…アテネに平和がおとずれる…そう信じておったのに…今度は…聖魔教会が…
+Gulliver Boy Character 034
+ひーっ！　見つかっちまった!!たのむ！　見逃してくれ!!オ…オレは　兵士をやめたんだ!!
+House A
+
+Gulliver Boy Character 012
+ルルブ様と　ジャラン様は　このアテネの指導者なのよ！　おふたりで　私たちをメシア様のみもとへ　導いてくださるわ！
+
+Gulliver Boy Character 012
+やっぱ　イスパニアは　間違っていた！今は　聖魔教の時代さ！　これしかない！ああ…メシア様！　メシア様！
+
+House B
+
+Gulliver Boy Character 012
+なりの夫婦　イスパニアがやられたら今度は　聖魔教に入信したよ…毎日　メシア様メシア様って　始まった… そりゃ　人の気持ちって　かわるけどさ…これって　極端すぎないか？
+
+House C
+
+Gulliver Boy Character 017
+イスパニアが　いなくなって…ようやく平和の花が　咲くと思えば…今度は　メシュナじゃ… まったく…長生きは　するものでない……人も…国も…
+
+House D
+
+Gulliver Boy Character 017
+わしは　子羊のくんせいを食ってみたい……まぼろしの国…ノースランド…いちど…行ってみたいものじゃ…
+
+Gulliver Boy Character 011
+はるか北西の国・ノースランドにはアクアヴィトという　酒があるらしいいちど…飲んでみたいのう…
+
+House E
+
+Gulliver Boy Character 013
+…まったく　イヤな世の中だ！酒でも飲まねぇと　やってらんねぇ！…でもよ！　オレは　グルメなんだ！ そんじょ　そこいらの酒じゃ　ダメだ！ローマに　エスト！エスト!!っていう最高級のワインが　あるって言うぜ！ あんたが　そいつを持ってきたら金貨５０００枚で　買ってやる！いいか　ローマの　エスト！　エスト!!　だ！
+
+Pub
+
+Gulliver Boy Character 012
+くるーり！　くるーり！　くるくるりん！私は　クルーリ　売ってるの！ドーナツみたいな　パンなのよ！ くるーり！　くるーり！　くるくるりん！回る　３６０度！　金貨も　３６０枚！ くるーり！　くるーり！　くるくるりん！おいしい　クルーリ　買いません？
+はい/いいえ
+くるーり！　くるーり！　くるくるりん！持ち物　いっぱい　くるくるりん！
+
+Gulliver Boy Character 016
+ギリシャ語で　蚊取り線香のことを『カトール』って言うんだ！　ウソだと思ったら　ギリシャ人に聞いてみな！
+で　その　蚊トールを　金煢ﾝ１９８０枚であんたに　売ってやる！　どうする？
+買う/買わない
+気持ちは　うれしいけどさ… 持ち物が　いっぱいなんだ…
+
+Gulliver Boy Character 023
+ワインはやっぱ　アルバニアワインさ！味がちがう！　香りがちがう！コクがちがう！　のどごしがちがう！ 金貨２５００枚出しても　おしくない！ああ…アルバニアワイン…
+Gulliver Boy Character 016
+タラモって　知ってるかい？ま　タラコの兄弟みたいなモンだ！アテネ人の　大好物なんだ！ で　そのタラモの入った　タラモサラダ！この国の名物料理さ！　金貨４８０枚だ！
+買う/買わない
+持ち物が　いっぱいだぜ！
+
+Gulliver Boy Character 038
+マルセイユで食った　ブイヤベースの味が今でも　忘れられないんだ…へへへ…金貨２０００枚で　買うぜ！
+Gulliver Boy Character 016
+知ってるか？　ギリシャ語でレストランは『タベルナ』って言うんだ！タベルナで食べるな！　…なんてな… その　タベルナで　食べることのできる代表的な料理が　この　ムサカ！ナスとミートソースの重ね焼きだ！ 値段は　金貨１６００枚！アテネの名物ムサカ！　買うかい？
+はい/いいえ
+おいおい！　金が足りないじゃないか！
+
+Gulliver Boy Character 080
+オレ　こう見えても魔法学校の出身なんだあのころ　学校サボって飲んだリンゴ酒…ああ…思い出の味…なつかしいなぁ… チャプター先生とか…　シロジー先生とか…今も元気で　やってるかなぁ？ああ…リンゴ酒…飲みてぇなぁ…
+Gulliver Boy Character 012
+冬のオレンジって　知ってる？どこに売ってるのかは　しらないけどなんか印象的な　名前なのよね… 持ってきてくれたら　金貨１０００枚で買うんだけどなぁ…
+
+Acropolis (アクロポリス)Edit
+Streets
+
+Gulliver Boy Character 016
+ジュドーは　結局　われらがハレルヤ様に　利用されてたってことさ。ははは!!　バカなヤツだ。
+Gulliver Boy Character 121
+ついに　イスパニアに天罰が下った！いやあ　愉快痛快！　わははははははは！ ほごほご……笑ひすげで…アゴが…はっずれだじょ……
+Gulliver Boy Character 023
+ルルブ様…ああルルブ様…あなたを　想うと…キュンと胸が…美しい　ルルブ様…
+Gulliver Boy Character 012
+青い石はジュピターのかけら！邪悪なる石…不幸を　まねく石…　 ……と　ルルブ様が言ってるわ！早く　封印して　ほしいわよね！
+Gulliver Boy Character 080
+さぁ！　ポンピーを飲んで今日も　一日　バリバリ労働だ!! 聖魔飲料ポンピーさえあれば毎日が　幸福だぜ!!聖魔教会に　入って　よかった!!
+Gulliver Boy Character 011
+ええい!!　近づくなッ!!みんな　聖魔教会に　ダマされて… うん!!　お前の目は　きれいだな。その目なら　ヤツらに　ダマされん…
+Gulliver Boy Character 012
+みんな…ルルブ様…ルルブ様って…変になっちゃって…毎日…毎日…ダフニの街へと　向かって行くわ… アテネは…変わってしまった…
+Gulliver Boy Character 016
+ルルブ様のためなら　この体がボロクズになるまで　働くぞ！
+Gulliver Boy Character 013
+大聖魔神殿・パルテノンが　でき上ればイスパニアのために　傷ついた人々の心に希望が　取りもどせる！ ……いや　だが重労働だ…ポンピー　でも飲むか…… ……ゴクゴク……うひょーーッ！元気に　なったぞ!!
+Gulliver Boy Character 017
+あっ…………………………ああっ！　鬼じゃ！　鬼が出た！お前たちは　邪悪なる者じゃ！ し　しょえーーーーッ!!あ…あっち行け！よるな！　さわるな！
+House A
+
+Gulliver Boy Character 013
+丘の上にある　柱がこわされた…だから　女神様は　力を失った！ 柱を直す前に　聖魔のヤツらが女神様を封印しちまったんだ!!ああ…女神様さえ　いてくれれば…
+
+House B
+
+Gulliver Boy Character 012
+あたし…知ってるの……女神様を　封印したのは　魔教会の　ジャランって女よ！
+
+House C
+
+Gulliver Boy Character 023
+ルルブってのが…ジャランの部下だってよ… 旅行でも　したくなるよな…ハハハハ…冗談だよ。
+
+Inn
+
+Gulliver Boy Character 013
+ここの宿屋の親父　口数が少ないだろ？必要なこと以外　ほとんどしゃべらないし時々　必要なことも　しゃべらないんだ。 でもよ…無口なヤツの方が　信用できるぜヘンに　口のうまいヤツって　けっきょく誰に対しても　おしゃべりだもんな…
+Construction Area
+
+Gulliver Boy Character 014
+聖魔教のヤツら　オレたちが馬獣人だからって　サベツしてるんだ！ヒデェ話だぜ！　…まったく…
+Gulliver Boy Character 014
+オレは　チュニスから連れてこられた…　大きい声じゃ　言えねえけど…ここのやつら　頭が　おかしいぜ！
+Gulliver Boy Character 014
+５時間働いて　１０分の休み…睡眠時間は　４時間…… 近頃…ポンピーが　きかねぇ…飲んでも　飲んでも　すぐにくたびれちまうんだ…おかしいな…
+Gulliver Boy Character 014
+あのルルブこそ…悪魔さ！で…でもよ…逃げられねぇのさ。。。
+Gulliver Boy Character 014
+ヒイ…ハァ…まったく…毎日毎日……馬車馬のように…働かされるんだ…ハァ…ハァ…いやになっちゃうよ…
+Gulliver Boy Character 014
+見かけねぇヤツらだな…新入りか？…何だぁ？　道具も　ねぇのか？ほらよ！　こいつを使え!!
+何だ？　まだ用か？　…おっ？おまえ　トンカチも持ってねぇのか！ほらよ！　こいつを使え!!
+Gulliver Boy Character 014
+オレは逃げるぞーーーーッ!!
+The City of Daphne (ダフニの街)Edit
+Streets
+
+Gulliver Boy Character 013
+ひでぇな！　ひさしぶりに　帰ったら町中が　穴だらけだぜ… 穴ほりは　マツだけかと思ったらみんなで　やってやがる…いったい　どういうことだ？
+Gulliver Boy Character 013
+突然　この街に聖魔教団員がやって来て街中に穴を　掘り始めたんだ。 いや…オレたちは反対したんだよ。でも　ジャマすると天罰が下るとか言われて。。。 …そうこうしてるうちに気がついたら　街中のみんなが掘り始めたんだよな…穴を…
+Gulliver Boy Character 016
+マツはガラクタにしか興味ないんだ。オレなんか　じいさんの入歯とあいつが発掘した金貨を交換したぜ。 それで　家建てたんだ。あいつはバカ！いや　エライ！　オタクだけどさ…なんか　ニクめないんだよな…
+Gulliver Boy Character 014
+マツは　発掘の名人さ！何でも　発掘する!!まぁ　発掘のプロだ!!!! でもな　手元に置くのはガラクタだけなんだ。変人だよな……いや　ほとんど　病気だよな.
+Gulliver Boy Character 012
+最近　みんな　おかしいのよ。ルルブ様…ルルブ様って　うわ言みたいにつぶやきながら　穴に入って行くの。
+Gulliver Boy Character 007
+お兄ちゃん知ってる？　せーま教会は青い石を　はっくつしてるんだってなんだろう？　青い石って……
+Gulliver Boy Character 012
+アテネは女神様が　守ってた…でも　みんな　そのことを忘れちゃった…だから…
+Gulliver Boy Character 012
+イスパニア兵が　逃げるときフェニックスの丘にある柱を　こわしていったの… それで…女神様は…力を失ってしまったの。。。
+House A
+
+Gulliver Boy Character 012
+大聖魔神殿　つくってるのよ！すっごく　ゴージャス!!北の　アクロポリスよ!!
+
+House B
+
+Gulliver Boy Character 080
+オレ　今日は発掘休んだ…そうだ　地下で　マツを見たぜ。 あそこは　信者以外　入れないのに…どこから　入ったんだろう…
+Pub
+
+Gulliver Boy Character 013
+オレたちゃ炭坑夫！　発掘のプロだ！この街の地下で　青い石とかいうモンを探してんだ！　給料は　安いけどな… でもよ…聖魔教の信者たちは　みんなタダで　働いてるんだぜ！　毎日毎日……まったく　信じられねぇよな…
+Gulliver Boy Character 013
+酔っぱらってる時が　いちばん幸せだよ……仕事のこととか…家族のこととか…全部忘れて　タダの酔っぱらいになれる… どんどん悪くなってく　世の中のこととかイヤな上司のこととか。。。あの…聖魔教会の…ルルブのことも…… くそっ！　話してたら思いだしちまっただろ！どうしてくれるんだ！　ヒックッ！
+Gulliver Boy Character 015
+いらっしゃい！子供に　お酒は出せませんが楽しんでいって　くださいね！
+House C
+
+Gulliver Boy Character 012
+ああ　マツね。あの人ってオタクでしょ…友達には　なれないわ！ 街のみんなも　マツの悪口　言ってるし……まぁ　きらわれ者が　一人いると話に花が　咲くけどね…
+
+Gulliver Boy Character 007
+ウチのお母さん　あんなこと言ってるけどボクら　マツのこと　キライじゃないよ。 いろんなこと　知ってるし…いつも　ボクらと　遊んでくれるし… でも　マツと遊んでると　お母さんにしかられるんだ…
+
+House D
+
+Gulliver Boy Character 013
+たとえば　マツが青い石を見つけたとしても… 対絶！　何かと交換しちまうと思う！そーいう　ヤツなんだ…マツは…
+
+Gulliver Boy Character 007
+マツのお母さんはね　いい子にしてるとキャラメルを　くれるんだ！ だから　みんなからキャラメル・ママって　呼ばれてるんだ。
+
+Fossil House
+
+Gulliver Boy Character 122
+困ったもんだ…うちの子にも…ああ　マツって　言うんだけどね…ガラクタの　オタクなのさ！ マツは　このあたりの有名人さ。そこらじゅうに　穴を　ほってさ…見てよ　このガラクタ！ これ　１０００年前の　パンツの化石！それ　原始人のよだれの化石！で　恐竜のはなクソ！ ……あーあ……バカ！　どーしようもない　バカだよ！ だからさ…ぜんぜん友達もいないのさ…あの年になっても…
+Fossils
+
+原始人のよだれの化石	ニキータのバナナ	恐竜のはなクソ	マネキンねこ	１０００年前の　パンツの化	だるまチアハム（スモーク）
+Gulliver Boy Character 011
+この穴に入るにゃ　アレが必要じゃ…その…長くて…ヒモがついてて…木で出来てて… ああっ　説明が面倒じゃ！北の建設現場にあるアレじゃよ!!
+
+縄ばしごを　使いますか？
+はい/いいえ
+
+Underground Excavation Site (地下大発掘所）Edit
+Gulliver Boy Character 080
+ルルブ様のこと考えると夜も寝ないで働けるんだ！…これこそ奇跡!!
+Gulliver Boy Character 080
+つらくなんか…ないさ!!これも…ルルブ様の…ため!!
+Gulliver Boy Character 013
+なんだ　飲みたいのか？ほれ　オレのを一本やるよ！ …っと思ったけど持ち物が　いっぱいじゃねぇか！ざんねんだな…あきらめな…
+Gulliver Boy Character 080
+ちゃんと並べよ！
+Gulliver Boy Character 079
+ポンピーを飲むと　元気になるのよ！
+Gulliver Boy Character 012
+聖魔教会のために　働く人だけポンピーが　もらえるのよ！
+Gulliver Boy Character 012
+ポンピーがあるからつらい仕事も平気よ！
+Gulliver Boy Character 014
+あははは！　ポンピーがあれば元気になって寝ないで働けるんだ。 聖魔飲料・ポンピー!!１日１ポン!!　ピピっと元気!!…なんてな…はは…
+Gulliver Boy Character 012
+ごほごほっ…今ここで…私が…休んでしまったら…ごほごほっ…ごほごほっ… このアテネに天罰が下ってしまう…ごほごほっ…ああっ　ルルブ様!!　この私に…もっと力を…
+Gulliver Boy Character 012
+見えるわ…光が見える…どんなに…つらくても…私には…ルルブ様のいつくしみの　光が見える…
+Gulliver Boy Character 121
+青い石が　見つからないのはあなたがたの　信心が足りないからです!!　信心とは　命のかぎり　働くこと!!
+Gulliver Boy Character 080
+ひとつ掘っては　神のため…ふたつ掘っては　父のため…みっつ掘っては　母のため… よっつ掘っては　人のため…ああ私は今　ルルブ様のためにこうして　一生懸命働いている…
+Gulliver Boy Character 080
+働き　働き　働いて…つらくなったら…ポンピー飲んで…たちまち元気…また働いて…
+Gulliver Boy Character 013
+聖魔教会のため…何としてでも…青い石を見つけ出すんだ！そのためなら　ボクの命なんて…
+Gulliver Boy Character 123
+ちぇっ！　あんなポンピーなんての飲まないと　働けねぇのか！　バカなヤツらだ… 働くってのは　スキだってことだ！オレは　ガラクタが　スキだ!! オレの名は　マツ！みんなは　オレのこと『オタク』って　いうけど。。。 ほかのヤツよりも　自由で　熱いパッション（情熱）を　もっている…ただ　それだけのことさ！ オタクら　なにか　ガラクタもってないか？もってたら　オレの宝物と交換してやるぜ！ さぁ　何を　もってるんだい？ マツと　アイテムを交換しますか?
+はい/いいえ
+そうか！　交換してくれるか！…それじゃ　何　持ってるか　見せてくれよ！　…ふんふん…ふぅん… すまねぇけど　あんた…オレの欲しい物は　何も持ってないぞ！…つまんない　ヤツだな…あばよ!!
+
+Underground Excavation Site (Lower Level）
+
+Gulliver Boy Character 080
+かゆいかゆいかゆい!! のーミソがかゆい!! わらわらわら…
+Gulliver Boy Character 013
+ふぁぁぁ…ん？マズイ！　ポンピーが切れてきた…早く買いに行かなくちゃ!!
+Gulliver Boy Character 012
+あは…アハ…あは…アハ…なんか　はっぴー!!すごぉーく　はっぴー!!
+Gulliver Boy Character 080
+あの女あの女あの女あの女あの女あの女……オレのことオレのことオレのこと笑ってやがる笑ってやがる笑ってやがる…
+Gulliver Boy Character 080
+穴掘りがイヤで　アルジェを飛び出し聖魔教会に入ったのに…気がついたら結局ここで　穴掘りをしていたよ…はは... …うっ!!　やべっ！　ポンピーが切れた！
+Gulliver Boy Character 012
+ ?!どうしたのかしら？身体が…ヘン… 働きすぎかしら？それとも　ポンピーの飲み過ぎ？
+Gulliver Boy Character 013
+流した汗の分だけ…天国に近づける！さぁ！　掘って掘って掘って掘って掘って掘って掘って掘って掘って掘って掘って！ 掘って掘って掘って掘って掘って掘って掘って掘って掘って掘って掘って！掘って掘って掘って掘って掘って掘って！掘って掘って掘って掘って掘って掘って！t掘って掘って掘って掘って掘って掘って！掘って掘って掘って掘って掘って掘って！掘って掘って掘って掘って掘って掘って！て掘って掘って掘って！t掘って掘って掘って掘って掘って掘って!
+Gulliver Boy Character 013
+…ワニ…ワニがいるんだ……白い……ワニ……こ…こわいよ…こわいよぉーーー!!
+Gulliver Boy Character 123
+よう！　また　会ったな！オレだ!!　マツだ!! オタクら　なにか　ガラクタもってないか？もってたら　オレの宝物と交換してやるぜ！ さぁ　何を　もってるんだい？ マツと　アイテムを交換しますか?
+はい/いいえ
+そうか…何も交換して　くれないのか……つまんないヤツだな…あばよ!!
+
+Beast-man Hospital　(獣人病院)
+
+Event: Crazy Horse
+
+Gulliver Boy Character 070
+ちぇ！　また　バカが来やがった… オレは　クレイジー・ホース！天才酔いどれ医師だ…ウィ!!ポンピーを飲んで　調子　悪いのか？	ポンピーを飲んで　具合が悪いですか？
+はい/いいえ<u>
+
+Gulliver Boy Character 070
+そうか…ポンピーだけは　飲むなッ!!いいな…わかったな!!まぁ　参考に　奥の部屋を見ておけ！
+Event: Check on the Bones
+
+Gulliver Boy Character 070
+…よく見とけよ！ポンピーを　飲み続けると…人間じゃ　なくなるのさ… あんな姿に　なりたくねぇなら…ポンピーは　飲むなッ!!
+Gulliver Boy Character 124
+ののの…飲ませて…ください…！あああ…もう一度…！ル…ルルブ様!!！ がるるる！　こらーッ！　ヤブ医者!!ここから出せーーーーッ!!がるるるるるるる!!
+
+Gulliver Boy Character 125
+がるるるるるるる…がるるるるるるるがるるるるるるる…がるるるるるるるがるるるるるるる…がるるるるるるる がるるるるる…こっここから出せぇー!!がるるる…このヤブ医者めぇ!!ポンピーを…飲ませろぉーーー!!
+Event: Check on the Transformed
+
+Gulliver Boy Character 070
+残念だが…ポンーの毒は　消せねぇ…いま　オレに　できるのは…なんとか…こいつらを　生かしておくことだけだ… クソッ！　それにしても…ゆるせん！聖魔教会のヤツら…命を　何だと思ってやがる!! ああ…しかし…いくら　このオレが…天才医師でもよ…しょせん　医者なんて…無力だ…	
+Gulliver Boy Character 123
+…まったく…ひどい…あいつ…前に　ゾウの耳かきをくれたヤツだ。。。 やめろ！　みんな　ポンピーを飲むな！……クソッ!!
+Gulliver Boy Character 070
+いいか！　ポンピーだけは飲むな！クスリに　たよってるようなヤツはいつか　クスリに　うらぎられるんだぜ！
+Underground Excavation Site (Lower Level）
+
+
+Event: The Truth About Ponpii
+
+Gulliver Boy Character 121
+…しかしルルブ様もあんなにかわいいお顔なのに…やることは悪どいや！	
+Gulliver Boy Character 121
+アテネの市民に　ポンピーを飲ませ思いのままに　働かせるとは…	
+Gulliver Boy Character 121
+市民が　何人　死のうと…聖魔教会は　かまわんのだ。	
+Gulliver Boy Character 121
+はじめは　タダ…だんだん　値上げしてよ…命だけじゃなく　金も取っちゃう！
+Gulliver Boy Character 121
+はははは…ポンピーを飲むと命は　なくなるわ…金も　なくなるわ…	
+Gulliver Boy Character 121
+まぁ　死んじゃえば　金もいらんしな…	
+Gulliver Boy Character 121
+お？　警報だ！何が　あったんだ？	
+Gulliver Boy Character 121
+奥の工場だ！行ってみようぜ!!
+Ponpii Factory　(ポンピー工場)
+
+Event: Meet Lulubu
+
+Gulliver Boy Character 123
+こいつめーッ!!みんなを　ポンピー中毒にしやがって!!！	
+Gulliver Boy Character 126
+あら？　あんた　マツとか言うおバカさんじゃない！ 人のことより　自分の命の心配すれば！ このルルブ様に　さからうなんてゆるせないわ!!	
+Gulliver Boy Character 123
+くそーッ！　みんなを…みんなを　人間にもどせーッ！みんなを　返せよーーーッ！
+Gulliver Boy Character 126
+ポンピーを飲むのは人間が弱いからよ…弱いヤツは死んでも　いいのよ!!	
+Gulliver Boy Character 123
+おい…助けてくれよ…	
+Gulliver Boy Character 126
+なぁに…まだ　バカがいるの…どう？　ポンピー飲む？
+はい/いいえ<u>
+
+Gulliver Boy Character 003
+(Choose Yes) ガリバー！　やめなさいよ!!	
+Gulliver Boy Character 001
+(Choose No) ゆるせねぇーなーーッ！お前のこと!!	
+Gulliver Boy Character 126
+あら…そう…じゃぁ　しかたないわね！このアタシ　聖魔シスター・ルルブがちょっと　かわいがっちゃおーッ♥
+Gulliver Boy Character 126
+うぐっ…ううう…お…おねぇさまーーーッ!!	
+Gulliver Boy Character 121
+…に……にげろーーーー!!	
+Gulliver Boy Character 123
+強いな　オタクたち……もう　ガラクタは　どーでもいい…みんなを…みんなを助けてれよ。。。 そ　そうだ…『青い石』見つけたんだ…これさ…みんなを助けてくれたらタダで　あげるよ!! だから…たのむ!!　ねっ!!ポンピーの毒を　消せるのは…女神様　だけだ!! 女神様を　助ければ…みんなも　助かる!!	
+Gulliver Boy Character 127
+わたしは　聖魔シスター・ジャラン！わたしの　かわいいルルブを…よくもッ！ いいわ!!　聖魔教会の恐ろしさをたっぷり　教えてあげる!! さぁ！　アクロポリスに　いらっしゃい！大聖魔神殿・パルテノンでお前たちを待ってるわ!! そうだ…わたしのこと　忘れないようにステキな歌を　うたってあげるわネ. 名づけて『ジャラン・ラップ』よ!!あははははははは ……………………
+Underground Excavation Site (Lower Level）
+
+Event: Crazy Horse Joins the Cause
+
+Gulliver Boy Character 070
+おい！　さっきから　かかってるあの　やかましい　歌は何だよ？ …ひょっとして　お前のことを歌ってるんじゃ　ないのか？ お前…聖魔に…ケンカ　売ったのか！いい根性してるな…… ポンピーの毒を消すには……女神を　復活させるんだってなマツって　ヤツから　聞いたぜ。オレも　仲間に入れてもらうぜ！その　ケンカのよ… オレは…死ぬのは恐くないんだ。ガキのころから心臓がわるくてフンッ！　どうせ　あと３年の命だ。 これまでに…何度も地獄を往復している…なぁ　仲間にしろよ！	天才酔いどれ医師　クレイジー・ホースを仲間にしますか？
+はい/いいえ<u>
+Gulliver Boy Character 070
+それじゃ　ガリバー！この命…そっくりお前に預けるぜ！…よろしくな…	天才酔いどれ医師　クレイジー・ホースが仲間になりました。 ホースは　ガリバーに　魔拳フリーズのディスクを　手渡しました。
+AcropolisEdit
+Gulliver Boy Character 121
+アゴを治してもらった　うれしさよりも大聖魔神殿・パルテノンの　完成のほうがうれしい!!　わははははははは！ ふがごげ……また……アゴが……
+Gulliver Boy Character 023
+おい！　聞いたか？美しいルルブ様が………ガリバーとかいう子供に…うわあああん!!
+Gulliver Boy Character 016
+聞け！　新しい時代の　始まりをつげるジャラン様の歌声を！
+Gulliver Boy Character 012
+ここ　アテネ神国は　女神リーブラ様のごかごによって　栄えていたわ…でも　聖魔のやつらに…石にされて… ああ！　時を…戻したい…美しかった　フェニックスの丘…やさしかった…女神様…
+Gulliver Boy Character 016
+うーん…美しい歌声…心が　洗われるようだ…
+Gulliver Boy Character 013
+ああ…美しいジャラン様の歌声…
+Gulliver Boy Character 011
+パルテノンの内部は　迷宮になっておる……最上階にある　ジャランの部屋にたどり着く方法は　誰も知らぬ... 迷宮を作った　大工たちも　みな…ああっ　これ以上は　とても…とても…恐ろしくて　言えぬ!!
+Gulliver Boy Character 012
+この美しい神殿　パルテノンこそがジャラン様に　ふさわしい建物!!
+Gulliver Boy Character 017
+し　しょえーーーーッ!!　ルルブ様が…ルルブ様が…倒されたとな…ああっ！　鬼じゃ！　鬼のしわざじゃ！
+Gulliver Boy Character 080
+ついに　われわれの信者の悲願であった大聖魔神殿・パルテノンが完成した！聖魔教会よ！　永遠なれ!!
+Temple of the Holy Spirit-Parthenon (聖魔神殿・パルテノン )
+
+Event: Meet Jalan
+
+Gulliver Boy Character 127
+ははははは…どうだい？恐いかい？　恐ろしいかい? 私がここで…このロープを切ったら…あんたたち　二人は…どうなるか　わかるかい？	
+Gulliver Boy Character 128
+じっ　ジャラン様…お許し　ください!!	
+Gulliver Boy Character 127
+お黙り!! 聖魔教会を脱会しようなんて言うヤツは…ワニに　食われちまったほうがよっぽど　役に立つんだよ!!	
+Gulliver Boy Character 128
+ひっ！　ひえーっ!!
+Gulliver Boy Character 127
+はははははは…惜しかったねぇ　もうちょっとでごちそうに　ありつけたのに…	
+Gulliver Boy Character 003
+…ひどい!!　やめなさいよ!!	
+Gulliver Boy Character 127
+何だい？　お前たち…ああっ　誰かと思えばマヌケなガリバーとその仲間たちかい？ ずいぶんと　遅かったじゃないか！待ちくたびれちまったよ… さぁ　約束通り…この聖魔シスタージャラン様が　お前たちに本当の恐怖を…教えて　あげようじゃないか…
+Event: Booted From the Temple
+
+Gulliver Boy Character 127
+はははは　どうした弱虫め！この程度で　降参かい！	
+Gulliver Boy Character 123
+どうしちまったんだい？　ガリバー！ジャランに　やられちまったのかい？	
+Gulliver Boy Character 002
+あいつ…変な術を使うんだ…それで　気がついたら…ここに…	
+Gulliver Boy Character 123
+ん？　待てよ？　そういや　どこかで聞いたことがあるな…ジャランのヤツはまどわしの術を使うって… ガリバー！　なんとか　ならねぇのかよ！ジャランの術を　やぶれるようなすげぇ魔法か　なんかがよう！ がんばってくれよ！　オタクらだけが頼りなんだ!!
+Gulliver Boy Character 123
+何かないのかよ？　ジャランのまどわしの術を　見やぶる　魔法かなんかが!!え？　ちゃんと考えてくれよ!!
+
+Temple of the Holy Spirit-Parthenon
+
+Event: Lets Try This Again
+
+Gulliver Boy Character 127
+さぁ　約束通り…この聖魔シスタージャラン様が　お前たちに本当の恐怖を…教えて　あげようじゃないか…
+Gulliver Boy Character 127
+くっ…ゆだん…した…わ……しかし…ハレルヤ様の…復活…は……もう……す…ぐ…………	床に何か　光る物が　落ちています…	
+Gulliver Boy Character 013
+ありがとうございます！ありがとうございます！おかげさまで　助かりました！	
+Gulliver Boy Character 002
+助かったって…ねぇ！　いつ　どうやってあの縄を　ぬけたんだい？
+Gulliver Boy Character 013
+そ…それは…………もっ…もちろん！あなたがたが　ジャランと戦っている間にです！　ええ！　そうですとも！ そんなことより　お礼に　ヒミツの近道を教えて　さしあげましょう！ さぁ！　ここです！どうぞ　お通り下さい！	
+Gulliver Boy Character 002
+なんかちょっと…強引だよね…	
+Gulliver Boy Character 999
+いいんじゃない？　便利し…さ！　行きましょ！
+Streets
+
+Gulliver Boy Character 016
+ええい！　くそっ！　オレたちは聖魔教会に　利用されていたんだ…あの　ルルブとジャランに…
+Gulliver Boy Character 012
+ジャランは　いなくなったけど…ポンピーを飲み過ぎて　モンスターになった人たちは　元には戻らないわ…
+Gulliver Boy Character 016
+…ようやく　気づいたよ……他人の言いなりになって　生きる方が…実は　ずっと楽なんだって　ことが… オレたち　実は　楽な生き方を選んでいたんだって　ことが… そうだよな…聖魔教に逆らって生きるより聖魔教の　ロボットとして　働く方がずっと　カンタンだもんな… あんたは…えらいよ…
+Gulliver Boy Character 012
+早く！　逆転の書を使って　女神様を…でないと…モンスターたちが…
+Gulliver Boy Character 023
+聖魔教に　マインド・コントロール…されていたんだ…だから…オレ ……………………………………………… お願いだ！　女神様を　元に戻してくれ！あんたの　逆転の書を使えばきっと…できるはずだ！
+Gulliver Boy Character 080
+聖魔教会が　作っていた　ポンピーって…実は　あぶない薬だったんだってな…飲み過ぎないで　助かったよ… …そういえば　まだ　ダフニの地下にはポンピーを飲み過ぎて　モンスターになった　ヤツらがいるんだろ？ 頼む！　助けてやってくれ！女神様に　お願いすればなんとかなる　はずだ！
+Gulliver Boy Character 017
+…気づかぬうち…悪魔を信じておった………鬼は…わしの心の中に…住んでいたのじゃ！
+Gulliver Boy Character 013
+今になって　ようやく気づいたよ…聖魔教は　まちがっていた…そして…オレたちは　ヤツらのドレイだったんだ…
+Gulliver Boy Character 011
+おぬし　あの迷宮を　クリアーしたのか？あの　ジャランを　倒したのか？…うむむ…たいした　子供たちじゃ！ さぁ！　あとは　女神様の復活じゃ！逆転の書を　使うがよい！
+Phoenix Hill　（フェニックスの丘）Edit
+Gulliver Boy Character 011
+さぁ！　早く　女神様を！
+
+Gulliver Boy Character 011
+そうか…キミたちが…ジャランを　倒したのか… ならば　『逆転の書』を手に入れたはず!!　お願いじゃ！　それを使って女神様を　復活させてくだされ!!
+
+Gulliver Boy Character 011
+逆転の書を持ち　女神様の前に立てば…封印は　解けるはずじゃ！お願いじゃ！　一刻も早く　女神様を！
+Event: Goddess Statue
+
+Gulliver Boy Character 129
+その時　ガリバーの持つ　逆転の書がやわらかい　光を放ちました。	(FMV)	
+Gulliver Boy Character 130
+ありがとう　ガリバー！…私の力が　弱いばかりに…みんなを　守れませんでした。 聖魔を　アテネに入れてしまいました。あなたが　来てくれて　よかった… でも　これで　安心はできません！もっと　恐ろしい力が　見えます!! ガリバー…………あなたこそこの世に生まれた　希望の光です!! さぁ　願いを　ひとつ言ってごらんなさい!!	
+Gulliver Boy Character 002
+ポンピーの毒を　消してよ!!みんなを　人間に　もどしてよ!!
+Gulliver Boy Character 130
+わかりました……願いは　聞きとどけましょう！	
+Gulliver Boy Character 130
+ガリバー！　メシュナに行くには　エーゲ海峡の門を開かねば　なりません。 あまり力に　なれないけれど…門をあける『ニケアの鍵』をさしあげましょう。 つらい戦いでしょうが…平和を　とりもどすために　がんばってください。 あなたの力が　この世界を救うただひとつの　光なのです。	
+Gulliver Boy Character 123
+ガリバー　おれだよ　マツだ。やったな！　女神様が復活した。みんなが　人間に戻った… おまえ　すごいなぁ…そうだ　約束の青い石をあげるよ。本当に　ありがとう　ガリバー!!	４つめのジュピターを手に入れました。 その時　どこからともなく美しいメロディが　流れてきました… 君に集い　君に熱くなれはてしなき　時を越える愛のレジエンド』 その声を…ミスティは　遠い昔に…どこかで　聞いたような……そんな気がしました…
+Gulliver Boy Character 130
+ガリバー…エジソン…ミスティ…そして…フィービー！　私には見えます…明日の希望を　切り開く　あなたたちの姿が… さぁ！　目を閉じて下さい！私は　いつでも…あなたたちとともにあります!
+ガリバーたちの身体に勇気が　みなぎりました。
+つらい戦いでしょうが…平和を　とりもどすために　がんばってください。 あなたの力が　この世界を救うただひとつの　光なのです。
+
+The City of DaphneEdit
+Streets
+
+Gulliver Boy Character 013
+…平和になったのは　いいけどさ…まだ　オレの頭の中で　鳴ってるんだよな…あの歌…あの…『ジャランラップ』が…
+Gulliver Boy Character 012
+これからは　女神様とともにこのアテネを　争いのない　豊かな国にしていくわ！　…ありがとう！
+Gulliver Boy Character 013
+あんた　ジャランを倒したんだってな！…スゲェな！　すごすぎるよ！まったく　とんでもねぇ　ガキどもだ！ …でもよ…気をつけた方がいいぜ！聖魔教会の力は　あんなモンじゃねぇ……ヤツらの聖地メシュナには……………
+Gulliver Boy Character 012
+見るからに　筋肉バカって感じの男がエーゲ海峡にむかって　泳いでいたわ！あれ…何だったのかしら…
+Gulliver Boy Character 008
+ねぇ！　聞いて聞いて！地下のモンスターが　いなくなったんだ！これで　ボクのおねしょも　治るかな？
+Gulliver Boy Character 014
+知ってるか？　ガリバーって言う子供が世界を変えたんだ！　信じられるか？…オレたちは　自由なんだ！
+Gulliver Boy Character 012
+…私　思ったの…あなたたちなら…あのハレルヤを…倒せるかもしれないって…あなたたちなら…
+Gulliver Boy Character 016
+オレ　マツのこと　見直したな…あいつみんなのために　戦ったんだもんな…オレたち　逃げてばかりいたもんな…
+Fossil House
+
+Gulliver Boy Character 123
+よう！　ガリバー！　…トモダチ…がんばってるか？　戦ってるのか？ おたくら　いつもがんばってるもんな… 元気か？　何か　ガラクタを持ってたらオレの宝物と　交換するぜ！ マツと　アイテムを交換しますか？
+はい/いいえ
+そうか！　交換してくれるか！…それじゃ　何　持ってるか見せてくれよ！　…ふんふん…ふぅん… すまねぇけど　あんた…オレの欲しい物は　何も持ってないぞ！…でも…トモダチだから…ゆるすぞ！
+Gulliver Boy Character 122
+あんた　ガリバーだろ？　ウチのマツの力になって　くれたんだってね！…いい子だね…あんた… いい子には　ごほうびをあげるよ！さぁ！　受け取っておくれ！
+金貨５００枚を　手に入れました。
+
+Aegean Straight (エーゲ海峡)Edit
+Event: He Came Back!
+
+Gulliver Boy Character 131
+やーっと　追いついたでありマッスルよーぉ！	
+Gulliver Boy Character 002
+げっ！　お前は…ブドー・マッスル?!	
+Gulliver Boy Character 131
+その名は　ジブラルタルに捨てた！ふふふ…あれから　さらに修行を重ね…いまは　ハドー・マッスルだ!! 愛と根性の戦士!!そして肉体の復しゅう鬼… ら　さらに修行を重ね…いまは　ハドー・マッスルだ!!I愛と根性の戦士!!そして肉体の復しゅう鬼…Uはどーぉぉぉマッスルマッスルマッスルマッスルマッスルマッスル… …い…いかん…回路が…水につかって……つかって…つかって えーーい!!　直れ!
+Gulliver Boy Character 002
+…こ…こいつぜ…ぜんぜん　変わってない…	
+Gulliver Boy Character 131
+そいつぁ　甘いゼ!! チミたちに　敗れた　くやしさをエネルギーに　ぼーくは　根性入れなおし特訓したで　ありマッスル!! そして！　きょう　ここに　新たなるニューヒーロー！　ハドー・マッスルが誕生　しマッスル!! でーは！　ここで　ニューバージョン！ハドー・マッスルの　新たなる３大新兵器を　紹介しマッスル！	
+Gulliver Boy Character 131
+新兵器その１…波動砲・改!! 従来　手で行っていたエネルギー充填を足で行うことによって　パワーが当社比２０パーセントアーップ!! 新兵器その２　…波動エクサ座イス!!波動エネルギーを使って　空を飛びマッスル！ 新兵器その３…波動券!!この券は　特別シールだ!! バトル中に　この券を　ペッタンすると全員に　波動砲・改が大当たり　しマッスル!!
+Gulliver Boy Character 131
+………以上！新たなる　ニューバージョンの３大新兵器で　ありマッスル!!	
+Gulliver Boy Character 002
+こ…こいつ　発明家か…	
+Gulliver Boy Character 131
+説明は　終わり!! そろそろ　ぼーくの　燃えたぎる　熱いホットな　復しゅうのハートを受けとめて　もらいマッスル！ いき　マッスルーーーーッ!!!!
+Gulliver Boy Character 131
+ああ…強いヤツって　いるもんだ…でも　　敗れても…くやしくない…むしろ…さわやかで　ありマッスル… うう…ぼーくは…よく努力した…そう…思えマッスル………ガリバー…………そうで　ありマッスルよね…？! さぁ…ガリバー…赤いレバーを…赤いレバーを引けば…水門は開きマッスル… ガリバー…ぼーくを　倒した強い　チミに……これは　ささやかなプレゼントで　ありマッスル！	
+Gulliver Boy Character 131
+そろそろ…グッバイで　ありマッスル！ガリバー…聖魔を…聖魔を…
+壁に　レバーがあります。操作しますか？
+
+はい/いいえ
+Chapter 7Edit
+Crimea Kingdom（クリミア王国)Edit
+Event: Floral Conversation
+
+Gulliver Boy Character 999
+……ちょっと　待って…ガリバーそこは妖精の国…クリミアの入口…本当に…中に入りたい？	
+Gulliver Boy Character 001
+おい…なに　ビビってんだ？フィービー!!	
+Gulliver Boy Character 999
+う　ううん…ビビってんじゃ　ないよ…ただ…そこは　妖精の国… あたしを　捨てた……あたしの　生まれ故郷………………………………	
+Gulliver Boy Character 002
+どうする？ ガリバー。
+行く/行かない
+
+Gulliver Boy Character 999
+…そう…わかったわ…じゃぁ…入れるようにしてあげる……………
+Phoebe's Hometown
+
+Event: A Different Perspective
+
+Gulliver Boy Character 002
+ど…どひぇーーッ！フ…フィービーがッ…でっかくなったぞッ!!	
+Gulliver Boy Character 001
+どうなってんだ？!	
+Gulliver Boy Character 999
+アタシが　大きくなったわけじゃないわ。…見て！
+Gulliver Boy Character 003
+ひょっとして…　私たちが　小さくなっちゃったの？	
+Gulliver Boy Character 002
+ひぇーーーッ!!ボ…ボクたちが…妖精の大きさに…イヤだーーーッ!!	
+Gulliver Boy Character 999
+外に出れば…元にもどるわ…さぁ　先に　逮みましょう！
+Event: Giant Sunflower
+
+Gulliver Boy Character 999
+ここに妖精王リア様が住んでらっしゃるわ。リア様は…	
+Gulliver Boy Character 133
+フィービー！　すぐに　ここを出て行きなさい！　クリミアに　あなたのいる場所など　ありません!!	
+Gulliver Boy Character 999
+別に…ずっと　いるつもりは　ないよ…ちょっとさ…　よってみた　だけじゃないなによ…えらそうに…	
+Gulliver Boy Character 133
+…ガリバー！　あなたもです…ここに　人間の　いる場所などありません。出て行ってください…
+Gulliver Boy Character 002
+なんか　冷たいな…第一さ…ここはフィービーの…	
+Gulliver Boy Character 133
+フィービーは…わがままで友達の妖精を　いじめたり花や木を　折ったり…… だから　永久に　クリミアから追放されたのです。	
+Gulliver Boy Character 003
+そ…そんな……妖精の国には…あやまちを　ゆるすということがないのですか？!	
+Gulliver Boy Character 133
+ゆるす……その言葉は　あなた方　人間が一番　心しなければ　ならないこと… 人間は　自然をこわし憎しみあい　殺しあう生きもの　ですものね…… そんな人間たちが　私たちの問題に口を出す　資格など　ありません！出て行って　下さい！
+Event: A Present from Tink
+
+Gulliver Boy Character 134
+フィービー!!	
+Gulliver Boy Character 999
+ティンク!!　ティンクじゃない！わぁ　久しぶり!!	
+Gulliver Boy Character 134
+あのね　フィービー！リア様が　あなたたちにこれを　渡してくれって…
+Gulliver Boy Character 999
+ありがとう　ティンク。…でも…なぜ　リア様が。。。？	
+Gulliver Boy Character 134
+フィービー…リア様はね…口では　冷たいこと言ってるけど　内心はあなたのことが　心配でならないのよ。 あなたたちは　これから　大きな試練に立ち向かって　行くんでしょ！少しでも　力になれればって… ガリバーさん…リア様のこと悪く思わないで　下さいね。 むかしの　イヤな思い出が　リア様の心を閉ざしている　だけなんです。 でも　私は信じているんですよ。人間と　妖精と…いつかまた　本当に　わかり合える日が来るって… それじゃぁ　また!!フィービー！　元気でね…	
+Gulliver Boy Character 999
+あ…ありがとう…
+Port of Istanbul（イスタンブールの港)Edit
+Upside Town (アップサイド・タウン)Edit
+House A
+
+Gulliver Boy Character 012
+この町は　むかし　イスタンブールでも有数の　観光地だったのです。でも　今じゃ皆　ゼロの呪いを恐れて…
+
+Gulliver Boy Character 017
+ううう…お見舞いに来てくださったのじゃな…うう…うれしい… ゼロじゃ…聖魔教会のゼロが…こんな　ひどいことを… …聖魔教会のゼロが…こんな　ひどいことを…… お…おそろしや…ゼロ…あいつを倒さぬ限り…　この町は　永遠に…ううう… こ…こんなお願いは…心苦しいが…もし　キミたちに　『勇気』があるならあの　ゼロを　やっつけてくれぬか… こ…これは　ゼロの家のカギじゃ！あっ…いや…恐いので　あれば…別に　ムリにとは　言わんが… まぁ…あずけておく…
+Zero City (ゼロ・シティ)Edit
+Beauty & Beast
+
+Event: Mammoth's Magic Show
+
+Gulliver Boy Character 135
+見てください！世紀の魔術です！ あっ！　……失敗しました。 失敗は　成功の母帰る…………ごめんなさい… ローマは　一日にして　ならず者…………ごめんなさい…。
+Gulliver Boy Character 136
+あら？　あなた　また会ったわね。これ　おこずかい………みんなには　ナイショよ！
+ジジは　ガリバーに金貨８０００枚を　手渡しました。
+あたし　ちょっと予知能力があるの…あなたは　必ず　もう一度あたしに　会いに来るはずよ!
+
+Zero's Mansion　(ゼロの屋敷)
+
+ガリバーは　ゼロの鍵を　使いました。 ゼロの鍵は　音もなくくだけちりました。
+Event: Meet Zero
+
+Gulliver Boy Character 137
+ふふふ…キミたちの　ウワサは聞いているよ…アテネでは　ずいぶんとヒドイことを　してくれたね。 私の名は　聖魔マスター・ゼロ。 キミたちは　ガリバーと　その仲間だね。	
+Gulliver Boy Character 002
+ボクは　エジソンだ！ゼロ！　お前だな！　この国で悪いことばかり　しているのは！	
+Gulliver Boy Character 137
+聖魔教会の　教えは人々の心の救済だ。善悪を　問うものではない…
+Gulliver Boy Character 002
+うるさい！　悪いものは　悪い！	
+Gulliver Boy Character 137
+ふふふ…そうか　議論してもムダなようだ…では『魔封印の箱』がキミたちの　相手だ！	
+Gulliver Boy Character 137
+ふふふ…キミたちはこの屋敷から二度と出ることは出来ぬのだ…二度とな!!　ふふふ…
+Event: The First Demon Box
+
+その時　どこからともなくゼロの声が　響きわたりました。	
+Gulliver Boy Character 137
+いでよ!!　封印の魔戦士!!	第一の封印解きたり…風をはらみ『青嵐のアドラー』が　あらわれた。
+Beauty & Beast
+
+Event: Magi Mammoth Joins
+
+Gulliver Boy Character 135
+ぼ　ぼくに何か…ご用ですか…あの…魔術でしたら…もっと勉強して上手になりますから… どど　どうぞ…ごかんべんください…え？　…名前ですか？ …ママッ…マギー…マンモスって言います。えーっと…リー１０倍博士の下で…しゅ修行したんですが…なっ　なにせ不器用なもんで…	
+Gulliver Boy Character 002
+本当かい？それじゃ君も　ボクたちの仲間になってくれるんだね!!	
+Gulliver Boy Character 135
+うわうわうわぁ!!…おどかさないで…くださいよ…それに仲間になるなんてとんでもないです…ぼ　ぼくは　不器用だから…あ…足手まといですよ…	
+Gulliver Boy Character 002
+だぁーいじょうぶだって!!さぁ　行こうよ　マンモス!!
+Gulliver Boy Character 135
+えっ？…そ　そんな…	
+Gulliver Boy Character 002
+マンモス!!君は　ボクたちの仲間になる！そうだよね!	
+Gulliver Boy Character 135
+えっ？　…は　はい…あの…いえ…おともさせて頂きます…	不器用な魔術　マギー・マンモスが仲間になりました。 マンモスは　ガリバーに　魔拳アックスのディスクを　手渡しました。
+Black Box (ブラック・ボックス)
+
+Gulliver Boy Character 138
+ぬぬぬぬぬ！曲がれ！　まがれぇーー!!
+ぬぐぐぐぐ！飛べ!!　とべぇーーー!! まだまだ　若いモンには負けぬぞ！うぐぐぐぐぐぐぐ…!!
+話しかけるでない!!集中力が　とぎれるではないか!!
+むむむむむ…わしらの念力で…レディ・ビーは飛んでおるのじゃ。
+心を無にして…精神力を…高める…ぬぬぬぬぬぬ…
+ムゥぉ…ヤバイ…エッチなことを考えてしまった…あぁぁぁ…集中力がぁ！集中力がぁーー!!
+うぬぬぬぬぬぬぬむぐぐぐぐぐぐぐぐぐぐぐぉぉぉぉ！！ .…いっ　いかん!!　つい　リキみすぎてしまった…
+Event: Exit
+
+Gulliver Boy Character 139
+んあ？　誰だぁ？勝手に中に入るなぁー!!	
+Gulliver Boy Character 003
+…ごめんなさい！…私たち…	
+Gulliver Boy Character 139
+おっ　可愛い　おじょうちゃんだな？いやいや　何も　言わなくていいって！わかってる!!　わかぁーってる!! オレはビックス　レディ・ビーの整備員だ　おまえたち　　あれだろ？　レディ・ビーがあんまりにも　カッコイイもんだから… つい　見とれてしまった。で　色々知りたくなっちゃった……そうだろ？	
+Gulliver Boy Character 003
+…いえ…あの…
+Gulliver Boy Character 002
+…そ…そうなんですよ！スゴイですよね。最高にカッコイイ!! 名前も　いいですよね。『レディ・ビー』…　センス最高！！ あのフォルムといい… カラーリングといい… 完成された機能美！　もう！　芸術品！	
+Gulliver Boy Character 139
+…そうだろ!!　…そうなんだよ!!　まぁ　この動力は　イスタンブールだけの技術なんだ！　すごいだろ！ ８人の老人が　祈って飛ばす…さしずめ　８キトー・エンジン…なんてなハハハハハハハハハハ…　	
+Gulliver Boy Character 002
+ハハハハ……………………	なんでぇ…不満そうじゃねぇか…あ！　信じてねーな！　このガキども…いいよ！　ああ…乗せてやるよ!! このビックス様の　メンツにかけてお前らを　レディ・ビーに乗せてやる！さぁ　ついて来なッ!!
+Gulliver Boy Character 139
+待ってたぜ相棒!!タラップは下ろしといたぜ!!さぁ　乗った乗った！ さぁ出発だ!!レディ…ＧＯ!!	
+Gulliver Boy Character 139
+おおーい！サボってんじゃねぇぞ!!	
+Gulliver Boy Character 139
+ようっし!!気を取り直して…レディ…ＧＯ!!!! (FMV)
+City of Heaven, Lamanai (天空の街・ラマナイ)Edit
+Aerial Temple (空中神殿)
+
+Event: Zero's Sermon
+
+Gulliver Boy Character 137
+信者たちよ…偉大なる…神の子らよ… ２０００年の昔　いまわしき　魔王と魔女によってなされたハレルヤ様の封印は… 運命の子供の出会いによて解かれました。 そして　こよい　われらが神…ハレルヤ様が　完全体となって　この地上に　復活なさいます。 どんなに永き夜もやがては　朝の光りに包まれます。 こよい　永きにわたる…われわれの　屈辱の歴史に…ついにピリオドが　打たれるのです。
+Event: Zero Confronted
+
+Gulliver Boy Character 137
+つつしみなさい。さまよえる子羊たちよ。われわれの祈りをさまたげようと　いうのですか？	
+Gulliver Boy Character 001
+さまたげるね！オレは　なんだか　腹が立ってきたぜ!! おまえらの　神サマなんて…復活させて　たまるか!!	
+Gulliver Boy Character 137
+…これは　おかしな事を言いますね。ハレルヤ様の　封印を解いたのは…あなたがた　だと言うのに…
+Gulliver Boy Character 003
+え?	
+Gulliver Boy Character 002
+ふざけんなぁーー!!	
+Gulliver Boy Character 137
+ふふふ…そうですか…何も知らないで　ここまで…それは　ご苦労さまでした。 しかし　その苦労も　ここで終わる。この　聖魔マスター・ゼロが　キミたちを永遠の眠りに　つかせよう!!
+Gulliver Boy Character 137
+ふふ…私に攻撃を　かけてもムダだ！いいかね…ゼロに１をかけて見ろ！答は……ゼロだ……わかったかな。	
+Gulliver Boy Character 016
+やか？（やられちまったのか？）まな！（まぁ　くよくよするな！）次さ！（次だ！　次に勝てばいいのさ！）
+Zero CityEdit
+Item Shop
+
+Gulliver Boy Character 016
+ダメだよ！　商売してねえんだから…　昨日　踊り子のジジに売った指輪がよ最後の商品なんだから… ありゃ　たしか『絶対零度の指輪』…だったかな？　いやあ　うんと高く買ってくれたよ。 まあ　ジジのおかげで　しばらくはのんびり暮らせるさ…さあ　出てってくれ売るもんはねえよ！
+Beauty & Beast
+
+Gulliver Boy Character 136
+やっぱり　また会えたわね。私たち…ふしぎな　縁があるみたい… あなたに　これをあげるわ…これは　困難から守ってくれる指輪…きっと　あなたの役に　たつはずよ！
+City of Heaven, LamanaiEdit
+Aerial Temple
+
+Event: One More Try
+
+Gulliver Boy Character 137
+ふふふ…そうですか…何も知らないで　ここまで…それは　ご苦労さまでした。 しかし　その苦労も　ここで終わる。この　聖魔マスター・ゼロが　キミたちを永遠の眠りに　つかせよう!!
+Gulliver Boy Character 137
+ふふふ…馬鹿め…お前たちは…本当に…何も知らない　ようだな…もう一度　言おう… ハレルヤ様の封印を解いたのは…お前たちだ…ハレルヤ様は…予言なさったのだ。 古代アトランティスの…伝説王と月の魔女…その子孫が出会うときハレルヤ様は復活すると… ガリバー…ミスティ……そう　お前たちのことだ... 思い出すがいい…初めて…お前たちが出会ったとき… あの時の大地震は…あの時の大洪水は　偶然ではない… お前たちが　ハレルヤ様を復活させたのだ…お前たち…が…な…	
+Gulliver Boy Character 003
+…ガリバー…ゼロの言ってたこと… …私たちの出会いが…ハレルヤの封印を解いてしまったって… …私たちの出会いが…あの大洪水を引き起こしたって… ………………… だとしたら…私たち…私たち出会っては　いけなかったの？! ああ…どうしよう……私のために…ベニスもアルバーンも…そして　たくさんの人たちの　命が… ねぇ…どうすればいいの？!　ガリバー？!	
+Gulliver Boy Character 001
+運命だか　なんだか　知らねぇが…オレはキミに会えて　よかったぜ！ 洪水は　誰の責任でもねぇ!!だいいち　起こっちまったことはしょうがねぇのさ！ な！　過去を思い悩んだってなにも　はじまらねぇだろ！ 今日を　めいっぱい　がんばろうぜ！そして　明日の希望を　つかまえるんだ！ ！ｩオレは　ハレルヤを　ブッつぶす!!あいつだけは　ゆるせねぇ!!ミスティ！　協力してくれよな!! オレは　ハレルヤを　ブッつぶす!!あいつだけは　ゆるせねぇ!!ミスティ！　協力してくれよな!!	
+Gulliver Boy Character 003
+うん!!
+Upside TownEdit
+House A
+
+Gulliver Boy Character 011
+町を　もとにもどしてくれてありがとう…本当に…ありがとう！ これで　観光客も　また来てくれるじゃろう… おお…そうだ！お礼を　せねばいかんな…と　言っても…何がよかろう… …うーん……あっ!! そうだ　町の名を　あなたの名前にさせて　いただくよ！ガリバー・タウン！　じゃ！！ キミの名前が　永遠に残るぞ！　どうじゃ！ おっ　そうだ！さらに　いい事を　思いついたぞ!! …ここの床には　隠し階段があってな。その先は　港に通じるトンネルになって　おるのじゃ。 ついでに　そのトンネルも　ガリバー・トンネルと　名付けようではないか！　はははははは！
+Chapter 8Edit
+Gulliver Tunnel (ガリバートンネル)Edit
+この先　聖靡教の聖地メシュナ　信者以外の入国をず。
+
+The Meshuna Empire (メシュナ帝国)Edit
+Gulliver Boy Character 121
+おい！　そこの子供！おまえたちは　聖魔教会員か？
+はい/いいえ
+本当か？　ウソついても　すぐ　わかるぞおまえが　本当に聖魔教の信者ならこれまでに教会に　寄付しているはずだ！ 今　調べるぞ！　名前は…ガリバー・トスカーニだな…えーと…ががが… ガリクソン…ガリケ…ガリコ…ガリナ…ガリニ…ガリヌ…ガリネ…ガリバー…おう！　あったあった！ うーん…　金貨　30枚しか寄付していないじゃないか！まぁ…今回は特別だ！通っていいぞ！
+
+Inn
+
+Event: Nightmare
+
+Gulliver Boy Character 121
+ようこそ！　奇跡の宿へ…金貨６６６枚じゃ！　泊まっていくかね？
+はい/いいえ
+良い夢を　見るのじゃぞ！…ふふふ…
+
+Gulliver Boy Character 002
+…ん？ここは…どこだ…？	
+Gulliver Boy Character 140
+ようこそナイトメアーへ…私の名は　聖魔長官エックス…悪夢の世界の住人だ。 私は知っている。…お前は聖魔教を信じていない！　よって…この精神の迷宮に封じ込める!!	
+Gulliver Boy Character 002
+え？　…そんな……悪い夢か　なんかだろ…？	
+Gulliver Boy Character 140
+…そうだ！ここは悪夢の世界…ナイトメアーだ!!
+Event: Meet X
+
+Gulliver Boy Character 140
+ほう　まだ生きていたのか！しぶといヤツめ！	
+Gulliver Boy Character 002
+やい！　ここから出せ!!	
+Gulliver Boy Character 140
+…何を言っても　聞く耳持たぬわ！…聖魔教を信じぬ　悪魔の手先め！ このエックス様が　夢のかなたへ消し去ってくれるッ!!
+Gulliver Boy Character 140
+うぐっ　まさか…このエックス様が…こんな　ガキひとりに…やられるとは… 聖魔大臣バラーム様…そして　メシュナの女王様……おゆるし…下さ…い… ハレルヤさまーーッ！お…おゆるしを……	床に何か　光る物が　落ちています…	
+Gulliver Boy Character 002
+うぇーーん…こわかったよー！こわい　夢だったよーーーッ!!…ガリバーッ!! ずっと…ずっと…キミとはなればなれに　なる夢だった…	
+Gulliver Boy Character 001
+もう　だいじょうぶだぜ！さぁ　行こう　エジソン！
+Temple Outskirts
+
+Gulliver Boy Character 121
+聖魔の証が　ない者はここを　通すわけには　いかん!! うむ！　聖魔の証を　持っているな！よし！　通っていいぞ！
+Cathedral (カテドラル)
+
+Event: Meet Queen Meshuna
+
+Gulliver Boy Character 141
+…信者たちよ！われらの神　ハレルヤ様が　ついに　完全なる復活をなされます！ …祈るのです！そして　ハレルヤ様に全てを捧げるのです！ 失うことを　恐れてはいけませんこの世界にある　全てのもの…お金も…地位も…名誉も…そして命も… 全ては…人間が　ハレルヤ様からお借りしている　ものなのです。 さぁ　お前たちのその命…ハレルヤ様に　お返しする時が来ました。 天国への扉は…すでに開かれております。…さぁ!!	はーれーるーやーーーーー はーれーるーやーーーーー はーれーるーやーーーーー	
+Gulliver Boy Character 141
+皆の者！　動くな！　ここに邪悪なる　心をもった者がいる…その者は　聖魔教会の信ではない！	おまえだ！	し　しまった!	
+Gulliver Boy Character 141
+おまえは…イスパニアの残党だな！死ね!!
+イスパニアのジュドー……バカな男よ…… しょせん　ハレルヤ様の手の中でおどらされて　いただけ……ハハハハハハ………… そこっ！　おまえだ！
+
+File:Gulliver Boy Character 002.gif
+逃げろ！　ガリバー！	(FMV
+Meshuna Tower (メシュナの塔)Edit
+泉から　血のように赤い水がわきだしています。飲みますか？
+はい/いいえ
+ガリバーたちは　毒にかかりました。
+
+扉は　かたく　閉ざされています。
+
+壁に　スイッチがあります。押しますか？ はい/いいえ
+Event: Meet Balam
+
+Gulliver Boy Character 118
+ようこそ　メシュナの塔へ！ようこそ！　ここへ…！くっくくくくく 青い鳥求めて迷える　子羊たちよ！私の名は　聖魔大臣バラーム！ ここから先…通すわけには　いかない!! お前たちのような汚れた者たちが女王様に会うなど！この　バラームが　ゆるさぬッ!! せめてもの　なさけだ…苦しまぬよう　天国へ送ってやる！
+Gulliver Boy Character 118
+う…うぐぐぐ… あの伝説は…本当だった…アトランティスの王と　魔女の血がまじり合うと… うぐ…こ　こんが…… ハレルヤ様の完全復活を…急がねば…なりませぬぞ…女王様ーーーッ！ うぐッ！　うぐぐぐぐ…早く…早く…うごッ！
+Cathedral
+
+Event: Meshuna
+
+Gulliver Boy Character 141
+…聞こえますか？信者たちの声を… この…祭壇の炎の中で…それでもハレルヤ様の復活を願って…祈っている信者たちの声を… ハレルヤ様は　アトラティスをゆるしませんでした。ハレルヤ様はイスパニアを　ゆるしませんでした。 …そして　ハレルヤ様はあなたを　ゆるしません!! ガリバーーッ!!　そして　ミスティ!!
+(FMV)	
+Gulliver Boy Character 141
+…ああ…いつの間にか…ハレルヤに…あやつられて……いけない…このままでは… お願いです！ハレルヤを……倒して…………これを………… …ハレルヤは…きっとアポロンに…アトランティスのアポロンに…	ガリバーは　太陽のシリウスを手に入れました。
+Event: What to Do Next
+
+Gulliver Boy Character 002
+アトランティスの　アポロンだって…	
+Gulliver Boy Character 003
+……ドキドキするの……なにか　おそろしいことが……ガリバー！　急ぎましょう!!
+OverworldEdit
+Event: The Final Area
+
+Gulliver Boy Character 666
+ははははは…どうだい？　手も足も出まい！この私のジャマをすることは許さない！ そこで朽ち果てるがいいさ…ふふふふふふふふ…はははははははは…	
+Gulliver Boy Character 002
+どうしよう…ガリバー!!船が…船が操作不能だーーーッ!!	
+Gulliver Boy Character 010
+ガリバー…ガリバー… ガリバー…ガリバー…
+Gulliver Boy Character 001
+チャプター先生…チャプター先生か？	
+Gulliver Boy Character 010
+…そうじゃ…ガリバー…いよいよ最後の決戦じゃな…	
+Gulliver Boy Character 001
+でもよ…最後の最後でどうも　手も足も出ねぇんだまいったぜ…
+Gulliver Boy Character 010
+ほほほ…戦いの中にゆとりが　できたようじゃな…どうじゃな…魔動砲を使っては…… 魔動砲？ うむ！　魔動砲で　ビューンと飛んでいけば　よかろう！	
+Gulliver Boy Character 001
+あはは…なかなかムチャクチャで　いいな！よし！　おもしれぇ！	
+Gulliver Boy Character 010
+つらいと思えば　つらい楽しいと思えば　楽しい心というものは　そういうものじゃよ…
+Gulliver Boy Character 001
+先生…ありがとう！	
+Gulliver Boy Character 001
+さぁ！　魔動砲の中に入るんだ！	
+Gulliver Boy Character 002
+ちょ　ちょっと待ってよ！
+Gulliver Boy Character 001
+無理にとは　言わねぇぜ！	
+Gulliver Boy Character 002
+…わ…わかったよ……ガリバー……いつも一緒だよ……いつも…	
+Gulliver Boy Character 003
+私もよ！　ガリバー!!
+Gulliver Boy Character 999
+こういう時って　女の方が　度胸決まるのよね！	
+Gulliver Boy Character 002
+ハレルヤを　ブッ倒すぞーーッ!!さぁ　行こう！　ガリバーーーッ!!こいつは　　デッカイ　ケンカだ!!	
+Gulliver Boy Character 001
+よーし　決まった！それじゃコング！　…頼んだぜ！
+Gulliver Boy Character 108
+うむ！これもまた…宿命…	(FMV)	
+Gulliver Boy Character 001
+……う……うう……痛てぇ……おい……エジソン……ミスティ……
+Gulliver Boy Character 002
+………うう……気を失いそう……………………	
+Gulliver Boy Character 003
+少し……休ませ…て……	
+Gulliver Boy Character 001
+そ…そうだな…………
+Gulliver Boy Character 047
+ねぇ　アタシ思うんだけど…ガリバーたち困ってるんじゃないかな？ アトランティスにはきっと宿屋も　道具屋もないわよ！	
+Gulliver Boy Character 082
+そ…そうかな……ハハハ…でも…みやげ物屋ぐらいは…あるかもな……	
+Gulliver Boy Character 047
+もう　ふざけないでよ!!あなた　道具屋なんでしょ！ だから　あなたも魔動砲で……びゅーんっと………
+Gulliver Boy Character 082
+…オ…オレ…空飛ぶのダ…ダメなんだ……	
+Gulliver Boy Character 047
+コング！　マウスを飛ばしてよッ!!	
+Gulliver Boy Character 082
+や…やめろ　コングッ!!
+Gulliver Boy Character 108
+心配するな…私も行こう！うむ…これもまた…宿命…	
+Gulliver Boy Character 082
+だー!!　お前はそうやっていつもいつも…この宿命オタク!!お前は　命が惜しくないのか...	
+Gulliver Boy Character 108
+…何も言うな…わかる…
+Gulliver Boy Character 082
+だから何が　わかるってんだよぉ!!はなせ!!　オレはイヤだぞ!!まだ　死にたくねぇんだから!!	
+Gulliver Boy Character 070
+安心しろ　マウス！首と胴体が　つながっている限りこのオレが　治療してやるぜ！	
+Gulliver Boy Character 077
+戦いのゴングは　もう鳴ってるんだ！マウス!!　じたばたするな！おめぇの　あしたのためにな…
+Gulliver Boy Character 135
+……あの………本当に……大丈夫なんでしょうか？	
+Gulliver Boy Character 047
+大丈夫！　なんとかなるわよ!!だって　あなたって無敵なんでしょ！	
+Gulliver Boy Character 082
+ふー!!　もごもごもご!!ぐふー！　ぐふー!!
+Gulliver Boy Character 047
+それじゃ　気をつけてね！	
+Gulliver Boy Character 108
+うむ！　これもまた　宿命！	
+Gulliver Boy Character 047
+それじゃ　行くわよぉ！５４３２１　ファイアー!!
+Gulliver Boy Character 082
+バカヤローーーーーッ!!	
+Gulliver Boy Character 002
+ん？　な　何だぁ？	
+Gulliver Boy Character 082
+っつ…てててて…バ…バットのヤツめ…おぼえてろよ…クソッ！
+Gulliver Boy Character 002
+マウス…コング…？キミたちも　来てくれたのか？	
+Gulliver Boy Character 082
+道具屋と宿屋の…出張サービスって　ワケさ…てててて… へへへへへ……ま　仲間を　見殺しに…できねぇからな！コングも　連れてきてやったぜ！	
+Gulliver Boy Character 002
+あっ　ありがとう!!　マウス!!
+Gulliver Boy Character 003
+今度ばかりは…お礼を　言わなくちゃね！ありがとう　マウス！	
+Gulliver Boy Character 082
+いやぁ　礼は　いらねぇよ…悪いけどな　オレたちが協力できるのは　ここまでだ！ ハレルヤとの戦いは…お前たちで決着つけるしか　ねーんだ!!わかってくれよ!!	
+Gulliver Boy Character 002
+わかってるよ!!
+Gulliver Boy Character 108
+うむ！　これもまた…宿命…	
+Gulliver Boy Character 002
+あのさ…欲を言えば…金庫も…欲しかったなぁ…	
+Gulliver Boy Character 082
+かー　なぁにゼイタク言ってんのかね？この大将は？　金庫なんて…
+Gulliver Boy Character 082
+あぶっ　あぶっ…あー　びっくりしたぁ！　あぶねぇ!!	
+Gulliver Boy Character 002
+…金庫だ!!…それに　魔拳ローダーも…	
+Gulliver Boy Character 082
+…ったく　バットのヤローッ!!なんて　ムチャしやがんだ…よう大将！　これでＯＫだろ？
+Gulliver Boy Character 002
+ずいぶん　レスポンス　いいんだね？盗聴器でも　仕掛けてあるんじゃないか？	
+Gulliver Boy Character 082
+…ヤツなら　やりかねねぇ…　ａｈａ！	
+Gulliver Boy Character 001
+よし！　行くぞ!!ミスティ　エジソン!!ハレルヤを　ブッ倒すんだ!!
+The Final DungeonEdit
+Densetsuo no Ma (伝説王の間)
+
+Event: Golden Statue
+
+その時　どこからともなく声が　聞こえてきました。	ガリバー…運命の子よ…そして　偉大なる　勇者よ… 私は　伝説王アトランティスを築き…そして…失った男… …決戦の時は　近付いた…今こそ　お前に　伝説の魔拳を授けよう… お前の持つ　最後のディスクを…ここに　掲げるがよい…	魔拳ローダーに　をセットしますか？
+ガリバーの左手にドラゴンマインダーの力が　宿りました。
+
+ハレルヤの力は　強大だしかし　お前たちなら　出来る！ さぁ　ハレルヤを倒しその魂を　永遠に　封じ込めるのだ。	父の形見のディスクはに　変化しました.
+　
+Event: This is It
+
+Gulliver Boy Character 002
+…ガリバー…いよいよ　最後の戦いだね… 正直言って…恐いよ…逃げ出したいよ…でも…　ボクたち力を合わせれば…きっとなんとかなるよね。 …今までだって…そうだったもん。どんなに強い敵にも…ガリバー…君は勇敢に　立ち向かって行った… やられても…やられても…キミは　何度も立ち上がった…ボクは　キミがいたから　ここまで… ボクに…勇気をくれよ！　ボクに…勇気をくれよ！	
+Gulliver Boy Character 003
+ガリバー…私も　あなたに　勇気の意味を教えて　もらったわ！ いつも　自分を信じて…自分の道をまっすぐ　　歩いてゆく　勇気をね！ もし　私たちの出会いが……間違っていたとしても… それは　今日という日をどう生きるかによって変わっていくものね… 明日は　希望の光が輝いて　いるわよね!!さぁ！　ハレルヤを倒しましょう！	
+Gulliver Boy Character 999
+ガリバー…あたし　思ったの…みんなが一生懸命　戦っている姿を見てあたしも　このままじゃいけないって… の黒と白の体を　みんなに笑われて…それで　スネていた…でも…そんなの…なんの解決にも　ならないよね…… あたしも　仲間だからねッ！一緒に　最後までさ!!
+Fatima (ファティマ)
+
+Event: The Final Foe
+
+Gulliver Boy Character 666
+ふふふふふ…はははははははは…よくここまで来れたものだ…それだけは　ほめてやろう… だが…お前たちにこの私は倒せない！なぜだかわかるかい？…それは　お前たちが人間だからさ！ 弱くって…醜くて…そして不完全な　人間だからさ！ さぁ　見てるといい！　この私が最終形態に　進化するのを！ これが　私の完全復活だーーッ!! (FMV)
+The EndingEdit
+(FMV)
+Gulliver Boy Character 024
+いやぁ　やりましたな！坊っちゃん！ 坊っちゃんの　おかげで　このベニスに…いえ　世界に平和が戻りました！ 亡くなったお父上も　さぞや　お喜びの事でしょう… 坊っちゃんの　お金を少々いただきまして…ごらんのとおりベニスの街も　復興できました！ サン・マルコ教会の鐘も…多少…応急処置では　ありますが元通りになりました。 さぁ　ここの広場には　坊っちゃんの　ために　たくさんの方々が　お集まりです。 皆さん　坊っちゃんにお礼が　言いたいそうですぞ！ …では　私はここで　待っておりますのでお屋敷に　お戻りになる際は　お声をおかけ　くださりませ！
+Gulliver Boy Character 082
+いやー！　ついにやっちまったな！おれたち…世界を救っちまった！すげぇよな!!　うん！　スゲェ!!　ま　言わせてもらえば　これも全部オレ様のおかげ …………………………………… なんだよ！　その目は… もよ…いいもんだな…仲間って…オレなんか　ずっと　一匹狼…じゃねぇや一匹ネズミだったから　なおさらさ！ 感謝してるんだぜ！　お前にはよ！また　どこかで会えるといいな…だって　オレたち　仲間だもんな!!
+Gulliver Boy Character 108
+この宿屋なる親父の……宿命なる　旅は終わった…！ ガリバー…何も言うな…おまえのことは…わかる… お前がいま…この宿屋なる親父に何を求めているのか……うむ！　わかる!! いま　声を大にして言おう！これもまた　宿命!!
+Gulliver Boy Character 012
+あら？　ガリバー！　どこ行くの？今日は　あなたが　主役なのよ！
+Gulliver Boy Character 013
+新しい伝説が　生まれたんだ！小さな巨人！　ガリバーボーイ！あんたに　乾杯だ！
+Gulliver Boy Character 012
+この人ったら　平和じゃない時もヤケ酒　飲んでたクセして…まったく…もう…
+Gulliver Boy Character 013
+酒だ！　酒を飲むぞぉ！平和になった　祝い酒だ！
+Gulliver Boy Character 013
+聞こえるだろ？　鐘の音！サン・マルコの鐘の音！平和を告げる　鐘の音だ!!
+Gulliver Boy Character 013
+エジソン！　オレ　あんたを見直したぜ！弱い弱いと　思ってた　あんたが…こんな　でっかいこと　するなんてな！
+Gulliver Boy Character 013
+あきらめてちゃ…ダメなんだな…努力と…友情が…運命を変えるんだな…あんたらに…教えられたぜ！
+Gulliver Boy Character 013
+キミたちが　勝ち取った平和を…これからは　オレたち　おとなが命がけで　守っていかなくちゃな！ ありがとう！　ガリバー！ありがとう！　エジソン！ありがとう！　ミスティ！ キミたちの　友情の勝利だ！
+Gulliver Boy Character 012
+カフェ・フロリンには　もう　行った？みんな　もり上がってたわよ！ルンペン３人衆と…ジジ様と…えーと…
+Gulliver Boy Character 013
+やっほー！平和だ！　平和だ！
+Gulliver Boy Character 012
+やっほー！平和だ！　平和だ！やっほー！平和・ツモ・ドラ３！マンガンだ！　満願だぁ！
+Gulliver Boy Character 019
+坊っちゃん！　ついにやりましたね。暴れん坊だった　坊っちゃんが…こんなに…たくましくなられて… リスタは……リスタは　うれしゅうございます。
+Gulliver Boy Character 070
+生きることに　絶望してちゃ…いけねぇよな……教えられたぜ！　ガリバー！ あと　３年の命かもしれねぇけど…楽しく　明るく　生きてみようと思う. 大切なのは　生きてる長さじゃねぇ生きてる　中味だもんな……
+Gulliver Boy Character 135
+…あ…あの…ボク……す　少しは……お役に立てたでしょうか？ あっ　いえ……答えてくれなくて……いいんです……一緒に……旅が出来て………それだけで…うれしかったです……
+Gulliver Boy Character 136
+ガリバー！　私よ！踊り子の　ジジ！ふふっ　気づいてた？　私の変装… 少しは　あなたのお父さんに　恩返しが　できたでしょうかね… でも　よくがんばりましたね。ガリバー!!　そうだ…これはごほうびです…ナイショですけどね…
+金貨１６０００枚を　もらいました。
+
+Gulliver Boy Character 057
+私です　ルンペン貴族のペスカトーレです。いやぁ　メデタイですね！ ガリバーさん！今度また　ローマをお訪ねください！ 池快適な　段ボールのベッドと豪華な　残飯の食事で手厚く　おもてなし　いたしますよ！
+Gulliver Boy Character 055
+うう…王ちゃまは　ふだんから…くさったものばかり食べているのでマトモな食事の味を　お忘れなのです。 …ガリバーさんのおかげで…せっかく世界が平和になったのに…私の苦労は…まだまだ続きそうです…うう…
+Gulliver Boy Character 056
+ガリバー！　憶えとるか？わしじゃ！　ルンペン王のペペロンチーニじゃ！　どーぞ！ おまえに　礼を言いに　わざわざローマから　かけつけたんじゃぞ！感謝したまえ！　どーぞ！ しかし　ここの食事は　マズイな！ツンとした匂いが　足りないではないか！味も　どろっとしていないし… まーったく！　ケシカラン!!どーぞ！
+Cafe Florin
+
+Gulliver Boy Character 003
+ねぇ…憶えてる？　ガリバーここで…私たち　はじめて会ったのね… 私たち…あの頃　ケンカばかり…ごめんね　ガリバー… 私…人を信じられなかったんだ…でも　あなたと　一緒に　旅をして気がついたの！ 自分の人生じゃないか！　どうせ生きるなら　楽しく行こうって…ウジウジしてたって　しょうがないもんね！ えーと…………それからね……………えーと………………………………… ガリバー　私のこと……… ねぇ！　またさ　冒険の旅へ連れてってね！	
+Gulliver Boy Character 002
+ずるいよ！　ボクもボクも!!
+Gulliver Boy Character 002
+あれっ！　日輪!!日輪じゃないか？生きていたんだね!!	
+Gulliver Boy Character 142
+日輪って　誰のこと？私は…ソレイユ……	
+Gulliver Boy Character 002
+でもぉ…そっくりだよ！	
+Gulliver Boy Character 142
+ごめんなさいね…きっと…あなたの　勘違いじゃ　ないかしら？…それじゃ…	
+Gulliver Boy Character 001
+ねぇ！　ソレイユ！ これから　どうするんだ？!	
+Gulliver Boy Character 142
+そんな先のこと…わかんないわ！
+Gulliver Boy Character 141
+ガリバー…フィービーの心を開いてくれて　ありがとう. これで　フィービーはクリミアへ　もどれます。	
+Gulliver Boy Character 999
+ガリバー！リア様から　お許しが出たの…クリミアに　帰ってきて　いいって… でもね。　ガリバー！あたし　ガリバーから　離れたくない！ だって…また　一緒にドキドキしたり　ワクワクしたりしたいんだもん！ これからも　ずっと　一緒だよ！ね！　ガリバー！
+Gulliver Boy Character 050
+あたしたち……新婚旅行なの…あなたの　おかげね…ガリバー！
+Gulliver Boy Character 053
+キミたちの勇気を見ならわせて　もらうぜ！二人で平和な国を　つくるんだ！
+Gulliver Boy Character 067
+オレだ！　グルーチョ・ムーチョだ！まったく…たいしたヤツらだ…おめぇらはよ！ 歌じゃ…世界を救えない…お前たちに…教わった気がするな…でもよ…オレは　歌い続けるぜ!! …それが…このオレの戦いなんだ…… おっ!!　そうそう!!オレも　今度　ベニスの舞台に出ることに　なったんだ… その時は お前たちのことを歌わせてもらうぜ！
+Gulliver Boy Character 076
+オレのマイボーイがひとまわり　大きくなって帰って　きやがった… さぁ　行こうぜ　イーグル！『あした』のために　その２!!今度は　世界を目指すんだ！
+Gulliver Boy Character 077
+『あした』っていう日はよぅ…たどりついちまうと…『今日』っていう日になっちまうんだよな… ガリバー！　オレはまた…探してくるぜ！永遠に　たどりつけない…『あした』ってヤツをよ！ あばよ！　ガリバー！お前と会えて　良かったぜ！
+Gulliver Boy Character 047
+ねぇねぇ　知ってる？　あたしってば　このスパイカメラで　ガリバーの冒険のようすを　こっそり撮影してたのよ！ さっき　現像に出したから　もうすこし　したら出来るわ！うふふっ　楽しみにしててね！
+Gulliver Boy Character 039
+おお！　ガリバー！おめぇとは　助けたり　助けられたりのおかしな　つきあいだったな！ でもよ！　感謝してるんだぜ！ひさしぶりに　男の中の男に…会えたことをな!! いつか　おめぇを　海賊に　スカウトしてぇもんだ！　そしたらよ！シルバー２世と　名乗らしてやるぜ！
+Gulliver Boy Character 021
+わしじゃ！　コンチキ王じゃ！おまえが　それだけ強くなれたのもわしとのバトルのおかげ… それだけは　忘れるでないぞ！はははははは…のは！
+Gulliver Boy Character 007
+あのね！　シロジー先生がね！魔法学校を　立て直して　くれるって…すごく…うれしい！ 例えて言うなら…ボンドと　しょうが湯を　いっしょにまぜたような　うれしさよね！
+Gulliver Boy Character 008
+ボク　もっともっと勉強するよ！　そしてスゴイ魔法を　おぼえて　みんなを幸せにするんだ！　…キミみたいにね！
+Gulliver Boy Character 006
+…ガリバー！わしじゃ　シロジーじゃ！おまえには　これまで…ちょっとばかりキツイことを言いすぎたようだな… 勉強ギライの　おまえが…まさか　世界を救ってしまうとは… うーむ　わしの教育方針も　あらためねば　ならんな…
+Gulliver Boy Character 024
+さぁ　坊っちゃん！　お屋敷に　もどりましょうそして　少し　お休みなさいませ。	屋敷に　戻りますか？
+はい/いいえ
+
+Gulliver Boy Character 002
+じゃ　また明日！	
+Gulliver Boy Character 003
+ガリバー……また明日ね!!	FMV

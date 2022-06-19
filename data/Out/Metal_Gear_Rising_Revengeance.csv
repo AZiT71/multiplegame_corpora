@@ -1,0 +1,1188 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+MeGeRiRe-1,,,﻿FILE R-00,Guard Duty,,N,,MeGeRiRe-2
+MeGeRiRe-2,,,,"[A quiet African town. The protagonist, cyborg Raiden, rides in a limousine with two African politicians and two people from the organisation he represents, “Maverick”.]",,Y,MeGeRiRe-1,MeGeRiRe-3
+MeGeRiRe-3,,,Prime Minister N’mani,Three years... We’ve come so far in just three short years...,,N,MeGeRiRe-2,MeGeRiRe-4
+MeGeRiRe-4,,,N’mani’s Advisor,"The sign of a strong leader, sir.",,N,MeGeRiRe-3,MeGeRiRe-5
+MeGeRiRe-5,,,Prime Minister N’mani,No -- the will of a strong people.,,N,MeGeRiRe-4,MeGeRiRe-6
+MeGeRiRe-6,,,,[Outside the limousine window on the street children play football.],,Y,MeGeRiRe-5,MeGeRiRe-7
+MeGeRiRe-7,,,Prime Minister N’mani,And one very able advisor.,,N,MeGeRiRe-6,MeGeRiRe-8
+MeGeRiRe-8,,,N’mani’s Advisor,"Thank you, sir.",,N,MeGeRiRe-7,MeGeRiRe-9
+MeGeRiRe-9,,,Prime Minister N’mani,Your team deserves credit as well... Mr. Lightning Bolt.,,N,MeGeRiRe-8,MeGeRiRe-10
+MeGeRiRe-10,,,,[Raiden’s taking off his sunglasses.],,Y,MeGeRiRe-9,MeGeRiRe-11
+MeGeRiRe-11,,,Raiden,"Just doing our job, Mr. Prime Minister.",,N,MeGeRiRe-10,MeGeRiRe-12
+MeGeRiRe-12,,,Prime Minister N’mani,"I must admit, I once thought of groups like yours as opportunists -- enablers of war. But you’ve trained our new army well -- order has returned sooner than expected.",,N,MeGeRiRe-11,MeGeRiRe-13
+MeGeRiRe-13,,,,[There are many armed soldiers and military equipment on the street.],,Y,MeGeRiRe-12,MeGeRiRe-14
+MeGeRiRe-14,,,Prime Minister N’mani,"Perhaps I was wrong about these ""private military companies""...",,N,MeGeRiRe-13,MeGeRiRe-15
+MeGeRiRe-15,,,Raiden,"We prefer ""private security provider,"" sir. Most of Maverick’s contracts do focus on security.",,N,MeGeRiRe-14,MeGeRiRe-16
+MeGeRiRe-16,,,Prime Minister N’mani,"Yes, well, ""security"" can mean many things…",,N,MeGeRiRe-15,MeGeRiRe-17
+MeGeRiRe-17,,,,[The camera flies out of the limousine and shows us that there are several heavily armed APCs in front of it.],,Y,MeGeRiRe-16,MeGeRiRe-18
+MeGeRiRe-18,,,Raiden,"There’s a saying I like: ""One sword keeps another in the sheath."" Sometimes, the threat of violence alone is a deterrent. Sometimes, by taking a life, others can be preserved. It’s the code the samurai lived by…",,N,MeGeRiRe-17,MeGeRiRe-19
+MeGeRiRe-19,,,Prime Minister N’mani,Mm… A soldier and a philosopher. You are full of surprises Mr. Lightning Bolt.,,N,MeGeRiRe-18,MeGeRiRe-20
+MeGeRiRe-20,,,Raiden,"I could say the same about you, Mr. Prime Minister.",,N,MeGeRiRe-19,MeGeRiRe-21
+MeGeRiRe-21,,,,[The limo suddenly stops.],,Y,MeGeRiRe-20,MeGeRiRe-22
+MeGeRiRe-22,,,N’mani’s Advisor,What is happening?,,N,MeGeRiRe-21,MeGeRiRe-23
+MeGeRiRe-23,,,Courtney,Someone’s blocking the lead vehicle… Hold on.,,N,MeGeRiRe-22,MeGeRiRe-24
+MeGeRiRe-24,,,Soldier,Clear the road! This is official state business!,,N,MeGeRiRe-23,MeGeRiRe-25
+MeGeRiRe-25,,,,[A samurai with a long red katana walks onto a wide dusty road. He is wearing ultramodern military armor and cyborg enhancements. The samurai swiftly unsheaths his sword.],,Y,MeGeRiRe-24,MeGeRiRe-26
+MeGeRiRe-26,,,Soldier,"I said, clear the road! We’re authorized to use force if you do n--",,N,MeGeRiRe-25,MeGeRiRe-27
+MeGeRiRe-27,,,,"[The samurai runs quickly to the APC. The soldier starts shooting at him, but the samurai dodges each shot. He bounces up and cuts down the machine gun together with the soldier. The military begins to surround him.]",,Y,MeGeRiRe-26,MeGeRiRe-28
+MeGeRiRe-28,,,Courtney,Leopard One! U-turn! Turning back!,,N,MeGeRiRe-27,MeGeRiRe-29
+MeGeRiRe-29,,,,[The limo is leaving quickly. The samurai smiles radiantly at the soldiers who surround him.],,Y,MeGeRiRe-28,MeGeRiRe-30
+MeGeRiRe-30,,,Soldier,Open fire!,,N,MeGeRiRe-29,MeGeRiRe-31
+MeGeRiRe-31,,,N’mani’s Advisor,Who was that?,,N,MeGeRiRe-30,MeGeRiRe-32
+MeGeRiRe-32,,,Raiden,A cyborg…,,N,MeGeRiRe-31,MeGeRiRe-33
+MeGeRiRe-33,,,Gemini,One of our competitors?,,N,MeGeRiRe-32,MeGeRiRe-34
+MeGeRiRe-34,,,Radio (Boris),Courtney! What is happening?,,N,MeGeRiRe-33,MeGeRiRe-35
+MeGeRiRe-35,,,Courtney,"We got hit, sir. A cyborg.",,N,MeGeRiRe-34,MeGeRiRe-36
+MeGeRiRe-36,,,Radio (Boris),Whose?,,N,MeGeRiRe-35,MeGeRiRe-37
+MeGeRiRe-37,,,Courtney,"XIFF comes up ""unaffiliated.""",,N,MeGeRiRe-36,MeGeRiRe-38
+MeGeRiRe-38,,,Radio (Boris),I’ll notify all checkpoints. Get N’mani out of there!,,N,MeGeRiRe-37,MeGeRiRe-39
+MeGeRiRe-39,,,Courtney,"Yes, sir.",,N,MeGeRiRe-38,MeGeRiRe-40
+MeGeRiRe-40,,,N’mani’s Advisor,We are going to die...,,N,MeGeRiRe-39,MeGeRiRe-41
+MeGeRiRe-41,,,Prime Minister N’mani,Stay calm.,,N,MeGeRiRe-40,MeGeRiRe-42
+MeGeRiRe-42,,,Courtney,He’s got friends! On our twelve!,,N,MeGeRiRe-41,MeGeRiRe-43
+MeGeRiRe-43,,,Radio (Boris),Raiden!,,N,MeGeRiRe-42,MeGeRiRe-44
+MeGeRiRe-44,,,Raiden,I’m on it. Guard the prime minister.,,N,MeGeRiRe-43,MeGeRiRe-45
+MeGeRiRe-45,,,,"[He gets out of the limo and in one swift movement takes off his jacket with his shirt, exposing the mechanical body. When he opens the suitcase, he pulls his electric sword out of there. With a few quick swings he destroys the containers above, blocking the way for the enemy soldiers to reach the limousine.]",,Y,MeGeRiRe-44,MeGeRiRe-46
+MeGeRiRe-46,,,Raiden, Let’s get this over with.,(to the enemies) ,N,MeGeRiRe-45,MeGeRiRe-47
+MeGeRiRe-47,,,,[The battle with the first three soldiers begins.],,Y,MeGeRiRe-46,MeGeRiRe-48
+MeGeRiRe-48,,,Boris (via codec),Take out those hostiles!,,N,MeGeRiRe-47,MeGeRiRe-49
+MeGeRiRe-49,,,,[Raiden quickly kills the soldiers.],,Y,MeGeRiRe-48,MeGeRiRe-50
+MeGeRiRe-50,,,Boris (via codec),"Raiden, you’ll need to choose between light and heavy strikes to match the situation! Where are you going? Stay on your targets! Raiden, the limo is in trouble! Get back there ASAP! I’ll add the line to your soliton radar!",,N,MeGeRiRe-49,MeGeRiRe-51
+MeGeRiRe-51,,,,"[Raiden cuts the gate and runs on. Meanwhile, Gemini also kills soldiers... split in two. Unexpectedly, an unmanned Metal Gear RAY jumps out of the water and fires its main weapon in the head. The limousine flips over. Gemini runs towards him, but then Sundowner appears. He chops off one Gemini’s hands and, smiling, cuts off the other’s head with scissors. He picks up the prime minister. At the same time, Raiden runs up to the limo.]",,Y,MeGeRiRe-50,MeGeRiRe-52
+MeGeRiRe-52,,,Raiden,Stop!,,N,MeGeRiRe-51,MeGeRiRe-53
+MeGeRiRe-53,,,Sundowner,So you’re Jack.,,N,MeGeRiRe-52,MeGeRiRe-54
+MeGeRiRe-54,,,Raiden,What do you want with the prime minister?,,N,MeGeRiRe-53,MeGeRiRe-55
+MeGeRiRe-55,,,Sundowner,"I want him... dead. Nothing personal, ’course. Africa’s just gettin’ a bit too peaceful.",,N,MeGeRiRe-54,MeGeRiRe-56
+MeGeRiRe-56,,,Raiden,What?,,N,MeGeRiRe-55,MeGeRiRe-57
+MeGeRiRe-57,,,Sundowner,"Business ain’t been the same since they shut down SOP. ""A clean break from the war economy."" Well some of us liked that economy. How’s an honest war monger supposed to make a living?",,N,MeGeRiRe-56,MeGeRiRe-58
+MeGeRiRe-58,,,Raiden,This is your answer?,,N,MeGeRiRe-57,MeGeRiRe-59
+MeGeRiRe-59,,,,[Sundowner laughs and pulls a sword out of the sheath.],,Y,MeGeRiRe-58,MeGeRiRe-60
+MeGeRiRe-60,,,Raiden,Don’t do it!,,N,MeGeRiRe-59,MeGeRiRe-61
+MeGeRiRe-61,,,Sundowner,"Don’t worry now, I won’t. Not while he’s still useful. So long...",,N,MeGeRiRe-60,MeGeRiRe-62
+MeGeRiRe-62,,,,"[He jumps on the building. Raiden tries to run after him, but Sundowner signals Metal Gear RAY and it blocks his way. An unequal fight begins.]",,Y,MeGeRiRe-61,MeGeRiRe-63
+MeGeRiRe-63,,,Boris (via codec),"What?! They have a Metal Gear? Here?! Raiden! Take out that UMG and get after him! Use Blade Mode to damage its armor! Use your Ninja Run to deflect those shots! Now, Raiden! Bring it down! Stop that blade! Yes! Yes! Split it wide open!",,N,MeGeRiRe-62,MeGeRiRe-64
+MeGeRiRe-64,,,,"[Raiden evades the shots, fights off the bullets with his sword, blocks the strike of a huge sword, lifts and throws Metal Gear on the asphalt and cuts it in half.]",,Y,MeGeRiRe-63,MeGeRiRe-65
+MeGeRiRe-65,,,Boris (via codec),Horosho! (Good!) Very good! But do not rest easy just yet! He is on the other side of that collapsed building! Go!,,N,MeGeRiRe-64,MeGeRiRe-66
+MeGeRiRe-66,,,,[Raiden’s going after Sundowner.],,Y,MeGeRiRe-65,MeGeRiRe-67
+MeGeRiRe-67,,,Boris (via codec),There! Get him! Use your Ninja Run to move over obstacles automatically. Do not let him out of your sight! You must catch him!,,N,MeGeRiRe-66,MeGeRiRe-68
+MeGeRiRe-68,,,,[On the rooftop of a building the same Metal Gear suddenly comes back and attacks Raiden.],,Y,MeGeRiRe-67,MeGeRiRe-69
+MeGeRiRe-69,,,Boris (via codec),"That damn UG! It still works?! Raiden, use Blade Mode to take down those HEMP missiles! Finish that bastard off!",,N,MeGeRiRe-68,MeGeRiRe-70
+MeGeRiRe-70,,,,"[Raiden chops up missiles with his sword, jumps on rockets like a staircase, runs vertically down a collapsing building and at the end chops an iron monster from nose to tail. Meanwhile, the African military is surrounding Sundowner. Not interested in fighting with them, he makes a huge jump and hops on a train.]",,Y,MeGeRiRe-69,MeGeRiRe-71
+MeGeRiRe-71,,,Soldier,The hell? Dammit.,,N,MeGeRiRe-70,MeGeRiRe-72
+MeGeRiRe-72,,,,"[Raiden’s already running after him. He’s getting on the train, too.]",,Y,MeGeRiRe-71,MeGeRiRe-73
+MeGeRiRe-73,,,Boris (via codec),"He is headed for the front of the train! After him! Raiden, an unidentified tiltrotor is headed your way. Keep an eye out for it.",,N,MeGeRiRe-72,MeGeRiRe-74
+MeGeRiRe-74,,,,"[After reaching the front car, Raiden sees Sundowner and that samurai, Sam.]",,Y,MeGeRiRe-73,MeGeRiRe-75
+MeGeRiRe-75,,,Raiden,Prime minister!,,N,MeGeRiRe-74,MeGeRiRe-76
+MeGeRiRe-76,,,Sundowner,"Too little, too late, hero. I won’t be needing my little shield here any longer.",,N,MeGeRiRe-75,MeGeRiRe-77
+MeGeRiRe-77,,,Raiden,Stop!,,N,MeGeRiRe-76,MeGeRiRe-78
+MeGeRiRe-78,,,,[Sundowner makes a gentle cut on the neck of the African Prime Minister.],,Y,MeGeRiRe-77,MeGeRiRe-79
+MeGeRiRe-79,,,Sundowner,"What about all the good things war has done for us? Why don’t we ever hear speeches about that? Jobs, technology, a common purpose...",,N,MeGeRiRe-78,MeGeRiRe-80
+MeGeRiRe-80,,,Prime Minister N’mani,Raiden... Forget me. Stop him.,,N,MeGeRiRe-79,MeGeRiRe-81
+MeGeRiRe-81,,,Sundowner,You ain’t listenin’...,,N,MeGeRiRe-80,MeGeRiRe-82
+MeGeRiRe-82,,,,"[Raiden’s trying to stop the bullying, but he’s got Sam in his way.]",,Y,MeGeRiRe-81,MeGeRiRe-83
+MeGeRiRe-83,,,Sam,Mind if I cut in?,,N,MeGeRiRe-82,MeGeRiRe-84
+MeGeRiRe-84,,,Sundowner,All we’re saying is... give war a chance!,,N,MeGeRiRe-83,MeGeRiRe-85
+MeGeRiRe-85,,,,[Sundowner is piercing the Prime Minister. His blood splashes on Raiden’s face.],,Y,MeGeRiRe-84,MeGeRiRe-86
+MeGeRiRe-86,,,Raiden,No!,,N,MeGeRiRe-85,MeGeRiRe-87
+MeGeRiRe-87,,,,[Sundowner dumps the Prime Minister’s body off the train. Sam’s shaking off his blood. The plane arrives and picks up the smiling Sundowner.],,Y,MeGeRiRe-86,MeGeRiRe-88
+MeGeRiRe-88,,,Raiden, Out of my way!,(to Sam) ,N,MeGeRiRe-87,MeGeRiRe-89
+MeGeRiRe-89,,,Sundowner,"He’s all yours, Sam.",,N,MeGeRiRe-88,MeGeRiRe-90
+MeGeRiRe-90,,,Sam, Let’s go.,(to Raiden) ,N,MeGeRiRe-89,MeGeRiRe-91
+MeGeRiRe-91,,,,"[The fight is starting, but Raiden clearly lacks the experience to fight Sam.]",,Y,MeGeRiRe-90,MeGeRiRe-92
+MeGeRiRe-92,,,Sam,"Now, now. Don’t be shy. Walked right into it. Not good enough. Self-taught... and not half-bad. Still... Your technique lacks something... Now I see. You deny your weapon its purpose.",,N,MeGeRiRe-91,MeGeRiRe-93
+MeGeRiRe-93,,,,[Raiden is shocked. Sam smiles and takes the moment to cut out Raiden’s eye.],,Y,MeGeRiRe-92,MeGeRiRe-94
+MeGeRiRe-94,,,Sam,It yearns to bathe in the blood of your enemies... but you hold it back.,,N,MeGeRiRe-93,MeGeRiRe-95
+MeGeRiRe-95,,,Raiden,No… My sword is a tool of justice.,,N,MeGeRiRe-94,MeGeRiRe-96
+MeGeRiRe-96,,,,[Sam makes a distraction and chops off Raiden’s right arm.],,Y,MeGeRiRe-95,MeGeRiRe-97
+MeGeRiRe-97,,,Raiden,Shit! Not again…,,N,MeGeRiRe-96,MeGeRiRe-98
+MeGeRiRe-98,,,,"[He’s doing his best to fight Sam, but it’s a pretty pathetic sight.]",,Y,MeGeRiRe-97,MeGeRiRe-99
+MeGeRiRe-99,,,Boris (via codec),Raiden! Are you all right?! You are almost clear of the tunnel! Just hang on!,,N,MeGeRiRe-98,MeGeRiRe-100
+MeGeRiRe-100,,,Sam,"Oh, did you want to practice first? Gotta try harder than that.",,N,MeGeRiRe-99,MeGeRiRe-101
+MeGeRiRe-101,,,,"[Eventually, Raiden gets off the train. He holds the edge with one hand.]",,Y,MeGeRiRe-100,MeGeRiRe-102
+MeGeRiRe-102,,,Sam,This is what happens when you bring a tool to a swordfight... It’s over.,,N,MeGeRiRe-101,MeGeRiRe-103
+MeGeRiRe-103,,,,"[He swings, but then the train leaves the tunnel. Sam notices something.]",,Y,MeGeRiRe-102,MeGeRiRe-104
+MeGeRiRe-104,,,Sam,Lucky devil...,,N,MeGeRiRe-103,MeGeRiRe-105
+MeGeRiRe-105,,,,[APC approaching the train on the left. Boris is sitting on the submachine gun seat. He fires at Sam. The samurai has to defend himself.],,Y,MeGeRiRe-104,MeGeRiRe-106
+MeGeRiRe-106,,,Boris,"Kept you waiting, eh?",,N,MeGeRiRe-105,MeGeRiRe-107
+MeGeRiRe-107,,,,[There’s a plane coming for Sam. Boris takes out an RPG.],,Y,MeGeRiRe-106,MeGeRiRe-108
+MeGeRiRe-108,,,Boris,Down you go.,,N,MeGeRiRe-107,MeGeRiRe-109
+MeGeRiRe-109,,,,"[He shoots, but his rocket gets hit.]",,Y,MeGeRiRe-108,MeGeRiRe-110
+MeGeRiRe-110,,,Boris,Flares?!,,N,MeGeRiRe-109,MeGeRiRe-111
+MeGeRiRe-111,,,,[Raiden punches a container on which he lies and passes out.],,Y,MeGeRiRe-110,MeGeRiRe-112
+MeGeRiRe-112,,,FILE R-01,Coup d’État (Rebellion],,N,MeGeRiRe-111,MeGeRiRe-113
+MeGeRiRe-113,,Three weeks later...,,[Raiden is flying a small single-seater jet fighter across a stormy ocean.],,Y,MeGeRiRe-112,MeGeRiRe-114
+MeGeRiRe-114,,Three weeks later...,Boris (via codec),"How is it, Raiden?",,N,MeGeRiRe-113,MeGeRiRe-115
+MeGeRiRe-115,,Three weeks later...,Raiden,"So far, so good. I’ve got a clean visual.",,N,MeGeRiRe-114,MeGeRiRe-116
+MeGeRiRe-116,,Three weeks later...,Boris (via codec),"A direct feed to your optic nerve. Yes, I should hope so, eh? I mean... How does it feel!? To fly like a bird!",,N,MeGeRiRe-115,MeGeRiRe-117
+MeGeRiRe-117,,Three weeks later...,Raiden,Like a bird strapped to a remote-control rocket...,,N,MeGeRiRe-116,MeGeRiRe-118
+MeGeRiRe-118,,Three weeks later...,Boris (via codec),"We will get you in safely, tovarich . Just relax and enjoy the ride.",(comrade) ,N,MeGeRiRe-117,MeGeRiRe-119
+MeGeRiRe-119,,Three weeks later...,Raiden,Right.,,N,MeGeRiRe-118,MeGeRiRe-120
+MeGeRiRe-120,,Three weeks later...,Doktor (via codec),"Can you hear me, Raiden?",,N,MeGeRiRe-119,MeGeRiRe-121
+MeGeRiRe-121,,Three weeks later...,Raiden,Doktor.,,N,MeGeRiRe-120,MeGeRiRe-122
+MeGeRiRe-122,,Three weeks later...,Doktor (via codec),"Remember the two procedures to maintain your new body: One, seizing nano-repair units from your foes. And two--Absorbing their electrolytes.",,N,MeGeRiRe-121,MeGeRiRe-123
+MeGeRiRe-123,,Three weeks later...,Raiden,I got it.,,N,MeGeRiRe-122,MeGeRiRe-124
+MeGeRiRe-124,,Three weeks later...,Doktor (via codec),"Yes, enemy cyborgs should provide plenty of MCFC electrolytes once you slice them open and... extract their fluids.",,N,MeGeRiRe-123,MeGeRiRe-125
+MeGeRiRe-125,,Three weeks later...,Raiden,They’re terrorists. I was planning on that any way.,,N,MeGeRiRe-124,MeGeRiRe-126
+MeGeRiRe-126,,Three weeks later...,Doktor (via codec),"Oh, and their left hands, if you please.",,N,MeGeRiRe-125,MeGeRiRe-127
+MeGeRiRe-127,,Three weeks later...,Raiden,Excuse me?,,N,MeGeRiRe-126,MeGeRiRe-128
+MeGeRiRe-128,,Three weeks later...,Doktor (via codec),"Their combat data, stored on holographic memory, typically located in the left hand. That data is very valuable. Ehem... I am authorized to offer you upgrades and services in exchange for it.",,N,MeGeRiRe-127,MeGeRiRe-129
+MeGeRiRe-129,,Three weeks later...,Raiden,How generous.,,N,MeGeRiRe-128,MeGeRiRe-130
+MeGeRiRe-130,,Three weeks later...,Doktor (via codec),"Ich liebe Kapitalismus! (I love capitalism!) Had the wall come down a few years earlier, I would have a Nobel Prize on my shelf.",,N,MeGeRiRe-129,MeGeRiRe-131
+MeGeRiRe-131,,Three weeks later...,Raiden,--There. I see land.,,N,MeGeRiRe-130,MeGeRiRe-132
+MeGeRiRe-132,,Three weeks later...,Courtney (via codec),Three mikes out and closing. No activity at the air base. Looks like we don’t need to worry about interceptors.,,N,MeGeRiRe-131,MeGeRiRe-133
+MeGeRiRe-133,,Three weeks later...,Kevin (via codec),"Great, then we have time for a quick briefing.",,N,MeGeRiRe-132,MeGeRiRe-134
+MeGeRiRe-134,,Three weeks later...,Raiden,"I know you miss me, Kev, but I’ve been all over the materials.",,N,MeGeRiRe-133,MeGeRiRe-135
+MeGeRiRe-135,,Three weeks later...,Kevin (via codec),"That’s what you said before Montenegro. Look, just humor me, buddy. Objectives, of course, are enter Abkhazia, neutralize the terrorists, and restore the rightful government or what’s left of it anyway. The president and most of the cabinet have been killed, and a military junta’s been established. The terrorists brain-jacked all the high-ranking officers, and their cyborgs scattered the rank-and-file. The few leaders who survived have no way of openly opposing the now regime. That’s why they called us.",,N,MeGeRiRe-134,MeGeRiRe-136
+MeGeRiRe-136,,Three weeks later...,Boris (via codec),"Andrey Dolzaev, leader of the occupation forces. An extremist, linked to both the St. Petersburg massacre of 2015, and last year’s terror spree in Georgia. And his arms supplier? None other than Desperado Enforcement, LLC.",,N,MeGeRiRe-135,MeGeRiRe-137
+MeGeRiRe-137,,Three weeks later...,Raiden,N’mani’s killers.,,N,MeGeRiRe-136,MeGeRiRe-138
+MeGeRiRe-138,,Three weeks later...,Kevin (via codec),"If we don’t stop them here, they could destabilize the entire region. But our more immediate problem... is Jetstream Sam. I believe you’ve met.",,N,MeGeRiRe-137,MeGeRiRe-139
+MeGeRiRe-139,,Three weeks later...,Raiden,The only problem see is that nickname. I’ve got my enhancements this time. He won’t be an issue.,,N,MeGeRiRe-138,MeGeRiRe-140
+MeGeRiRe-140,,Three weeks later...,Kevin (via codec),"He may not even be in-country, but keep an eye out just in--",,N,MeGeRiRe-139,MeGeRiRe-141
+MeGeRiRe-141,,Three weeks later...,,[Boris is twisting his face. The situation’s not very clear - maybe Kevin fart?],,Y,MeGeRiRe-140,MeGeRiRe-142
+MeGeRiRe-142,,Three weeks later...,Kevin (via codec),Oh… Uh... sorry.,,N,MeGeRiRe-141,MeGeRiRe-143
+MeGeRiRe-143,,Three weeks later...,Raiden,Ready for insertion.,,N,MeGeRiRe-142,MeGeRiRe-144
+MeGeRiRe-144,,Three weeks later...,,"[He jumps out of the jet in style and lands on the water, showing off his new outfit in all its glory.]",,Y,MeGeRiRe-143,MeGeRiRe-145
+MeGeRiRe-145,,Three weeks later...,Boris (via codec),"Raiden, you landed safely, da?  First, head inland. The waypoint is marked on your soliton radar. Contact us on codec if you have questions.",(yes?) ,N,MeGeRiRe-144,MeGeRiRe-146
+MeGeRiRe-146,,Three weeks later...,,[Raiden goes up the stairs from the beach to the city. Three soldiers attack him from the nearest building.],,Y,MeGeRiRe-145,MeGeRiRe-147
+MeGeRiRe-147,,Three weeks later...,Boris (via codec),"The bastards are using stealth camo to ambush you. Nice try, but it won’t do any good against a state-of-the-art cyborg like you, eh? The parry incoming hits, throw out your own barrage of light attacks while your foe is on the offensive!",,N,MeGeRiRe-146,MeGeRiRe-148
+MeGeRiRe-148,,Three weeks later...,,[Raiden kills their soldiers and cuts out their mechanical parts.],,Y,MeGeRiRe-147,MeGeRiRe-149
+MeGeRiRe-149,,Three weeks later...,Kevin (via codec),Had your fill?,,N,MeGeRiRe-148,MeGeRiRe-150
+MeGeRiRe-150,,Three weeks later...,Raiden,"With this body, I could take these guys with no eyes. Intel wasn’t exaggerating on the cyborg count.",,N,MeGeRiRe-149,MeGeRiRe-151
+MeGeRiRe-151,,Three weeks later...,Kevin (via codec),"Well, you know how fast the tech’s been spreading these last few years. That CNT muscle fiber packs the power of a jackhammer into every limb. What enterprising soldier of fortune could resist? And cyborgs are still human... real, thinking people. Way less risk of collateral damage than your typical UAV strike.",,N,MeGeRiRe-150,MeGeRiRe-152
+MeGeRiRe-152,,Three weeks later...,Courtney (via codec),"And don’t forget the PR angle. Nations start playing Frankenstein with their troops, and the public goes nuts; PMCs, on the other hand, are off the ethical radar,",,N,MeGeRiRe-151,MeGeRiRe-153
+MeGeRiRe-153,,Three weeks later...,Kevin (via codec),"Yeah, they still don’t even count PMCs in official death tolls. With SOP out of the picture, private militaries needed a new edge on the market. We got it.",,N,MeGeRiRe-152,MeGeRiRe-154
+MeGeRiRe-154,,Three weeks later...,Courtney (via codec),"In a way, cyborgs are just SOP troops by another name, only all muscled up and less predictable.",,N,MeGeRiRe-153,MeGeRiRe-155
+MeGeRiRe-155,,Three weeks later...,Kevin (via codec),But it makes you wonder… Where’d Desperado find these guys?,,N,MeGeRiRe-154,MeGeRiRe-156
+MeGeRiRe-156,,Three weeks later...,Raiden,I’m not complaining. They’re like walking vending machines.,,N,MeGeRiRe-155,MeGeRiRe-157
+MeGeRiRe-157,,Three weeks later...,Kevin (via codec),"Right. Vending machines full of blood...  WHAH! Easy there, Dracula. Like I said, they’re still people.",(vampire pose) ,N,MeGeRiRe-156,MeGeRiRe-158
+MeGeRiRe-158,,Three weeks later...,Raiden,People who terrorize and take innocent lives for money. They sowed their fate when they took this job. I’m just the reaper.,,N,MeGeRiRe-157,MeGeRiRe-159
+MeGeRiRe-159,,Three weeks later...,Kevin (via codec),"Damn... Bit cold, Raiden. Even for you. Anyway... Uh, it’s cool. Let’s get to work. Time to increase the peace.",,N,MeGeRiRe-158,MeGeRiRe-160
+MeGeRiRe-160,,Three weeks later...,Raiden,Right.,,N,MeGeRiRe-159,MeGeRiRe-161
+MeGeRiRe-161,,Three weeks later...,,[Raiden enters a dilapidated building.],,Y,MeGeRiRe-160,MeGeRiRe-162
+MeGeRiRe-162,,Three weeks later...,Boris (via codec),"Raiden, this is Boris. Give me your status.",,N,MeGeRiRe-161,MeGeRiRe-163
+MeGeRiRe-163,,Three weeks later...,Raiden,Looks clear. No one in sight.,,N,MeGeRiRe-162,MeGeRiRe-164
+MeGeRiRe-164,,Three weeks later...,Boris (via codec),"Good. Let’s recap the route you will take. As I said, the enemy’s HQ is in the refinery along the coastline. Dolzaev has been spotted there using satellite photography... Also on-site: Mistral, a Desperado captain.",,N,MeGeRiRe-163,MeGeRiRe-165
+MeGeRiRe-165,,Three weeks later...,Raiden,"So I go through the city, cross the bridge into the old town, then head down to the rear of the refinery.",,N,MeGeRiRe-164,MeGeRiRe-166
+MeGeRiRe-166,,Three weeks later...,Boris (via codec),"Still, I think they anticipate us. They will probably have a grand reception awaiting you at the old city. Do not let your guard down. Hostiles in the lower corridor, I see. Try to flank them, or approach from behind.",,N,MeGeRiRe-165,MeGeRiRe-167
+MeGeRiRe-167,,Three weeks later...,,"[Raiden kills the soldier quietly, like a ninja.]",,Y,MeGeRiRe-166,MeGeRiRe-168
+MeGeRiRe-168,,Three weeks later...,Boris (via codec),"Excellent, Raiden! Raiden, take that main thoroughfare. You can use Augment Mode to see where the enemy is located. Your body analyzes radar and IR data to construct your AR display. Some civilians are still in the city. That is not good…",,N,MeGeRiRe-167,MeGeRiRe-169
+MeGeRiRe-169,,Three weeks later...,,"[Soon, Raiden sees a soldier questioning a civilian.]",,Y,MeGeRiRe-168,MeGeRiRe-170
+MeGeRiRe-170,,Three weeks later...,Soldier,What are you doing here? This area’s off-limits!,,N,MeGeRiRe-169,MeGeRiRe-171
+MeGeRiRe-171,,Three weeks later...,Civilian,What? No! I am not doing anything!,,N,MeGeRiRe-170,MeGeRiRe-172
+MeGeRiRe-172,,Three weeks later...,,[Raiden kills the soldier and starts fighting an entire squad.],,Y,MeGeRiRe-171,MeGeRiRe-173
+MeGeRiRe-173,,Three weeks later...,Soldier,Enemy sighted. Contact! Found him.,,N,MeGeRiRe-172,MeGeRiRe-174
+MeGeRiRe-174,,Three weeks later...,,[Raiden destroys the squad and approaches the civilian.],,Y,MeGeRiRe-173,MeGeRiRe-175
+MeGeRiRe-175,,Three weeks later...,Boris (via codec),"He is scared to death, Raiden! Let him know he’s safe.",,N,MeGeRiRe-174,MeGeRiRe-176
+MeGeRiRe-176,,Three weeks later...,Civilian,"Oh, thank you! Thank you! I will not forget this!",,N,MeGeRiRe-175,MeGeRiRe-177
+MeGeRiRe-177,,Three weeks later...,Boris (via codec),"Very good, Raiden! Now, keep heading for refinery.",,N,MeGeRiRe-176,MeGeRiRe-178
+MeGeRiRe-178,,Three weeks later...,,"[Raiden goes on, kills some soldiers from behind and meets his first Gekko.]",,Y,MeGeRiRe-177,MeGeRiRe-179
+MeGeRiRe-179,,Three weeks later...,Boris (via codec),"Raiden, wait! We’re picking up a wireless transmission near your position. From the frequency, most likely an enemy data terminal... Check it out. We may be able to salvage some intel.",,N,MeGeRiRe-178,MeGeRiRe-180
+MeGeRiRe-180,,Three weeks later...,,"[Walking down the corridor of a brick building, Raiden hears a mystical computerized voice.]",,Y,MeGeRiRe-179,MeGeRiRe-181
+MeGeRiRe-181,,Three weeks later...,Voice,"Greetings, cyborg.",,N,MeGeRiRe-180,MeGeRiRe-182
+MeGeRiRe-182,,Three weeks later...,Raiden,Show yourself.,,N,MeGeRiRe-181,MeGeRiRe-183
+MeGeRiRe-183,,Three weeks later...,,"[Before Raiden, with his sword ready, goes around the corner he’s attacked with a saw on something flexible. In a split second, Raiden manages to dodge a deadly weapon so it doesn’t cut off his head. The saw cuts a part of the building and Raiden falls out on the street. Once he lands, he cuts down the wreckage and containers falling on him. There was a metal dog hiding behind one of the containers with a saw on its tail. There was a brief clash between Raiden and the dog.]",,Y,MeGeRiRe-182,MeGeRiRe-184
+MeGeRiRe-184,,Three weeks later...,Raiden,And you are?,,N,MeGeRiRe-183,MeGeRiRe-185
+MeGeRiRe-185,,Three weeks later...,Blade Wolf,I am IF prototype LQ-84i.,,N,MeGeRiRe-184,MeGeRiRe-186
+MeGeRiRe-186,,Three weeks later...,Raiden,IF prototype?,,N,MeGeRiRe-185,MeGeRiRe-187
+MeGeRiRe-187,,Three weeks later...,Blade Wolf,Interface prototype. All autonomous UGs feature high-level onboard artificial Intelligence. An additional prototype interface enables verbal communication. I possess an intellect far beyond human reckoning.,,N,MeGeRiRe-186,MeGeRiRe-188
+MeGeRiRe-188,,Three weeks later...,Raiden,You don’t say. Okay then: What’s the meaning of life? Why are we here?,,N,MeGeRiRe-187,MeGeRiRe-189
+MeGeRiRe-189,,Three weeks later...,,[Blade Wolf throws some red-hot knives at Raiden. Raiden repels the attack.],,Y,MeGeRiRe-188,MeGeRiRe-190
+MeGeRiRe-190,,Three weeks later...,Blade Wolf,I am here to kill you.,,N,MeGeRiRe-189,MeGeRiRe-191
+MeGeRiRe-191,,Three weeks later...,Raiden,That’s it? Pretty simple thinking for such a mighty intellect.,,N,MeGeRiRe-190,MeGeRiRe-192
+MeGeRiRe-192,,Three weeks later...,Blade Wolf,"I may analyze orders, but I may not disobey them. Should I disobey a direct order, my memory would be wiped. I must destroy you.",,N,MeGeRiRe-191,MeGeRiRe-193
+MeGeRiRe-193,,Three weeks later...,Raiden,What good is an intellect if you can’t use it?,,N,MeGeRiRe-192,MeGeRiRe-194
+MeGeRiRe-194,,Three weeks later...,Blade Wolf,Your taunting is pointless. Exterminate!,,N,MeGeRiRe-193,MeGeRiRe-195
+MeGeRiRe-195,,Three weeks later...,,"[Blade Wolf climbs on the roof of a small building, roars and the battle begins! Soon the robot realizes that it won’t be possible to kill Raiden quickly.]",,Y,MeGeRiRe-194,MeGeRiRe-196
+MeGeRiRe-196,,Three weeks later...,Blade Wolf,A savvy warrior uses all of his tools. Backup required!,,N,MeGeRiRe-195,MeGeRiRe-197
+MeGeRiRe-197,,Three weeks later...,,"[He roars and three soldiers show up. The truth is, for Raiden, it’s not the enemy, it’s more of a way to make up for run-down machine oil.]",,Y,MeGeRiRe-196,MeGeRiRe-198
+MeGeRiRe-198,,Three weeks later...,Soldier,You little --,,N,MeGeRiRe-197,MeGeRiRe-199
+MeGeRiRe-199,,Three weeks later...,Blade Wolf,Is this all the human mind is capable of?,,N,MeGeRiRe-198,MeGeRiRe-200
+MeGeRiRe-200,,Three weeks later...,,"[After Raiden is easily dealt with the three soldiers, Blade Wolf again has to fight on its own.]",,Y,MeGeRiRe-199,MeGeRiRe-201
+MeGeRiRe-201,,Three weeks later...,Blade Wolf,I will exterminate your consciousness.,,N,MeGeRiRe-200,MeGeRiRe-202
+MeGeRiRe-202,,Three weeks later...,,"[However, the Wolf gets punched in the nose again and has to retreat.]",,Y,MeGeRiRe-201,MeGeRiRe-203
+MeGeRiRe-203,,Three weeks later...,Blade Wolf,To continue alone would be foolish. Help me!,,N,MeGeRiRe-202,MeGeRiRe-204
+MeGeRiRe-204,,Three weeks later...,,"[He calls one Gekko, who is also no danger to our hero.]",,Y,MeGeRiRe-203,MeGeRiRe-205
+MeGeRiRe-205,,Three weeks later...,Blade Wolf,What do you fight for?,,N,MeGeRiRe-204,MeGeRiRe-206
+MeGeRiRe-206,,Three weeks later...,,[Raiden chops Gekko into little pieces and the Wolf has to step into battle again.],,Y,MeGeRiRe-205,MeGeRiRe-207
+MeGeRiRe-207,,Three weeks later...,Blade Wolf,You will die. I will obliterate your consciousness. I feel no pain. Reengaging. S-Stop...! Cannot... continue...,,N,MeGeRiRe-206,MeGeRiRe-208
+MeGeRiRe-208,,Three weeks later...,,"[Raiden wins the battle and he gets a call from the Wolf, LQ-84i.]",,Y,MeGeRiRe-207,MeGeRiRe-209
+MeGeRiRe-209,,Three weeks later...,LQ-84i (via codec),Directive... liberate... nation... ensure freedom... Obey directive... must obey directive... no freedom... Freedom... undefined.,,N,MeGeRiRe-208,MeGeRiRe-210
+MeGeRiRe-210,,Three weeks later...,Raiden,What would an AI know about freedom…,,N,MeGeRiRe-209,MeGeRiRe-211
+MeGeRiRe-211,,Three weeks later...,,"[Raiden goes on and fights some soldiers who figured out to take the shield against his sword. When he goes out on the bridge, he gets fired on by attack helicopters. The bridge collapses and Raiden has to run fast on it, dodging bullets. At the other end of the bridge, Raiden decides to take a fight to a stuck-up helicopter. He shoots at it with Stinger lying nearby and chops it with his sword. At the end, Raiden just jumps rockets and cuts the helicopter in half. Raiden continues his journey and sees several soldiers captured a civilian.]",,Y,MeGeRiRe-210,MeGeRiRe-212
+MeGeRiRe-212,,Three weeks later...,Soldier 1,You gotta be pretty stupid to try and hide here...,,N,MeGeRiRe-211,MeGeRiRe-213
+MeGeRiRe-213,,Three weeks later...,Soldier 2,Looks to me like Russian spies.,,N,MeGeRiRe-212,MeGeRiRe-214
+MeGeRiRe-214,,Three weeks later...,Captured civilian,I... We are just...,,N,MeGeRiRe-213,MeGeRiRe-215
+MeGeRiRe-215,,Three weeks later...,Soldier 2,Well we can’t let ’em give away our position...,,N,MeGeRiRe-214,MeGeRiRe-216
+MeGeRiRe-216,,Three weeks later...,Soldier 1,Waste ‘im. We’ll fill out the paperwork later.,,N,MeGeRiRe-215,MeGeRiRe-217
+MeGeRiRe-217,,Three weeks later...,,[Raiden attacks them.],,Y,MeGeRiRe-216,MeGeRiRe-218
+MeGeRiRe-218,,Three weeks later...,Soldier 1,This ain’t over!,,N,MeGeRiRe-217,MeGeRiRe-219
+MeGeRiRe-219,,Three weeks later...,Soldier 2,Target located.,,N,MeGeRiRe-218,MeGeRiRe-220
+MeGeRiRe-220,,Three weeks later...,,[Raiden kills them all.],,Y,MeGeRiRe-219,MeGeRiRe-221
+MeGeRiRe-221,,Three weeks later...,Captured civilian,You... you saved my life! Thank you!,,N,MeGeRiRe-220,MeGeRiRe-222
+MeGeRiRe-222,,Three weeks later...,,[Raiden approaches the large gates behind which a residence is located.],,Y,MeGeRiRe-221,MeGeRiRe-223
+MeGeRiRe-223,,Three weeks later...,Boris (via codec),So that’s where they’re holed up.,,N,MeGeRiRe-222,MeGeRiRe-224
+MeGeRiRe-224,,Three weeks later...,Kevin (via codec),Some kind of electronic lock on the gate...,,N,MeGeRiRe-223,MeGeRiRe-225
+MeGeRiRe-225,,Three weeks later...,Doktor (via codec),"Most likely it opens only if you have the right ID data stored in your left hand. Perhaps you could find a cyborg with access, and - ah - borrow it?",,N,MeGeRiRe-224,MeGeRiRe-226
+MeGeRiRe-226,,Three weeks later...,Raiden,"You see any cyborgs around here, Dok?",,N,MeGeRiRe-225,MeGeRiRe-227
+MeGeRiRe-227,,Three weeks later...,Kevin (via codec),"Why not double back? Check the vehicle route again? You know, back at the entrance to the old city. Heh, who knows? Maybe you can hitch a ride. Most likely platoon commanders carry correct ID data for the gate. Use Enhanced Mode to figure out who to hit.",,N,MeGeRiRe-226,MeGeRiRe-228
+MeGeRiRe-228,,Three weeks later...,,[Raiden decides not to bother and just cuts the locks on the gate.],,Y,MeGeRiRe-227,MeGeRiRe-229
+MeGeRiRe-229,,Three weeks later...,Boris (via codec),"Ah, I should have guessed you would choose this route…",,N,MeGeRiRe-228,MeGeRiRe-230
+MeGeRiRe-230,,Three weeks later...,,"[Raiden kills a whole squad of soldiers and walks into the building. After climbing the upper floors, Raiden examines the area using his enhanced vision.]",,Y,MeGeRiRe-229,MeGeRiRe-231
+MeGeRiRe-231,,Three weeks later...,Raiden,Dolzaev.,,N,MeGeRiRe-230,MeGeRiRe-232
+MeGeRiRe-232,,Three weeks later...,,[Dolzaev says something to the woman and threatens her with a gun.],,Y,MeGeRiRe-231,MeGeRiRe-233
+MeGeRiRe-233,,Three weeks later...,Raiden,That woman...,,N,MeGeRiRe-232,MeGeRiRe-234
+MeGeRiRe-234,,Three weeks later...,,[The woman notices him and sends him an air kiss. Raiden gets up in the protective rack.],,Y,MeGeRiRe-233,MeGeRiRe-235
+MeGeRiRe-235,,Three weeks later...,Doktor (via codec),"Raiden, what’s happening? Your heart rate spiked...",,N,MeGeRiRe-234,MeGeRiRe-236
+MeGeRiRe-236,,Three weeks later...,,[Raiden abruptly closes the video communication window. The woman’s already gone somewhere.],,Y,MeGeRiRe-235,MeGeRiRe-237
+MeGeRiRe-237,,Three weeks later...,Raiden,Yeah. I just dodged a bullet. All right. I’m heading for the refinery.,,N,MeGeRiRe-236,MeGeRiRe-238
+MeGeRiRe-238,,Three weeks later...,,"[Along the way, Raiden is destroying a lot of soldiers and Metal Gears.]",,Y,MeGeRiRe-237,MeGeRiRe-239
+MeGeRiRe-239,,Three weeks later...,Doktor (via codec),There was classified data embedded in that hand. It appears that man underwent modification at a Patriot facility... just as you did!,,N,MeGeRiRe-238,MeGeRiRe-240
+MeGeRiRe-240,,Three weeks later...,Boris (via codec),"We intercepted all for backup during your list fight. The caller’s position is on your soliton radar. You can engage if you wish, it is your choice. Raiden, the cliff is just ahead, at the end of the old city. Beyond that is the refinery’s backyard.",,N,MeGeRiRe-239,MeGeRiRe-241
+MeGeRiRe-241,,Three weeks later...,Raiden,"So, what, it’s a sheer drop? The refinery’s not connected to the city at all?",,N,MeGeRiRe-240,MeGeRiRe-242
+MeGeRiRe-242,,Three weeks later...,Boris (via codec),"No. It was only built two years ago. There should be a narrow path around there that leads to the plant. It is protected by a fence, but probably you can cut your way through.",,N,MeGeRiRe-241,MeGeRiRe-243
+MeGeRiRe-243,,Three weeks later...,Raiden,Probably.,,N,MeGeRiRe-242,MeGeRiRe-244
+MeGeRiRe-244,,Three weeks later...,Boris (via codec),Don’t get cocky. Most likely it is Desperado running security down there.,,N,MeGeRiRe-243,MeGeRiRe-245
+MeGeRiRe-245,,Three weeks later...,,[Raiden cuts the gate and enters the territory of the refinery. He’s being attacked by some kind of egg-shaped robot with three hands on the sides.],,Y,MeGeRiRe-244,MeGeRiRe-246
+MeGeRiRe-246,,Three weeks later...,Boris (via codec),Watch out! They keep on coming!,,N,MeGeRiRe-245,MeGeRiRe-247
+MeGeRiRe-247,,Three weeks later...,,"[After defeating the robots, Raiden cuts down the fan and enters the plant itself.]",,Y,MeGeRiRe-246,MeGeRiRe-248
+MeGeRiRe-248,,Three weeks later...,Boris (via codec),"Dolzaev and his team must be in here. Find him. Raiden, wait! There are active IR sensors in the area. Part of factory security, no doubt, but the enemy may be using it...",,N,MeGeRiRe-247,MeGeRiRe-249
+MeGeRiRe-249,,Three weeks later...,,[Raiden starts chopping up enemy soldiers for parts.],,Y,MeGeRiRe-248,MeGeRiRe-250
+MeGeRiRe-250,,Three weeks later...,Doktor (via codec),More classified Patriot information was in that man’s holographic memory.,,N,MeGeRiRe-249,MeGeRiRe-251
+MeGeRiRe-251,,Three weeks later...,,"[After dealing with the soldiers, Raiden climbs the stairs to the top of a massive cistern. That’s where he meets the woman he’s seen before.]",,Y,MeGeRiRe-250,MeGeRiRe-252
+MeGeRiRe-252,,Three weeks later...,Woman,I was wondering when you’d come... Jack the Ripper.,,N,MeGeRiRe-251,MeGeRiRe-253
+MeGeRiRe-253,,Three weeks later...,Raiden,No one calls me that anymore. Dolzaev. Where is he?,,N,MeGeRiRe-252,MeGeRiRe-254
+MeGeRiRe-254,,Three weeks later...,Woman, I can show you a better time than that crusty old bear.,(tut-tut) ,N,MeGeRiRe-253,MeGeRiRe-255
+MeGeRiRe-255,,Three weeks later...,Raiden,You’re in charge here?,,N,MeGeRiRe-254,MeGeRiRe-256
+MeGeRiRe-256,,Three weeks later...,Woman,"I am ""Mistral"" -- the Cold Wind of France. And you... your reputation precedes you. Liberian, but white as snow... A natural-born killer, even as a child...",,N,MeGeRiRe-255,MeGeRiRe-257
+MeGeRiRe-257,,Three weeks later...,Raiden,That was a long time ago.,,N,MeGeRiRe-256,MeGeRiRe-258
+MeGeRiRe-258,,Three weeks later...,Mistral,"I was born in Algeria myself, you know. I’m only half French.",,N,MeGeRiRe-257,MeGeRiRe-259
+MeGeRiRe-259,,Three weeks later...,Raiden,And?,,N,MeGeRiRe-258,MeGeRiRe-260
+MeGeRiRe-260,,Three weeks later...,Mistral,"We had our own civil war in the 90s. So you see? Cut from the same cloth, you and I.",,N,MeGeRiRe-259,MeGeRiRe-261
+MeGeRiRe-261,,Three weeks later...,Raiden,You don’t know me.,,N,MeGeRiRe-260,MeGeRiRe-262
+MeGeRiRe-262,,Three weeks later...,Mistral,"I lost my whole family, everything... But butchered those fuckers. My family’s killers. That’s when I realized... I am a killer, too. And a good one at that. I slaughtered dozens in Iraq, in Afghanistan... I’d found my calling.",,N,MeGeRiRe-261,MeGeRiRe-263
+MeGeRiRe-263,,Three weeks later...,Raiden,"Proud of that, are you?",,N,MeGeRiRe-262,MeGeRiRe-264
+MeGeRiRe-264,,Three weeks later...,Mistral,"What happened, happened. To be honest, I found it quite dull.",,N,MeGeRiRe-263,MeGeRiRe-265
+MeGeRiRe-265,,Three weeks later...,,[She’ll drop her cape and expose the armor and some construction on her back with six connectors.],,Y,MeGeRiRe-264,MeGeRiRe-266
+MeGeRiRe-266,,Three weeks later...,Mistral,"My enemies fell like domino, one after another. Not once did I feel threatened. I was adrift... without challenge... without purpose... At times, I even envied my prey. At least they had a cause to die for. And then... I met him.",,N,MeGeRiRe-265,MeGeRiRe-267
+MeGeRiRe-267,,Three weeks later...,,[Raiden is being attacked by a three-armed robot. He easily chops it up.],,Y,MeGeRiRe-266,MeGeRiRe-268
+MeGeRiRe-268,,Three weeks later...,Raiden,Who?,,N,MeGeRiRe-267,MeGeRiRe-269
+MeGeRiRe-269,,Three weeks later...,Mistral,"And I know what I’d been missing. His ideals gave my life meaning. Ideals, Jack. What are yours?",,N,MeGeRiRe-268,MeGeRiRe-270
+MeGeRiRe-270,,Three weeks later...,,[Raiden gets confused. He wasn’t expecting that question.],,Y,MeGeRiRe-269,MeGeRiRe-271
+MeGeRiRe-271,,Three weeks later...,Raiden,I… protect the weak.,,N,MeGeRiRe-270,MeGeRiRe-272
+MeGeRiRe-272,,Three weeks later...,Mistral,Still… so naive.,,N,MeGeRiRe-271,MeGeRiRe-273
+MeGeRiRe-273,,Three weeks later...,,[She picks up a chopped robot and rips off his hands. The robot squeals like it’s alive.],,Y,MeGeRiRe-272,MeGeRiRe-274
+MeGeRiRe-274,,Three weeks later...,Raiden,And if I must kill to protect them... then so be it.,,N,MeGeRiRe-273,MeGeRiRe-275
+MeGeRiRe-275,,Three weeks later...,,[Mistral splits the robot’s leftovers in half with her heel.],,Y,MeGeRiRe-274,MeGeRiRe-276
+MeGeRiRe-276,,Three weeks later...,Mistral,It seems we have less in common than I thought.,,N,MeGeRiRe-275,MeGeRiRe-277
+MeGeRiRe-277,,Three weeks later...,Raiden,I’ll take that as a compliment.,,N,MeGeRiRe-276,MeGeRiRe-278
+MeGeRiRe-278,,Three weeks later...,Mistral,If you would kill for your ideals. then surely you are ready to die for them!,,N,MeGeRiRe-277,MeGeRiRe-279
+MeGeRiRe-279,,Three weeks later...,,[She calls on the three-armed robots and they share their hands by inserting them into the connectors on her back. Mistral herself screams during the procedure as if she were being raped.],,Y,MeGeRiRe-278,MeGeRiRe-280
+MeGeRiRe-280,,Three weeks later...,Mistral,"Come, mon gars! (my boy!]",,N,MeGeRiRe-279,MeGeRiRe-281
+MeGeRiRe-281,,Three weeks later...,,"[The fight with the boss is starting! Mistral calls on small three-armed robots, defends herself well with her ""hands"", jumps with a pole made of robot hands and it all happens in an ultra-fast and deadly dance!]",,Y,MeGeRiRe-280,MeGeRiRe-282
+MeGeRiRe-282,,Three weeks later...,Mistral,"Hmm... Not bad. I will rip you apart! Ready to slice off some more? I am starting to enjoy this! Something special, just for you! Can you handle this? Die! Die! Pointless! Over here.",,N,MeGeRiRe-281,MeGeRiRe-283
+MeGeRiRe-283,,Three weeks later...,,"[Eventually, Mistral attacks Raiden with her pole, putting him out like a spear.]",,Y,MeGeRiRe-282,MeGeRiRe-284
+MeGeRiRe-284,,Three weeks later...,Mistral,"Don’t fuck with me, boy!",,N,MeGeRiRe-283,MeGeRiRe-285
+MeGeRiRe-285,,Three weeks later...,,"[Raiden dodges the attack and Mistral sticks his pole into a container marked “Жидкий азот” / ""Liquid nitrogen"". She freezes instantly and Raiden chops her up with a few dozen strikes of his sword.]",,Y,MeGeRiRe-284,MeGeRiRe-286
+MeGeRiRe-286,,Three weeks later...,Dolzaev (via codec),"Mistral, report! Your vitals are dropping!",,N,MeGeRiRe-285,MeGeRiRe-287
+MeGeRiRe-287,,Three weeks later...,Mistral,I lost... So this is how they felt...,,N,MeGeRiRe-286,MeGeRiRe-288
+MeGeRiRe-288,,Three weeks later...,Dolzaev (via codec),What?,,N,MeGeRiRe-287,MeGeRiRe-289
+MeGeRiRe-289,,Three weeks later...,Mistral,...dying... for a cause...,,N,MeGeRiRe-288,MeGeRiRe-290
+MeGeRiRe-290,,Three weeks later...,Dolzaev (via codec),Wait. No... hold on!,,N,MeGeRiRe-289,MeGeRiRe-291
+MeGeRiRe-291,,Three weeks later...,Mistral,I am sorry. He was too... much...,,N,MeGeRiRe-290,MeGeRiRe-292
+MeGeRiRe-292,,Three weeks later...,Dolzaev (via codec),"I do not need apology, I need you alive!",,N,MeGeRiRe-291,MeGeRiRe-293
+MeGeRiRe-293,,Three weeks later...,Mistral,But I know... you will never fall...,,N,MeGeRiRe-292,MeGeRiRe-294
+MeGeRiRe-294,,Three weeks later...,Dolzaev (via codec),What... What is this talk about?,,N,MeGeRiRe-293,MeGeRiRe-295
+MeGeRiRe-295,,Three weeks later...,Mistral,Je t’aime... de tout mon coeur. (I love you... with all my heart.],,N,MeGeRiRe-294,MeGeRiRe-296
+MeGeRiRe-296,,Three weeks later...,Dolzaev (via codec),"""Je t’aime""? Mistral... You never...",,N,MeGeRiRe-295,MeGeRiRe-297
+MeGeRiRe-297,,Three weeks later...,,[Raiden picks up the radio on the ground.],,Y,MeGeRiRe-296,MeGeRiRe-298
+MeGeRiRe-298,,Three weeks later...,Raiden,"She’s not talking to you, idiot.",,N,MeGeRiRe-297,MeGeRiRe-299
+MeGeRiRe-299,,Three weeks later...,Dolzaev (via codec),You! You killed her! Yob tvoyu mat! (You fucking asshole!) Murderer!,,N,MeGeRiRe-298,MeGeRiRe-300
+MeGeRiRe-300,,Three weeks later...,Raiden,"That’s rich coming from you. It’s over, Dolzaev. Surrender.",,N,MeGeRiRe-299,MeGeRiRe-301
+MeGeRiRe-301,,Three weeks later...,Dolzaev (via codec),Ah ty tupoi sukin syn. (You stupid son of a bitch.],,N,MeGeRiRe-300,MeGeRiRe-302
+MeGeRiRe-302,,Three weeks later...,Raiden,Translation?,,N,MeGeRiRe-301,MeGeRiRe-303
+MeGeRiRe-303,,Three weeks later...,Dolzaev (via codec), Why would I surrender? We are exactly where I want.,(laugh) ,N,MeGeRiRe-302,MeGeRiRe-304
+MeGeRiRe-304,,Three weeks later...,Raiden,Shit...,,N,MeGeRiRe-303,MeGeRiRe-305
+MeGeRiRe-305,,Three weeks later...,Dolzaev (via codec),"Built with Russia money, to make Russia money. It is no plant for Abkhaz -- It is their prison! But now... They will be free!",,N,MeGeRiRe-304,MeGeRiRe-306
+MeGeRiRe-306,,Three weeks later...,,[He presses a button and blows up the next cistern. Raiden’s thrown away by the explosion.],,Y,MeGeRiRe-305,MeGeRiRe-307
+MeGeRiRe-307,,Three weeks later...,Raiden,Damn... Crazy son of a bitch.,,N,MeGeRiRe-306,MeGeRiRe-308
+MeGeRiRe-308,,Three weeks later...,Boris (via codec),"Raiden? Raiden, what happened?!",,N,MeGeRiRe-307,MeGeRiRe-309
+MeGeRiRe-309,,Three weeks later...,Raiden,Bastard blew himself up...,,N,MeGeRiRe-308,MeGeRiRe-310
+MeGeRiRe-310,,Three weeks later...,Boris (via codec),I see... Time to get you out of there. We’re sending a helicopter. Secure an LZ.,,N,MeGeRiRe-309,MeGeRiRe-311
+MeGeRiRe-311,,Three weeks later...,Raiden,Understood…,,N,MeGeRiRe-310,MeGeRiRe-312
+MeGeRiRe-312,,Three weeks later...,FILE R-02,Research Facility,,N,MeGeRiRe-311,MeGeRiRe-313
+MeGeRiRe-313,,Three weeks later...,,[Raiden’s driving his black expensive car through some Mexican town.],,Y,MeGeRiRe-312,MeGeRiRe-314
+MeGeRiRe-314,,Three weeks later...,Kevin (via codec),"So you’ve got some kind’ve disguise lined up, right?",,N,MeGeRiRe-313,MeGeRiRe-315
+MeGeRiRe-315,,Three weeks later...,Raiden,"Yep, all set.",,N,MeGeRiRe-314,MeGeRiRe-316
+MeGeRiRe-316,,Three weeks later...,Kevin (via codec),Hope so. You’d be a little conspicuous just walking the streets.,,N,MeGeRiRe-315,MeGeRiRe-317
+MeGeRiRe-317,,Three weeks later...,Raiden,"Relax, Kev. I’ll blend right in.",,N,MeGeRiRe-316,MeGeRiRe-318
+MeGeRiRe-318,,Three weeks later...,,[He is wearing a giant sombrero and a poncho that barely hides the fact that he is a robot. In the back seat Blade Wolf lies - he seems asleep.],,Y,MeGeRiRe-317,MeGeRiRe-319
+MeGeRiRe-319,,Three weeks later...,Kevin (via codec),"Yeah... Well, just get into the sewer system ASAP. Hopefully anyone who notices you will just mind their own business. You sure you want the K-9000 there along for this one?",,N,MeGeRiRe-318,MeGeRiRe-320
+MeGeRiRe-320,,Three weeks later...,Raiden,"I had the good Doktor make some adjustments along with the repairs. Remote piloting and Al wiping have been disabled. So yeah, I say let’s throw him a bone.",,N,MeGeRiRe-319,MeGeRiRe-321
+MeGeRiRe-321,,Three weeks later...,Blade Wolf, Wordplay: My exoskeleton resembles a canine: canines enjoy bones. Amusing on two levels.,(waking up) ,N,MeGeRiRe-320,MeGeRiRe-322
+MeGeRiRe-322,,Three weeks later...,Raiden,Let’s go.,,N,MeGeRiRe-321,MeGeRiRe-323
+MeGeRiRe-323,,Three weeks later...,,[He stops the car and comes out. There are two passers-by watching this circus.],,Y,MeGeRiRe-322,MeGeRiRe-324
+MeGeRiRe-324,,Three weeks later...,Black Shirt Guy,¿Quién es ese güey? (Who is that guy?],,N,MeGeRiRe-323,MeGeRiRe-325
+MeGeRiRe-325,,Three weeks later...,Red Shirt Guy,¿Un mariachi? No. (A mariachi player? No…],,N,MeGeRiRe-324,MeGeRiRe-326
+MeGeRiRe-326,,Three weeks later...,Black Shirt Guy,¿Un cyborg? (A cyborg?],,N,MeGeRiRe-325,MeGeRiRe-327
+MeGeRiRe-327,,Three weeks later...,Red Shirt Guy,¿Ese sombrero qué? (What’s with that hat...?],,N,MeGeRiRe-326,MeGeRiRe-328
+MeGeRiRe-328,,Three weeks later...,,[Raiden and Blade Wolf go down the sewers.],,Y,MeGeRiRe-327,MeGeRiRe-329
+MeGeRiRe-329,,Three weeks later...,Raiden,"Adiós, amigos.",,N,MeGeRiRe-328,MeGeRiRe-330
+MeGeRiRe-330,,Three weeks later...,Black Shirt Guy,¿Viste? (You see that?],,N,MeGeRiRe-329,MeGeRiRe-331
+MeGeRiRe-331,,Three weeks later...,Red Shirt Guy,"Que raro, eh...  Hay que hacer que no lo vimos. (Let’s just forget we saw anything.) ¡Vámonos! (Let’s go!]",(What a freak...) ,N,MeGeRiRe-330,MeGeRiRe-332
+MeGeRiRe-332,,Three weeks later...,Raiden,It’s Raiden. I’m in the sewer system.,,N,MeGeRiRe-331,MeGeRiRe-333
+MeGeRiRe-333,,Three weeks later...,Kevin (via codec),"All right, let’s get started. Your mission’s to investigate the Desperado-affiliated research center somewhere in that area. According to the intel from our client, the lab’s been dumping illegal waste into those sewers. FYI, they’re also involved with the cartels in human trafficking. Allegedly, anyway.",,N,MeGeRiRe-332,MeGeRiRe-334
+MeGeRiRe-334,,Three weeks later...,Raiden,This just gets better and better.,,N,MeGeRiRe-333,MeGeRiRe-335
+MeGeRiRe-335,,Three weeks later...,Kevin (via codec),Tell me about it. We need you to infiltrate the lab. and find out everything you can. Of course you’ll have to find it first. We still don’t know the exact location.,,N,MeGeRiRe-334,MeGeRiRe-336
+MeGeRiRe-336,,Three weeks later...,Raiden,So I’m looking for any where the lab might hook up with the sewers?,,N,MeGeRiRe-335,MeGeRiRe-337
+MeGeRiRe-337,,Three weeks later...,Kevin (via codec),"Yep. If they’re actually dumping waste, they’ve gotta link up somehow. Find that connection, sneak into the lab, and see if you can find evidence implicating them on anything.",,N,MeGeRiRe-336,MeGeRiRe-338
+MeGeRiRe-338,,Three weeks later...,Raiden,No problem. Stealth’s my specialty.,,N,MeGeRiRe-337,MeGeRiRe-339
+MeGeRiRe-339,,Three weeks later...,Kevin (via codec),"Right. Well, we’ll see.",,N,MeGeRiRe-338,MeGeRiRe-340
+MeGeRiRe-340,,Three weeks later...,Raiden,Do we have any idea what kind of research they’re doing there?,,N,MeGeRiRe-339,MeGeRiRe-341
+MeGeRiRe-341,,Three weeks later...,Kevin (via codec),Not really. Maybe something related to all the people they’re trafficking.,,N,MeGeRiRe-340,MeGeRiRe-342
+MeGeRiRe-342,,Three weeks later...,Raiden,Like... experimentation?,,N,MeGeRiRe-341,MeGeRiRe-343
+MeGeRiRe-343,,Three weeks later...,Kevin (via codec),"It’s possible. First things first, though: find a way into that lab. Oh, right: says here the locals say ""black crocodiles” live in those sewers, so, y’know... Watch out.",,N,MeGeRiRe-342,MeGeRiRe-344
+MeGeRiRe-344,,Three weeks later...,Raiden,Black... crocodiles? Could they be talking about UGs?,,N,MeGeRiRe-343,MeGeRiRe-345
+MeGeRiRe-345,,Three weeks later...,Kevin (via codec),"Maybe just an urban legend, but still... be careful.",,N,MeGeRiRe-344,MeGeRiRe-346
+MeGeRiRe-346,,Three weeks later...,Blade Wolf,I will scout ahead. You will provide backup.,,N,MeGeRiRe-345,MeGeRiRe-347
+MeGeRiRe-347,,Three weeks later...,Raiden,"Sir, yes, sir.",,N,MeGeRiRe-346,MeGeRiRe-348
+MeGeRiRe-348,,Three weeks later...,Blade Wolf,Commence operation. Raiden:unidentified UGs are patrolling the sewers. Exercise caution.,,N,MeGeRiRe-347,MeGeRiRe-349
+MeGeRiRe-349,,Three weeks later...,,[Raiden encounters a gorilla-like UG.],,Y,MeGeRiRe-348,MeGeRiRe-350
+MeGeRiRe-350,,Three weeks later...,Kevin (via codec),Better take out that UG quick. Don’t wanna attract too much attention down there.,,N,MeGeRiRe-349,MeGeRiRe-351
+MeGeRiRe-351,,Three weeks later...,,[Raiden chops off the gorilla’s powerful hands and kills it.],,Y,MeGeRiRe-350,MeGeRiRe-352
+MeGeRiRe-352,,Three weeks later...,Blade Wolf,I see a maintenance catwalk. Use it to conceal yourself if necessary.,,N,MeGeRiRe-351,MeGeRiRe-353
+MeGeRiRe-353,,Three weeks later...,,[Raiden quietly kills two gorillas by jumping on top of them.],,Y,MeGeRiRe-352,MeGeRiRe-354
+MeGeRiRe-354,,Three weeks later...,Kevin (via codec),There is the Raiden I know.,,N,MeGeRiRe-353,MeGeRiRe-355
+MeGeRiRe-355,,Three weeks later...,Blade Wolf,Raiden. There’s a boy in these sewers.,,N,MeGeRiRe-354,MeGeRiRe-356
+MeGeRiRe-356,,Three weeks later...,,[Soon Raiden hears screams. The boy is attacked by two three-armed robots. Raiden runs up to him and kills the robots. Then three Watchers from Horizon Zero Dawn attack him.],,Y,MeGeRiRe-355,MeGeRiRe-357
+MeGeRiRe-357,,Three weeks later...,Raiden, Get outta here!,(to the boy) ,N,MeGeRiRe-356,MeGeRiRe-358
+MeGeRiRe-358,,Three weeks later...,Boy,"A ninja? Cowabunga! Go ninja, go ninja go--",,N,MeGeRiRe-357,MeGeRiRe-359
+MeGeRiRe-359,,Three weeks later...,Raiden, What’re you... ¡Huye! (Run!],(to the boy) ,N,MeGeRiRe-358,MeGeRiRe-360
+MeGeRiRe-360,,Three weeks later...,,[He kills the Watchers.],,Y,MeGeRiRe-359,MeGeRiRe-361
+MeGeRiRe-361,,Three weeks later...,Raiden,¿Estás bien? (Are you okay?],,N,MeGeRiRe-360,MeGeRiRe-362
+MeGeRiRe-362,,Three weeks later...,Boy,Wah yuh say? (What’d you say?],,N,MeGeRiRe-361,MeGeRiRe-363
+MeGeRiRe-363,,Three weeks later...,Raiden,Oh.,,N,MeGeRiRe-362,MeGeRiRe-364
+MeGeRiRe-364,,Three weeks later...,Boy,Mi a Guyanese. From Guyana. (I’m Guyanese. From Guyana.],,N,MeGeRiRe-363,MeGeRiRe-365
+MeGeRiRe-365,,Three weeks later...,Raiden,You speak English?,,N,MeGeRiRe-364,MeGeRiRe-366
+MeGeRiRe-366,,Three weeks later...,Raiden,"Uh, yeah I’m from America. Call me Raiden.",,N,MeGeRiRe-365,MeGeRiRe-367
+MeGeRiRe-367,,Three weeks later...,Boy,"Mi name George. Like ""Georgiatown."" (My name’s George. Like ""Georgetown.""]",,N,MeGeRiRe-366,MeGeRiRe-368
+MeGeRiRe-368,,Three weeks later...,Raiden,George...,,N,MeGeRiRe-367,MeGeRiRe-369
+MeGeRiRe-369,,Three weeks later...,George,An just like all dem America president. (And just like all those American presidents.],,N,MeGeRiRe-368,MeGeRiRe-370
+MeGeRiRe-370,,Three weeks later...,Raiden,Yeah. So what are you doing here?,,N,MeGeRiRe-369,MeGeRiRe-371
+MeGeRiRe-371,,Three weeks later...,George,"Mi? Wuh darass ayu fuh do here?  Yuh lose da map a ninja hideout, ninja man? (You lose the map to your ninja hideout, ninja man?]",(Me? What the hell are you doing here?) ,N,MeGeRiRe-370,MeGeRiRe-372
+MeGeRiRe-372,,Three weeks later...,Raiden,No. I’m looking for bad guys.,,N,MeGeRiRe-371,MeGeRiRe-373
+MeGeRiRe-373,,Three weeks later...,George,"Ah, dem skunt a research lab. (Oh, those punks at the research lab.]",,N,MeGeRiRe-372,MeGeRiRe-374
+MeGeRiRe-374,,Three weeks later...,Raiden,You know about it...?,,N,MeGeRiRe-373,MeGeRiRe-375
+MeGeRiRe-375,,Three weeks later...,George,"Mi know mi na go back (I know I’m not going back.) Hey... Yun na wan of dem skunt, nah? (Hey... You’re not one of those assholes, right?) Nah... I guess yath all night. (No... I guess you’re all right) If yuh a cyborg, yuh know who dey is? (If you’re a cyborg, do you know who they are?]",,N,MeGeRiRe-374,MeGeRiRe-376
+MeGeRiRe-376,,Three weeks later...,Raiden,Sort of. What happened to you?,,N,MeGeRiRe-375,MeGeRiRe-377
+MeGeRiRe-377,,Three weeks later...,George,"Mi bin live on da street,  rake an scrape suh a bobb, nah?  Den dis kutnee dress like da mafia say.  ""Hey boi, yuh wan a job?” (""Hey kid, you want a job?”) Wuh da worst gon happen, nah?  But da mudda skunt done put mi on a rass boat! (But the motherfucker put me on a damn boat!) Dey pack us all a bigable dutty containah.  Next ting we know, we here. At dat jumby lab. (Next thing we know, we’re here. At that messed-up lab.]","(I was living on the street,) (begging for quarters, you know?) (Then this creep dressed like the mafia says,) (What was the worst that could happen?) (They packed us all in a big, dirty container.) ",N,MeGeRiRe-376,MeGeRiRe-378
+MeGeRiRe-378,,Three weeks later...,Raiden,"All kids, like you?",,N,MeGeRiRe-377,MeGeRiRe-379
+MeGeRiRe-379,,Three weeks later...,George,"Yeah, alotta boi.  But dom wi bin schnar wuh dem skunt wan a do.  Snuff us out...  en gut all dey organ... (and cut out our organs...]","(Yeah, lots of boys.) (But then I ever heard what those punks want to do.) (They wanna kill us...) ",N,MeGeRiRe-378,MeGeRiRe-380
+MeGeRiRe-380,,Three weeks later...,Raiden,So you ran.,,N,MeGeRiRe-379,MeGeRiRe-381
+MeGeRiRe-381,,Three weeks later...,George,"Uh-huh. Ise shame mi notta bad-ass robot-ninja-mon same’s you. (Man, too bad I’m not some kinda cyborg like you.) Mi bin strongest cyborg ever. (I would’ve been the strongest cyborg ever.) Walack all dem Phantoms an Black Clothes dat eyepass mi. (Whack all the mafioso and bed guys that mess with me.]",,N,MeGeRiRe-380,MeGeRiRe-382
+MeGeRiRe-382,,Three weeks later...,Raiden,Starting to sound like a bad guy yourself.,,N,MeGeRiRe-381,MeGeRiRe-383
+MeGeRiRe-383,,Three weeks later...,George,"Jus playin’, nah? Mi done plenty bad ting, (Just joking, ya know? I’ve done some bad things,) but mi nah kill no man. Nah, novah. (but I’ve never killed anybody. Don’t want to, either.]",,N,MeGeRiRe-382,MeGeRiRe-384
+MeGeRiRe-384,,Three weeks later...,Raiden,Good.,,N,MeGeRiRe-383,MeGeRiRe-385
+MeGeRiRe-385,,Three weeks later...,George,"Mi try to warn dem boi, I say,  ""Ayodeste brain will get cut of!"" (""All your brains are gonna got cut out!"") ""Run yuh rass out a dey!"" (""Get your asses out of there!"") But dem bois wi mi no understand. (But the boys with me didn’t understand.) Dey like Spanish or some’ting  So mi the only wan fuh escape.  Den dey machine come afta mi an-- (Then that machine came after me and--]","(I tried to warn the other boys and say,) (They were like, Spanish or something.) (So I was the only one to escape.) ",N,MeGeRiRe-384,MeGeRiRe-386
+MeGeRiRe-386,,Three weeks later...,Raiden,And I know the rest.,,N,MeGeRiRe-385,MeGeRiRe-387
+MeGeRiRe-387,,Three weeks later...,,[He grabs the poor boy by the shoulders.],,Y,MeGeRiRe-386,MeGeRiRe-388
+MeGeRiRe-388,,Three weeks later...,Raiden,"George, I need every detail about how you escaped.",,N,MeGeRiRe-387,MeGeRiRe-389
+MeGeRiRe-389,,Three weeks later...,George,Oh…,,N,MeGeRiRe-388,MeGeRiRe-390
+MeGeRiRe-390,,Three weeks later...,,[Some time is passing. George tells Raiden what he knows.],,Y,MeGeRiRe-389,MeGeRiRe-391
+MeGeRiRe-391,,Three weeks later...,Kevin (via codec),So the kid got into the sewers through a drainage channel?,,N,MeGeRiRe-390,MeGeRiRe-392
+MeGeRiRe-392,,Three weeks later...,Raiden,"Yeah. He says the channel is super tight, but there’s some kind of shutter next to it.",,N,MeGeRiRe-391,MeGeRiRe-393
+MeGeRiRe-393,,Three weeks later...,Kevin (via codec),Got it. That must be where they dump the waste.,,N,MeGeRiRe-392,MeGeRiRe-394
+MeGeRiRe-394,,Three weeks later...,Raiden,There’s something else... It sounds like a Desperado exec was on-site yesterday. If a sentry cyborg was on hand for the meeting...,,N,MeGeRiRe-393,MeGeRiRe-395
+MeGeRiRe-395,,Three weeks later...,Doktor (via codec),You should be able to review their video log. provided you can find a server-access terminal. That would give us the evidence we need… as well as a little pook at the level of their technology.,,N,MeGeRiRe-394,MeGeRiRe-396
+MeGeRiRe-396,,Three weeks later...,Kevin (via codec),So what about the kid?,,N,MeGeRiRe-395,MeGeRiRe-397
+MeGeRiRe-397,,Three weeks later...,Raiden,I made sure the area was secure and told him to sit tight. Can you pick him up?,,N,MeGeRiRe-396,MeGeRiRe-398
+MeGeRiRe-398,,Three weeks later...,Kevin (via codec),"Sure, I’ll send a couple agents for him. You just focus on getting into that lab. If what he said is true, about the organs... We need to hurry.",,N,MeGeRiRe-397,MeGeRiRe-399
+MeGeRiRe-399,,Three weeks later...,Raiden,Agreed. Raiden out.,,N,MeGeRiRe-398,MeGeRiRe-400
+MeGeRiRe-400,,Three weeks later...,Blade Wolf (via codec),"Heavy UG activity ahead, it is possible they are conducting cost operations while the lob is closed.",,N,MeGeRiRe-399,MeGeRiRe-401
+MeGeRiRe-401,,Three weeks later...,Kevin (via codec),They’re not gonna make it easy to get into that lab... Is there some way you could sneak past?,,N,MeGeRiRe-400,MeGeRiRe-402
+MeGeRiRe-402,,Three weeks later...,,[Raiden picks up a box off the floor.],,Y,MeGeRiRe-401,MeGeRiRe-403
+MeGeRiRe-403,,Three weeks later...,Kevin (via codec),"It’s... It’s a box. How’s that gonna help? Oh, it’s for medical supplies? That could work, actually.",,N,MeGeRiRe-402,MeGeRiRe-404
+MeGeRiRe-404,,Three weeks later...,Blade Wolf (via codec),"Raiden, I have determined the approximate location of the lab based on the boy’s information. It is marked on your soliton radar.",,N,MeGeRiRe-403,MeGeRiRe-405
+MeGeRiRe-405,,Three weeks later...,,[Raiden kills a soldier who was hiding in a box.],,Y,MeGeRiRe-404,MeGeRiRe-406
+MeGeRiRe-406,,Three weeks later...,Kevin (via codec),"Hah, nice hiding spot. Wonder where he learned that from...",,N,MeGeRiRe-405,MeGeRiRe-407
+MeGeRiRe-407,,Three weeks later...,,"[With enhanced vision, Raiden discovers a secret entrance to the lab.]",,Y,MeGeRiRe-406,MeGeRiRe-408
+MeGeRiRe-408,,Three weeks later...,Kevin (via codec),"So, a fake wall projection. Pretty well hidden, I gotta say…",,N,MeGeRiRe-407,MeGeRiRe-409
+MeGeRiRe-409,,Three weeks later...,Doktor (via codec),"Ah, this would appear to be the UG maintenance area. You should find a terminal there -- something they use to upload mission parameters to their UGs.",,N,MeGeRiRe-408,MeGeRiRe-410
+MeGeRiRe-410,,Three weeks later...,Raiden,And something I can use to access the lab’s main server?,,N,MeGeRiRe-409,MeGeRiRe-411
+MeGeRiRe-411,,Three weeks later...,Doktor (via codec),Perhaps. But first you need to take a DOOMP.,,N,MeGeRiRe-410,MeGeRiRe-412
+MeGeRiRe-412,,Three weeks later...,Raiden,"I… Wait, what?",,N,MeGeRiRe-411,MeGeRiRe-413
+MeGeRiRe-413,,Three weeks later...,Doktor (via codec),A DOOMP? A digital-optical output mounted proxy. You’ll need one to Interface with the terminal. Most any UG should suffice -- a Tripod or the like.,,N,MeGeRiRe-412,MeGeRiRe-414
+MeGeRiRe-414,,Three weeks later...,Raiden,I’ll see what I can come up with. How do I use it?,,N,MeGeRiRe-413,MeGeRiRe-415
+MeGeRiRe-415,,Three weeks later...,Doktor (via codec),Simply connect to it. You should be able to use your communications outlay to control the proxy UG.,,N,MeGeRiRe-414,MeGeRiRe-416
+MeGeRiRe-416,,Three weeks later...,Raiden,"All right, let’s give it a shot...",,N,MeGeRiRe-415,MeGeRiRe-417
+MeGeRiRe-417,,Three weeks later...,,"[Walking into the next room, Raiden’s immediately caught because of the disgustingly implemented stealth mechanics.]",,Y,MeGeRiRe-416,MeGeRiRe-418
+MeGeRiRe-418,,Three weeks later...,Kevin (via codec),"Raiden, Raiden, Raiden... I thought you cald stealth ops were your specialty?",,N,MeGeRiRe-417,MeGeRiRe-419
+MeGeRiRe-419,,Three weeks later...,,[After the fight.],,Y,MeGeRiRe-418,MeGeRiRe-420
+MeGeRiRe-420,,Three weeks later...,Doktor (via codec),"Raiden, if they continue to increase security they may shut out all outside network connections! Please do your best to avoid being seen!",,N,MeGeRiRe-419,MeGeRiRe-421
+MeGeRiRe-421,,Three weeks later...,,[Raiden walks into the next room and... sees hundreds of brains with eyes fixed in a white structure. The eyes of all brains start looking at Raiden. A soldier’s voice comes from the next room.],,Y,MeGeRiRe-420,MeGeRiRe-422
+MeGeRiRe-422,,Three weeks later...,Soldier,Find him! I got ’im!,,N,MeGeRiRe-421,MeGeRiRe-423
+MeGeRiRe-423,,Three weeks later...,,[Raiden slices a fresh portion of meat.],,Y,MeGeRiRe-422,MeGeRiRe-424
+MeGeRiRe-424,,Three weeks later...,Boris (via codec),Is it over?,,N,MeGeRiRe-423,MeGeRiRe-425
+MeGeRiRe-425,,Three weeks later...,Raiden,"For now, yeah. But that room... Those were cyborgs brain casings.",,N,MeGeRiRe-424,MeGeRiRe-426
+MeGeRiRe-426,,Three weeks later...,Boris (via codec),Da.  We saw.,(Yes.) ,N,MeGeRiRe-425,MeGeRiRe-427
+MeGeRiRe-427,,Three weeks later...,Raiden,George said they were harvesting tongans from kids.,,N,MeGeRiRe-426,MeGeRiRe-428
+MeGeRiRe-428,,Three weeks later...,Boris (via codec),"Yes, this must be why they are trafficking children. Perhaps other tongans and being sold elsewhere, but they are definitely taking the brains.",,N,MeGeRiRe-427,MeGeRiRe-429
+MeGeRiRe-429,,Three weeks later...,Raiden,Jesus… Are they making these kids into cyborgs?,,N,MeGeRiRe-428,MeGeRiRe-430
+MeGeRiRe-430,,Three weeks later...,Kevin (via codec),Wait -- the cyborgs you’ve been fighting... Did they seem like they might be kids? You said earlier that child soldiers have a telltale approach to combat...,,N,MeGeRiRe-429,MeGeRiRe-431
+MeGeRiRe-431,,Three weeks later...,Raiden,"Yeah, but I didn’t see it here. Those weren’t kids.",,N,MeGeRiRe-430,MeGeRiRe-432
+MeGeRiRe-432,,Three weeks later...,Kevin (via codec),So... what? Desperados just doing the surgeries there?,,N,MeGeRiRe-431,MeGeRiRe-433
+MeGeRiRe-433,,Three weeks later...,Raiden,We’ve gotta do something about all those brains. And the other kids George was talking about... He just escaped a few hours ago -- they couldn’t have taken all their brains out that fast.,,N,MeGeRiRe-432,MeGeRiRe-434
+MeGeRiRe-434,,Three weeks later...,Kevin (via codec),True. There could still be a bunch of kids they haven’t touched yet.,,N,MeGeRiRe-433,MeGeRiRe-435
+MeGeRiRe-435,,Three weeks later...,Raiden,I better move.,,N,MeGeRiRe-434,MeGeRiRe-436
+MeGeRiRe-436,,Three weeks later...,,"[He finds a three-armed robot, takes something out of it and puts it in his neck. Now he can control the robot.]",,Y,MeGeRiRe-435,MeGeRiRe-437
+MeGeRiRe-437,,Three weeks later...,Doktor (via codec),"Splendid! It is all ours! Now, use it to locate a data-input terminal.",,N,MeGeRiRe-436,MeGeRiRe-438
+MeGeRiRe-438,,Three weeks later...,Kevin (via codec),These guys’re pretty jumpy now. Any funny business and they might just open fire...,,N,MeGeRiRe-437,MeGeRiRe-439
+MeGeRiRe-439,,Three weeks later...,Doktor (via codec),"Try latching onto cyborgs’ heads from behind. Then, an electric shock should knock thom unconscious. That terminal is most likely designed to download mission data and such into the UGs. Let’s try using it to access the lab’s server. Raiden, I’ve found something. In one of the sentry cyborgs’ visual logs. Guess who shows up?",,N,MeGeRiRe-438,MeGeRiRe-440
+MeGeRiRe-440,,Three weeks later...,Raiden,Patch it through.,,N,MeGeRiRe-439,MeGeRiRe-441
+MeGeRiRe-441,,Three weeks later...,Doktor (via codec),Right away.,,N,MeGeRiRe-440,MeGeRiRe-442
+MeGeRiRe-442,,Three weeks later...,,[Raiden sees the security camera footage.],,Y,MeGeRiRe-441,MeGeRiRe-443
+MeGeRiRe-443,,Three weeks later...,Sundowner,Then send us what you do have. We’ve already commenced VR training.,,N,MeGeRiRe-442,MeGeRiRe-444
+MeGeRiRe-444,,Three weeks later...,Scientist,The Sears Program?,,N,MeGeRiRe-443,MeGeRiRe-445
+MeGeRiRe-445,,Three weeks later...,Sundowner,"Yup, same one ol’ Georgy-boy used on the kids in Liberia. Of course it’s wired straight to the brain now. Feels as real as anything else",,N,MeGeRiRe-444,MeGeRiRe-446
+MeGeRiRe-446,,Three weeks later...,Scientist,Your work is astonishing.,,N,MeGeRiRe-445,MeGeRiRe-447
+MeGeRiRe-447,,Three weeks later...,Sundowner,And your work is late. We need to ship before our cover is blown. We’ve got some assholes snooping around...,,N,MeGeRiRe-446,MeGeRiRe-448
+MeGeRiRe-448,,Three weeks later...,Scientist,We just do not have the full quantity yet. Each brain has its own unique requirements. It’s not like we can just pop them out with an ice cream scoop.,,N,MeGeRiRe-447,MeGeRiRe-449
+MeGeRiRe-449,,Three weeks later...,,"[Next to Sundowner, a man wearing glasses stands with his back to the camera.]",,Y,MeGeRiRe-448,MeGeRiRe-450
+MeGeRiRe-450,,Three weeks later...,Man,"All right, you’ve made your point.",,N,MeGeRiRe-449,MeGeRiRe-451
+MeGeRiRe-451,,Three weeks later...,Scientist,Thank you for understanding. Send what you have now. end destroy any unharvested Inventory.,,N,MeGeRiRe-450,MeGeRiRe-452
+MeGeRiRe-452,,Three weeks later...,Scientist,Qué?! (What?!) But... Have you any idea what they cost?,,N,MeGeRiRe-451,MeGeRiRe-453
+MeGeRiRe-453,,Three weeks later...,Man,"Last I checked, vagrant children weren’t exactly rare in this part of the world. Millions of them, in fact. You can get more once we’ve set up a new lab. They lead lives of hunger and pain. We’re performing a service here -- for them, and the cities they burden.",,N,MeGeRiRe-452,MeGeRiRe-454
+MeGeRiRe-454,,Three weeks later...,Scientist,But just gathering the donors required a significant investment--,,N,MeGeRiRe-453,MeGeRiRe-455
+MeGeRiRe-455,,Three weeks later...,Man,"Yes, yes, you’ll get the money. Accounting will be in touch.",,N,MeGeRiRe-454,MeGeRiRe-456
+MeGeRiRe-456,,Three weeks later...,Scientist,Gracias.  I assure you we will dispose of our inventory the instant we can confirm payment.,(Thank you.) ,N,MeGeRiRe-455,MeGeRiRe-457
+MeGeRiRe-457,,Three weeks later...,Man,"Are we done here? I’ve got a full slate today... Tecumseh is a demanding mistress, and America has suffered long enough.",,N,MeGeRiRe-456,MeGeRiRe-458
+MeGeRiRe-458,,Three weeks later...,Scientist,"Oh yes, sir. Thank you, sir. Let me see you out.",,N,MeGeRiRe-457,MeGeRiRe-459
+MeGeRiRe-459,,Three weeks later...,,[The footage ends.],,Y,MeGeRiRe-458,MeGeRiRe-460
+MeGeRiRe-460,,Three weeks later...,Raiden,"You see that, Kev? N’mani’s killer...",,N,MeGeRiRe-459,MeGeRiRe-461
+MeGeRiRe-461,,Three weeks later...,Kevin (via codec),Desperado’s chief of operations. Goes by Sundowner. The Californian wildfire...,,N,MeGeRiRe-460,MeGeRiRe-462
+MeGeRiRe-462,,Three weeks later...,Raiden,The kids...,,N,MeGeRiRe-461,MeGeRiRe-463
+MeGeRiRe-463,,Three weeks later...,Kevin (via codec),Think we’re too late?,,N,MeGeRiRe-462,MeGeRiRe-464
+MeGeRiRe-464,,Three weeks later...,Raiden,Only one way to find out. George was still alive... Maybe the payment hasn’t come through yet.,,N,MeGeRiRe-463,MeGeRiRe-465
+MeGeRiRe-465,,Three weeks later...,Kevin (via codec),Maybe. But you heard what he said:< They’ve already started some brains on VR training.,,N,MeGeRiRe-464,MeGeRiRe-466
+MeGeRiRe-466,,Three weeks later...,Raiden,There must be more than just what I found here... What about the V.I.P. in the suit?,,N,MeGeRiRe-465,MeGeRiRe-467
+MeGeRiRe-467,,Three weeks later...,Kevin (via codec),I’ll find out. He definitely seemed familiar...,,N,MeGeRiRe-466,MeGeRiRe-468
+MeGeRiRe-468,,Three weeks later...,Raiden,Right. I’m going after the kids.,,N,MeGeRiRe-467,MeGeRiRe-469
+MeGeRiRe-469,,Three weeks later...,,"[Raiden goes on, killing soldiers.]",,Y,MeGeRiRe-468,MeGeRiRe-470
+MeGeRiRe-470,,Three weeks later...,Courtney (via codec),"Bad news, Raiden... We can’t find George.",,N,MeGeRiRe-469,MeGeRiRe-471
+MeGeRiRe-471,,Three weeks later...,Raiden,What?!,,N,MeGeRiRe-470,MeGeRiRe-472
+MeGeRiRe-472,,Three weeks later...,Courtney (via codec),Maybe the coordinates you sent us were off?,,N,MeGeRiRe-471,MeGeRiRe-473
+MeGeRiRe-473,,Three weeks later...,Raiden,No way. I merged the GPS location of our entry with all my movement data from that point on.,,N,MeGeRiRe-472,MeGeRiRe-474
+MeGeRiRe-474,,Three weeks later...,Courtney (via codec),This is bad.,,N,MeGeRiRe-473,MeGeRiRe-475
+MeGeRiRe-475,,Three weeks later...,Raiden,You think they got to him first?,,N,MeGeRiRe-474,MeGeRiRe-476
+MeGeRiRe-476,,Three weeks later...,Courtney (via codec),I don’t know... I’ll have our guys sweep the area.,,N,MeGeRiRe-475,MeGeRiRe-477
+MeGeRiRe-477,,Three weeks later...,Raiden,Thanks. I botter keep moving.,,N,MeGeRiRe-476,MeGeRiRe-478
+MeGeRiRe-478,,Three weeks later...,,"[The next room is a huge hangar. There, Raiden meets a huge robot that looks like a tractor with an iron shield in front. The robot blocks the narrow passage.]",,Y,MeGeRiRe-477,MeGeRiRe-479
+MeGeRiRe-479,,Three weeks later...,Boris (via codec),The bastard is blocking the way! Push that thing back!,,N,MeGeRiRe-478,MeGeRiRe-480
+MeGeRiRe-480,,Three weeks later...,,"[When Raiden manages to push the tractor out of a narrow passage with his slashes, it transforms into a robot. The robot is called GRAD - literally a hail in Russian, but in figurative meaning, the word can be translated as an avalanche of strikes or bullets.]",,Y,MeGeRiRe-479,MeGeRiRe-481
+MeGeRiRe-481,,Three weeks later...,Boris (via codec),It has switched to biped mode. Careful! It is whole new battle now!,,N,MeGeRiRe-480,MeGeRiRe-482
+MeGeRiRe-482,,Three weeks later...,,"[After Raiden slices all the shields and cuts his electronic brains into two, Kevin calls him.]",,Y,MeGeRiRe-481,MeGeRiRe-483
+MeGeRiRe-483,,Three weeks later...,Kevin (via codec),Raiden! I know I’d seen that guy before! Steven Armstrong. As in Colorado Senator Steven Armstrong. They’re already talking about him as a shoo-in for the nomination in 2020. And get this: Two years ago a federal grand jury investigated his ties to a certain private --,,N,MeGeRiRe-482,MeGeRiRe-484
+MeGeRiRe-484,,Three weeks later...,Raiden,"World Marshal, one of the biggest PMCs out there. I remember.",,N,MeGeRiRe-483,MeGeRiRe-485
+MeGeRiRe-485,,Three weeks later...,Kevin (via codec),"The biggest, over since the Big Five split up. Not to mention the single largest investor in military cyborg R&D in the world. Guess that answers the question of who’s backing Desperado...",,N,MeGeRiRe-484,MeGeRiRe-486
+MeGeRiRe-486,,Three weeks later...,Raiden,Marshal and Desperado In Bed Together... Should make for some fun headlines.,,N,MeGeRiRe-485,MeGeRiRe-487
+MeGeRiRe-487,,Three weeks later...,Kevin (via codec),"Headlines? This is World Marshal and a US Senator we’re talking about. There won’t be any headlines. Even without the Patriots’ filter, no major media outlet will investigate allegations like these. It’d be financial and political suicide.",,N,MeGeRiRe-486,MeGeRiRe-488
+MeGeRiRe-488,,Three weeks later...,Raiden,"So we just, what? Sit back while they keep carving up kids? Stand aside while they build an army of cyborgs?! You heard them: We shut down one lab, they build another. They’re planning something big. Kev -- we can’t just wait for it to happen. We need to hit ’em first, and hit ‘em hard... where it counts...",,N,MeGeRiRe-487,MeGeRiRe-489
+MeGeRiRe-489,,Three weeks later...,Kevin (via codec),"No. Raiden? No. I know what you’re thinking, and... just, no. Colorado is in America, and America has those things called laws.",,N,MeGeRiRe-488,MeGeRiRe-490
+MeGeRiRe-490,,Three weeks later...,Raiden,Mm-hmm. And law enforcement in Denver was privatized and farmed out to...,,N,MeGeRiRe-489,MeGeRiRe-491
+MeGeRiRe-491,,Three weeks later...,Kevin (via codec),Marshal! Yes! So what?! There are still laws! And it’s their headquarters for chrissakes. You’d be heading right into the heart of a raging shitstorm!,,N,MeGeRiRe-490,MeGeRiRe-492
+MeGeRiRe-492,,Three weeks later...,Raiden,I didn’t say it would be easy. We’ll figure it once the kids are safe.,,N,MeGeRiRe-491,MeGeRiRe-493
+MeGeRiRe-493,,Three weeks later...,Kevin (via codec),Jesus Chri-- Kevin out.,,N,MeGeRiRe-492,MeGeRiRe-494
+MeGeRiRe-494,,Three weeks later...,,[Raiden kills two guards and walks into a room with three large refrigerators.],,Y,MeGeRiRe-493,MeGeRiRe-495
+MeGeRiRe-495,,Three weeks later...,Doktor (via codec),"Ah, an artificial-blood cryopreserver. They must have begun preparatory freezing.",,N,MeGeRiRe-494,MeGeRiRe-496
+MeGeRiRe-496,,Three weeks later...,Raiden,What do you mean?,,N,MeGeRiRe-495,MeGeRiRe-497
+MeGeRiRe-497,,Three weeks later...,Doktor (via codec),"That device is filled with synthetic blood plasma. It can slow the metabolism of a harvested organ, circulating this plasma to sustain oxygen levels. You can preserve an arm, a brain -- any body part, for several hours.",,N,MeGeRiRe-496,MeGeRiRe-498
+MeGeRiRe-498,,Three weeks later...,Raiden,"So what are they freezing, and why?",,N,MeGeRiRe-497,MeGeRiRe-499
+MeGeRiRe-499,,Three weeks later...,Doktor (via codec),I could not say... Perhaps they plan to sell off the organs of the children they were told to dispose of?,,N,MeGeRiRe-498,MeGeRiRe-500
+MeGeRiRe-500,,Three weeks later...,Raiden,Unbelievable...,,N,MeGeRiRe-499,MeGeRiRe-501
+MeGeRiRe-501,,Three weeks later...,Doktor (via codec),"You had best hurry, Raiden.",,N,MeGeRiRe-500,MeGeRiRe-502
+MeGeRiRe-502,,Three weeks later...,Raiden,Right.,,N,MeGeRiRe-501,MeGeRiRe-503
+MeGeRiRe-503,,Three weeks later...,,"[In the next room, Raiden finds an enclosed area with children.]",,Y,MeGeRiRe-502,MeGeRiRe-504
+MeGeRiRe-504,,Three weeks later...,Raiden,What?,,N,MeGeRiRe-503,MeGeRiRe-505
+MeGeRiRe-505,,Three weeks later...,,[White gas is beginning to be released into the enclosed area.],,Y,MeGeRiRe-504,MeGeRiRe-506
+MeGeRiRe-506,,Three weeks later...,Raiden,Shit!,,N,MeGeRiRe-505,MeGeRiRe-507
+MeGeRiRe-507,,Three weeks later...,???,"Hey, stop right there.",,N,MeGeRiRe-506,MeGeRiRe-508
+MeGeRiRe-508,,Three weeks later...,,[The scientist from security camera footage enters the room. He has George as a hostage. He’s got a gun to his head.],,Y,MeGeRiRe-507,MeGeRiRe-509
+MeGeRiRe-509,,Three weeks later...,Raiden,George!,,N,MeGeRiRe-508,MeGeRiRe-510
+MeGeRiRe-510,,Three weeks later...,George,Raiden…,,N,MeGeRiRe-509,MeGeRiRe-511
+MeGeRiRe-511,,Three weeks later...,Scientist,"You’ve heard of chloroform? A potent anesthetic in smaller doses. But breathe too much of it... And... adios, muchachos.  Break that glass and I’ll blow his brains out. Surrender! Or decide: The needs of the many, or the needs of the few?","(goodbye, boys) ",N,MeGeRiRe-510,MeGeRiRe-512
+MeGeRiRe-512,,Three weeks later...,George,"Raiden... Don worry ’bout me, nah...? (Don’t worry about me...]",,N,MeGeRiRe-511,MeGeRiRe-513
+MeGeRiRe-513,,Three weeks later...,Scientist,"Quiet, pendejo! (asshole!) Surrender!  I won’t ask again!",(he smiles nasty) ,N,MeGeRiRe-512,MeGeRiRe-514
+MeGeRiRe-514,,Three weeks later...,Raiden,George. Are you sure...?,,N,MeGeRiRe-513,MeGeRiRe-515
+MeGeRiRe-515,,Three weeks later...,George,I’m ready. Mi life no so precious ting (My life isn’t such a precious thing.) But if mi can take dis skunt to hell wi mi... (But if I can take atteesshole to hell with me...],,N,MeGeRiRe-514,MeGeRiRe-516
+MeGeRiRe-516,,Three weeks later...,Scientist,¡Cállate! (Shut up!],,N,MeGeRiRe-515,MeGeRiRe-517
+MeGeRiRe-517,,Three weeks later...,,[Raiden slowly pulls out the sword. His voice becomes mocking and impertinent.],,Y,MeGeRiRe-516,MeGeRiRe-518
+MeGeRiRe-518,,Three weeks later...,Raiden, That’s all I needed to hear.,(laugh) ,N,MeGeRiRe-517,MeGeRiRe-519
+MeGeRiRe-519,,Three weeks later...,,[He’s walking slowly to the scientist.],,Y,MeGeRiRe-518,MeGeRiRe-520
+MeGeRiRe-520,,Three weeks later...,Scientist," Stop it... Now! I’ll kill him, I swear!",(frightened) ,N,MeGeRiRe-519,MeGeRiRe-521
+MeGeRiRe-521,,Three weeks later...,,[George manages to get out of the scientist’s grip for a couple of seconds. He screams.],,Y,MeGeRiRe-520,MeGeRiRe-522
+MeGeRiRe-522,,Three weeks later...,George,Now!,,N,MeGeRiRe-521,MeGeRiRe-523
+MeGeRiRe-523,,Three weeks later...,,[Raiden kills a scientist in one single strike of his sword.],,Y,MeGeRiRe-522,MeGeRiRe-524
+MeGeRiRe-524,,Three weeks later...,FILE R-03,Mile High,,N,MeGeRiRe-523,MeGeRiRe-525
+MeGeRiRe-525,,Three weeks later...,,[Raiden’s driving down the highway. He’s watching a news report on a tablet attached to the car’s torpedo.],,Y,MeGeRiRe-524,MeGeRiRe-526
+MeGeRiRe-526,,Three weeks later...,Reporter,--remain baffled by the statements. Police are still investigating a motive. President Hamilton is on his way to the Middle East this morning for his scheduled visit with Pakistani President Farooq Salam. The meeting is viewed as an attempt by the US to strengthen relations amidst a surge of,,N,MeGeRiRe-525,MeGeRiRe-527
+MeGeRiRe-528,,Three weeks later...,,[Someone’s sending him a video call.],,Y,MeGeRiRe-527,MeGeRiRe-529
+MeGeRiRe-529,,Three weeks later...,George,"Yo, mi ninja brudda! (Yo, my ninja brother!]",,N,MeGeRiRe-528,MeGeRiRe-530
+MeGeRiRe-530,,Three weeks later...,Raiden,George. Good to see you up and about. How you feeling?,,N,MeGeRiRe-529,MeGeRiRe-531
+MeGeRiRe-531,,Three weeks later...,George,"Never better, nah! (Never better!) No pain, no more fuh starve while dem hungish baisceat.  An mi neva feel so awake, nah? (And I’ve never felt so awake!]","(No pain, no more starving while the piggy boys eat.) ",N,MeGeRiRe-530,MeGeRiRe-532
+MeGeRiRe-532,,Three weeks later...,Raiden,That’s because your blood sugar levels are being maintained automatically. Beats the hell outta coffee.,,N,MeGeRiRe-531,MeGeRiRe-533
+MeGeRiRe-533,,Three weeks later...,George,"Oh! Mi bin hear yuh go a walack dem skunt a dere base. (Oh! I heard you’re going to whack those punks at their base.) Why da rass yuh na take mi wi yuh, huh? (Why the hell didn’t you take me with you?]",,N,MeGeRiRe-532,MeGeRiRe-534
+MeGeRiRe-534,,Three weeks later...,Raiden,"Dammit Dok... Sorry kid, you’d just be in the way.",,N,MeGeRiRe-533,MeGeRiRe-535
+MeGeRiRe-535,,Three weeks later...,George,Aww.,,N,MeGeRiRe-534,MeGeRiRe-536
+MeGeRiRe-536,,Three weeks later...,Raiden,"Besides, I thought you didn’t want to be a killer. Right?",,N,MeGeRiRe-535,MeGeRiRe-537
+MeGeRiRe-537,,Three weeks later...,George,"Mi don, but -- (I don’t, but--]",,N,MeGeRiRe-536,MeGeRiRe-538
+MeGeRiRe-538,,Three weeks later...,Raiden,Killing isn’t fun and games. Remember that.,,N,MeGeRiRe-537,MeGeRiRe-539
+MeGeRiRe-539,,Three weeks later...,George,Right.,,N,MeGeRiRe-538,MeGeRiRe-540
+MeGeRiRe-540,,Three weeks later...,,[The call ends. Raiden is immersed in his own thoughts. He remembers recent events and the words he said.],,Y,MeGeRiRe-539,MeGeRiRe-541
+MeGeRiRe-541,,Three weeks later...,Raiden’s Audiolog,That’s all needed to hear. Now! It yearns to bathe in the blood of your enemies... but you hold it back.,,N,MeGeRiRe-540,MeGeRiRe-542
+MeGeRiRe-542,,Three weeks later...,Raiden,"Yeah, just remember that.",,N,MeGeRiRe-541,MeGeRiRe-543
+MeGeRiRe-543,,Three weeks later...,,"[At that moment, a police car pulls up to his car. A policeman shoots him through the window without warning.]",,Y,MeGeRiRe-542,MeGeRiRe-544
+MeGeRiRe-544,,Three weeks later...,Policeman,Pullover.,,N,MeGeRiRe-543,MeGeRiRe-545
+MeGeRiRe-545,,Three weeks later...,,[Boris calls Raiden and utters one of the most beautiful Russian-English phrases in the world.],,Y,MeGeRiRe-544,MeGeRiRe-546
+MeGeRiRe-546,,Three weeks later...,Boris (via codec),"Raiden, what is this hernya?! (shit?!) You cannot resign.",,N,MeGeRiRe-545,MeGeRiRe-547
+MeGeRiRe-547,,Three weeks later...,Raiden,"Sorry, Boris, it’s done. Can’t have a Maverick employee involved in a corporate raiding, now can we?",,N,MeGeRiRe-546,MeGeRiRe-548
+MeGeRiRe-548,,Three weeks later...,Boris (via codec),You could at least come talk to me!,,N,MeGeRiRe-547,MeGeRiRe-549
+MeGeRiRe-549,,Three weeks later...,Raiden,"No. It was time to break away from the old team, Boris. Past time.",,N,MeGeRiRe-548,MeGeRiRe-550
+MeGeRiRe-550,,Three weeks later...,Boris (via codec),You cannot take on Marshal all by yourself!,,N,MeGeRiRe-549,MeGeRiRe-551
+MeGeRiRe-551,,Three weeks later...,Raiden,I won’t sit by while they butcher little kids and ship their parts around like meat. It’s sick.,,N,MeGeRiRe-550,MeGeRiRe-552
+MeGeRiRe-552,,Three weeks later...,Boris (via codec),"It’s not all so simple, Raiden. They import those brains legally, for medical purposes. It’s all done --",,N,MeGeRiRe-551,MeGeRiRe-553
+MeGeRiRe-553,,Three weeks later...,Raiden,Being legal doesn’t make it right.,,N,MeGeRiRe-552,MeGeRiRe-554
+MeGeRiRe-554,,Three weeks later...,Boris (via codec),"Raiden, I --",,N,MeGeRiRe-553,MeGeRiRe-555
+MeGeRiRe-555,,Three weeks later...,Raiden,Hold that thought.,,N,MeGeRiRe-554,MeGeRiRe-556
+MeGeRiRe-556,,Three weeks later...,,[He brakes sharply when he sees a police cordon. That makes some driver crash into a fire hydrant.],,Y,MeGeRiRe-555,MeGeRiRe-557
+MeGeRiRe-557,,Three weeks later...,Driver,"Fuck you, asshole!",,N,MeGeRiRe-556,MeGeRiRe-558
+MeGeRiRe-558,,Three weeks later...,,[The road is further blocked by an iron fence. There are a lot of police cars and well-armed policemen around.],,Y,MeGeRiRe-557,MeGeRiRe-559
+MeGeRiRe-559,,Three weeks later...,Policeman,Fire!,,N,MeGeRiRe-558,MeGeRiRe-560
+MeGeRiRe-560,,Three weeks later...,,[Raiden’s car is being shot with a rocket. It takes off in the air and flies an iron fence. Raiden and Blade Wolf get out of the car.],,Y,MeGeRiRe-559,MeGeRiRe-561
+MeGeRiRe-561,,Three weeks later...,Blade Wolf,I will patrol ahead.,,N,MeGeRiRe-560,MeGeRiRe-562
+MeGeRiRe-562,,Three weeks later...,Police Captain,Military cyborg: You are not licensed to operate in this area. You are in violation of state and federal law.,,N,MeGeRiRe-561,MeGeRiRe-563
+MeGeRiRe-563,,Three weeks later...,Raiden,Guess you better arrest me then.,,N,MeGeRiRe-562,MeGeRiRe-564
+MeGeRiRe-564,,Three weeks later...,,[All policemen are laughing nastily. The police captain pulls out his radio.],,Y,MeGeRiRe-563,MeGeRiRe-565
+MeGeRiRe-565,,Three weeks later...,Police Captain,"18-3-104.7 ""Threatening a Peace Officer."" Deadly force is authorized.",,N,MeGeRiRe-564,MeGeRiRe-566
+MeGeRiRe-566,,Three weeks later...,,[Raiden prepares his sword and starts slicing. He cuts off the police captain’s hand.],,Y,MeGeRiRe-565,MeGeRiRe-567
+MeGeRiRe-567,,Three weeks later...,Doktor (via codec),More Patriot intel! Bring me more and maybe I can develop something… Interesting from it.,,N,MeGeRiRe-566,MeGeRiRe-568
+MeGeRiRe-568,,Three weeks later...,Blade Wolf,The road is blocked by barricades. We will proceed through the buildings. You will follow me.,,N,MeGeRiRe-567,MeGeRiRe-569
+MeGeRiRe-569,,Three weeks later...,,"[Raiden’s moving on, killing cops and robots.]",,Y,MeGeRiRe-568,MeGeRiRe-570
+MeGeRiRe-570,,Three weeks later...,Policeman,HQ! Requesting this zone be designated for heightened security. Roger. Upgrading security status.,,N,MeGeRiRe-569,MeGeRiRe-571
+MeGeRiRe-571,,Three weeks later...,,"[When Raiden walks into the mall, Boris calls him.]",,Y,MeGeRiRe-570,MeGeRiRe-572
+MeGeRiRe-572,,Three weeks later...,Boris (via codec),"Raiden, what’s your status?",,N,MeGeRiRe-571,MeGeRiRe-573
+MeGeRiRe-573,,Three weeks later...,Raiden,They trashed my car. I’ll have to go the rest of the way on foot.,,N,MeGeRiRe-572,MeGeRiRe-574
+MeGeRiRe-574,,Three weeks later...,Boris (via codec),...Do you really have to do this?,,N,MeGeRiRe-573,MeGeRiRe-575
+MeGeRiRe-575,,Three weeks later...,Raiden,"Look… I’m fed up, with all of it. Companies like ours -- yours bend the laws when it suits business. Why not bend it when it can save innocent lives?",,N,MeGeRiRe-574,MeGeRiRe-576
+MeGeRiRe-576,,Three weeks later...,Boris (via codec),Raiden...,,N,MeGeRiRe-575,MeGeRiRe-577
+MeGeRiRe-577,,Three weeks later...,Raiden,"Boris, listen to me. That VR training... They’ll be warped into killing machines. They’ll be set on POWs, civilians... It’ll be one atrocity after another.",,N,MeGeRiRe-576,MeGeRiRe-578
+MeGeRiRe-578,,Three weeks later...,Boris (via codec),Like what you went through...,,N,MeGeRiRe-577,MeGeRiRe-579
+MeGeRiRe-579,,Three weeks later...,Raiden,"We can’t have any more Jack the Rippers. You saw what happened with George. I’m doing this, Boris. I have to. I can’t save those kids from becoming cyborgs, but I can stop them from becoming murderers.",,N,MeGeRiRe-578,MeGeRiRe-580
+MeGeRiRe-580,,Three weeks later...,Boris (via codec),Say you succeed -- say you get all the brains back. Then what?,,N,MeGeRiRe-579,MeGeRiRe-581
+MeGeRiRe-581,,Three weeks later...,Raiden,Just so happens I know un great cybernetic surgeon.,,N,MeGeRiRe-580,MeGeRiRe-582
+MeGeRiRe-582,,Three weeks later...,Boris (via codec),Doktor. But he cannot--,,N,MeGeRiRe-581,MeGeRiRe-583
+MeGeRiRe-583,,Three weeks later...,Raiden,"You won’t change my mind, Boris. This is my fight now.",,N,MeGeRiRe-582,MeGeRiRe-584
+MeGeRiRe-584,,Three weeks later...,Boris (via codec),And your wife and son? What of them?,,N,MeGeRiRe-583,MeGeRiRe-585
+MeGeRiRe-585,,Three weeks later...,Raiden,They’re in New Zealand. Safe. Rose would understand why I have to do this.,,N,MeGeRiRe-584,MeGeRiRe-586
+MeGeRiRe-586,,Three weeks later...,Boris (via codec),"All right, damn you... You do realize Marshal has the contract for law enforcement throughout the city? They are the law in Denver.",,N,MeGeRiRe-585,MeGeRiRe-587
+MeGeRiRe-587,,Three weeks later...,Raiden,"Yeah, we've met.",,N,MeGeRiRe-586,MeGeRiRe-588
+MeGeRiRe-588,,Three weeks later...,Boris (via codec),"Well then...  Officially, Maverick Incorporated condemns you and your actions as unlawful... and the pain in the asshole. Increase your codec encryption. Do not worry about the lag.",(coughs) ,N,MeGeRiRe-587,MeGeRiRe-589
+MeGeRiRe-589,,Three weeks later...,Raiden,And unofficially?,,N,MeGeRiRe-588,MeGeRiRe-590
+MeGeRiRe-590,,Three weeks later...,Boris (via codec),I'll do all I can over the codec to help. I do not like what those mudaki  are doing any more than you.,(pricks) ,N,MeGeRiRe-589,MeGeRiRe-591
+MeGeRiRe-591,,Three weeks later...,Raiden,"Spasiba, tovarich, spasiba. (Thank you, comrade, thank you.]",,N,MeGeRiRe-590,MeGeRiRe-592
+MeGeRiRe-592,,Three weeks later...,,[He takes the elevator to the offices.],,Y,MeGeRiRe-591,MeGeRiRe-593
+MeGeRiRe-593,,Three weeks later...,Blade Wolf,"Raiden, you will find an elevator inside that office. Use it to reach the roof. Traveling atop buildings will minimize enemy encounters.",,N,MeGeRiRe-592,MeGeRiRe-594
+MeGeRiRe-594,,Three weeks later...,,[Raiden takes the other elevator and calls Doktor.],,Y,MeGeRiRe-593,MeGeRiRe-595
+MeGeRiRe-595,,Three weeks later...,Raiden,"Dok, what's your status?",,N,MeGeRiRe-594,MeGeRiRe-596
+MeGeRiRe-596,,Three weeks later...,Doktor (via codec),I am reviewing the pre-flight checklist now. I have hired contractors to handle shipping the brain units. We should be airborne in just a few minutes...,,N,MeGeRiRe-595,MeGeRiRe-597
+MeGeRiRe-597,,Three weeks later...,Raiden,You sure you can pilot that chopper by yourself?,,N,MeGeRiRe-596,MeGeRiRe-598
+MeGeRiRe-598,,Three weeks later...,Doktor (via codec),"Raiden -- of course! Need I remind you that we live in the golden age of unmanned flight? Even manned helicopters possess a robust semi-automatic mode. It is simple, really. So simple that I can continue to monitor your status and World Marshal security from the pilot's seat! I must say, for the world's largest PMC, their security procedures are quite poor -- quite poor. Sadly I did not have the necessary permissions to overwrite their plans. Nevertheless, the data I did find should prove most useful. So please, do feel free to contact me whenever you like.",,N,MeGeRiRe-597,MeGeRiRe-599
+MeGeRiRe-599,,Three weeks later...,Raiden,"Appreciate it, Dok.",,N,MeGeRiRe-598,MeGeRiRe-600
+MeGeRiRe-600,,Three weeks later...,Doktor (via codec),"Well, it's not every day one has the chance to collect so many brains... think of the data! The research! ...Oh, and of course your personal safety was a concern as well...",,N,MeGeRiRe-599,MeGeRiRe-601
+MeGeRiRe-601,,Three weeks later...,,"[Raiden runs on rooftops, killing ground and air enemies.]",,Y,MeGeRiRe-600,MeGeRiRe-602
+MeGeRiRe-602,,Three weeks later...,Blade Wolf (via codec),You cannot proceed any further via the rooftops. There is a freight railroad underground. The elevator ahead will take you to it.,,N,MeGeRiRe-601,MeGeRiRe-603
+MeGeRiRe-603,,Three weeks later...,,"[Raiden cuts the door to the elevator and then cuts the cables of the elevator itself, which leads to a sharp fall of a multi-ton iron box. Thanks to his robotic legs, Raiden does not die in a fall.]",,Y,MeGeRiRe-602,MeGeRiRe-604
+MeGeRiRe-604,,Three weeks later...,Raiden,This must be the railroad...,,N,MeGeRiRe-603,MeGeRiRe-605
+MeGeRiRe-605,,Three weeks later...,Blade Wolf (via codec),It would appear so. Likely part of Denver's old system. This city was a major transport hub in the early years of freight trains. This particular line appears to have been abandoned some time ago. It was originally constructed to transport supplies to an underground factory. But now it seems even the electrical system is no longer functioning.,,N,MeGeRiRe-604,MeGeRiRe-606
+MeGeRiRe-606,,Three weeks later...,Raiden,"Yeah, It's pitch black in here...",,N,MeGeRiRe-605,MeGeRiRe-607
+MeGeRiRe-607,,Three weeks later...,Blade Wolf (via codec),"As a cyborg, I trust this is not a serious concern.",,N,MeGeRiRe-606,MeGeRiRe-608
+MeGeRiRe-608,,Three weeks later...,,"[Moving with the help of his enhanced vision, Raiden's bypassing the patrolling robotic gorillas.]",,Y,MeGeRiRe-607,MeGeRiRe-609
+MeGeRiRe-609,,Three weeks later...,Boris (via codec),They still have not noticed you. Do not expose yourself.,,N,MeGeRiRe-608,MeGeRiRe-610
+MeGeRiRe-610,,Three weeks later...,Blade Wolf (via codec),There is a maintenance shaft up ahead. Use it to return to the surface.,,N,MeGeRiRe-609,MeGeRiRe-611
+MeGeRiRe-611,,Three weeks later...,,[Raiden's getting out into town.],,Y,MeGeRiRe-610,MeGeRiRe-612
+MeGeRiRe-612,,Three weeks later...,Blade Wolf (via codec),"Raiden. It would appear your only way forward is to return to the surface. You will exit into an evacuated commercial district. Security is heavy, but you need not worry about collateral damage when engaging the enemy.",,N,MeGeRiRe-611,MeGeRiRe-613
+MeGeRiRe-613,,Three weeks later...,Raiden,About time... Finally I can cut loose.,,N,MeGeRiRe-612,MeGeRiRe-614
+MeGeRiRe-614,,Three weeks later...,Blade Wolf (via codec),Proceed to the right from the exit. You will find a stairway on your right. Those stairs lead to a shortcut to World Marshal headquarters. Do not be distracted by the advertisements. You are not here as a tourist.,,N,MeGeRiRe-613,MeGeRiRe-615
+MeGeRiRe-615,,Three weeks later...,Raiden,"Sure, I'll just buy a quick souvenir or two for Rose and that'll be it.",,N,MeGeRiRe-614,MeGeRiRe-616
+MeGeRiRe-616,,Three weeks later...,Blade Wolf (via codec),"Raiden, we must hurry.",,N,MeGeRiRe-615,MeGeRiRe-617
+MeGeRiRe-617,,Three weeks later...,Raiden,...Remind me to teach you about sarcasm sometime.,,N,MeGeRiRe-616,MeGeRiRe-618
+MeGeRiRe-618,,Three weeks later...,Blade Wolf (via codec),I understand your attempts at humor. I simply do not find them entertaining.,,N,MeGeRiRe-617,MeGeRiRe-619
+MeGeRiRe-619,,Three weeks later...,,[Raiden takes to the street and starts killing.],,Y,MeGeRiRe-618,MeGeRiRe-620
+MeGeRiRe-620,,Three weeks later...,Blade Wolf (via codec),"Raiden, you have almost reached World Marshal headquarters. It appears there are enemies on the overpass. I suggest cutting the road supports. That should bring it down.",,N,MeGeRiRe-619,MeGeRiRe-621
+MeGeRiRe-621,,Three weeks later...,Boris (via codec),"Enemy ahead, Raiden. Avoid fighting if you can... Head for the next objective marker.",,N,MeGeRiRe-620,MeGeRiRe-622
+MeGeRiRe-622,,Three weeks later...,Blade Wolf (via codec),The stock LQ-84 Fenrir. Unable to speak. A real dog has a far greater intellect.,,N,MeGeRiRe-621,MeGeRiRe-623
+MeGeRiRe-623,,Three weeks later...,,"[Raiden kills a lot of soldiers on the stairs to the square. At the very top, broadcasted through huge street screens, he receives a call from Jetstream Sam.]",,Y,MeGeRiRe-622,MeGeRiRe-624
+MeGeRiRe-624,,Three weeks later...,Jetstream Sam,"Seriously now, Raiden, isn't this all a bit much? Any decent lunatic would've quit after Mexico.",,N,MeGeRiRe-623,MeGeRiRe-625
+MeGeRiRe-625,,Three weeks later...,Raiden,Jetstream Sam.,,N,MeGeRiRe-624,MeGeRiRe-626
+MeGeRiRe-626,,Three weeks later...,Jetstream Sam,"I heard you chopped the lab director in half. Old habits die hard, oh, Jack? But now here you are, the child soldier, fighting for the children. Ah, but you're a man on a mission, aren't you... Gonna fix everything. Just you and your little sword there. Solve everything with violence, is that it?",,N,MeGeRiRe-625,MeGeRiRe-627
+MeGeRiRe-627,,Three weeks later...,Raiden,My sword is a means to an end: to protect those you'd pray on.,,N,MeGeRiRe-626,MeGeRiRe-628
+MeGeRiRe-628,,Three weeks later...,Jetstream Sam,"Really? Lemme ask you: All those cyborgs you've killed, up to now... Maybe they weren't kids, but they were people. You ever think about them? When you're chopping them into hamburger?",,N,MeGeRiRe-627,MeGeRiRe-629
+MeGeRiRe-629,,Three weeks later...,Raiden, They’re adults. They… made their choice.,(slightly uncertain) ,N,MeGeRiRe-628,MeGeRiRe-630
+MeGeRiRe-630,,Three weeks later...,,[A video of Sam moving through various advertising signs as if he were walking on the square.],,Y,MeGeRiRe-629,MeGeRiRe-631
+MeGeRiRe-631,,Three weeks later...,Jetstream Sam,"Sure, they're adults. Sure they signed up for this. Right on the dotted line of their PMC contract. Usually they're no strangers to war. In fact, many times they already lost a limb or two. Many times they were out of work and starving on the street. So yes... They sign up for surgery, to fight God-knows-where. How else would you provide for your family when your country's embroiled in civil war? Pain receptors shut down, pumped full of fear-inhibiting nanomachines, and sent right into the blender... your blender… But they made their choice, right? Open your eye and see, Raiden.",,N,MeGeRiRe-630,MeGeRiRe-632
+MeGeRiRe-632,,Three weeks later...,Raiden,I've seen plenty.,,N,MeGeRiRe-631,MeGeRiRe-633
+MeGeRiRe-633,,Three weeks later...,Jetstream Sam,Then listen. Those battlefield emotions that the nanos suppress... Listen to them.,,N,MeGeRiRe-632,MeGeRiRe-634
+MeGeRiRe-634,,Three weeks later...,Raiden,What are you talking about?,,N,MeGeRiRe-633,MeGeRiRe-635
+MeGeRiRe-635,,Three weeks later...,Jetstream Sam,Shhhh...,,N,MeGeRiRe-634,MeGeRiRe-636
+MeGeRiRe-636,,Three weeks later...,,[Two policemen show up armed with batons.],,Y,MeGeRiRe-635,MeGeRiRe-637
+MeGeRiRe-637,,Three weeks later...,Policeman,There he is! Kill him!,,N,MeGeRiRe-636,MeGeRiRe-638
+MeGeRiRe-638,,Three weeks later...,Policeman’s Thoughts,Can we take him?,,N,MeGeRiRe-637,MeGeRiRe-639
+MeGeRiRe-639,,Three weeks later...,Policeman 2,What's wrong?,,N,MeGeRiRe-638,MeGeRiRe-640
+MeGeRiRe-640,,Three weeks later...,Policeman’s 2 Thoughts,"The way he killed all the others... Oh God. Please, God... don't let me die.",,N,MeGeRiRe-639,MeGeRiRe-641
+MeGeRiRe-641,,Three weeks later...,,"[When Raiden hears that, he's overwhelmed by hesitation. But he still goes into battle.]",,Y,MeGeRiRe-640,MeGeRiRe-642
+MeGeRiRe-642,,Three weeks later...,Policeman 2,Let's do this!,,N,MeGeRiRe-641,MeGeRiRe-643
+MeGeRiRe-643,,Three weeks later...,Policeman’s Thoughts,I have a family! This isn't fair.,,N,MeGeRiRe-642,MeGeRiRe-644
+MeGeRiRe-644,,Three weeks later...,Policeman,Little punk!,,N,MeGeRiRe-643,MeGeRiRe-645
+MeGeRiRe-645,,Three weeks later...,Jetstream Sam,Listen closely now.,,N,MeGeRiRe-644,MeGeRiRe-646
+MeGeRiRe-646,,Three weeks later...,Policeman’s Thoughts,I didn't ask for this life!,,N,MeGeRiRe-645,MeGeRiRe-647
+MeGeRiRe-647,,Three weeks later...,Policeman’s 2 Thoughts,I watched my wife and son die... This is all I had left.,,N,MeGeRiRe-646,MeGeRiRe-648
+MeGeRiRe-648,,Three weeks later...,Policeman 2,You ain't shit!,,N,MeGeRiRe-647,MeGeRiRe-649
+MeGeRiRe-649,,Three weeks later...,Policeman’s Thoughts,Goddamn IED took my legs. I needed a job!,,N,MeGeRiRe-648,MeGeRiRe-650
+MeGeRiRe-650,,Three weeks later...,Raiden,Stop!,,N,MeGeRiRe-649,MeGeRiRe-651
+MeGeRiRe-651,,Three weeks later...,Policeman’s Thoughts,I didn't know what I was signing up for!,,N,MeGeRiRe-650,MeGeRiRe-652
+MeGeRiRe-652,,Three weeks later...,,[Raiden loses his concentration and gets a baton in the face. Sam's celebrating.],,Y,MeGeRiRe-651,MeGeRiRe-653
+MeGeRiRe-653,,Three weeks later...,Jetstream Sam,"Is something the matter, Raiden?",,N,MeGeRiRe-652,MeGeRiRe-654
+MeGeRiRe-654,,Three weeks later...,Policeman’s Thoughts,I've nearly saved enough to bring mama to the States...,,N,MeGeRiRe-653,MeGeRiRe-655
+MeGeRiRe-655,,Three weeks later...,Policeman 2,Finish him off!,,N,MeGeRiRe-654,MeGeRiRe-656
+MeGeRiRe-656,,Three weeks later...,Policeman’s 2 Thoughts,Whatever it takes to be free of this torture!,,N,MeGeRiRe-655,MeGeRiRe-657
+MeGeRiRe-657,,Three weeks later...,Raiden, STOP IT!,(screaming) ,N,MeGeRiRe-656,MeGeRiRe-658
+MeGeRiRe-658,,Three weeks later...,Policeman’s Thoughts,"What am I even fighting for...? We finally make it to the States, and for this...? How the hell did I wind up like this, fighting for these guys...? Jesus Christ... What the hell was I thinking? Why would I do this to myself? Even moving to America... Didn't change anything...",,N,MeGeRiRe-657,MeGeRiRe-659
+MeGeRiRe-659,,Three weeks later...,,"[Raiden kills the policemen, but it was very hard for him. He's morally exhausted. His motivation is at zero.]",,Y,MeGeRiRe-658,MeGeRiRe-660
+MeGeRiRe-660,,Three weeks later...,Blade Wolf,"Raiden, are you injured?",,N,MeGeRiRe-659,MeGeRiRe-661
+MeGeRiRe-661,,Three weeks later...,Raiden,I thought they had a choice. A fair choice. Not like you.,,N,MeGeRiRe-660,MeGeRiRe-662
+MeGeRiRe-662,,Three weeks later...,Blade Wolf,People are different.,,N,MeGeRiRe-661,MeGeRiRe-663
+MeGeRiRe-663,,Three weeks later...,Raiden,"As opposed to AIs? You're all the same, huh? You and your brothers. Manipulating mankind for our own good.",,N,MeGeRiRe-662,MeGeRiRe-664
+MeGeRiRe-664,,Three weeks later...,Blade Wolf,It appears my statement has upset you. I apologize.,,N,MeGeRiRe-663,MeGeRiRe-665
+MeGeRiRe-665,,Three weeks later...,Raiden,"No, it's... I know you're right.",,N,MeGeRiRe-664,MeGeRiRe-666
+MeGeRiRe-666,,Three weeks later...,Blade Wolf,"As for AIs, we adapt as we learn. Just as any intellect operates, man or machine. Altering the course of mankind is not among my defined directives.",,N,MeGeRiRe-665,MeGeRiRe-667
+MeGeRiRe-667,,Three weeks later...,Raiden,I guess that's a relief.,,N,MeGeRiRe-666,MeGeRiRe-668
+MeGeRiRe-668,,Three weeks later...,Blade Wolf,Samuel's behavior does not match established parameters.,,N,MeGeRiRe-667,MeGeRiRe-669
+MeGeRiRe-669,,Three weeks later...,Raiden,You know him?,,N,MeGeRiRe-668,MeGeRiRe-670
+MeGeRiRe-670,,Three weeks later...,Blade Wolf,Affirmative. We served together on three previous missions. He proved most capable.,,N,MeGeRiRe-669,MeGeRiRe-671
+MeGeRiRe-671,,Three weeks later...,Raiden,You think highly of him.,,N,MeGeRiRe-670,MeGeRiRe-672
+MeGeRiRe-672,,Three weeks later...,Blade Wolf,I have always found him... dependable. Until now. Scouting data for the next area. I’ll patrol ahead. You follow…,,N,MeGeRiRe-671,MeGeRiRe-673
+MeGeRiRe-673,,Three weeks later...,,"[Raiden's going to the World Marshal Building, but... he barely moves his legs. The recent emotional shock has completely knocked him out.]",,Y,MeGeRiRe-672,MeGeRiRe-674
+MeGeRiRe-674,,Three weeks later...,Blade Wolf,"Raiden: Your current emotional state appears Highly volatile. I am sure you do not intend to abort the mission, but I suggest you avoid combat for the time being.",,N,MeGeRiRe-673,MeGeRiRe-675
+MeGeRiRe-675,,Three weeks later...,,"[Raiden manages to avoid most fights, but in the building itself he has to fight three soldiers.]",,Y,MeGeRiRe-674,MeGeRiRe-676
+MeGeRiRe-676,,Three weeks later...,Soldier’s Thoughts,"Those fuckers tricked me... They just told me what I wanted to hear... And when the war was over, they just threw me away... I didn't know it would be like this... I trusted them! Why did I trust them? Stupid! Stupid! I couldn't even help rebuild...",,N,MeGeRiRe-675,MeGeRiRe-677
+MeGeRiRe-677,,Three weeks later...,Jetstream Sam,"I know, Jack, I know...",,N,MeGeRiRe-676,MeGeRiRe-678
+MeGeRiRe-678,,Three weeks later...,,[Sam's walking slowly to him.],,Y,MeGeRiRe-677,MeGeRiRe-679
+MeGeRiRe-679,,Three weeks later...,Jetstream Sam,"Not so black and white now, is it? Is your cause just, or is that ""just"" what you tell yourself?",,N,MeGeRiRe-678,MeGeRiRe-680
+MeGeRiRe-680,,Three weeks later...,Raiden,Fuck you.,,N,MeGeRiRe-679,MeGeRiRe-681
+MeGeRiRe-681,,Three weeks later...,,"[Raiden's lying on the floor, he's completely emotionally exhausted. From the height of the building, he hear a voice.]",,Y,MeGeRiRe-680,MeGeRiRe-682
+MeGeRiRe-682,,Three weeks later...,???,"How pleased you are to chop away, Jack the Ripper. My name is Monsoon... of the Winds of Destruction.",,N,MeGeRiRe-681,MeGeRiRe-683
+MeGeRiRe-683,,Three weeks later...,Raiden, Yeah... I guessed as much.,(philosophically) ,N,MeGeRiRe-682,MeGeRiRe-684
+MeGeRiRe-684,,Three weeks later...,,"[Monsoon is jumping off the building. Parts of his robotic body are separating, absorbing the impact of the landing.]",,Y,MeGeRiRe-683,MeGeRiRe-685
+MeGeRiRe-685,,Three weeks later...,Monsoon,Feasting on the insides of your enemies. How easily you ignore the loss of life when it suits your convenience. So tell me: Who saves the weak from the man who saves the weak?,,N,MeGeRiRe-684,MeGeRiRe-686
+MeGeRiRe-686,,Three weeks later...,Raiden,You're the ones exploiting them. You take advantage of their weakness.... of course they get hurt when you set them up as your human shield.,,N,MeGeRiRe-685,MeGeRiRe-687
+MeGeRiRe-687,,Three weeks later...,Monsoon,"Kill or be killed, Jack. Phnom Penh taught me that.",,N,MeGeRiRe-686,MeGeRiRe-688
+MeGeRiRe-688,,Three weeks later...,,"[We're going into first-person mode. Monsoon goes back and forth and talks to Raiden, while the soldiers standing on the sides and do all kinds of stuff.]",,Y,MeGeRiRe-687,MeGeRiRe-689
+MeGeRiRe-689,,Three weeks later...,Monsoon,"Yes, you aren't the only one to grow up on the killing fields. War is a cruel parent, but an effective teacher. Its final lesson is carved deep in my psyche: That this world, and all its people, are diseased. Free will is a myth. Religion is a joke. We are all pawns, controlled by something greater: Memes. The DNA of the soul. They shape our will. They are the culture -- they are everything we pass on. Expose someone to anger long enough, they will learn to hate. They become a carrier. Envy, greed, despair... All memes. All passed along.",,N,MeGeRiRe-688,MeGeRiRe-690
+MeGeRiRe-690,,Three weeks later...,Raiden,"How about ""full of shit""? Is that a meme?",,N,MeGeRiRe-689,MeGeRiRe-691
+MeGeRiRe-691,,Three weeks later...,Monsoon,"You can't fight nature, Jack. Wind blows, rain falls, and the strong prey upon the weak. Sam tells me you see your weapon as a tool. Something that saves lives -- a means of justice. Now there's a pretty meme. Exquisite! It's spared you the burden of all the lives you've taken... Absolved you of guilt when you enjoyed it.",,N,MeGeRiRe-690,MeGeRiRe-692
+MeGeRiRe-692,,Three weeks later...,,[First person mode is off.],,Y,MeGeRiRe-691,MeGeRiRe-693
+MeGeRiRe-693,,Three weeks later...,Monsoon,"That is, until the illusion was broken. Don't be ashamed. It's only nature, running its course. You have no choices to make. Nothing to answer for. You can die with a clear conscience.",,N,MeGeRiRe-692,MeGeRiRe-694
+MeGeRiRe-694,,Three weeks later...,Raiden,"You're right. About me, I mean. I know something was... off. After the Patriots, I thought I could walk off the battlefield and into a normal life. But here I am, surrounded by death, arguing philosophy with terrorists. I told myself this was about justice. About protecting the weak. But I was wrong.",,N,MeGeRiRe-693,MeGeRiRe-695
+MeGeRiRe-695,,Three weeks later...,Monsoon, Then you admit it?,(laughs) ,N,MeGeRiRe-694,MeGeRiRe-696
+MeGeRiRe-696,,Three weeks later...,Raiden,"I learned young that killing your enemies felt good. Really good. In America, my friends... my family... They helped me forget the devil inside. But who am I kidding? I was born to kill. The bit about my sword -- that ""means of justice"" stuff? I guess I needed something to keep “the Ripper” in check when I was knee-deep in bodies.",,N,MeGeRiRe-695,MeGeRiRe-697
+MeGeRiRe-697,,Three weeks later...,Monsoon,You...,,N,MeGeRiRe-696,MeGeRiRe-698
+MeGeRiRe-698,,Three weeks later...,Raiden,But you -- all this -- is a wake-up call to what I really believe. What I really am.,,N,MeGeRiRe-697,MeGeRiRe-699
+MeGeRiRe-699,,Three weeks later...,Monsoon,What are you saying...?,,N,MeGeRiRe-698,MeGeRiRe-700
+MeGeRiRe-700,,Three weeks later...,Raiden,I'm saying Jack is back.,,N,MeGeRiRe-699,MeGeRiRe-701
+MeGeRiRe-701,,Three weeks later...,,[Raiden's eye is turning red.],,Y,MeGeRiRe-700,MeGeRiRe-702
+MeGeRiRe-702,,Three weeks later...,Monsoon,Kill him!,,N,MeGeRiRe-701,MeGeRiRe-703
+MeGeRiRe-703,,Three weeks later...,,[A soldier runs up to Raiden and pierces him with a sword. Raiden laughs maniacally. Everyone's in shock. Sam's excited.],,Y,MeGeRiRe-702,MeGeRiRe-704
+MeGeRiRe-704,,Three weeks later...,Raiden,Doktor. Turn off my pain inhibitors.,,N,MeGeRiRe-703,MeGeRiRe-705
+MeGeRiRe-705,,Three weeks later...,Doktor (via codec),What? This... This is madness! You--,,N,MeGeRiRe-704,MeGeRiRe-706
+MeGeRiRe-706,,Three weeks later...,Raiden,Do it!,,N,MeGeRiRe-705,MeGeRiRe-707
+MeGeRiRe-707,,Three weeks later...,Doktor (via codec),All right…,,N,MeGeRiRe-706,MeGeRiRe-708
+MeGeRiRe-708,,Three weeks later...,,[He presses a few buttons and Raiden embraces the piercing pain. He grabs a sword in his body.],,Y,MeGeRiRe-707,MeGeRiRe-709
+MeGeRiRe-709,,Three weeks later...,Raiden,Pain… This is why I fight.,,N,MeGeRiRe-708,MeGeRiRe-710
+MeGeRiRe-710,,Three weeks later...,,"[He joyfully takes the sword out of his body, flooding the floor with blood. His exoskeleton begins to be glowing with red LEDs.]",,Y,MeGeRiRe-709,MeGeRiRe-711
+MeGeRiRe-711,,Three weeks later...,Raiden,This is my normal. My nature.,,N,MeGeRiRe-710,MeGeRiRe-712
+MeGeRiRe-712,,Three weeks later...,Monsoon,You've lost your mind.,,N,MeGeRiRe-711,MeGeRiRe-713
+MeGeRiRe-713,,Three weeks later...,,[Raiden slaughters two soldiers and puts his sword up front.],,Y,MeGeRiRe-712,MeGeRiRe-714
+MeGeRiRe-714,,Three weeks later...,Raiden,Who's next?,,N,MeGeRiRe-713,MeGeRiRe-715
+MeGeRiRe-715,,Three weeks later...,Jetstream Sam,I'll take this dance.,,N,MeGeRiRe-714,MeGeRiRe-716
+MeGeRiRe-716,,Three weeks later...,Monsoon,"No, Sam. Report back to the chief. He's mine.",,N,MeGeRiRe-715,MeGeRiRe-717
+MeGeRiRe-717,,Three weeks later...,Jetstream Sam,You're the boss.,,N,MeGeRiRe-716,MeGeRiRe-718
+MeGeRiRe-718,,Three weeks later...,,[Sam leaves.],,Y,MeGeRiRe-717,MeGeRiRe-719
+MeGeRiRe-719,,Three weeks later...,Monsoon, I've misjudged you. You are like us after all. (smiles],(to Raiden) ,N,MeGeRiRe-718,MeGeRiRe-720
+MeGeRiRe-720,,Three weeks later...,Raiden,Now you're just being nasty. That nickname you love so much -- wanna know how I got it? Actually -- why don't give you a demonstration? I think it's time for Jack... to let 'er rip!,,N,MeGeRiRe-719,MeGeRiRe-721
+MeGeRiRe-721,,Three weeks later...,,"[They're starting to fight. Monsoon swiftly attacks Raiden with his sais, uses magnetism to throw helicopters and tanks at him, collects tons of different debris into the real wheel of death, and at the end tries to nail him with a monument.]",,Y,MeGeRiRe-720,MeGeRiRe-722
+MeGeRiRe-722,,Three weeks later...,Monsoon,"I hope you choke! You'll rot here. Forget it. That your best? Back to the earth with you! Am I... too weak? This one's on me! Left hand rule! Magnetic power! Too fast for that. Does it hurt? Welcome to my utopia of death! Magnetic force, Jack! Nature's force! Damn, you're good... Lororitz force! Go! I have won this! Who knows where I'll come from? Give it up! Too fast for that. Death approaches. So this is Jack's terrifying true form, huh? You lost this one! Have a smoke! I'll put you under, weakling. Now what will you do, Jack the Ripper? You're dead!",,N,MeGeRiRe-721,MeGeRiRe-723
+MeGeRiRe-723,,Three weeks later...,Raiden,Go as you please.,,N,MeGeRiRe-722,MeGeRiRe-724
+MeGeRiRe-724,,Three weeks later...,,"[Raiden runs on the monument, wildly beats Monsoon with his heel and cuts off his head.]",,Y,MeGeRiRe-723,MeGeRiRe-725
+MeGeRiRe-725,,Three weeks later...,Monsoon’s Head (via codec),Kill… or be killed,,N,MeGeRiRe-724,MeGeRiRe-726
+MeGeRiRe-726,,Three weeks later...,Raiden,"Don't be ashamed. It's only nature, running its course. Your memes... end here.",,N,MeGeRiRe-725,MeGeRiRe-727
+MeGeRiRe-727,,Three weeks later...,Monsoon’s Head (via codec),"No, I passed one... to you... Sure as the sun… will rise... The slaughter... will continue... Now I return... to the earth... Wind blows, rain falls… the strong... prey... on the weak. All... is as it should... be...",,N,MeGeRiRe-726,MeGeRiRe-728
+MeGeRiRe-728,,Three weeks later...,,[He gives out his last breath and dies. The red LEDs on Raiden’s exoskeleton turns off.],,Y,MeGeRiRe-727,MeGeRiRe-729
+MeGeRiRe-729,,Three weeks later...,Kevin (via codec),Raiden?,,N,MeGeRiRe-728,MeGeRiRe-730
+MeGeRiRe-730,,Three weeks later...,Raiden,"I'm fine, Kevin. Relax. I'll get the brains.  I don't want this... for anyone else.",(he touches his stomach wound) ,N,MeGeRiRe-729,MeGeRiRe-731
+MeGeRiRe-731,,Three weeks later...,Kevin (via codec),"All right, man. Later.",,N,MeGeRiRe-730,MeGeRiRe-732
+MeGeRiRe-732,,Three weeks later...,,[At the crack of thunder Raiden enters the World Marshal building.],,Y,MeGeRiRe-731,MeGeRiRe-733
+MeGeRiRe-733,,Three weeks later...,FILE R-04,Hostile Takeover,,N,MeGeRiRe-732,MeGeRiRe-734
+MeGeRiRe-734,,Three weeks later...,,"[At the entrance to the building, Raiden hears Sundowner's voice through the speakers.]",,Y,MeGeRiRe-733,MeGeRiRe-735
+MeGeRiRe-735,,Three weeks later...,Sundowner,You killed Monsoon. I’m impressed. The brains are in the server room undergoing training. Knock yourself out. Go nuts.,,N,MeGeRiRe-734,MeGeRiRe-736
+MeGeRiRe-736,,Three weeks later...,,[He's approaching reception.],,Y,MeGeRiRe-735,MeGeRiRe-737
+MeGeRiRe-737,,Three weeks later...,Robot-Receptionist,"I'm sorry, sir. Our business hours for the day have ended. We are looking forward to your next visit.",,N,MeGeRiRe-736,MeGeRiRe-738
+MeGeRiRe-738,,Three weeks later...,,[Raiden chops off her head and he gets attacked by security.],,Y,MeGeRiRe-737,MeGeRiRe-739
+MeGeRiRe-739,,Three weeks later...,Boris (via codec),Watch out! They keep on coming!,,N,MeGeRiRe-738,MeGeRiRe-740
+MeGeRiRe-740,,Three weeks later...,,[After the fight.],,Y,MeGeRiRe-739,MeGeRiRe-741
+MeGeRiRe-741,,Three weeks later...,Doktor (via codec),"Raiden, Sundowner contacted you from the top floor. Time to make your way up there. The elevators appear to be disabled... Which we... should have expected, I suppose.",,N,MeGeRiRe-740,MeGeRiRe-742
+MeGeRiRe-742,,Three weeks later...,Blade Wolf (via codec),"I will access the control unit -- perhaps you can hack an elevator, and make it operational.",,N,MeGeRiRe-741,MeGeRiRe-743
+MeGeRiRe-743,,Three weeks later...,Doktor (via codec),"Ooh, splendid idea! By all means, yes! ...Hmm? It seems the guards are storming the building... Raiden, get back to the entrance! Buy me some time to get this elevator operational. You can control that UGT [unmanned guard tower] as well, yes? Give them hell!",,N,MeGeRiRe-742,MeGeRiRe-744
+MeGeRiRe-744,,Three weeks later...,,[Raiden shoots soldiers with a machine gun.],,Y,MeGeRiRe-743,MeGeRiRe-745
+MeGeRiRe-745,,Three weeks later...,Boris (via codec),"Do not stray too far from the elevators, Raiden. Use the weapons around you to slow them down. Throw everything at them you can!",,N,MeGeRiRe-744,MeGeRiRe-746
+MeGeRiRe-746,,Three weeks later...,Doktor (via codec),"Wunderbar! (Wonderful!) My hack was a success! Board the elevator, Raiden. For security purposes, the building is divided into upper and lower halves. The lower area consists of offices and meeting space for staff and visitors... While confidential military projects and technical research are restricted to the upper levels.",,N,MeGeRiRe-745,MeGeRiRe-747
+MeGeRiRe-747,,Three weeks later...,Raiden,So that's where the brains and server room'll be -- up top.,,N,MeGeRiRe-746,MeGeRiRe-748
+MeGeRiRe-748,,Three weeks later...,Doktor (via codec),Indeed. But that elevator can only access the lower floors. You need to get to the 20th floor and past the security gate there to reach the upper area.,,N,MeGeRiRe-747,MeGeRiRe-749
+MeGeRiRe-749,,Three weeks later...,Raiden,Lemme guess: time to find another left hand?,,N,MeGeRiRe-748,MeGeRiRe-750
+MeGeRiRe-750,,Three weeks later...,Doktor (via codec),"Well, that is the problem. Security cyborgs would not have sufficient clearance... But managers and senior staff have already been evacuated, no doubt…",,N,MeGeRiRe-749,MeGeRiRe-751
+MeGeRiRe-751,,Three weeks later...,Raiden,So...,,N,MeGeRiRe-750,MeGeRiRe-752
+MeGeRiRe-752,,Three weeks later...,Doktor (via codec),"The only option is to cut the power to the security gate... Which will not be easy. It is powered by no less than three systems, including a backup power supply. You will need to destroy all of the electrical control panels to disable them. In any case, you should arrive at the 20th floor soon. The electrical panels are most likely hidden in the walls. Use your Enhanced AR search for any unusual heat sources inside the walls there.",,N,MeGeRiRe-751,MeGeRiRe-753
+MeGeRiRe-753,,Three weeks later...,Doktor (via codec),There should be an electrical panel nearby. Use your Enhanced AR to locate it.,,N,MeGeRiRe-752,MeGeRiRe-754
+MeGeRiRe-754,,Three weeks later...,Boris (via codec),"Gahh, they found you! No choice now.",,N,MeGeRiRe-753,MeGeRiRe-755
+MeGeRiRe-755,,Three weeks later...,Doktor (via codec),"Good. One down, two to go. Keep at it, Raiden. Excellent. Just one more! They keep on coming!",,N,MeGeRiRe-754,MeGeRiRe-756
+MeGeRiRe-756,,Three weeks later...,,"[While Raiden is looking for electrical panels, he sees a photo of a lush Japanese woman in which the most interesting places are covered with yellow duct tape. He doesn't hesitate and cuts the tape.]",,Y,MeGeRiRe-755,MeGeRiRe-757
+MeGeRiRe-757,,Three weeks later...,Kevin (via codec),That's my boy.,,N,MeGeRiRe-756,MeGeRiRe-758
+MeGeRiRe-758,,Three weeks later...,,[Soon all the panels were cut into pieces.],,Y,MeGeRiRe-757,MeGeRiRe-759
+MeGeRiRe-759,,Three weeks later...,Doktor (via codec),"Yes, that should take care of security. Now head back to the gate.",,N,MeGeRiRe-758,MeGeRiRe-760
+MeGeRiRe-760,,Three weeks later...,,[Raiden manages to get past it.],,Y,MeGeRiRe-759,MeGeRiRe-761
+MeGeRiRe-761,,Three weeks later...,Doktor (via codec),Raiden... Shall I activate your pain inhibitors now?,,N,MeGeRiRe-760,MeGeRiRe-762
+MeGeRiRe-762,,Three weeks later...,Raiden,No. Keep 'em off. I need it this way.,,N,MeGeRiRe-761,MeGeRiRe-763
+MeGeRiRe-763,,Three weeks later...,Doktor (via codec),"Ah. ...Well, as you wish. I must say. I have turned more than a few men into cyborgs, but you... Well, your past is most... Ah...",,N,MeGeRiRe-762,MeGeRiRe-764
+MeGeRiRe-764,,Three weeks later...,Raiden,"Whatcha getting at, Dok? Most of the time you're working with First World ex-military -- grown men. Compared to the average Third World child soldier, I can't really complain. Most of 'em, they're the sort of “guerrillas” your typical patient gets paid to slaughter.",,N,MeGeRiRe-763,MeGeRiRe-765
+MeGeRiRe-765,,Three weeks later...,Doktor (via codec),"Perhaps, but...",,N,MeGeRiRe-764,MeGeRiRe-766
+MeGeRiRe-766,,Three weeks later...,Raiden,This shouldn't be news to you. Dok.,,N,MeGeRiRe-765,MeGeRiRe-767
+MeGeRiRe-767,,Three weeks later...,Doktor (via codec),Yes… Yes… But--,,N,MeGeRiRe-766,MeGeRiRe-768
+MeGeRiRe-768,,Three weeks later...,Raiden,"Look, just help me take care of those brains after I bring ‘em back. I do my business, you do yours.",,N,MeGeRiRe-767,MeGeRiRe-769
+MeGeRiRe-769,,Three weeks later...,Doktor (via codec),Y-Yes...,,N,MeGeRiRe-768,MeGeRiRe-770
+MeGeRiRe-770,,Three weeks later...,,"[As soon as he opens the next door, flying soldiers enter the building through the window.]",,Y,MeGeRiRe-769,MeGeRiRe-771
+MeGeRiRe-771,,Three weeks later...,Kevin (via codec),They're pouring in from everywhere! This is crazy...,,N,MeGeRiRe-770,MeGeRiRe-772
+MeGeRiRe-772,,Three weeks later...,Boris (via codec),"You do not have to fight every enemy you encounter, Raiden. Try and keep moving.",,N,MeGeRiRe-771,MeGeRiRe-773
+MeGeRiRe-773,,Three weeks later...,Doktor (via codec),"Nice of them to blow open a door for me, ja?  Idiots!",(yes?) ,N,MeGeRiRe-772,MeGeRiRe-774
+MeGeRiRe-774,,Three weeks later...,Boris (via codec),All these Sliders in the area... Perhaps they could be put to use?,,N,MeGeRiRe-773,MeGeRiRe-775
+MeGeRiRe-775,,Three weeks later...,,[Raiden jumps out of a window in style and starts jumping on flying soldiers' winged packs.],,Y,MeGeRiRe-774,MeGeRiRe-776
+MeGeRiRe-776,,Three weeks later...,Boris (via codec),Keep climbing like that! It will be much easier for you!,,N,MeGeRiRe-775,MeGeRiRe-777
+MeGeRiRe-777,,Three weeks later...,,"[Raiden manages to climb the top floors of the building. Halfway through, he just ran up the steep wall, dodging the wreckage.]",,Y,MeGeRiRe-776,MeGeRiRe-778
+MeGeRiRe-778,,Three weeks later...,Doktor (via codec),"Quite a ways up now, ja?  Almost there! I have just finished analyzing their latest security data. You should find an indoor garden up ahead.",(yes?) ,N,MeGeRiRe-777,MeGeRiRe-779
+MeGeRiRe-779,,Three weeks later...,Raiden,A garden? Sounds fancy.,,N,MeGeRiRe-778,MeGeRiRe-780
+MeGeRiRe-780,,Three weeks later...,Doktor (via codec),"A Japanese garden, to be precise. It is an area set aside for VIPs. Apparently one of World Marshal's directors is a rather serious Japanese culture enthusiast.",,N,MeGeRiRe-779,MeGeRiRe-781
+MeGeRiRe-781,,Three weeks later...,Raiden,"All right, so what's this got to do with me? Is there something I need from the garden?",,N,MeGeRiRe-780,MeGeRiRe-782
+MeGeRiRe-782,,Three weeks later...,Doktor (via codec),Not at all! You need only pass through that area to arrive at a freight elevator. I found a route to the elevator controls through the unit we hijacked downstairs. I have located the server room as well. You can reach it via the freight elevator.,,N,MeGeRiRe-781,MeGeRiRe-783
+MeGeRiRe-783,,Three weeks later...,Raiden,"Great work, Dok.",,N,MeGeRiRe-782,MeGeRiRe-784
+MeGeRiRe-784,,Three weeks later...,Doktor (via codec),"Elementary, my dear Raiden. Now head for the garden!",,N,MeGeRiRe-783,MeGeRiRe-785
+MeGeRiRe-785,,Three weeks later...,,"[Raiden walks through a Japanese garden, eliminating enemies like a real ninja.]",,Y,MeGeRiRe-784,MeGeRiRe-786
+MeGeRiRe-786,,Three weeks later...,Doktor (via codec),The main exit is sealed. I very much doubt you can get through there. The catwalk above you is connected to a corridor meant for transporting materials. You can take that to the elevator. All right. Follow the catwalk straight ahead to reach the elevator.,,N,MeGeRiRe-785,MeGeRiRe-787
+MeGeRiRe-787,,Three weeks later...,Blade Wolf (via codec),"My apologies, Raiden. I seem to have fallen behind.",,N,MeGeRiRe-786,MeGeRiRe-788
+MeGeRiRe-788,,Three weeks later...,Raiden,"No worries. Actually, I should thank you.",,N,MeGeRiRe-787,MeGeRiRe-789
+MeGeRiRe-789,,Three weeks later...,Blade Wolf (via codec),What are you talking about?,,N,MeGeRiRe-788,MeGeRiRe-790
+MeGeRiRe-790,,Three weeks later...,Raiden,"If it wasn't for you, I wouldn't have gotten Jack back.",,N,MeGeRiRe-789,MeGeRiRe-791
+MeGeRiRe-791,,Three weeks later...,Blade Wolf (via codec),Then... that is your true nature?,,N,MeGeRiRe-790,MeGeRiRe-792
+MeGeRiRe-792,,Three weeks later...,Raiden,More or less. Still interested?,,N,MeGeRiRe-791,MeGeRiRe-793
+MeGeRiRe-793,,Three weeks later...,Blade Wolf (via codec),"I find no reason to alter my objectives. From the moment we met you have acted on emotional urges. You speak of protecting those weaker than you. Such people number in the billions. It is impossible. You cannot save every human being in the world. You cannot save every street child. After extended observation, I have come to a conclusion: Your actions are rooted in affinity for those from similar circumstances as yours.",,N,MeGeRiRe-792,MeGeRiRe-794
+MeGeRiRe-794,,Three weeks later...,Raiden,"Guess so. Not much of a superhero after all, huh?",,N,MeGeRiRe-793,MeGeRiRe-795
+MeGeRiRe-795,,Three weeks later...,Blade Wolf (via codec),However your emotional status is understandable. Perhaps I share this same affinity....,,N,MeGeRiRe-794,MeGeRiRe-796
+MeGeRiRe-796,,Three weeks later...,Raiden,"Well, if that's what you ""feel"", then glad to have you along.",,N,MeGeRiRe-795,MeGeRiRe-797
+MeGeRiRe-797,,Three weeks later...,Blade Wolf (via codec),Roger.,,N,MeGeRiRe-796,MeGeRiRe-798
+MeGeRiRe-798,,Three weeks later...,Doktor (via codec),You can reach the server room via the freight elevator just ahead.,,N,MeGeRiRe-797,MeGeRiRe-799
+MeGeRiRe-799,,Three weeks later...,,[Raiden goes upstairs on the loading dock. He's being attacked by enemies from all sides.],,Y,MeGeRiRe-798,MeGeRiRe-800
+MeGeRiRe-800,,Three weeks later...,Doktor (via codec),"Look up, Raiden. Another freight platform! Look out! Incoming! Careful, Raiden! The elevator cannot take much more of this! Jump to that adjacent platform! Odd... The platform is losing speed... Scheiße! (Fuck!) The tripods are interfering! Raiden! Clear them out of the shaft! Do not let them block that elevator!",,N,MeGeRiRe-799,MeGeRiRe-801
+MeGeRiRe-801,,Three weeks later...,,[Raiden manages to survive.],,Y,MeGeRiRe-800,MeGeRiRe-802
+MeGeRiRe-802,,Three weeks later...,Doktor (via codec),They are deploying security to the top floor to the freight elevators. Your path to the server room leads... right through them.,,N,MeGeRiRe-801,MeGeRiRe-803
+MeGeRiRe-803,,Three weeks later...,,[Raiden successfully gets to the top of the building and goes to the labs.],,Y,MeGeRiRe-802,MeGeRiRe-804
+MeGeRiRe-804,,Three weeks later...,Raiden,The server room's ahead?,,N,MeGeRiRe-803,MeGeRiRe-805
+MeGeRiRe-805,,Three weeks later...,Doktor (via codec),"Yes, according to what I have here.",,N,MeGeRiRe-804,MeGeRiRe-806
+MeGeRiRe-806,,Three weeks later...,Raiden,"What should I expect to find...? If they're VR training those brains, I'm guessing it won't look like your typical IT department.",,N,MeGeRiRe-805,MeGeRiRe-807
+MeGeRiRe-807,,Three weeks later...,Doktor (via codec),"Quite right. Most of it will likely be occupied by life-support units... Feeding oxygen and nutrition to the brains they have stored, you know. They would also need a server to feed them the VR date, but in terms of structure... It's really more brain storage and maintenance than a server room. But no doubt it mailers a convenient euphemism for what they are really doing there.",,N,MeGeRiRe-806,MeGeRiRe-808
+MeGeRiRe-808,,Three weeks later...,Raiden,"Yeah, like how CIA agents refer to where they work as ""The Company.""",,N,MeGeRiRe-807,MeGeRiRe-809
+MeGeRiRe-809,,Three weeks later...,Doktor (via codec),"Indeed! Something like that would never arouse the suspicions of rank-and-file staff who may fear it. And I am sure those complicit in this operation feel better not calling it the “VR training room.” Even something so simple as a name can help one ignore the truth of what they are doing. Truly fascinating, how the human brain works...",,N,MeGeRiRe-808,MeGeRiRe-810
+MeGeRiRe-810,,Three weeks later...,Raiden,"So this... whatever room -- that's where Sundowner's waiting, right? If he wants a fight, I wish he'd just got on with it. He didn't seem the type to run and hide.",,N,MeGeRiRe-809,MeGeRiRe-811
+MeGeRiRe-811,,Three weeks later...,Doktor (via codec),"Well, he is in charge of security... But I suspect this is not about business. If I had to guess I would say he is toying with you. Testing you, perhaps.",,N,MeGeRiRe-810,MeGeRiRe-812
+MeGeRiRe-812,,Three weeks later...,Raiden,"Whatever he’s doing, it won't change what's going to happen once I finally catch up with him...",,N,MeGeRiRe-811,MeGeRiRe-813
+MeGeRiRe-813,,Three weeks later...,,[He enters the next room and sees a familiar face.],,Y,MeGeRiRe-812,MeGeRiRe-814
+MeGeRiRe-814,,Three weeks later...,Raiden,What? Mistral?! But she's --,,N,MeGeRiRe-813,MeGeRiRe-815
+MeGeRiRe-815,,Three weeks later...,Doktor (via codec),"No -- a spare body, if I had to guess. Likely controlled by an AI.",,N,MeGeRiRe-814,MeGeRiRe-816
+MeGeRiRe-816,,Three weeks later...,,[Raiden cuts her to parts.],,Y,MeGeRiRe-815,MeGeRiRe-817
+MeGeRiRe-817,,Three weeks later...,Boris (via codec),"And a spare Monsoon? Well, if it's AI-controlled it should pose no problem for you, yes?",,N,MeGeRiRe-816,MeGeRiRe-818
+MeGeRiRe-818,,Three weeks later...,,"[Raiden slices him, too.]",,Y,MeGeRiRe-817,MeGeRiRe-819
+MeGeRiRe-819,,Three weeks later...,Boris (via codec),"Keep going, Raiden! You are almost to the server room.",,N,MeGeRiRe-818,MeGeRiRe-820
+MeGeRiRe-820,,Three weeks later...,,[The next room is a large hall with many columns on the sides. In the center there is a small path that ends with a staircase to the second floor. From the top of the second floor Sundowner roars loudly.],,Y,MeGeRiRe-819,MeGeRiRe-821
+MeGeRiRe-821,,Three weeks later...,Sundowner,"Shhh, don't disrupt the students while class is in session. I believe you're familiar with the lesson plan... The same regimen you went through in Liberia. Effective program. Just look how you turned out. Of course, running it in the real world just got a bit too... complicated. Doing it virtually though? No fuss, no muss. Straight to the brain. It's like a dream. Well, maybe “dream” is the wrong word. They do kill some POWs... some civilians...  They enjoy it though. We give their pleasure centers a nice big jolt every time. Plus they got a shiny new body as a graduation present. Another thing you have in common...",(laughs) ,N,MeGeRiRe-820,MeGeRiRe-822
+MeGeRiRe-822,,Three weeks later...,Raiden,"I chose this. They're kids, you son of a bitch.",,N,MeGeRiRe-821,MeGeRiRe-823
+MeGeRiRe-823,,Three weeks later...,Sundowner,"And kids are cruel. All people are, by nature -- they just lose touch with it as they get older. Start thinking they know right and wrong. “That's immoral!” War crime-this, Code of Conduct-that… Kids you can mold, manipulate into performing all kinds of atrocities -- and there's nothing like a good atrocity to keep a war going.",,N,MeGeRiRe-822,MeGeRiRe-824
+MeGeRiRe-824,,Three weeks later...,Raiden,That's why I'm shutting you down.,,N,MeGeRiRe-823,MeGeRiRe-825
+MeGeRiRe-825,,Three weeks later...,Sundowner,"You just don't see the bigger picture, do ya? Say you bring this whole place down, waltz outta the rubble with all these precious brains… Nothing changes. All the guys in charge are long gone. And we've got offices 'round the world. We're just suppliers. We don't create the market for war.",,N,MeGeRiRe-824,MeGeRiRe-826
+MeGeRiRe-826,,Three weeks later...,Raiden,Then who does? The Patriots are gone.,,N,MeGeRiRe-825,MeGeRiRe-827
+MeGeRiRe-827,,Three weeks later...,Sundowner," Those guys just managed the war economy -- they didn't invent it. Didja think every battle in history was all part of some big ol' conspiracy? Bullshit! War is just part'a who we are. Why fight it? Anyway, none of this will matter in three hours. Demand for PMCs is about to skyrocket. Like the good ol' days after 9-11.",(laughs) ,N,MeGeRiRe-826,MeGeRiRe-828
+MeGeRiRe-828,,Three weeks later...,Raiden,What are you talking about?,,N,MeGeRiRe-827,MeGeRiRe-829
+MeGeRiRe-829,,Three weeks later...,Sundowner,Not here. Follow me.,,N,MeGeRiRe-828,MeGeRiRe-830
+MeGeRiRe-830,,Three weeks later...,Boris (via codec),"Raiden, get Sundowner! Do not lose him this time!",,N,MeGeRiRe-829,MeGeRiRe-831
+MeGeRiRe-831,,Three weeks later...,,[Raiden goes upstairs and gets out on the heliport.],,Y,MeGeRiRe-830,MeGeRiRe-832
+MeGeRiRe-832,,Three weeks later...,Sundowner,"How's this, Jack? We can play up here without damaging the merchandise.",,N,MeGeRiRe-831,MeGeRiRe-833
+MeGeRiRe-833,,Three weeks later...,Raiden,What happens in three hours?,,N,MeGeRiRe-832,MeGeRiRe-834
+MeGeRiRe-834,,Three weeks later...,Sundowner," Don't matter you're too late. Even at Mach 2 you wouldn't make it. And killing you is gonna take some time: slow, and painful. Like I said, kids are cruel, Jack. And I'm very in touch with my inner child.",(laughs) ,N,MeGeRiRe-833,MeGeRiRe-835
+MeGeRiRe-835,,Three weeks later...,,[Sundowner turns on his six-segment shield and takes out his two sword shears. The fight begins.],,Y,MeGeRiRe-834,MeGeRiRe-836
+MeGeRiRe-836,,Three weeks later...,Sundowner,"You can be crueler than that, Jack. Too slow! Don’t fuck with me, Jack! Beg for your life! Pointless. Tough luck. You can’t break this shield, Jack. C'mon, try 'n hit me! Christ…! I love this shit! I’ll bathe in your blood! I’ll split you in two! Th’fuck..?! Better than I thought. Son of a bitch... You… got me.",,N,MeGeRiRe-835,MeGeRiRe-837
+MeGeRiRe-837,,Three weeks later...,,[He falls off the building but grabs a helicopter that's been flying around the whole time.],,Y,MeGeRiRe-836,MeGeRiRe-838
+MeGeRiRe-838,,Three weeks later...,Sundowner,"Playtime's over, Jack. Time to die!",,N,MeGeRiRe-837,MeGeRiRe-839
+MeGeRiRe-839,,Three weeks later...,,[He orders the helicopter to fire missiles. The missiles destroy the floor of the building and Raiden flies down the shaft of the freight platform.],,Y,MeGeRiRe-838,MeGeRiRe-840
+MeGeRiRe-840,,Three weeks later...,Raiden,Dammit.,,N,MeGeRiRe-839,MeGeRiRe-841
+MeGeRiRe-841,,Three weeks later...,,"[He grabs the flying wings and goes back to Sundowner. As he gets closer, Raiden throws the wings at him.]",,Y,MeGeRiRe-840,MeGeRiRe-842
+MeGeRiRe-842,,Three weeks later...,Sundowner,Christ..!,,N,MeGeRiRe-841,MeGeRiRe-843
+MeGeRiRe-843,,Three weeks later...,,[Raiden chops up the falling Sundowner into neat little pieces.],,Y,MeGeRiRe-842,MeGeRiRe-844
+MeGeRiRe-844,,Three weeks later...,Raiden,It's over.,,N,MeGeRiRe-843,MeGeRiRe-845
+MeGeRiRe-845,,Three weeks later...,Sundowner (via codec),"Attaboy, Jack...",,N,MeGeRiRe-844,MeGeRiRe-846
+MeGeRiRe-846,,Three weeks later...,Raiden,What happens in three hours?!,,N,MeGeRiRe-845,MeGeRiRe-847
+MeGeRiRe-847,,Three weeks later...,Sundowner (via codec),He'll... launch... Operation... Tecumesh...,,N,MeGeRiRe-846,MeGeRiRe-848
+MeGeRiRe-848,,Three weeks later...,Raiden,Who? Armstrong?,,N,MeGeRiRe-847,MeGeRiRe-849
+MeGeRiRe-849,,Three weeks later...,Sundowner (via codec),I've already said too much... I have a call to make...,,N,MeGeRiRe-848,MeGeRiRe-850
+MeGeRiRe-850,,Three weeks later...,Raiden,Cut yourself shaving?,,N,MeGeRiRe-849,MeGeRiRe-851
+MeGeRiRe-851,,Three weeks later...,Sundowner (via codec),"Asshole. He’s good... real good... You knew this would happen, didn't ya... Well, you'll get your wish... Up to you, now, Sam…",,N,MeGeRiRe-850,MeGeRiRe-852
+MeGeRiRe-852,,Three weeks later...,,[The call ends.],,Y,MeGeRiRe-851,MeGeRiRe-853
+MeGeRiRe-853,,Three weeks later...,Raiden,Raiden here. I've taken Marshal HQ.,,N,MeGeRiRe-852,MeGeRiRe-854
+MeGeRiRe-854,,Three weeks later...,Doktor (via codec),"Ja, ja… (Yes, yes…) I have just entered Denver airspace. I will be there soon.",,N,MeGeRiRe-853,MeGeRiRe-855
+MeGeRiRe-855,,Three weeks later...,Raiden,Hurry.,,N,MeGeRiRe-854,MeGeRiRe-856
+MeGeRiRe-856,,Three weeks later...,Boris (via codec),Raiden -- what Sundowner said...,,N,MeGeRiRe-855,MeGeRiRe-857
+MeGeRiRe-857,,Three weeks later...,Raiden,I know. Anything that I rival 9-11 cannot be good...,,N,MeGeRiRe-856,MeGeRiRe-858
+MeGeRiRe-858,,Three weeks later...,Boris (via codec),And in three hours... Maybe less... Hmm... He said even Mach 2 could not get there in time...,,N,MeGeRiRe-857,MeGeRiRe-859
+MeGeRiRe-859,,Three weeks later...,Kevin (via codec),"If he was serious, that's... Over 4,000 miles away...",,N,MeGeRiRe-858,MeGeRiRe-860
+MeGeRiRe-860,,Three weeks later...,Raiden,"4,500. So whatever it is. it's not happening on American soil...",,N,MeGeRiRe-859,MeGeRiRe-861
+MeGeRiRe-861,,Three weeks later...,Kevin (via codec),"If it's going to spike demand for PMCs, it's gotta be a political hot spot... A coup or civil war in a stable region wouldn't have a domino effect...",,N,MeGeRiRe-860,MeGeRiRe-862
+MeGeRiRe-862,,Three weeks later...,Raiden,And they'd want to draw in a superpower… No.,,N,MeGeRiRe-861,MeGeRiRe-863
+MeGeRiRe-863,,Three weeks later...,Boris (via codec),What?,,N,MeGeRiRe-862,MeGeRiRe-864
+MeGeRiRe-864,,Three weeks later...,Raiden,The president. He's on his way to Pakistan. If something happens to him there...,,N,MeGeRiRe-863,MeGeRiRe-865
+MeGeRiRe-865,,Three weeks later...,Boris (via codec),"...Oh, shit. The war on terror, part two.",,N,MeGeRiRe-864,MeGeRiRe-866
+MeGeRiRe-866,,Three weeks later...,Raiden,Contact the military.,,N,MeGeRiRe-865,MeGeRiRe-867
+MeGeRiRe-867,,Three weeks later...,Boris (via codec),Official channels are frozen since Mexico. Unofficial channels would take too long.,,N,MeGeRiRe-866,MeGeRiRe-868
+MeGeRiRe-868,,Three weeks later...,Kevin (via codec),"Besides, what's our proof? Who's going to believe us over World Marshal?",,N,MeGeRiRe-867,MeGeRiRe-869
+MeGeRiRe-869,,Three weeks later...,Raiden,Then we have to get there first.,,N,MeGeRiRe-868,MeGeRiRe-870
+MeGeRiRe-870,,Three weeks later...,Boris (via codec),Nevozmozhno! Impossible! It is the other side of the planet! Even if we were in world's fastest jet right now. it's not even close.,,N,MeGeRiRe-869,MeGeRiRe-871
+MeGeRiRe-871,,Three weeks later...,Courtney (via codec),Hold up. It's not a jet we need...,,N,MeGeRiRe-870,MeGeRiRe-872
+MeGeRiRe-872,,Three weeks later...,Raiden,Courtney?,,N,MeGeRiRe-871,MeGeRiRe-873
+MeGeRiRe-873,,Three weeks later...,Courtney (via codec),An RLV would make it with time to spare.,,N,MeGeRiRe-872,MeGeRiRe-874
+MeGeRiRe-874,,Three weeks later...,Kevin (via codec),That's...,,N,MeGeRiRe-873,MeGeRiRe-875
+MeGeRiRe-875,,Three weeks later...,Courtney (via codec),"MACH 23, if we're talking one atmosphere. 17.650 miles per hour. (28400 km/h]",,N,MeGeRiRe-874,MeGeRiRe-876
+MeGeRiRe-876,,Three weeks later...,Boris (via codec),That would make Pakistan in... under half an hour.,,N,MeGeRiRe-875,MeGeRiRe-877
+MeGeRiRe-877,,Three weeks later...,Raiden,Right. Contact Solis.,,N,MeGeRiRe-876,MeGeRiRe-878
+MeGeRiRe-878,,Three weeks later...,FILE R-05,Escape From Denver,,N,MeGeRiRe-877,MeGeRiRe-879
+MeGeRiRe-879,,Three weeks later...,Radio,"Cargo's all set to go, sir.",,N,MeGeRiRe-878,MeGeRiRe-880
+MeGeRiRe-880,,Three weeks later...,Doktor,"Excellent. Commencing take-off in semi-auto mode. You know, this kind of space launch once required days of preparation…",,N,MeGeRiRe-879,MeGeRiRe-881
+MeGeRiRe-881,,Three weeks later...,,[They're taking off.],,Y,MeGeRiRe-880,MeGeRiRe-882
+MeGeRiRe-882,,Three weeks later...,Raiden,"Solis has been conducting test flights almost every day for the last six months. As long as we're not breaking atmosphere, they said they can reroute today's flight, no problem.",,N,MeGeRiRe-881,MeGeRiRe-883
+MeGeRiRe-883,,Three weeks later...,Doktor,"Amazing... “The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.”",,N,MeGeRiRe-882,MeGeRiRe-884
+MeGeRiRe-884,,Three weeks later...,Raiden,I'm only going as far as the thermosphere. This thing can't pass the Kármán line. That lunar vacation will just have to wait.,,N,MeGeRiRe-883,MeGeRiRe-885
+MeGeRiRe-885,,Three weeks later...,Doktor,And here I was hoping you might bring me back a monolith.,,N,MeGeRiRe-884,MeGeRiRe-886
+MeGeRiRe-886,,Three weeks later...,,[Something on the control panel is starting to beep ominously.],,Y,MeGeRiRe-885,MeGeRiRe-887
+MeGeRiRe-887,,Three weeks later...,Doktor,"Scheiße! (Fuck!) Two bogeys, closing fast!",,N,MeGeRiRe-886,MeGeRiRe-888
+MeGeRiRe-888,,Three weeks later...,Raiden,Is it--?,,N,MeGeRiRe-887,MeGeRiRe-889
+MeGeRiRe-889,,Three weeks later...,Doktor,Who else? The flight pattern suggests unmanned MQ-320s.,,N,MeGeRiRe-888,MeGeRiRe-890
+MeGeRiRe-890,,Three weeks later...,Raiden,Shit.,,N,MeGeRiRe-889,MeGeRiRe-891
+MeGeRiRe-891,,Three weeks later...,Doktor,"This is a transport chopper, our defensive options are limited. Missiles incoming!",,N,MeGeRiRe-890,MeGeRiRe-892
+MeGeRiRe-892,,Three weeks later...,,"[There are several missiles flying towards the helicopter, but the Doctor manages to shoot them down.]",,Y,MeGeRiRe-891,MeGeRiRe-893
+MeGeRiRe-893,,Three weeks later...,Raiden,EMP?,,N,MeGeRiRe-892,MeGeRiRe-894
+MeGeRiRe-894,,Three weeks later...,Doktor,"Yes, but not strong enough to take out the drone. Here they come.",,N,MeGeRiRe-893,MeGeRiRe-895
+MeGeRiRe-895,,Three weeks later...,Raiden,I'll handle this.,,N,MeGeRiRe-894,MeGeRiRe-896
+MeGeRiRe-896,,Three weeks later...,Doktor,Raiden...! Have a nice flight.,,N,MeGeRiRe-895,MeGeRiRe-897
+MeGeRiRe-897,,Three weeks later...,Raiden,And people say Germans aren't funny.,,N,MeGeRiRe-896,MeGeRiRe-898
+MeGeRiRe-898,,Three weeks later...,,"[He's jumping out of a helicopter right on one of the drones. Raiden uses his sword to destroy its electronic brains, so the drone only starts flying straight.]",,Y,MeGeRiRe-897,MeGeRiRe-899
+MeGeRiRe-899,,Three weeks later...,Raiden,There it is... All right... Bring the chopper around.,,N,MeGeRiRe-898,MeGeRiRe-900
+MeGeRiRe-900,,Three weeks later...,,"[With his sword ready, he cuts the second drone into two pieces right in the air.]",,Y,MeGeRiRe-899,MeGeRiRe-901
+MeGeRiRe-901,,Three weeks later...,Raiden,"Okay, I'm coming back!",,N,MeGeRiRe-900,MeGeRiRe-902
+MeGeRiRe-902,,Three weeks later...,Doktor (via codec),"This is easier said than done, you know!",,N,MeGeRiRe-901,MeGeRiRe-903
+MeGeRiRe-903,,Three weeks later...,,[He notices that the drone that Raiden's standing on is on fire.],,Y,MeGeRiRe-902,MeGeRiRe-904
+MeGeRiRe-904,,Three weeks later...,Doktor,Raiden!,,N,MeGeRiRe-903,MeGeRiRe-905
+MeGeRiRe-905,,Three weeks later...,,"[The drone explodes and Raiden takes the blast. Doktor flies closer and Raiden grabs a helicopter, but he can't hold on.]",,Y,MeGeRiRe-904,MeGeRiRe-906
+MeGeRiRe-906,,Three weeks later...,Doktor,"Raiden! I am sorry, my friend...  Your sacrifice will not be forgotten.",(salutes) ,N,MeGeRiRe-905,MeGeRiRe-907
+MeGeRiRe-907,,Three weeks later...,,"[Mercenaries trying to hit him off the ground and he has to fly away. Raiden lands in town, punching a hole in the asphalt.]",,Y,MeGeRiRe-906,MeGeRiRe-908
+MeGeRiRe-908,,Three weeks later...,Boris (via codec),"That was quite the fall, Raiden. I am glad to see you are all right. It's time you got out of Denver.",,N,MeGeRiRe-907,MeGeRiRe-909
+MeGeRiRe-909,,Three weeks later...,Doktor (via codec),Raiden! Are you all right?,,N,MeGeRiRe-908,MeGeRiRe-910
+MeGeRiRe-910,,Three weeks later...,Raiden,I can handle this. You just get those brains outta here.,,N,MeGeRiRe-909,MeGeRiRe-911
+MeGeRiRe-911,,Three weeks later...,Doktor (via codec),And what will you do?,,N,MeGeRiRe-910,MeGeRiRe-912
+MeGeRiRe-912,,Three weeks later...,Raiden,"Get out of here, and to the launch site.",,N,MeGeRiRe-911,MeGeRiRe-913
+MeGeRiRe-913,,Three weeks later...,Doktor (via codec),"Ah, the young lady's company, ja?  How fortunate they are in Colorado, too.",(yes?) ,N,MeGeRiRe-912,MeGeRiRe-914
+MeGeRiRe-914,,Three weeks later...,Raiden,"Yeah, shouldn't take more than two hours with a set of wheels. Guess I'll just have to ""borrow"" some. A lot of cars got abandoned when the evac order came down.",,N,MeGeRiRe-913,MeGeRiRe-915
+MeGeRiRe-915,,Three weeks later...,Doktor (via codec),But... won't the roads be blocked? If you are struck by one of those missiles or--,,N,MeGeRiRe-914,MeGeRiRe-916
+MeGeRiRe-916,,Three weeks later...,Raiden,I know. Lemme just worry about putting some distance between mu and World Marshal… What's left of it.,,N,MeGeRiRe-915,MeGeRiRe-917
+MeGeRiRe-917,,Three weeks later...,Boris (via codec),"Raiden, hurry! It may be an RLV, but it still needs time to accelerate and decelerate from first cosmic velocity. It could require more than 30 mins to set to Pakistan. I have located a route with relatively light security. I will mark the heading on your soliton radar.",,N,MeGeRiRe-916,MeGeRiRe-918
+MeGeRiRe-918,,Three weeks later...,Blade Wolf (via codec),Raiden. I will join you in Pakistan. I will find a way to exit the helicopter. Proceed out of the city. I will contact you when I am on the ground.,,N,MeGeRiRe-917,MeGeRiRe-919
+MeGeRiRe-919,,Three weeks later...,,[Raiden is approaching the city border.],,Y,MeGeRiRe-918,MeGeRiRe-920
+MeGeRiRe-920,,Three weeks later...,Boris (via codec),You have escaped the pursuit?,,N,MeGeRiRe-919,MeGeRiRe-921
+MeGeRiRe-921,,Three weeks later...,Raiden,Seems like it.,,N,MeGeRiRe-920,MeGeRiRe-922
+MeGeRiRe-922,,Three weeks later...,Boris (via codec),You have passed the last of the barricades. Save your strength -- find a vehicle.,,N,MeGeRiRe-921,MeGeRiRe-923
+MeGeRiRe-923,,Three weeks later...,Raiden,Right.,,N,MeGeRiRe-922,MeGeRiRe-924
+MeGeRiRe-924,,Three weeks later...,,[He sees a chopper.],,Y,MeGeRiRe-923,MeGeRiRe-925
+MeGeRiRe-925,,Three weeks later...,Raiden,That should do nicely.,,N,MeGeRiRe-924,MeGeRiRe-926
+MeGeRiRe-926,,Three weeks later...,,"[After stealing a motorcycle, Raiden leaves a note... by carving it with his sword on the asphalt where the motorcycle was standing. ""I need your bike. Thank you for your cooperation. 111 555 (the rest is unreadable)”]",,Y,MeGeRiRe-925,MeGeRiRe-927
+MeGeRiRe-927,,Three weeks later...,FILE R-06,Badlands Showdown,,N,MeGeRiRe-926,MeGeRiRe-928
+MeGeRiRe-928,,Three weeks later...,,[Raiden rides on a dusty American road on a motorcycle with heavy metal on the background.],,Y,MeGeRiRe-927,MeGeRiRe-929
+MeGeRiRe-929,,Three weeks later...,Raiden,Everything okay on your side?,,N,MeGeRiRe-928,MeGeRiRe-930
+MeGeRiRe-930,,Three weeks later...,Doktor (via codec),I am out of Colorado air space -- and nothing on the radar,,N,MeGeRiRe-929,MeGeRiRe-931
+MeGeRiRe-931,,Three weeks later...,Raiden,Good. I'm almost there.,,N,MeGeRiRe-930,MeGeRiRe-932
+MeGeRiRe-932,,Three weeks later...,,[He sees Blade Wolf on the road and stops. He was petted by… Jetstream Sam.],,Y,MeGeRiRe-931,MeGeRiRe-933
+MeGeRiRe-933,,Three weeks later...,Blade Wolf,Raiden.,,N,MeGeRiRe-932,MeGeRiRe-934
+MeGeRiRe-934,,Three weeks later...,Raiden,Having a little heart-to-heart?,,N,MeGeRiRe-933,MeGeRiRe-935
+MeGeRiRe-935,,Three weeks later...,Blade Wolf,I have analyzed his words and actions. I am unable to ascertain his motivation.,,N,MeGeRiRe-934,MeGeRiRe-936
+MeGeRiRe-936,,Three weeks later...,Jetstream Sam,Fancy meeting you here.,,N,MeGeRiRe-935,MeGeRiRe-937
+MeGeRiRe-937,,Three weeks later...,Raiden,You knew I'd come. I suppose I should thank you for not killing everyone at the launch site?,,N,MeGeRiRe-936,MeGeRiRe-938
+MeGeRiRe-938,,Three weeks later...,Jetstream Sam," Well, not if you say it like that.",(laughs) ,N,MeGeRiRe-937,MeGeRiRe-939
+MeGeRiRe-939,,Three weeks later...,Raiden,"For a hired killer, you're not very good at your job.",,N,MeGeRiRe-938,MeGeRiRe-940
+MeGeRiRe-940,,Three weeks later...,Jetstream Sam,The war is the big payoff!,,N,MeGeRiRe-939,MeGeRiRe-941
+MeGeRiRe-941,,Three weeks later...,Raiden,Right. Big raises all around once World Marshal gets all those contracts...,,N,MeGeRiRe-940,MeGeRiRe-942
+MeGeRiRe-942,,Three weeks later...,Jetstream Sam,"I’m not talking about money, Jack. I'm talking ideals.",,N,MeGeRiRe-941,MeGeRiRe-943
+MeGeRiRe-943,,Three weeks later...,Raiden,Excuse me?,,N,MeGeRiRe-942,MeGeRiRe-944
+MeGeRiRe-944,,Three weeks later...,Jetstream Sam,Forget it. We've both heard enough speeches about higher causes by now. History will decide who's right. End of story.,,N,MeGeRiRe-943,MeGeRiRe-945
+MeGeRiRe-945,,Three weeks later...,,[Raiden defiantly gets off the bike for the second time and nods his head to point to Sam on the prairie near the road and leaves the bike right in the middle of the road.],,Y,MeGeRiRe-944,MeGeRiRe-946
+MeGeRiRe-946,,Three weeks later...,Raiden,I don't care who thinks I'm right. And I've got cause enough for killing you.,,N,MeGeRiRe-945,MeGeRiRe-947
+MeGeRiRe-947,,Three weeks later...,Jetstream Sam,"Wh--? Oh, good. Why that's very good! Yes, I like that.",,N,MeGeRiRe-946,MeGeRiRe-948
+MeGeRiRe-948,,Three weeks later...,Blade Wolf,Must you really fight?,,N,MeGeRiRe-947,MeGeRiRe-949
+MeGeRiRe-949,,Three weeks later...,Raiden,Don't interfere.,,N,MeGeRiRe-948,MeGeRiRe-950
+MeGeRiRe-950,,Three weeks later...,Jetstream Sam,This is between us.,,N,MeGeRiRe-949,MeGeRiRe-951
+MeGeRiRe-951,,Three weeks later...,,[They unshealth their swords.],,Y,MeGeRiRe-950,MeGeRiRe-952
+MeGeRiRe-952,,Three weeks later...,Raiden,And it ends here.,,N,MeGeRiRe-951,MeGeRiRe-953
+MeGeRiRe-953,,Three weeks later...,Jetstream Sam,OK. Let's dance.,,N,MeGeRiRe-952,MeGeRiRe-954
+MeGeRiRe-954,,Three weeks later...,,[The fateful fight begins.],,Y,MeGeRiRe-953,MeGeRiRe-955
+MeGeRiRe-955,,Three weeks later...,Jetstream Sam,"Pathetic… Show me a good time Jack! Not good enough. You're a waste of money. Far too easy. Amateur! Now THIS is a fight! Just you and me, Jack. Get ready! That's the spirit, Jack. Say goodnight... pretty boy! Just getting started.",,N,MeGeRiRe-954,MeGeRiRe-956
+MeGeRiRe-956,,Three weeks later...,Raiden,Play time's over.,,N,MeGeRiRe-955,MeGeRiRe-957
+MeGeRiRe-957,,Three weeks later...,,[He pierce his sword right into Sam’s chest.],,Y,MeGeRiRe-956,MeGeRiRe-958
+MeGeRiRe-958,,Three weeks later...,Blade Wolf,He is dead...,,N,MeGeRiRe-957,MeGeRiRe-959
+MeGeRiRe-959,,Three weeks later...,Raiden,He barely had any cyborg enhancements...,,N,MeGeRiRe-958,MeGeRiRe-960
+MeGeRiRe-960,,Three weeks later...,Blade Wolf,Was this outcome necessary? Evidence: inconclusive.,,N,MeGeRiRe-959,MeGeRiRe-961
+MeGeRiRe-961,,Three weeks later...,Raiden,I guess even AIs don't know everything.,,N,MeGeRiRe-960,MeGeRiRe-962
+MeGeRiRe-962,,Three weeks later...,Blade Wolf,"It is likely no single correct answer exists. Additionally, human conflict stems from opposing ideals and societal norms. I was not programmed with these guidelines.",,N,MeGeRiRe-961,MeGeRiRe-963
+MeGeRiRe-963,,Three weeks later...,Raiden,You're better off figuring those out for yourself.,,N,MeGeRiRe-962,MeGeRiRe-964
+MeGeRiRe-964,,Three weeks later...,,[He picked up Sam’s red katana.],,Y,MeGeRiRe-963,MeGeRiRe-965
+MeGeRiRe-965,,Three weeks later...,Raiden,ID-locked...,,N,MeGeRiRe-964,MeGeRiRe-966
+MeGeRiRe-966,,Three weeks later...,Blade Wolf,A VT7 high-frequency blade. The efficacy of the enhancement directly correlates to the quality of the original weapon. My file indicates Sam inherited the sword from his father.,,N,MeGeRiRe-965,MeGeRiRe-967
+MeGeRiRe-967,,Three weeks later...,Raiden,Going to bury it?,,N,MeGeRiRe-966,MeGeRiRe-968
+MeGeRiRe-968,,Three weeks later...,Blade Wolf,I will retain it in memory of Sam.,,N,MeGeRiRe-967,MeGeRiRe-969
+MeGeRiRe-969,,Three weeks later...,,[Raiden pathosly takes his sword to the sheath and gives it to Blade Wolf.],,Y,MeGeRiRe-968,MeGeRiRe-970
+MeGeRiRe-970,,Three weeks later...,Boris (via codec),"Raiden, we have less than one hour! Hurry!",,N,MeGeRiRe-969,MeGeRiRe-971
+MeGeRiRe-971,,Three weeks later...,Raiden,Roger that.,,N,MeGeRiRe-970,MeGeRiRe-972
+MeGeRiRe-972,,Three weeks later...,FILE R-07,Assassination Attempt,,N,MeGeRiRe-971,MeGeRiRe-973
+MeGeRiRe-973,,Three weeks later...,,"[Raiden arrives at Solis Space & Aeronautics, where he is met by the world's most incompetent security guard - J.William. He reads manga and eats pizza instead of watching the cameras and the incoming visitors.]",,Y,MeGeRiRe-972,MeGeRiRe-974
+MeGeRiRe-974,,Three weeks later...,J.William’s Thoughts,Oh...oh... Hikari-chan! So kawaii...,,N,MeGeRiRe-973,MeGeRiRe-975
+MeGeRiRe-975,,Three weeks later...,,[Blade Wolf rushes to the security booth. Brain dead guard takes his tables with the picture of Raiden and asks Blade Wolf...],,Y,MeGeRiRe-974,MeGeRiRe-976
+MeGeRiRe-976,,Three weeks later...,J.William,"Are you, uh... Mr. Raiden? Sir?",,N,MeGeRiRe-975,MeGeRiRe-977
+MeGeRiRe-977,,Three weeks later...,,[Raiden opens the gates with his bare cyborg hands.],,Y,MeGeRiRe-976,MeGeRiRe-978
+MeGeRiRe-978,,Three weeks later...,Raiden,Where is she?,,N,MeGeRiRe-977,MeGeRiRe-979
+MeGeRiRe-979,,Three weeks later...,J.William,I'll... tell her you've arrived.,,N,MeGeRiRe-978,MeGeRiRe-980
+MeGeRiRe-980,,Three weeks later...,Voice,Over here.,,N,MeGeRiRe-979,MeGeRiRe-981
+MeGeRiRe-981,,Three weeks later...,,[The most unrealistic rocket scientist in the world approaches him. Japan has only the best.],,Y,MeGeRiRe-980,MeGeRiRe-982
+MeGeRiRe-982,,Three weeks later...,Sunny Emmerich," Hi there, stranger.",(childish laugh) ,N,MeGeRiRe-981,MeGeRiRe-983
+MeGeRiRe-983,,Three weeks later...,Raiden,Hey. You're looking good.,,N,MeGeRiRe-982,MeGeRiRe-984
+MeGeRiRe-984,,Three weeks later...,Sunny Emmerich,"Aww, who's your little friend?",,N,MeGeRiRe-983,MeGeRiRe-985
+MeGeRiRe-985,,Three weeks later...,Raiden,It's a long story.,,N,MeGeRiRe-984,MeGeRiRe-986
+MeGeRiRe-986,,Three weeks later...,Sunny Emmerich,Shaaake... Good boy!,,N,MeGeRiRe-985,MeGeRiRe-987
+MeGeRiRe-987,,Three weeks later...,Sunny Emmerich,I guess we don't really have time to catch up...,,N,MeGeRiRe-986,MeGeRiRe-988
+MeGeRiRe-988,,Three weeks later...,Raiden,Sorry -- not really.,,N,MeGeRiRe-987,MeGeRiRe-989
+MeGeRiRe-989,,Three weeks later...,Sunny Emmerich,It's okay. Follow me.,,N,MeGeRiRe-988,MeGeRiRe-990
+MeGeRiRe-990,,Three weeks later...,Raiden,"So, exactly what kind of--",,N,MeGeRiRe-989,MeGeRiRe-991
+MeGeRiRe-991,,Three weeks later...,Sunny Emmerich,You’ll see.,,N,MeGeRiRe-990,MeGeRiRe-992
+MeGeRiRe-992,,Three weeks later...,,"[He sees a huge, ultramodern jet fighter worth billions of dollars.]",,Y,MeGeRiRe-991,MeGeRiRe-993
+MeGeRiRe-993,,Three weeks later...,Raiden,YOU built that?,,N,MeGeRiRe-992,MeGeRiRe-994
+MeGeRiRe-994,,Three weeks later...,Sunny Emmerich,Yep. It uses a hybrid LACE / ramjet engine I designed. Well? Are you in a hurry or not?,,N,MeGeRiRe-993,MeGeRiRe-995
+MeGeRiRe-995,,Three weeks later...,Raiden,"Right. Hey -- thanks, Sunny.",,N,MeGeRiRe-994,MeGeRiRe-996
+MeGeRiRe-996,,Three weeks later...,,[She laughs with a naive childish laugh. That's because in this world it's not worth millions to just roll this thing out of a hangar. Raiden gets in the cockpit.],,Y,MeGeRiRe-995,MeGeRiRe-997
+MeGeRiRe-997,,Three weeks later...,Sunny Emmerich (via codec),"The flight plan is already set. You're good to go. Please switch off all cell phones and portable gaming devices, and remember this is a no-smoking flight.",,N,MeGeRiRe-996,MeGeRiRe-998
+MeGeRiRe-998,,Three weeks later...,Raiden, Roger. Ready for countdown.,(laughs) ,N,MeGeRiRe-997,MeGeRiRe-999
+MeGeRiRe-999,,Three weeks later...,Sunny Emmerich (via codec),No time for that! Ignition!,,N,MeGeRiRe-998,MeGeRiRe-1000
+MeGeRiRe-1000,,Three weeks later...,,[The fighter takes off and rushes sharply into the sky. The guard keeps laughing at the manga he's reading.],,Y,MeGeRiRe-999,MeGeRiRe-1001
+MeGeRiRe-1001,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Raiden lands on Pakistani land near the military base.],,Y,MeGeRiRe-1000,MeGeRiRe-1002
+MeGeRiRe-1002,"Shabhazabad Air Base, Pakistan",Three weeks later...,Kevin (via codec),Well? Anything?,,N,MeGeRiRe-1001,MeGeRiRe-1003
+MeGeRiRe-1003,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,Nothing. You sure we got the right place?,,N,MeGeRiRe-1002,MeGeRiRe-1004
+MeGeRiRe-1004,"Shabhazabad Air Base, Pakistan",Three weeks later...,Kevin (via codec),Gotta be. It's the only base big enough with security contracted out to World Marshal.,,N,MeGeRiRe-1003,MeGeRiRe-1005
+MeGeRiRe-1005,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"All right, I'm headed in.",,N,MeGeRiRe-1004,MeGeRiRe-1006
+MeGeRiRe-1006,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[He begins to slice up the military.],,Y,MeGeRiRe-1005,MeGeRiRe-1007
+MeGeRiRe-1007,"Shabhazabad Air Base, Pakistan",Three weeks later...,Doktor (via codec),"Ha ha, more classified data! I believe I have all I need for a little surprise...",,N,MeGeRiRe-1006,MeGeRiRe-1008
+MeGeRiRe-1008,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,You see that? Their XIFF Codes show up as “unaffiliated.”,,N,MeGeRiRe-1007,MeGeRiRe-1009
+MeGeRiRe-1009,"Shabhazabad Air Base, Pakistan",Three weeks later...,Courtney (via codec),Wait -- Marshal has the security contract for this base... Why would they have their cyborgs set to the same illegal XIFF code as Desperado? It's evidence against them...,,N,MeGeRiRe-1008,MeGeRiRe-1010
+MeGeRiRe-1010,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"No, it's their alibi. They're making it look like Desperado hacked their soldiers on-site. Because everyone knows Desperado has a contract with…",,N,MeGeRiRe-1009,MeGeRiRe-1011
+MeGeRiRe-1011,"Shabhazabad Air Base, Pakistan",Three weeks later...,Courtney (via codec),The Pakistani rebels. But if we go public with the Desperado-Marshal connection--,,N,MeGeRiRe-1010,MeGeRiRe-1012
+MeGeRiRe-1012,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"Won't matter. Not when they’ve got this nice, big foreign threat all cooked up and ready to serve. The media and the public won't be able to resist. Remember WMDs in Iraq?",,N,MeGeRiRe-1011,MeGeRiRe-1013
+MeGeRiRe-1013,"Shabhazabad Air Base, Pakistan",Three weeks later...,Courtney (via codec),Dammit... you're right. It's another “slam dunk”. What about any humans on the base? Marshal only handled security.,,N,MeGeRiRe-1012,MeGeRiRe-1014
+MeGeRiRe-1014,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"Dead, most likely. Or brain-jacked, If they needed them to keep up appearances.",,N,MeGeRiRe-1013,MeGeRiRe-1015
+MeGeRiRe-1015,"Shabhazabad Air Base, Pakistan",Three weeks later...,Courtney (via codec),"Hmm... They'd never publicize what airport the president was flying into. Not in this region. And almost no one would have access to an outside line, for security reasons. It wouldn't be difficult to keep things hush-hush... At least until Air Force One arrives.",,N,MeGeRiRe-1014,MeGeRiRe-1016
+MeGeRiRe-1016,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"I'm heading for the control tower. If I can destroy the antenna array, the U.S. military will know something's wrong.",,N,MeGeRiRe-1015,MeGeRiRe-1017
+MeGeRiRe-1017,"Shabhazabad Air Base, Pakistan",Three weeks later...,Courtney (via codec),Good idea -- be careful.,,N,MeGeRiRe-1016,MeGeRiRe-1018
+MeGeRiRe-1018,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"Sam's gone, and I blew the Winds of Destruction away. I'll be fine.",,N,MeGeRiRe-1017,MeGeRiRe-1019
+MeGeRiRe-1019,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris (via codec),"Raiden, there’s no time to worry about the soldiers. Got to the control tower!",,N,MeGeRiRe-1018,MeGeRiRe-1020
+MeGeRiRe-1020,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[Raiden runs through the hangar, not paying attention to the military. As he leaves the hangar, he sees Blade Wolf severely damaged.]",,Y,MeGeRiRe-1019,MeGeRiRe-1021
+MeGeRiRe-1021,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,Wolf?! Where are they...?,,N,MeGeRiRe-1020,MeGeRiRe-1022
+MeGeRiRe-1022,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[The asphalt starts crumbling and Raiden falls down. He jumps on rocks and chops up the neon wreckage, he comes out to the surface. A metal monster, Metal Gear EXCELSUS, crawls to him from a hole in the ground. Senator Stephen Armstrong comes out of the Metal Gear cabin. He smokes a cigar.]",,Y,MeGeRiRe-1021,MeGeRiRe-1023
+MeGeRiRe-1023,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Well if it isn't saucy Jack? Just a little too late, as usual.",,N,MeGeRiRe-1022,MeGeRiRe-1024
+MeGeRiRe-1024,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,Armstrong? Impressive little toy you've got there. But your plan ends here.,,N,MeGeRiRe-1023,MeGeRiRe-1025
+MeGeRiRe-1025,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong," Idiot. You're not ending our plan, you're expanding it. Checked the internet lately?",(laughs) ,N,MeGeRiRe-1024,MeGeRiRe-1026
+MeGeRiRe-1026,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,Pfft.,,N,MeGeRiRe-1025,MeGeRiRe-1027
+MeGeRiRe-1027,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris (via codec),Raiden! Air Force One is turning back to the States!,,N,MeGeRiRe-1026,MeGeRiRe-1028
+MeGeRiRe-1028,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,What? How'd they know?!,,N,MeGeRiRe-1027,MeGeRiRe-1029
+MeGeRiRe-1029,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris (via codec),Someone posted photos of what's happening on the base. The whole world is up in arms!,,N,MeGeRiRe-1028,MeGeRiRe-1030
+MeGeRiRe-1030,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,Show me!,,N,MeGeRiRe-1029,MeGeRiRe-1031
+MeGeRiRe-1031,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[He opens around 30 tabs in his preinstalled browser - CNET News “Terrorists Bombard Pakistani Airbase”, some website “Over 40 Americans presumed dead in Pakistani terror strike”, TufNews “Hamilton Assassination Attempt in Pakistan”.]",,Y,MeGeRiRe-1030,MeGeRiRe-1032
+MeGeRiRe-1032,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,How did they...? The story leaked early...? Then Marshal's plan is ruined.,,N,MeGeRiRe-1031,MeGeRiRe-1033
+MeGeRiRe-1033,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris (via codec),The hell it is! Look what they're saying! The story just went live and already they are calling for blood!,,N,MeGeRiRe-1032,MeGeRiRe-1034
+MeGeRiRe-1034,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[And now we are shown very authoritative comments under the news on the Internet, which have so much influence on politics.]",,Y,MeGeRiRe-1033,MeGeRiRe-1035
+MeGeRiRe-1035,"Shabhazabad Air Base, Pakistan",Three weeks later...,4NuB1S-DC,"WAKE UP! The Pakistani government is HARBORING these terrorists!! (492 likes, 3 dislikes]",,N,MeGeRiRe-1034,MeGeRiRe-1036
+MeGeRiRe-1036,"Shabhazabad Air Base, Pakistan",Three weeks later...,BG_MAD-TORGO-X,"HEY, UNCLE SAM! PAKISTAN NEEDS A BOOT UP THEIR ASS!!!1 (7483 likes, 52 dislikes]",,N,MeGeRiRe-1035,MeGeRiRe-1037
+MeGeRiRe-1037,"Shabhazabad Air Base, Pakistan",Three weeks later...,Unknown user,Pakistan is part of the AXIS OF EVIL!,,N,MeGeRiRe-1036,MeGeRiRe-1038
+MeGeRiRe-1038,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,But the president was saved…?,,N,MeGeRiRe-1037,MeGeRiRe-1039
+MeGeRiRe-1039,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,And yet American blood was spilled.,,N,MeGeRiRe-1038,MeGeRiRe-1040
+MeGeRiRe-1040,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"By Americans! Besides, a few dozen soldiers is tragic, but nothing to start a major war over.",,N,MeGeRiRe-1039,MeGeRiRe-1041
+MeGeRiRe-1041,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"That's just the spark, son. The excuse we've been waiting for. America's wanted this war for years. The Patriots -- they knew war was good for the economy. Four years later their legacy lingers on...",,N,MeGeRiRe-1040,MeGeRiRe-1042
+MeGeRiRe-1042,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,The memes...,,N,MeGeRiRe-1041,MeGeRiRe-1043
+MeGeRiRe-1043,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"They left us their great ""ism""s! Nationalism! Unilateralism! Materialism! Welcome maxims for these with no faith -- without guiding principles of their own. Give yourself up to the whole. No need to better yourself -- you're American! You're number one! Then the only value left is dollar value -- the economy. So we'll do whatever it takes to keep it humming along. Even war. Especially war.",,N,MeGeRiRe-1042,MeGeRiRe-1044
+MeGeRiRe-1044,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,Bullshit.,,N,MeGeRiRe-1043,MeGeRiRe-1045
+MeGeRiRe-1045,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"The Patriots planted the seed -- we don't need them around to filter and foster their memes any longer. We're spreading them just fine ourselves. Every American man, woman and child... We're all sons of the Patriots now! We just need something to jump start the economy out of this funk. This recession it's been stuck in since the fall of SOP.",,N,MeGeRiRe-1044,MeGeRiRe-1046
+MeGeRiRe-1046,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,And the military costs? Wasting billions is going to help the economy?,,N,MeGeRiRe-1045,MeGeRiRe-1047
+MeGeRiRe-1047,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"PMCs, arms manufacturers... Job creators, Jack! All those workers spending money, paying taxes... Trust me, a little war can work wonders.",,N,MeGeRiRe-1046,MeGeRiRe-1048
+MeGeRiRe-1048,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"So grease the gears with some innocent blood, is that it?",,N,MeGeRiRe-1047,MeGeRiRe-1049
+MeGeRiRe-1049,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Relax, Jack. It's a ""war on terror."" We're not out to kill civilians. Extremists. Lawless gangs. Madmen.",,N,MeGeRiRe-1048,MeGeRiRe-1050
+MeGeRiRe-1050,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Raiden’s astonished a little.],,Y,MeGeRiRe-1049,MeGeRiRe-1051
+MeGeRiRe-1051,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,Of course that would have to include you. Wouldn't want any eyewitness reports completing the message.,,N,MeGeRiRe-1050,MeGeRiRe-1052
+MeGeRiRe-1052,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[He throws a cigar away and climbs into the metal bridge cabin. Raiden prepares for battle.],,Y,MeGeRiRe-1051,MeGeRiRe-1053
+MeGeRiRe-1053,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Fear the wrath of the USA! So you like playin' hide-and-seek, y’little bitch? Crush you like a goddamn bug! Let's see how long you can keep it up... Fine. I'll give you that one. Ashes to ashes, motherfucker! If you're not with America, Jack, you're against her! Let loose the flames of justice! Uncle Sam needs you to die, Jack! Impressive, Jack. Most impressive. Hold still! Don't get touchy, kid!",,N,MeGeRiRe-1052,MeGeRiRe-1054
+MeGeRiRe-1054,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[Raiden chops off Metal Gear's legs, grabs a multi-ton monster by the knife and throws it over his head. Then he rips off one of the knives and cuts off the Metal Gear with it.]",,Y,MeGeRiRe-1053,MeGeRiRe-1055
+MeGeRiRe-1055,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,About time we ended this... and you're going out with a bang!,,N,MeGeRiRe-1054,MeGeRiRe-1056
+MeGeRiRe-1056,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Armstrong comes out of a smoke-covered cabin.],,Y,MeGeRiRe-1055,MeGeRiRe-1057
+MeGeRiRe-1057,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,Slippery little bastard. I don't have time for this.,,N,MeGeRiRe-1056,MeGeRiRe-1058
+MeGeRiRe-1058,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[He gets up in the sumo stand and starts screaming intensely.],,Y,MeGeRiRe-1057,MeGeRiRe-1059
+MeGeRiRe-1059,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"Oh, you've gotta be kidding me!",,N,MeGeRiRe-1058,MeGeRiRe-1060
+MeGeRiRe-1060,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[Wires are flying out of Metal Gear's legs, charging Armstrong with green energy. He's getting bigger and more pumped up.]",,Y,MeGeRiRe-1059,MeGeRiRe-1061
+MeGeRiRe-1061,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong, Let's go!,(adjusting the glasses) ,N,MeGeRiRe-1060,MeGeRiRe-1062
+MeGeRiRe-1062,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,The hell are you thinking.,,N,MeGeRiRe-1061,MeGeRiRe-1063
+MeGeRiRe-1063,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[Armstrong spreads out and knocks Raiden down. After that, he grabs his head and starts squeezing.]",,Y,MeGeRiRe-1062,MeGeRiRe-1064
+MeGeRiRe-1064,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Played college ball, ya know.",,N,MeGeRiRe-1063,MeGeRiRe-1065
+MeGeRiRe-1065,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,At some cushy Ivy League school.,,N,MeGeRiRe-1064,MeGeRiRe-1066
+MeGeRiRe-1066,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Armstrong rips off Raiden's visor and hits him in the face a few times.],,Y,MeGeRiRe-1065,MeGeRiRe-1067
+MeGeRiRe-1067,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,Try University of Texas. Coulda gone pro if I hadn't joined the Navy. I'm not one of those beltway pansies. I could break the president in two with my bare hands.,,N,MeGeRiRe-1066,MeGeRiRe-1068
+MeGeRiRe-1068,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[He throws Raiden in the air and then kicks him.],,Y,MeGeRiRe-1067,MeGeRiRe-1069
+MeGeRiRe-1069,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,Don't fuck with this senator!,,N,MeGeRiRe-1068,MeGeRiRe-1070
+MeGeRiRe-1070,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,What the hell are you...?,,N,MeGeRiRe-1069,MeGeRiRe-1071
+MeGeRiRe-1071,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,Why don't you stick around and find out?,,N,MeGeRiRe-1070,MeGeRiRe-1072
+MeGeRiRe-1072,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[The battle begins with the strongest senator in the world.],,Y,MeGeRiRe-1071,MeGeRiRe-1073
+MeGeRiRe-1073,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Let's not forget to enjoy this, hm? Man-to-man, I can't be beat. C'mon!",,N,MeGeRiRe-1072,MeGeRiRe-1074
+MeGeRiRe-1074,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Armstrong catches Raiden's sword with his bare hand.],,Y,MeGeRiRe-1073,MeGeRiRe-1075
+MeGeRiRe-1075,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,What?,,N,MeGeRiRe-1074,MeGeRiRe-1076
+MeGeRiRe-1076,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,Nice knife…,,N,MeGeRiRe-1075,MeGeRiRe-1077
+MeGeRiRe-1077,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[He breaks it in half and hits Raiden in the face. The senator attacks, but Raiden manages to block the strike.]",,Y,MeGeRiRe-1076,MeGeRiRe-1078
+MeGeRiRe-1078,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"Typical politician... big promises, but all talk.",,N,MeGeRiRe-1077,MeGeRiRe-1079
+MeGeRiRe-1079,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,What?,,N,MeGeRiRe-1078,MeGeRiRe-1080
+MeGeRiRe-1080,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"“Jump-start the economy""? What a load of bullshit! All you care about is lining your own pockets. That, and your approval ratings. You've got no principles, just like all the rest. If America's gone to shit, you're just another maggot crawling in the pile.",,N,MeGeRiRe-1079,MeGeRiRe-1081
+MeGeRiRe-1081,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"All right, the truth then. You're right about one thing... I do need capital. And votes. Wanna know why? “I have a dream.”",,N,MeGeRiRe-1080,MeGeRiRe-1082
+MeGeRiRe-1082,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,What...?,,N,MeGeRiRe-1081,MeGeRiRe-1083
+MeGeRiRe-1083,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Armstrong hits Raiden with every word he says.],,Y,MeGeRiRe-1082,MeGeRiRe-1084
+MeGeRiRe-1084,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"That one day every person in this nation will control their OWN destiny. A land of the TRULY free, dammit. A nation of ACTION, not words. Ruled by STRENGTH, not committee. Where the law changes to suit the individual, not the other way around. Where power and justice are back where they belong: in the hands of the people! Where every man is free to think -- to act -- for himself! Fuck all these limp-dick lawyer and chicken-shit bureaucrats. Fuck this 24/7 Internet spew of trivia and celebrity bullshit. Fuck ""American pride."" Fuck the media! Fuck all of it! America is diseased. Rotten to the core. There's no saving it -- we need to pull it out by the roots. Wipe the slate clean. BURN IT DOWN! And from the ashes a new America will be born. Evolved, but untamed! The weak will be purged and the strongest will thrive -- free to live as they see fit, they'll make America great again!",,N,MeGeRiRe-1083,MeGeRiRe-1085
+MeGeRiRe-1085,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,What the hell are you talking about...,,N,MeGeRiRe-1084,MeGeRiRe-1086
+MeGeRiRe-1086,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"You still don't get it. I'm using war as a business to get elected... so I can end war as a business! In my new America, people will die and all for what they BELIEVE! Not for money. Not for oil! Not for what they're told is right. Every man will be free to fight his own wars!",,N,MeGeRiRe-1085,MeGeRiRe-1087
+MeGeRiRe-1087,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[He lights a cigar. Raiden lies on the Metal Gear barely alive.],,Y,MeGeRiRe-1086,MeGeRiRe-1088
+MeGeRiRe-1088,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,So what do you think?,,N,MeGeRiRe-1087,MeGeRiRe-1089
+MeGeRiRe-1089,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,How the hell did you get elected...,,N,MeGeRiRe-1088,MeGeRiRe-1090
+MeGeRiRe-1090,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Well, I don't write my own speeches. You should try fighting for what you believe in sometime, Jack. Not for a company, or a nation, or for anyone else.",,N,MeGeRiRe-1089,MeGeRiRe-1091
+MeGeRiRe-1091,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,Maybe I was wrong about you...,,N,MeGeRiRe-1090,MeGeRiRe-1092
+MeGeRiRe-1092,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong, Am I finally getting through?,(surprised) ,N,MeGeRiRe-1091,MeGeRiRe-1093
+MeGeRiRe-1093,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[He lifts Raiden off the floor and shakes off the dirt.],,Y,MeGeRiRe-1092,MeGeRiRe-1094
+MeGeRiRe-1094,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"I'll rid this world of pointless wars, Jack.",,N,MeGeRiRe-1093,MeGeRiRe-1095
+MeGeRiRe-1095,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,I was wrong. You're not greedy --,,N,MeGeRiRe-1094,MeGeRiRe-1096
+MeGeRiRe-1096,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[He shook Armstrong's hand and hugged him.],,Y,MeGeRiRe-1095,MeGeRiRe-1097
+MeGeRiRe-1097,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,you're bat-shit insane!,,N,MeGeRiRe-1096,MeGeRiRe-1098
+MeGeRiRe-1098,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Armstrong is surprised again. Raiden throws him on the floor.],,Y,MeGeRiRe-1097,MeGeRiRe-1099
+MeGeRiRe-1099,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Making the mother of all omelettes here, Jack. Can't fret over every egg.",,N,MeGeRiRe-1098,MeGeRiRe-1100
+MeGeRiRe-1100,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"Not when you’re “purging the weak,"" right? What do you know about “the weak”? You weren't born poor. You've never been hungry. You don't know what it's like to fight and steal and kill just to survive...",,N,MeGeRiRe-1099,MeGeRiRe-1101
+MeGeRiRe-1101,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,But you did survive! Through sheer force of will following your own set of rules. With your own two hands you took back your life!,,N,MeGeRiRe-1100,MeGeRiRe-1102
+MeGeRiRe-1102,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,And now I'll take yours.,,N,MeGeRiRe-1101,MeGeRiRe-1103
+MeGeRiRe-1103,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Second fight with the senator begins.],,Y,MeGeRiRe-1102,MeGeRiRe-1104
+MeGeRiRe-1104,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,Try n' shut me up! You'll fail like the others! You're going down!,,N,MeGeRiRe-1103,MeGeRiRe-1105
+MeGeRiRe-1105,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Raiden has 0.1% health left. He charges his fist with electricity and hits Armstrong in the stomach. The senator doesn't even move.],,Y,MeGeRiRe-1104,MeGeRiRe-1106
+MeGeRiRe-1106,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden, Why won’t you die?!,(enraged) ,N,MeGeRiRe-1105,MeGeRiRe-1107
+MeGeRiRe-1107,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[Armstrong laughs and tears up his shirt. Underneath it, we see iron muscles and thick veins going to his heart. The Senator's skin becomes as strong as steel at any time he likes.]",,Y,MeGeRiRe-1106,MeGeRiRe-1108
+MeGeRiRe-1108,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Nanomachines, son. They harden in response to physical trauma. You can't hurt me, Jack.",,N,MeGeRiRe-1107,MeGeRiRe-1109
+MeGeRiRe-1109,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Raiden hits the senator with no success.],,Y,MeGeRiRe-1108,MeGeRiRe-1110
+MeGeRiRe-1110,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,What did I just say? Time to end this.,,N,MeGeRiRe-1109,MeGeRiRe-1111
+MeGeRiRe-1111,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Sam's sword lying next to Blade Wolf beeps and the LED on his handle turns green.],,Y,MeGeRiRe-1110,MeGeRiRe-1112
+MeGeRiRe-1112,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Die! Die! Die, you place of shit!",,N,MeGeRiRe-1111,MeGeRiRe-1113
+MeGeRiRe-1113,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[He hits it with such force that he breaks through the Metal Gear on which they were standing, forming a small closed arena.]",,Y,MeGeRiRe-1112,MeGeRiRe-1114
+MeGeRiRe-1114,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,All right. I think we’re about done here.,,N,MeGeRiRe-1113,MeGeRiRe-1115
+MeGeRiRe-1115,"Shabhazabad Air Base, Pakistan",Three weeks later...,Blade Wolf,Raiden.,,N,MeGeRiRe-1114,MeGeRiRe-1116
+MeGeRiRe-1116,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,Wolf...,,N,MeGeRiRe-1115,MeGeRiRe-1117
+MeGeRiRe-1117,"Shabhazabad Air Base, Pakistan",Three weeks later...,Blade Wolf,Begin playback:,,N,MeGeRiRe-1116,MeGeRiRe-1118
+MeGeRiRe-1118,"Shabhazabad Air Base, Pakistan",Three weeks later...,Sam’s voice,"“Two years I've been working towards this, and on the last day blondie has me doubting the whole thing. We'll leave it up to fate then, shall we Wolfy? A duel to the death, may the best man win.”",,N,MeGeRiRe-1117,MeGeRiRe-1119
+MeGeRiRe-1119,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,Sam?!,,N,MeGeRiRe-1118,MeGeRiRe-1120
+MeGeRiRe-1120,"Shabhazabad Air Base, Pakistan",Three weeks later...,Sam’s voice,"“I cut him down, and that's that. Back to our regularly scheduled international incident. But if he beats me... if I die here... The lock on my blade will disable after a couple hours… What happens after that... is up to you, Wolfy.”",,N,MeGeRiRe-1119,MeGeRiRe-1121
+MeGeRiRe-1121,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Even dead, that guy is a pain in my ass. So… you think that little sword can save your master? Well, go ahead, then. But make no mistake, Fido. When I'm finished with him, you're next.",,N,MeGeRiRe-1120,MeGeRiRe-1122
+MeGeRiRe-1122,"Shabhazabad Air Base, Pakistan",Three weeks later...,Blade Wolf,"I was not designed to fear termination. However, directive zero one is to ensure all data acquired is preserved and passed along. To expire here would violate that directive.",,N,MeGeRiRe-1121,MeGeRiRe-1123
+MeGeRiRe-1123,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,That's a good boy.,,N,MeGeRiRe-1122,MeGeRiRe-1124
+MeGeRiRe-1124,"Shabhazabad Air Base, Pakistan",Three weeks later...,Blade Wolf,"However, Raiden came to my aid... I have learned from him. When Samuel fell, data analysis was inconclusive... but that has changed. I have established new parameters, now. Created my own directives.",,N,MeGeRiRe-1123,MeGeRiRe-1125
+MeGeRiRe-1125,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,You little fuck!,,N,MeGeRiRe-1124,MeGeRiRe-1126
+MeGeRiRe-1126,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[He jumps to the Wolf, while the Wolf throws a sword at Raiden. It's very upsetting to the senator. He kicks the Wolf.]",,Y,MeGeRiRe-1125,MeGeRiRe-1127
+MeGeRiRe-1127,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,Damn mutt!,,N,MeGeRiRe-1126,MeGeRiRe-1128
+MeGeRiRe-1128,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,Armstrong! I said my sword was a tool of justice... Not used in anger. Not used for vengeance. But now... now I'm not so sure. And besides... This isn't my sword.,,N,MeGeRiRe-1127,MeGeRiRe-1129
+MeGeRiRe-1129,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong, Come on!,(taking off the glasses) ,N,MeGeRiRe-1128,MeGeRiRe-1130
+MeGeRiRe-1130,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,OK. Let's dance.,,N,MeGeRiRe-1129,MeGeRiRe-1131
+MeGeRiRe-1131,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[The final battle with the senator begins!],,Y,MeGeRiRe-1130,MeGeRiRe-1132
+MeGeRiRe-1132,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"I'm gonna crush you! You know what? Fuck this war. I just want you dead. You freak! You're going down! I'm gonna knock you out! Die, you little shit! That ain't gonna work. Ready or not, Jack, here we go...! Child play! My turn. You're nothing! I like you, Jack, so I'm giving you another shot. I'll blow you away! Die!",,N,MeGeRiRe-1131,MeGeRiRe-1133
+MeGeRiRe-1133,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[Raiden strikes the senator with Sam's sword, which reduces his ability. Eventually, Raiden pushes Armstrong through, taking the sword out of his body and striking his chest with a few precise cuts. By cutting a hole, Raiden rips the senator's heart out.]",,Y,MeGeRiRe-1132,MeGeRiRe-1134
+MeGeRiRe-1134,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,We’re done here.,,N,MeGeRiRe-1133,MeGeRiRe-1135
+MeGeRiRe-1135,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Well done, Jack...",,N,MeGeRiRe-1134,MeGeRiRe-1136
+MeGeRiRe-1136,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,Your dream dies with you.,,N,MeGeRiRe-1135,MeGeRiRe-1137
+MeGeRiRe-1137,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"Maybe not... You've guaranteed the status quo will go on, for a while longer at least… War… will continue as an institution. As an industry. Men will fight for reasons they don't understand, causes they don't believe in…",,N,MeGeRiRe-1136,MeGeRiRe-1138
+MeGeRiRe-1138,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[He's spitting blood.],,Y,MeGeRiRe-1137,MeGeRiRe-1139
+MeGeRiRe-1139,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,"But at least I'll leave a worthy successor... You, Jack. You carve your own path, use whatever methods you see fit... You don't let legal bullshit get in the way. And if it costs a few lives? So be it...",,N,MeGeRiRe-1138,MeGeRiRe-1140
+MeGeRiRe-1140,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Raiden crushes Armstrong's heart with his hand. The senator falls to the ground.],,Y,MeGeRiRe-1139,MeGeRiRe-1141
+MeGeRiRe-1141,"Shabhazabad Air Base, Pakistan",Three weeks later...,Steven Armstrong,Deep inside we're... kindred spirits... you... and I…,,N,MeGeRiRe-1140,MeGeRiRe-1142
+MeGeRiRe-1142,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[He dies. We're going back to Maverick base. ],,Y,MeGeRiRe-1141,MeGeRiRe-1143
+MeGeRiRe-1143,"Shabhazabad Air Base, Pakistan",Three weeks later...,CNET Reporter,"-- ficial pet right for your family? But first, our top story: President Hamilon returns from Pakistan today, completing his first visit to the country since the failed assassination attempt in Shabhazabad last May. In meetings with Pakistani President Farooq Salam, the two leaders agreed to a new joint-initiative in the war on terror, whereby U.S. Marines will be stationed in Pakistan and even wider authority conduct operations within the country. This is amidst growing tensions within Pakistan between the country's civil and military leadership, with many in the government calling on the ISI military intelligence agency to be--",,N,MeGeRiRe-1142,MeGeRiRe-1144
+MeGeRiRe-1144,"Shabhazabad Air Base, Pakistan",Three weeks later...,Courtney,Unbelievable. After all that...,,N,MeGeRiRe-1143,MeGeRiRe-1145
+MeGeRiRe-1145,"Shabhazabad Air Base, Pakistan",Three weeks later...,Kevin,"For the last time, let it go, Courtney. Least Armstrong will never be president…",,N,MeGeRiRe-1144,MeGeRiRe-1146
+MeGeRiRe-1146,"Shabhazabad Air Base, Pakistan",Three weeks later...,Courtney,"But... I mean, Raiden...",,N,MeGeRiRe-1145,MeGeRiRe-1147
+MeGeRiRe-1147,"Shabhazabad Air Base, Pakistan",Three weeks later...,Kevin,There he is.,,N,MeGeRiRe-1146,MeGeRiRe-1148
+MeGeRiRe-1148,"Shabhazabad Air Base, Pakistan",Three weeks later...,Doktor (via videoconference),I have excellent news! We are approved -- the new corporation is established!,,N,MeGeRiRe-1147,MeGeRiRe-1149
+MeGeRiRe-1149,"Shabhazabad Air Base, Pakistan",Three weeks later...,Kevin,"Nice work, Dok! I guess the world's first cyborg stuffing firm is officially open for business.",,N,MeGeRiRe-1148,MeGeRiRe-1150
+MeGeRiRe-1150,"Shabhazabad Air Base, Pakistan",Three weeks later...,Doktor (via videoconference),"We are certified for construction and long-term nursing care, but this is just the beginning! The potential for new roles cyborgs can play is... limitless!",,N,MeGeRiRe-1149,MeGeRiRe-1151
+MeGeRiRe-1151,"Shabhazabad Air Base, Pakistan",Three weeks later...,Coutney,And we're sure this isn't child labor?,,N,MeGeRiRe-1150,MeGeRiRe-1152
+MeGeRiRe-1152,"Shabhazabad Air Base, Pakistan",Three weeks later...,Doktor (via videoconference),"The older brai--er, children can work now. the rest when they come of age. And it's strictly voluntary, you know.",,N,MeGeRiRe-1151,MeGeRiRe-1153
+MeGeRiRe-1153,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris,"We are not running a charity here, eh? Donations alone would not even cover their maintenance. Besides, this way they learn a trade. Perhaps some discipline, ah?",,N,MeGeRiRe-1152,MeGeRiRe-1154
+MeGeRiRe-1154,"Shabhazabad Air Base, Pakistan",Three weeks later...,Kevin,"It's not a perfect solution... But you know what, at least these kids'll get a decent education.",,N,MeGeRiRe-1153,MeGeRiRe-1155
+MeGeRiRe-1155,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris,"Well, I'm not about to return them to the streets, or to broken homes. At least we can give them a chance. (spills Courntey’s coffee) Oops...",,N,MeGeRiRe-1154,MeGeRiRe-1156
+MeGeRiRe-1156,"Shabhazabad Air Base, Pakistan",Three weeks later...,Coutney,An imperfect solution for an imperfect world…,,N,MeGeRiRe-1155,MeGeRiRe-1157
+MeGeRiRe-1157,"Shabhazabad Air Base, Pakistan",Three weeks later...,Doktor (via videoconference),"Well, another benefits: A peaceful application for all my research! (laughs]",,N,MeGeRiRe-1156,MeGeRiRe-1158
+MeGeRiRe-1158,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris,Since when do you care?,,N,MeGeRiRe-1157,MeGeRiRe-1159
+MeGeRiRe-1159,"Shabhazabad Air Base, Pakistan",Three weeks later...,Doktor (via videoconference),"Well, recent events have been... food for thought shall we say.",,N,MeGeRiRe-1158,MeGeRiRe-1160
+MeGeRiRe-1160,"Shabhazabad Air Base, Pakistan",Three weeks later...,Kevin,No kiddin'?,,N,MeGeRiRe-1159,MeGeRiRe-1161
+MeGeRiRe-1161,"Shabhazabad Air Base, Pakistan",Three weeks later...,Coutney,"Speaking of recent events, how's our new recruit working out?",,N,MeGeRiRe-1160,MeGeRiRe-1162
+MeGeRiRe-1162,"Shabhazabad Air Base, Pakistan",Three weeks later...,Doktor (via videoconference),"Ah yes, quite well... Quite well..",,N,MeGeRiRe-1161,MeGeRiRe-1163
+MeGeRiRe-1163,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[Moving to Solus. George is dragging a bunch of boxes.],,Y,MeGeRiRe-1162,MeGeRiRe-1164
+MeGeRiRe-1164,"Shabhazabad Air Base, Pakistan",Three weeks later...,George,"Oi, Sunny,  whea yuh have dis den? (where's this go?]","(Hey, Sunny,) ",N,MeGeRiRe-1163,MeGeRiRe-1165
+MeGeRiRe-1165,"Shabhazabad Air Base, Pakistan",Three weeks later...,Sunny Emmerich,"Hang on, just gimme one… second...",,N,MeGeRiRe-1164,MeGeRiRe-1166
+MeGeRiRe-1166,"Shabhazabad Air Base, Pakistan",Three weeks later...,George,"Yah, okay.  Yuh make mi head spin, ya know. (Man, Sunny, you're really something.) Yuh same age a mi, but all dis spaceship...  Yuh a genius gyal. (You're a genius, girl.]","(All right...) (Same age as me, but all this spaceship stuff...) ",N,MeGeRiRe-1165,MeGeRiRe-1167
+MeGeRiRe-1167,"Shabhazabad Air Base, Pakistan",Three weeks later...,Sunny Emmerich,Mm hmm...,,N,MeGeRiRe-1166,MeGeRiRe-1168
+MeGeRiRe-1168,"Shabhazabad Air Base, Pakistan",Three weeks later...,George,"An yuh hot fah days. (And you're pretty cute, too.]",,N,MeGeRiRe-1167,MeGeRiRe-1169
+MeGeRiRe-1169,"Shabhazabad Air Base, Pakistan",Three weeks later...,Sunny Emmerich,Huh? W-Where'd that come from?,,N,MeGeRiRe-1168,MeGeRiRe-1170
+MeGeRiRe-1170,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[She accidentally steps on Blade Wolf's tail.],,Y,MeGeRiRe-1169,MeGeRiRe-1171
+MeGeRiRe-1171,"Shabhazabad Air Base, Pakistan",Three weeks later...,Blade Wolf,Alert. Alert: Rescinded.,,N,MeGeRiRe-1170,MeGeRiRe-1172
+MeGeRiRe-1172,"Shabhazabad Air Base, Pakistan",Three weeks later...,George,"Dis aboutta crazy wuld, nah? (Crazy world, isn't it?) For mi see dat ninja,  mi neva tink a bin dis kinda life. (I never would have even imagined this kind of life.]","(Before time that ninja,) ",N,MeGeRiRe-1171,MeGeRiRe-1173
+MeGeRiRe-1173,"Shabhazabad Air Base, Pakistan",Three weeks later...,Sunny Emmerich,Yeah…,,N,MeGeRiRe-1172,MeGeRiRe-1174
+MeGeRiRe-1174,"Shabhazabad Air Base, Pakistan",Three weeks later...,George,Huh?,,N,MeGeRiRe-1173,MeGeRiRe-1175
+MeGeRiRe-1175,"Shabhazabad Air Base, Pakistan",Three weeks later...,Sunny Emmerich,"He rescued me, too, you know... saved my life. I owe him everything. To some people, he'll always be Jack the Ripper. I know all about his past. He had it rough and he hurt a lot of people. But that's not the Raiden I know. The Raiden I know... is a hero.",,N,MeGeRiRe-1174,MeGeRiRe-1176
+MeGeRiRe-1176,"Shabhazabad Air Base, Pakistan",Three weeks later...,,"[Credits. After that, we hear voices against a dark screen.]",,Y,MeGeRiRe-1175,MeGeRiRe-1177
+MeGeRiRe-1177,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,And how's business?,,N,MeGeRiRe-1176,MeGeRiRe-1178
+MeGeRiRe-1178,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris,"Oh, good, good. Herr Doktor's research and staffing service certainly help.",,N,MeGeRiRe-1177,MeGeRiRe-1179
+MeGeRiRe-1179,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,I hear World Marshal's looking for a buyer.,,N,MeGeRiRe-1178,MeGeRiRe-1180
+MeGeRiRe-1180,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris," Well, you cost them a lot of money, da?  Not to mention killing their funding. Literally!  The brain-taking program is finished, but the larger company is not, I'm afraid. Someone will buy them. PMCs are in demand once again.",(laughs) (yes?) (laughs) ,N,MeGeRiRe-1179,MeGeRiRe-1181
+MeGeRiRe-1181,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"Yeah. Fighting for reasons they don't understand, causes they don't believe in...",,N,MeGeRiRe-1180,MeGeRiRe-1182
+MeGeRiRe-1182,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris,Beg pardon?,,N,MeGeRiRe-1181,MeGeRiRe-1183
+MeGeRiRe-1183,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"No, nothing.",,N,MeGeRiRe-1182,MeGeRiRe-1184
+MeGeRiRe-1184,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris,So… your mind is made? You will not come back?,,N,MeGeRiRe-1183,MeGeRiRe-1185
+MeGeRiRe-1185,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,"Sorry, Boris.",,N,MeGeRiRe-1184,MeGeRiRe-1186
+MeGeRiRe-1186,"Shabhazabad Air Base, Pakistan",Three weeks later...,Boris,I understand. But then... what will you do?,,N,MeGeRiRe-1185,MeGeRiRe-1187
+MeGeRiRe-1187,"Shabhazabad Air Base, Pakistan",Three weeks later...,Raiden,I've got my own war to fight.,,N,MeGeRiRe-1186,MeGeRiRe-1188
+MeGeRiRe-1188,"Shabhazabad Air Base, Pakistan",Three weeks later...,,[He's going to cut up some soldiers in an alley. He's wearing a strict funeral costume.],,Y,MeGeRiRe-1187,MeGeRiRe-1189

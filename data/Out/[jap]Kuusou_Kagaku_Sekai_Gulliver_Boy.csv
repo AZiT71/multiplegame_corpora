@@ -1,0 +1,188 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+[jKaSeGuBo-5,Gulliver Boy Character 004,,Event,Exit Classroom,,N,[jKaSeGuBo-4,[jKaSeGuBo-6
+[jKaSeGuBo-19,Behind the School,,Event,Chat with the Principal,,N,[jKaSeGuBo-18,[jKaSeGuBo-20
+[jKaSeGuBo-50,Toscani House (トスカーニ家・別],,Event,Enter Toscani House,,N,[jKaSeGuBo-49,[jKaSeGuBo-51
+[jKaSeGuBo-53,Gulliver Boy Character 019,,Event,Read Edison's Letter,,N,[jKaSeGuBo-52,[jKaSeGuBo-54
+[jKaSeGuBo-55,Gulliver Boy Character 002,,Event,Phone Call with the King,,N,[jKaSeGuBo-54,[jKaSeGuBo-56
+[jKaSeGuBo-58,Gulliver Boy Character 021,,Event,Exiting Toscani House,,N,[jKaSeGuBo-57,[jKaSeGuBo-59
+[jKaSeGuBo-71,Gulliver Boy Character 020,,Event,Battle with the King,,N,[jKaSeGuBo-70,[jKaSeGuBo-72
+[jKaSeGuBo-77,Gulliver Boy Character 021,,Event,"Victorious, the King Tells His Tale",,N,[jKaSeGuBo-76,[jKaSeGuBo-78
+[jKaSeGuBo-82,Classroom A,,Event,Teacher Tells About the Exam,,N,[jKaSeGuBo-81,[jKaSeGuBo-83
+[jKaSeGuBo-87,Gulliver Boy Character 007,,Event,Boss Battle,,N,[jKaSeGuBo-86,[jKaSeGuBo-88
+[jKaSeGuBo-89,Gulliver Boy Character 022,,Event,Post-Battle,,N,[jKaSeGuBo-88,[jKaSeGuBo-90
+[jKaSeGuBo-101,Gulliver Boy Character 019,,Event,Get On the Boat,,N,[jKaSeGuBo-100,[jKaSeGuBo-102
+[jKaSeGuBo-108,Chapter 2,,Kingdom of Venice (ベニス王国]Event,The Butler Takes Gulliver Home,,N,[jKaSeGuBo-107,[jKaSeGuBo-109
+[jKaSeGuBo-111,Gulliver's House - 1st Floor,,Event,Dad and Lawrence,,N,[jKaSeGuBo-110,[jKaSeGuBo-112
+[jKaSeGuBo-122,Chinatown Tent,,Event,Meet Phoebe,,N,[jKaSeGuBo-121,[jKaSeGuBo-123
+[jKaSeGuBo-130,Gulliver Boy Character 032,,Event,Reunite with Edison,,N,[jKaSeGuBo-129,[jKaSeGuBo-131
+[jKaSeGuBo-138,潮風にのって　どこからともなく　美しい歌声が　聞こえてきました。,,Event,Masked Man Outside of Cafe,,N,[jKaSeGuBo-137,[jKaSeGuBo-139
+[jKaSeGuBo-140,Gulliver Boy Character 033,,Event,Entering the Cafe,,N,[jKaSeGuBo-139,[jKaSeGuBo-141
+[jKaSeGuBo-142,わっ　わかったから　大声だすなって…　よし！　行くぞ！,,Event,Exit and Return the Mask,,N,[jKaSeGuBo-141,[jKaSeGuBo-143
+[jKaSeGuBo-144,Gulliver Boy Character 033,,Event,The Butler Says to Head Back Home,,N,[jKaSeGuBo-143,[jKaSeGuBo-145
+[jKaSeGuBo-146,Gulliver's House - 1st Floor,,Event,Obtain Stamp Book From Gulliver's Father,,N,[jKaSeGuBo-145,[jKaSeGuBo-147
+[jKaSeGuBo-160,Venice Port (ベニスの港）,,Event,Get Back on the Boat,,N,[jKaSeGuBo-159,[jKaSeGuBo-161
+[jKaSeGuBo-164,Overworld,,Event,Sailing Around,,N,[jKaSeGuBo-163,[jKaSeGuBo-165
+[jKaSeGuBo-169,Port of Yugo,,Event,Docking at Yugo,,N,[jKaSeGuBo-168,[jKaSeGuBo-170
+[jKaSeGuBo-171,Kingdom of Venice,,Event,Return to Venice,,N,[jKaSeGuBo-170,[jKaSeGuBo-172
+[jKaSeGuBo-180,Palace of Venice (ベニス王宮],,Event,Spotted by Guards,,N,[jKaSeGuBo-179,[jKaSeGuBo-181
+[jKaSeGuBo-183,Gulliver Boy Character 001,,Event,Meet Doga,,N,[jKaSeGuBo-182,[jKaSeGuBo-184
+[jKaSeGuBo-187,Gulliver Boy Character 035,,Event,Choose Yes,,N,[jKaSeGuBo-186,[jKaSeGuBo-188
+[jKaSeGuBo-191,Gulliver Boy Character 028,,Event,Choose No,,N,[jKaSeGuBo-190,[jKaSeGuBo-192
+[jKaSeGuBo-199,Gulliver Boy Character 034,,Event,Dad vs. Doga,,N,[jKaSeGuBo-198,[jKaSeGuBo-200
+[jKaSeGuBo-207,Gulliver Boy Character 001,,Event,Aftermath,,N,[jKaSeGuBo-206,[jKaSeGuBo-208
+[jKaSeGuBo-213,Gulliver Boy Character 023,,Event,Misty and Gekkou,,N,[jKaSeGuBo-212,[jKaSeGuBo-214
+[jKaSeGuBo-224,Gulliver Boy Character 036,,Event,Leaving for Alban,,N,[jKaSeGuBo-223,[jKaSeGuBo-225
+[jKaSeGuBo-232,Gulliver Boy Character 038,,Event,Meet Captain Silver,,N,[jKaSeGuBo-231,[jKaSeGuBo-233
+[jKaSeGuBo-236,Gulliver Boy Character 039,,Snake Mountain (スネーク山]Event,After Boss Battle,,N,[jKaSeGuBo-235,[jKaSeGuBo-237
+[jKaSeGuBo-238,Bridgette's Tavern (ブリジットの酒場],,Event,Bring Faucet to the Tavern,,N,[jKaSeGuBo-237,[jKaSeGuBo-239
+[jKaSeGuBo-242,Gulliver Boy Character 001,,Event,Enter the Captain's Quarters,,N,[jKaSeGuBo-241,[jKaSeGuBo-243
+[jKaSeGuBo-246,Port of Alban,,Event,Set Sail with Silver,,N,[jKaSeGuBo-245,[jKaSeGuBo-247
+[jKaSeGuBo-259,いい根性だ！　行くぜ!!	FMV,,Lion's Cave (獅子の洞窟]Event,Entering the Cave,,N,[jKaSeGuBo-258,[jKaSeGuBo-260
+[jKaSeGuBo-262,Gulliver Boy Character 039,,Event,Confrontation at Cave's End,,N,[jKaSeGuBo-261,[jKaSeGuBo-263
+[jKaSeGuBo-266,Gulliver Boy Character 042,,Event,After Boss Battle,,N,[jKaSeGuBo-265,[jKaSeGuBo-267
+[jKaSeGuBo-269,ねぇ！　ガリバー！ここのスイッチ　押してみようよ！,,Event,Cave In,,N,[jKaSeGuBo-268,[jKaSeGuBo-270
+[jKaSeGuBo-273,扉は　ビクともしません。岩で　ふさがれているようです。,,Event,Examine Steering Wheel,,N,[jKaSeGuBo-272,[jKaSeGuBo-274
+[jKaSeGuBo-274,とにかく…外に出てみようよ！,,Event,Exit the Sub,,N,[jKaSeGuBo-273,[jKaSeGuBo-275
+[jKaSeGuBo-275,Cafe Florin (カフェ・フロリン],,Event,That Singing Voice,,N,[jKaSeGuBo-274,[jKaSeGuBo-276
+[jKaSeGuBo-277,Gulliver Boy Character 002,,Event,Reuinion with Misty,,N,[jKaSeGuBo-276,[jKaSeGuBo-278
+[jKaSeGuBo-279,Gulliver Boy Character 043,,Event,Obtain the Mist Globe from Dr. Lee 10,,N,[jKaSeGuBo-278,[jKaSeGuBo-280
+[jKaSeGuBo-288,Gulliver Boy Character 032,,Event,Return to the Submarine,,N,[jKaSeGuBo-287,[jKaSeGuBo-289
+[jKaSeGuBo-308,Balkan Village,,Event,Praise for Edison,,N,[jKaSeGuBo-307,[jKaSeGuBo-309
+[jKaSeGuBo-316,Streets,,Event,Meet Steel Bat,,N,[jKaSeGuBo-315,[jKaSeGuBo-317
+[jKaSeGuBo-323,Miyabi,,Event,Steel Bat Joins,,N,[jKaSeGuBo-322,[jKaSeGuBo-324
+[jKaSeGuBo-330,いや…はは…は,,Event,Gekkou,,N,[jKaSeGuBo-329,[jKaSeGuBo-331
+[jKaSeGuBo-338,Gulliver Boy Character 012,,Event,Villain Spotted in Rome,,N,[jKaSeGuBo-337,[jKaSeGuBo-339
+[jKaSeGuBo-339,ドガのヤツ　今度はローマで悪いこと　してるんだ！,,Event,Return to the Sub,,N,[jKaSeGuBo-338,[jKaSeGuBo-340
+[jKaSeGuBo-345,Nikita's Home (ニキータの家],,Event,Meet Nikita,,N,[jKaSeGuBo-344,[jKaSeGuBo-346
+[jKaSeGuBo-351,Barbershop Secret Room,,Event,Eavesdropping on the White Mafia,,N,[jKaSeGuBo-350,[jKaSeGuBo-352
+[jKaSeGuBo-355,Streets,,Event,Marlon's Bodyguard,,N,[jKaSeGuBo-354,[jKaSeGuBo-356
+[jKaSeGuBo-358,Gulliver Boy Character 052,,Event,Meet Marlon,,N,[jKaSeGuBo-357,[jKaSeGuBo-359
+[jKaSeGuBo-367,Gulliver Boy Character 052,,Event,Marlon Returns,,N,[jKaSeGuBo-366,[jKaSeGuBo-368
+[jKaSeGuBo-369,Sicily,,Event,Arriving,,N,[jKaSeGuBo-368,[jKaSeGuBo-370
+[jKaSeGuBo-378,Navona (ナボナの村]Streets,,Event,Swindled Gentleman,,N,[jKaSeGuBo-377,[jKaSeGuBo-379
+[jKaSeGuBo-383,Gulliver Boy Character 054,,Event,Pepperoncini and Friends,,N,[jKaSeGuBo-382,[jKaSeGuBo-384
+[jKaSeGuBo-386,さあ　どーぞ！おいしいですよ！,,Event,The Big Musical Number!,,N,[jKaSeGuBo-385,[jKaSeGuBo-387
+[jKaSeGuBo-414,There is nothing to lose! ♪ ♪,,Downtown (ダウンタウン]Streets Event,Hungry Guards,,N,[jKaSeGuBo-413,[jKaSeGuBo-415
+[jKaSeGuBo-421,Cat Mansion (キャットの屋敷],,Event,Meet Cat,,N,[jKaSeGuBo-420,[jKaSeGuBo-422
+[jKaSeGuBo-429,Gulliver Boy Character 058,,Event,Strange Sound,,N,[jKaSeGuBo-428,[jKaSeGuBo-430
+[jKaSeGuBo-437,Gulliver Boy Character 012,,Event,Leia,,N,[jKaSeGuBo-436,[jKaSeGuBo-438
+[jKaSeGuBo-440,Colliseum (コロッセウムの村]Florist (花屋）,,Event,Get the Flower Key,,N,[jKaSeGuBo-439,[jKaSeGuBo-441
+[jKaSeGuBo-442,Gulliver Boy Character 060,,おー!!　スゲッ!!　おおおっ！　これは！ああッ！あんなトコまで！　うひょー！あうっ!!　あうっ!!　あうっ!!　おーー!! んー何だよ!!せっかく　いいトコなのに… え？　あんたも　のぞきたいって？…しょうがねぇな… (FMV]Event,Participate,,N,[jKaSeGuBo-441,[jKaSeGuBo-443
+[jKaSeGuBo-446,Hayanashiki (花屋敷）,,Event,Dead Flowers,,N,[jKaSeGuBo-445,[jKaSeGuBo-447
+[jKaSeGuBo-447,ガリバーは　花の鍵を　使いました。,,Event,Disgraced General,,N,[jKaSeGuBo-446,[jKaSeGuBo-448
+[jKaSeGuBo-453,Gulliver Boy Character 035,,Event,Try to Leave,,N,[jKaSeGuBo-452,[jKaSeGuBo-454
+[jKaSeGuBo-455,Gulliver Boy Character 002,,Event,Rescue Stasha,,N,[jKaSeGuBo-454,[jKaSeGuBo-456
+[jKaSeGuBo-457,Gulliver Boy Character 061,,Event,Exit (You Spared Doga],,N,[jKaSeGuBo-456,[jKaSeGuBo-458
+[jKaSeGuBo-459,Gulliver Boy Character 029,,Event,Exit (You Did Not Spare Doga],,N,[jKaSeGuBo-458,[jKaSeGuBo-460
+[jKaSeGuBo-461,Roman Royal Palace (ローマ王宮],,Event,Meet Maltese (You Spared Doga],,N,[jKaSeGuBo-460,[jKaSeGuBo-462
+[jKaSeGuBo-465,Gulliver Boy Character 062,,Event,Meet Maltese (You Did Not Spare Doga],,N,[jKaSeGuBo-464,[jKaSeGuBo-466
+[jKaSeGuBo-467,Gulliver Boy Character 062,,Event,Aftermath,,N,[jKaSeGuBo-466,[jKaSeGuBo-468
+[jKaSeGuBo-472,Colosseo Underground (コロッセオ地下],,Event,Meet Gorgos,,N,[jKaSeGuBo-471,[jKaSeGuBo-473
+[jKaSeGuBo-476,地上へと続く　はしごがあります。登りますか？,,Event,Meet Eroica,,N,[jKaSeGuBo-475,[jKaSeGuBo-477
+[jKaSeGuBo-482,Gulliver Boy Character 057,,Event,A Grateful King,,N,[jKaSeGuBo-481,[jKaSeGuBo-483
+[jKaSeGuBo-490,なかなか　いい心がけだ！よし！　入っていいぞ！,,Event,Second Toll,,N,[jKaSeGuBo-489,[jKaSeGuBo-491
+[jKaSeGuBo-492,なかなか　いい心がけだ！よし！　入っていいぞ！,,Event,Third Toll,,N,[jKaSeGuBo-491,[jKaSeGuBo-493
+[jKaSeGuBo-496,それでは　奥へどうぞ！,,Event,Meet Grucho Mucho,,N,[jKaSeGuBo-495,[jKaSeGuBo-497
+[jKaSeGuBo-498,Avalon (あばろん],,Event,Sailor Tells of Grucho,,N,[jKaSeGuBo-497,[jKaSeGuBo-499
+[jKaSeGuBo-504,Avalon,,Event,Godot's Grip,,N,[jKaSeGuBo-503,[jKaSeGuBo-505
+[jKaSeGuBo-513,Grand Casino　（グラン・カシノ）,,Event,Generous Lawrence,,N,[jKaSeGuBo-512,[jKaSeGuBo-514
+[jKaSeGuBo-516,Gulliver Boy Character 029,,Event,Dr. Horse,,N,[jKaSeGuBo-515,[jKaSeGuBo-517
+[jKaSeGuBo-519,Gulliver Boy Character 002,,Event,Bar Bunny,,N,[jKaSeGuBo-518,[jKaSeGuBo-520
+[jKaSeGuBo-522,VIP Room (VIPルーム],,Event,Mopping Minigame,,N,[jKaSeGuBo-521,[jKaSeGuBo-523
+[jKaSeGuBo-529,堕落　そして壮絶なる死,,Event,Cat's Trap,,N,[jKaSeGuBo-528,[jKaSeGuBo-530
+[jKaSeGuBo-531,Gulliver Boy Character 058,,Event,Cowardly Cat,,N,[jKaSeGuBo-530,[jKaSeGuBo-532
+[jKaSeGuBo-533,Gulliver Boy Character 058,,Event,Cornered Cat,,N,[jKaSeGuBo-532,[jKaSeGuBo-534
+[jKaSeGuBo-536,House,,Event,Lawrence Provides an Upgrade for Edison,,N,[jKaSeGuBo-535,[jKaSeGuBo-537
+[jKaSeGuBo-561,Casbah (カスバ],,Event,Eagle v. Toscani,,N,[jKaSeGuBo-560,[jKaSeGuBo-562
+[jKaSeGuBo-572,Library,,Event,To the Mines,,N,[jKaSeGuBo-571,[jKaSeGuBo-573
+[jKaSeGuBo-579,足もとに　電炭が落ちています。取りますか？,,Event,Harvesting Charcoal for Ripply,,N,[jKaSeGuBo-578,[jKaSeGuBo-580
+[jKaSeGuBo-596,The Pit,,Event,"Ripply's ""Human Resources"" Speech",,N,[jKaSeGuBo-595,[jKaSeGuBo-597
+[jKaSeGuBo-606,Ripply's Room,,Event,Ripply Confronted,,N,[jKaSeGuBo-605,[jKaSeGuBo-607
+[jKaSeGuBo-610,Gulliver Boy Character 078,,Event,Exit,,N,[jKaSeGuBo-609,[jKaSeGuBo-611
+[jKaSeGuBo-622,Avalon,,Event,Learning Godot's Location,,N,[jKaSeGuBo-621,[jKaSeGuBo-623
+[jKaSeGuBo-626,Grand Casino,,Event,Bar Bunny and the Passcode,,N,[jKaSeGuBo-625,[jKaSeGuBo-627
+[jKaSeGuBo-628,Gold Coin Sorting Station (金貨選別所],,Event,Meet Godot,,N,[jKaSeGuBo-627,[jKaSeGuBo-629
+[jKaSeGuBo-634,Gulliver Boy Character 081,,Event,Grucho's Big Moment,,N,[jKaSeGuBo-633,[jKaSeGuBo-635
+[jKaSeGuBo-635,I Said I　Love You ♪ ♪,,Event,Beat Godot,,N,[jKaSeGuBo-634,[jKaSeGuBo-636
+[jKaSeGuBo-646,Gulliver Boy Character 015,,Event,Sneaking Through the Fence,,N,[jKaSeGuBo-645,[jKaSeGuBo-647
+[jKaSeGuBo-657,Gulliver Boy Character 084,,Event,Meet Jeanne,,N,[jKaSeGuBo-656,[jKaSeGuBo-658
+[jKaSeGuBo-666,Gulliver Boy Character 034,,Event,Prison Break,,N,[jKaSeGuBo-665,[jKaSeGuBo-667
+[jKaSeGuBo-673,ふざけやがって!!子供だからって　ようしゃしないぜ！,,Event,Receive Rubber,,N,[jKaSeGuBo-672,[jKaSeGuBo-674
+[jKaSeGuBo-677,Village of Charles,,Event,Gekkou Returns,,N,[jKaSeGuBo-676,[jKaSeGuBo-678
+[jKaSeGuBo-679,Gulliver Boy Character 042,,Event,Cowardly Killer,,N,[jKaSeGuBo-678,[jKaSeGuBo-680
+[jKaSeGuBo-681,ガリバーさん!!　こっちです！,,Event,Check on Jeanne,,N,[jKaSeGuBo-680,[jKaSeGuBo-682
+[jKaSeGuBo-687,SSS　School　（SSS塾）,,Event,Meet Paella,,N,[jKaSeGuBo-686,[jKaSeGuBo-688
+[jKaSeGuBo-707,Hallway,,Event,Spotted,,N,[jKaSeGuBo-706,[jKaSeGuBo-708
+[jKaSeGuBo-713,Faculty Room,,Event,Boss Time,,N,[jKaSeGuBo-712,[jKaSeGuBo-714
+[jKaSeGuBo-721,Gulliver Boy Character 002,,Event,One Last Thing,,N,[jKaSeGuBo-720,[jKaSeGuBo-722
+[jKaSeGuBo-723,Chapter 5,,Port of Hispania（イスパニアの港]Event,The Tour,,N,[jKaSeGuBo-722,[jKaSeGuBo-724
+[jKaSeGuBo-733,Battleship,,Event,Silver to the Rescue,,N,[jKaSeGuBo-732,[jKaSeGuBo-734
+[jKaSeGuBo-739,Power Department (動力部],,Event,Computer Paradise,,N,[jKaSeGuBo-738,[jKaSeGuBo-740
+[jKaSeGuBo-746,Gulliver Boy Character 002,,Event,Edison at the Computer,,N,[jKaSeGuBo-745,[jKaSeGuBo-747
+[jKaSeGuBo-751,Top Floor,,Event,Meet Budo Muscle,,N,[jKaSeGuBo-750,[jKaSeGuBo-752
+[jKaSeGuBo-761,END OF DISC 1 (SEGA SATURN VERSION],,Port of Casablanca (カサブランカの港]City of Darkness,Curtis (闇の街・カーティス]The Casablanca Bar,,N,[jKaSeGuBo-760,[jKaSeGuBo-762
+[jKaSeGuBo-769,Black White Bar,,Event,Nichirin,,N,[jKaSeGuBo-768,[jKaSeGuBo-770
+[jKaSeGuBo-778,Gulliver Boy Character 013,,Event,Meet Gekkou's Master,,N,[jKaSeGuBo-777,[jKaSeGuBo-779
+[jKaSeGuBo-793,Full Moon Palace Outskirts (月パレス],,Event,Introducing Baron Fullmoon,,N,[jKaSeGuBo-792,[jKaSeGuBo-794
+[jKaSeGuBo-797,Full Moon Palace 4F,,Event,Meeting Baron Fullmoon,,N,[jKaSeGuBo-796,[jKaSeGuBo-798
+[jKaSeGuBo-804,Gulliver Boy Character 100,,Event,Gekkou's Last Stand,,N,[jKaSeGuBo-803,[jKaSeGuBo-805
+[jKaSeGuBo-819,ガリバーの　酔いが　さめました。,,Event,Meet Pink Tiger,,N,[jKaSeGuBo-818,[jKaSeGuBo-820
+[jKaSeGuBo-827,Streets,,Event,One Thing Before You Go,,N,[jKaSeGuBo-826,[jKaSeGuBo-828
+[jKaSeGuBo-829,Port of Libson　（リスボンの港）,,Event,Meet Iron Kong,,N,[jKaSeGuBo-828,[jKaSeGuBo-830
+[jKaSeGuBo-831,Northland Village (ノースランドの村]Inn,,Event,Kong's Service,,N,[jKaSeGuBo-830,[jKaSeGuBo-832
+[jKaSeGuBo-844,Purple Rain (パープルレイン],,Event,Clumsy Bartender,,N,[jKaSeGuBo-843,[jKaSeGuBo-845
+[jKaSeGuBo-847,Area Beneath Purple Rain,,Event,Meet Guernica,,N,[jKaSeGuBo-846,[jKaSeGuBo-848
+[jKaSeGuBo-853,Gulliver Boy Character 013,,Linear Train Platform,1 (リニアトレイン乗り場],,N,[jKaSeGuBo-852,[jKaSeGuBo-854
+[jKaSeGuBo-856,Area Beneath Purple Rain,,Event,Guernica's Speech,,N,[jKaSeGuBo-855,[jKaSeGuBo-857
+[jKaSeGuBo-861,Gulliver Boy Character 109,,Linear Train Platform,2,,N,[jKaSeGuBo-860,[jKaSeGuBo-862
+[jKaSeGuBo-865,Gulliver Boy Character 095,,Event,A Victory Cut Short,,N,[jKaSeGuBo-864,[jKaSeGuBo-866
+[jKaSeGuBo-868,Gulliver Boy Character 100,,Event,The Main Turbine,,N,[jKaSeGuBo-867,[jKaSeGuBo-869
+[jKaSeGuBo-877,Gulliver Boy Character 002,,Linear Train Platform,3,,N,[jKaSeGuBo-876,[jKaSeGuBo-878
+[jKaSeGuBo-879,Analysis Room (分析室],,Event,Goodnight Moon,,N,[jKaSeGuBo-878,[jKaSeGuBo-880
+[jKaSeGuBo-885,Gulliver Boy Character 002,,Event,Rescue Guernica,,N,[jKaSeGuBo-884,[jKaSeGuBo-886
+[jKaSeGuBo-887,Gulliver Boy Character 002,,Event,Filling Guernica In,,N,[jKaSeGuBo-886,[jKaSeGuBo-888
+[jKaSeGuBo-889,壁に　レバーがあります。操作しますか？,,The Great Hispania Empire (イスパニア大帝国]Event,Jeanne,,N,[jKaSeGuBo-888,[jKaSeGuBo-890
+[jKaSeGuBo-891,Gulliver Boy Character 085,,Event,Guernica,,N,[jKaSeGuBo-890,[jKaSeGuBo-892
+[jKaSeGuBo-896,Gulliver Boy Character 109,,Event,Grief,,N,[jKaSeGuBo-895,[jKaSeGuBo-897
+[jKaSeGuBo-899,Gulliver Boy Character 001,,Event,Big Mouse Drops by to Say He Brought the Sub,,N,[jKaSeGuBo-898,[jKaSeGuBo-900
+[jKaSeGuBo-901,Hispania Fortress (イスパニア要塞],,Event,Judo?,,N,[jKaSeGuBo-900,[jKaSeGuBo-902
+[jKaSeGuBo-907,Age 1 Room (１歳の部屋],,Event,Judo's Past: Part 1,,N,[jKaSeGuBo-906,[jKaSeGuBo-908
+[jKaSeGuBo-909,Age 5 Room (5歳の部屋],,Event,Judo's Past: Part 2,,N,[jKaSeGuBo-908,[jKaSeGuBo-910
+[jKaSeGuBo-912,Age 10 Room (10歳の部屋],,Event,Judo's Past: Part 3,,N,[jKaSeGuBo-911,[jKaSeGuBo-913
+[jKaSeGuBo-914,Age 15 Room (15歳の部屋],,Event,Judo's Past: Part 4,,N,[jKaSeGuBo-913,[jKaSeGuBo-915
+[jKaSeGuBo-916,Room of the Supreme Ruler (覇王の間],,Event,The Final Confrontation with Judo,,N,[jKaSeGuBo-915,[jKaSeGuBo-917
+[jKaSeGuBo-924,Gulliver Boy Character 113,,Event,After,,N,[jKaSeGuBo-923,[jKaSeGuBo-925
+[jKaSeGuBo-929,Streets,,Event,The Truth About Judo's Modifications,,N,[jKaSeGuBo-928,[jKaSeGuBo-930
+[jKaSeGuBo-1025,Beast-man Hospital　(獣人病院],,Event,Crazy Horse,,N,[jKaSeGuBo-1024,[jKaSeGuBo-1026
+[jKaSeGuBo-1028,Gulliver Boy Character 070,,Event,Check on the Bones,,N,[jKaSeGuBo-1027,[jKaSeGuBo-1029
+[jKaSeGuBo-1032,Gulliver Boy Character 125,,Event,Check on the Transformed,,N,[jKaSeGuBo-1031,[jKaSeGuBo-1033
+[jKaSeGuBo-1037,Gulliver Boy Character 070,,Event,The Truth About Ponpii,,N,[jKaSeGuBo-1036,[jKaSeGuBo-1038
+[jKaSeGuBo-1040,Ponpii Factory　(ポンピー工場],,Event,Meet Lulubu,,N,[jKaSeGuBo-1039,[jKaSeGuBo-1041
+[jKaSeGuBo-1047,Gulliver Boy Character 127,,Event,Crazy Horse Joins the Cause,,N,[jKaSeGuBo-1046,[jKaSeGuBo-1048
+[jKaSeGuBo-1060,Gulliver Boy Character 080,,Event,Meet Jalan,,N,[jKaSeGuBo-1059,[jKaSeGuBo-1061
+[jKaSeGuBo-1066,Gulliver Boy Character 127,,Event,Booted From the Temple,,N,[jKaSeGuBo-1065,[jKaSeGuBo-1067
+[jKaSeGuBo-1069,Temple of the Holy Spirit-Parthenon,,Event,Lets Try This Again,,N,[jKaSeGuBo-1068,[jKaSeGuBo-1070
+[jKaSeGuBo-1085,Gulliver Boy Character 011,,Event,Goddess Statue,,N,[jKaSeGuBo-1084,[jKaSeGuBo-1086
+[jKaSeGuBo-1104,金貨５００枚を　手に入れました。,,Aegean Straight (エーゲ海峡]Event,He Came Back!,,N,[jKaSeGuBo-1103,[jKaSeGuBo-1105
+[jKaSeGuBo-1112,Chapter 7,,Crimea Kingdom（クリミア王国]Event,Floral Conversation,,N,[jKaSeGuBo-1111,[jKaSeGuBo-1113
+[jKaSeGuBo-1116,Phoebe's Hometown,,Event,A Different Perspective,,N,[jKaSeGuBo-1115,[jKaSeGuBo-1117
+[jKaSeGuBo-1117,外に出れば…元にもどるわ…さぁ　先に　逮みましょう！,,Event,Giant Sunflower,,N,[jKaSeGuBo-1116,[jKaSeGuBo-1118
+[jKaSeGuBo-1124,Gulliver Boy Character 133,,Event,A Present from Tink,,N,[jKaSeGuBo-1123,[jKaSeGuBo-1125
+[jKaSeGuBo-1131,Zero City (ゼロ・シティ]Beauty & Beast,,Event,Mammoth's Magic Show,,N,[jKaSeGuBo-1130,[jKaSeGuBo-1132
+[jKaSeGuBo-1136,Zero's Mansion　(ゼロの屋敷],,Event,Meet Zero,,N,[jKaSeGuBo-1135,[jKaSeGuBo-1137
+[jKaSeGuBo-1142,Gulliver Boy Character 137,,Event,The First Demon Box,,N,[jKaSeGuBo-1141,[jKaSeGuBo-1143
+[jKaSeGuBo-1144,Beauty & Beast,,Event,Magi Mammoth Joins,,N,[jKaSeGuBo-1143,[jKaSeGuBo-1145
+[jKaSeGuBo-1155,むむむむむ…わしらの念力で…レディ・ビーは飛んでおるのじゃ。,,Event,Exit,,N,[jKaSeGuBo-1154,[jKaSeGuBo-1156
+[jKaSeGuBo-1163,Gulliver Boy Character 139,,Event,Zero's Sermon,,N,[jKaSeGuBo-1162,[jKaSeGuBo-1164
+[jKaSeGuBo-1165,Gulliver Boy Character 137,,Event,Zero Confronted,,N,[jKaSeGuBo-1164,[jKaSeGuBo-1166
+[jKaSeGuBo-1174,Aerial Temple,,Event,One More Try,,N,[jKaSeGuBo-1173,[jKaSeGuBo-1175
+[jKaSeGuBo-1184,Inn,,Event,Nightmare,,N,[jKaSeGuBo-1183,[jKaSeGuBo-1185
+[jKaSeGuBo-1188,Gulliver Boy Character 140,,Event,Meet X,,N,[jKaSeGuBo-1187,[jKaSeGuBo-1189
+[jKaSeGuBo-1193,Cathedral (カテドラル],,Event,Meet Queen Meshuna,,N,[jKaSeGuBo-1192,[jKaSeGuBo-1194
+[jKaSeGuBo-1200,壁に　スイッチがあります。押しますか？ はい/いいえ,,Event,Meet Balam,,N,[jKaSeGuBo-1199,[jKaSeGuBo-1201
+[jKaSeGuBo-1203,Cathedral,,Event,Meshuna,,N,[jKaSeGuBo-1202,[jKaSeGuBo-1204
+[jKaSeGuBo-1206,Gulliver Boy Character 141,,Event,What to Do Next,,N,[jKaSeGuBo-1205,[jKaSeGuBo-1207
+[jKaSeGuBo-1208,Overworld,,Event,The Final Area,,N,[jKaSeGuBo-1207,[jKaSeGuBo-1209
+[jKaSeGuBo-1235,Densetsuo no Ma (伝説王の間],,Event,Golden Statue,,N,[jKaSeGuBo-1234,[jKaSeGuBo-1236
+[jKaSeGuBo-1238,　,,Event,This is It,,N,[jKaSeGuBo-1237,[jKaSeGuBo-1239
+[jKaSeGuBo-1242,Fatima (ファティマ],,Event,The Final Foe,,N,[jKaSeGuBo-1241,[jKaSeGuBo-1243

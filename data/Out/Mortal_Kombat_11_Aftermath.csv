@@ -1,0 +1,778 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+MoKo11Af-2,,,Raiden,"Our work is finished, Liu Kang.",,N,MoKo11Af-1,MoKo11Af-3
+MoKo11Af-3,,,Fire God Liu Kang,Lord Raiden.,,N,MoKo11Af-2,MoKo11Af-4
+MoKo11Af-4,,,Raiden,"I am merely Raiden, now. You have proven worthy to take my place as the new Protector of Earthrealm, once it is restored.",,N,MoKo11Af-3,MoKo11Af-5
+MoKo11Af-5,,,Fire God Liu Kang,"You honor me, Raiden.",,N,MoKo11Af-4,MoKo11Af-6
+MoKo11Af-6,,,Raiden,"The honor is mine, Lord Liu Kang. The Sands of Time are now yours to shape. It falls upon you to architect a new history.",,N,MoKo11Af-5,MoKo11Af-7
+MoKo11Af-7,,,Fire God Liu Kang,"The fate of all realms in my hands? Raiden, I cannot do this alone.",,N,MoKo11Af-6,MoKo11Af-8
+MoKo11Af-8,,,Raiden,"I shall advise you for as long as my mortality allows. But have no doubt, you are up to the task.",,N,MoKo11Af-7,MoKo11Af-9
+MoKo11Af-9,,,Fire God Liu Kang,Then together. Let us begin.,,N,MoKo11Af-8,MoKo11Af-10
+MoKo11Af-11,AFTERMATH,,,"[And he starts… creating. A fire portal appears to the right of the magic sphere, which is controlled by Fire God Liu Kang. The heroes hear a voice from another world.]",,Y,MoKo11Af-10,MoKo11Af-12
+MoKo11Af-12,AFTERMATH,,???,"Cease, Liu Kang, before you doom us all.",,N,MoKo11Af-11,MoKo11Af-13
+MoKo11Af-13,AFTERMATH,,,[There are three figures coming out of the fire portal.],,Y,MoKo11Af-12,MoKo11Af-14
+MoKo11Af-14,AFTERMATH,,Raiden,Shang Tsung!?,,N,MoKo11Af-13,MoKo11Af-15
+MoKo11Af-15,AFTERMATH,,Fire God Liu Kang,Nightwolf? Fujin?! What are you—,,N,MoKo11Af-14,MoKo11Af-16
+MoKo11Af-16,AFTERMATH,,Shang Tsung,Cease your magic before the Hourglass shatters.,,N,MoKo11Af-15,MoKo11Af-17
+MoKo11Af-17,AFTERMATH,,Raiden,"Even here at the dawn of time, you spew lies and deceit. We will not hear it!",,N,MoKo11Af-16,MoKo11Af-18
+MoKo11Af-18,AFTERMATH,,Shang Tsung,"In defeating Kronika, you destroyed her Crown. Without it, you can't restart history. The Hourglass will shatter. All realms will be lost.",,N,MoKo11Af-17,MoKo11Af-19
+MoKo11Af-19,AFTERMATH,,Raiden,"Fujin, this true?",,N,MoKo11Af-18,MoKo11Af-20
+MoKo11Af-20,AFTERMATH,,Fujin,Kronika's every action was taken to ensure her Crow's preparation. She would not dare to restart history without it.,,N,MoKo11Af-19,MoKo11Af-21
+MoKo11Af-21,AFTERMATH,,,[Fire God Liu Kang stops performing magic.],,Y,MoKo11Af-20,MoKo11Af-22
+MoKo11Af-22,AFTERMATH,,Fire God Liu Kang,How do you know this?,,N,MoKo11Af-21,MoKo11Af-23
+MoKo11Af-23,AFTERMATH,,Nightwolf,"Kronika came to each of us. For our help, she offered places in her New Era. For refusing her, we were banished to avoid beyond time.",,N,MoKo11Af-22,MoKo11Af-24
+MoKo11Af-24,AFTERMATH,,Fujin,"We could observe the events leading up to your siege of the Keep, but we were powerless to intervene.",,N,MoKo11Af-23,MoKo11Af-25
+MoKo11Af-25,AFTERMATH,,Shang Tsung,"But then you killed Kronika. The Vold's seal was broken open, permitting our escape via the Hourglass.",,N,MoKo11Af-24,MoKo11Af-26
+MoKo11Af-26,AFTERMATH,,Fire God Liu Kang,"If you know so much about the Hourglass, how do you propose I reset the timeline?",,N,MoKo11Af-25,MoKo11Af-27
+MoKo11Af-27,AFTERMATH,,Shang Tsung,With the Crown.,,N,MoKo11Af-26,MoKo11Af-28
+MoKo11Af-28,AFTERMATH,,Fire God Liu Kang,The Crown is destroyed.,,N,MoKo11Af-27,MoKo11Af-29
+MoKo11Af-29,AFTERMATH,,Shang Tsung,Only in our present. Not in our past.,,N,MoKo11Af-28,MoKo11Af-30
+MoKo11Af-30,AFTERMATH,,Fire God Liu Kang,And while I cannot restart history without the Crown…,,N,MoKo11Af-29,MoKo11Af-31
+MoKo11Af-31,AFTERMATH,,Shang Tsung,You can send travelers back into the current timeline.,,N,MoKo11Af-30,MoKo11Af-32
+MoKo11Af-32,AFTERMATH,,Fire God Liu Kang,"I see. I must return to the moment before Kronika's defeat end that battle differently, so that her Crown remains intact.",,N,MoKo11Af-31,MoKo11Af-33
+MoKo11Af-33,AFTERMATH,,Shang Tsung,That leaves too much to chance. Kronika must never process the Crown. Otherwise you cannot guarantee victory.,,N,MoKo11Af-32,MoKo11Af-34
+MoKo11Af-34,AFTERMATH,,Fire God Liu Kang,"What do you propose, sorcerer?",,N,MoKo11Af-33,MoKo11Af-35
+MoKo11Af-35,AFTERMATH,,Shang Tsung,"That you send me into the past to steal the Crown from my Island before Kronika sends Cetrion to claim it. I'll then deliver it to Lord Raiden and together will defeat Kronika. With the Crown and Hourglass under our control, we can restart history safely.",,N,MoKo11Af-34,MoKo11Af-36
+MoKo11Af-36,AFTERMATH,,Raiden,Why are we listening to this snake?,,N,MoKo11Af-35,MoKo11Af-37
+MoKo11Af-37,AFTERMATH,,Shang Tsung,"Because I am a snake who's toiled beside Kronika, learning her secrets. I know them. Do you?",,N,MoKo11Af-36,MoKo11Af-38
+MoKo11Af-38,AFTERMATH,,Fire God Liu Kang,"He has a point, Raiden. Fujin, a word?",,N,MoKo11Af-37,MoKo11Af-39
+MoKo11Af-39,AFTERMATH,,,[They're leaving.],,Y,MoKo11Af-38,MoKo11Af-40
+MoKo11Af-40,AFTERMATH,,Raiden,How is it you conspire against Kronika? Did her promises of grandeur not suit you?,,N,MoKo11Af-39,MoKo11Af-41
+MoKo11Af-41,AFTERMATH,,Shang Tsung,"She wanted me to be her pawn, not her partner. She sculpted my entire existence to serve her, to collect souls for her Crown. When my purpose was served, she betrayed me, casting me into the Void.",,N,MoKo11Af-40,MoKo11Af-42
+MoKo11Af-42,AFTERMATH,,Raiden,"Your grievance does not fool me, Shang Tsung.",,N,MoKo11Af-41,MoKo11Af-43
+MoKo11Af-43,AFTERMATH,,Shang Tsung,Then trust that we have a shared interest in breaking Kronika's stranglehold on our destinies.,,N,MoKo11Af-42,MoKo11Af-44
+MoKo11Af-44,AFTERMATH,,Raiden,"Inevitably, our interests will diverge.",,N,MoKo11Af-43,MoKo11Af-45
+MoKo11Af-45,AFTERMATH,,Shang Tsung,This alliance is temporary. Have no illusions otherwise.,,N,MoKo11Af-44,MoKo11Af-46
+MoKo11Af-46,AFTERMATH,,,[Meanwhile Fire God Liu Kang and Fujin…],,Y,MoKo11Af-45,MoKo11Af-47
+MoKo11Af-47,AFTERMATH,,Fire God Liu Kang,"I understand your misgivings, but it is the only way.",,N,MoKo11Af-46,MoKo11Af-48
+MoKo11Af-48,AFTERMATH,,Fujin,"But the risk, Liu Kang…",,N,MoKo11Af-47,MoKo11Af-49
+MoKo11Af-49,AFTERMATH,,Fire God Liu Kang,—will be rewarded. Say nothing to Nightwolf.,,N,MoKo11Af-48,MoKo11Af-50
+MoKo11Af-50,AFTERMATH,,,[They return to the others.],,Y,MoKo11Af-49,MoKo11Af-51
+MoKo11Af-51,AFTERMATH,,Fire God Liu Kang,"We will proceed with your plan, Shang Tsung. I must stay behind, to operate the Hourglass, but Nightwolf and Fujin will go with you, to supervise.",,N,MoKo11Af-50,MoKo11Af-52
+MoKo11Af-52,AFTERMATH,,Shang Tsung,I welcome the assistance.,,N,MoKo11Af-51,MoKo11Af-53
+MoKo11Af-53,AFTERMATH,,Raiden,I will join you.,,N,MoKo11Af-52,MoKo11Af-54
+MoKo11Af-54,AFTERMATH,,Fire God Liu Kang,"No, Raiden I need your counsel here. Have faith in Fujin and Nightwolf.",,N,MoKo11Af-53,MoKo11Af-55
+MoKo11Af-55,AFTERMATH,,Raiden," If I have faith in anyone, it is you, brother.",(to Fujin) ,N,MoKo11Af-54,MoKo11Af-56
+MoKo11Af-56,AFTERMATH,,Fire God Liu Kang,I will try to send you back to the time merger. You should have enough time to claim the Crown before Cetrion delivers it to Kronika.,,N,MoKo11Af-55,MoKo11Af-57
+MoKo11Af-57,AFTERMATH,,Nightwolf,Your confidence is inspiring.,,N,MoKo11Af-56,MoKo11Af-58
+MoKo11Af-58,AFTERMATH,,Fire God Liu Kang,"As the Keeper of Time, I am still a novice, Nightwolf.",,N,MoKo11Af-57,MoKo11Af-59
+MoKo11Af-59,AFTERMATH,,Nightwolf,May the Great Spirit protect us.,,N,MoKo11Af-58,MoKo11Af-60
+MoKo11Af-60,AFTERMATH,,,[Liu Kang is beginning to spell. The scene changes to Shao Kahn’s arena. Kotal stands in shackles. Shao Kahn gives a speech to the raging crowd.],,Y,MoKo11Af-59,MoKo11Af-61
+MoKo11Af-61,AFTERMATH,,Shao Kahn,"You've suffered too long as this pretender's hands. But I've returned, and I will save you from his madness! Only I can rebuild the empire. All realms will tremble before me! Outworld will again be conquerors, never the conquered!",,N,MoKo11Af-60,MoKo11Af-62
+MoKo11Af-62,AFTERMATH,,,"[He calls his famous hammer and raises it up. The crowd chanting his name. Shao Kahn is getting ready to smash Kotal's head, but Kitana and her army enter the arena, knocking down a massive gate.]",,Y,MoKo11Af-61,MoKo11Af-63
+MoKo11Af-63,AFTERMATH,,Shao Kahn,"Where's this boldness been hiding, Kitana. Had you shown it before, I'd have had no need for Mileena.",,N,MoKo11Af-62,MoKo11Af-64
+MoKo11Af-64,AFTERMATH,,Kitana,"My “sister” was an unholy monster. Exactly like you, father.",,N,MoKo11Af-63,MoKo11Af-65
+MoKo11Af-65,AFTERMATH,,,"[They have a short fight. The crowd cheerfully takes this turn of events. At this moment, Shang Tsung, Nightwolf and Fujin emerge from a small sandstorm.]",,Y,MoKo11Af-64,MoKo11Af-66
+MoKo11Af-66,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,When have we arrived?,,N,MoKo11Af-65,MoKo11Af-67
+MoKo11Af-67,TIME’S ARROW / NIGHTWOLF,,Fujin,"Immediately after the time merger, yes? The battle between Kotal and Shao Kahn?",,N,MoKo11Af-66,MoKo11Af-68
+MoKo11Af-68,TIME’S ARROW / NIGHTWOLF,,Nightwolf,No. Look!,,N,MoKo11Af-67,MoKo11Af-69
+MoKo11Af-69,TIME’S ARROW / NIGHTWOLF,,,[Jade is releasing Kotal from his shackles.],,Y,MoKo11Af-68,MoKo11Af-70
+MoKo11Af-70,TIME’S ARROW / NIGHTWOLF,,Nightwolf,It's much later than that. This is Kirana's battle with Shao Kahn.,,N,MoKo11Af-69,MoKo11Af-71
+MoKo11Af-71,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,Then we are almost out of time. We must escape quickly. Changing this battle's outcome could cause Cetrion to claim the Crown earlier than expected.,,N,MoKo11Af-70,MoKo11Af-72
+MoKo11Af-72,TIME’S ARROW / NIGHTWOLF,,Fujin,And guarantee our failure.,,N,MoKo11Af-71,MoKo11Af-73
+MoKo11Af-73,TIME’S ARROW / NIGHTWOLF,,Nightwolf,Let's go!,,N,MoKo11Af-72,MoKo11Af-74
+MoKo11Af-74,TIME’S ARROW / NIGHTWOLF,,,[They're going down into an underground dungeon. They're noticed by Kollector.],,Y,MoKo11Af-73,MoKo11Af-75
+MoKo11Af-75,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,We escaped the battle undetected.,,N,MoKo11Af-74,MoKo11Af-76
+MoKo11Af-76,TIME’S ARROW / NIGHTWOLF,,Kollector,Shang Tsung!,,N,MoKo11Af-75,MoKo11Af-77
+MoKo11Af-77,TIME’S ARROW / NIGHTWOLF,,Fujin,Or not.,,N,MoKo11Af-76,MoKo11Af-78
+MoKo11Af-78,TIME’S ARROW / NIGHTWOLF,,Kollector,Where have you been hiding? You consort with Earthrealmers now.,,N,MoKo11Af-77,MoKo11Af-79
+MoKo11Af-79,TIME’S ARROW / NIGHTWOLF,,Nightwolf,"His business is one of yours, Kollector.",,N,MoKo11Af-78,MoKo11Af-80
+MoKo11Af-80,TIME’S ARROW / NIGHTWOLF,,Kollector,My business collecting what Shao Kahn wants. He will pay handsomely for you.,,N,MoKo11Af-79,MoKo11Af-81
+MoKo11Af-81,TIME’S ARROW / NIGHTWOLF,,Nightwolf,"You're outnumbered, Kollector.",,N,MoKo11Af-80,MoKo11Af-82
+MoKo11Af-82,TIME’S ARROW / NIGHTWOLF,,Kollector,Am I?,,N,MoKo11Af-81,MoKo11Af-83
+MoKo11Af-83,TIME’S ARROW / NIGHTWOLF,,,[He snaps his fingers and the doors of the two dungeons open. Huge creepy beasts come out of them.],,Y,MoKo11Af-82,MoKo11Af-84
+MoKo11Af-84,TIME’S ARROW / NIGHTWOLF,,Kollector,These are indeed strange days. How do Earthrealmers profit by protecting Shang Tsung?,,N,MoKo11Af-83,MoKo11Af-85
+MoKo11Af-85,TIME’S ARROW / NIGHTWOLF,,Nightwolf,"He shares our goal, Kronika's defeat.",,N,MoKo11Af-84,MoKo11Af-86
+MoKo11Af-86,TIME’S ARROW / NIGHTWOLF,,Kollector,You will be partners in death.,,N,MoKo11Af-85,MoKo11Af-87
+MoKo11Af-87,TIME’S ARROW / NIGHTWOLF,,,[NIGHTWOLF VS KOLLECTOR],,Y,MoKo11Af-86,MoKo11Af-88
+MoKo11Af-88,TIME’S ARROW / NIGHTWOLF,,Nightwolf,Thank you great spirit.,,N,MoKo11Af-87,MoKo11Af-89
+MoKo11Af-89,TIME’S ARROW / NIGHTWOLF,,,"[Meanwhile, Shang Tsung and Fujin are turning beasts into roasted steak. From above, there are the joyous cries of warriors.]",,Y,MoKo11Af-88,MoKo11Af-90
+MoKo11Af-90,TIME’S ARROW / NIGHTWOLF,,Nightwolf,Kitana has defeated Shao Kahn.,,N,MoKo11Af-89,MoKo11Af-91
+MoKo11Af-91,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,He always had more ego than skill.,,N,MoKo11Af-90,MoKo11Af-92
+MoKo11Af-92,TIME’S ARROW / NIGHTWOLF,,Fujin,"Come, let us leave while the crowd is distracted.",,N,MoKo11Af-91,MoKo11Af-93
+MoKo11Af-93,TIME’S ARROW / NIGHTWOLF,,,[Outside the arena…],,Y,MoKo11Af-92,MoKo11Af-94
+MoKo11Af-94,TIME’S ARROW / NIGHTWOLF,,Nightwolf,"No. We're already here later than we wanted to be. Let's go to your island now, and take the Crown. No detours!",,N,MoKo11Af-93,MoKo11Af-95
+MoKo11Af-95,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,"Our rather public arrival at the Koliseum makes that impossible. Kronika's Outworld allies will inform her of our presence. Go to my island now, we could be ambushed by Cetrion herself.",,N,MoKo11Af-94,MoKo11Af-96
+MoKo11Af-96,TIME’S ARROW / NIGHTWOLF,,Fujin,And our combined power won't stop her. We need help.,,N,MoKo11Af-95,MoKo11Af-97
+MoKo11Af-97,TIME’S ARROW / NIGHTWOLF,,Nightwolf,But whose help? We can't recruit any of our allies without altering this timeline's events.,,N,MoKo11Af-96,MoKo11Af-98
+MoKo11Af-98,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,Sindel.,,N,MoKo11Af-97,MoKo11Af-99
+MoKo11Af-99,TIME’S ARROW / NIGHTWOLF,,Nightwolf,Sindel's a revenant.,,N,MoKo11Af-98,MoKo11Af-100
+MoKo11Af-100,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,Who can be restored to life. And who plays no major part in the battles that lie ahead. We can safely recruit her without disrupting events. It's a tactic Kronika is unlikely to anticipate.,,N,MoKo11Af-99,MoKo11Af-101
+MoKo11Af-101,TIME’S ARROW / NIGHTWOLF,,Fujin,"She was Shao Kahn's Empress, his equal in evil.",,N,MoKo11Af-100,MoKo11Af-102
+MoKo11Af-102,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,"Because he had her bewitched. Returning Sindel to life will restore her original, more heroic self.",,N,MoKo11Af-101,MoKo11Af-103
+MoKo11Af-103,TIME’S ARROW / NIGHTWOLF,,Fujin,"And if we fall? The Sindel I knew wiped out most of Earthrealm's champions in a single battle. If Nightwolf hadn't sacrificed himself, she would have killed them all.",,N,MoKo11Af-102,MoKo11Af-104
+MoKo11Af-104,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,That is the power we need to assure victory against Cetrion. Sindel is the key.,,N,MoKo11Af-103,MoKo11Af-105
+MoKo11Af-105,TIME’S ARROW / NIGHTWOLF,,Nightwolf,And I suppose restoring her will be easy.,,N,MoKo11Af-104,MoKo11Af-106
+MoKo11Af-106,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,"Anything but. We can use Earthrealm's Jinsei to heal Sindel's body. But to break Quan Chi's spell and revive her soul, we will need access to Outworld's Soul Chamber.",,N,MoKo11Af-105,MoKo11Af-107
+MoKo11Af-107,TIME’S ARROW / NIGHTWOLF,,Fujin,"You have a different plan, Nightwolf? A better one?",,N,MoKo11Af-106,MoKo11Af-108
+MoKo11Af-108,TIME’S ARROW / NIGHTWOLF,,Nightwolf,"One hint of betrayal, sorcerer, and we will finish you. Where do we start?",,N,MoKo11Af-107,MoKo11Af-109
+MoKo11Af-109,TIME’S ARROW / NIGHTWOLF,,,[Shang Tsung is smiling radiantly.],,Y,MoKo11Af-108,MoKo11Af-110
+MoKo11Af-110,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,"Earthrealm, to acquire the Jinsei.",,N,MoKo11Af-109,MoKo11Af-111
+MoKo11Af-111,TIME’S ARROW / NIGHTWOLF,,,"[He opens the portal and all three of them go into it. Meanwhile, Geras and Frost come to Kronika.]",,Y,MoKo11Af-110,MoKo11Af-112
+MoKo11Af-112,TIME’S ARROW / NIGHTWOLF,,Geras,"Shang Tsung, Fujin, Nightwolf. All were seen in the Koliseum. How is that possible?",,N,MoKo11Af-111,MoKo11Af-113
+MoKo11Af-113,TIME’S ARROW / NIGHTWOLF,,Kronika,It should not be. Those cast into the Void do not return.,,N,MoKo11Af-112,MoKo11Af-114
+MoKo11Af-114,TIME’S ARROW / NIGHTWOLF,,Geras,If Shang Tsung were to—,,N,MoKo11Af-113,MoKo11Af-115
+MoKo11Af-115,TIME’S ARROW / NIGHTWOLF,,Kronika,"I am aware, Geras. Take Frost and find them. We must discern from when and whence they came.",,N,MoKo11Af-114,MoKo11Af-116
+MoKo11Af-116,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,That will be sufficient.,,N,MoKo11Af-115,MoKo11Af-117
+MoKo11Af-117,TIME’S ARROW / NIGHTWOLF,,Fujin,You two may leave. I'll stay behind to secure the Grotto.  Your aid is not required.,(to Shang Tsung) ,N,MoKo11Af-116,MoKo11Af-118
+MoKo11Af-118,TIME’S ARROW / NIGHTWOLF,,,"[Shang Tsung and Nightwolf head for the destroyed Shaolin monk temple. At the entrance, Shang Tsung stops Nightwolf. He disarms a trap of spears that has already been stumbled upon by a hapless temple visitor.]",,Y,MoKo11Af-117,MoKo11Af-119
+MoKo11Af-119,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,These traps are excellent. Who knew the Shaolin were so diabolical?,,N,MoKo11Af-118,MoKo11Af-120
+MoKo11Af-120,TIME’S ARROW / NIGHTWOLF,,Nightwolf,"From you, that's high praise.",,N,MoKo11Af-119,MoKo11Af-121
+MoKo11Af-121,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,Indeed.,,N,MoKo11Af-120,MoKo11Af-122
+MoKo11Af-122,TIME’S ARROW / NIGHTWOLF,,,"[When they get inside, a sandstorm emerges and Geras, Frost, and an army of Cyrax cheap replicas comes out of it.]",,Y,MoKo11Af-121,MoKo11Af-123
+MoKo11Af-123,TIME’S ARROW / NIGHTWOLF,,Geras,"Nightwolf, Shang Tsung… Come. Kronika is keen to question you.",,N,MoKo11Af-122,MoKo11Af-124
+MoKo11Af-124,TIME’S ARROW / NIGHTWOLF,,,[Shang Tsung and Nightwolf have no problem vanquishing the army of robots.],,Y,MoKo11Af-123,MoKo11Af-125
+MoKo11Af-125,TIME’S ARROW / NIGHTWOLF,,Nightwolf,"Kronika isn't the future, Frost. We've seen it! Join us on the right side of history.",,N,MoKo11Af-124,MoKo11Af-126
+MoKo11Af-126,TIME’S ARROW / NIGHTWOLF,,Frost,The only side is Kronika's. My place in her New Era is assured.,,N,MoKo11Af-125,MoKo11Af-127
+MoKo11Af-127,TIME’S ARROW / NIGHTWOLF,,,[NIGHTWOLF VS FROST],,Y,MoKo11Af-126,MoKo11Af-128
+MoKo11Af-128,TIME’S ARROW / NIGHTWOLF,,Nightwolf,"Nothing is assured, Frost.",,N,MoKo11Af-127,MoKo11Af-129
+MoKo11Af-129,TIME’S ARROW / NIGHTWOLF,,,"[Meanwhile, there is a hot fight between Geras and Shang Tsung. Shang Tsung barely succeeds in casting away his enemy.]",,Y,MoKo11Af-128,MoKo11Af-130
+MoKo11Af-130,TIME’S ARROW / NIGHTWOLF,,Fujin,Is he finished?,,N,MoKo11Af-129,MoKo11Af-131
+MoKo11Af-131,TIME’S ARROW / NIGHTWOLF,,,[Geras stands up.],,Y,MoKo11Af-130,MoKo11Af-132
+MoKo11Af-132,TIME’S ARROW / NIGHTWOLF,,Geras,"I am eternal, Fujin. My will and my strength, infinite.",,N,MoKo11Af-131,MoKo11Af-133
+MoKo11Af-133,TIME’S ARROW / NIGHTWOLF,,,"[He starts fighting all three experienced combatants. In the end, they all get defeated… except for Nightwolf. Though he's barely on his feet.]",,Y,MoKo11Af-132,MoKo11Af-134
+MoKo11Af-134,TIME’S ARROW / NIGHTWOLF,,Geras,Of all the Nightwolves I have fought you are the fiercest.,,N,MoKo11Af-133,MoKo11Af-135
+MoKo11Af-135,TIME’S ARROW / NIGHTWOLF,,Nightwolf,It must be why the Great Spirit chose me to wear the mantle.,,N,MoKo11Af-134,MoKo11Af-136
+MoKo11Af-136,TIME’S ARROW / NIGHTWOLF,,Geras,You are also anomalous. No one has ever escaped the Void.,,N,MoKo11Af-135,MoKo11Af-137
+MoKo11Af-137,TIME’S ARROW / NIGHTWOLF,,,[NIGHTWOLF VS GERAS],,Y,MoKo11Af-136,MoKo11Af-138
+MoKo11Af-138,TIME’S ARROW / NIGHTWOLF,,,"[After the fight, Nightwolf chops off Geras' hands with his axes.]",,Y,MoKo11Af-137,MoKo11Af-139
+MoKo11Af-139,TIME’S ARROW / NIGHTWOLF,,Fujin,Was that necessary?,,N,MoKo11Af-138,MoKo11Af-140
+MoKo11Af-140,TIME’S ARROW / NIGHTWOLF,,Nightwolf,To buy us time. We must be rid of him before he recovers.,,N,MoKo11Af-139,MoKo11Af-141
+MoKo11Af-141,TIME’S ARROW / NIGHTWOLF,,,[Geras' hands are beginning to return to their original position.],,Y,MoKo11Af-140,MoKo11Af-142
+MoKo11Af-142,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,"Fujin, summon the wind!",,N,MoKo11Af-141,MoKo11Af-143
+MoKo11Af-143,TIME’S ARROW / NIGHTWOLF,,,[They open the portal and Geras pulls into it.],,Y,MoKo11Af-142,MoKo11Af-144
+MoKo11Af-144,TIME’S ARROW / NIGHTWOLF,,Fujin,Where did you send him?,,N,MoKo11Af-143,MoKo11Af-145
+MoKo11Af-145,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,Chaosrealm. Havik will keep him entertained.,,N,MoKo11Af-144,MoKo11Af-146
+MoKo11Af-146,TIME’S ARROW / NIGHTWOLF,,Nightwolf,Let's get to the Netherrealm. We're running out of time to find Sindel.,,N,MoKo11Af-145,MoKo11Af-147
+MoKo11Af-147,TIME’S ARROW / NIGHTWOLF,,,"[Shang Tsung opens the portal and they move to another dimension. Hiding behind the stones, they watch as Resurrected Jade and Resurrected Kung Lao lead large numbers of slaves.]",,Y,MoKo11Af-146,MoKo11Af-148
+MoKo11Af-148,TIME’S ARROW / NIGHTWOLF,,Nightwolf,No sign of Sindel.,,N,MoKo11Af-147,MoKo11Af-149
+MoKo11Af-149,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,"Not entirely unexpected, given that she did not aid in the Keep's defense.",,N,MoKo11Af-148,MoKo11Af-150
+MoKo11Af-150,TIME’S ARROW / NIGHTWOLF,,Fujin,What was her role then? If she is such a formidable weapon.,,N,MoKo11Af-149,MoKo11Af-151
+MoKo11Af-151,TIME’S ARROW / NIGHTWOLF,,,[There are three dark figures going on somewhere.],,Y,MoKo11Af-150,MoKo11Af-152
+MoKo11Af-152,TIME’S ARROW / NIGHTWOLF,,Nightwolf,Is it possible that—,,N,MoKo11Af-151,MoKo11Af-153
+MoKo11Af-153,TIME’S ARROW / NIGHTWOLF,,,[He's suddenly getting sick.],,Y,MoKo11Af-152,MoKo11Af-154
+MoKo11Af-154,TIME’S ARROW / NIGHTWOLF,,Nightwolf,Great Spirit!,,N,MoKo11Af-153,MoKo11Af-155
+MoKo11Af-155,TIME’S ARROW / NIGHTWOLF,,Fujin,What is it?,,N,MoKo11Af-154,MoKo11Af-156
+MoKo11Af-156,TIME’S ARROW / NIGHTWOLF,,Nightwolf,My revenant… he is close.,,N,MoKo11Af-155,MoKo11Af-157
+MoKo11Af-157,TIME’S ARROW / NIGHTWOLF,,,"[They turn around and see the resurrected Nightwolf, Liu Kang and Kitana.]",,Y,MoKo11Af-156,MoKo11Af-158
+MoKo11Af-158,TIME’S ARROW / NIGHTWOLF,,Resurrected Nightwolf,The Great Spirit cannot save you.,,N,MoKo11Af-157,MoKo11Af-159
+MoKo11Af-159,TIME’S ARROW / NIGHTWOLF,,,"[The heroes are preparing for battle, but the Resurrected Liu Kang fetters them with fire—snakes, which he releases from his palm.]",,Y,MoKo11Af-158,MoKo11Af-160
+MoKo11Af-160,TIME’S ARROW / NIGHTWOLF,,Resurrected Liu Kang,Take them to the Bone Temple.,,N,MoKo11Af-159,MoKo11Af-161
+MoKo11Af-161,TIME’S ARROW / NIGHTWOLF,,,"[Fujin wakes up chained to the ceiling. At the sides, Nightwolf and Shang Tsung are chained to the columns.]",,Y,MoKo11Af-160,MoKo11Af-162
+MoKo11Af-162,TIME’S ARROW / NIGHTWOLF,,Fujin,Nightwolf! Shang Tsung! Nightwolf! Shang Tsung!,,N,MoKo11Af-161,MoKo11Af-163
+MoKo11Af-163,TIME’S ARROW / NIGHTWOLF,,Nightwolf,Where are we?,,N,MoKo11Af-162,MoKo11Af-164
+MoKo11Af-164,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,Shinnok's Bone Temple.,,N,MoKo11Af-163,MoKo11Af-165
+MoKo11Af-165,TIME’S ARROW / NIGHTWOLF,,,"[Shinnok's head, cut off at the beginning of the original game, is placed in some kind of bone mechanism. The head of Shinnok is subjected to constant torment. A mysterious figure emerges from the darkness.]",,Y,MoKo11Af-164,MoKo11Af-166
+MoKo11Af-166,TIME’S ARROW / NIGHTWOLF,,Mysterious Woman,"Raiden's violence against our Lord will not go unavenged, Fujin. Prepare to pay for your brother's sins.",,N,MoKo11Af-165,MoKo11Af-167
+MoKo11Af-167,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,"Sindel, you look well. Death becomes you.",,N,MoKo11Af-166,MoKo11Af-168
+MoKo11Af-168,TIME’S ARROW / NIGHTWOLF,,Resurrected Sindel,"Always the charmer, Shang Tsung. I will enjoy feeding Lord Shinnok your soul.",,N,MoKo11Af-167,MoKo11Af-169
+MoKo11Af-169,TIME’S ARROW / NIGHTWOLF,,,"[She's going to Nightwolf. The one, discreetly, calls the knife and tries to cut the chains.]",,Y,MoKo11Af-168,MoKo11Af-170
+MoKo11Af-170,TIME’S ARROW / NIGHTWOLF,,Resurrected Sindel,"But you, Nightwolf… You get the privilege of suffering most. Only the best will do for the man who killed me.",,N,MoKo11Af-169,MoKo11Af-171
+MoKo11Af-171,TIME’S ARROW / NIGHTWOLF,,Nightwolf,I should've saved you. Hopefully we will today.,,N,MoKo11Af-170,MoKo11Af-172
+MoKo11Af-172,TIME’S ARROW / NIGHTWOLF,,,"[He's released and they exchange blows. Nightwolf frees Fujin and Shang Tsung. Sindel, smiling, summons an army of slaves. Nightwolf chops them to pieces with his famous rotary move.]",,Y,MoKo11Af-171,MoKo11Af-173
+MoKo11Af-173,TIME’S ARROW / NIGHTWOLF,,Nightwolf,You can't kill me Sindel. Not without killing my Revenant.,,N,MoKo11Af-172,MoKo11Af-174
+MoKo11Af-174,TIME’S ARROW / NIGHTWOLF,,Resurrected Sindel,I'm not going to kill you.  As Raiden said to Lord Shinnok… There are fates worse than death.,(laughs) ,N,MoKo11Af-173,MoKo11Af-175
+MoKo11Af-175,TIME’S ARROW / NIGHTWOLF,,,[NIGHTWOLF VS RESURRECTED SINDEL],,Y,MoKo11Af-174,MoKo11Af-176
+MoKo11Af-176,TIME’S ARROW / NIGHTWOLF,,Nightwolf,I can imagine few fates worse than yours.,,N,MoKo11Af-175,MoKo11Af-177
+MoKo11Af-177,TIME’S ARROW / NIGHTWOLF,,,"[Meanwhile, Resurrected Nightwolf manages to drop Shang Tsung on the floor with his lightning. Nightwolf runs up to him and stops the torture.]",,Y,MoKo11Af-176,MoKo11Af-178
+MoKo11Af-178,TIME’S ARROW / NIGHTWOLF,,Resurrected Nightwolf,You will die by your own hands. Harming me only hurts you. My sacrifice will save the Matoka.,,N,MoKo11Af-177,MoKo11Af-179
+MoKo11Af-179,TIME’S ARROW / NIGHTWOLF,,Nightwolf,Kronika has no love for our people. The Great Spirit—,,N,MoKo11Af-178,MoKo11Af-180
+MoKo11Af-180,TIME’S ARROW / NIGHTWOLF,,Resurrected Nightwolf,Is a fraud! Who allowed us to suffer! Kronika is our future.,,N,MoKo11Af-179,MoKo11Af-181
+MoKo11Af-181,TIME’S ARROW / NIGHTWOLF,,,[NIGHTWOLF VS RESURRECTED NIGHTWOLF],,Y,MoKo11Af-180,MoKo11Af-182
+MoKo11Af-182,TIME’S ARROW / NIGHTWOLF,,Nightwolf,Kronika is not the answer.,,N,MoKo11Af-181,MoKo11Af-183
+MoKo11Af-183,TIME’S ARROW / NIGHTWOLF,,,"[In retaliation for the humiliation, Shang Tsung does the legendary ""Your soul is mine"" move. Apparently, it's necessary for him. He's nearly dead.]",,Y,MoKo11Af-182,MoKo11Af-184
+MoKo11Af-184,TIME’S ARROW / NIGHTWOLF,,Nightwolf,"Shang Tsung, stop! We can restore him!",,N,MoKo11Af-183,MoKo11Af-185
+MoKo11Af-185,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,"He wounded me. If I die, we fail.",,N,MoKo11Af-184,MoKo11Af-186
+MoKo11Af-186,TIME’S ARROW / NIGHTWOLF,,Nightwolf,"Sorcerer, I’ll…",,N,MoKo11Af-185,MoKo11Af-187
+MoKo11Af-187,TIME’S ARROW / NIGHTWOLF,,,"[He goes to Shang Tsung, but Fujin stops him.]",,Y,MoKo11Af-186,MoKo11Af-188
+MoKo11Af-188,TIME’S ARROW / NIGHTWOLF,,Fujin,"No, Nightwolf. Shang Tsung must live.",,N,MoKo11Af-187,MoKo11Af-189
+MoKo11Af-189,TIME’S ARROW / NIGHTWOLF,,,[Shang Tsung sucks energy out of Resurrected Nightwolf and heals his wounds completely. All that's left of the poor guy is a skeleton.],,Y,MoKo11Af-188,MoKo11Af-190
+MoKo11Af-190,TIME’S ARROW / NIGHTWOLF,,Nightwolf,"Are you happy, now?",,N,MoKo11Af-189,MoKo11Af-191
+MoKo11Af-191,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,"I am healthy, Nightwolf. That should be your concern.",,N,MoKo11Af-190,MoKo11Af-192
+MoKo11Af-192,TIME’S ARROW / NIGHTWOLF,,Fujin,"Both of you, please. We must make haste to the Soul Chamber.",,N,MoKo11Af-191,MoKo11Af-193
+MoKo11Af-193,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,Then let us hurry. And hope Sheeva is as eager to aid us as I anticipate…,,N,MoKo11Af-192,MoKo11Af-194
+MoKo11Af-194,TIME’S ARROW / NIGHTWOLF,,,[He's heading for the throne room where Shiva sits. Two guard soldiers are standing next to her.],,Y,MoKo11Af-193,MoKo11Af-195
+MoKo11Af-195,TIME’S ARROW / NIGHTWOLF,,Sheeva,"Escort you and your ""comrades” to the Soul Chamber?",,N,MoKo11Af-194,MoKo11Af-196
+MoKo11Af-196,TIME’S ARROW / NIGHTWOLF,,Shang Tsung,Yes.,,N,MoKo11Af-195,MoKo11Af-197
+MoKo11Af-197,TIME’S ARROW / NIGHTWOLF,,Sheeva,Have you come from the future only to insult me?,,N,MoKo11Af-196,MoKo11Af-198
+MoKo11Af-198,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,I am no sword for hire.,,N,MoKo11Af-197,MoKo11Af-199
+MoKo11Af-199,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,"This request is far below your present station, your highness. But defeating Kronika depends on us reaching that chamber.",,N,MoKo11Af-198,MoKo11Af-200
+MoKo11Af-200,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,Why?,,N,MoKo11Af-199,MoKo11Af-201
+MoKo11Af-201,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,Because we must restore Sindel.,,N,MoKo11Af-200,MoKo11Af-202
+MoKo11Af-202,GUARDIAN FOR LIFE / SHEEVA,,,[His words shock Sheeva.],,Y,MoKo11Af-201,MoKo11Af-203
+MoKo11Af-203,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,My Empress…,,N,MoKo11Af-202,MoKo11Af-204
+MoKo11Af-204,GUARDIAN FOR LIFE / SHEEVA,,,[Nightwolf and Fujin bring a coffin to the throne room. Sheeva rises from the throne and sees the body of Sindel in the coffin.],,Y,MoKo11Af-203,MoKo11Af-205
+MoKo11Af-205,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,You've captured her Revenant…,,N,MoKo11Af-204,MoKo11Af-206
+MoKo11Af-206,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,"Together, Fujin and I can restore her to life.",,N,MoKo11Af-205,MoKo11Af-207
+MoKo11Af-207,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,Why? To make a slave of her as Quan Chi did?,,N,MoKo11Af-206,MoKo11Af-208
+MoKo11Af-208,GUARDIAN FOR LIFE / SHEEVA,,Fujin,So that she can aid us against Kronika. But you have my vow she will return free of all influence.,,N,MoKo11Af-207,MoKo11Af-209
+MoKo11Af-209,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,As I recall you were blood—bound to Empress Sindel…,,N,MoKo11Af-208,MoKo11Af-210
+MoKo11Af-210,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,I was her protector—for—life.,,N,MoKo11Af-209,MoKo11Af-211
+MoKo11Af-211,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,"How it must have pained you when she died. That was not your fault. You could not save her, then. Now you can.",,N,MoKo11Af-210,MoKo11Af-212
+MoKo11Af-212,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,Then I w— No. We must present this to Kitana Kahn.,,N,MoKo11Af-211,MoKo11Af-213
+MoKo11Af-213,GUARDIAN FOR LIFE / SHEEVA,,Fujin,"Respectfully, your highness, if we approach Kitana—",,N,MoKo11Af-212,MoKo11Af-214
+MoKo11Af-214,GUARDIAN FOR LIFE / SHEEVA,,Nightwolf,She'll cut Shang Tsung's head off.,,N,MoKo11Af-213,MoKo11Af-215
+MoKo11Af-215,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,Kitana never appreciated my contributions to the Empire.,,N,MoKo11Af-214,MoKo11Af-216
+MoKo11Af-216,GUARDIAN FOR LIFE / SHEEVA,,Nightwolf,Like replacing her with an evil clone?,,N,MoKo11Af-215,MoKo11Af-217
+MoKo11Af-217,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,Yes.,,N,MoKo11Af-216,MoKo11Af-218
+MoKo11Af-218,GUARDIAN FOR LIFE / SHEEVA,,Fujin,"Time is short, Queen Sheeva. We must act now and beg Kitana's forgiveness later— after restoring her mother. Will you help us?",,N,MoKo11Af-217,MoKo11Af-219
+MoKo11Af-219,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"By concealing you from Kitana, I betray my oath to her… But my life belongs to Sindel. You will be recognized by Kitana's imperial guard.",,N,MoKo11Af-218,MoKo11Af-220
+MoKo11Af-220,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,True. They won't take to me kindly.,,N,MoKo11Af-219,MoKo11Af-221
+MoKo11Af-221,GUARDIAN FOR LIFE / SHEEVA,,,[He's turning into one of the followers.],,Y,MoKo11Af-220,MoKo11Af-222
+MoKo11Af-222,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,That will do.,,N,MoKo11Af-221,MoKo11Af-223
+MoKo11Af-223,GUARDIAN FOR LIFE / SHEEVA,,,"[They come into some kind of sewer system, where acid rivers flow.]",,Y,MoKo11Af-222,MoKo11Af-224
+MoKo11Af-224,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,We've made it this far. There's a stairway beyond those doors. And at the top—,,N,MoKo11Af-223,MoKo11Af-225
+MoKo11Af-225,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,The Soul Chamber! I feel it.,,N,MoKo11Af-224,MoKo11Af-226
+MoKo11Af-226,GUARDIAN FOR LIFE / SHEEVA,,,[His eyes glow green magic.],,Y,MoKo11Af-225,MoKo11Af-227
+MoKo11Af-227,GUARDIAN FOR LIFE / SHEEVA,,Voice,"So there he was, neck deep in shit cowering in the business end of an outhouse. He picked a bad place to hide… and even worse place to die.",,N,MoKo11Af-226,MoKo11Af-228
+MoKo11Af-228,GUARDIAN FOR LIFE / SHEEVA,,,[Erron Black comes out of the shadows. Next to him comes Baraka and some Tarkatans.],,Y,MoKo11Af-227,MoKo11Af-229
+MoKo11Af-229,GUARDIAN FOR LIFE / SHEEVA,,Baraka,Sheeva!,,N,MoKo11Af-228,MoKo11Af-230
+MoKo11Af-230,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,Follow my lead.,,N,MoKo11Af-229,MoKo11Af-231
+MoKo11Af-231,GUARDIAN FOR LIFE / SHEEVA,,Baraka,"Earthrealmers, Sheeva, and a coffin? What secret did you plan to bury here?",,N,MoKo11Af-230,MoKo11Af-232
+MoKo11Af-232,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"It is the Kahn's business, Baraka.",,N,MoKo11Af-231,MoKo11Af-233
+MoKo11Af-233,GUARDIAN FOR LIFE / SHEEVA,,Baraka,"We're equal partners, remember? The Kahn's business is my business.  You are not Shokan. I know that scent. Smells like… Shang Tsung!",(to disguised Shang Tsung) ,N,MoKo11Af-232,MoKo11Af-234
+MoKo11Af-234,GUARDIAN FOR LIFE / SHEEVA,,,[He pierces it with his blade. The disguise of Shang Tsung disappears. The Tarkatans are preparing for battle.],,Y,MoKo11Af-233,MoKo11Af-235
+MoKo11Af-235,GUARDIAN FOR LIFE / SHEEVA,,Erron Black,How's that for strange bedfellows.,,N,MoKo11Af-234,MoKo11Af-236
+MoKo11Af-236,GUARDIAN FOR LIFE / SHEEVA,,,[He points two of his revolvers at heroes.],,Y,MoKo11Af-235,MoKo11Af-237
+MoKo11Af-237,GUARDIAN FOR LIFE / SHEEVA,,Erron Black,"What do you say we skip the preliminaries and y'all come with us quietly? We'll have a nice, friendly chat with Kitana Kahn.",,N,MoKo11Af-236,MoKo11Af-238
+MoKo11Af-238,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"There's no time for chat. We must get to the Soul Chamber, urgently!",,N,MoKo11Af-237,MoKo11Af-239
+MoKo11Af-239,GUARDIAN FOR LIFE / SHEEVA,,Erron Black,Then go on and get to it. But we're taking Shang Tsung and that coffin.,,N,MoKo11Af-238,MoKo11Af-240
+MoKo11Af-240,GUARDIAN FOR LIFE / SHEEVA,,,[Baraka orders to attack and one of the Tarkatans rushes into battle. Shang Tsung knocks him down with a fireball and he flies into acid.],,Y,MoKo11Af-239,MoKo11Af-241
+MoKo11Af-241,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,My sincere apologies.,,N,MoKo11Af-240,MoKo11Af-242
+MoKo11Af-242,GUARDIAN FOR LIFE / SHEEVA,,,[The fight begins. Sheeva fights with Baraka.],,Y,MoKo11Af-241,MoKo11Af-243
+MoKo11Af-243,GUARDIAN FOR LIFE / SHEEVA,,Baraka,Takatan blood is shed! You will atone Sheeva.,,N,MoKo11Af-242,MoKo11Af-244
+MoKo11Af-244,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,Were you not warned? Tarkatans are all mouth and no ears.,,N,MoKo11Af-243,MoKo11Af-245
+MoKo11Af-245,GUARDIAN FOR LIFE / SHEEVA,,,[SHEEVA VS BARAKA],,Y,MoKo11Af-244,MoKo11Af-246
+MoKo11Af-246,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,You speak when you should listen.,,N,MoKo11Af-245,MoKo11Af-247
+MoKo11Af-247,GUARDIAN FOR LIFE / SHEEVA,,,"[Erron Black starts shooting at heroes. They fight for the coffin, and Sheeva attacks.]",,Y,MoKo11Af-246,MoKo11Af-248
+MoKo11Af-248,GUARDIAN FOR LIFE / SHEEVA,,Erron Black,Time to spill it. Who's toes up in that coffin?,,N,MoKo11Af-247,MoKo11Af-249
+MoKo11Af-249,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,Empress Sindel. We can restore her with the Soul Chamber!,,N,MoKo11Af-248,MoKo11Af-250
+MoKo11Af-250,GUARDIAN FOR LIFE / SHEEVA,,Erron Black,"Hold up, Sheeva. You're resurrecting Kitana's evil mama? Whatever your reasons… this ain't a good look for you.",,N,MoKo11Af-249,MoKo11Af-251
+MoKo11Af-251,GUARDIAN FOR LIFE / SHEEVA,,,[SHEEVA VS ERRON BLACK],,Y,MoKo11Af-250,MoKo11Af-252
+MoKo11Af-252,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"Know your place, Outlander.",,N,MoKo11Af-251,MoKo11Af-253
+MoKo11Af-253,GUARDIAN FOR LIFE / SHEEVA,,,[Nightwolf and Fujin are lifting the coffin.],,Y,MoKo11Af-252,MoKo11Af-254
+MoKo11Af-254,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,Let's move quickly.,,N,MoKo11Af-253,MoKo11Af-255
+MoKo11Af-255,GUARDIAN FOR LIFE / SHEEVA,,,[Jade runs in.],,Y,MoKo11Af-254,MoKo11Af-256
+MoKo11Af-256,GUARDIAN FOR LIFE / SHEEVA,,Jade,What in Argus' name is happening out here? Shang Tsung! I thought I saw you slither away from the Koliseum.,,N,MoKo11Af-255,MoKo11Af-257
+MoKo11Af-257,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,You always were perceptive.,,N,MoKo11Af-256,MoKo11Af-258
+MoKo11Af-258,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"We have no wish to light, Jade. This is Sindel's Revenant. We can restore her to life so she can join the fight against Kronika.",,N,MoKo11Af-257,MoKo11Af-259
+MoKo11Af-259,GUARDIAN FOR LIFE / SHEEVA,,Fujin,"Please, Jade… We must enter.",,N,MoKo11Af-258,MoKo11Af-260
+MoKo11Af-260,GUARDIAN FOR LIFE / SHEEVA,,Jade,"You have yet to convince me. Even if you do, the Soul Chamber is occupied. Kotal uses it to mend his broken spine. Disrupting him now could leave his injuries permanent.",,N,MoKo11Af-259,MoKo11Af-261
+MoKo11Af-261,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,"I promise, we will not disturb him.",,N,MoKo11Af-260,MoKo11Af-262
+MoKo11Af-262,GUARDIAN FOR LIFE / SHEEVA,,Jade,"Your promises are empty, sorcerer!",,N,MoKo11Af-261,MoKo11Af-263
+MoKo11Af-263,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"We will not harm Kotal. As my ally, you should trust me. So much for Edenian loyalty.",,N,MoKo11Af-262,MoKo11Af-264
+MoKo11Af-264,GUARDIAN FOR LIFE / SHEEVA,,,[SHEEVA VS JADE],,Y,MoKo11Af-263,MoKo11Af-265
+MoKo11Af-265,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,You will recover.,,N,MoKo11Af-264,MoKo11Af-266
+MoKo11Af-266,GUARDIAN FOR LIFE / SHEEVA,,,[They're entering the Soul Chamber. Kotal stands in a huge skull. He is surrounded by a stream of green magic.],,Y,MoKo11Af-265,MoKo11Af-267
+MoKo11Af-267,GUARDIAN FOR LIFE / SHEEVA,,Nightwolf,Do we wait? Or do we wake him?,,N,MoKo11Af-266,MoKo11Af-268
+MoKo11Af-268,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,Kotal.,,N,MoKo11Af-267,MoKo11Af-269
+MoKo11Af-269,GUARDIAN FOR LIFE / SHEEVA,,,[Kotal wakes from his slumber.],,Y,MoKo11Af-268,MoKo11Af-270
+MoKo11Af-270,GUARDIAN FOR LIFE / SHEEVA,,Kotal,Sheeva? What is… Where is Jade? And why is he here?,,N,MoKo11Af-269,MoKo11Af-271
+MoKo11Af-271,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"Later, Kotal. For now we must—",,N,MoKo11Af-270,MoKo11Af-272
+MoKo11Af-272,GUARDIAN FOR LIFE / SHEEVA,,Kotal,I recall my captivity in your Flesh Pits all too well.,,N,MoKo11Af-271,MoKo11Af-273
+MoKo11Af-273,GUARDIAN FOR LIFE / SHEEVA,,,"[He's barely on his feet. When Kotal falls, Sheeva catches him.]",,Y,MoKo11Af-272,MoKo11Af-274
+MoKo11Af-274,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,You need more time to heal.,,N,MoKo11Af-273,MoKo11Af-275
+MoKo11Af-275,GUARDIAN FOR LIFE / SHEEVA,,Kotal,I am strong enough to kill him.,,N,MoKo11Af-274,MoKo11Af-276
+MoKo11Af-276,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"Today, he is our ally. With his sorcery, Sindel can live again.",,N,MoKo11Af-275,MoKo11Af-277
+MoKo11Af-277,GUARDIAN FOR LIFE / SHEEVA,,Kotal,"Necromancy is forbidden! You have taken leave of your senses. Reverse the spell you have cast on them, sorcerer!",,N,MoKo11Af-276,MoKo11Af-278
+MoKo11Af-278,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,Do your work! l can hold Kotal!,,N,MoKo11Af-277,MoKo11Af-279
+MoKo11Af-279,GUARDIAN FOR LIFE / SHEEVA,,,"[Kotal tries to attack, but Sheeva stops him. Fujin uses wind magic to remove the coffin lid and take out Sindel's body. He puts it in his skull. After that, he and Shang Tsung begin to perform the magic.]",,Y,MoKo11Af-278,MoKo11Af-280
+MoKo11Af-280,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,It has begun!,,N,MoKo11Af-279,MoKo11Af-281
+MoKo11Af-281,GUARDIAN FOR LIFE / SHEEVA,,Kotal,You dare obstruct my justice? If you wish to keep all four arms… Stand aside!,,N,MoKo11Af-280,MoKo11Af-282
+MoKo11Af-282,GUARDIAN FOR LIFE / SHEEVA,,,[SHEEVA VS KOTAL],,Y,MoKo11Af-281,MoKo11Af-283
+MoKo11Af-283,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"I'll submit to Kitana Kahn's justice, not yours.",,N,MoKo11Af-282,MoKo11Af-284
+MoKo11Af-284,GUARDIAN FOR LIFE / SHEEVA,,,[She strangles Kotal and he loses consciousness. Kitana and her servants enter the hall.],,Y,MoKo11Af-283,MoKo11Af-285
+MoKo11Af-285,GUARDIAN FOR LIFE / SHEEVA,,Kitana Kahn,Queen Sheeva!,,N,MoKo11Af-284,MoKo11Af-286
+MoKo11Af-286,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"Kitana Kahn, l—",,N,MoKo11Af-285,MoKo11Af-287
+MoKo11Af-287,GUARDIAN FOR LIFE / SHEEVA,,Kitana Kahn,Hold your tongue. Jade told me everything. Nothing good can come from that sorcerer's hands.,,N,MoKo11Af-286,MoKo11Af-288
+MoKo11Af-288,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"He will restore your mother, Kitana Kahn.",,N,MoKo11Af-287,MoKo11Af-289
+MoKo11Af-289,GUARDIAN FOR LIFE / SHEEVA,,Kitana Kahn,For a thousand years I've dreamed of seeing her alive again. But her soul deserves better than to be corrupted by Shang Tsung. This perversion ends now.,,N,MoKo11Af-288,MoKo11Af-290
+MoKo11Af-290,GUARDIAN FOR LIFE / SHEEVA,,,[Sheeva pushes her away.],,Y,MoKo11Af-289,MoKo11Af-291
+MoKo11Af-291,GUARDIAN FOR LIFE / SHEEVA,,Kitana Kahn,"How quickly your oath to me is broken, Sheeva.",,N,MoKo11Af-290,MoKo11Af-292
+MoKo11Af-292,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,I have been bound to your mother for millennia. I must honor her!,,N,MoKo11Af-291,MoKo11Af-293
+MoKo11Af-293,GUARDIAN FOR LIFE / SHEEVA,,,[SHEEVA VS KITANA KAHN],,Y,MoKo11Af-292,MoKo11Af-294
+MoKo11Af-294,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"Forgive me, Kitana Kahn.",,N,MoKo11Af-293,MoKo11Af-295
+MoKo11Af-295,GUARDIAN FOR LIFE / SHEEVA,,,"[Meanwhile, Shang Tsung and Fujin are completing the resurrection process.]",,Y,MoKo11Af-294,MoKo11Af-296
+MoKo11Af-296,GUARDIAN FOR LIFE / SHEEVA,,Kitana Kahn, What have you done?,(to Sheeva) ,N,MoKo11Af-295,MoKo11Af-297
+MoKo11Af-297,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,"Welcome back, your highness…",,N,MoKo11Af-296,MoKo11Af-298
+MoKo11Af-298,GUARDIAN FOR LIFE / SHEEVA,,,[She pushes him away.],,Y,MoKo11Af-297,MoKo11Af-299
+MoKo11Af-299,GUARDIAN FOR LIFE / SHEEVA,,Shang Tsung,"It pleases me to see you, too.",,N,MoKo11Af-298,MoKo11Af-300
+MoKo11Af-300,GUARDIAN FOR LIFE / SHEEVA,,Sindel,Am I alive? Is this real?,,N,MoKo11Af-299,MoKo11Af-301
+MoKo11Af-301,GUARDIAN FOR LIFE / SHEEVA,,Fujin,"It is, Lady Sindel. A miracle we could not have achieved without your most loyal subject.",,N,MoKo11Af-300,MoKo11Af-302
+MoKo11Af-302,GUARDIAN FOR LIFE / SHEEVA,,Sindel,Sheeva!,,N,MoKo11Af-301,MoKo11Af-303
+MoKo11Af-303,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"Empress, though today I have aided you… too often have I failed to protect you. I am not worthy.",,N,MoKo11Af-302,MoKo11Af-304
+MoKo11Af-304,GUARDIAN FOR LIFE / SHEEVA,,Sindel,"Aw, nonsense. Today, you give me the greatest gift. A second chance! Your duty is fulfilled. I am in your debt now.",,N,MoKo11Af-303,MoKo11Af-305
+MoKo11Af-305,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,"Thank you, Empress.",,N,MoKo11Af-304,MoKo11Af-306
+MoKo11Af-306,GUARDIAN FOR LIFE / SHEEVA,,Sindel,Where is my daughter?,,N,MoKo11Af-305,MoKo11Af-307
+MoKo11Af-307,GUARDIAN FOR LIFE / SHEEVA,,,[Kitana takes off her mask. She's overwhelmed.],,Y,MoKo11Af-306,MoKo11Af-308
+MoKo11Af-308,GUARDIAN FOR LIFE / SHEEVA,,Sindel,Kitana…,,N,MoKo11Af-307,MoKo11Af-309
+MoKo11Af-309,GUARDIAN FOR LIFE / SHEEVA,,,"[She wants to hug her daughter, but Kitana's retreating.]",,Y,MoKo11Af-308,MoKo11Af-310
+MoKo11Af-310,GUARDIAN FOR LIFE / SHEEVA,,Sindel,"It is me, Kitana. Your mother.",,N,MoKo11Af-309,MoKo11Af-311
+MoKo11Af-311,GUARDIAN FOR LIFE / SHEEVA,,Kitana Kahn,I… I want to feel joy… but all I feel is… I was only a child when you—you… How could you kill yourself? Why did you abandon me?,,N,MoKo11Af-310,MoKo11Af-312
+MoKo11Af-312,GUARDIAN FOR LIFE / SHEEVA,,Sindel,"I did neither, Kitana. After being forced to wed Shao Kahn, I ran afoul of Quan Chi. He accused me of “distracting” Shao Kahn. Then the miscreant murdered me, and staged my death as a suicide.",,N,MoKo11Af-311,MoKo11Af-313
+MoKo11Af-313,GUARDIAN FOR LIFE / SHEEVA,,Sheeva,As I had always suspected.,,N,MoKo11Af-312,MoKo11Af-314
+MoKo11Af-314,GUARDIAN FOR LIFE / SHEEVA,,Kitana Kahn,"But—All the time? Everything I've been told about you, it's all… lies? What can I trust?",,N,MoKo11Af-313,MoKo11Af-315
+MoKo11Af-315,GUARDIAN FOR LIFE / SHEEVA,,Sindel,"Trust… that I loved your father, Jerrod. Trust that I love you.",,N,MoKo11Af-314,MoKo11Af-316
+MoKo11Af-316,GUARDIAN FOR LIFE / SHEEVA,,,[They hug.],,Y,MoKo11Af-315,MoKo11Af-317
+MoKo11Af-317,GUARDIAN FOR LIFE / SHEEVA,,Kitana Kahn,"Oh, mother!",,N,MoKo11Af-316,MoKo11Af-318
+MoKo11Af-318,GUARDIAN FOR LIFE / SHEEVA,,Fujin,"This reunion is a blessing, but we have little time to celebrate. We must leave for Shang Tsung's Island to finish our quest.",,N,MoKo11Af-317,MoKo11Af-319
+MoKo11Af-319,GUARDIAN FOR LIFE / SHEEVA,,Kitana Kahn,"I would go with you, fight by your side, but…",,N,MoKo11Af-318,MoKo11Af-320
+MoKo11Af-320,GUARDIAN FOR LIFE / SHEEVA,,Sindel,"Outworld needs its Kahn, I know. Rest assured, Kitana. I will come home.",,N,MoKo11Af-319,MoKo11Af-321
+MoKo11Af-321,GUARDIAN FOR LIFE / SHEEVA,,,[Meanwhile at Kronika’s Tower.],,Y,MoKo11Af-320,MoKo11Af-322
+MoKo11Af-322,GUARDIAN FOR LIFE / SHEEVA,,Kronika,Sindel has been restored. Shang Tsung would only undertake such an arduous task if herald promised a decisive advantage.,,N,MoKo11Af-321,MoKo11Af-323
+MoKo11Af-323,GUARDIAN FOR LIFE / SHEEVA,,Cetrion,She is but one mortal.,,N,MoKo11Af-322,MoKo11Af-324
+MoKo11Af-324,GUARDIAN FOR LIFE / SHEEVA,,Kronika,And one of the few who can harm you.,,N,MoKo11Af-323,MoKo11Af-325
+MoKo11Af-325,GUARDIAN FOR LIFE / SHEEVA,,Cetrion,I fear no harm.,,N,MoKo11Af-324,MoKo11Af-326
+MoKo11Af-326,GUARDIAN FOR LIFE / SHEEVA,,Kronika,They are at Shang Tsung's Island.,,N,MoKo11Af-325,MoKo11Af-327
+MoKo11Af-327,GUARDIAN FOR LIFE / SHEEVA,,Cetrion,Your Crown! Shang Tsung knows.,,N,MoKo11Af-326,MoKo11Af-328
+MoKo11Af-328,GUARDIAN FOR LIFE / SHEEVA,,Kronika,"Then our time for preparation is over. Go to the island now. We cannot win their hearts, so do not try. Do not permit your better nature to compromise you.",,N,MoKo11Af-327,MoKo11Af-329
+MoKo11Af-329,GUARDIAN FOR LIFE / SHEEVA,,Cetrion,"I understand, mother.",,N,MoKo11Af-328,MoKo11Af-330
+MoKo11Af-330,GUARDIAN FOR LIFE / SHEEVA,,,[She transforms into a fiery goddess.],,Y,MoKo11Af-329,MoKo11Af-331
+MoKo11Af-331,WINDS OF CHANGE / FUJIN,,,[Heroes are arriving on the island. There are hanged monks all over the place.],,Y,MoKo11Af-330,MoKo11Af-332
+MoKo11Af-332,WINDS OF CHANGE / FUJIN,,Shang Tsung,They couldn't go on. I am touched by their devotion.,,N,MoKo11Af-331,MoKo11Af-333
+MoKo11Af-333,WINDS OF CHANGE / FUJIN,,Nightwolf,I question their judgement.,,N,MoKo11Af-332,MoKo11Af-334
+MoKo11Af-334,WINDS OF CHANGE / FUJIN,,Shang Tsung,Have neither of you any compassion?,,N,MoKo11Af-333,MoKo11Af-335
+MoKo11Af-335,WINDS OF CHANGE / FUJIN,,Nightwolf,Not for fools who follow you.,,N,MoKo11Af-334,MoKo11Af-336
+MoKo11Af-336,WINDS OF CHANGE / FUJIN,,Sindel,"Are we not following him now? At least we do not follow that fool, Raiden. Then we would surely die.",,N,MoKo11Af-335,MoKo11Af-337
+MoKo11Af-337,WINDS OF CHANGE / FUJIN,,,[Something surrounds them and starts to move fast. Fujin uses his wind magic to knock down the enemy. It turns out to be Resurrected Kabal.],,Y,MoKo11Af-336,MoKo11Af-338
+MoKo11Af-338,WINDS OF CHANGE / FUJIN,,Fujin,"You may run like the wind, Kabal, but I command it. You should have devised a better plan.",,N,MoKo11Af-337,MoKo11Af-339
+MoKo11Af-339,WINDS OF CHANGE / FUJIN,,Resurrected Kabal,There's more to come.,,N,MoKo11Af-338,MoKo11Af-340
+MoKo11Af-340,WINDS OF CHANGE / FUJIN,,,[Resurrected Jade comes out of the corner. She hits the ground with her staff.],,Y,MoKo11Af-339,MoKo11Af-341
+MoKo11Af-341,WINDS OF CHANGE / FUJIN,,Resurrected Jade,"Rise, in Shinnok's name!",,N,MoKo11Af-340,MoKo11Af-342
+MoKo11Af-342,WINDS OF CHANGE / FUJIN,,,[Hanged monks wake up and jump off their ropes.],,Y,MoKo11Af-341,MoKo11Af-343
+MoKo11Af-343,WINDS OF CHANGE / FUJIN,,Resurrected Jade,You will be returned to the Void. Not even she can help you.,,N,MoKo11Af-342,MoKo11Af-344
+MoKo11Af-344,WINDS OF CHANGE / FUJIN,,,"[Heroes start dating dead monks. Fujin strikes a crossbow at Resurrected Cabal, but he dodges the bolts.]",,Y,MoKo11Af-343,MoKo11Af-345
+MoKo11Af-345,WINDS OF CHANGE / FUJIN,,Resurrected Kabal,"Too slow! I expected better, Fujin.",,N,MoKo11Af-344,MoKo11Af-346
+MoKo11Af-346,WINDS OF CHANGE / FUJIN,,,[FUJIN VS RESURRECTED KABAL],,Y,MoKo11Af-345,MoKo11Af-347
+MoKo11Af-347,WINDS OF CHANGE / FUJIN,,Fujin,Now do I meet your expectations?,,N,MoKo11Af-346,MoKo11Af-348
+MoKo11Af-348,WINDS OF CHANGE / FUJIN,,Shang Tsung,Cetrion must be on her way.,,N,MoKo11Af-347,MoKo11Af-349
+MoKo11Af-349,WINDS OF CHANGE / FUJIN,,Nightwolf,Sindel and I will occupy her. You two get the Crown.,,N,MoKo11Af-348,MoKo11Af-350
+MoKo11Af-350,WINDS OF CHANGE / FUJIN,,,[They're splitting up.],,Y,MoKo11Af-349,MoKo11Af-351
+MoKo11Af-351,WINDS OF CHANGE / FUJIN,,Fujin,"I must ask, sorcerer… How long before you betray us?",,N,MoKo11Af-350,MoKo11Af-352
+MoKo11Af-352,WINDS OF CHANGE / FUJIN,,Shang Tsung,I find your lack of faith amusing.,,N,MoKo11Af-351,MoKo11Af-353
+MoKo11Af-353,WINDS OF CHANGE / FUJIN,,Fujin,"When it happens, we will be ready.",,N,MoKo11Af-352,MoKo11Af-354
+MoKo11Af-354,WINDS OF CHANGE / FUJIN,,,"[Fujin and Shang Tsung enter a room with the crown that is surrounded by green magic. Fujin wants the crown, but he hears the voice of a man smoking a cigar.]",,Y,MoKo11Af-353,MoKo11Af-355
+MoKo11Af-355,WINDS OF CHANGE / FUJIN,,Man,"Do me a favor, Fujin and take one giant step back.",,N,MoKo11Af-354,MoKo11Af-356
+MoKo11Af-356,WINDS OF CHANGE / FUJIN,,,[It turns out to be Jax in Kronika's armor. He is accompanied by Resurrected Noob Saibot.],,Y,MoKo11Af-355,MoKo11Af-357
+MoKo11Af-357,WINDS OF CHANGE / FUJIN,,Jax,"You too, sorcerer. Makes sense we meet again down here. Where you caged me up beat me within an inch of my life. The hell ain't gonna return the favor.",,N,MoKo11Af-356,MoKo11Af-358
+MoKo11Af-358,WINDS OF CHANGE / FUJIN,,Shang Tsung,Always so generous.,,N,MoKo11Af-357,MoKo11Af-359
+MoKo11Af-359,WINDS OF CHANGE / FUJIN,,,"[They start fighting. Jax with Shang Tsung and Fujin with Noob Saibot. He sucks Fujin into the darkness, but he manages to break free.]",,Y,MoKo11Af-358,MoKo11Af-360
+MoKo11Af-360,WINDS OF CHANGE / FUJIN,,Fujin,"A new trick, Bi—Han? Amusing, but insufficient.",,N,MoKo11Af-359,MoKo11Af-361
+MoKo11Af-361,WINDS OF CHANGE / FUJIN,,Resurrected Noob Saibot,"You lost to me at your temple, Fujin. Now, Kronika has made me even stronger.",,N,MoKo11Af-360,MoKo11Af-362
+MoKo11Af-362,WINDS OF CHANGE / FUJIN,,Fujin,You did not win that fight. You ran away.,,N,MoKo11Af-361,MoKo11Af-363
+MoKo11Af-363,WINDS OF CHANGE / FUJIN,,,[FUJIN VS RESURRECTED NOOB SAIBOT],,Y,MoKo11Af-362,MoKo11Af-364
+MoKo11Af-364,WINDS OF CHANGE / FUJIN,,Fujin,You should have fled this fight too.,,N,MoKo11Af-363,MoKo11Af-365
+MoKo11Af-365,WINDS OF CHANGE / FUJIN,,,[Shang Tsung defeats Jax and tries to suck his soul through a fiery snake. Fujin throws it away with his magic.],,Y,MoKo11Af-364,MoKo11Af-366
+MoKo11Af-366,WINDS OF CHANGE / FUJIN,,Fujin,"Kronika's promises can't be trusted, Jackson. Bi—Han, Kano, Shao Kahn! Look at the scoundrels she employs!",,N,MoKo11Af-365,MoKo11Af-367
+MoKo11Af-367,WINDS OF CHANGE / FUJIN,,Jax,"That's a card you can't play, Fujin. Not when you're buddied up with Shang Tsung.",,N,MoKo11Af-366,MoKo11Af-368
+MoKo11Af-368,WINDS OF CHANGE / FUJIN,,,[FUJIN VS JAX],,Y,MoKo11Af-367,MoKo11Af-369
+MoKo11Af-369,WINDS OF CHANGE / FUJIN,,Fujin,"Kronika will not heal your wounds, Jackson.",,N,MoKo11Af-368,MoKo11Af-370
+MoKo11Af-370,WINDS OF CHANGE / FUJIN,,Jax,"Dammit, Fujin, you know what I've suffered. Kronika's my one chance to prevent all that. Not just for me, but for Jacqui. For Vera. Shit. You're a god. Ain't no way you get how this feels.",,N,MoKo11Af-369,MoKo11Af-371
+MoKo11Af-371,WINDS OF CHANGE / FUJIN,,Fujin,"You know the only time Raiden and I ever fought? When left the Sky Temple to live among humans. ""Do not become attached to them, Fujin. Sentiment will impede the execution of your duty."" But warriors like you and I… we are strengthened by sentiment. We do not fight to kill enemies. We fight to protect our loved ones. That is why it cuts so deeply when we fail.",,N,MoKo11Af-370,MoKo11Af-372
+MoKo11Af-372,WINDS OF CHANGE / FUJIN,,Jax,"Well, I'll be. Maybe you do get it.",,N,MoKo11Af-371,MoKo11Af-373
+MoKo11Af-373,WINDS OF CHANGE / FUJIN,,Fujin,"Kronika knows your pain. She manipulates you with it. Jacqueline is on her way here. Kronika expects you to fight her. Worse, even, break her heart. Is that someone who cares one whit about you or your family?",,N,MoKo11Af-372,MoKo11Af-374
+MoKo11Af-374,WINDS OF CHANGE / FUJIN,,,"[Suddenly, the ceiling collapses. Sindel's going down. Sharp tentacles come down, grab her and lift her to the top.]",,Y,MoKo11Af-373,MoKo11Af-375
+MoKo11Af-375,WINDS OF CHANGE / FUJIN,,Cetrion,You were to defeat me?,,N,MoKo11Af-374,MoKo11Af-376
+MoKo11Af-376,WINDS OF CHANGE / FUJIN,,Sindel,I am not finished yet!,,N,MoKo11Af-375,MoKo11Af-377
+MoKo11Af-377,WINDS OF CHANGE / FUJIN,,,"[She rips the tentacles with her hair and falls to the ground painfully. Nightwolf is trying to attack Cetrion, but without success.]",,Y,MoKo11Af-376,MoKo11Af-378
+MoKo11Af-378,WINDS OF CHANGE / FUJIN,,Cetrion,Abide Kronika's will!,,N,MoKo11Af-377,MoKo11Af-379
+MoKo11Af-379,WINDS OF CHANGE / FUJIN,,,[Nightwolf reads a spell and places the Cetrion on the column of light. Sindel throws Cetrion with her hair.],,Y,MoKo11Af-378,MoKo11Af-380
+MoKo11Af-380,WINDS OF CHANGE / FUJIN,,Sindel,Can you fight?,,N,MoKo11Af-379,MoKo11Af-381
+MoKo11Af-381,WINDS OF CHANGE / FUJIN,,Nightwolf,I’ll do what I can.,,N,MoKo11Af-380,MoKo11Af-382
+MoKo11Af-382,WINDS OF CHANGE / FUJIN,,Cetrion,Kronika offered the future but instead you will have none. Blame only yourselves for this fate.,,N,MoKo11Af-381,MoKo11Af-383
+MoKo11Af-383,WINDS OF CHANGE / FUJIN,,,[SINDEL VS CETRION],,Y,MoKo11Af-382,MoKo11Af-384
+MoKo11Af-384,WINDS OF CHANGE / FUJIN,,Sindel,"It is your fate that should concern you, Cetrion.",,N,MoKo11Af-383,MoKo11Af-385
+MoKo11Af-385,WINDS OF CHANGE / FUJIN,,,[She screams at her and Cetrion rolls away. Fujin and Shang Tsung jumped to the surface. Together they finish her — Shang Tsung’s fiery snake eats Cetrion alive. Jax is standing nearby and he's kinda freaking out about what's going on. Fujin heals Nightwolf.],,Y,MoKo11Af-384,MoKo11Af-386
+MoKo11Af-386,WINDS OF CHANGE / FUJIN,,Fujin,"Well, Shung Ting your strategy proved sound after all.",,N,MoKo11Af-385,MoKo11Af-387
+MoKo11Af-387,WINDS OF CHANGE / FUJIN,,Shang Tsung,Of course it did.,,N,MoKo11Af-386,MoKo11Af-388
+MoKo11Af-388,WINDS OF CHANGE / FUJIN,,,[Young Jax and a group of soldiers rushes in.],,Y,MoKo11Af-387,MoKo11Af-389
+MoKo11Af-389,WINDS OF CHANGE / FUJIN,,Young Jax Briggs,"Hands over your head, Shang Tsung.",,N,MoKo11Af-388,MoKo11Af-390
+MoKo11Af-390,WINDS OF CHANGE / FUJIN,,Jaсqui Briggs,"You too, Sindel. That hair so much as twitches—",,N,MoKo11Af-389,MoKo11Af-391
+MoKo11Af-391,WINDS OF CHANGE / FUJIN,,Jax,"Ease up, baby girl.",,N,MoKo11Af-390,MoKo11Af-392
+MoKo11Af-392,WINDS OF CHANGE / FUJIN,,Jaсqui Briggs,Dad? How did you get here?,,N,MoKo11Af-391,MoKo11Af-393
+MoKo11Af-393,WINDS OF CHANGE / FUJIN,,Jax,We're all on the same side against Kronika.,,N,MoKo11Af-392,MoKo11Af-394
+MoKo11Af-394,WINDS OF CHANGE / FUJIN,,Fujin,"Yes, and now we must bring this to Raiden.",,N,MoKo11Af-393,MoKo11Af-395
+MoKo11Af-395,WINDS OF CHANGE / FUJIN,,,[He takes out the crown.],,Y,MoKo11Af-394,MoKo11Af-396
+MoKo11Af-396,WINDS OF CHANGE / FUJIN,,Jaсqui Briggs,Is that a crown?,,N,MoKo11Af-395,MoKo11Af-397
+MoKo11Af-397,WINDS OF CHANGE / FUJIN,,Fujin,"Kronika's Crown. Without it, she lacks the power to restart history.",,N,MoKo11Af-396,MoKo11Af-398
+MoKo11Af-398,WINDS OF CHANGE / FUJIN,,Young Jax Briggs,About time we had some good news.,,N,MoKo11Af-397,MoKo11Af-399
+MoKo11Af-399,WINDS OF CHANGE / FUJIN,,Nightwolf,"Now that we have this, we're in uncharted territory. We've changed this timeline for good.",,N,MoKo11Af-398,MoKo11Af-400
+MoKo11Af-400,WINDS OF CHANGE / FUJIN,,Shang Tsung,Correct. No one can predict what happens next. Not even me.,,N,MoKo11Af-399,MoKo11Af-401
+MoKo11Af-401,WINDS OF CHANGE / FUJIN,,Sindel,"I must return to Outworld, to aid Kitana Kahn.",,N,MoKo11Af-400,MoKo11Af-402
+MoKo11Af-402,WINDS OF CHANGE / FUJIN,,Fujin,Thank you for aiding us. We will rendervous at the Sea of Blood in six hours.,,N,MoKo11Af-401,MoKo11Af-403
+MoKo11Af-403,WINDS OF CHANGE / FUJIN,,Sindel,Until our next battle.,,N,MoKo11Af-402,MoKo11Af-404
+MoKo11Af-404,WINDS OF CHANGE / FUJIN,,,[Shang Tsung opens a portal. Sindel walks into it.],,Y,MoKo11Af-403,MoKo11Af-405
+MoKo11Af-405,WINDS OF CHANGE / FUJIN,,Sindel,Sorcerer.,,N,MoKo11Af-404,MoKo11Af-406
+MoKo11Af-406,WINDS OF CHANGE / FUJIN,,Nightwolf,I’ll go with the Briggs family to brief the Special Forces.,,N,MoKo11Af-405,MoKo11Af-407
+MoKo11Af-407,WINDS OF CHANGE / FUJIN,,Fujin,May the Great Spirit protect you.,,N,MoKo11Af-406,MoKo11Af-408
+MoKo11Af-408,WINDS OF CHANGE / FUJIN,,Nightwolf,"May she protect you, Fujin, when Raiden lays eyes on you with Shang Tsung.",,N,MoKo11Af-407,MoKo11Af-409
+MoKo11Af-409,WINDS OF CHANGE / FUJIN,,,"[Cetrion, defeated, returns to Kronika.]",,Y,MoKo11Af-408,MoKo11Af-410
+MoKo11Af-410,WINDS OF CHANGE / FUJIN,,Kronika,"Without the Crown, there can be no New Era.",,N,MoKo11Af-409,MoKo11Af-411
+MoKo11Af-411,WINDS OF CHANGE / FUJIN,,Cetrion,This failure rests on my shoulders.,,N,MoKo11Af-410,MoKo11Af-412
+MoKo11Af-412,WINDS OF CHANGE / FUJIN,,Kronika,"No. I underestimated Shang Tsung's ingenuity. To escape the Void, to return from the future…",,N,MoKo11Af-411,MoKo11Af-413
+MoKo11Af-413,WINDS OF CHANGE / FUJIN,,Cetrion,"I will face him again, mother. This time I will succeed.",,N,MoKo11Af-412,MoKo11Af-414
+MoKo11Af-414,WINDS OF CHANGE / FUJIN,,Kronika,"I must go. With Shang Tsung in possession of the Crown, he's become far too dangerous. And I doubt his new allies realize quite how dangerous he is.",,N,MoKo11Af-413,MoKo11Af-415
+MoKo11Af-415,WINDS OF CHANGE / FUJIN,,,"[We're moving to the Fire Gardens where Sub-Zero awaits the return of Scorpion, who must persuade Kharon to share his fleet.]",,Y,MoKo11Af-414,MoKo11Af-416
+MoKo11Af-416,WINDS OF CHANGE / FUJIN,,Sub-Zero,"Your Shaolin masters, they are ready?",,N,MoKo11Af-415,MoKo11Af-417
+MoKo11Af-417,WINDS OF CHANGE / FUJIN,,Young Liu Kang,They will fight until the last man.,,N,MoKo11Af-416,MoKo11Af-418
+MoKo11Af-418,WINDS OF CHANGE / FUJIN,,Sub-Zero,That is likely what it will take.,,N,MoKo11Af-417,MoKo11Af-419
+MoKo11Af-419,WINDS OF CHANGE / FUJIN,,Young Liu Kang,There will not be a fight if Kharon does not help us. Is there any word from Grandmaster Hasashi?,,N,MoKo11Af-418,MoKo11Af-420
+MoKo11Af-420,WINDS OF CHANGE / FUJIN,,Sub-Zero,No. If we do not hear soon I will return to the Netherrealm.,,N,MoKo11Af-419,MoKo11Af-421
+MoKo11Af-421,WINDS OF CHANGE / FUJIN,,,[Scorpion appears.],,Y,MoKo11Af-420,MoKo11Af-422
+MoKo11Af-422,WINDS OF CHANGE / FUJIN,,Young Liu Kang,Wrong Scorpion. This cannot be good.,,N,MoKo11Af-421,MoKo11Af-423
+MoKo11Af-423,WINDS OF CHANGE / FUJIN,,Sub-Zero,Get Raiden.,,N,MoKo11Af-422,MoKo11Af-424
+MoKo11Af-424,WINDS OF CHANGE / FUJIN,,Scorpion,"The Fire Gardens, rebuilt? The Shirai Ryu are indeed restored.",,N,MoKo11Af-423,MoKo11Af-425
+MoKo11Af-425,WINDS OF CHANGE / FUJIN,,Sub-Zero,"Why are you here, Scorpion? Where is Grandmaster Hasashi?",,N,MoKo11Af-424,MoKo11Af-426
+MoKo11Af-426,WINDS OF CHANGE / FUJIN,,Scorpion,He is dead.,,N,MoKo11Af-425,MoKo11Af-427
+MoKo11Af-427,WINDS OF CHANGE / FUJIN,,Sub-Zero,And now you've come to finish us.,,N,MoKo11Af-426,MoKo11Af-428
+MoKo11Af-428,WINDS OF CHANGE / FUJIN,,Scorpion,"I understand your mistrust, but I am here to assist you!",,N,MoKo11Af-427,MoKo11Af-429
+MoKo11Af-429,WINDS OF CHANGE / FUJIN,,Sub-Zero,I find that impossible to believe.,,N,MoKo11Af-428,MoKo11Af-430
+MoKo11Af-430,WINDS OF CHANGE / FUJIN,,,"[Suddenly Shang Tsung appears, disrupting the flow of time.]",,Y,MoKo11Af-429,MoKo11Af-431
+MoKo11Af-431,WINDS OF CHANGE / FUJIN,,Sub-Zero, What is doing here?,(to Scorpion) ,N,MoKo11Af-430,MoKo11Af-432
+MoKo11Af-432,WINDS OF CHANGE / FUJIN,,Shang Tsung,We are not together.,,N,MoKo11Af-431,MoKo11Af-433
+MoKo11Af-433,WINDS OF CHANGE / FUJIN,,Sub-Zero, If you are here to help prove it. Join me against the sorcerer.,(to Scorpion) ,N,MoKo11Af-432,MoKo11Af-434
+MoKo11Af-434,WINDS OF CHANGE / FUJIN,,Scorpion,I shall.,,N,MoKo11Af-433,MoKo11Af-435
+MoKo11Af-435,WINDS OF CHANGE / FUJIN,,,[Fujin walks out of the portal.],,Y,MoKo11Af-434,MoKo11Af-436
+MoKo11Af-436,WINDS OF CHANGE / FUJIN,,Sub-Zero,Fujin?! Raiden thought you lost when the timeline was broken… But you stand with Shang Tsung?!,,N,MoKo11Af-435,MoKo11Af-437
+MoKo11Af-437,WINDS OF CHANGE / FUJIN,,Fujin,"We have urgent news for Raiden. Please, let us pass!",,N,MoKo11Af-436,MoKo11Af-438
+MoKo11Af-438,WINDS OF CHANGE / FUJIN,,Sub-Zero,This may be the sorcerer's trick.,,N,MoKo11Af-437,MoKo11Af-439
+MoKo11Af-439,WINDS OF CHANGE / FUJIN,,Scorpion,The Fire Gardens will not be defiled by his presence.,,N,MoKo11Af-438,MoKo11Af-440
+MoKo11Af-440,WINDS OF CHANGE / FUJIN,,,[Sub-Zero freezes Shang Tsung.],,Y,MoKo11Af-439,MoKo11Af-441
+MoKo11Af-441,WINDS OF CHANGE / FUJIN,,Sub-Zero,"Why you have joined Shang Tsung is beyond me, Fujin. What has he done to corrupt your mind?",,N,MoKo11Af-440,MoKo11Af-442
+MoKo11Af-442,WINDS OF CHANGE / FUJIN,,,[FUJIN VS SUB-ZERO],,Y,MoKo11Af-441,MoKo11Af-443
+MoKo11Af-443,WINDS OF CHANGE / FUJIN,,Fujin,Perhaps listen before you judge.,,N,MoKo11Af-442,MoKo11Af-444
+MoKo11Af-444,WINDS OF CHANGE / FUJIN,,,[He broke the ice with Shang Tsung. I mean he shot him and the ice shutters.],,Y,MoKo11Af-443,MoKo11Af-445
+MoKo11Af-445,WINDS OF CHANGE / FUJIN,,Shang Tsung,"Thank you, Fujin.",,N,MoKo11Af-444,MoKo11Af-446
+MoKo11Af-446,WINDS OF CHANGE / FUJIN,,Fujin,The storm is not yet passed.,,N,MoKo11Af-445,MoKo11Af-447
+MoKo11Af-447,WINDS OF CHANGE / FUJIN,,,[Young Liu Kang brings Raiden.],,Y,MoKo11Af-446,MoKo11Af-448
+MoKo11Af-448,WINDS OF CHANGE / FUJIN,,Raiden,Shang Tsung!,,N,MoKo11Af-447,MoKo11Af-449
+MoKo11Af-449,WINDS OF CHANGE / FUJIN,,Fujin,"We must speak with you, brother.",,N,MoKo11Af-448,MoKo11Af-450
+MoKo11Af-450,WINDS OF CHANGE / FUJIN,,Raiden,"""We,"" Fujin? Since when are you friends with this filth?",,N,MoKo11Af-449,MoKo11Af-451
+MoKo11Af-451,WINDS OF CHANGE / FUJIN,,Shang Tsung,"I am here to save you, Raiden.",,N,MoKo11Af-450,MoKo11Af-452
+MoKo11Af-452,WINDS OF CHANGE / FUJIN,,Fujin,"We all from your tragic future. In it, Liu Kang defeated Kronika, but their battle destroyed her Crown. Without this, the broken timeline couldn't be repaired.",,N,MoKo11Af-451,MoKo11Af-453
+MoKo11Af-453,WINDS OF CHANGE / FUJIN,,Shang Tsung,"Our only hope was to return here, steal the Crown, and make use of its power.",,N,MoKo11Af-452,MoKo11Af-454
+MoKo11Af-454,WINDS OF CHANGE / FUJIN,,Fujin,"Now, we can change the outcome of the fight against Kronika. We can defeat her and fix time!",,N,MoKo11Af-453,MoKo11Af-455
+MoKo11Af-455,WINDS OF CHANGE / FUJIN,,Raiden,"I had never thought you gullible, brother. Shang Tsung's schemes serve only to benefit him! How could you fall for such lies?!",,N,MoKo11Af-454,MoKo11Af-456
+MoKo11Af-456,WINDS OF CHANGE / FUJIN,,,[He takes out Shinnok's amulet.],,Y,MoKo11Af-455,MoKo11Af-457
+MoKo11Af-457,WINDS OF CHANGE / FUJIN,,Shang Tsung,"Be rational, Raiden—",,N,MoKo11Af-456,MoKo11Af-458
+MoKo11Af-458,WINDS OF CHANGE / FUJIN,,Raiden,"Spread your falsehoods elsewhere, sorcerer! You will not deceive us!",,N,MoKo11Af-457,MoKo11Af-459
+MoKo11Af-459,WINDS OF CHANGE / FUJIN,,Young Liu Kang,Lord Raiden! We should listen. He may be telling the truth.,,N,MoKo11Af-458,MoKo11Af-460
+MoKo11Af-460,WINDS OF CHANGE / FUJIN,,Raiden,There is only one way to find out.,,N,MoKo11Af-459,MoKo11Af-461
+MoKo11Af-461,WINDS OF CHANGE / FUJIN,,,[He hits Shang Tsung with the power of amulet.],,Y,MoKo11Af-460,MoKo11Af-462
+MoKo11Af-462,WINDS OF CHANGE / FUJIN,,Raiden,"Now, Shang Tsung. The truth!",,N,MoKo11Af-461,MoKo11Af-463
+MoKo11Af-463,WINDS OF CHANGE / FUJIN,,Young Liu Kang,"Raiden, stop this!",,N,MoKo11Af-462,MoKo11Af-464
+MoKo11Af-464,WINDS OF CHANGE / FUJIN,,Raiden,"Step aside, Liu Kang.",,N,MoKo11Af-463,MoKo11Af-465
+MoKo11Af-465,WINDS OF CHANGE / FUJIN,,Young Liu Kang,Put down the amulet! Its darkness is taking hold of you!,,N,MoKo11Af-464,MoKo11Af-466
+MoKo11Af-466,WINDS OF CHANGE / FUJIN,,,[He hits Young Liu Kang too.],,Y,MoKo11Af-465,MoKo11Af-467
+MoKo11Af-467,WINDS OF CHANGE / FUJIN,,Raiden,You also betray me!,,N,MoKo11Af-466,MoKo11Af-468
+MoKo11Af-468,WINDS OF CHANGE / FUJIN,,Young Liu Kang,This is not the way. Shang Tsung is not the enemy this time.,,N,MoKo11Af-467,MoKo11Af-469
+MoKo11Af-469,WINDS OF CHANGE / FUJIN,,,"[Raiden is going to hit Young Liu Kang again, but Fujin knocks the amulet out of his hands with magic.]",,Y,MoKo11Af-468,MoKo11Af-470
+MoKo11Af-470,WINDS OF CHANGE / FUJIN,,Raiden,The realms hang in the balance and you form this unholy alliance?!,,N,MoKo11Af-469,MoKo11Af-471
+MoKo11Af-471,WINDS OF CHANGE / FUJIN,,,[He turns himself into Evil Raiden.],,Y,MoKo11Af-470,MoKo11Af-472
+MoKo11Af-472,WINDS OF CHANGE / FUJIN,,Evil Raiden,"Enough of this madness. If you both must die, so be it!",,N,MoKo11Af-471,MoKo11Af-473
+MoKo11Af-473,WINDS OF CHANGE / FUJIN,,Fujin,My brother is my problem. I will signal if I need help. Shinnok's Amulet inflames your anger and clouds your judgement. Have faith in me.,,N,MoKo11Af-472,MoKo11Af-474
+MoKo11Af-474,WINDS OF CHANGE / FUJIN,,,[FUJIN VS EVIL RAIDEN],,Y,MoKo11Af-473,MoKo11Af-475
+MoKo11Af-475,WINDS OF CHANGE / FUJIN,,Fujin,"Now listen, brother. We're running out of time.",,N,MoKo11Af-474,MoKo11Af-476
+MoKo11Af-476,WINDS OF CHANGE / FUJIN,,,[Evil Raiden is turning into a regular Raiden. He picks up Shinnok’s Amulet from the ground.],,Y,MoKo11Af-475,MoKo11Af-477
+MoKo11Af-477,WINDS OF CHANGE / FUJIN,,Raiden,I am a fool. I have allowed myself to become a slave to anger. I will not allow my temper to fracture our resolve further.,,N,MoKo11Af-476,MoKo11Af-478
+MoKo11Af-478,WINDS OF CHANGE / FUJIN,,,"[Shang Tsung is smiling. Fujin tells Raiden, Young Liu Kang and the others what will happen in the future.]",,Y,MoKo11Af-477,MoKo11Af-479
+MoKo11Af-479,WINDS OF CHANGE / FUJIN,,Young Liu Kang,"Surely you jest, Lord Fujin.",,N,MoKo11Af-478,MoKo11Af-480
+MoKo11Af-480,WINDS OF CHANGE / FUJIN,,Fujin,"Not all, Liu Kang. Raiden's power makes you a Fire God.",,N,MoKo11Af-479,MoKo11Af-481
+MoKo11Af-481,WINDS OF CHANGE / FUJIN,,Young Kung Lao,Of course it does.,,N,MoKo11Af-480,MoKo11Af-482
+MoKo11Af-482,WINDS OF CHANGE / FUJIN,,Raiden,"Unfortunately, I cannot transfer my power to Liu Kang yet. First I must free his Revenant from Quan Chi's curse.",,N,MoKo11Af-481,MoKo11Af-483
+MoKo11Af-483,WINDS OF CHANGE / FUJIN,,Fujin,We will face the Revenants cool enough.,,N,MoKo11Af-482,MoKo11Af-484
+MoKo11Af-484,WINDS OF CHANGE / FUJIN,,Raiden,What else can you tell us about the final battle? We must use every advantage.,,N,MoKo11Af-483,MoKo11Af-485
+MoKo11Af-485,WINDS OF CHANGE / FUJIN,,,"[Unexpectedly, the sands of time hit the heroes. Everyone but Raiden, Fujin and Shang Tsung are frozen in time.]",,Y,MoKo11Af-484,MoKo11Af-486
+MoKo11Af-486,WINDS OF CHANGE / FUJIN,,Kronika,"Lord Fujin, Shang Tsung. I trust you are enjoying your travels?",,N,MoKo11Af-485,MoKo11Af-487
+MoKo11Af-487,WINDS OF CHANGE / FUJIN,,Fujin,"You have already been defeated once, Kronika.",,N,MoKo11Af-486,MoKo11Af-488
+MoKo11Af-488,WINDS OF CHANGE / FUJIN,,Kronika,"Of course, Fujin. How else could you have escaped the Void?",,N,MoKo11Af-487,MoKo11Af-489
+MoKo11Af-489,WINDS OF CHANGE / FUJIN,,Raiden,"If you know this, accept the inevitable. Surrender.",,N,MoKo11Af-488,MoKo11Af-490
+MoKo11Af-490,WINDS OF CHANGE / FUJIN,,Kronika,"But clearly my loss was not your victory, Raiden. If your future “savior” had gained full control of my Hourglass, we would not be here. This timeline would no longer exist.",,N,MoKo11Af-489,MoKo11Af-491
+MoKo11Af-491,WINDS OF CHANGE / FUJIN,,Shang Tsung,I see no harm in confirming your suspicion.,,N,MoKo11Af-490,MoKo11Af-492
+MoKo11Af-492,WINDS OF CHANGE / FUJIN,,Kronika,"Even if you defeat me, what then? Who claims the Hourglass? Surely you realize that Shang Tsung will break your alliance.",,N,MoKo11Af-491,MoKo11Af-493
+MoKo11Af-493,WINDS OF CHANGE / FUJIN,,Fujin,"We are prepared, Kronika.",,N,MoKo11Af-492,MoKo11Af-494
+MoKo11Af-494,WINDS OF CHANGE / FUJIN,,Kronika,Are you? Have you wondered why Shang Tsung knows so much about my Crown?,,N,MoKo11Af-493,MoKo11Af-495
+MoKo11Af-495,WINDS OF CHANGE / FUJIN,,Raiden,"Because he did your bidding, gathering souls to fuel it.",,N,MoKo11Af-494,MoKo11Af-496
+MoKo11Af-496,WINDS OF CHANGE / FUJIN,,Kronika,"Shang Tsung is far too modest. The Crown is his design. No one, save me, know more about its power.",,N,MoKo11Af-495,MoKo11Af-497
+MoKo11Af-497,WINDS OF CHANGE / FUJIN,,,[Kronika's words make Fujin suspicious.],,Y,MoKo11Af-496,MoKo11Af-498
+MoKo11Af-498,WINDS OF CHANGE / FUJIN,,Shang Tsung,"Had I told you, we would still be marooned at the beginning of time bickering among ourselves.",,N,MoKo11Af-497,MoKo11Af-499
+MoKo11Af-499,WINDS OF CHANGE / FUJIN,,Kronika,"You must decide, Raiden. Who do you wish to keep Time for all of creation? Me, or Shang Tsung?",,N,MoKo11Af-498,MoKo11Af-500
+MoKo11Af-500,WINDS OF CHANGE / FUJIN,,Raiden,"Neither, Kronika. You will be beaten. And if Shang Tsung betrays us, we will finish him.",,N,MoKo11Af-499,MoKo11Af-501
+MoKo11Af-501,WINDS OF CHANGE / FUJIN,,Kronika,"You are a fool, Raiden. Do not condemn the realms to oblivion!",,N,MoKo11Af-500,MoKo11Af-502
+MoKo11Af-502,WINDS OF CHANGE / FUJIN,,,"[Raiden attacks Kronika with lightning and she freezes him in time. She fights Fujin and Shang Tsung. During the battle, the crown falls out of Fujin's bag (or where he kept it, we are not shown).]",,Y,MoKo11Af-501,MoKo11Af-503
+MoKo11Af-503,WINDS OF CHANGE / FUJIN,,Shang Tsung,"Fujin, the Crown!",,N,MoKo11Af-502,MoKo11Af-504
+MoKo11Af-504,WINDS OF CHANGE / FUJIN,,Kronika,"It is a mistake, challenging a Titan! Now I end your existence!",,N,MoKo11Af-503,MoKo11Af-505
+MoKo11Af-505,WINDS OF CHANGE / FUJIN,,,"[Fujin crawls to the crown and puts it on. He is gripped by a terrible pain, but he brings it up and stops the whirlwind of time with one wave of his hands.]",,Y,MoKo11Af-504,MoKo11Af-506
+MoKo11Af-506,WINDS OF CHANGE / FUJIN,,Super Fujin,"You are vulnerable, Kronika.",,N,MoKo11Af-505,MoKo11Af-507
+MoKo11Af-507,WINDS OF CHANGE / FUJIN,,,[Shang Tsung is calling for some demons to drag Kronika underground. Super Fujin conjures up a vortex that helps demons. Finally Raiden woke up and hit her with his lightning. Kronika turns into a handful of sand. The crown flies off Fujin's head and he falls to the ground. The other heroes are unfreezing.],,Y,MoKo11Af-506,MoKo11Af-508
+MoKo11Af-508,WINDS OF CHANGE / FUJIN,,Raiden,Brother! Are you all right?,,N,MoKo11Af-507,MoKo11Af-509
+MoKo11Af-509,WINDS OF CHANGE / FUJIN,,Fujin,Yes… But the Crown…,,N,MoKo11Af-508,MoKo11Af-510
+MoKo11Af-510,WINDS OF CHANGE / FUJIN,,,[But… Shang Tsung already has it.],,Y,MoKo11Af-509,MoKo11Af-511
+MoKo11Af-511,WINDS OF CHANGE / FUJIN,,Shang Tsung,"Truly, my finest work.",,N,MoKo11Af-510,MoKo11Af-512
+MoKo11Af-512,WINDS OF CHANGE / FUJIN,,,"[Raiden is slowly approaching him. After looking at the crown a little bit, Shang Tsung gives it to Raiden.]",,Y,MoKo11Af-511,MoKo11Af-513
+MoKo11Af-513,WINDS OF CHANGE / FUJIN,,Shang Tsung,I will instruct you in its ways.,,N,MoKo11Af-512,MoKo11Af-514
+MoKo11Af-514,WINDS OF CHANGE / FUJIN,,Young Liu Kang,What just happened!?,,N,MoKo11Af-513,MoKo11Af-515
+MoKo11Af-515,WINDS OF CHANGE / FUJIN,,Shang Tsung,Kronika came here to retrieve the Crown. We forced her to retreat.,,N,MoKo11Af-514,MoKo11Af-516
+MoKo11Af-516,WINDS OF CHANGE / FUJIN,,Raiden,"We must strike while she is weakened. Let us in the armies massing at the Sea of Blood. Together, we will storm Kronika's Isle and take command of the Hourglass.",,N,MoKo11Af-515,MoKo11Af-517
+MoKo11Af-518,WINDS OF CHANGE / FUJIN,,,"[Sindel sits in the palace and listens to Shang Tsung through a magical device, nodding a purple glow. You can't see the sorcerer himself, though you can recognize his sly—ass crook voice anywhere.]",,Y,MoKo11Af-517,MoKo11Af-519
+MoKo11Af-519,WINDS OF CHANGE / FUJIN,,Voice of Shang Tsung,We will rendezvous at the Isle of Kronika. The fools believe victory is at hand. Their misplaced confidence will be their demise.,,N,MoKo11Af-518,MoKo11Af-520
+MoKo11Af-520,WINDS OF CHANGE / FUJIN,,Sindel,Such a pity my daughter embraces their sentimental values…,,N,MoKo11Af-519,MoKo11Af-521
+MoKo11Af-521,WINDS OF CHANGE / FUJIN,,Voice of Shang Tsung,"Having second thoughts, Sindel?",,N,MoKo11Af-520,MoKo11Af-522
+MoKo11Af-522,WINDS OF CHANGE / FUJIN,,Sindel,Hardly. Kitana courts a peasant and obeys the Thunder God. She couldn't be a bigger disappointment.,,N,MoKo11Af-521,MoKo11Af-523
+MoKo11Af-523,WINDS OF CHANGE / FUJIN,,,[Now we finally see the sorcerer himself.],,Y,MoKo11Af-522,MoKo11Af-524
+MoKo11Af-524,WINDS OF CHANGE / FUJIN,,Voice of Shang Tsung,One can only imagine. The Isle… Do not be late. An eternal empire awaits you…,,N,MoKo11Af-523,MoKo11Af-525
+MoKo11Af-525,WINDS OF CHANGE / FUJIN,,,[Sindel smiles and finishes the transmission. Someone knocks at the door.],,Y,MoKo11Af-524,MoKo11Af-526
+MoKo11Af-526,WINDS OF CHANGE / FUJIN,,Sindel,Enter. Kitana Kahn.,,N,MoKo11Af-525,MoKo11Af-527
+MoKo11Af-527,WINDS OF CHANGE / FUJIN,,,[She bows.],,Y,MoKo11Af-526,MoKo11Af-528
+MoKo11Af-528,WINDS OF CHANGE / FUJIN,,Kitana Kahn,"Don't be so formal, Mother.",,N,MoKo11Af-527,MoKo11Af-529
+MoKo11Af-529,WINDS OF CHANGE / FUJIN,,Sindel,"You are Kahn, Kitana. Command the awe of your subjects! Even me. I shall never tire of greeting you.",,N,MoKo11Af-528,MoKo11Af-530
+MoKo11Af-530,WINDS OF CHANGE / FUJIN,,Kitana Kahn,Nor will tire of calling on you. Our battalion is leaving for the Sea of Blood. Queen Sheeva and the Shokan will follow as rear guard.,,N,MoKo11Af-529,MoKo11Af-531
+MoKo11Af-531,WINDS OF CHANGE / FUJIN,,Sindel,May I request something?,,N,MoKo11Af-530,MoKo11Af-532
+MoKo11Af-532,WINDS OF CHANGE / FUJIN,,Kitana Kahn,"Mother, you don't have to—",,N,MoKo11Af-531,MoKo11Af-533
+MoKo11Af-533,WINDS OF CHANGE / FUJIN,,,[Sindel looks at her.],,Y,MoKo11Af-532,MoKo11Af-534
+MoKo11Af-534,WINDS OF CHANGE / FUJIN,,Kitana Kahn,Make your request.,,N,MoKo11Af-533,MoKo11Af-535
+MoKo11Af-535,WINDS OF CHANGE / FUJIN,,Sindel,Sheeva—Queen Sheeva risked everything to restore me. Honor demands that accompany her into battle.,,N,MoKo11Af-534,MoKo11Af-536
+MoKo11Af-536,WINDS OF CHANGE / FUJIN,,Kitana Kahn,"Yes, it does. And that display of loyalty is sure to rally the Shokan's spirits.",,N,MoKo11Af-535,MoKo11Af-537
+MoKo11Af-537,WINDS OF CHANGE / FUJIN,,Sindel,"Thank you, Kitana Kahn.",,N,MoKo11Af-536,MoKo11Af-538
+MoKo11Af-538,WINDS OF CHANGE / FUJIN,,,"[She bows and then they hug. Later, Sindel decides to visit her husband in the dungeons. Two guards are beating him up, and preparing to kill him.]",,Y,MoKo11Af-537,MoKo11Af-539
+MoKo11Af-539,WINDS OF CHANGE / FUJIN,,Guard,Doesn't know when to quit. Let's finish him.,,N,MoKo11Af-538,MoKo11Af-540
+MoKo11Af-540,WINDS OF CHANGE / FUJIN,,,[Sindel screams at them and rips flesh from their bones.],,Y,MoKo11Af-539,MoKo11Af-541
+MoKo11Af-541,WINDS OF CHANGE / FUJIN,,Shao Kahn,Wife. It's you.,,N,MoKo11Af-540,MoKo11Af-542
+MoKo11Af-542,WINDS OF CHANGE / FUJIN,,,[Apparently he was blinded.],,Y,MoKo11Af-541,MoKo11Af-543
+MoKo11Af-543,WINDS OF CHANGE / FUJIN,,Sindel,"Hush, husband, I'm here. The Soul Chamber will heal your wounds. Then we'll discipline Kitana and take back our throne.",,N,MoKo11Af-542,MoKo11Af-544
+MoKo11Af-544,WINDS OF CHANGE / FUJIN,,,[She hug him. Suddenly Sheeva enters the dungeons.],,Y,MoKo11Af-543,MoKo11Af-545
+MoKo11Af-545,WINDS OF CHANGE / FUJIN,,Sheeva,Empress? Tell me misheard. Tell me you would not betray your daughter.,,N,MoKo11Af-544,MoKo11Af-546
+MoKo11Af-546,WINDS OF CHANGE / FUJIN,,Sindel,"She takes after her father, Sheeva. Jerrod was a weak king, Kitana is a weaker Kahn.",,N,MoKo11Af-545,MoKo11Af-547
+MoKo11Af-547,WINDS OF CHANGE / FUJIN,,Sheeva,Weak?! She defeated Shao Kahn!,,N,MoKo11Af-546,MoKo11Af-548
+MoKo11Af-548,WINDS OF CHANGE / FUJIN,,Sindel,"Yet she lacked the resolve to kill him! Now she will learn. Enemies must be crushed, lest they rise again.",,N,MoKo11Af-547,MoKo11Af-549
+MoKo11Af-549,WINDS OF CHANGE / FUJIN,,Sheeva,"That was true, once. But now there is a better way to lead.",,N,MoKo11Af-548,MoKo11Af-550
+MoKo11Af-550,WINDS OF CHANGE / FUJIN,,,[SINDEL VS SHEEVA],,Y,MoKo11Af-549,MoKo11Af-551
+MoKo11Af-551,WINDS OF CHANGE / FUJIN,,Sindel,"Elder Gods tremble before me, Sheeva. What hope did you have?",,N,MoKo11Af-550,MoKo11Af-552
+MoKo11Af-552,WINDS OF CHANGE / FUJIN,,,[A few Shokan enters the dungeon and sees an unconscious Sheeva.],,Y,MoKo11Af-551,MoKo11Af-553
+MoKo11Af-553,WINDS OF CHANGE / FUJIN,,Sindel,Kitana murdered your Shokan brethren. Sheeva challenged her and suffered this punishment. Swear your allegiance and I shall see her avenged!,,N,MoKo11Af-552,MoKo11Af-554
+MoKo11Af-554,WINDS OF CHANGE / FUJIN,,,[They bow. Sindel takes Shao Kahn to the Soul Chamber. He restores his health and wears his iconic helmet. They hug.],,Y,MoKo11Af-553,MoKo11Af-555
+MoKo11Af-555,WINDS OF CHANGE / FUJIN,,Shao Kahn,"Wife, I have missed you. If Quan Chi were here, I'd hoist him by the ankles, and split him through for all the time he stole from us…",,N,MoKo11Af-554,MoKo11Af-556
+MoKo11Af-556,WINDS OF CHANGE / FUJIN,,Sindel,Soon we will have the Hourglass. Eternity will be our empire.,,N,MoKo11Af-555,MoKo11Af-557
+MoKo11Af-557,WINDS OF CHANGE / FUJIN,,Shao Kahn,We'll have all the time we need.,,N,MoKo11Af-556,MoKo11Af-558
+MoKo11Af-558,WINDS OF CHANGE / FUJIN,,,"[The room opens a portal from which Geras comes out wearing a new, cool hat, making him look like a superhero.]",,Y,MoKo11Af-557,MoKo11Af-559
+MoKo11Af-559,WINDS OF CHANGE / FUJIN,,Geras,"Shao Kahn, Sindel. Come with me. Kronika has need of you.",,N,MoKo11Af-558,MoKo11Af-560
+MoKo11Af-560,WINDS OF CHANGE / FUJIN,,Shao Kahn,Kronika?! Where was she when Kitana stole my throne? We'll make her choke on her empty promises.,,N,MoKo11Af-559,MoKo11Af-561
+MoKo11Af-561,WINDS OF CHANGE / FUJIN,,,[You can choose your fighter — Sindel or Shao Kahn.],,Y,MoKo11Af-560,MoKo11Af-562
+MoKo11Af-562,WINDS OF CHANGE / FUJIN,,Sindel,"Allow me the privilege, husband.",,N,MoKo11Af-561,MoKo11Af-563
+MoKo11Af-563,WINDS OF CHANGE / FUJIN,,Shao Kahn,It will be mine to watch you punish him.,,N,MoKo11Af-562,MoKo11Af-564
+MoKo11Af-564,WINDS OF CHANGE / FUJIN,,Sindel,"Your maker sends you to die, Geras.",,N,MoKo11Af-563,MoKo11Af-565
+MoKo11Af-565,WINDS OF CHANGE / FUJIN,,Geras,"As she has done billions of times before. Each time, the perfection of her design grows closer.",,N,MoKo11Af-564,MoKo11Af-566
+MoKo11Af-566,WINDS OF CHANGE / FUJIN,,,[SINDEL VS GERAS],,Y,MoKo11Af-565,MoKo11Af-567
+MoKo11Af-567,WINDS OF CHANGE / FUJIN,,Sindel,"All that grows closer is her defeat, Geras.",,N,MoKo11Af-566,MoKo11Af-568
+MoKo11Af-568,WINDS OF CHANGE / FUJIN,,,[She screams at him. Shao Kahn calls for his iconic hammer and smashes Geras' head with a few powerful blows.],,Y,MoKo11Af-567,MoKo11Af-569
+MoKo11Af-569,WINDS OF CHANGE / FUJIN,,Shao Kahn,"A thousand years, and you haven't lost a step.",,N,MoKo11Af-568,MoKo11Af-570
+MoKo11Af-570,WINDS OF CHANGE / FUJIN,,,[We got back to Kronika’s Tower.],,Y,MoKo11Af-569,MoKo11Af-571
+MoKo11Af-571,WINDS OF CHANGE / FUJIN,,Resurrected Liu Kang,Now Shao Kahn turns against us?,,N,MoKo11Af-570,MoKo11Af-572
+MoKo11Af-572,WINDS OF CHANGE / FUJIN,,Resurrected Kitana,Perhaps we should send the fleet.,,N,MoKo11Af-571,MoKo11Af-573
+MoKo11Af-573,WINDS OF CHANGE / FUJIN,,Kronika,"No. Shao Kahn and Sindel have unwittingly given us back the advantage. Their army will battle Raiden's for possession of my Crown, weakening them both.",,N,MoKo11Af-572,MoKo11Af-574
+MoKo11Af-574,WINDS OF CHANGE / FUJIN,,Resurrected Kitana,Then we crush what remains of them with strength to spare.,,N,MoKo11Af-573,MoKo11Af-575
+MoKo11Af-575,WINDS OF CHANGE / FUJIN,,Kronika,"The Crown, once again, will be mine. When it is, the New Era will begin.",,N,MoKo11Af-574,MoKo11Af-576
+MoKo11Af-576,WINDS OF CHANGE / FUJIN,,,"[Finally, Kharon’s Fleet is set sail in the Sea of Blood. Cassie salutes Young Jax Briggs, who stands on the ship. Some approach her.]",,Y,MoKo11Af-575,MoKo11Af-577
+MoKo11Af-577,WINDS OF CHANGE / FUJIN,,Young Johnny Cage,"Captain Cage, reporting for duty, sir! Uh, I mean ma'am!",,N,MoKo11Af-576,MoKo11Af-578
+MoKo11Af-578,WINDS OF CHANGE / FUJIN,,Cassie Cage,Whoa there. Nineties Dad. You've already got one bullet wound too many.,,N,MoKo11Af-577,MoKo11Af-579
+MoKo11Af-579,WINDS OF CHANGE / FUJIN,,Young Johnny Cage,"I'm healed Cassie. Raiden gave me one of his ""Thunder Hands” massages. Speaking of, where is Mama Bear?",,N,MoKo11Af-578,MoKo11Af-580
+MoKo11Af-580,WINDS OF CHANGE / FUJIN,,Cassie Cage,"She's over there, waiting for Sheeva at the rendezvous. But we cast off in five. Where are they?",,N,MoKo11Af-579,MoKo11Af-581
+MoKo11Af-581,WINDS OF CHANGE / FUJIN,,,[Suddenly a portal opens and a lot of Shokans run out of it. Soldiers open fire.],,Y,MoKo11Af-580,MoKo11Af-582
+MoKo11Af-582,WINDS OF CHANGE / FUJIN,,Cassie Cage,No… No!,,N,MoKo11Af-581,MoKo11Af-583
+MoKo11Af-583,WINDS OF CHANGE / FUJIN,,,"[Despite the firearms, the superior number of Shokans is obvious. Young Sonya Blade bravely fights with her pistols, rope and abilities.]",,Y,MoKo11Af-582,MoKo11Af-584
+MoKo11Af-584,WINDS OF CHANGE / FUJIN,,Shao Kahn,Try that on me!,,N,MoKo11Af-583,MoKo11Af-585
+MoKo11Af-585,WINDS OF CHANGE / FUJIN,,,"[Sonia dodges a hammer, but loses consciousness from Sindel's leg.]",,Y,MoKo11Af-584,MoKo11Af-586
+MoKo11Af-586,WINDS OF CHANGE / FUJIN,,Shao Kahn,What a fine trophy for my arena!,,N,MoKo11Af-585,MoKo11Af-587
+MoKo11Af-587,WINDS OF CHANGE / FUJIN,,,[Young Johnny Cage and Cassie are running up to them.],,Y,MoKo11Af-586,MoKo11Af-588
+MoKo11Af-588,WINDS OF CHANGE / FUJIN,,Young Johnny Cage,"We doing this by gender, or is that sexist?",,N,MoKo11Af-587,MoKo11Af-589
+MoKo11Af-589,WINDS OF CHANGE / FUJIN,,Cassie Cage,Just zip it and try not to die.,,N,MoKo11Af-588,MoKo11Af-590
+MoKo11Af-590,WINDS OF CHANGE / FUJIN,,Shao Kahn,"Enough prattle, fools. You will bow and serve the Empire.",,N,MoKo11Af-589,MoKo11Af-591
+MoKo11Af-591,WINDS OF CHANGE / FUJIN,,Cassie Cage,"Make us, you authoritarian asshole.",,N,MoKo11Af-590,MoKo11Af-592
+MoKo11Af-592,WINDS OF CHANGE / FUJIN,,,[You can choose who shut the trap of this little bitch — Sindel or Shao Kahn.],,Y,MoKo11Af-591,MoKo11Af-593
+MoKo11Af-593,WINDS OF CHANGE / FUJIN,,Shao Kahn,Deal with the jester. I’ll school this unruly child.,,N,MoKo11Af-592,MoKo11Af-594
+MoKo11Af-594,WINDS OF CHANGE / FUJIN,,Cassie Cage,"You school me? Y’know I roasted Shinnok, right?",,N,MoKo11Af-593,MoKo11Af-595
+MoKo11Af-595,WINDS OF CHANGE / FUJIN,,Shao Kahn,Ha! Shinnok schemed because he was worthless in battle. That you beat him only proves that truth.,,N,MoKo11Af-594,MoKo11Af-596
+MoKo11Af-596,WINDS OF CHANGE / FUJIN,,,[SHAO KAHN VS ARROGANT SCHOOLGIRL],,Y,MoKo11Af-595,MoKo11Af-597
+MoKo11Af-597,WINDS OF CHANGE / FUJIN,,Shao Kahn,Now you understand the power.,,N,MoKo11Af-596,MoKo11Af-598
+MoKo11Af-598,WINDS OF CHANGE / FUJIN,,,"[After kicking the schoolgirl's ass, Shao Kahn also knocks Young Johnny Cage out with one blow so he doesn't humiliate his wife with his squalor.]",,Y,MoKo11Af-597,MoKo11Af-599
+MoKo11Af-599,WINDS OF CHANGE / FUJIN,,Sindel,The poor man is heartbroken.,,N,MoKo11Af-598,MoKo11Af-600
+MoKo11Af-600,WINDS OF CHANGE / FUJIN,,Shao Kahn,Why waste tears on weaklings?,,N,MoKo11Af-599,MoKo11Af-601
+MoKo11Af-601,WINDS OF CHANGE / FUJIN,,Young Johnny Cage,"Those women are braver and stronger than fifty of you put together! Okay bozos. No jokes, no gimmicks, just kombat. You wanna get nuts?  Let's get nuts!",(laughs) ,N,MoKo11Af-600,MoKo11Af-602
+MoKo11Af-602,WINDS OF CHANGE / FUJIN,,,[You can choose to kick the ass of this young talentless actor — Sindel or Shao Kahn.],,Y,MoKo11Af-601,MoKo11Af-603
+MoKo11Af-603,WINDS OF CHANGE / FUJIN,,Shao Kahn,"How many of his bones shall I break for you, wife?",,N,MoKo11Af-602,MoKo11Af-604
+MoKo11Af-604,WINDS OF CHANGE / FUJIN,,Sindel,Surprise me.,,N,MoKo11Af-603,MoKo11Af-605
+MoKo11Af-605,WINDS OF CHANGE / FUJIN,,Shao Kahn," Twice you fought in the tournament, and twice you failed. Why Raiden thought you a contender baffles me.",(to Johnny) ,N,MoKo11Af-604,MoKo11Af-606
+MoKo11Af-606,WINDS OF CHANGE / FUJIN,,,[SHAO KAHN VS YOUNG TALENTLESS ACTOR],,Y,MoKo11Af-605,MoKo11Af-607
+MoKo11Af-607,WINDS OF CHANGE / FUJIN,,Shao Kahn,Was that your best?,,N,MoKo11Af-606,MoKo11Af-608
+MoKo11Af-608,WINDS OF CHANGE / FUJIN,,,[He lifts Johnny off the ground and hits him on the head with his hammer. Sindel claps her hands. Meanwhile Shokan burns the bodies of the Special Forces unit.],,Y,MoKo11Af-607,MoKo11Af-609
+MoKo11Af-609,WINDS OF CHANGE / FUJIN,,Shao Kahn,Seize the vessel and dump its cargo! We need speed to overtake Kharon's Fleet!,,N,MoKo11Af-608,MoKo11Af-610
+MoKo11Af-610,WINDS OF CHANGE / FUJIN,,,"[Sonia, Johnny and Cassie are chained up and taken to the portal. Meanwhile, on Kharon's ship…]",,Y,MoKo11Af-609,MoKo11Af-611
+MoKo11Af-611,WINDS OF CHANGE / FUJIN,,Kitana Kahn,"Raiden and Fujin have gone ahead to storm the Isle but we've lost all contact with our rear guard. Commander Cage, and the Special Forces, Queen Sheeva and the Shokan… and Mother.",,N,MoKo11Af-610,MoKo11Af-612
+MoKo11Af-612,WINDS OF CHANGE / FUJIN,,Young Kung Lao,I am just going to say what we are all thinking—,,N,MoKo11Af-611,MoKo11Af-613
+MoKo11Af-613,WINDS OF CHANGE / FUJIN,,Kitana Kahn,She did not betray us.,,N,MoKo11Af-612,MoKo11Af-614
+MoKo11Af-614,WINDS OF CHANGE / FUJIN,,Young Liu Kang,Let's not jump to conclusions. Look!,,N,MoKo11Af-613,MoKo11Af-615
+MoKo11Af-615,WINDS OF CHANGE / FUJIN,,,[They see two ships on the horizon.],,Y,MoKo11Af-614,MoKo11Af-616
+MoKo11Af-616,WINDS OF CHANGE / FUJIN,,Young Kung Lao,Is that the Special Forces?,,N,MoKo11Af-615,MoKo11Af-617
+MoKo11Af-617,WINDS OF CHANGE / FUJIN,,,[Kitana's looking at the spyglass.],,Y,MoKo11Af-616,MoKo11Af-618
+MoKo11Af-618,WINDS OF CHANGE / FUJIN,,Kitana Kahn,"No… Elder Gods damn you, Mother!",,N,MoKo11Af-617,MoKo11Af-619
+MoKo11Af-619,WINDS OF CHANGE / FUJIN,,,[At that moment Kronika in her Tower is smiling.],,Y,MoKo11Af-618,MoKo11Af-620
+MoKo11Af-620,WINDS OF CHANGE / FUJIN,,Kronika,Kill each other.,,N,MoKo11Af-619,MoKo11Af-621
+MoKo11Af-621,WINDS OF CHANGE / FUJIN,,,"[The massacre begins. Kitana, Kung Lao and Liu Kang bravely fight the invaders, while Sindel and Shao Kahn board the ship.]",,Y,MoKo11Af-620,MoKo11Af-622
+MoKo11Af-622,WINDS OF CHANGE / FUJIN,,Sindel,Now… Where is Kitana?,,N,MoKo11Af-621,MoKo11Af-623
+MoKo11Af-623,WINDS OF CHANGE / FUJIN,,Shao Kahn,No doubt the little princess is hiding.,,N,MoKo11Af-622,MoKo11Af-624
+MoKo11Af-624,WINDS OF CHANGE / FUJIN,,,"[Kung Lao’s hat flies by, cutting off some Shokan heads. Sindel catches the hat with two fingers.]",,Y,MoKo11Af-623,MoKo11Af-625
+MoKo11Af-625,WINDS OF CHANGE / FUJIN,,Young Kung Lao,"Nobody is hiding, Shao Kahn. Not after your epic failure at the Koliseum. That belongs to me, Sindel.",,N,MoKo11Af-624,MoKo11Af-626
+MoKo11Af-626,WINDS OF CHANGE / FUJIN,,Sindel,Have it.,,N,MoKo11Af-625,MoKo11Af-627
+MoKo11Af-627,WINDS OF CHANGE / FUJIN,,,[She throws the hat but Kung Lao catches it.],,Y,MoKo11Af-626,MoKo11Af-628
+MoKo11Af-628,WINDS OF CHANGE / FUJIN,,Young Kung Lao,I hope you have more than that for the heir of the Great Kung Lao.,,N,MoKo11Af-627,MoKo11Af-629
+MoKo11Af-629,WINDS OF CHANGE / FUJIN,,,[You can choose your fighter — Sindel or Shao Kahn.],,Y,MoKo11Af-628,MoKo11Af-630
+MoKo11Af-630,WINDS OF CHANGE / FUJIN,,Sindel,"Find Kitana, husband.",,N,MoKo11Af-629,MoKo11Af-631
+MoKo11Af-631,WINDS OF CHANGE / FUJIN,,Young Kung Lao,Why am I always right? You're breaking Kitana's heart.,,N,MoKo11Af-630,MoKo11Af-632
+MoKo11Af-632,WINDS OF CHANGE / FUJIN,,Sindel,A eunuch monk can't hope to understand the ways of mothers and daughters.,,N,MoKo11Af-631,MoKo11Af-633
+MoKo11Af-633,WINDS OF CHANGE / FUJIN,,Young Kung Lao,You did not just call me a eunuch.,,N,MoKo11Af-632,MoKo11Af-634
+MoKo11Af-634,WINDS OF CHANGE / FUJIN,,,[SINDEL VS YOUNG KUNG LAO],,Y,MoKo11Af-633,MoKo11Af-635
+MoKo11Af-635,WINDS OF CHANGE / FUJIN,,Sindel, I could call you worse.,(laughs) ,N,MoKo11Af-634,MoKo11Af-636
+MoKo11Af-636,WINDS OF CHANGE / FUJIN,,Shao Kahn,I have found Kitana. Come!,,N,MoKo11Af-635,MoKo11Af-637
+MoKo11Af-637,WINDS OF CHANGE / FUJIN,,,[They defeat Kotal and Jade.],,Y,MoKo11Af-636,MoKo11Af-638
+MoKo11Af-638,WINDS OF CHANGE / FUJIN,,Kitana Kahn,"Please, Mother… What spell has Shao Kahn used on you this time?",,N,MoKo11Af-637,MoKo11Af-639
+MoKo11Af-639,WINDS OF CHANGE / FUJIN,,Shao Kahn,"Naive girl, your mother is not bewitched. She never has been.",,N,MoKo11Af-638,MoKo11Af-640
+MoKo11Af-640,WINDS OF CHANGE / FUJIN,,Kitana Kahn,She had a husband! And a kingdom! And you took them away!,,N,MoKo11Af-639,MoKo11Af-641
+MoKo11Af-641,WINDS OF CHANGE / FUJIN,,Sindel,"Oh, Kitana. My first husband, your father, was a fool. Jerrod believed that we were no better than commoners. He refused to assert the privileges of our throne. He traded away our powers, our divine rights. Edenia grew weak and vulnerable. Then Shao Kahn invaded embracing his power, taking what was his. Here was a man unashamed to assert his privilege, and who vowed to protect mine. I had found my true love. And to consecrate our bond… I killed Jerrod for him.",,N,MoKo11Af-640,MoKo11Af-642
+MoKo11Af-642,WINDS OF CHANGE / FUJIN,,Young Liu Kang,You love Shao Kahn more than your own daughter?,,N,MoKo11Af-641,MoKo11Af-643
+MoKo11Af-643,WINDS OF CHANGE / FUJIN,,Shao Kahn,"Let the women be, Chosen One. You owe me kombat.",,N,MoKo11Af-642,MoKo11Af-644
+MoKo11Af-644,WINDS OF CHANGE / FUJIN,,,[You can choose your fighter — Sindel or Shao Kahn.],,Y,MoKo11Af-643,MoKo11Af-645
+MoKo11Af-645,WINDS OF CHANGE / FUJIN,,Kitana Kahn,You should have stayed dead.,,N,MoKo11Af-644,MoKo11Af-646
+MoKo11Af-646,WINDS OF CHANGE / FUJIN,,Sindel,"Please, that wounds me, daughter.",,N,MoKo11Af-645,MoKo11Af-647
+MoKo11Af-647,WINDS OF CHANGE / FUJIN,,Kitana Kahn,I am prepared to do much worse.,,N,MoKo11Af-646,MoKo11Af-648
+MoKo11Af-648,WINDS OF CHANGE / FUJIN,,,[SINDEL VS KITANA KAHN],,Y,MoKo11Af-647,MoKo11Af-649
+MoKo11Af-649,WINDS OF CHANGE / FUJIN,,Sindel,"Learn or be punished, child.",,N,MoKo11Af-648,MoKo11Af-650
+MoKo11Af-650,WINDS OF CHANGE / FUJIN,,,[Meanwhile Shao Kahn defeated Liu Kang. He drags him to his wife. All Shokan and Tarkatan bow to their new leader — Shao Kahn.],,Y,MoKo11Af-649,MoKo11Af-651
+MoKo11Af-651,WINDS OF CHANGE / FUJIN,,Shao Kahn,"Kitana was a false Kahn, a traitor to Outworld. She conspired with Raiden to lead you astray!",,N,MoKo11Af-650,MoKo11Af-652
+MoKo11Af-652,WINDS OF CHANGE / FUJIN,,Sindel,He seeks Kronika's power… Why? To destroy the Empire! All who followed Kitana are complicit in her treason. Your sentence is death.,,N,MoKo11Af-651,MoKo11Af-653
+MoKo11Af-653,WINDS OF CHANGE / FUJIN,,Shao Kahn,"But we will grant clemency now, and riches in the New Era… to all who renounce Kitana and fight under our command.",,N,MoKo11Af-652,MoKo11Af-654
+MoKo11Af-654,WINDS OF CHANGE / FUJIN,,,[All Shokan and Tarkatan chant Shao Kahn’s name.],,Y,MoKo11Af-653,MoKo11Af-655
+MoKo11Af-655,WINDS OF CHANGE / FUJIN,,Sindel,"Now man the cars, we have a battle to win! For the New Era!",,N,MoKo11Af-654,MoKo11Af-656
+MoKo11Af-656,WINDS OF CHANGE / FUJIN,,,"[The defeated, lying on the floor, Liu Kang and Kitana try to reach out with their hands, but Shao Kang breaks Liu Kang's arm with an iron boot.]",,Y,MoKo11Af-655,MoKo11Af-657
+MoKo11Af-657,WINDS OF CHANGE / FUJIN,,Sindel,Kitana shall be put in chains. Let her suffer the anguish of defeat. And what of him?,,N,MoKo11Af-656,MoKo11Af-658
+MoKo11Af-658,WINDS OF CHANGE / FUJIN,,,"[Shao Kahn calls for his hammer. Meanwhile, the heroes and their huge army of Special Forces land on Kronika's island.]",,Y,MoKo11Af-657,MoKo11Af-659
+MoKo11Af-659,CHECKMATE / SHANG TSUNG,,Resurrected Kitana,They are unaware of our army's full strength.,,N,MoKo11Af-658,MoKo11Af-660
+MoKo11Af-660,CHECKMATE / SHANG TSUNG,,Resurrected Liu Kang,We will unleash hell.,,N,MoKo11Af-659,MoKo11Af-661
+MoKo11Af-661,CHECKMATE / SHANG TSUNG,,Raiden,"We must capture him, quickly.",,N,MoKo11Af-660,MoKo11Af-662
+MoKo11Af-662,CHECKMATE / SHANG TSUNG,,Shang Tsung,"Now, Fujin.",,N,MoKo11Af-661,MoKo11Af-663
+MoKo11Af-663,CHECKMATE / SHANG TSUNG,,,[He painfully wears the Crown and breaks the gates to the Tower.],,Y,MoKo11Af-662,MoKo11Af-664
+MoKo11Af-664,CHECKMATE / SHANG TSUNG,,Fujin,I need but a moment. Lead the charge!,,N,MoKo11Af-663,MoKo11Af-665
+MoKo11Af-665,CHECKMATE / SHANG TSUNG,,Jax,Go! I’ll cover him.,,N,MoKo11Af-664,MoKo11Af-666
+MoKo11Af-666,CHECKMATE / SHANG TSUNG,,,[Raiden takes the air and leads the army to battle with demons. He comes down from the sky and chops the demons with his electric swords. Resurrected Liu Kang is jump down to face him.],,Y,MoKo11Af-665,MoKo11Af-667
+MoKo11Af-667,CHECKMATE / SHANG TSUNG,,Raiden,"Time after time, Kronika's schemes have pitted us against each other. That cycle must end, Liu Kang.",,N,MoKo11Af-666,MoKo11Af-668
+MoKo11Af-668,CHECKMATE / SHANG TSUNG,,Resurrected Liu Kang,You will have to kill me.,,N,MoKo11Af-667,MoKo11Af-669
+MoKo11Af-669,CHECKMATE / SHANG TSUNG,,Raiden,I would rather save you.,,N,MoKo11Af-668,MoKo11Af-670
+MoKo11Af-670,CHECKMATE / SHANG TSUNG,,,[Suddenly Liu Kang’s leg breaks. He falls to the ground in pain.],,Y,MoKo11Af-669,MoKo11Af-671
+MoKo11Af-671,CHECKMATE / SHANG TSUNG,,Raiden,By the Elder Gods!,,N,MoKo11Af-670,MoKo11Af-672
+MoKo11Af-672,CHECKMATE / SHANG TSUNG,,,[That's because at this very moment Shao Kang breaks Young Liu Kang's leg. Shao Kahn breaks another leg.],,Y,MoKo11Af-671,MoKo11Af-673
+MoKo11Af-673,CHECKMATE / SHANG TSUNG,,Resurrected Liu Kang,Shao Kahn… He's smashed my legs!,,N,MoKo11Af-672,MoKo11Af-674
+MoKo11Af-674,CHECKMATE / SHANG TSUNG,,Raiden,Shao Kahn?!,,N,MoKo11Af-673,MoKo11Af-675
+MoKo11Af-675,CHECKMATE / SHANG TSUNG,,,"[Shao Kahn's ship arrives at the island. When the gangway comes down, Kotal's severed head rolls off it. Shao Kahn commands to charge.]",,Y,MoKo11Af-674,MoKo11Af-676
+MoKo11Af-676,CHECKMATE / SHANG TSUNG,,Jax,There's the Sindel I remember.,,N,MoKo11Af-675,MoKo11Af-677
+MoKo11Af-677,CHECKMATE / SHANG TSUNG,,Fujin,No rest for the weary. Hold on to me!,,N,MoKo11Af-676,MoKo11Af-678
+MoKo11Af-678,CHECKMATE / SHANG TSUNG,,,[They fly forward using Fujin;s wind magic.],,Y,MoKo11Af-677,MoKo11Af-679
+MoKo11Af-679,CHECKMATE / SHANG TSUNG,,Raiden,"Fujin, The Crown! I must wield it against Sindel and Shao Kahn!",,N,MoKo11Af-678,MoKo11Af-680
+MoKo11Af-680,CHECKMATE / SHANG TSUNG,,Fujin,I will do it. Save your strength for Liu Kang.,,N,MoKo11Af-679,MoKo11Af-681
+MoKo11Af-681,CHECKMATE / SHANG TSUNG,,Raiden,"No, brother. The Crown is our burden to share.",,N,MoKo11Af-680,MoKo11Af-682
+MoKo11Af-682,CHECKMATE / SHANG TSUNG,,,[Fujin hands the Crown.],,Y,MoKo11Af-681,MoKo11Af-683
+MoKo11Af-683,CHECKMATE / SHANG TSUNG,,Raiden, Thank you.,(in Shang Tsung voice) ,N,MoKo11Af-682,MoKo11Af-684
+MoKo11Af-684,CHECKMATE / SHANG TSUNG,,,[True Raiden flies in.],,Y,MoKo11Af-683,MoKo11Af-685
+MoKo11Af-685,CHECKMATE / SHANG TSUNG,,Raiden,"Your lies are revealed, sorcerer!",,N,MoKo11Af-684,MoKo11Af-686
+MoKo11Af-686,CHECKMATE / SHANG TSUNG,,Fujin,Shang Tsung?,,N,MoKo11Af-685,MoKo11Af-687
+MoKo11Af-687,CHECKMATE / SHANG TSUNG,,Shang Tsung,"You should be more vigilant, Fujin. Now, bear witness, as the power to decide destiny becomes mine.",,N,MoKo11Af-686,MoKo11Af-688
+MoKo11Af-688,CHECKMATE / SHANG TSUNG,,,"[He wears the Crown and a huge stream of green energy surrounds him. Shang Tsung makes yourself young, too.]",,Y,MoKo11Af-687,MoKo11Af-689
+MoKo11Af-689,CHECKMATE / SHANG TSUNG,,Fujin,"This has always been your endgame, hasn't it? From the moment you were trapped in the Void.",,N,MoKo11Af-688,MoKo11Af-690
+MoKo11Af-690,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,"Kronika was wise to banish me. With this Crown, I am her equal.",,N,MoKo11Af-689,MoKo11Af-691
+MoKo11Af-691,CHECKMATE / SHANG TSUNG,,Raiden,Your evil will not triumph!,,N,MoKo11Af-690,MoKo11Af-692
+MoKo11Af-692,CHECKMATE / SHANG TSUNG,,,"[He attacks, but Young Shang Tsung has no trouble beating him up.]",,Y,MoKo11Af-691,MoKo11Af-693
+MoKo11Af-693,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,All too easy.,,N,MoKo11Af-692,MoKo11Af-694
+MoKo11Af-694,CHECKMATE / SHANG TSUNG,,,[He fly to Nightwolf.],,Y,MoKo11Af-693,MoKo11Af-695
+MoKo11Af-695,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,How does it feel? Knowing that you will be the last Nightwolf?,,N,MoKo11Af-694,MoKo11Af-696
+MoKo11Af-696,CHECKMATE / SHANG TSUNG,,Nightwolf,"The Great Spirit will choose another. I may die, but the mantle will live on.",,N,MoKo11Af-695,MoKo11Af-697
+MoKo11Af-697,CHECKMATE / SHANG TSUNG,,,[YOUNG SHANG TSUNG VS NIGHTWOLF],,Y,MoKo11Af-696,MoKo11Af-698
+MoKo11Af-698,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,Fool. The mantle dies with you.,,N,MoKo11Af-697,MoKo11Af-699
+MoKo11Af-699,CHECKMATE / SHANG TSUNG,,Fujin,His soul is not yours to take!,,N,MoKo11Af-698,MoKo11Af-700
+MoKo11Af-700,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,"His soul and yours, are mine.",,N,MoKo11Af-699,MoKo11Af-701
+MoKo11Af-701,CHECKMATE / SHANG TSUNG,,Raiden,"You think us unprepared? Your treachery is expected, sorcerer.",,N,MoKo11Af-700,MoKo11Af-702
+MoKo11Af-702,CHECKMATE / SHANG TSUNG,,Fujin,You are incapable of choosing the righteous path.,,N,MoKo11Af-701,MoKo11Af-703
+MoKo11Af-703,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,The path I chose ends with your souls sworn to my service. That future is now undeniable.,,N,MoKo11Af-702,MoKo11Af-704
+MoKo11Af-704,CHECKMATE / SHANG TSUNG,,,[YOUNG SHANG TSUNG VS FUJIN],,Y,MoKo11Af-703,MoKo11Af-705
+MoKo11Af-705,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,"Now, I choose your destiny.",,N,MoKo11Af-704,MoKo11Af-706
+MoKo11Af-706,CHECKMATE / SHANG TSUNG,,,[He sucks the soul out of Raiden and Fujin.],,Y,MoKo11Af-705,MoKo11Af-707
+MoKo11Af-707,CHECKMATE / SHANG TSUNG,,Shao Kahn,Let's finish them.,,N,MoKo11Af-706,MoKo11Af-708
+MoKo11Af-708,CHECKMATE / SHANG TSUNG,,Sindel,With pleasure.,,N,MoKo11Af-707,MoKo11Af-709
+MoKo11Af-709,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,No. Keep them alive. We can siphon their powers for eternity.,,N,MoKo11Af-708,MoKo11Af-710
+MoKo11Af-710,CHECKMATE / SHANG TSUNG,,Shao Kahn,All the better.,,N,MoKo11Af-709,MoKo11Af-711
+MoKo11Af-711,CHECKMATE / SHANG TSUNG,,,"[Meanwhile, at the top of the Tower…]",,Y,MoKo11Af-710,MoKo11Af-712
+MoKo11Af-712,CHECKMATE / SHANG TSUNG,,Resurrected Kitana,"What now, Kronika? Shang Tsung has breached our defenses.",,N,MoKo11Af-711,MoKo11Af-713
+MoKo11Af-713,CHECKMATE / SHANG TSUNG,,Kronika,"Victory is still at hand. We will put down Shang Tsung's defiance. But you will require more assistance. Dearest Cetrion, you have served me admirably. Now there is one final service you must perform.",,N,MoKo11Af-712,MoKo11Af-714
+MoKo11Af-714,CHECKMATE / SHANG TSUNG,,Cetrion,"Yes, mother… I understand.",,N,MoKo11Af-713,MoKo11Af-715
+MoKo11Af-715,CHECKMATE / SHANG TSUNG,,,"[She kills herself and Kronika absorbs her power. Meanwhile, Young Shang Tsung, Sindel and Shao Kahn standing at her door.]",,Y,MoKo11Af-714,MoKo11Af-716
+MoKo11Af-716,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,The Hourglass awaits.,,N,MoKo11Af-715,MoKo11Af-717
+MoKo11Af-717,CHECKMATE / SHANG TSUNG,,Shao Kahn,Beyond that door: ultimate power.,,N,MoKo11Af-716,MoKo11Af-718
+MoKo11Af-718,CHECKMATE / SHANG TSUNG,,Sindel,It will be our privilege to wield it.,,N,MoKo11Af-717,MoKo11Af-719
+MoKo11Af-719,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,"Please, allow me.",,N,MoKo11Af-718,MoKo11Af-720
+MoKo11Af-720,CHECKMATE / SHANG TSUNG,,,[He opens the door gently and carefully with his green magic.],,Y,MoKo11Af-719,MoKo11Af-721
+MoKo11Af-721,CHECKMATE / SHANG TSUNG,,Kronika,"Shang Tsung, pretender to my role. Your strategy has been novel. But in the end, you will not prevail. Finish them.",,N,MoKo11Af-720,MoKo11Af-722
+MoKo11Af-722,CHECKMATE / SHANG TSUNG,,,"[Young Shang Tsung, Sindel and Shao Kang begin to fight Resurrected Kung Lao, Kitana and Jade. They kill them all. Young Shang Tsung takes the form of Kung Lao and shoots down Kronika, soaring in the air.]",,Y,MoKo11Af-721,MoKo11Af-723
+MoKo11Af-723,CHECKMATE / SHANG TSUNG,,Shao Kahn,"How easily you are felled, Kronika. Once your power's mine, I will rule eternity!",,N,MoKo11Af-722,MoKo11Af-724
+MoKo11Af-724,CHECKMATE / SHANG TSUNG,,,[But then Young Shang Tsung betrays them! He throws them on the floor with his fire magic.],,Y,MoKo11Af-723,MoKo11Af-725
+MoKo11Af-725,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,"Killing Kronika is my destiny. Yours to serve me. My obedient subjects, projecting my influence throughout the realms.",,N,MoKo11Af-724,MoKo11Af-726
+MoKo11Af-726,CHECKMATE / SHANG TSUNG,,Shao Kahn,"You're drunk on the Crown's power, Shang Tsung. In your stupor, you forget your place.",,N,MoKo11Af-725,MoKo11Af-727
+MoKo11Af-727,CHECKMATE / SHANG TSUNG,,Sindel,"He is a dog who betrays his masters. Come, let's put him down.",,N,MoKo11Af-726,MoKo11Af-728
+MoKo11Af-728,CHECKMATE / SHANG TSUNG,,,[YOUNG SHANG TSUNG VS SHAO KAHN & SINDEL],,Y,MoKo11Af-727,MoKo11Af-729
+MoKo11Af-729,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,My service to you is over.,,N,MoKo11Af-728,MoKo11Af-730
+MoKo11Af-730,CHECKMATE / SHANG TSUNG,,,[He sucks out their souls.],,Y,MoKo11Af-729,MoKo11Af-731
+MoKo11Af-731,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,Now yours to me begins.,,N,MoKo11Af-730,MoKo11Af-732
+MoKo11Af-732,CHECKMATE / SHANG TSUNG,,Kronika,You have no one left to betray.,,N,MoKo11Af-731,MoKo11Af-733
+MoKo11Af-733,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,"Concede Kronika, while you have time. I'll let you live, to serve me in my New Era. Or would you prefer to be wiped from history?",,N,MoKo11Af-732,MoKo11Af-734
+MoKo11Af-734,CHECKMATE / SHANG TSUNG,,Kronika,Sculpting the Sands of Time requires great power and skill. You may wear my Crown but you are not a Titan!,,N,MoKo11Af-733,MoKo11Af-735
+MoKo11Af-735,CHECKMATE / SHANG TSUNG,,,[YOUNG SHANG TSUNG VS KRONIKA],,Y,MoKo11Af-734,MoKo11Af-736
+MoKo11Af-736,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,Destiny is mine.,,N,MoKo11Af-735,MoKo11Af-737
+MoKo11Af-737,CHECKMATE / SHANG TSUNG,,,[Beaten Kronika crawling on the floor.],,Y,MoKo11Af-736,MoKo11Af-738
+MoKo11Af-738,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,"You should have accepted my offer, Kronika. I would have allowed you to wield great influence. Surely service is better than death.",,N,MoKo11Af-737,MoKo11Af-739
+MoKo11Af-739,CHECKMATE / SHANG TSUNG,,Kronika,I do not serve. I am a Titan.,,N,MoKo11Af-738,MoKo11Af-740
+MoKo11Af-740,CHECKMATE / SHANG TSUNG,,Young Shang Tsung," You were, Kronika.",(laughs) ,N,MoKo11Af-739,MoKo11Af-741
+MoKo11Af-741,CHECKMATE / SHANG TSUNG,,,[He sucks her soul.],,Y,MoKo11Af-740,MoKo11Af-742
+MoKo11Af-742,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,Time and destiny are now mine to command. Every realm will bend to my will.,,N,MoKo11Af-741,MoKo11Af-743
+MoKo11Af-743,CHECKMATE / SHANG TSUNG,,,[He starts… creating. Suddenly a fire portal opens.],,Y,MoKo11Af-742,MoKo11Af-744
+MoKo11Af-744,CHECKMATE / SHANG TSUNG,,Fire God Liu Kang,Cease! Before you doom us all.,,N,MoKo11Af-743,MoKo11Af-745
+MoKo11Af-745,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,Liu Kang. I thought your duties required that you stay behind.,,N,MoKo11Af-744,MoKo11Af-746
+MoKo11Af-746,CHECKMATE / SHANG TSUNG,,Fire God Liu Kang,"A lie, something you know well.",,N,MoKo11Af-745,MoKo11Af-747
+MoKo11Af-747,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,"I see now. The Hourglass showed that only I could wield the Crown against Kronika, successfully. You let me win. And to ensure victory, you sacrificed the lives of your friends. How deliciously cold-blooded.",,N,MoKo11Af-746,MoKo11Af-748
+MoKo11Af-748,CHECKMATE / SHANG TSUNG,,Fire God Liu Kang,"They are not gone, Shang Tsung. They will live again in my New Era.",,N,MoKo11Af-747,MoKo11Af-749
+MoKo11Af-749,CHECKMATE / SHANG TSUNG,,Young Shang Tsung,"Your New Era? You underestimate my prowess, Chosen One. I have the Crown. I have absorbed Kronika's power. You may have attained godhood, but I am the Keeper of Time. You are no match for me.",,N,MoKo11Af-748,MoKo11Af-750
+MoKo11Af-750,CHECKMATE / SHANG TSUNG,,Fire God Liu Kang,"Kronika said much the same, Shang Tsung. You will share her fate.",,N,MoKo11Af-749,MoKo11Af-751
+MoKo11Af-752,YOUNG SHANG TSUNG,,Young Shang Tsung,Long have I had visions of this moment. I will savor your death for eternity.,,N,MoKo11Af-751,MoKo11Af-753
+MoKo11Af-753,YOUNG SHANG TSUNG,,Fire God Liu Kang,"You are mad, Shang Tsung! Your visions are nothing. Delusions of an addled mind.",,N,MoKo11Af-752,MoKo11Af-754
+MoKo11Af-754,YOUNG SHANG TSUNG,,,[YOUNG SHANG TSUNG VS FIRE GOD LIU KANG],,Y,MoKo11Af-753,MoKo11Af-755
+MoKo11Af-755,YOUNG SHANG TSUNG,,,"[After defeating the god of fire, Young Shang Tsung grabs him by the throat.]",,Y,MoKo11Af-754,MoKo11Af-756
+MoKo11Af-756,YOUNG SHANG TSUNG,,Young Shang Tsung,"Breathe deeply in your final moments, Chosen One. For now your existence ends in shame! All the power that was once yours is mine… Forever.",,N,MoKo11Af-755,MoKo11Af-757
+MoKo11Af-757,YOUNG SHANG TSUNG,,,[He sucks his soul and flies to the Hourglass to create his new world. Some time passes. Raiden and Fujin teleport to some evil overlord.],,Y,MoKo11Af-756,MoKo11Af-758
+MoKo11Af-758,YOUNG SHANG TSUNG,,Evil Overlord,"Speak, minions.",,N,MoKo11Af-757,MoKo11Af-759
+MoKo11Af-759,YOUNG SHANG TSUNG,,Raiden,"My lord, your will is done.",,N,MoKo11Af-758,MoKo11Af-760
+MoKo11Af-760,YOUNG SHANG TSUNG,,Fujin,"Outworld, Earthrealm, the Netherrealm… all are conquered.",,N,MoKo11Af-759,MoKo11Af-761
+MoKo11Af-761,YOUNG SHANG TSUNG,,Raiden,Per your command Chaosrealm and Orderrealm are next. All realms will soon yield to your influence.,,N,MoKo11Af-760,MoKo11Af-762
+MoKo11Af-762,YOUNG SHANG TSUNG,,,[The evil overlord appears to be Young Shang Tsung. He laughs.],,Y,MoKo11Af-761,MoKo11Af-763
+MoKo11Af-763,YOUNG SHANG TSUNG,,Young Shang Tsung,It has begun.,,N,MoKo11Af-762,MoKo11Af-764
+MoKo11Af-764,FIRE GOD LIU KANG,,Fire God Liu Kang,Now hand over the Crown. This is your only chance.,,N,MoKo11Af-763,MoKo11Af-765
+MoKo11Af-765,FIRE GOD LIU KANG,,Young Shang Tsung,"My only chance? This is my triumph, and your final moment! Your worthless existence is at its end.",,N,MoKo11Af-764,MoKo11Af-766
+MoKo11Af-766,FIRE GOD LIU KANG,,,[FIRE GOD LIU KANG VS YOUNG SHANG TSUNG],,Y,MoKo11Af-765,MoKo11Af-767
+MoKo11Af-767,FIRE GOD LIU KANG,,Fire God Liu Kang,"Make no mistake, Shang Tsung. You have chosen this fate.",,N,MoKo11Af-766,MoKo11Af-768
+MoKo11Af-768,FIRE GOD LIU KANG,,,[He strikes him with a fire surge and beaten Shang Tsung turns to sand and literally crumbles.],,Y,MoKo11Af-767,MoKo11Af-769
+MoKo11Af-769,FIRE GOD LIU KANG,,Fire God Liu Kang,No more timelines will be twisted by your evil.,,N,MoKo11Af-768,MoKo11Af-770
+MoKo11Af-770,FIRE GOD LIU KANG,,,"[He gently takes the Crown from Shang Tsung’s head as he falls apart on the floor. Liu Kang starts to create his own world. Some time passes. Shaolin monks train in martial arts. While one of the monks is rubbing his statue alone in a small hut, the god of fire appears to him.]",,Y,MoKo11Af-769,MoKo11Af-771
+MoKo11Af-771,FIRE GOD LIU KANG,,Fire God Liu Kang,Kung Lao,,N,MoKo11Af-770,MoKo11Af-772
+MoKo11Af-772,FIRE GOD LIU KANG,,The Great Kung Lao,Where did you- Who? Who are you?,,N,MoKo11Af-771,MoKo11Af-773
+MoKo11Af-773,FIRE GOD LIU KANG,,Fire God Liu Kang,"I am Lord Liu Kang, God of Thunder and Fire.",,N,MoKo11Af-772,MoKo11Af-774
+MoKo11Af-774,FIRE GOD LIU KANG,,The Great Kung Lao,God of-,,N,MoKo11Af-773,MoKo11Af-775
+MoKo11Af-775,FIRE GOD LIU KANG,,,"[When he hears the word ""god"", he bows immediately.]",,Y,MoKo11Af-774,MoKo11Af-776
+MoKo11Af-776,FIRE GOD LIU KANG,,The Great Kung Lao,"Forgive my disrespect, my Lord!",,N,MoKo11Af-775,MoKo11Af-777
+MoKo11Af-777,FIRE GOD LIU KANG,,Fire God Liu Kang,"Enough, Kung Lao. You are humble. Not like the Kung Lao I knew…",,N,MoKo11Af-776,MoKo11Af-778
+MoKo11Af-778,FIRE GOD LIU KANG,,The Great Kung Lao,The Kung Lao you knew?,,N,MoKo11Af-777,MoKo11Af-779
+MoKo11Af-779,FIRE GOD LIU KANG,,Fire God Liu Kang,"A story for another time. I have chosen you as my champion, Kung Lao. We have work to do. You must be prepared. Trained.",,N,MoKo11Af-778,MoKo11Af-780
+MoKo11Af-780,FIRE GOD LIU KANG,,The Great Kung Lao,Trained? For what?,,N,MoKo11Af-779,MoKo11Af-781
+MoKo11Af-781,FIRE GOD LIU KANG,,,[The God of Fire smiles cunningly.],,Y,MoKo11Af-780,MoKo11Af-782

@@ -1,0 +1,658 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+ReEv7-1,,﻿[You see someone watching video on notebook.],Girl on video,"Hey baby! I just wanted to send a quick ""hello"" and ""I love you."" I'm gonna be coming home soon! Yay! I cannot wait to be done with this babysitting job... and come home to my loving husband. I miss you. I gotta get back to work. I love you, Ethan. I miss you so much. I'm sending tons of kisses. Bye baby!",,N,,ReEv7-2
+ReEv7-2,,﻿[You see someone watching video on notebook.],,[Then you see how the webcam on your laptop turns on and that girl from the video appears on the screen. She looks exhausted and wounded.],,Y,ReEv7-1,ReEv7-3
+ReEv7-3,,﻿[You see someone watching video on notebook.],Girl from video,"Ethan… You were right. I did lie to you. I shouldn't have, but... All I can say is that if you get this... Stay away.",,N,ReEv7-2,ReEv7-4
+ReEv7-4,,﻿[You see someone watching video on notebook.],,[The scene is changing. Ethan drives his car along a dusty road and talks on the phone with his friend.],,Y,ReEv7-3,ReEv7-5
+ReEv7-5,,﻿[You see someone watching video on notebook.],Ethan,"Hey, it's, uh… it's Ethan.",,N,ReEv7-4,ReEv7-6
+ReEv7-6,,﻿[You see someone watching video on notebook.],Ethan’s friend,You just disappeared the other night.,,N,ReEv7-5,ReEv7-7
+ReEv7-7,,﻿[You see someone watching video on notebook.],Ethan,"Yeah, yeah. No, I'm good, I'm good. It's Mia. She's not dead, she's alive. She's back.",,N,ReEv7-6,ReEv7-8
+ReEv7-8,,﻿[You see someone watching video on notebook.],Ethan’s friend,They found her? How? What happened?,,N,ReEv7-7,ReEv7-9
+ReEv7-9,,﻿[You see someone watching video on notebook.],Ethan,"I don't know. I don't know how, but she's back, she's back somehow. Maybe it's a prank. She wants me to come and get her.",,N,ReEv7-8,ReEv7-10
+ReEv7-10,,﻿[You see someone watching video on notebook.],Ethan’s friend,Where is she?,,N,ReEv7-9,ReEv7-11
+ReEv7-11,,﻿[You see someone watching video on notebook.],Ethan,"Dulvey. Dulvey, Louisiana.",,N,ReEv7-10,ReEv7-12
+ReEv7-12,,﻿[You see someone watching video on notebook.],Ethan’s friend,"Dude, it's been three years!",,N,ReEv7-11,ReEv7-13
+ReEv7-13,,﻿[You see someone watching video on notebook.],Ethan,"I know, I know. But what if it is her? I have to find out what happened.",,N,ReEv7-12,ReEv7-14
+ReEv7-14,,﻿[You see someone watching video on notebook.],,[Ethan comes to the right house in the middle of Louisiana swamps. Everything around looks old and abandoned.],,Y,ReEv7-13,ReEv7-15
+ReEv7-15,,﻿[You see someone watching video on notebook.],Ethan,This is the place.,,N,ReEv7-14,ReEv7-16
+ReEv7-16,,﻿[You see someone watching video on notebook.],,[Ethan sees that the gate to the house is locked. He tries to get around them and on the way finds a battered car.],,Y,ReEv7-15,ReEv7-17
+ReEv7-17,,﻿[You see someone watching video on notebook.],,[Flier],,Y,ReEv7-16,ReEv7-18
+ReEv7-18,Sneak into a Louisiana Ghost House,﻿[You see someone watching video on notebook.],,[Sign on the fence],,Y,ReEv7-17,ReEv7-19
+ReEv7-19,ACCEPT HER GIFT,﻿[You see someone watching video on notebook.],,[Mia’s letter],,Y,ReEv7-18,ReEv7-20
+ReEv7-20,ACCEPT HER GIFT,﻿[You see someone watching video on notebook.],From,Mia Winters,,N,ReEv7-19,ReEv7-21
+ReEv7-21,ACCEPT HER GIFT,"Sent: July 18, 2017 11:04 PM Tuesday",To,Ethan Winters,,N,ReEv7-20,ReEv7-22
+ReEv7-24,ACCEPT HER GIFT,Come get me.,,[Ethan enters the house. The door behind him locks tight.],,Y,ReEv7-23,ReEv7-25
+ReEv7-25,ACCEPT HER GIFT,Come get me.,Ethan,Damn!,,N,ReEv7-24,ReEv7-26
+ReEv7-26,ACCEPT HER GIFT,Come get me.,,[Newspaper],,Y,ReEv7-25,ReEv7-27
+ReEv7-27,“Over 20 Missing in 2 Years”,Come get me.,,"[Ethan finds a VHS tape “Derelict House Footage”, then a videoplayer and watches it. You are teleported to the events on video, where you become the operator.]",,Y,ReEv7-26,ReEv7-28
+ReEv7-28,“Over 20 Missing in 2 Years”,Come get me.,,[VHS],,Y,ReEv7-27,ReEv7-29
+ReEv7-29,Dulvey Haunted House - Rehearsal,Come get me.,Pete,Boo! Where did you find this guy?,,N,ReEv7-28,ReEv7-30
+ReEv7-30,Dulvey Haunted House - Rehearsal,Come get me.,Andre,"Give me a break, Pete.",,N,ReEv7-29,ReEv7-31
+ReEv7-31,Dulvey Haunted House - Rehearsal,Come get me.,Pete,"Hey! I only work with professionals. Speaking of which, make sure the sound is right this time. I don't want a repeat of Amarillo.",,N,ReEv7-30,ReEv7-32
+ReEv7-32,Dulvey Haunted House - Rehearsal,Come get me.,Andre,That was two fucking years ago.,,N,ReEv7-31,ReEv7-33
+ReEv7-33,Dulvey Haunted House - Rehearsal,Come get me.,Pete,I don't do ADR. This new guy? I'm not feeling it.,,N,ReEv7-32,ReEv7-34
+ReEv7-34,Dulvey Haunted House - Rehearsal,Come get me.,Andre,Again?,,N,ReEv7-33,ReEv7-35
+ReEv7-35,Dulvey Haunted House - Rehearsal,Come get me.,Pete,"Just don't be surprised if we have to make change. New plan. We do a walkthrough of the inside first, shoot the intro.",,N,ReEv7-34,ReEv7-36
+ReEv7-36,Dulvey Haunted House - Rehearsal,Come get me.,Andre,"Just like we always do. Just try to say the show's name this time, OK?",,N,ReEv7-35,ReEv7-37
+ReEv7-37,Dulvey Haunted House - Rehearsal,Come get me.,Pete,"No problem. “Tonight on Sewer Gators, another worthless fucking shithole.” Happy?",,N,ReEv7-36,ReEv7-38
+ReEv7-38,Dulvey Haunted House - Rehearsal,Come get me.,Andre,Ecstatic.,,N,ReEv7-37,ReEv7-39
+ReEv7-39,Dulvey Haunted House - Rehearsal,Come get me.,Pete,"Are we rolling? Alright, let's go.",,N,ReEv7-38,ReEv7-40
+ReEv7-40,Dulvey Haunted House - Rehearsal,Come get me.,,"[He’s trying to enter the same house in which Ethan’s in, but the door does not open.]",,Y,ReEv7-39,ReEv7-41
+ReEv7-41,Dulvey Haunted House - Rehearsal,Come get me.,Andre,Get outta the way.,,N,ReEv7-40,ReEv7-42
+ReEv7-42,Dulvey Haunted House - Rehearsal,Come get me.,Pete,It's locked.,,N,ReEv7-41,ReEv7-43
+ReEv7-43,Dulvey Haunted House - Rehearsal,Come get me.,,[Andre kicks the door out.],,Y,ReEv7-42,ReEv7-44
+ReEv7-44,Dulvey Haunted House - Rehearsal,Come get me.,Andre,"After you. So, why are we in hell this time? Do you ever prep?",,N,ReEv7-43,ReEv7-45
+ReEv7-45,Dulvey Haunted House - Rehearsal,Come get me.,Pete,"What's to prep? Shitty house. Spooky sounds. Ooh, is it haunted? Fuck me. I was an anchor, you know.",,N,ReEv7-44,ReEv7-46
+ReEv7-46,Dulvey Haunted House - Rehearsal,Come get me.,Andre,"Weekend sub, Pete. Not anchor.",,N,ReEv7-45,ReEv7-47
+ReEv7-47,Dulvey Haunted House - Rehearsal,Come get me.,Pete,What's that?,,N,ReEv7-46,ReEv7-48
+ReEv7-48,Dulvey Haunted House - Rehearsal,Come get me.,Andre,Nothing.,,N,ReEv7-47,ReEv7-49
+ReEv7-49,Dulvey Haunted House - Rehearsal,Come get me.,Pete,"What's the story, Andre? Abandoned farm house. Missing family. The usual. How long did you say this place had been abandoned?",,N,ReEv7-48,ReEv7-50
+ReEv7-50,Dulvey Haunted House - Rehearsal,Come get me.,Andre,Three years.,,N,ReEv7-49,ReEv7-51
+ReEv7-51,Dulvey Haunted House - Rehearsal,Come get me.,Pete," Clancy, get a shot of this. This'd make a great cutaway. So, uh, Hillbilly Joe and his family go missing...",(to you) ,N,ReEv7-50,ReEv7-52
+ReEv7-52,Dulvey Haunted House - Rehearsal,Come get me.,Andre,"Not hillbillies. The Bakers. Jack and Marguerite Baker. And they were quiet, not backward. Lot of bad rumors about their son, Lucas. Bad seed, apparently.",,N,ReEv7-51,ReEv7-53
+ReEv7-53,Dulvey Haunted House - Rehearsal,Come get me.,Pete,"Ah, shit! I knew I shouldn't have worn my good shoes. Oh, shit. Glad I had my shots. Although, this'd make a great backdrop. Andre, what do you think? Andre. Andre! Clancy, you see where Andre went? Where is he? Un-fucking-believable. This is the last time I work with that guy. I mean producers, they come and go, but a good cameraman like you, Clancy? You stick with me.",,N,ReEv7-52,ReEv7-54
+ReEv7-54,Dulvey Haunted House - Rehearsal,Come get me.,,"[You hear a clang, as if something metallic had fallen.]",,Y,ReEv7-53,ReEv7-55
+ReEv7-55,Dulvey Haunted House - Rehearsal,Come get me.,Pete,"What the fuck was that? Did you hear that? Andre? Where the fuck is he? Andre, where are you, man?",,N,ReEv7-54,ReEv7-56
+ReEv7-56,Dulvey Haunted House - Rehearsal,Come get me.,,[Pete finds a secret lever in the fireplace and pulls it.],,Y,ReEv7-55,ReEv7-57
+ReEv7-57,Dulvey Haunted House - Rehearsal,Come get me.,Pete,"What the hell? You gotta be fucking kidding me. Alright, new deal. W-We find Andre and we go. I mean, fuck this show.",,N,ReEv7-56,ReEv7-58
+ReEv7-58,Dulvey Haunted House - Rehearsal,Come get me.,,[You find a hole in the floor and a ladder leading to the basement.],,Y,ReEv7-57,ReEv7-59
+ReEv7-59,Dulvey Haunted House - Rehearsal,Come get me.,Pete,"You first. Need a nice hero shot of me coming down the ladder. So, uh, you first.",,N,ReEv7-58,ReEv7-60
+ReEv7-60,Dulvey Haunted House - Rehearsal,Come get me.,,[You go down the ladder.],,Y,ReEv7-59,ReEv7-61
+ReEv7-61,Dulvey Haunted House - Rehearsal,Come get me.,Pete,What do you see? What is it?,,N,ReEv7-60,ReEv7-62
+ReEv7-62,Dulvey Haunted House - Rehearsal,Come get me.,,"[You see Andre standing back to you. You turn him over and realize that he is dead. You scream and fall on the floor, after which someone approaches you. Heart-rending screams are heard. The recording ends.]",,Y,ReEv7-61,ReEv7-63
+ReEv7-63,Dulvey Haunted House - Rehearsal,Come get me.,,[Portrait of a man 2 children and a woman.],,Y,ReEv7-62,ReEv7-64
+ReEv7-64,Dulvey Haunted House - Rehearsal,Come get me.,Ethan,Looks like the owners.,,N,ReEv7-63,ReEv7-65
+ReEv7-65,Dulvey Haunted House - Rehearsal,Come get me.,,[You go down to the same basement as on the tape.],,Y,ReEv7-64,ReEv7-66
+ReEv7-66,Dulvey Haunted House - Rehearsal,Come get me.,,[Piece of paper on a table.],,Y,ReEv7-65,ReEv7-67
+ReEv7-67,David (Dead],Come get me.,,[In a few minutes you find your beloved in a cage.],,Y,ReEv7-66,ReEv7-68
+ReEv7-68,David (Dead],Come get me.,Ethan,Mia! Thank god I found you. It's me. It's Ethan!,,N,ReEv7-67,ReEv7-69
+ReEv7-69,David (Dead],Come get me.,Mia,Ethan? Ethan!,,N,ReEv7-68,ReEv7-70
+ReEv7-70,David (Dead],Come get me.,Ethan,Are you alright?,,N,ReEv7-69,ReEv7-71
+ReEv7-71,David (Dead],Come get me.,Mia,You shouldn't be here.,,N,ReEv7-70,ReEv7-72
+ReEv7-72,David (Dead],Come get me.,Ethan,What do you mean? You contacted me.,,N,ReEv7-71,ReEv7-73
+ReEv7-73,David (Dead],Come get me.,Mia,"No, no, I wouldn't. Did I? Did anyone see you? Did he see you?",,N,ReEv7-72,ReEv7-74
+ReEv7-74,David (Dead],Come get me.,Ethan,He? Who else is here? What's going on?,,N,ReEv7-73,ReEv7-75
+ReEv7-75,David (Dead],Come get me.,Mia,Daddy's coming. We need to go.,,N,ReEv7-74,ReEv7-76
+ReEv7-76,David (Dead],Come get me.,Ethan,Daddy?,,N,ReEv7-75,ReEv7-77
+ReEv7-77,David (Dead],Come get me.,Mia,We need to go… now!,,N,ReEv7-76,ReEv7-78
+ReEv7-78,David (Dead],Come get me.,Ethan,Where are you taking me?,,N,ReEv7-77,ReEv7-79
+ReEv7-79,David (Dead],Come get me.,Mia,Someplace safe.,,N,ReEv7-78,ReEv7-80
+ReEv7-80,David (Dead],Come get me.,Ethan,Are you gonna tell me what's going on? You've been gone for three years.,,N,ReEv7-79,ReEv7-81
+ReEv7-81,David (Dead],Come get me.,Mia,Three years? Has it really been three years?,,N,ReEv7-80,ReEv7-82
+ReEv7-82,David (Dead],Come get me.,Ethan,What is this place? What did they do to you?,,N,ReEv7-81,ReEv7-83
+ReEv7-83,David (Dead],Come get me.,Mia,Not now. We need to get out of here first. I think it's this way.,,N,ReEv7-82,ReEv7-84
+ReEv7-84,David (Dead],Come get me.,Ethan,"Mia, we have to talk. That message you sent me...",,N,ReEv7-83,ReEv7-85
+ReEv7-85,David (Dead],Come get me.,Mia,Not me. That wasn't me!,,N,ReEv7-84,ReEv7-86
+ReEv7-86,David (Dead],Come get me.,Ethan,But you did!,,N,ReEv7-85,ReEv7-87
+ReEv7-87,David (Dead],Come get me.,Mia,I didn’t!,,N,ReEv7-86,ReEv7-88
+ReEv7-88,David (Dead],Come get me.,Ethan,"OK, fine. Just tell me what's going on.",,N,ReEv7-87,ReEv7-89
+ReEv7-89,David (Dead],Come get me.,Mia,I am telling you everything that I know. We have to go this way.,,N,ReEv7-88,ReEv7-90
+ReEv7-90,David (Dead],Come get me.,Ethan,"Mia, are you sure you know where you're going?",,N,ReEv7-89,ReEv7-91
+ReEv7-91,David (Dead],Come get me.,Mia,The family used to bring me food through here. I remember. There. It's there! I remember this room. This is it. There's another door here. I'm sure of it. It's not here. It's gone. It's gone! We're going to be a family… now that you're here. There's another door here. I'm sure of it.,,N,ReEv7-90,ReEv7-92
+ReEv7-92,David (Dead],Come get me.,Ethan,Mia…,,N,ReEv7-91,ReEv7-93
+ReEv7-93,David (Dead],Come get me.,Mia,We got to get out of here.,,N,ReEv7-92,ReEv7-94
+ReEv7-94,David (Dead],Come get me.,Ethan,"Just stay here, alright? I'm gonna have a look around.",,N,ReEv7-93,ReEv7-95
+ReEv7-95,David (Dead],Come get me.,,[You go to the next room but then you hear Mia’s scream.],,Y,ReEv7-94,ReEv7-96
+ReEv7-96,David (Dead],Come get me.,Mia,Leave me alone!,,N,ReEv7-95,ReEv7-97
+ReEv7-97,David (Dead],Come get me.,,"[Running into the room you do not find Mia, just a broken wall.]",,Y,ReEv7-96,ReEv7-98
+ReEv7-98,David (Dead],Come get me.,Ethan,Mia.,,N,ReEv7-97,ReEv7-99
+ReEv7-99,David (Dead],Come get me.,,"[Going up to the first floor of the house and gathering some useful items, you eventually find Mia... but now she has turned into a zombie and attacks you with a knife.]",,Y,ReEv7-98,ReEv7-100
+ReEv7-100,David (Dead],Come get me.,Ethan,"Mia, wait. Wait!",,N,ReEv7-99,ReEv7-101
+ReEv7-101,David (Dead],Come get me.,,"[She brutally stabbing your hand with knife. Then, seconds later she appears to turn normal again.]",,Y,ReEv7-100,ReEv7-102
+ReEv7-102,David (Dead],Come get me.,Mia,I can hear her… I can feel her clawing her way back inside of me.  Get out! Leave me alone! I've been bad. I deserve this. (falls unconscious],(she hits herself against a wall) ,N,ReEv7-101,ReEv7-103
+ReEv7-103,David (Dead],Come get me.,Ethan,"What the fuck are you, Mia?",,N,ReEv7-102,ReEv7-104
+ReEv7-104,David (Dead],Come get me.,,"[After a minute, Mia wakes up and turns into a zombie again, grabs and throws Ethan, breaking the wall with him.]",,Y,ReEv7-103,ReEv7-105
+ReEv7-105,David (Dead],Come get me.,Mia,Leave me! Go!,,N,ReEv7-104,ReEv7-106
+ReEv7-106,David (Dead],Come get me.,,"[You pick up a hatchet and hacks Mia to the death. After that, realizing the enormity of your actions, you hear a phone call, come up and picks it up.]",,Y,ReEv7-105,ReEv7-107
+ReEv7-107,David (Dead],Come get me.,Woman Voice,You really shouldn't have come here.,,N,ReEv7-106,ReEv7-108
+ReEv7-108,David (Dead],Come get me.,Ethan,Who's this? And what the fuck is going on?,,N,ReEv7-107,ReEv7-109
+ReEv7-109,David (Dead],Come get me.,Woman Voice,My name's Zoe. There should be a way out through the attic. Go there... now.,,N,ReEv7-108,ReEv7-110
+ReEv7-110,David (Dead],Come get me.,,"[Returning to Mia’s corpse, you do not find it.]",,Y,ReEv7-109,ReEv7-111
+ReEv7-111,David (Dead],Come get me.,Ethan,Mia?,,N,ReEv7-110,ReEv7-112
+ReEv7-112,David (Dead],Come get me.,,"[In a few minutes, you suddenly come across Mia. She seems alive and well.]",,Y,ReEv7-111,ReEv7-113
+ReEv7-113,David (Dead],Come get me.,Mia,"Ethan! It's OK. It's OK, it's me. I know you didn't mean to hurt me.  But you shouldn't have done that! It fucking hurt!",(turns to zombie) ,N,ReEv7-112,ReEv7-114
+ReEv7-114,David (Dead],Come get me.,,[She nails his hand with a screwdriver to the wall and goes to start a chainsaw.],,Y,ReEv7-113,ReEv7-115
+ReEv7-115,David (Dead],Come get me.,Mia,Now let's see what you feel.,,N,ReEv7-114,ReEv7-116
+ReEv7-116,David (Dead],Come get me.,,"[She saw off your left hand. As she leaves, she says barely distinguishable words.]",,Y,ReEv7-115,ReEv7-117
+ReEv7-117,David (Dead],Come get me.,Mia (zombie),It's my job... must... contain... outbreak! I promise... must burn it all down!,,N,ReEv7-116,ReEv7-118
+ReEv7-118,David (Dead],Come get me.,,"[You go up to the attic, give yourself first aid and find a gun.]",,Y,ReEv7-117,ReEv7-119
+ReEv7-119,David (Dead],Come get me.,Ethan,"OK, fine.",,N,ReEv7-118,ReEv7-120
+ReEv7-120,David (Dead],Come get me.,,[You go ahead and face Mia with a chainsaw.],,Y,ReEv7-119,ReEv7-121
+ReEv7-121,David (Dead],Come get me.,Mia (zombie),"I don't want your help! You were always watching me! Why? What are you hiding, Ethan? What don't you want me to know? Forget about me! They're relying on me. Everyone is relying on me. Everyone! I love you.",,N,ReEv7-120,ReEv7-122
+ReEv7-122,David (Dead],Come get me.,,"[Mia once again dies. Suddenly, the Father of the Family sneaks up behind you and punches you in the face.]",,Y,ReEv7-121,ReEv7-123
+ReEv7-123,David (Dead],Come get me.,Father of the Family,"Welcome to the family, son.",,N,ReEv7-122,ReEv7-124
+ReEv7-124,David (Dead],Come get me.,,"[You lose consciousness. In glimpses, you notice how you and Mia are being dragged somewhere by the Father of the Family, as well as Zoe, who attaches your hand to the body with a stapler.]",,Y,ReEv7-123,ReEv7-125
+ReEv7-125,David (Dead],Come get me.,Zoe,"Come on… don't you die on us, now. You have work to do.",,N,ReEv7-124,ReEv7-126
+ReEv7-126,David (Dead],Come get me.,,"[You wake up behind a kind of dinner table, at which almost all the family gathers — Father, Mom, Son, and Granny (which seems dead).]",,Y,ReEv7-125,ReEv7-127
+ReEv7-127,David (Dead],Come get me.,Ethan,Where am I? What the hell?,,N,ReEv7-126,ReEv7-128
+ReEv7-128,David (Dead],Come get me.,Mother of the Family,"Rise and shine, sleepyhead. It’s time for supper.",,N,ReEv7-127,ReEv7-129
+ReEv7-129,David (Dead],Come get me.,Ethan,Who are all you people? Where’s Mia?,,N,ReEv7-128,ReEv7-130
+ReEv7-130,David (Dead],Come get me.,Mother of the Family, Eat it. It's good.,(to Ethan) ,N,ReEv7-129,ReEv7-131
+ReEv7-131,David (Dead],Come get me.,Son of the Family,Dumb son of a bitch wouldn't know good if it hit him!,,N,ReEv7-130,ReEv7-132
+ReEv7-132,David (Dead],Come get me.,Mother of the Family,Lucas!,,N,ReEv7-131,ReEv7-133
+ReEv7-133,David (Dead],Come get me.,,[Father of the Family chops off Son’s hand.],,Y,ReEv7-132,ReEv7-134
+ReEv7-134,David (Dead],Come get me.,Son of the Family,"Goddamn, old man, not again!",,N,ReEv7-133,ReEv7-135
+ReEv7-135,David (Dead],Come get me.,Father of the Family,"Get out the way, Marguerite! That boy's got to eat! He got to have his supper. Come here, boy. Let's do this, come on.",,N,ReEv7-134,ReEv7-136
+ReEv7-136,David (Dead],Come get me.,Mother of the Family,"Oh shit, oh shit, oh shit—he's not eating it. Jack!",,N,ReEv7-135,ReEv7-137
+ReEv7-137,David (Dead],Come get me.,Father of the Family,"Shut the hell up, Marguerite!",,N,ReEv7-136,ReEv7-138
+ReEv7-138,David (Dead],Come get me.,Mother of the Family,I made that for him!,,N,ReEv7-137,ReEv7-139
+ReEv7-139,David (Dead],Come get me.,Father of the Family,Get the hell outta here!,,N,ReEv7-138,ReEv7-140
+ReEv7-140,David (Dead],Come get me.,Mother of the Family,You're a son of a bitch!,,N,ReEv7-139,ReEv7-141
+ReEv7-141,David (Dead],Come get me.,Father of the Family,"This was supposed to be a very special feast. Come here, boy.  Come on now.",(cut your face with knife) ,N,ReEv7-140,ReEv7-142
+ReEv7-142,David (Dead],Come get me.,,[The Father of the Family is preparing to cut you again when suddenly a telephone ring is heard.],,Y,ReEv7-141,ReEv7-143
+ReEv7-143,David (Dead],Come get me.,Son of the Family,God damn it. I bet it's that cop again.,,N,ReEv7-142,ReEv7-144
+ReEv7-144,David (Dead],Come get me.,Father of the Family,Goddamn pigs! I'm coming back for you.,,N,ReEv7-143,ReEv7-145
+ReEv7-145,KITCHEN,Come get me.,,[You break a chair and examine the room.],,Y,ReEv7-144,ReEv7-146
+ReEv7-146,KITCHEN,Come get me.,,[Book],,Y,ReEv7-145,ReEv7-147
+ReEv7-148,Clive R. O’Brian,Come get me.,,[Newspaper],,Y,ReEv7-147,ReEv7-149
+ReEv7-151,3 Missing During Urbex Trip,Come get me.,,[Note on kitchen wall.],,Y,ReEv7-150,ReEv7-152
+ReEv7-152,Pet Collar $19.99 x 20 = $399.80,Come get me.,Subtotal,$563.95,,N,ReEv7-151,ReEv7-153
+ReEv7-153,Pet Collar $19.99 x 20 = $399.80,Come get me.,Tax,$22.26,,N,ReEv7-152,ReEv7-154
+ReEv7-154,Pet Collar $19.99 x 20 = $399.80,Come get me.,Total,$586.21,,N,ReEv7-153,ReEv7-155
+ReEv7-155,Pet Collar $19.99 x 20 = $399.80,Come get me.,,[Note on the fridge with tons of meat in it.],,Y,ReEv7-154,ReEv7-156
+ReEv7-156,Gumbo,Come get me.,,[Soon you will again come across the Father of the Family. He is armed with a shovel.],,Y,ReEv7-155,ReEv7-157
+ReEv7-157,Gumbo,Come get me.,Father of the Family,"Where'd that little shit get to? You know what they say… once family, always family. Thought you'd just slip out before dinner was done? God damn it, how I am gonna replace this? You came to the wrong house, boy.",,N,ReEv7-156,ReEv7-158
+ReEv7-158,Gumbo,Come get me.,,"[Ultimately, he catches you and chops off his leg with a shovel, after which he shares a special liquid. You use it and manage to attach the leg back.]",,Y,ReEv7-157,ReEv7-159
+ReEv7-159,Gumbo,Come get me.,Ethan,What the fuck!,,N,ReEv7-158,ReEv7-160
+ReEv7-160,Gumbo,Come get me.,Father of the Family,You… better… run… Here's daddy! Stay right there. You're wasting your time. I'm on to you.,,N,ReEv7-159,ReEv7-161
+ReEv7-161,Gumbo,Come get me.,,[Finally you manage to hide in the basement.],,Y,ReEv7-160,ReEv7-162
+ReEv7-162,Gumbo,Come get me.,Father of the Family,"Alright, have fun under there, boy. I'm gonna come back for you later.",,N,ReEv7-161,ReEv7-163
+ReEv7-163,Gumbo,Come get me.,,"[Getting out of the basement you find a ""safe place"" (laundry). As soon as you get there a phone starts ringing.]",,Y,ReEv7-162,ReEv7-164
+ReEv7-164,Gumbo,Come get me.,Zoe,You did good. Ethan.,,N,ReEv7-163,ReEv7-165
+ReEv7-165,Gumbo,Come get me.,Ethan,"Zoe, right? What the fuck are these…",,N,ReEv7-164,ReEv7-166
+ReEv7-166,Gumbo,Come get me.,Zoe,Shut up and listen if you want to stay alive. You gotta get out of that house. There might be a way out through the main hall. And that thing on your wrist is a codex. Don't lose it. It's important.,,N,ReEv7-165,ReEv7-167
+ReEv7-167,Gumbo,Come get me.,,[She hangs up.],,Y,ReEv7-166,ReEv7-168
+ReEv7-168,Gumbo,Come get me.,Ethan,Hell-of-a-girl.,,N,ReEv7-167,ReEv7-169
+ReEv7-169,Gumbo,Come get me.,,[You begin to explore.],,Y,ReEv7-168,ReEv7-170
+ReEv7-170,Gumbo,Come get me.,,[The Son’s photo],,Y,ReEv7-169,ReEv7-171
+ReEv7-172,Gumbo,Lucas. Feb. 2013,,[The Father and The Mother’s photo.],,Y,ReEv7-171,ReEv7-173
+ReEv7-173,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,,[You see someone through barricaded window.],,Y,ReEv7-172,ReEv7-174
+ReEv7-174,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,"Open up! Hey, over here!",,N,ReEv7-173,ReEv7-175
+ReEv7-175,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,"Hey, you gotta help me!",,N,ReEv7-174,ReEv7-176
+ReEv7-176,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,"Hold on, back up! Now, sir, do you we here? I mean, is this your property?",,N,ReEv7-175,ReEv7-177
+ReEv7-177,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,What? Me? No. No!,,N,ReEv7-176,ReEv7-178
+ReEv7-178,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,Alright. Now we got several calls about some missing persons lately.,,N,ReEv7-177,ReEv7-179
+ReEv7-179,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,You don't understand. I gotta get outta here!,,N,ReEv7-178,ReEv7-180
+ReEv7-180,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,Now calm down.,,N,ReEv7-179,ReEv7-181
+ReEv7-181,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,You're not listening to me. There are crazy people in this house trying fucking kill me!,,N,ReEv7-180,ReEv7-182
+ReEv7-182,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,"Well alright, lemme tell you this. You don't exactly seem like you're playing with a full deck yourself, alright?",,N,ReEv7-181,ReEv7-183
+ReEv7-183,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,Are you kidding me?,,N,ReEv7-182,ReEv7-184
+ReEv7-184,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,"Look, like I said, we've had several missing persons calls, and I can't rule out that an outsider like yourself may not be involved.",,N,ReEv7-183,ReEv7-185
+ReEv7-185,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,Alright. I'll tell you whatever you want.,,N,ReEv7-184,ReEv7-186
+ReEv7-186,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,"Alright. Now that's more like it. Now, meet me in the garage. We'll talk there.",,N,ReEv7-185,ReEv7-187
+ReEv7-187,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,"Hey, wait! You gotta give me your gun!",,N,ReEv7-186,ReEv7-188
+ReEv7-188,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,You must have lost your mind.,,N,ReEv7-187,ReEv7-189
+ReEv7-189,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,"Look, officer. Now do you wanna see my name in the obituaries? Or do you wanna be a hero and save my life?  A fucking pocket knife?",(the officer give you something) ,N,ReEv7-188,ReEv7-190
+ReEv7-190,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,Here. Take it! That's all you’re gonna get. Now go. Garage. Now.,,N,ReEv7-189,ReEv7-191
+ReEv7-191,Gumbo,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,What am I gonna do with a knife?,,N,ReEv7-190,ReEv7-192
+ReEv7-192,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,,[You go to the garage and open it.],,Y,ReEv7-191,ReEv7-193
+ReEv7-193,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,Hey! We gotta get the fuck outta here.,,N,ReEv7-192,ReEv7-194
+ReEv7-194,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,Now first you need to tell me what you're doing here alone in the middle of the night?,,N,ReEv7-193,ReEv7-195
+ReEv7-195,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,Me? What about you?,,N,ReEv7-194,ReEv7-196
+ReEv7-196,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,"Now, it's my job. Why don't you do your job and tell me? Answer my questions.",,N,ReEv7-195,ReEv7-197
+ReEv7-197,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,You're not gonna believe me if I told you.,,N,ReEv7-196,ReEv7-198
+ReEv7-198,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Police officer,Try me. Hey. Put that door back up. Put that door back up! What are you doing?,,N,ReEv7-197,ReEv7-199
+ReEv7-199,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,,[The door to the garage is starting to close. The Father of the Family appears.],,Y,ReEv7-198,ReEv7-200
+ReEv7-200,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,Wait! Wait!,,N,ReEv7-199,ReEv7-201
+ReEv7-201,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,,"[The Father kills a police officer cutting half his head with a shovel. You take a gun, car keys and get in the car.]",,Y,ReEv7-200,ReEv7-202
+ReEv7-202,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,Fuck it. I'm gonna kill every one of you.,,N,ReEv7-201,ReEv7-203
+ReEv7-203,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,,[He begins to smash the Father of the Family with his own car.],,Y,ReEv7-202,ReEv7-204
+ReEv7-204,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Father of the Family,"Motherfuck! Ho-ho! Alright, bring it on! Where'd you learn to drive? Let's finish this… you and I. Aww yeah, I'm gonna take you for a ride!",,N,ReEv7-203,ReEv7-205
+ReEv7-205,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,No… no!! Fuuuck!,,N,ReEv7-204,ReEv7-206
+ReEv7-206,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,,[They hit the wall together. The car lights up and explodes setting the Father on fire.],,Y,ReEv7-205,ReEv7-207
+ReEv7-207,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Father of the Family,"Oh boy, now look what you've done, motherfucker!",,N,ReEv7-206,ReEv7-208
+ReEv7-208,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,,"[You shoot the Father several times, and he seems to be finally dying. However, after a few moments, he resurrects, grabs you and force you to put your gun at his chin.]",,Y,ReEv7-207,ReEv7-209
+ReEv7-209,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Father of the Family,"Do I have your attention, boy? You are about to see something wonderful. Shoot me! Shoot me!",,N,ReEv7-208,ReEv7-210
+ReEv7-210,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,,[You shoot and blow half his head off.],,Y,ReEv7-209,ReEv7-211
+ReEv7-211,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,Ethan,Fuck!,,N,ReEv7-210,ReEv7-212
+ReEv7-212,GARAGE,“Jack & Marguerite's 25th Wedding Anniversary”,,[Finally you can continue to explore the house.],,Y,ReEv7-211,ReEv7-213
+ReEv7-213,HALL,“Jack & Marguerite's 25th Wedding Anniversary”,,[Photo on a wall.],,Y,ReEv7-212,ReEv7-214
+ReEv7-214,HALL,"Arklay Mountains, July 7, 1991.",,[You answer a phone in the hall.],,Y,ReEv7-213,ReEv7-215
+ReEv7-215,HALL,"Arklay Mountains, July 7, 1991.",Zoe,Did my daddy give you a hard time?,,N,ReEv7-214,ReEv7-216
+ReEv7-216,HALL,"Arklay Mountains, July 7, 1991.",Ethan,That's your father?,,N,ReEv7-215,ReEv7-217
+ReEv7-217,HALL,"Arklay Mountains, July 7, 1991.",Zoe,He used to be.,,N,ReEv7-216,ReEv7-218
+ReEv7-218,HALL,"Arklay Mountains, July 7, 1991.",Ethan,"I'm sorry… but he's, uh, he's dead now.",,N,ReEv7-217,ReEv7-219
+ReEv7-219,HALL,"Arklay Mountains, July 7, 1991.",Zoe,You just might be able to pull this off.,,N,ReEv7-218,ReEv7-220
+ReEv7-220,HALL,"Arklay Mountains, July 7, 1991.",Ethan,What? Pull what off?,,N,ReEv7-219,ReEv7-221
+ReEv7-221,HALL,"Arklay Mountains, July 7, 1991.",Zoe,There's something I need you to do. I can't explain it right now. I’ll be in touch.,,N,ReEv7-220,ReEv7-222
+ReEv7-222,HALL,"Arklay Mountains, July 7, 1991.",,[Newspaper],,Y,ReEv7-221,ReEv7-223
+ReEv7-227,“Over 20 Missing in 2 Years”,"Alyssa Ashcroft, Jan. 19, 2016",,[Note],,Y,ReEv7-226,ReEv7-228
+ReEv7-230,“Over 20 Missing in 2 Years”,"Alyssa Ashcroft, Jan. 19, 2016",,[Diary],,Y,ReEv7-229,ReEv7-231
+ReEv7-234,October 9,Reports say a storm's coming.,,[You find and watch another VHS - “Mia”.],,Y,ReEv7-233,ReEv7-235
+ReEv7-236,"""Mia""","JUL. 19, 2017 09:28 PM",Mia,"Ethan, if you find this... I know I can't expect anything from you. Not after what happened. After what I did. But I just want you to know that wasn't me. I don't know what happened. There's so much that you need to know.",,N,ReEv7-235,ReEv7-237
+ReEv7-237,"""Mia""","JUL. 19, 2017 09:28 PM",The Mother of the Family,"You gave us quite a scare, young lady!",,N,ReEv7-236,ReEv7-238
+ReEv7-238,"""Mia""","JUL. 19, 2017 09:28 PM",Mia,I can't let her catch me again.,,N,ReEv7-237,ReEv7-239
+ReEv7-239,"""Mia""","JUL. 19, 2017 09:28 PM",,[Mia trying to hide from the Mother in her house.],,Y,ReEv7-238,ReEv7-240
+ReEv7-240,"""Mia""","JUL. 19, 2017 09:28 PM",Young Girl," Over here, mommy.",(sees Mia) ,N,ReEv7-239,ReEv7-241
+ReEv7-241,"""Mia""","JUL. 19, 2017 09:28 PM",The Mother of the Family,"I am sick and tired over being sick and tired of your bullshit, girl.",,N,ReEv7-240,ReEv7-242
+ReEv7-242,"""Mia""","JUL. 19, 2017 09:28 PM",Mia,I need to hide... I need to hide...,,N,ReEv7-241,ReEv7-243
+ReEv7-243,"""Mia""","JUL. 19, 2017 09:28 PM",The Mother of the Family,"Why are you putting me through this? What have I done to deserve this except open my home and feed you? I don't understand you at all. This is a gift. This house… this house has seen more than you imagine, and it knows. Now's not the time for that. You just don't understand or is it that you just don't care? I know you and Zoe are plotting. I know you are scheming. You think I don't know what you want to do with that boy Ethan?",,N,ReEv7-242,ReEv7-244
+ReEv7-244,"""Mia""","JUL. 19, 2017 09:28 PM",Mia,"No… no no, don't come over here.",,N,ReEv7-243,ReEv7-245
+ReEv7-245,"""Mia""","JUL. 19, 2017 09:28 PM",The Mother of the Family,"I'll feed you to my babies and fertilize the garden with what was left. We open our home! We open our hearts! And what do you do?! She loves you. She wants us to be a family, god damn it. You… you! All you have to do is accept her fucking gift! We love you... Why can't you see that?! Don't move! No, no, no, no, no—you don't fuckin' try to escape your share of the blame. There's no way out of there, missy. Looks like it's a part of something.",,N,ReEv7-244,ReEv7-246
+ReEv7-246,"""Mia""","JUL. 19, 2017 09:28 PM",,[Finally the Mother catches her.],,Y,ReEv7-245,ReEv7-247
+ReEv7-247,"""Mia""","JUL. 19, 2017 09:28 PM",The Mother of the Family,Where do you think you're going?,,N,ReEv7-246,ReEv7-248
+ReEv7-248,"""Mia""","JUL. 19, 2017 09:28 PM",Mia,"Ethan! Ethan, please help me! Help, Ethan! No!",,N,ReEv7-247,ReEv7-249
+ReEv7-249,"""Mia""","JUL. 19, 2017 09:28 PM",Ethan,"What did they do to you, Mia?",,N,ReEv7-248,ReEv7-250
+ReEv7-250,"""Mia""","JUL. 19, 2017 09:28 PM",,[You explore the hall for a while and then suddenly come across the Father in the bathroom...],,Y,ReEv7-249,ReEv7-251
+ReEv7-251,"""Mia""","JUL. 19, 2017 09:28 PM",Father of the Family,"Heck of a thing, ain't it? Sure as shit beats the hell out of dying. My little girl has given us a gift, and this gift is with me always. As you can see, the family is only a part of her gift. Which – in a word – means, you're fucked. Come out, come out wherever you are.",,N,ReEv7-250,ReEv7-252
+ReEv7-252,"""Mia""","JUL. 19, 2017 09:28 PM",,"[Father chases you, but you manage to escape through an opening in the wall.]",,Y,ReEv7-251,ReEv7-253
+ReEv7-253,"""Mia""","JUL. 19, 2017 09:28 PM",Ethan,Who builds this shit?,,N,ReEv7-252,ReEv7-254
+ReEv7-254,"""Mia""","JUL. 19, 2017 09:28 PM",,[Photos on a wall.],,Y,ReEv7-253,ReEv7-255
+ReEv7-255,"""Mia""",They look like they may all be victims.,,[Drawing.],,Y,ReEv7-254,ReEv7-256
+ReEv7-256,Looks like a kid drew it,They look like they may all be victims.,,[List pinned to whiteboard],,Y,ReEv7-255,ReEv7-257
+ReEv7-259,Homeless man,Turned in 3 days. He's the 13th.,,[You see a monster separating from the wall gurgling with black goo.],,Y,ReEv7-258,ReEv7-260
+ReEv7-260,Homeless man,Turned in 3 days. He's the 13th.,Ethan,What the– ?,,N,ReEv7-259,ReEv7-261
+ReEv7-261,Homeless man,Turned in 3 days. He's the 13th.,,[You kill the monster.],,Y,ReEv7-260,ReEv7-262
+ReEv7-262,Homeless man,Turned in 3 days. He's the 13th.,,[Note in “safe place”],,Y,ReEv7-261,ReEv7-263
+ReEv7-266,"Love, Travis",Something's wrong with me.,,[Note in morgue.],,Y,ReEv7-265,ReEv7-267
+ReEv7-269,"Love, Travis",Something's wrong with me.,"You know how to open the door, don't you? Just remember",3 a's and a handprint.,,N,ReEv7-268,ReEv7-270
+ReEv7-270,"Love, Travis",Do what you want with his girl...,,"[When you go out into the main hall again, the Father of the Family begins to hunt for you again.]",,Y,ReEv7-269,ReEv7-271
+ReEv7-271,"Love, Travis",Do what you want with his girl...,Father of the Family,It won't be long before I find you and kill you. Here I come.,,N,ReEv7-270,ReEv7-272
+ReEv7-272,"Love, Travis",Do what you want with his girl...,,[Note in Granny’s room.],,Y,ReEv7-271,ReEv7-273
+ReEv7-275,– The book in the recreation room,Do what you want with his girl...,Father of the Family,"No way out, ya know!",,N,ReEv7-274,ReEv7-276
+ReEv7-276,– The book in the recreation room,Do what you want with his girl...,,[Letter in Granny’s room.],,Y,ReEv7-275,ReEv7-277
+ReEv7-283,Dulvey General Hospital,"Dear Mrs. Baker,",Father of the Family,This is all too fun.,,N,ReEv7-282,ReEv7-284
+ReEv7-284,Dulvey General Hospital,"Dear Mrs. Baker,",,"[In the basement, you find the Father and deputy, who has already begun to decompose. You are hiding.]",,Y,ReEv7-283,ReEv7-285
+ReEv7-285,Dulvey General Hospital,"Dear Mrs. Baker,",Father of the Family, I was gonna be her father. But now she says he will be her father. No-no-no-no-no-no-no-no. I will find him and I will make him suffer.  And you my friend will help me.,(speaking to himself) (pointing to the dead deputy) ,N,ReEv7-284,ReEv7-286
+ReEv7-286,Dulvey General Hospital,"Dear Mrs. Baker,",Ethan,Poor deputy...,,N,ReEv7-285,ReEv7-287
+ReEv7-287,Dulvey General Hospital,"Dear Mrs. Baker,",,[Going downstairs you again encounter the Father of the Family who pushes you into some kind of arena. You fight him for a while.],,Y,ReEv7-286,ReEv7-288
+ReEv7-288,Dulvey General Hospital,"Dear Mrs. Baker,",Father of the Family, Groovy.,(picking up a chainsaw) ,N,ReEv7-287,ReEv7-289
+ReEv7-289,Dulvey General Hospital,"Dear Mrs. Baker,",,[You also take a chainsaw. The bloody fight begins.],,Y,ReEv7-288,ReEv7-290
+ReEv7-290,Dulvey General Hospital,"Dear Mrs. Baker,",Father of the Family,"That'a boy, that's the ticket! You are gonna get it now! Fun, ain't it? Ugh! That's it! What's the matter? Outta juice?",,N,ReEv7-289,ReEv7-291
+ReEv7-291,Dulvey General Hospital,"Dear Mrs. Baker,",,"[Ultimately, you mince the upper part of his body.]",,Y,ReEv7-290,ReEv7-292
+ReEv7-292,Dulvey General Hospital,"Dear Mrs. Baker,",Ethan,Do me a favor and stay dead.,,N,ReEv7-291,ReEv7-293
+ReEv7-293,Dulvey General Hospital,"Dear Mrs. Baker,",,[Having collected all the keys you get out of the house.],,Y,ReEv7-292,ReEv7-294
+ReEv7-294,YARD,"Dear Mrs. Baker,",,[Note],,Y,ReEv7-293,ReEv7-295
+ReEv7-298,YARD,"No, I can't. I'm dead if she finds out.",,[You are about to leave when the phone rings.],,Y,ReEv7-297,ReEv7-299
+ReEv7-299,YARD,"No, I can't. I'm dead if she finds out.",Zoe,You made it. You're the first I've ever seen make it this far.,,N,ReEv7-298,ReEv7-300
+ReEv7-300,YARD,"No, I can't. I'm dead if she finds out.",Ethan,"So, what is it you need me to do? Is it gonna help me get outta here?",,N,ReEv7-299,ReEv7-301
+ReEv7-301,YARD,"No, I can't. I'm dead if she finds out.",Zoe,"Yes, now listen carefully, Ethan. My family and I… our bodies are contaminated. I can't leave the property unless I get it out. Same goes for Mia.",,N,ReEv7-300,ReEv7-302
+ReEv7-302,YARD,"No, I can't. I'm dead if she finds out.",Ethan,Is there a way to get it out?,,N,ReEv7-301,ReEv7-303
+ReEv7-303,YARD,"No, I can't. I'm dead if she finds out.",Zoe,We need the serum. It should clear whatever this stuff is out of the body. As long as you're not too far gone.,,N,ReEv7-302,ReEv7-304
+ReEv7-304,YARD,"No, I can't. I'm dead if she finds out.",Ethan,"Alright, so where is it?",,N,ReEv7-303,ReEv7-305
+ReEv7-305,YARD,"No, I can't. I'm dead if she finds out.",Zoe,If I knew where one was I'd already be long gone. But I have a feeling my mother has hidden some inside the old house somewhere.,,N,ReEv7-304,ReEv7-306
+ReEv7-306,YARD,"No, I can't. I'm dead if she finds out.",Ethan,"So if we get this thing, I can help Mia and we can get outta here?",,N,ReEv7-305,ReEv7-307
+ReEv7-307,YARD,"No, I can't. I'm dead if she finds out.",Zoe,"Right, and so can I. The old house is near the water – you can't miss it. I just hope you can handle my mother. Be careful. They'll be lookin for ya.",,N,ReEv7-306,ReEv7-308
+ReEv7-308,THE OLD HOUSE,"No, I can't. I'm dead if she finds out.",,[Picture of a house.],,Y,ReEv7-307,ReEv7-309
+ReEv7-309,THE OLD HOUSE,"“February 8th, 1802”",,[Drawing.],,Y,ReEv7-308,ReEv7-310
+ReEv7-311,THE OLD HOUSE,"“February 8th, 1802”",,[Writing on a wall.],,Y,ReEv7-310,ReEv7-312
+ReEv7-313,THE OLD HOUSE,"“February 8th, 1802”",,[Painting.],,Y,ReEv7-312,ReEv7-314
+ReEv7-315,THE OLD HOUSE,"“February 8th, 1802”",,"[Assembling a flamethrower to destroy the hives you reach the basement there you meet Mia, standing behind an iron cage.]",,Y,ReEv7-314,ReEv7-316
+ReEv7-316,THE OLD HOUSE,"“February 8th, 1802”",Mia,Ethan.,,N,ReEv7-315,ReEv7-317
+ReEv7-317,THE OLD HOUSE,"“February 8th, 1802”",Ethan,"No more bullshit, Mia. I want some answers.",,N,ReEv7-316,ReEv7-318
+ReEv7-318,THE OLD HOUSE,"“February 8th, 1802”",Mia,"I know. I know. You're right. And I always wanted to tell you – but, I just – I can only remember a little and…",,N,ReEv7-317,ReEv7-319
+ReEv7-319,THE OLD HOUSE,"“February 8th, 1802”",,[Suddenly the Son appears and grabs Mia.],,Y,ReEv7-318,ReEv7-320
+ReEv7-320,THE OLD HOUSE,"“February 8th, 1802”",The Son,"Daddy, right? You mind if I borrow Mommy for a little bit? Well don't just stand there – do something!",,N,ReEv7-319,ReEv7-321
+ReEv7-321,THE OLD HOUSE,"“February 8th, 1802”",Mia,Ethan! Help!,,N,ReEv7-320,ReEv7-322
+ReEv7-322,THE OLD HOUSE,"“February 8th, 1802”",,[The Son drags Mia into a room.],,Y,ReEv7-321,ReEv7-323
+ReEv7-323,THE OLD HOUSE,"“February 8th, 1802”",Ethan,Dammit–,,N,ReEv7-322,ReEv7-324
+ReEv7-324,THE OLD HOUSE,"“February 8th, 1802”",,[Soon he meets the Mother.],,Y,ReEv7-323,ReEv7-325
+ReEv7-325,THE OLD HOUSE,"“February 8th, 1802”",Mother of the Family,"Aha! ...Damn. Yes, my kiddies! Alright, you piece of shit – I've had about enough of you. I told you to get out! It's mine. Watch this you troublesome piece of shit!",,N,ReEv7-324,ReEv7-326
+ReEv7-326,THE OLD HOUSE,"“February 8th, 1802”",,[Note near closed door with dead crow on it.],,Y,ReEv7-325,ReEv7-327
+ReEv7-335,THE OLD HOUSE,"“February 8th, 1802”",Ethan,"Fuck, fuck, fuck, fuck. Jesus – fuck.",,N,ReEv7-334,ReEv7-336
+ReEv7-336,THE OLD HOUSE,"“February 8th, 1802”",,"[Finding the key to the door with a dead crow, you go there, but the Mother is already waiting for you there...]",,Y,ReEv7-335,ReEv7-337
+ReEv7-337,THE OLD HOUSE,"“February 8th, 1802”",Mother of the Family,I told you to stay out of here.,,N,ReEv7-336,ReEv7-338
+ReEv7-338,THE OLD HOUSE,"“February 8th, 1802”",,[She throws you to a pit.],,Y,ReEv7-337,ReEv7-339
+ReEv7-339,THE OLD HOUSE,"“February 8th, 1802”",Mother of the Family,"Alright, you little cocksucker, let's get down to business.",,N,ReEv7-338,ReEv7-340
+ReEv7-340,THE OLD HOUSE,"“February 8th, 1802”",,[You shoot her in the face.],,Y,ReEv7-339,ReEv7-341
+ReEv7-341,THE OLD HOUSE,"“February 8th, 1802”",Mother of the Family,"Not nice, cher. This is beyond the pale, you hear me?",,N,ReEv7-340,ReEv7-342
+ReEv7-342,THE OLD HOUSE,"“February 8th, 1802”",,[You shoot her again and apparently kill her.],,Y,ReEv7-341,ReEv7-343
+ReEv7-343,THE OLD HOUSE,"“February 8th, 1802”",Mother of the Family, It s mine... It's mine... My light...,(crawl to her lamp) ,N,ReEv7-342,ReEv7-344
+ReEv7-344,THE OLD HOUSE,"“February 8th, 1802”",,[Note in a case with the serum.],,Y,ReEv7-343,ReEv7-345
+ReEv7-345,THE OLD HOUSE,"“February 8th, 1802”",Regarding the -Series serum,the following items be able synthesize serum.,,N,ReEv7-344,ReEv7-346
+ReEv7-346,2. D-Series peripheral nerve,"“February 8th, 1802”",,[Ethan grabs the serum.],,Y,ReEv7-345,ReEv7-347
+ReEv7-347,2. D-Series peripheral nerve,"“February 8th, 1802”",Ethan,I think that's it.,,N,ReEv7-346,ReEv7-348
+ReEv7-348,2. D-Series peripheral nerve,"“February 8th, 1802”",Zoe,Well? Did you find a serum?,,N,ReEv7-347,ReEv7-349
+ReEv7-349,2. D-Series peripheral nerve,"“February 8th, 1802”",Ethan,I just got done dealing with your mom and her fucking bugs. I wish you coulda warned me.,,N,ReEv7-348,ReEv7-350
+ReEv7-350,2. D-Series peripheral nerve,"“February 8th, 1802”",Zoe,Sorry about that. What about the serum?,,N,ReEv7-349,ReEv7-351
+ReEv7-351,2. D-Series peripheral nerve,"“February 8th, 1802”",Ethan,"Haven't found any, but I did find out what we need to make one. A D-series head and an arm. This can't be right...",,N,ReEv7-350,ReEv7-352
+ReEv7-352,2. D-Series peripheral nerve,"“February 8th, 1802”",Zoe,A head? I think I have that around here somewhere.,,N,ReEv7-351,ReEv7-353
+ReEv7-353,2. D-Series peripheral nerve,"“February 8th, 1802”",Ethan,You do??,,N,ReEv7-352,ReEv7-354
+ReEv7-354,2. D-Series peripheral nerve,"“February 8th, 1802”",Zoe,"I don't know about the arm, though. Have you searched the whole house?",,N,ReEv7-353,ReEv7-355
+ReEv7-355,2. D-Series peripheral nerve,"“February 8th, 1802”",Ethan,"No, not yet. I still need to check the second floor here.",,N,ReEv7-354,ReEv7-356
+ReEv7-356,2. D-Series peripheral nerve,"“February 8th, 1802”",Zoe,"Alright, check it out. Meet me at the trailer if you find it.",,N,ReEv7-355,ReEv7-357
+ReEv7-357,2. D-Series peripheral nerve,"“February 8th, 1802”",,[Diary from the next room.],,Y,ReEv7-356,ReEv7-358
+ReEv7-358,October 11,"“February 8th, 1802”",My ears have been ringing all day and I haven't been able to sleep since the child showed up. It's like Zoe says,"There's something strange about the child, and the woman she brought with her.",,N,ReEv7-357,ReEv7-359
+ReEv7-361,October –,The child gave me a present.,Ethan, What the fuck? That's special.,(seeing a new monster) ,N,ReEv7-360,ReEv7-362
+ReEv7-362,October –,The child gave me a present.,,[Finally you find the Mother’s nest...],,Y,ReEv7-361,ReEv7-363
+ReEv7-363,October –,The child gave me a present.,The Mother of the Family,"Gotcha! Now what do you think you are doing? I'm gonna kill you, I'm gonna kill you, I'm gonna kill you!",,N,ReEv7-362,ReEv7-364
+ReEv7-364,October –,The child gave me a present.,,[After intense fight you finally kill the Mother.],,Y,ReEv7-363,ReEv7-365
+ReEv7-365,October –,The child gave me a present.,Ethan,Just fucking stay dead – OK?,,N,ReEv7-364,ReEv7-366
+ReEv7-366,October –,The child gave me a present.,,[You return to the Old House and use the Mother's lamp to open the door to the Daughter's room.],,Y,ReEv7-365,ReEv7-367
+ReEv7-367,October –,The child gave me a present.,,[Drawing],,Y,ReEv7-366,ReEv7-368
+ReEv7-369,October –,The child gave me a present.,,[Note],,Y,ReEv7-368,ReEv7-370
+ReEv7-370,October –,Somethings wrong with her.,Daughter of the Family,Stay away.,,N,ReEv7-369,ReEv7-371
+ReEv7-371,October –,Somethings wrong with her.,,"[You find the corpse of a girl and tear off her hand, which is needed for serum.]",,Y,ReEv7-370,ReEv7-372
+ReEv7-372,October –,Somethings wrong with her.,Ethan,"Ugh, god. I guess this is it.",,N,ReEv7-371,ReEv7-373
+ReEv7-373,October –,Somethings wrong with her.,Zoe,Did you find it?,,N,ReEv7-372,ReEv7-374
+ReEv7-374,October –,Somethings wrong with her.,Ethan,"Yeah, I got it. Are we really gonna be able to make a serum with this thing?",,N,ReEv7-373,ReEv7-375
+ReEv7-375,October –,Somethings wrong with her.,Zoe,"It'll be fine. After we make it, we can get out of here – together. I'll be waiting for you in the trailer.",,N,ReEv7-374,ReEv7-376
+ReEv7-376,October –,Somethings wrong with her.,,"[You are returning to the trailer, but Zoe is not there. Instead, the phone rings.]",,Y,ReEv7-375,ReEv7-377
+ReEv7-377,October –,Somethings wrong with her.,Ethan,Now where the hell are you? Never mind. We only need the head and you've got it. And this is gonna help Mia and me right?,,N,ReEv7-376,ReEv7-378
+ReEv7-378,October –,Somethings wrong with her.,The Son of the Family,"Hey, buddy! I thought you should know. I decided Zoe needed a time out She and Mia are here with me. They're keeping each other company.",,N,ReEv7-377,ReEv7-379
+ReEv7-379,October –,Somethings wrong with her.,Ethan,Just let them both go. What do you need them for?,,N,ReEv7-378,ReEv7-380
+ReEv7-380,October –,Somethings wrong with her.,The Son of the Family,"That's family business, Ethan, and not your concern understand? Now, if you want the head, feel free to come on by anytime, I’ll give it to ya! But only if you participate in a little... activity I've put together just for you.",,N,ReEv7-379,ReEv7-381
+ReEv7-381,October –,Somethings wrong with her.,Ethan,What activity?,,N,ReEv7-380,ReEv7-382
+ReEv7-382,October –,Somethings wrong with her.,The Son of the Family,"Oh, know you're excited, but don’t worry. It’s not going anywhere. First step I need you to take, partner, is for you to take a peek inside the fridge in the trailer there.",,N,ReEv7-381,ReEv7-383
+ReEv7-383,October –,Somethings wrong with her.,Ethan,Fuck you.,,N,ReEv7-382,ReEv7-384
+ReEv7-384,October –,Somethings wrong with her.,The Son of the Family,"Oh, come on now, don't be like that. You wanna have some fun, don't ya? Now, look in the fridge!",,N,ReEv7-383,ReEv7-385
+ReEv7-385,October –,Somethings wrong with her.,,[You look in the fridge and find mutated deputy’s head with a note attached to it.],,Y,ReEv7-384,ReEv7-386
+ReEv7-386,October –,Somethings wrong with her.,,[Note],,Y,ReEv7-385,ReEv7-387
+ReEv7-388,October –,Somethings wrong with her.,,[You go to the morgue in the basement of the house and examine deputy’s body.],,Y,ReEv7-387,ReEv7-389
+ReEv7-389,October –,Somethings wrong with her.,,[Legs],,Y,ReEv7-388,ReEv7-390
+ReEv7-390,October –,Somethings wrong with her.,Ethan,Rigor mortis must have set in. His joints are already stiff.,,N,ReEv7-389,ReEv7-391
+ReEv7-391,October –,Somethings wrong with her.,,[Chest],,Y,ReEv7-390,ReEv7-392
+ReEv7-392,October –,Somethings wrong with her.,Ethan,There’s a sickeningly sweet stench. He’s started rotting already.,,N,ReEv7-391,ReEv7-393
+ReEv7-393,October –,Somethings wrong with her.,,[Piece of wood with writings on it.],,Y,ReEv7-392,ReEv7-394
+ReEv7-395,October –,Somethings wrong with her.,,[You do it and get Snake Key.],,Y,ReEv7-394,ReEv7-396
+ReEv7-396,October –,Somethings wrong with her.,The Son of the Family," That pretty little thing will help you find the two keycards you're gonna need to join the party we're havin' in here. You gotta earn your way, Ethan!",(through loudspeakers) ,N,ReEv7-395,ReEv7-397
+ReEv7-397,October –,Somethings wrong with her.,,[You begin to prepare for a meeting with the Son and continue to explore the house using the key that you found.],,Y,ReEv7-396,ReEv7-398
+ReEv7-398,October –,Somethings wrong with her.,,[Photo],,Y,ReEv7-397,ReEv7-399
+ReEv7-399,October –,"Eveline, May 2, 2014",,[The Father’s Photo],,Y,ReEv7-398,ReEv7-400
+ReEv7-400,Jack joins the Marines,"April, 1980",,[Note near a clock],,Y,ReEv7-399,ReEv7-401
+ReEv7-402,Jack joins the Marines,"April, 1980",,"[You solve the riddle with the clock and go down to a secret place under the bed. There you will find black slime, hanging corpses and rot.]",,Y,ReEv7-401,ReEv7-403
+ReEv7-403,Jack joins the Marines,"April, 1980",Ethan,Oh my god.,,N,ReEv7-402,ReEv7-404
+ReEv7-404,Jack joins the Marines,"April, 1980",,[The Son’s room],,Y,ReEv7-403,ReEv7-405
+ReEv7-405,Jack joins the Marines,"April, 1980",,[Diary],,Y,ReEv7-404,ReEv7-406
+ReEv7-409,"May, nd",Now it'll be shiny even at night.,,[Another diary],,Y,ReEv7-408,ReEv7-410
+ReEv7-415,"April, th",Now she'll never find it.,,[Trophy],,Y,ReEv7-414,ReEv7-416
+ReEv7-416,"April, th","Honorable Mention, Amateur Robotics Championship, 1998",,[Trophy],,Y,ReEv7-415,ReEv7-417
+ReEv7-417,"April, th","2nd Place, 3rd Junior Engineering Contest",,[Trophy],,Y,ReEv7-416,ReEv7-418
+ReEv7-418,"April, th","3rd Place, 2nd Junior Engineering Contest",,[Attic.],,Y,ReEv7-417,ReEv7-419
+ReEv7-419,"April, th","3rd Place, 2nd Junior Engineering Contest",,[Document on the floor.],,Y,ReEv7-418,ReEv7-420
+ReEv7-420,Renovation Contract,"3rd Place, 2nd Junior Engineering Contest",Customer,Jack Baker,,N,ReEv7-419,ReEv7-421
+ReEv7-421,Renovation Contract,"3rd Place, 2nd Junior Engineering Contest",Contractor,Trevor & Chamberlain Construction,,N,ReEv7-420,ReEv7-422
+ReEv7-422,Renovation Contract,"3rd Place, 2nd Junior Engineering Contest",Construction Period,"November 10, 1992 — November 30, 1992",,N,ReEv7-421,ReEv7-423
+ReEv7-423,Renovation Contract,"3rd Place, 2nd Junior Engineering Contest",Details,Installation of shadow-activated doorway in main hall.,,N,ReEv7-422,ReEv7-424
+ReEv7-424,Renovation Contract,"3rd Place, 2nd Junior Engineering Contest",,[Finding two key cards you go out to the main hall where the phone starts ringing...],,Y,ReEv7-423,ReEv7-425
+ReEv7-425,Renovation Contract,"3rd Place, 2nd Junior Engineering Contest",The Son of the Family,"Hey buddy! Remember, those two key cards will get you into the party. Don't be late now!",,N,ReEv7-424,ReEv7-426
+ReEv7-426,Renovation Contract,"3rd Place, 2nd Junior Engineering Contest",Ethan,Let me talk to Mia!,,N,ReEv7-425,ReEv7-427
+ReEv7-427,Renovation Contract,"3rd Place, 2nd Junior Engineering Contest",The Son of the Family,"No, no, no! You gotta show up first! You haven't forgotten where the party is, have you? You can get in from the courtyard. So come on, man! Everybody's waitin' for ya!",,N,ReEv7-426,ReEv7-428
+ReEv7-428,Renovation Contract,"3rd Place, 2nd Junior Engineering Contest",,[You find a VCR and start watching the next tape.],,Y,ReEv7-427,ReEv7-429
+ReEv7-429,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",Experiment,Can trespassing idiots solve puzzles?,,N,ReEv7-428,ReEv7-430
+ReEv7-430,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",,"[At the beginning of the video, we see tied up Clancy. Son comes to him and drags him into some room.]",,Y,ReEv7-429,ReEv7-431
+ReEv7-431,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",The Son of the Family,"You, my friend, you are one lucky son of a bitch. You know, I actually envy you. What? You don't believe me? This joy? Why you can't fake this. It has taken me weeks to finish this, and it is finally ready. And it's all for you. Aw, come on now. Don't be like that. This is going to be fun. Just you wait.",,N,ReEv7-430,ReEv7-432
+ReEv7-432,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",,[You begin to explore the room.],,Y,ReEv7-431,ReEv7-433
+ReEv7-433,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",The Son of the Family," I'm calling the game, “I'd really like to make it out of this room alive and not die a horrible painful death.” I know, it’s temp title. Take a candle, light it, and put it on the cake. And remember to smile. This party is for you!",(through the loudspeakers) ,N,ReEv7-432,ReEv7-434
+ReEv7-434,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",Clancy,Fuck you.,,N,ReEv7-433,ReEv7-435
+ReEv7-435,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",,[In one of the tests you have to get the item from the littered toilet.],,Y,ReEv7-434,ReEv7-436
+ReEv7-436,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",Clancy,Fucking disgusting... this is gross.,,N,ReEv7-435,ReEv7-437
+ReEv7-437,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",,"[In another test, a mechanical clown under a mad laughter draws a code from the lock with a quill pen on your hand.]",,Y,ReEv7-436,ReEv7-438
+ReEv7-438,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",Clancy,What the fuck is this? What are you doing?,,N,ReEv7-437,ReEv7-439
+ReEv7-439,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",,[After completing the task and putting a candle on the cake everything is ignited.],,Y,ReEv7-438,ReEv7-440
+ReEv7-440,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",Clancy,Fuck! Fuck! Fuck! Fuck! Oh man! Fuck! Fuck!,,N,ReEv7-439,ReEv7-441
+ReEv7-441,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",,[You burned alive.],,Y,ReEv7-440,ReEv7-442
+ReEv7-442,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",The Son of the Family,Happy birthday.,,N,ReEv7-441,ReEv7-443
+ReEv7-443,"""Happy Birthday!!""","JUN. 02, 2017 01:11 AM",,[The video ends.],,Y,ReEv7-442,ReEv7-444
+ReEv7-444,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",,"[Having knowledge of the upcoming trap, go to battle with the Son. In the first room you are offered to sit on a chair and watch a video.]",,Y,ReEv7-443,ReEv7-445
+ReEv7-445,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",The Son of the Family,"Ethan. E-than. Ethan, Ethan – hold on, hold on, hold on. I got something for you.  Looky, looky what I got. You now what this is for? You know what Zoe wants to do with this? She’s thing is special. No, Ethan, that ain’t special. This – this right here is special.  You see, Ethan, not everybody wants to turn back the clock. What? What, Eveline? I'm just trying to show him. I'm just trying to show him that not everybody wants to go back to how things were. Zoe’s a stupid bitch! She doesn't understand that I don't wanna go back to how things were before my father found y'all. Not everybody wants to turn back the clock. So – so, Ethan. Ethan? You can, uh – you can, um, crawl around underneath that filthy, rotten house all you want looking for them ingredients, but you ain't gonna find a goddamn thing, Ethan. You wanna make that serum? Ooh, baby. You're gonna have to come through me. You hear? Well, come on, Ethan. What do you say?",(he shows you D-series Head) (he is starting to tear out his nails with pliers) ,N,ReEv7-444,ReEv7-446
+ReEv7-446,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",Ethan,Fuck.,,N,ReEv7-445,ReEv7-447
+ReEv7-447,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",The Son of the Family," Ooo, you’ve got a good eye.  What do you got against crates, Ethan? Careful, now – they bite back. Guess I'm gonna have to step up my game.",(you destroy a trap mine) (you destroy a crate) ,N,ReEv7-446,ReEv7-448
+ReEv7-448,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",,[You find a keypad.],,Y,ReEv7-447,ReEv7-449
+ReEv7-449,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",The Son of the Family,"I know – fucking passwords, right? Why don't you try 0814. No-no-no-no-no! 0621. No-no-no-no-no! It's 0514. Well, come on. Take a chance. You never know. Tick tock, tick tock.",,N,ReEv7-448,ReEv7-450
+ReEv7-450,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",,[You evade a trap and continue.],,Y,ReEv7-449,ReEv7-451
+ReEv7-451,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",The Son of the Family,"Ladies and gentlemen, boys and girls, welcome to the barn fight! Keep it clean, gentlemen – we have rules.",,N,ReEv7-450,ReEv7-452
+ReEv7-452,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",Ethan,Fuck you too.,,N,ReEv7-451,ReEv7-453
+ReEv7-453,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",The Son of the Family,"It's how you deal with hardships in life that makes you a man, Ethan! Oh, damn, that's gotta smart. Got to say, I'm impressed. Not only are you still alive, you have all your fingers and toes.",,N,ReEv7-452,ReEv7-454
+ReEv7-454,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",,[You kill big monster.],,Y,ReEv7-453,ReEv7-455
+ReEv7-455,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",The Son of the Family,"Fat man down, fat man down. Meh – he was never my favorite anyways.",,N,ReEv7-454,ReEv7-456
+ReEv7-456,THE SON’S PLAYGROUND,"JUN. 02, 2017 01:11 AM",,[Note on mutated body.],,Y,ReEv7-455,ReEv7-457
+ReEv7-457,1408,You’re next.,,[You enter the code and find yourself locked in the very trap from the video.],,Y,ReEv7-456,ReEv7-458
+ReEv7-458,1408,You’re next.,The Son of the Family,"Have a nice day.  Alright, what do you say we play a little game? All you gotta do is light the candle and put it on the cake.",(through the loudspeakers) ,N,ReEv7-457,ReEv7-459
+ReEv7-459,1408,You’re next.,Ethan,Kiss my ass.,,N,ReEv7-458,ReEv7-460
+ReEv7-460,1408,You’re next.,The Son of the Family," Ethan, language. There are children in the building – somewhere – I think. I’m not sure anymore.",(through the loudspeakers) ,N,ReEv7-459,ReEv7-461
+ReEv7-461,1408,You’re next.,,"[You solve the puzzle, but avoid igniting the room.]",,Y,ReEv7-460,ReEv7-462
+ReEv7-462,1408,You’re next.,The Son of the Family," Motherfucker! You're supposed to die! That was supposed to be for you, god damn it!",(through the loudspeakers) ,N,ReEv7-461,ReEv7-463
+ReEv7-463,1408,You’re next.,,"[Getting out to the next room, in which, apparently, the Son was in, you see Mia on the TV screen.]",,Y,ReEv7-462,ReEv7-464
+ReEv7-464,1408,You’re next.,Ethan,Mia? Mia. Mia!,,N,ReEv7-463,ReEv7-465
+ReEv7-465,1408,You’re next.,Girl,She's alive.,,N,ReEv7-464,ReEv7-466
+ReEv7-466,1408,You’re next.,Ethan,Who are you? Where are you?,,N,ReEv7-465,ReEv7-467
+ReEv7-467,1408,You’re next.,Girl,We're just beyond the pier outside that room – hurry!,,N,ReEv7-466,ReEv7-468
+ReEv7-468,1408,You’re next.,The Son of the Family," Well now, Ethan!",(on the screen) ,N,ReEv7-467,ReEv7-469
+ReEv7-469,1408,You’re next.,Ethan,The fuck do you want?,,N,ReEv7-468,ReEv7-470
+ReEv7-470,1408,You’re next.,The Son of the Family, You... dead! Guess that's not in the cards. Not yet.,(on the screen) ,N,ReEv7-469,ReEv7-471
+ReEv7-471,1408,You’re next.,Ethan,"Lucky me. Look, unless you have any more surprises up your sleeve, I suggest you–",,N,ReEv7-470,ReEv7-472
+ReEv7-472,1408,You’re next.,The Son of the Family," Now that would be tellin', Ethan. And I don't do spoilers.",(on the screen) ,N,ReEv7-471,ReEv7-473
+ReEv7-473,1408,You’re next.,Ethan,Dick.,,N,ReEv7-472,ReEv7-474
+ReEv7-474,1408,You’re next.,,[You grab D-series Head.],,Y,ReEv7-473,ReEv7-475
+ReEv7-475,1408,You’re next.,Ethan,"Finally– I'm coming, Mia.",,N,ReEv7-474,ReEv7-476
+ReEv7-476,1408,You’re next.,,"[You get to the pier, freeing Mia and the second girl from the video.]",,Y,ReEv7-475,ReEv7-477
+ReEv7-477,1408,You’re next.,Ethan,"Zoe? Zoe, I–",,N,ReEv7-476,ReEv7-478
+ReEv7-478,1408,You’re next.,Zoe,Not now. We don't have the time. Do you have both ingredients?,,N,ReEv7-477,ReEv7-479
+ReEv7-479,1408,You’re next.,Ethan,"Right here. This should be enough, right?",,N,ReEv7-478,ReEv7-480
+ReEv7-480,1408,You’re next.,Zoe,If we make 'em fast enough. My father and Lucas aren't far away.,,N,ReEv7-479,ReEv7-481
+ReEv7-481,1408,You’re next.,Mia,He's coming. Daddy's coming.,,N,ReEv7-480,ReEv7-482
+ReEv7-482,1408,You’re next.,Zoe,"Good, there's enough for two.",,N,ReEv7-481,ReEv7-483
+ReEv7-483,1408,You’re next.,Ethan,"So, after we make the serum, what's next?",,N,ReEv7-482,ReEv7-484
+ReEv7-484,1408,You’re next.,Zoe,There's a boat outside. We'll take it through the swamp. But neither of us'll get very far without the serum.,,N,ReEv7-483,ReEv7-485
+ReEv7-485,1408,You’re next.,,[You take both syringes.],,Y,ReEv7-484,ReEv7-486
+ReEv7-486,1408,You’re next.,Zoe,Hey! One of those is mine.,,N,ReEv7-485,ReEv7-487
+ReEv7-487,1408,You’re next.,,[Suddenly a huge monster bursts into the room breaking through a wall. The fight begins.],,Y,ReEv7-486,ReEv7-488
+ReEv7-488,1408,You’re next.,Monster,"Zoe! Get your ass back to the house. I will deal with you later. It's bad enough you take my new daughter from me. Now, you're plotting against me – with my own blood?!",,N,ReEv7-487,ReEv7-489
+ReEv7-489,1408,You’re next.,Ethan,"This is getting old, Jack!",,N,ReEv7-488,ReEv7-490
+ReEv7-490,1408,You’re next.,Father of the Family,Cut it out! Hungry! I'm going to kill you. Then Mia. You're not getting out of here. No one loves me. You'll choke on your blood before I'm done with you. You and that bitch Mia. Poor thing. Idiot – you can't kill me. Shitcock! Ethan! Ethan! Ethan! You're going to wish you'd had the good sense to lay down and die. I'm-gonna get ya! I'm gonna get ya! Fuck you. I can't die. But you can. You're part of the family now. I was gonna be her father. Hold still! I'm going to enjoy watching you die. Don't be scared.,,N,ReEv7-489,ReEv7-491
+ReEv7-491,1408,You’re next.,Ethan,Now I've seen everything.,,N,ReEv7-490,ReEv7-492
+ReEv7-492,1408,You’re next.,Zoe,Ethan! This way.,,N,ReEv7-491,ReEv7-493
+ReEv7-493,1408,You’re next.,Father of the Family,"Not leaving, are you?",,N,ReEv7-492,ReEv7-494
+ReEv7-494,1408,You’re next.,Zoe,Use the serum on him!,,N,ReEv7-493,ReEv7-495
+ReEv7-495,1408,You’re next.,Ethan,You want me to cure him?!,,N,ReEv7-494,ReEv7-496
+ReEv7-496,1408,You’re next.,,[You stick a syringe into a monster and it petrifies.],,Y,ReEv7-495,ReEv7-497
+ReEv7-497,1408,You’re next.,Zoe,Are you alright?,,N,ReEv7-496,ReEv7-498
+ReEv7-498,1408,You’re next.,Ethan,Yeah.,,N,ReEv7-497,ReEv7-499
+ReEv7-499,1408,You’re next.,Zoe,Come on. Mia's waiting for us.,,N,ReEv7-498,ReEv7-500
+ReEv7-500,1408,You’re next.,,[You go to the pier where you have to decide - to cure Mia or Zoe.],,Y,ReEv7-499,ReEv7-501
+ReEv7-501,1408,You’re next.,Ethan,I had to use one of them. There's only one left.,,N,ReEv7-500,ReEv7-502
+ReEv7-502,1408,You’re next.,Mia,There's only one left? There can't just be one left.,,N,ReEv7-501,ReEv7-503
+ReEv7-503,1408,You’re next.,Zoe,What the hell are we gonna do now?,,N,ReEv7-502,ReEv7-504
+ReEv7-504,1408,You’re next.,,[You choose to cure Mia.],,Y,ReEv7-503,ReEv7-505
+ReEv7-505,1408,You’re next.,Zoe,Its fine. It was foolish thinking I could escape.,,N,ReEv7-504,ReEv7-506
+ReEv7-506,1408,You’re next.,Mia,But Zoe–,,N,ReEv7-505,ReEv7-507
+ReEv7-507,1408,You’re next.,Zoe,Go. Both of you just go!,,N,ReEv7-506,ReEv7-508
+ReEv7-508,1408,You’re next.,Mia,Come with us. I'm sure there's someone who can help–,,N,ReEv7-507,ReEv7-509
+ReEv7-509,1408,You’re next.,Zoe,"This is my home. Apparently, I belong here.",,N,ReEv7-508,ReEv7-510
+ReEv7-510,1408,You’re next.,Ethan,I’ll send help.,,N,ReEv7-509,ReEv7-511
+ReEv7-511,1408,You’re next.,Zoe, Don't bother! There won't be anyone left to help.,(screams in anger) ,N,ReEv7-510,ReEv7-512
+ReEv7-512,1408,You’re next.,,[You and Mia sail away in a boat.],,Y,ReEv7-511,ReEv7-513
+ReEv7-513,1408,You’re next.,Mia,"Ethan, thank you.",,N,ReEv7-512,ReEv7-514
+ReEv7-514,1408,You’re next.,Ethan,Who the hell else was I going to choose?,,N,ReEv7-513,ReEv7-515
+ReEv7-515,1408,You’re next.,Mia,Ethan!,,N,ReEv7-514,ReEv7-516
+ReEv7-516,1408,You’re next.,Ethan,"Mia, I know you've been through a lot. But we need to talk. You had something to do with all of this, didn't you? Look, I just wanna know the truth.",,N,ReEv7-515,ReEv7-517
+ReEv7-517,1408,You’re next.,Mia,"Ethan, I honestly don't remember.",,N,ReEv7-516,ReEv7-518
+ReEv7-518,1408,You’re next.,Ethan,Try.  Is that the boat? How the fuck did that get here?,(sees giant ship) ,N,ReEv7-517,ReEv7-519
+ReEv7-519,1408,You’re next.,,[The boat stumbles upon something.],,Y,ReEv7-518,ReEv7-520
+ReEv7-520,1408,You’re next.,Ethan,You're OK. What the hell was that? What the fuck? What is that? What is that?,,N,ReEv7-519,ReEv7-521
+ReEv7-521,1408,You’re next.,,[Your boat is covered with black slime and something flip it over. You and Mia are drowning.],,Y,ReEv7-520,ReEv7-522
+ReEv7-522,1408,You’re next.,Eveline, Mommy. This way.,(against black screen) ,N,ReEv7-521,ReEv7-523
+ReEv7-523,THE SHIP,You’re next.,Mia,How? Ethan! Ethan? Ethan!,,N,ReEv7-522,ReEv7-524
+ReEv7-524,THE SHIP,You’re next.,,[The black slime takes Ethan away.],,Y,ReEv7-523,ReEv7-525
+ReEv7-525,THE SHIP,You’re next.,Mia,What was that?,,N,ReEv7-524,ReEv7-526
+ReEv7-526,THE SHIP,You’re next.,,"[In one of the rooms, Mia sees a vision...]",,Y,ReEv7-525,ReEv7-527
+ReEv7-527,THE SHIP,You’re next.,Worker 1,They’re dead! They’re all dead!,,N,ReEv7-526,ReEv7-528
+ReEv7-528,THE SHIP,You’re next.,Worker 2,What is it?,,N,ReEv7-527,ReEv7-529
+ReEv7-529,THE SHIP,You’re next.,Worker 1,The engine room!,,N,ReEv7-528,ReEv7-530
+ReEv7-530,THE SHIP,You’re next.,Worker 2,What the fuck are you talking about?,,N,ReEv7-529,ReEv7-531
+ReEv7-531,THE SHIP,You’re next.,Worker 1,She killed them all.,,N,ReEv7-530,ReEv7-532
+ReEv7-532,THE SHIP,You’re next.,Worker 2,Fuck... What the hell is going on?,,N,ReEv7-531,ReEv7-533
+ReEv7-533,THE SHIP,You’re next.,Worker 1,We need some weapons. Is there any weapons on this ship?,,N,ReEv7-532,ReEv7-534
+ReEv7-534,THE SHIP,You’re next.,Worker 2,"I don’t know, but… Let's go this way, maybe we can get out of here.",,N,ReEv7-533,ReEv7-535
+ReEv7-535,THE SHIP,You’re next.,,[The vision ends.],,Y,ReEv7-534,ReEv7-536
+ReEv7-536,THE SHIP,You’re next.,,[Note on a table],,Y,ReEv7-535,ReEv7-537
+ReEv7-537,Physician Gerald Waddell,Communications Technician Jim Stockman,,[Rotten corpse in a locker],,Y,ReEv7-536,ReEv7-538
+ReEv7-538,Physician Gerald Waddell,Communications Technician Jim Stockman,Mia,He must have been hiding from something.,,N,ReEv7-537,ReEv7-539
+ReEv7-539,Physician Gerald Waddell,Communications Technician Jim Stockman,,[Writing on a wall],,Y,ReEv7-538,ReEv7-540
+ReEv7-540,She is not my child,Communications Technician Jim Stockman,,[Writing on a wall],,Y,ReEv7-539,ReEv7-541
+ReEv7-541,She is not my child,She's inside me. She's inside everyone.,,[The Ship Photo],,Y,ReEv7-540,ReEv7-542
+ReEv7-543,She is not my child,Built: 1987,Deadweight Tonnage,"71,000",,N,ReEv7-542,ReEv7-544
+ReEv7-544,She is not my child,Built: 1987,Length,948 feet / 289 meters,,N,ReEv7-543,ReEv7-545
+ReEv7-545,She is not my child,Built: 1987,,[Another vision…],,Y,ReEv7-544,ReEv7-546
+ReEv7-546,She is not my child,Built: 1987,Worker 3,"Settle down, little girl, just settle down.",,N,ReEv7-545,ReEv7-547
+ReEv7-547,She is not my child,Built: 1987,,[Eveline kills the worker and moves from vision to reality.],,Y,ReEv7-546,ReEv7-548
+ReEv7-548,She is not my child,Built: 1987,Eveline,Are you remembering?,,N,ReEv7-547,ReEv7-549
+ReEv7-549,She is not my child,Built: 1987,Mia,What? What are you?,,N,ReEv7-548,ReEv7-550
+ReEv7-550,She is not my child,Built: 1987,,[She laughs and disappears. After a while you meet again.],,Y,ReEv7-549,ReEv7-551
+ReEv7-551,She is not my child,Built: 1987,Eveline,You said we could be a family.,,N,ReEv7-550,ReEv7-552
+ReEv7-552,She is not my child,Built: 1987,Mia,What are you talking about?,,N,ReEv7-551,ReEv7-553
+ReEv7-553,She is not my child,Built: 1987,Eveline,You said!,,N,ReEv7-552,ReEv7-554
+ReEv7-554,She is not my child,Built: 1987,Mia,Wait! Please!,,N,ReEv7-553,ReEv7-555
+ReEv7-555,She is not my child,Built: 1987,Eveline,I'm tired of waiting.,,N,ReEv7-554,ReEv7-556
+ReEv7-556,She is not my child,Built: 1987,,"[She disappears again, locking the door behind her and barricading it with black slime. After a few minutes you find her sitting in a chair near a TV with VCR.]",,Y,ReEv7-555,ReEv7-557
+ReEv7-557,She is not my child,Built: 1987,Eveline,Watch it.,,N,ReEv7-556,ReEv7-558
+ReEv7-558,She is not my child,Built: 1987,Mia,What? Why?,,N,ReEv7-557,ReEv7-559
+ReEv7-559,She is not my child,Built: 1987,Eveline,You need to remember – so we can be a family.,,N,ReEv7-558,ReEv7-560
+ReEv7-560,She is not my child,Built: 1987,,[You watch the “Old Videotape”.],,Y,ReEv7-559,ReEv7-561
+ReEv7-561,Sea Transport Log - Top Secret,"OCT.05, 2014 08:37 PM",Mia,"Alan, you're getting worse.",,N,ReEv7-560,ReEv7-562
+ReEv7-562,Sea Transport Log - Top Secret,"OCT.05, 2014 08:37 PM",Alan,She must have infected me during the attack. And I'm too far gone anyway. But it serves me right. It's my fault she got out.,,N,ReEv7-561,ReEv7-563
+ReEv7-563,Sea Transport Log - Top Secret,"OCT.05, 2014 08:37 PM",Mia,"Yeah, it is your fault. But that doesn't mean I'm gonna let you die.",,N,ReEv7-562,ReEv7-564
+ReEv7-564,Sea Transport Log - Top Secret,"OCT.05, 2014 08:37 PM",Alan,She didn't attack you?,,N,ReEv7-563,ReEv7-565
+ReEv7-565,Sea Transport Log - Top Secret,"OCT.05, 2014 08:37 PM",Mia,It's part of her imprinting protocol. I can't believe this is happening.,,N,ReEv7-564,ReEv7-566
+ReEv7-566,Sea Transport Log - Top Secret,"OCT.05, 2014 08:37 PM",Alan,"Here, take it. It has her tissue samples. You find her – you fix this.",,N,ReEv7-565,ReEv7-567
+ReEv7-567,Sea Transport Log - Top Secret,"OCT.05, 2014 08:37 PM",Mia," OK, Evie. Where are you?",(reloading assault rifle) ,N,ReEv7-566,ReEv7-568
+ReEv7-568,Sea Transport Log - Top Secret,"OCT.05, 2014 08:37 PM",,[Document on a table],,Y,ReEv7-567,ReEv7-569
+ReEv7-574,Special Operations Division,"OCT.05, 2014 08:37 PM",,[You start looking for Eveline using the smartwatch locator.],,Y,ReEv7-573,ReEv7-575
+ReEv7-575,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,She's close.,,N,ReEv7-574,ReEv7-576
+ReEv7-576,Special Operations Division,"OCT.05, 2014 08:37 PM",,[You find a huge pile of black vomit.],,Y,ReEv7-575,ReEv7-577
+ReEv7-577,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,"She's vomiting… Damn, I'll have to reset.",,N,ReEv7-576,ReEv7-578
+ReEv7-578,Special Operations Division,"OCT.05, 2014 08:37 PM",Alan,How's it going?,,N,ReEv7-577,ReEv7-579
+ReEv7-579,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,She's vomiting. Far more in excess of her body mass.,,N,ReEv7-578,ReEv7-580
+ReEv7-580,Special Operations Division,"OCT.05, 2014 08:37 PM",Alan,"Oh great. We're gonna be seeing a lot more of her ugly friends if this keeps up. Alright, we need to find her and fast. This is getting out of hand.",,N,ReEv7-579,ReEv7-581
+ReEv7-581,Special Operations Division,"OCT.05, 2014 08:37 PM",,[Going down the elevator and going through several corridors you call Alan again.],,Y,ReEv7-580,ReEv7-582
+ReEv7-582,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,"Alan. I think she's on the other side of this door, but I don’t have a key.",,N,ReEv7-581,ReEv7-583
+ReEv7-583,Special Operations Division,"OCT.05, 2014 08:37 PM",Alan,"Try to melt down the lock. You're on the bottom level, right? Check our luggage.",,N,ReEv7-582,ReEv7-584
+ReEv7-584,Special Operations Division,"OCT.05, 2014 08:37 PM",,[You melt the lock with a blowtorch and go inside.],,Y,ReEv7-583,ReEv7-585
+ReEv7-585,Special Operations Division,"OCT.05, 2014 08:37 PM",Eveline,"Are you mad at me, mommy?",,N,ReEv7-584,ReEv7-586
+ReEv7-586,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,"Evie, I'm not mad. Wait, what did you call me?",,N,ReEv7-585,ReEv7-587
+ReEv7-587,Special Operations Division,"OCT.05, 2014 08:37 PM",Eveline,I don't want to live at the lab anymore. I want a house. And I want you to be my mommy.,,N,ReEv7-586,ReEv7-588
+ReEv7-588,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,"OK, Evie, I'll be your mommy. Just come back with me right now, OK? Where are you, Evie? Evie, wait!",,N,ReEv7-587,ReEv7-589
+ReEv7-589,Special Operations Division,"OCT.05, 2014 08:37 PM",,[You call Alan.],,Y,ReEv7-588,ReEv7-590
+ReEv7-590,Special Operations Division,"OCT.05, 2014 08:37 PM",Alan,Did you find her?,,N,ReEv7-589,ReEv7-591
+ReEv7-591,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,"Yes, but she ran off. She's making more friends, Alan. Those things are everywhere.",,N,ReEv7-590,ReEv7-592
+ReEv7-592,Special Operations Division,"OCT.05, 2014 08:37 PM",Alan,I told you so. (coughs],,N,ReEv7-591,ReEv7-593
+ReEv7-593,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,Are you OK?,,N,ReEv7-592,ReEv7-594
+ReEv7-594,Special Operations Division,"OCT.05, 2014 08:37 PM",Alan,You just worry about getting Eveline back.,,N,ReEv7-593,ReEv7-595
+ReEv7-595,Special Operations Division,"OCT.05, 2014 08:37 PM",Warning System,Emergency Safety Lockdown system has been engaged.,,N,ReEv7-594,ReEv7-596
+ReEv7-596,Special Operations Division,"OCT.05, 2014 08:37 PM",,[Writing on a wall],,Y,ReEv7-595,ReEv7-597
+ReEv7-598,Special Operations Division,"OCT.05, 2014 08:37 PM",,"[You try to call Alan, but he’s not answering.]",,Y,ReEv7-597,ReEv7-599
+ReEv7-599,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,"Alan? Alan, where the hell are you?",,N,ReEv7-598,ReEv7-600
+ReEv7-600,Special Operations Division,"OCT.05, 2014 08:37 PM",,"[However, you will soon find him.]",,Y,ReEv7-599,ReEv7-601
+ReEv7-601,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,How did you get here?,,N,ReEv7-600,ReEv7-602
+ReEv7-602,Special Operations Division,"OCT.05, 2014 08:37 PM",Alan,Where's Evie?,,N,ReEv7-601,ReEv7-603
+ReEv7-603,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,She's out of control. Without the treatments she's deteriorating.,,N,ReEv7-602,ReEv7-604
+ReEv7-604,Special Operations Division,"OCT.05, 2014 08:37 PM",Alan,"Well, it's a good thing I'm already dying. (coughs]",,N,ReEv7-603,ReEv7-605
+ReEv7-605,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,Don't say that.,,N,ReEv7-604,ReEv7-606
+ReEv7-606,Special Operations Division,"OCT.05, 2014 08:37 PM",Alan,"She trusts you. That little bitch, she never–  I didn't mean to call you that, Evie.",(wave his hands in the air) ,N,ReEv7-605,ReEv7-607
+ReEv7-607,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,She's trying to take control. You have to fight her.,,N,ReEv7-606,ReEv7-608
+ReEv7-608,Special Operations Division,"OCT.05, 2014 08:37 PM",,[Alan begins to cover with black slime and vomits.],,Y,ReEv7-607,ReEv7-609
+ReEv7-609,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,"Eveline, stop! Stop right now!",,N,ReEv7-608,ReEv7-610
+ReEv7-610,Special Operations Division,"OCT.05, 2014 08:37 PM",Alan,Don't touch me!,,N,ReEv7-609,ReEv7-611
+ReEv7-611,Special Operations Division,"OCT.05, 2014 08:37 PM",,"[He dies in terrible agony. You go into the next room, sit down at the laptop and make the same record from the beginning of the game.]",,Y,ReEv7-610,ReEv7-612
+ReEv7-612,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,"Ethan. You were right. I did lie to you. I shouldn't have, but... All I can say is that if you get this... Stay away. Forget that you ever knew me. Have a good life.",,N,ReEv7-611,ReEv7-613
+ReEv7-613,Special Operations Division,"OCT.05, 2014 08:37 PM",Eveline,We'll be together forever.,,N,ReEv7-612,ReEv7-614
+ReEv7-614,Special Operations Division,"OCT.05, 2014 08:37 PM",,[Eveline blows up the ship and Mia sinks into the water. The tape ends.],,Y,ReEv7-613,ReEv7-615
+ReEv7-615,Special Operations Division,"OCT.05, 2014 08:37 PM",Eveline,Now do you remember?,,N,ReEv7-614,ReEv7-616
+ReEv7-616,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,"Yes, Eveline, I remember.",,N,ReEv7-615,ReEv7-617
+ReEv7-617,Special Operations Division,"OCT.05, 2014 08:37 PM",Eveline,Can we be a family like before?,,N,ReEv7-616,ReEv7-618
+ReEv7-618,Special Operations Division,"OCT.05, 2014 08:37 PM",Mia,"No, Evie. We can't be a family. We were never a family. We will never be a family.",,N,ReEv7-617,ReEv7-619
+ReEv7-619,Special Operations Division,"OCT.05, 2014 08:37 PM",Eveline,Then I don't need you anymore. (laughs],,N,ReEv7-618,ReEv7-620
+ReEv7-620,Special Operations Division,"OCT.05, 2014 08:37 PM",,[Case],,Y,ReEv7-619,ReEv7-621
+ReEv7-622,Special Operations Division,"OCT.05, 2014 08:37 PM",,[Note in the case],,Y,ReEv7-621,ReEv7-623
+ReEv7-623,Do this placing sample into the,necr xin container.,,[You find security cameras monitor.],,Y,ReEv7-622,ReEv7-624
+ReEv7-624,Do this placing sample into the,necr xin container.,Mia,"Maybe it still works. Ethan– I hope I make it in time. OK, bottom level.",,N,ReEv7-623,ReEv7-625
+ReEv7-625,Do this placing sample into the,necr xin container.,Eveline,(grab Mia’s hand) Liar.,,N,ReEv7-624,ReEv7-626
+ReEv7-626,Do this placing sample into the,necr xin container.,Mia,"Stop it, Eveline!  Fucking hallucinations. Where is she?",(Eveline disappears) ,N,ReEv7-625,ReEv7-627
+ReEv7-627,Do this placing sample into the,necr xin container.,,[Note in elevator],,Y,ReEv7-626,ReEv7-628
+ReEv7-631,Dwayne,necr xin container.,,[Magazine],,Y,ReEv7-630,ReEv7-632
+ReEv7-633,Dwayne,necr xin container.,,[Letter],,Y,ReEv7-632,ReEv7-634
+ReEv7-642,"Love, Jim","Dear Janet,",,[Magazine],,Y,ReEv7-641,ReEv7-643
+ReEv7-643,"Love, Jim","Dear Janet,",“Amazon River Cruise Guide,Beauty in the Black Lagoon”,,N,ReEv7-642,ReEv7-644
+ReEv7-644,"Love, Jim","Dear Janet,",,[Diary],,Y,ReEv7-643,ReEv7-645
+ReEv7-649,"Love, Jim","Dear Janet,",I woke up at 19:30,"there was some sort of ruckus in the passageway. Drew, one of the engineers, came in and said there was something going on down below, maybe a riot.",,N,ReEv7-648,ReEv7-650
+ReEv7-655,"Love, Jim","Dear Janet,",And that's it,I've written everything I know.,,N,ReEv7-654,ReEv7-656
+ReEv7-656,Giovanni Finetti,"Dear Janet,",,[Soon you find Eveline and Ethan glued to the wall with black slime.],,Y,ReEv7-655,ReEv7-657
+ReEv7-657,Giovanni Finetti,"Dear Janet,",Mia,Ethan.,,N,ReEv7-656,ReEv7-658
+ReEv7-658,Giovanni Finetti,"Dear Janet,",Eveline,He's waiting.,,N,ReEv7-657,ReEv7-659
+ReEv7-659,Giovanni Finetti,"Dear Janet,",,[Eveline infects Mia and the screen goes dark. You hear Eveline’s whisper.],,Y,ReEv7-658,ReEv7-660
+ReEv7-660,Giovanni Finetti,"Dear Janet,",Eveline,I need you to do something for me.,,N,ReEv7-659,ReEv7-661
+ReEv7-661,Giovanni Finetti,"Dear Janet,",,[You open your eyes in Ethan's body. Everything feels like a dream...],,Y,ReEv7-660,ReEv7-662
+ReEv7-662,Giovanni Finetti,"Dear Janet,",Jack Baker,"Ethan. Ethan. I know, I know. I know – I'm not going to hurt you. Hell, I never would have if I could have helped it.",,N,ReEv7-661,ReEv7-663
+ReEv7-663,Giovanni Finetti,"Dear Janet,",Ethan,What do you mean?,,N,ReEv7-662,ReEv7-664
+ReEv7-664,Giovanni Finetti,"Dear Janet,",Jack Baker,"I'm no killer, son. Neither is Marguerite, nor my boy Lucas. Or even Zoe here. That girl, Eveline, she did this.",,N,ReEv7-663,ReEv7-665
+ReEv7-665,Giovanni Finetti,"Dear Janet,",Ethan,What the hell is she? Now that did she do to you?,,N,ReEv7-664,ReEv7-666
+ReEv7-666,Giovanni Finetti,"Dear Janet,",Jack Baker,She infected us with her gift. That's what she calls it. I found her near a busted-out tanker in the bayou. Everything changed after that.,,N,ReEv7-665,ReEv7-667
+ReEv7-667,Giovanni Finetti,"Dear Janet,",Ethan,"So she infects you, and then she takes control?",,N,ReEv7-666,ReEv7-668
+ReEv7-668,Giovanni Finetti,"Dear Janet,",Jack Baker,"No, not exactly, son. She just – she forces her way into your mind and your soul and… you can't fight back. You are connected to her and you can't resist the urge to… You're a different person after that.",,N,ReEv7-667,ReEv7-669
+ReEv7-669,Giovanni Finetti,"Dear Janet,",Ethan,So Mia sent me that message because of Eveline.,,N,ReEv7-668,ReEv7-670
+ReEv7-670,Giovanni Finetti,"Dear Janet,",Jack Baker,"Listen, the girl just wants a family of her own. She's the key, alright? You find her and you stop her. Ethan free my family – please.",,N,ReEv7-669,ReEv7-671
+ReEv7-671,Giovanni Finetti,"Dear Janet,",,"[The scene ends and you return to the real world. On the background of a black screen, you hear Mia's voice.]",,Y,ReEv7-670,ReEv7-672
+ReEv7-672,Giovanni Finetti,"Dear Janet,",Mia,"Eveline, stay away from him.",,N,ReEv7-671,ReEv7-673
+ReEv7-673,Giovanni Finetti,"Dear Janet,",Eveline,Why? He doesn't love you. I can make him love you.,,N,ReEv7-672,ReEv7-674
+ReEv7-674,Giovanni Finetti,"Dear Janet,",Mia,Don't – Don't hurt him.,,N,ReEv7-673,ReEv7-675
+ReEv7-675,Giovanni Finetti,"Dear Janet,",Eveline,Silly – I told you. I'm not going to hurt him.,,N,ReEv7-674,ReEv7-676
+ReEv7-676,Giovanni Finetti,"Dear Janet,",Mia,Don't you dare.,,N,ReEv7-675,ReEv7-677
+ReEv7-677,Giovanni Finetti,"Dear Janet,",Eveline,"Or, what? You're not my mommy – remember.",,N,ReEv7-676,ReEv7-678
+ReEv7-678,Giovanni Finetti,"Dear Janet,",,[Mia frees you from the black slime.],,Y,ReEv7-677,ReEv7-679
+ReEv7-679,Giovanni Finetti,"Dear Janet,",Ethan,Mia? Mia? How?,,N,ReEv7-678,ReEv7-680
+ReEv7-680,Giovanni Finetti,"Dear Janet,",Mia,"There's no time. You have to get out of here and find her. Here, take this.",,N,ReEv7-679,ReEv7-681
+ReEv7-681,Giovanni Finetti,"Dear Janet,",Ethan,Wait–wait–what are you doing? What are you doing?,,N,ReEv7-680,ReEv7-682
+ReEv7-682,Giovanni Finetti,"Dear Janet,",Mia,Saving your life.,,N,ReEv7-681,ReEv7-683
+ReEv7-683,Giovanni Finetti,"Dear Janet,",,[She pushes you out of the cabin and closes the door.],,Y,ReEv7-682,ReEv7-684
+ReEv7-684,Giovanni Finetti,"Dear Janet,",Mia,"You need to go. I won't be able to resist for much longer. Now, go kill that little bitch.",,N,ReEv7-683,ReEv7-685
+ReEv7-685,Giovanni Finetti,"Dear Janet,",Ethan,"No-no. Mia-no! OK, you little bitch, where the fuck are you?",,N,ReEv7-684,ReEv7-686
+ReEv7-686,Giovanni Finetti,"Dear Janet,",,[You go through the swamps to the pier of the old mine.],,Y,ReEv7-685,ReEv7-687
+ReEv7-687,Giovanni Finetti,"Dear Janet,",,[Note],,Y,ReEv7-686,ReEv7-688
+ReEv7-689,Giovanni Finetti,"February 18, 1892",Old man Stan was right,the ground there is too unstable.,,N,ReEv7-688,ReEv7-690
+ReEv7-691,Giovanni Finetti,I can't wait to get back to the old country.,,[Rusty sign],,Y,ReEv7-690,ReEv7-692
+ReEv7-692,"Abercrombie Salt Mine, South Dulvey",I can't wait to get back to the old country.,,[Helicopter photo],,Y,ReEv7-691,ReEv7-693
+ReEv7-693,"Abercrombie Salt Mine, South Dulvey",Are they watching us from that helicopter?,,[You hear the Special Forces talks on the radio.],,Y,ReEv7-692,ReEv7-694
+ReEv7-694,"Abercrombie Salt Mine, South Dulvey",Are they watching us from that helicopter?,Bravo 1,Alpha 1–this is Bravo 1–do you read? This is Alpha 1. Report. Did you find anything?,,N,ReEv7-693,ReEv7-695
+ReEv7-695,"Abercrombie Salt Mine, South Dulvey",Are they watching us from that helicopter?,Alpha 1,"A thorough search of the Baker property revealed zero survivors- Repeat, zero survivors. We did find evidence of a skirmish.",,N,ReEv7-694,ReEv7-696
+ReEv7-696,"Abercrombie Salt Mine, South Dulvey",Are they watching us from that helicopter?,Bravo 1,Eveline?,,N,ReEv7-695,ReEv7-697
+ReEv7-697,"Abercrombie Salt Mine, South Dulvey",Are they watching us from that helicopter?,Alpha 1,"Negative. However, we did find several encrypted messages from the Baker's son, Lucas, to an unknown third party. You can probably guess who that was.",,N,ReEv7-696,ReEv7-698
+ReEv7-698,"Abercrombie Salt Mine, South Dulvey",Are they watching us from that helicopter?,Bravo 1,That's just great. We've had reports he's in the abandoned mines sough of the property. I'm gonna go have a look.,,N,ReEv7-697,ReEv7-699
+ReEv7-699,"Abercrombie Salt Mine, South Dulvey",Are they watching us from that helicopter?,Alpha 1,Roger that. We'll meet you at those coordinates.,,N,ReEv7-698,ReEv7-700
+ReEv7-700,"Abercrombie Salt Mine, South Dulvey",Are they watching us from that helicopter?,Bravo 1,If you encounter Eveline – orders are shoot to kill. Repeat–shoot to kill.,,N,ReEv7-699,ReEv7-701
+ReEv7-701,SALT MINE,Are they watching us from that helicopter?,,[Email on notebook],,Y,ReEv7-700,ReEv7-702
+ReEv7-710,SALT MINE,"Friday, September 1, 2016 1:10 AM",,[Infection report],,Y,ReEv7-709,ReEv7-711
+ReEv7-718,Complete Infection,"Friday, September 1, 2016 1:10 AM",,[First photo],,Y,ReEv7-717,ReEv7-719
+ReEv7-719,Complete Infection,"Friday, September 1, 2016 1:10 AM",“5 mins after dose,vomiting”,,N,ReEv7-718,ReEv7-720
+ReEv7-720,Complete Infection,"Friday, September 1, 2016 1:10 AM",,[Second photo],,Y,ReEv7-719,ReEv7-721
+ReEv7-721,Complete Infection,"Friday, September 1, 2016 1:10 AM",“E-Necrotoxin,E-Series Dosage Test”,,N,ReEv7-720,ReEv7-722
+ReEv7-722,Complete Infection,"Friday, September 1, 2016 1:10 AM",,[Third photo],,Y,ReEv7-721,ReEv7-723
+ReEv7-723,Complete Infection,"Friday, September 1, 2016 1:10 AM",“10 mins after dose,death”,,N,ReEv7-722,ReEv7-724
+ReEv7-724,Complete Infection,"Friday, September 1, 2016 1:10 AM",,[Forth photo],,Y,ReEv7-723,ReEv7-725
+ReEv7-725,Complete Infection,"Friday, September 1, 2016 1:10 AM",“12 mins after dose,cell calcification”,,N,ReEv7-724,ReEv7-726
+ReEv7-726,Complete Infection,"Friday, September 1, 2016 1:10 AM",,[Note in the case],,Y,ReEv7-725,ReEv7-727
+ReEv7-729,E-Necrotoxin,"Friday, September 1, 2016 1:10 AM",,[You make E-Necrotoxin from Eveline tissue sample.],,Y,ReEv7-728,ReEv7-730
+ReEv7-730,E-Necrotoxin,"Friday, September 1, 2016 1:10 AM",,[Report],,Y,ReEv7-729,ReEv7-731
+ReEv7-738,E-Necrotoxin,"Friday, September 1, 2016 1:10 AM",,[Eveline medical report],,Y,ReEv7-737,ReEv7-739
+ReEv7-743,E-Necrotoxin,"Friday, September 1, 2016 1:10 AM",,"[You continue to explore the salt caves. Suddenly, Eveline wakes some monsters to kill you.]",,Y,ReEv7-742,ReEv7-744
+ReEv7-744,E-Necrotoxin,"Friday, September 1, 2016 1:10 AM",Eveline,Die!,,N,ReEv7-743,ReEv7-745
+ReEv7-745,E-Necrotoxin,"Friday, September 1, 2016 1:10 AM",Ethan,Fuck!,,N,ReEv7-744,ReEv7-746
+ReEv7-746,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,[You get into Bakers House and find a room where Mia was held. You remember the moment when Mia was looking for a non-existent door and seemed crazy.],,Y,ReEv7-745,ReEv7-747
+ReEv7-747,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,[Then you see Mia attack you with a hatchet.],,Y,ReEv7-746,ReEv7-748
+ReEv7-748,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Eveline,This is your fault.,,N,ReEv7-747,ReEv7-749
+ReEv7-749,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Ethan,Why am I seeing this?,,N,ReEv7-748,ReEv7-750
+ReEv7-750,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,"[Next, you see the scene of an unexpected encounter with Mia's after ill-fated battle. You understand that behind all this was Eveline, manipulating people like puppets.]",,Y,ReEv7-749,ReEv7-751
+ReEv7-751,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Eveline,He doesn't want to be my Daddy? Then he can die. Now it's Mommy's turn to kill you. You're gonna be one of us. Then maybe you'll play nicely.,,N,ReEv7-750,ReEv7-752
+ReEv7-752,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Ethan,I'm not playing.,,N,ReEv7-751,ReEv7-753
+ReEv7-753,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,[You show Eveline your syringe.],,Y,ReEv7-752,ReEv7-754
+ReEv7-754,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Eveline,No! Get that away from me!,,N,ReEv7-753,ReEv7-755
+ReEv7-755,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,"[You are fighting with Mia again, but this is no longer a fight, but rather an overcoming of an obstacle. She struggles to control her body.]",,Y,ReEv7-754,ReEv7-756
+ReEv7-756,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Mia,Forget about me! It all has to come down. I don't want to hurt you. I don't need your pity! Contained. She must be contained.,,N,ReEv7-755,ReEv7-757
+ReEv7-757,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,"[In the end, you find Eveline in the attic and try to give her a shot.]",,Y,ReEv7-756,ReEv7-758
+ReEv7-758,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Eveline,Stay away! No you don't! No no no! (scream],,N,ReEv7-757,ReEv7-759
+ReEv7-759,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,[You manage to inject Eveline with E-Necrotoxin. The light flashes and she turns into Granny Baker.],,Y,ReEv7-758,ReEv7-760
+ReEv7-760,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Ethan,You?,,N,ReEv7-759,ReEv7-761
+ReEv7-761,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Eveline, Why does everyone hate me?,(cries) ,N,ReEv7-760,ReEv7-762
+ReEv7-762,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,[She's begin to decompose.],,Y,ReEv7-761,ReEv7-763
+ReEv7-763,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Ethan,"Goodbye, Eveline.",,N,ReEv7-762,ReEv7-764
+ReEv7-764,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Eveline,It hurts! It hurts! It hurts!,,N,ReEv7-763,ReEv7-765
+ReEv7-765,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,[The whole house turns into a giant monster of black mucus. Ethan fights it to the last bullet and the most seemingly hopeless moment wins. The militaries arrives. One of them walks over to Ethan and takes off his mask.],,Y,ReEv7-764,ReEv7-766
+ReEv7-766,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Soldier,I'm Redfield. I'm glad we found you.,,N,ReEv7-765,ReEv7-767
+ReEv7-767,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Ethan,The fuck took you guys so long?,,N,ReEv7-766,ReEv7-768
+ReEv7-768,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,"[The heroes fly away on a helicopter. You see a wide shot on the house, turned into a monster. However, there is someone else who escaped...]",,Y,ReEv7-767,ReEv7-769
+ReEv7-769,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Mia,Ethan?,,N,ReEv7-768,ReEv7-770
+ReEv7-770,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Ethan,Mia– You made it. I'm glad.,,N,ReEv7-769,ReEv7-771
+ReEv7-771,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Mia,Did I?,,N,ReEv7-770,ReEv7-772
+ReEv7-772,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,"[You look at the beauty of the Louisiana nature. Ethan, speaking to himself, sums up his adventures.]",,Y,ReEv7-771,ReEv7-773
+ReEv7-773,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Ethan,"They say that when one door closes, another opens. Well, a door closed tonight. And what a long night it was–but not just for me. Mia and I weren't the only victims here. So were the Bakers. It was that… thing, Eveline, who made them that way. But now Eveline’s dead.",,N,ReEv7-772,ReEv7-774
+ReEv7-774,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",,[You see a sign on a helicopter “Umbrella Corporation”.],,Y,ReEv7-773,ReEv7-775
+ReEv7-775,BAKER’S HOUSE,"Friday, September 1, 2016 1:10 AM",Ethan,And these guys are here to clean up the mess. I had Just come to terms with losing Mia. But now she’s back and wants to start over– put all of this behind us. Maybe this is where the next door opens,,N,ReEv7-774,ReEv7-776

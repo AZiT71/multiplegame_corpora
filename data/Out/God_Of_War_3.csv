@@ -1,0 +1,388 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+GoOfWa3-1,,,﻿KRATOS,My vengeance ends now.,,N,,GoOfWa3-2
+GoOfWa3-2,,,,"[Titans led by Kratos siege Olympus. Against this background, Zeus motivating the rest of the gods.]",,Y,GoOfWa3-1,GoOfWa3-3
+GoOfWa3-3,,,ZEUS,"My brothers. We were forged in victory. A victory that ended the great war and brought forth the reign of mount Olympus. Born from the depths of the underworld, rooted in the river of souls, our mountain emerged out of the chaos. As it grew, so too did the might of the Olympians. We created a world of peace, a world of prosperity. A world that lives in the shadow and safety of my mountain. A mountain that has come to be the absolute measure of strength and power. Now, on this day, that power is to be tested. The mortal, Kratos, seeks to destroy all that I have wrought. Brothers, put aside the petty grievances that have splintered us for so long. We will unite. We will stand together. And I will wipe out this plague! Olympus will prevail!",,N,GoOfWa3-2,GoOfWa3-4
+GoOfWa3-4,,,,[The gods attacks the titans.],,Y,GoOfWa3-3,GoOfWa3-5
+GoOfWa3-5,,,KRATOS,Zeus! Your son has returned. I bring the destruction of Olympus!,,N,GoOfWa3-4,GoOfWa3-6
+GoOfWa3-6,OLYMPUS,,HELIOS,The titans will fail again!,,N,GoOfWa3-5,GoOfWa3-7
+GoOfWa3-7,OLYMPUS,,,[Poseidon grabs Gaia with his water horses.],,Y,GoOfWa3-6,GoOfWa3-8
+GoOfWa3-8,OLYMPUS,,GAIA,"Something has me! I cannot move, Kratos. Free me! Kratos! Help me! Hurry, Spartan!",,N,GoOfWa3-7,GoOfWa3-9
+GoOfWa3-9,OLYMPUS,,,"[Kratos fights with Poseidon, making his way to the top of Olympus.]",,Y,GoOfWa3-8,GoOfWa3-10
+GoOfWa3-10,OLYMPUS,,POSEIDON,"You challenge me, mortal? A god of Olympus?",,N,GoOfWa3-9,GoOfWa3-11
+GoOfWa3-11,OLYMPUS,,KRATOS,"A true warrior does not hide, Poseidon. Leave the sea and face me.",,N,GoOfWa3-10,GoOfWa3-12
+GoOfWa3-12,OLYMPUS,,POSEIDON,"You have disrespected the gods for the last time, Kratos.",,N,GoOfWa3-11,GoOfWa3-13
+GoOfWa3-13,OLYMPUS,,GAIA,Jump to my hand!,,N,GoOfWa3-12,GoOfWa3-14
+GoOfWa3-14,OLYMPUS,,POSEIDON,For the greatness of Olympus!,,N,GoOfWa3-13,GoOfWa3-15
+GoOfWa3-15,OLYMPUS,,,[Kratos manages to defeat the god of the seas.],,Y,GoOfWa3-14,GoOfWa3-16
+GoOfWa3-16,OLYMPUS,,POSEIDON,"Zeus should have kept you where you belong. No matter how many gods fall, there will always be another to stand against you.",,N,GoOfWa3-15,GoOfWa3-17
+GoOfWa3-17,OLYMPUS,,KRATOS,They will fall as well.,,N,GoOfWa3-16,GoOfWa3-18
+GoOfWa3-18,OLYMPUS,,POSEIDON,The death of Olympus means the death of us all.,,N,GoOfWa3-17,GoOfWa3-19
+GoOfWa3-19,OLYMPUS,,KRATOS,"Then prepare for your death, Poseidon.",,N,GoOfWa3-18,GoOfWa3-20
+GoOfWa3-20,OLYMPUS,,,"[He mercilessly beats Poseidon up, pokes his eyes out and dumps the disfigured corpse into the sea. With his death, no one else controls the ocean and it overflows, flooding the whole world.]",,Y,GoOfWa3-19,GoOfWa3-21
+GoOfWa3-21,OLYMPUS,,GAIA,"Kratos, the death of Zeus is within our reach! Climb to my hand!",,N,GoOfWa3-20,GoOfWa3-22
+GoOfWa3-22,OLYMPUS,,,[He rises to the very top and meets Zeus himself.],,Y,GoOfWa3-21,GoOfWa3-23
+GoOfWa3-23,OLYMPUS,,KRATOS,"What will you do, father? You can no longer hide behind the skirts of Athena.",,N,GoOfWa3-22,GoOfWa3-24
+GoOfWa3-24,OLYMPUS,,ZEUS,"Athena is dead because of the rage that consumes you, Kratos. What more will you destroy?",,N,GoOfWa3-23,GoOfWa3-25
+GoOfWa3-25,OLYMPUS,,KRATOS,The hands of death could not defeat me. The sisters of fate could not hold me. And you will not see the end of this day. I will have my revenge!,,N,GoOfWa3-24,GoOfWa3-26
+GoOfWa3-26,OLYMPUS,,ZEUS,Petulant child! I will tolerate your insolence no more!,,N,GoOfWa3-25,GoOfWa3-27
+GoOfWa3-27,OLYMPUS,,,[Zeus pulls out one of his lightning bolts and throws out both Kratos and Gaia.],,Y,GoOfWa3-26,GoOfWa3-28
+GoOfWa3-28,OLYMPUS,,KRATOS,Gaia! I can hold on no longer!,,N,GoOfWa3-27,GoOfWa3-29
+GoOfWa3-29,OLYMPUS,,GAIA,"If I help you, we will both fall. Even now Zeus gains.",,N,GoOfWa3-28,GoOfWa3-30
+GoOfWa3-30,OLYMPUS,,KRATOS,The destruction of Zeus is why you saved me from death.,,N,GoOfWa3-29,GoOfWa3-31
+GoOfWa3-31,OLYMPUS,,GAIA,I saved you to serve the titans.,,N,GoOfWa3-30,GoOfWa3-32
+GoOfWa3-32,OLYMPUS,,KRATOS,Do not deny me my revenge!,,N,GoOfWa3-31,GoOfWa3-33
+GoOfWa3-33,OLYMPUS,,GAIA,"Listen carefully, Kratos. You were a simple pawn, nothing more. Zeus is no longer your concern. This is our war. Not yours.",,N,GoOfWa3-32,GoOfWa3-34
+GoOfWa3-34,OLYMPUS,,KRATOS, Gaia!,(falling) ,N,GoOfWa3-33,GoOfWa3-35
+GoOfWa3-35,OLYMPUS,,,[He falls to the depths of the underworld.],,Y,GoOfWa3-34,GoOfWa3-36
+GoOfWa3-36,OLYMPUS,,KRATOS,I have lived as a warrior. I have died as a god. Having suffered the ultimate sacrifice. I have been denied release. I… will defeat Olympus. I will have my revenge.,,N,GoOfWa3-35,GoOfWa3-37
+GoOfWa3-37,REALM OF HADES,,,"[Kratos crosses the river Styx, struggling with restless souls floating in it.]",,Y,GoOfWa3-36,GoOfWa3-38
+GoOfWa3-38,REALM OF HADES,,KRATOS,We are not finished Zeus. The gates of Hades have never held me.,,N,GoOfWa3-37,GoOfWa3-39
+GoOfWa3-39,REALM OF HADES,,SPIRIT OF ATHENA,"Death cannot hold those with purpose, Kratos.",,N,GoOfWa3-38,GoOfWa3-40
+GoOfWa3-40,REALM OF HADES,,KRATOS,Athena?,,N,GoOfWa3-39,GoOfWa3-41
+GoOfWa3-41,REALM OF HADES,,SPIRIT OF ATHENA,"I have missed you, Spartan.",,N,GoOfWa3-40,GoOfWa3-42
+GoOfWa3-42,REALM OF HADES,,KRATOS,I... I don't...,,N,GoOfWa3-41,GoOfWa3-43
+GoOfWa3-43,REALM OF HADES,,SPIRIT OF ATHENA,My sacrifice to save Zeus has brought me to a higher existence.,,N,GoOfWa3-42,GoOfWa3-44
+GoOfWa3-44,REALM OF HADES,,KRATOS,You still appear to be an Olympian.,,N,GoOfWa3-43,GoOfWa3-45
+GoOfWa3-45,REALM OF HADES,,SPIRIT OF ATHENA,"Appearances can be deceiving, Kratos.",,N,GoOfWa3-44,GoOfWa3-46
+GoOfWa3-46,REALM OF HADES,,KRATOS,So can the children of Olympus.,,N,GoOfWa3-45,GoOfWa3-47
+GoOfWa3-47,REALM OF HADES,,SPIRIT OF ATHENA,"Perhaps, but remember, my death came by your blade.",,N,GoOfWa3-46,GoOfWa3-48
+GoOfWa3-48,REALM OF HADES,,KRATOS,My blade was meant for Zeus. Be quick with your words.,,N,GoOfWa3-47,GoOfWa3-49
+GoOfWa3-49,REALM OF HADES,,SPIRIT OF ATHENA,"As we speak, the war for Olympus rages on and mankind suffers.",,N,GoOfWa3-48,GoOfWa3-50
+GoOfWa3-50,REALM OF HADES,,KRATOS,Let them suffer. The death of Zeus is all that matters.,,N,GoOfWa3-49,GoOfWa3-51
+GoOfWa3-51,REALM OF HADES,,SPIRIT OF ATHENA,"Zeus will not fall as easily as Ares. To destroy the king of the gods, you must seek the source of his strength. The flame of Olympus.",,N,GoOfWa3-50,GoOfWa3-52
+GoOfWa3-52,REALM OF HADES,,KRATOS,"You once sacrificed yourself to save Zeus, and now you seek to destroy him? What has brought about this change?",,N,GoOfWa3-51,GoOfWa3-53
+GoOfWa3-53,REALM OF HADES,,SPIRIT OF ATHENA,"I see truths where I did not before. Perhaps these will earn back your trust. These are the blades of exile. They will help guide you on your journey to the flame. Remember, as long as Zeus reigns, there is no hope for mankind. Destroy the flame, Kratos, and the very foundations of Olympus will crumble.",,N,GoOfWa3-52,GoOfWa3-54
+GoOfWa3-54,REALM OF HADES,,HADES,"I knew you would be back, Spartan. Did you miss me?",,N,GoOfWa3-53,GoOfWa3-55
+GoOfWa3-55,REALM OF HADES,,PEIRITHOUS,"I have suffered enough, Spartan. Hades. He sentenced me to this eternal torture. My prison of tinder. But now that you are here, you can free me! All I have left is my bow. Please, free me and it is yours.",,N,GoOfWa3-54,GoOfWa3-56
+GoOfWa3-56,REALM OF HADES,,,"[But Kratos, apparently, has other plans...]",,Y,GoOfWa3-55,GoOfWa3-57
+GoOfWa3-57,REALM OF HADES,,PEIRITHOUS,"What are you doing? Please! I cannot die this way! Please Spartan! Spare me! No, no. Stay away! No, help! Please!",,N,GoOfWa3-56,GoOfWa3-58
+GoOfWa3-58,REALM OF HADES,,,[Kratos saddles a fire-breathing Cerberus and burns Peirithous alive and takes the bow. Next he faces three judges...],,Y,GoOfWa3-57,GoOfWa3-59
+GoOfWa3-59,REALM OF HADES,,JUDGE,"By the gods of Olympus and order of Zeus. We are the three judges. Face your final judgement, mortal. King Aeacus has found you wanting. King Rhadamanthus has found you worthy. It falls to me, king Minos, to make the final decision. Your future is cloaked in shadow. The realm of the afterlife is not yet ready for you. Beyond that door waits your destiny.",,N,GoOfWa3-58,GoOfWa3-60
+GoOfWa3-60,REALM OF HADES,,SPIRIT OF A GIRL,Father?,,N,GoOfWa3-59,GoOfWa3-61
+GoOfWa3-61,REALM OF HADES,,KRATOS,Calliope?,,N,GoOfWa3-60,GoOfWa3-62
+GoOfWa3-62,REALM OF HADES,,SPIRIT OF A GIRL,Oh...,,N,GoOfWa3-61,GoOfWa3-63
+GoOfWa3-63,REALM OF HADES,,KRATOS,You are not my daughter.,,N,GoOfWa3-62,GoOfWa3-64
+GoOfWa3-64,REALM OF HADES,,SPIRIT OF A GIRL,No. But I know who you are.,,N,GoOfWa3-63,GoOfWa3-65
+GoOfWa3-65,REALM OF HADES,,KRATOS,You know of me?,,N,GoOfWa3-64,GoOfWa3-66
+GoOfWa3-66,REALM OF HADES,,SPIRIT OF A GIRL,They said you would come...,,N,GoOfWa3-65,GoOfWa3-67
+GoOfWa3-67,REALM OF HADES,,HADES,"Playing with toys, Kratos?",,N,GoOfWa3-66,GoOfWa3-68
+GoOfWa3-68,REALM OF HADES,,KRATOS,"Show yourself, Hades! Another one of your tricks?",,N,GoOfWa3-67,GoOfWa3-69
+GoOfWa3-69,REALM OF HADES,,HADES,"As usual, Spartan, you are gravely mistaken.",,N,GoOfWa3-68,GoOfWa3-70
+GoOfWa3-70,REALM OF HADES,,KRATOS,"Face me, coward.",,N,GoOfWa3-69,GoOfWa3-71
+GoOfWa3-71,REALM OF HADES,,HADES,"So eager, Kratos. Relax. Soon enough we will have our time to play.",,N,GoOfWa3-70,GoOfWa3-72
+GoOfWa3-72,REALM OF HADES,,,[Kratos finds a huge forge and a tortured giant next to the anvil.],,Y,GoOfWa3-71,GoOfWa3-73
+GoOfWa3-73,REALM OF HADES,,HEPHAESTUS,Leave me be. I tell you... I have paid the price.,,N,GoOfWa3-72,GoOfWa3-74
+GoOfWa3-74,REALM OF HADES,,KRATOS,"Calm yourself, smith god.",,N,GoOfWa3-73,GoOfWa3-75
+GoOfWa3-75,REALM OF HADES,,HEPHAESTUS,"Ghost of Sparta? It is you... Well, well, well... I thought Zeus would have killed you by now.",,N,GoOfWa3-74,GoOfWa3-76
+GoOfWa3-76,REALM OF HADES,,KRATOS,I thought you would have escaped this cavern by now.,,N,GoOfWa3-75,GoOfWa3-77
+GoOfWa3-77,REALM OF HADES,,HEPHAESTUS,"Zeus may have imprisoned me here, but you are the reason I live in torment.",,N,GoOfWa3-76,GoOfWa3-78
+GoOfWa3-78,REALM OF HADES,,KRATOS,"I did you no wrong, Hephaestus. I pursue only one Olympian.",,N,GoOfWa3-77,GoOfWa3-79
+GoOfWa3-79,REALM OF HADES,,HEPHAESTUS,"Well, as long as it's only one Olympian.",,N,GoOfWa3-78,GoOfWa3-80
+GoOfWa3-80,REALM OF HADES,,KRATOS,I seek the flame of Olympus. Do you know of it?,,N,GoOfWa3-79,GoOfWa3-81
+GoOfWa3-81,REALM OF HADES,,HEPHAESTUS,"For what purpose, Spartan?",,N,GoOfWa3-80,GoOfWa3-82
+GoOfWa3-82,REALM OF HADES,,KRATOS,"For the purpose I have chosen. Now tell me, do you know of the flame?",,N,GoOfWa3-81,GoOfWa3-83
+GoOfWa3-83,REALM OF HADES,,HEPHAESTUS,All true children of Olympus know of it we have all come to respect its power. But don’t be fooled by its enticing glow. Neither god nor man can touch its lethal flame.,,N,GoOfWa3-82,GoOfWa3-84
+GoOfWa3-84,REALM OF HADES,,KRATOS,I only need to find it.,,N,GoOfWa3-83,GoOfWa3-85
+GoOfWa3-85,REALM OF HADES,,HEPHAESTUS,"If you can find your way out of the underworld, I am sure you can find your way to the flame of Olympus.",,N,GoOfWa3-84,GoOfWa3-86
+GoOfWa3-86,REALM OF HADES,,KRATOS,"You have been truly helpful, Hephaestus.",,N,GoOfWa3-85,GoOfWa3-87
+GoOfWa3-87,REALM OF HADES,,,[He leaves the forge.],,Y,GoOfWa3-86,GoOfWa3-88
+GoOfWa3-88,REALM OF HADES,,SPIRIT OF A GIRL,Kratos?,,N,GoOfWa3-87,GoOfWa3-89
+GoOfWa3-89,REALM OF HADES,,KRATOS,How do you know of me?,,N,GoOfWa3-88,GoOfWa3-90
+GoOfWa3-90,REALM OF HADES,,SPIRIT OF A GIRL,You’re the Ghost of Sparta. Everyone knows who you are. Everyone is afraid of you.,,N,GoOfWa3-89,GoOfWa3-91
+GoOfWa3-91,REALM OF HADES,,KRATOS,There are reasons for that.,,N,GoOfWa3-90,GoOfWa3-92
+GoOfWa3-92,REALM OF HADES,,SPIRIT OF A GIRL,I'm not afraid of you.,,N,GoOfWa3-91,GoOfWa3-93
+GoOfWa3-93,REALM OF HADES,,KRATOS,"It’s good you’re not afraid, child. Fear is a heavy burden.",,N,GoOfWa3-92,GoOfWa3-94
+GoOfWa3-94,REALM OF HADES,,SPIRIT OF A GIRL,"I’m not a child, Kratos.",,N,GoOfWa3-93,GoOfWa3-95
+GoOfWa3-95,REALM OF HADES,,KRATOS,"It does not matter what you are, my concerns lay elsewhere.",,N,GoOfWa3-94,GoOfWa3-96
+GoOfWa3-96,REALM OF HADES,,SPIRIT OF A GIRL,"Kratos, please. I need you to free me.",,N,GoOfWa3-95,GoOfWa3-97
+GoOfWa3-97,REALM OF HADES,,KRATOS,The quest for freedom is also a heavy burden. I cannot help you.,,N,GoOfWa3-96,GoOfWa3-98
+GoOfWa3-98,REALM OF HADES,,,[He leaves and finds a shrine with a huge statue of Hades in the center.],,Y,GoOfWa3-97,GoOfWa3-99
+GoOfWa3-99,REALM OF HADES,,HADES,"Welcome, Spartan. Come in. Make yourself at home. This time, you won't be leaving. Now it falls to me to collect payment for the pain you have wrought. Kratos. So glad you could carve out some time for us. You know we need it. I sense some bad blood between us, Kratos. Oh, all the memories. They’re overwhelming. Really, let's see... How many sins have you committed against me? Oh, that's right. You murdered my niece, Athena. And what else. What else? Ah, and you killed my brother, Poseidon. And I have not forgotten that it was you who butchered my beautiful queen! I will see you suffer as I have suffered. Your soul is mine.",,N,GoOfWa3-98,GoOfWa3-100
+GoOfWa3-100,REALM OF HADES,,,[Hades emerges from the shadows and attacks Kratos. Brutal fight begins.],,Y,GoOfWa3-99,GoOfWa3-101
+GoOfWa3-101,REALM OF HADES,,HADES,I am stronger than you'll ever be! I live for pain. Your pain is my pleasure. Your death will only be the beginning of your suffering. Your soul will only make me stronger. I enjoy listening to your pain. The river Styx awaits!,,N,GoOfWa3-100,GoOfWa3-102
+GoOfWa3-102,REALM OF HADES,,,"[Kratos severely beats Hades and takes away his chains with hooks, but the god of the dead does not even think to give up.]",,Y,GoOfWa3-101,GoOfWa3-103
+GoOfWa3-103,REALM OF HADES,,HADES,Suffer!,,N,GoOfWa3-102,GoOfWa3-104
+GoOfWa3-104,REALM OF HADES,,,"[Kratos uses the hooks of Hades and deprives the god of the dead of his own soul. With his death, there is no one to watch over the dead and the souls begin to leave the palaces of the underworld. Kratos returns to the forge.]",,Y,GoOfWa3-103,GoOfWa3-105
+GoOfWa3-105,REALM OF HADES,,HEPHAESTUS,Kratos? Can it be? Does this mean lord Hades rules no longer?,,N,GoOfWa3-104,GoOfWa3-106
+GoOfWa3-106,REALM OF HADES,,KRATOS,The goo of the underworld is dead.,,N,GoOfWa3-105,GoOfWa3-107
+GoOfWa3-107,REALM OF HADES,,HEPHAESTUS,Dead? Hades deserved to suffer. Though I thought his death impossible.,,N,GoOfWa3-106,GoOfWa3-108
+GoOfWa3-108,REALM OF HADES,,KRATOS,Olympians overestimate themselves.,,N,GoOfWa3-107,GoOfWa3-109
+GoOfWa3-109,REALM OF HADES,,HEPHAESTUS,"Interesting. I will keep that in mind, Spartan. You need the soul of a god to use the Hyperion gate, Kratos. And that one has not been used for centuries. I’m sure it is broken. Otherwise I would have seen my beautiful... You know, Kratos. I wasn't always like this. A monster. I was once the most prized craftsman in all of Olympus. Zeus rewarded me with my marriage the beautiful Aphrodite. My mother, Hera, bragged of my talent. But the day you killed Ares was the day my world was torn from me. That day Zeus became fiend you now know. Worst of all, he took my beloved daughter, Pandora. My reason for living. I spend my time here, trying to recreate her. I fail. Again and again. She still lives, Spartan. I can feel it. You... you Kratos, you can bring her back to me.",,N,GoOfWa3-108,GoOfWa3-110
+GoOfWa3-110,REALM OF HADES,,KRATOS,Your child is not my concern.,,N,GoOfWa3-109,GoOfWa3-111
+GoOfWa3-111,REALM OF HADES,,HEPHAESTUS,But surely you can understand. You were once a father too.,,N,GoOfWa3-110,GoOfWa3-112
+GoOfWa3-112,REALM OF HADES,,,"[Without answering, Kratos leaves the forge. The words of Hephaestus are clearly stirred something in the soul of a mighty Spartan.]",,Y,GoOfWa3-111,GoOfWa3-113
+GoOfWa3-113,REALM OF HADES,,SPIRIT OF ATHENA,"Remember your purpose, Kratos. The twilight is upon us. His death is our only hope.",,N,GoOfWa3-112,GoOfWa3-114
+GoOfWa3-114,REALM OF HADES,,KRATOS,"Understand this, Athena. Zeus will die.",,N,GoOfWa3-113,GoOfWa3-115
+GoOfWa3-115,REALM OF HADES,,,[Kratos is entered in the portal and returns to the world of the living. Helios soars in the sky in his chariot of fire.],,Y,GoOfWa3-114,GoOfWa3-116
+GoOfWa3-116,THE CITY OF OLYMPIA,,HELIOS,Forward!,,N,GoOfWa3-115,GoOfWa3-117
+GoOfWa3-117,THE CITY OF OLYMPIA,,,[Soon he finds Gaia. She is barely alive.],,Y,GoOfWa3-116,GoOfWa3-118
+GoOfWa3-118,THE CITY OF OLYMPIA,,GAIA,"You live, Spartan? The blood of Cronos served you well. Quickly, you must help me!",,N,GoOfWa3-117,GoOfWa3-119
+GoOfWa3-119,THE CITY OF OLYMPIA,,KRATOS,Help you?,,N,GoOfWa3-118,GoOfWa3-120
+GoOfWa3-120,THE CITY OF OLYMPIA,,GAIA,"Yes, child. Quickly! I suffer greatly. I tried to return to battle but...",,N,GoOfWa3-119,GoOfWa3-121
+GoOfWa3-121,THE CITY OF OLYMPIA,,KRATOS,Without me.,,N,GoOfWa3-120,GoOfWa3-122
+GoOfWa3-122,THE CITY OF OLYMPIA,,GAIA,You know I had no choice. You must help me.,,N,GoOfWa3-121,GoOfWa3-123
+GoOfWa3-123,THE CITY OF OLYMPIA,,,[Kratos cuts through the roots with which Gaia holds her mighty body.],,Y,GoOfWa3-122,GoOfWa3-124
+GoOfWa3-124,THE CITY OF OLYMPIA,,GAIA,Kratos. Do I mean nothing to you?,,N,GoOfWa3-123,GoOfWa3-125
+GoOfWa3-125,THE CITY OF OLYMPIA,,KRATOS,"You were a means to the end, Gaia. Nothing more.",,N,GoOfWa3-124,GoOfWa3-126
+GoOfWa3-126,THE CITY OF OLYMPIA,,GAIA,But I must face Zeus. The titans must take down Olympus.,,N,GoOfWa3-125,GoOfWa3-127
+GoOfWa3-127,THE CITY OF OLYMPIA,,KRATOS,No! This is my war. Not yours.,,N,GoOfWa3-126,GoOfWa3-128
+GoOfWa3-128,THE CITY OF OLYMPIA,,,"[He pierces Gaia with the sword of Olympus and throws her down. Going further, he meets Helios, fighting with one of the titans.]",,Y,GoOfWa3-127,GoOfWa3-129
+GoOfWa3-129,THE CITY OF OLYMPIA,,HELIOS,Behold the glory of Helios! Feel the wrath of the sun!,,N,GoOfWa3-128,GoOfWa3-130
+GoOfWa3-130,THE CITY OF OLYMPIA,,,[Kratos uses a ballista and knocks down Helios from the sky.],,Y,GoOfWa3-129,GoOfWa3-131
+GoOfWa3-131,THE CITY OF OLYMPIA,,HELIOS,Forward! Help me! My home! Everything I have. Destroyed! Kratos I have not forgotten the debt I owe you. Save me now as you once saved me from atlas. And I promise to repay you in full.,,N,GoOfWa3-130,GoOfWa3-132
+GoOfWa3-132,THE CITY OF OLYMPIA,,KRATOS,"If you wish to repay me, tell me where I can find the flame of Olympus!",,N,GoOfWa3-131,GoOfWa3-133
+GoOfWa3-133,THE CITY OF OLYMPIA,,HELIOS,The flame? You will never defeat Zeus. Spartan you will forfeit your life in trying.,,N,GoOfWa3-132,GoOfWa3-134
+GoOfWa3-134,THE CITY OF OLYMPIA,,KRATOS,"Of all the lives you should worry about, Helios, mine is not one of them.",,N,GoOfWa3-133,GoOfWa3-135
+GoOfWa3-135,THE CITY OF OLYMPIA,,HELIOS,Feel the power of the sun! Wait! Wait! I can tell you that to destroy Zeus you must step into the flame to receive its power.,,N,GoOfWa3-134,GoOfWa3-136
+GoOfWa3-136,THE CITY OF OLYMPIA,,KRATOS,"You lie, Helios! Hephaestus told me the flame kills all who touch it.",,N,GoOfWa3-135,GoOfWa3-137
+GoOfWa3-137,THE CITY OF OLYMPIA,,HELIOS,And you believe him? That freak has fallen from the graces of Olympus!,,N,GoOfWa3-136,GoOfWa3-138
+GoOfWa3-138,THE CITY OF OLYMPIA,,KRATOS,That is exactly why I believe him.,,N,GoOfWa3-137,GoOfWa3-139
+GoOfWa3-139,THE CITY OF OLYMPIA,,HELIOS,My death will not lead you to Zeus.,,N,GoOfWa3-138,GoOfWa3-140
+GoOfWa3-140,THE CITY OF OLYMPIA,,KRATOS,That is where you are wrong.,,N,GoOfWa3-139,GoOfWa3-141
+GoOfWa3-141,THE CITY OF OLYMPIA,,,"[Kratos tears off Helios's head with his bare hands. Killing the god of light, he deprived the whole world of the sun. Lighting his way with the head of Helios, he goes further.]",,Y,GoOfWa3-140,GoOfWa3-142
+GoOfWa3-142,THE CITY OF OLYMPIA,,SPIRIT OF A GIRL,Kratos! It’s getting close.,,N,GoOfWa3-141,GoOfWa3-143
+GoOfWa3-143,THE CITY OF OLYMPIA,,KRATOS,I told you. I cannot help you.,,N,GoOfWa3-142,GoOfWa3-144
+GoOfWa3-144,THE CITY OF OLYMPIA,,SPIRIT OF A GIRL,But you’re the only one who can. I know it. I trust you.,,N,GoOfWa3-143,GoOfWa3-145
+GoOfWa3-145,THE CITY OF OLYMPIA,,KRATOS,You shouldn’t.,,N,GoOfWa3-144,GoOfWa3-146
+GoOfWa3-146,THE FLAME OF OLYMPUS,,HERMES,Oh. Look who it is. Kratos. The Ghost of Sparta. The fallen god. The cursed mortal.,,N,GoOfWa3-145,GoOfWa3-147
+GoOfWa3-147,THE FLAME OF OLYMPUS,,KRATOS,To catch a fly from the ass of Zeus is not worth my time Hermes.,,N,GoOfWa3-146,GoOfWa3-148
+GoOfWa3-148,THE FLAME OF OLYMPUS,,HERMES,"A coward's words, Kratos. You don't try to catch me because you know you can’t. Kratos, where are you off to today? Kill any family members lately? Oh. That's right. You’re off to kill your father, Zeus. Won’t happen can’t happen Kratos is on a fool's errand. Again! Never, never learn. Never, never change. Kratos, the fool who killed his own blood. Kratos, the fool among mortals and gods. Forever, ever cursed. Forever, ever doomed. Consumed by vengeance to his last breath. The Spartan lights the way to dusty death.",,N,GoOfWa3-147,GoOfWa3-149
+GoOfWa3-149,THE FLAME OF OLYMPUS,,,"[He runs away. Soon Kratos finds Pandora's box, standing in flames. He slowly pulls his hand to it.]",,Y,GoOfWa3-148,GoOfWa3-150
+GoOfWa3-150,THE FLAME OF OLYMPUS,,KRATOS,Pandora’s box?  what’s the meaning of this?,(spirit of Athena stops his hand) ,N,GoOfWa3-149,GoOfWa3-151
+GoOfWa3-151,THE FLAME OF OLYMPUS,,SPIRIT OF ATHENA,"Our eyes do not deceive you, Kratos. It is the same box you opened years ago. The power to kill a god still rests inside.",,N,GoOfWa3-150,GoOfWa3-152
+GoOfWa3-152,THE FLAME OF OLYMPUS,,KRATOS,I released those powers when I killed Ares.,,N,GoOfWa3-151,GoOfWa3-153
+GoOfWa3-153,THE FLAME OF OLYMPUS,,SPIRIT OF ATHENA,"No. Trapped inside that box there is a stronger power. It has been missing from the world. It all began when Zeus triumphed over the titans in the great war. Zeus understood that the evils born from that battle, if left free would destroy the world of man and gods. To contain these evils, Zeus commissioned Hephaestus to build a vessel strong enough to hold them. Fear. Greed. He locked them all away in the box in hopes that they would never again infect his reign. When you opened the box to kill Ares. You drew from the forbidden powers. After witnessing your victory, fear gripped Zeus.",,N,GoOfWa3-152,GoOfWa3-154
+GoOfWa3-154,THE FLAME OF OLYMPUS,,KRATOS,But the flame is deadly. How can I recover the box?,,N,GoOfWa3-153,GoOfWa3-155
+GoOfWa3-155,THE FLAME OF OLYMPUS,,SPIRIT OF ATHENA,With its namesake Kratos.,,N,GoOfWa3-154,GoOfWa3-156
+GoOfWa3-156,THE FLAME OF OLYMPUS,,KRATOS,Pandora?,,N,GoOfWa3-155,GoOfWa3-157
+GoOfWa3-157,THE FLAME OF OLYMPUS,,SPIRIT OF ATHENA,"She is the key to destroying the flame. The key to our revenge. This will be difficult, Spartan.",,N,GoOfWa3-156,GoOfWa3-158
+GoOfWa3-158,THE FLAME OF OLYMPUS,,KRATOS,"A simple child will not trouble me, Athena.",,N,GoOfWa3-157,GoOfWa3-159
+GoOfWa3-159,THE FLAME OF OLYMPUS,,SPIRIT OF ATHENA,"I hope you are right, Ghost of Sparta.",,N,GoOfWa3-158,GoOfWa3-160
+GoOfWa3-160,THE FLAME OF OLYMPUS,,HERMES,"You may have brute force, but you lack speed.",,N,GoOfWa3-159,GoOfWa3-161
+GoOfWa3-161,THE FLAME OF OLYMPUS,,,[The pursuit of the god of mischief begins.],,Y,GoOfWa3-160,GoOfWa3-162
+GoOfWa3-162,THE FLAME OF OLYMPUS,,HERMES,"You’ve been lucky in battle, Spartan. But your luck ends today. What makes you think you can ever catch me? I’m slipping! I can’t hold on! Isn’t this fun? Keep up, Kratos!",,N,GoOfWa3-161,GoOfWa3-163
+GoOfWa3-163,THE FLAME OF OLYMPUS,,,"[Finally, Kratos overtakes Hermes.]",,Y,GoOfWa3-162,GoOfWa3-164
+GoOfWa3-164,THE FLAME OF OLYMPUS,,HERMES,"I thought Spartans fought with honour. And yet you seek to kill me when I have no way to defend myself? Not fair. But you have your own sense of honour. Right, Kratos? And what has that honour brought you? Nothing but nightmAres of your failure. Today you may defeat me. But in the end. Kratos. In the end you'll betray only yourself.",,N,GoOfWa3-163,GoOfWa3-165
+GoOfWa3-165,THE FLAME OF OLYMPUS,,,[Hermes' fiery speech makes no impression on Kratos. He starts to cut.],,Y,GoOfWa3-164,GoOfWa3-166
+GoOfWa3-166,THE FLAME OF OLYMPUS,,HERMES,Leave me alone! Go away!,,N,GoOfWa3-165,GoOfWa3-167
+GoOfWa3-167,THE FLAME OF OLYMPUS,,,"[Kratos takes the sandals from Hermes... With his legs. As Hermes dies, the world also loses something... Apparently merchants and thieves.]",,Y,GoOfWa3-166,GoOfWa3-168
+GoOfWa3-168,THE FLAME OF OLYMPUS,,DRANK WOMAN,Bravo. Bravo. Our hero has arrived. Applause for another bastard child of Zeus. Just in time for the final act.,,N,GoOfWa3-167,GoOfWa3-169
+GoOfWa3-169,THE FLAME OF OLYMPUS,,KRATOS,Hera.,,N,GoOfWa3-168,GoOfWa3-170
+GoOfWa3-170,THE FLAME OF OLYMPUS,,HERA,"You look terrible, dear. Still wanting to kill my husband; I suppose?",,N,GoOfWa3-169,GoOfWa3-171
+GoOfWa3-171,THE FLAME OF OLYMPUS,,KRATOS,You know I seek revenge on Zeus.,,N,GoOfWa3-170,GoOfWa3-172
+GoOfWa3-172,THE FLAME OF OLYMPUS,,HERA,"Can’t say that I blame you. Since you killed my son, Ares, fear of you consumes him.",,N,GoOfWa3-171,GoOfWa3-173
+GoOfWa3-173,THE FLAME OF OLYMPUS,,KRATOS,His fears will not matter when he is dead.,,N,GoOfWa3-172,GoOfWa3-174
+GoOfWa3-174,THE FLAME OF OLYMPUS,,HERA,I’ll drink to that.,,N,GoOfWa3-173,GoOfWa3-175
+GoOfWa3-175,THE FLAME OF OLYMPUS,,KRATOS,Hera. I seek the child Pandora.,,N,GoOfWa3-174,GoOfWa3-176
+GoOfWa3-176,THE FLAME OF OLYMPUS,,HERA,"Pandora? That wretched little thing my son Hephaestus created? Well, we can’t have you do that, my dear. Destroy him.",,N,GoOfWa3-175,GoOfWa3-177
+GoOfWa3-177,THE FLAME OF OLYMPUS,,HERCULES,"Hello, brother.",,N,GoOfWa3-176,GoOfWa3-178
+GoOfWa3-178,THE FLAME OF OLYMPUS,,KRATOS,"This is not between us, Hercules.",,N,GoOfWa3-177,GoOfWa3-179
+GoOfWa3-179,THE FLAME OF OLYMPUS,,HERCULES,Isn't it? You were always Zeus' favourite.,,N,GoOfWa3-178,GoOfWa3-180
+GoOfWa3-180,THE FLAME OF OLYMPUS,,KRATOS,"The air on Olympus affects your thinking, brother. Zeus has no favourites.",,N,GoOfWa3-179,GoOfWa3-181
+GoOfWa3-181,THE FLAME OF OLYMPUS,,HERCULES,"Think about it brother. While I was stuck cleaning the Augean stables, he chose you to destroy Ares. Not convinced? How about this? While you were being crowned the god of war, I was sent to an apple. They called them labours. Hah! Perhaps he did allow me to kill the Nemean lion, but he made your name known amongst the people. A fierce warrior. A killer made hero. A man made a god. But this time, brother, this time I will destroy you. Call it my thirteenth and final labour. Soon I will become the god of war and claim the throne for myself.",,N,GoOfWa3-180,GoOfWa3-182
+GoOfWa3-182,THE FLAME OF OLYMPUS,,KRATOS,"You aspire to be an Olympian, yet their reign is ending, Hercules.",,N,GoOfWa3-181,GoOfWa3-183
+GoOfWa3-183,THE FLAME OF OLYMPUS,,HERCULES,We’ll see about that. I’ll take care of him myself!,,N,GoOfWa3-182,GoOfWa3-184
+GoOfWa3-184,THE FLAME OF OLYMPUS,,,[Fateful battle between the two brothers begins.],,Y,GoOfWa3-183,GoOfWa3-185
+GoOfWa3-185,THE FLAME OF OLYMPUS,,HERCULES,Armour is for weaklings. Kill the bastard' do you see how he trembles? Finally. A challenge.,,N,GoOfWa3-184,GoOfWa3-186
+GoOfWa3-186,THE FLAME OF OLYMPUS,,,[Kratos wins and smashes Hercules' face with such force that the floor under him cracks. Kratos falls into the sewer.],,Y,GoOfWa3-185,GoOfWa3-187
+GoOfWa3-187,THE FLAME OF OLYMPUS,,KRATOS,Pandora?,,N,GoOfWa3-186,GoOfWa3-188
+GoOfWa3-188,THE FLAME OF OLYMPUS,,PANDORA,Kratos. I knew you'd come back.,,N,GoOfWa3-187,GoOfWa3-189
+GoOfWa3-189,THE FLAME OF OLYMPUS,,KRATOS,Tell me where you are.,,N,GoOfWa3-188,GoOfWa3-190
+GoOfWa3-190,THE FLAME OF OLYMPUS,,PANDORA,I hear something. He’s close.,,N,GoOfWa3-189,GoOfWa3-191
+GoOfWa3-191,THE FLAME OF OLYMPUS,,KRATOS,Just tell me how to find you.,,N,GoOfWa3-190,GoOfWa3-192
+GoOfWa3-192,THE FLAME OF OLYMPUS,,PANDORA,The labyrinth... Find the lab… help! Help! Kratos!,,N,GoOfWa3-191,GoOfWa3-193
+GoOfWa3-193,THE FLAME OF OLYMPUS,,KRATOS,Pandora? Pandora! What’s happened? Where are you?,,N,GoOfWa3-192,GoOfWa3-194
+GoOfWa3-194,THE FLAME OF OLYMPUS,,ZEUS,My son. You trifle with matters you cannot possibly understand. Stay away from this... This... Thing!,,N,GoOfWa3-193,GoOfWa3-195
+GoOfWa3-195,THE FLAME OF OLYMPUS,,KRATOS,Zeus! Zeus!,,N,GoOfWa3-194,GoOfWa3-196
+GoOfWa3-196,THE FLAME OF OLYMPUS,,,[Kratos returns to the forge of Hephaestus through the portal.],,Y,GoOfWa3-195,GoOfWa3-197
+GoOfWa3-197,THE FLAME OF OLYMPUS,,HEPHAESTUS,"Aphrodite? I knew you would return to me… Kratos? Tell me, has Aphrodite conquered another god of war?",,N,GoOfWa3-196,GoOfWa3-198
+GoOfWa3-198,THE FLAME OF OLYMPUS,,KRATOS,That is a question you should ask your wife. I seek the labyrinth.,,N,GoOfWa3-197,GoOfWa3-199
+GoOfWa3-199,THE FLAME OF OLYMPUS,,HEPHAESTUS,I thought you sought only the flame. What could you possibly want in... No stay away from her! Stay away from Pandora. Kratos' you are the reason she is in the labyrinth! The reason I live here in hell!,,N,GoOfWa3-198,GoOfWa3-200
+GoOfWa3-200,THE FLAME OF OLYMPUS,,KRATOS,"I have done you no wrong, Hephaestus!",,N,GoOfWa3-199,GoOfWa3-201
+GoOfWa3-201,THE FLAME OF OLYMPUS,,HEPHAESTUS,"Oh. But you have, Spartan. You opened the box.",,N,GoOfWa3-200,GoOfWa3-202
+GoOfWa3-202,THE FLAME OF OLYMPUS,,KRATOS,I did what had to be done.,,N,GoOfWa3-201,GoOfWa3-203
+GoOfWa3-203,THE FLAME OF OLYMPUS,,HEPHAESTUS,"Clearly you don't understand. The evils of the great war could not easily be contained. I forged the box in a power greater than the gods themselves. The flame of Olympus. As the raw metal took shape, I realised the flame was the safest place to protect it. The lock was set all that, was needed was a key. A way to retrieve the box. Created from the very heart of the flame the key took on a life of its own. Pandora. A child. Nether living nor dead. I grew to love her, Spartan. And she grew to love me as her father. When Zeus came to take the box. I hid Pandora away. I told him that storing the box on the back of Cronos would be the safest place. After all, who could best the titan? I lied. I did it to save my child. Surely you can understand that. It was your triumph using the box that revealed my deceit. Zeus tortured me until I confessed the truth of my beloved Pandora he took her away, leaving me alone in my torment. Don't you understand? If you take her to the flame...",,N,GoOfWa3-202,GoOfWa3-204
+GoOfWa3-204,THE FLAME OF OLYMPUS,,KRATOS,"Understand this, smith god. I will stop at nothing to destroy Zeus.",,N,GoOfWa3-203,GoOfWa3-205
+GoOfWa3-205,THE FLAME OF OLYMPUS,,HEPHAESTUS,"But if you... You are right Spartan. If it means the death of Zeus, I’d be happy to help you. Perhaps... Yes. Yes. Of course. We’ll need the Omphalos stone. With it I’ll make you a weapon.",,N,GoOfWa3-204,GoOfWa3-206
+GoOfWa3-206,THE FLAME OF OLYMPUS,,KRATOS,I have weapons.,,N,GoOfWa3-205,GoOfWa3-207
+GoOfWa3-207,THE FLAME OF OLYMPUS,,HEPHAESTUS,"Ah... But not like this. This weapon will give you the retribution you so rightly deserve. The stone rests in the pit of tartarus. Bring it to me, and I will heep you.",,N,GoOfWa3-206,GoOfWa3-208
+GoOfWa3-208,TARTARUS,,,[Kratos plunges into the depths of tartarus in search of the stone.],,Y,GoOfWa3-207,GoOfWa3-209
+GoOfWa3-209,TARTARUS,,TITAN,The murderer of Gaia enters my tomb?,,N,GoOfWa3-208,GoOfWa3-210
+GoOfWa3-210,TARTARUS,,KRATOS,Cronos!,,N,GoOfWa3-209,GoOfWa3-211
+GoOfWa3-211,TARTARUS,,CRONOS,"I know it was you who killed her, Spartan. Who else could? I live in torment because of you. After you took the box from Pandora’s temple, Zeus was consumed with fear. He banished me to the pits of tartarus.",,N,GoOfWa3-210,GoOfWa3-212
+GoOfWa3-212,TARTARUS,,KRATOS,I was tasked by the gods to kill Ares.,,N,GoOfWa3-211,GoOfWa3-213
+GoOfWa3-213,TARTARUS,,CRONOS,"You killed Ares out of your need for vengeance. But this time, retribution finally comes to me, Spartan. Kratos, your death will not be a gentle one. My eyes! Damn mortal! You will suffer when my sight returns.  you little bastard! There you are, Kratos! Your fate is now in my hands! I will make you into a bloody stain. Kratos! Where did you go? By hiding you show your true nature coward! Why do you flee, Kratos? There is no escape. I know that you are here somewhere. Kratos! Where are you? Enough. It is time to end this. Trust me. Eating you will be more unpleasant for me!",(Kratos pulls out his nail) ,N,GoOfWa3-212,GoOfWa3-214
+GoOfWa3-214,TARTARUS,,,"[Allowing to eat himself, Kratos finds a stone and cuts Cronos from the inside, getting out.]",,Y,GoOfWa3-213,GoOfWa3-215
+GoOfWa3-215,TARTARUS,,CRONOS,You have what you came for! Let me be!,,N,GoOfWa3-214,GoOfWa3-216
+GoOfWa3-216,TARTARUS,,,"[But Kratos does not even think to stop. He pierces Cronos' jaw with the fastening of his chain, thanks to which the temple of Pandora hangs on his neck.]",,Y,GoOfWa3-215,GoOfWa3-217
+GoOfWa3-217,TARTARUS,,CRONOS,Curse these chains! I should have expected this from a coward such as yourself. A coward who kills his own kin. Kratos! No!,,N,GoOfWa3-216,GoOfWa3-218
+GoOfWa3-218,TARTARUS,,,"[Kratos pierces Cronos’ forehead with the sword of Olympus and kills him, after which he returns to the forge.]",,Y,GoOfWa3-217,GoOfWa3-219
+GoOfWa3-219,TARTARUS,,HEPHAESTUS,Kratos?,,N,GoOfWa3-218,GoOfWa3-220
+GoOfWa3-220,TARTARUS,,KRATOS,You sent me to my death?,,N,GoOfWa3-219,GoOfWa3-221
+GoOfWa3-221,TARTARUS,,HEPHAESTUS,"No, no, no. Calm yourself, Kratos. I knew you were up to the challenge. I truly needed omphalos stone. You'll see.",,N,GoOfWa3-220,GoOfWa3-222
+GoOfWa3-222,TARTARUS,,KRATOS,"Make it quick, old man!",,N,GoOfWa3-221,GoOfWa3-223
+GoOfWa3-223,TARTARUS,,HEPHAESTUS,A weapon such as this can't be rushed. This will be worth the wait. A fine weapon like no other. As I promised.,,N,GoOfWa3-222,GoOfWa3-224
+GoOfWa3-224,TARTARUS,,,[Hephaestus gives Kratos a new weapon and taking advantage of the moment attacks him.],,Y,GoOfWa3-223,GoOfWa3-225
+GoOfWa3-225,TARTARUS,,HEPHAESTUS,Here is your retribution!,,N,GoOfWa3-224,GoOfWa3-226
+GoOfWa3-226,TARTARUS,,,[But Kratos deals with the decrepit and exhausted god of blacksmiths with ease.],,Y,GoOfWa3-225,GoOfWa3-227
+GoOfWa3-227,TARTARUS,,HEPHAESTUS,My beautiful Pandora. Please spare her. Pandora... Forgive me…,,N,GoOfWa3-226,GoOfWa3-228
+GoOfWa3-228,HERA’S GARDEN,,HERA,"You! I told him to kill you. I told him the day you were born to kill you. But he would not have it. My stupid husband took pity. And now look what you have wrought! Look at this! Look at it!  they're dying because of you. Everything is dying because of you. The sun is gone. The oceans swallow the land. Disease infects what remains. I am doing all I can to keep them alive. But you... Your ruthless murdering of the gods has caused all of this! You think this garden is not protected? Your brute strength may have bested Hercules. But your simple mind will never find a way out. I look forward to watching you die here, as an old man.",(she points to withering flowers) ,N,GoOfWa3-227,GoOfWa3-229
+GoOfWa3-229,HERA’S GARDEN,,,"[However, Hera clearly underestimated Kratos. He solves the riddle of the gardens.]",,Y,GoOfWa3-228,GoOfWa3-230
+GoOfWa3-230,HERA’S GARDEN,,HERA,You simple... Mortal... How dare you challenge us? You think you can just walk away? We aren’t finished!  what have you done? What have you done to me? You coward. You destroy all you touch. Good luck with that little whore you call Pandora!,(he pushes Hera and her tiara breaks) ,N,GoOfWa3-229,GoOfWa3-231
+GoOfWa3-231,HERA’S GARDEN,,,[Kratos lose patience and he breaks Hera's neck.],,Y,GoOfWa3-230,GoOfWa3-232
+GoOfWa3-232,THE LABYRINTH,,DAEDALUS,"The gift of Hades the liquid fire that is what is first. Next, next, I will take the gift of Boreas the ice storm. That will give me the lower the power to bring my son back to me. My son! My beautiful Icarus? Ah... Good, good. You have the ice storm. The scorpion must be defeated. The ice storm, that is the secret of the labyrinth... To escape it, we must assemble it! Good, you've already started. I've seen the cubes moving into place now. Once inside. You must use the gift of Boreas it is the catalyst that drives the labyrinth.",,N,GoOfWa3-231,GoOfWa3-233
+GoOfWa3-233,THE LABYRINTH,,,[Kratos comes closer and daedalus realizes that this is not Icarus.],,Y,GoOfWa3-232,GoOfWa3-234
+GoOfWa3-234,THE LABYRINTH,,DAEDALUS,You're not... But you... What have you done with my child. My boy! Where is my boy?,,N,GoOfWa3-233,GoOfWa3-235
+GoOfWa3-235,THE LABYRINTH,,KRATOS,"Your son is dead, daedalus.",,N,GoOfWa3-234,GoOfWa3-236
+GoOfWa3-236,THE LABYRINTH,,DAEDALUS,My boy… my child... No. No. No. I took the gift of Hades - the liquid fire. And the ice storm to create the power of the labyrinth. Create the power! The power to create... The power to destroy... The king of the gods has forsaken me. He said that if I built the labyrinth I would see the return of my son! He said... He said that if I took the liquid fire… my boy. Oh my child... Please don’t do it Spartan!,,N,GoOfWa3-235,GoOfWa3-237
+GoOfWa3-237,THE LABYRINTH,,,[Kratos solves the labyrinth puzzle and kills daedalus. Going inside he finds Pandora lying on the floor.],,Y,GoOfWa3-236,GoOfWa3-238
+GoOfWa3-238,THE LABYRINTH,,KRATOS,Pandora? What has he done?,,N,GoOfWa3-237,GoOfWa3-239
+GoOfWa3-239,THE LABYRINTH,,PANDORA,"He told me never talk to you again! He told me if I did, he would hurt you the way he hurt my father.",,N,GoOfWa3-238,GoOfWa3-240
+GoOfWa3-240,THE LABYRINTH,,KRATOS,He won’t.,,N,GoOfWa3-239,GoOfWa3-241
+GoOfWa3-241,THE LABYRINTH,,PANDORA,He told me he would kill you.,,N,GoOfWa3-240,GoOfWa3-242
+GoOfWa3-242,THE LABYRINTH,,KRATOS,He can’t. We must leave this place.,,N,GoOfWa3-241,GoOfWa3-243
+GoOfWa3-243,THE LABYRINTH,,PANDORA,"Come. I can show you the way. Thank you, Kratos.",,N,GoOfWa3-242,GoOfWa3-244
+GoOfWa3-244,THE LABYRINTH,,KRATOS,"Our journey is far from over, Pandora. By its end you will not be thanking me.",,N,GoOfWa3-243,GoOfWa3-245
+GoOfWa3-245,THE LABYRINTH,,PANDORA,"I know I look it, but I’m not a child, Kratos. I have seen many terrible things. I’m not afraid. I understand what lies ahead. I saw Zeus torture my father. I saw him beaten because of me. I should’ve helped him but I was afraid.",,N,GoOfWa3-244,GoOfWa3-246
+GoOfWa3-246,THE LABYRINTH,,KRATOS,Hephaestus did what every father should do. Protect his child.,,N,GoOfWa3-245,GoOfWa3-247
+GoOfWa3-247,THE LABYRINTH,,PANDORA,No. It’s all my fault. I failed him because of fear. Fear is it’s own kind of darkness. In that darkness I heard what the gods said about me. They called me a monster.,,N,GoOfWa3-246,GoOfWa3-248
+GoOfWa3-248,THE LABYRINTH,,KRATOS,Words mean nothing.,,N,GoOfWa3-247,GoOfWa3-249
+GoOfWa3-249,THE LABYRINTH,,PANDORA,"Perhaps but in their words I heard fear. The fear of an ash-covered warrior. The fear of you. As the fear in the gods rose, mine was replaced by hope.",,N,GoOfWa3-248,GoOfWa3-250
+GoOfWa3-250,THE LABYRINTH,,KRATOS,"Hope is for the weak, Pandora.",,N,GoOfWa3-249,GoOfWa3-251
+GoOfWa3-251,THE LABYRINTH,,PANDORA,Hope is what makes us strong. This is why we are here. It is what we fight with when all else is lost.,,N,GoOfWa3-250,GoOfWa3-252
+GoOfWa3-252,THE LABYRINTH,,,[Kratos flings open the door and shows Pandora daedalus' body hanging on the chains.],,Y,GoOfWa3-251,GoOfWa3-253
+GoOfWa3-253,THE LABYRINTH,,KRATOS,"This is what hope delivers, child. You should learn that now.",,N,GoOfWa3-252,GoOfWa3-254
+GoOfWa3-254,THE LABYRINTH,,,[They climb to the top of the labyrinth.],,Y,GoOfWa3-253,GoOfWa3-255
+GoOfWa3-255,THE LABYRINTH,,PANDORA,"The chain, Kratos. My father once told me it maintains the balance of power within Olympus. Break the chain to raise the labyrinth.",,N,GoOfWa3-254,GoOfWa3-256
+GoOfWa3-256,THE LABYRINTH,,KRATOS,Wait here.,,N,GoOfWa3-255,GoOfWa3-257
+GoOfWa3-257,THE LABYRINTH,,,[Kratos descends to the judges and breaks the chains of balance.],,Y,GoOfWa3-256,GoOfWa3-258
+GoOfWa3-258,THE LABYRINTH,,PANDORA,"He knows, Kratos! Zeus knows I’ve escaped! Hurry! I can hear him. He’s near please help Kratos! Hurry! Kratos! Help me!",,N,GoOfWa3-257,GoOfWa3-259
+GoOfWa3-259,THE LABYRINTH,,,[Kratos quickly returns to the top of the labyrinth.],,Y,GoOfWa3-258,GoOfWa3-260
+GoOfWa3-260,THE LABYRINTH,,KRATOS,Pandora! Pandora? Athena?,,N,GoOfWa3-259,GoOfWa3-261
+GoOfWa3-261,THE LABYRINTH,,PANDORA,"It’s alright, Kratos.",,N,GoOfWa3-260,GoOfWa3-262
+GoOfWa3-262,THE LABYRINTH,,SPIRIT OF ATHENA,"Remember your purpose, Spartan. Remember why you have come so far. Prepare yourself, Spartan. You know what you must do.",,N,GoOfWa3-261,GoOfWa3-263
+GoOfWa3-263,THE LABYRINTH,,KRATOS,I will raise the labyrinth I will take her where she belongs.,,N,GoOfWa3-262,GoOfWa3-264
+GoOfWa3-264,THE FLAME OF OLYMPUS II,,,[He raises the labyrinth with Pandora on it and opens the way to the box.],,Y,GoOfWa3-263,GoOfWa3-265
+GoOfWa3-265,THE FLAME OF OLYMPUS II,,PANDORA,"There it is. I can see it, Kratos. In the darkness the fires of hope will set us free.",,N,GoOfWa3-264,GoOfWa3-266
+GoOfWa3-266,THE FLAME OF OLYMPUS II,,,"[Pandora runs to the flame of Olympus. Suddenly even for himself, Kratos stops her.]",,Y,GoOfWa3-265,GoOfWa3-267
+GoOfWa3-267,THE FLAME OF OLYMPUS II,,KRATOS,"Pandora, no!",,N,GoOfWa3-266,GoOfWa3-268
+GoOfWa3-268,THE FLAME OF OLYMPUS II,,PANDORA,You know why I’m here! You brought me here to do this!,,N,GoOfWa3-267,GoOfWa3-269
+GoOfWa3-269,THE FLAME OF OLYMPUS II,,KRATOS,I will find another way!,,N,GoOfWa3-268,GoOfWa3-270
+GoOfWa3-270,THE FLAME OF OLYMPUS II,,PANDORA,"No, Kratos! There is no other way! Let me go!",,N,GoOfWa3-269,GoOfWa3-271
+GoOfWa3-271,THE FLAME OF OLYMPUS II,,KRATOS,"No, child!",,N,GoOfWa3-270,GoOfWa3-272
+GoOfWa3-272,THE FLAME OF OLYMPUS II,,PANDORA,I am not a child! You’re hurting me!,,N,GoOfWa3-271,GoOfWa3-273
+GoOfWa3-273,THE FLAME OF OLYMPUS II,,,"[She rushes out of Kratos' bear grip and runs off, but stumbles upon Zeus. He grabs her by the throat.]",,Y,GoOfWa3-272,GoOfWa3-274
+GoOfWa3-274,THE FLAME OF OLYMPUS II,,PANDORA,Kratos! Help!,,N,GoOfWa3-273,GoOfWa3-275
+GoOfWa3-275,THE FLAME OF OLYMPUS II,,KRATOS,"Put her down, Zeus!",,N,GoOfWa3-274,GoOfWa3-276
+GoOfWa3-276,THE FLAME OF OLYMPUS II,,ZEUS,"Your obsession with this... This... Thing... Has become somewhat of a nuisance, my son.",,N,GoOfWa3-275,GoOfWa3-277
+GoOfWa3-277,THE FLAME OF OLYMPUS II,,KRATOS,"Release the girl, Zeus!",,N,GoOfWa3-276,GoOfWa3-278
+GoOfWa3-278,THE FLAME OF OLYMPUS II,,ZEUS,"Don’t confuse this… object... This construction of Hephaestus with your own flesh and blood. But perhaps you already have, Spartan. Your quest for Pandora your pathetic attempt for atonement from the family you slaughtered has caused nothing but havoc on Olympus. Look around at what you have done!",,N,GoOfWa3-277,GoOfWa3-279
+GoOfWa3-279,THE FLAME OF OLYMPUS II,,KRATOS,I see only what I have come to destroy!,,N,GoOfWa3-278,GoOfWa3-280
+GoOfWa3-280,THE FLAME OF OLYMPUS II,,ZEUS,"Taking pity on you has been my greatest mistake, Kratos. Just as taking pity on this thing will prove to be your greatest mistake.",,N,GoOfWa3-279,GoOfWa3-281
+GoOfWa3-281,THE FLAME OF OLYMPUS II,,KRATOS,This has nothing to do with her.,,N,GoOfWa3-280,GoOfWa3-282
+GoOfWa3-282,THE FLAME OF OLYMPUS II,,ZEUS,It has everything to do with her.,,N,GoOfWa3-281,GoOfWa3-283
+GoOfWa3-283,THE FLAME OF OLYMPUS II,,KRATOS,Put her down!,,N,GoOfWa3-282,GoOfWa3-284
+GoOfWa3-284,THE FLAME OF OLYMPUS II,,ZEUS,As you wish.,,N,GoOfWa3-283,GoOfWa3-285
+GoOfWa3-285,THE FLAME OF OLYMPUS II,,,[He throws Pandora aside and begin the bloody battle that we all have been waiting for.],,Y,GoOfWa3-284,GoOfWa3-286
+GoOfWa3-286,THE FLAME OF OLYMPUS II,,ZEUS,Surrender to me. And Pandora will live. That thing has used you! Why do you waste your time!,,N,GoOfWa3-285,GoOfWa3-287
+GoOfWa3-287,THE FLAME OF OLYMPUS II,,,[While they fight Pandora comes to her senses and runs to the flame of Olympus.],,Y,GoOfWa3-286,GoOfWa3-288
+GoOfWa3-288,THE FLAME OF OLYMPUS II,,KRATOS,"Pandora! Pandora, no!",,N,GoOfWa3-287,GoOfWa3-289
+GoOfWa3-289,THE FLAME OF OLYMPUS II,,ZEUS,"Stop her, Kratos! Do not let her into the flame!",,N,GoOfWa3-288,GoOfWa3-290
+GoOfWa3-290,THE FLAME OF OLYMPUS II,,PANDORA,This is what I am meant to do! You know that! Please.,,N,GoOfWa3-289,GoOfWa3-291
+GoOfWa3-291,THE FLAME OF OLYMPUS II,,ZEUS,Hush.,,N,GoOfWa3-290,GoOfWa3-292
+GoOfWa3-292,THE FLAME OF OLYMPUS II,,PANDORA,"Kratos, you know this is the only way.",,N,GoOfWa3-291,GoOfWa3-293
+GoOfWa3-293,THE FLAME OF OLYMPUS II,,ZEUS,"Don’t listen to her, Kratos. For once in your pathetic life, don't fail. Don't fail her like you failed your family.",,N,GoOfWa3-292,GoOfWa3-294
+GoOfWa3-294,THE FLAME OF OLYMPUS II,,,[Kratos screams from the bottom of his heart and throws Pandora into the fire. He runs to attack Zeus with his bare hands.],,Y,GoOfWa3-293,GoOfWa3-295
+GoOfWa3-295,THE FLAME OF OLYMPUS II,,KRATOS,Pandora!,,N,GoOfWa3-294,GoOfWa3-296
+GoOfWa3-296,THE FLAME OF OLYMPUS II,,,"[When he regains consciousness, he sees that the flame has disappeared and access to the Pandora's box is granted. He opens it, but it is empty.]",,Y,GoOfWa3-295,GoOfWa3-297
+GoOfWa3-297,THE FLAME OF OLYMPUS II,,KRATOS,The power to kill a god.,,N,GoOfWa3-296,GoOfWa3-298
+GoOfWa3-298,THE FLAME OF OLYMPUS II,,ZEUS, Empty? After all you have sought. After all you have sacrificed. It ends in another stunning failure.  Such chaos... I will have much to do after I kill you.,(laughs) (laughs) ,N,GoOfWa3-297,GoOfWa3-299
+GoOfWa3-299,THE FLAME OF OLYMPUS II,,KRATOS,"Face me, Father. It is time to end this.",,N,GoOfWa3-298,GoOfWa3-300
+GoOfWa3-300,THE FLAME OF OLYMPUS II,,ZEUS,Yes my son. It is time.,,N,GoOfWa3-299,GoOfWa3-301
+GoOfWa3-301,THE FLAME OF OLYMPUS II,,,"[They fight again, but Gaia suddenly appears.]",,Y,GoOfWa3-300,GoOfWa3-302
+GoOfWa3-302,THE FLAME OF OLYMPUS II,,GAIA,The reign of Olympus ends now!,,N,GoOfWa3-301,GoOfWa3-303
+GoOfWa3-303,THE FLAME OF OLYMPUS II,,KRATOS,Gaia! You live?,,N,GoOfWa3-302,GoOfWa3-304
+GoOfWa3-304,THE FLAME OF OLYMPUS II,,GAIA,"My world. It bleeds because of you. I never sought your death, Spartan, but you have left me no choice.",,N,GoOfWa3-303,GoOfWa3-305
+GoOfWa3-305,THE FLAME OF OLYMPUS II,,ZEUS,"Your pawn has failed you, Gaia. Perhaps you should have chosen the other one!",,N,GoOfWa3-304,GoOfWa3-306
+GoOfWa3-306,THE FLAME OF OLYMPUS II,,GAIA,Enough. Father and son will die together.,,N,GoOfWa3-305,GoOfWa3-307
+GoOfWa3-307,THE FLAME OF OLYMPUS II,,,"[Gaia breaks the terrace on which Kratos and Zeus stood, and they jump inside her. Kratos wants to break the heart of Gaia with his own hands, but Zeus stands in his way.]",,Y,GoOfWa3-306,GoOfWa3-308
+GoOfWa3-308,THE FLAME OF OLYMPUS II,,GAIA,Kratos.,,N,GoOfWa3-307,GoOfWa3-309
+GoOfWa3-309,THE FLAME OF OLYMPUS II,,ZEUS,I’ll put an end to this chaos. Die! Insolent fool! I will break you!,,N,GoOfWa3-308,GoOfWa3-310
+GoOfWa3-310,THE FLAME OF OLYMPUS II,,,"[Kratos defeats Zeus and pierces him with the sword of Olympus, along with the heart of Gaia. However, the father of Olympus does not even think of dying. His spirit comes out of the body.]",,Y,GoOfWa3-309,GoOfWa3-311
+GoOfWa3-311,THE FLAME OF OLYMPUS II,,SPIRIT OF ZEUS,"I grew weary of you, my son.",,N,GoOfWa3-310,GoOfWa3-312
+GoOfWa3-312,THE FLAME OF OLYMPUS II,,,[He deprives him of all accumulated artifacts and grabs his throat.],,Y,GoOfWa3-311,GoOfWa3-313
+GoOfWa3-313,THE FLAME OF OLYMPUS II,,SPIRIT OF ZEUS,"I created you and I will be your end! Let the fear inside, Kratos!",,N,GoOfWa3-312,GoOfWa3-314
+GoOfWa3-314,THE FLAME OF OLYMPUS II,,,[He kills him and sends him to Max Payne’s world of nightmares.],,Y,GoOfWa3-313,GoOfWa3-315
+GoOfWa3-315,THE FLAME OF OLYMPUS II,,SPIRIT OF ZEUS,Nothing but darkness lies ahead Kratos.,,N,GoOfWa3-314,GoOfWa3-316
+GoOfWa3-316,THE FLAME OF OLYMPUS II,,,[Kratos finds his family.],,Y,GoOfWa3-315,GoOfWa3-317
+GoOfWa3-317,THE FLAME OF OLYMPUS II,,CALLIOPE,Mother! What’s happening outside? The people! The fires!,,N,GoOfWa3-316,GoOfWa3-318
+GoOfWa3-318,THE FLAME OF OLYMPUS II,,KRATOS’ WIFE,"Shhh. Stay close, calliope.",,N,GoOfWa3-317,GoOfWa3-319
+GoOfWa3-319,THE FLAME OF OLYMPUS II,,CALLIOPE,"Mother, I’m scared. Are they coming to get us?",,N,GoOfWa3-318,GoOfWa3-320
+GoOfWa3-320,THE FLAME OF OLYMPUS II,,KRATOS’ WIFE,Your father will protect us.,,N,GoOfWa3-319,GoOfWa3-321
+GoOfWa3-321,THE FLAME OF OLYMPUS II,,YOUNG KRATOS,Burn this village! Burn it to the ground!,,N,GoOfWa3-320,GoOfWa3-322
+GoOfWa3-322,THE FLAME OF OLYMPUS II,,CALLIOPE,Daddy?,,N,GoOfWa3-321,GoOfWa3-323
+GoOfWa3-323,THE FLAME OF OLYMPUS II,,KRATOS’ WIFE,Kratos?,,N,GoOfWa3-322,GoOfWa3-324
+GoOfWa3-324,THE FLAME OF OLYMPUS II,,,[Kratos kills his family offscreen.],,Y,GoOfWa3-323,GoOfWa3-325
+GoOfWa3-325,THE FLAME OF OLYMPUS II,,CALLIOPE,"Father, no! No father, no!",,N,GoOfWa3-324,GoOfWa3-326
+GoOfWa3-326,THE FLAME OF OLYMPUS II,,KRATOS,My wife. My child... How? They were left in Sparta.,,N,GoOfWa3-325,GoOfWa3-327
+GoOfWa3-327,THE FLAME OF OLYMPUS II,,YOUNG KRATOS,Ares!,,N,GoOfWa3-326,GoOfWa3-328
+GoOfWa3-328,THE FLAME OF OLYMPUS II,,SPIRIT OF PANDORA,"Hurry! I can help, Kratos. Kratos. In the darkness the fires of hope will set us free.",,N,GoOfWa3-327,GoOfWa3-329
+GoOfWa3-329,THE FLAME OF OLYMPUS II,,,[She burns in a blue flame. Kratos lights the lamp from this flame and goes on.],,Y,GoOfWa3-328,GoOfWa3-330
+GoOfWa3-330,THE FLAME OF OLYMPUS II,,KRATOS’ WIFE,"You can see the light. It is changing you. It is time to lay your fears to rest. The light reveals the truth. The power of forgiveness comes from within. To be forgiven, you must find the power to forgive yourself.",,N,GoOfWa3-329,GoOfWa3-331
+GoOfWa3-331,THE FLAME OF OLYMPUS II,,,[She hugs him and burns in the blue flame. Kratos goes further and sees the scene of the murder of Athena.],,Y,GoOfWa3-330,GoOfWa3-332
+GoOfWa3-332,THE FLAME OF OLYMPUS II,,ATHENA,"No, Kratos! Stop!",,N,GoOfWa3-331,GoOfWa3-333
+GoOfWa3-333,THE FLAME OF OLYMPUS II,,YOUNG KRATOS,Athena! No!,,N,GoOfWa3-332,GoOfWa3-334
+GoOfWa3-334,THE FLAME OF OLYMPUS II,,ATHENA,"Kratos, fear drove Zeus to kill his father, Cronos. The same fear that brought the great war. A fear that drove Zeus to kill you, his own son. Zeus uses fear to keep you in the dark. Confront your demons and lay them to rest.",,N,GoOfWa3-333,GoOfWa3-335
+GoOfWa3-335,THE FLAME OF OLYMPUS II,,,[She burns in the blue flame.],,Y,GoOfWa3-334,GoOfWa3-336
+GoOfWa3-336,THE FLAME OF OLYMPUS II,,SPIRIT OF PANDORA,"Over here, Kratos.",,N,GoOfWa3-335,GoOfWa3-337
+GoOfWa3-337,THE FLAME OF OLYMPUS II,,,"[Kratos walks over the edge, looks down and says the legendary phrase from the first game.]",,Y,GoOfWa3-336,GoOfWa3-338
+GoOfWa3-338,THE FLAME OF OLYMPUS II,,KRATOS,The gods of Olympus have abandoned me. Now there is…,,N,GoOfWa3-337,GoOfWa3-339
+GoOfWa3-339,THE FLAME OF OLYMPUS II,,,"[He jumps into the abyss, but does not dies. He enters the ocean full of blood, where the souls of those who he killed cry out to him. He swims this ocean.]",,Y,GoOfWa3-338,GoOfWa3-340
+GoOfWa3-340,THE FLAME OF OLYMPUS II,,SPIRIT,Kratos!,,N,GoOfWa3-339,GoOfWa3-341
+GoOfWa3-341,THE FLAME OF OLYMPUS II,,BARBARIAN,Do you remember that day Spartan?,,N,GoOfWa3-340,GoOfWa3-342
+GoOfWa3-342,THE FLAME OF OLYMPUS II,,HEPHAESTUS,I won't allow you to hurt her.,,N,GoOfWa3-341,GoOfWa3-343
+GoOfWa3-343,THE FLAME OF OLYMPUS II,,HERA,Good luck with that little whore you call Pandora!,,N,GoOfWa3-342,GoOfWa3-344
+GoOfWa3-344,THE FLAME OF OLYMPUS II,,SISTER OF FATE,"You cannot change your destiny, mortal!",,N,GoOfWa3-343,GoOfWa3-345
+GoOfWa3-345,THE FLAME OF OLYMPUS II,,SPIRIT,I gave you everything!,,N,GoOfWa3-344,GoOfWa3-346
+GoOfWa3-346,THE FLAME OF OLYMPUS II,,SPIRIT,Please don't do it Spartan!,,N,GoOfWa3-345,GoOfWa3-347
+GoOfWa3-347,THE FLAME OF OLYMPUS II,,CRONOS,You have what you came for! Let me be!,,N,GoOfWa3-346,GoOfWa3-348
+GoOfWa3-348,THE FLAME OF OLYMPUS II,,SPIRIT,"Die, Spartan!",,N,GoOfWa3-347,GoOfWa3-349
+GoOfWa3-349,THE FLAME OF OLYMPUS II,,HERMES,"Today you may defeat me, but in the end, Kratos, in the end you'll betray only yourself.",,N,GoOfWa3-348,GoOfWa3-350
+GoOfWa3-350,THE FLAME OF OLYMPUS II,,TYPHON,"You will pay for that, Kratos!",,N,GoOfWa3-349,GoOfWa3-351
+GoOfWa3-351,THE FLAME OF OLYMPUS II,,SPIRIT OF PANDORA,Come. I can show you the way.,,N,GoOfWa3-350,GoOfWa3-352
+GoOfWa3-352,THE FLAME OF OLYMPUS II,,SPIRIT,"Die, Kratos!",,N,GoOfWa3-351,GoOfWa3-353
+GoOfWa3-353,THE FLAME OF OLYMPUS II,,ZEUS,I created you and I will be your end!,,N,GoOfWa3-352,GoOfWa3-354
+GoOfWa3-354,THE FLAME OF OLYMPUS II,,SPIRIT OF PANDORA,Hurry!,,N,GoOfWa3-353,GoOfWa3-355
+GoOfWa3-355,THE FLAME OF OLYMPUS II,,ZEUS,Why won’t you die! Die! Tremble in fear.,,N,GoOfWa3-354,GoOfWa3-356
+GoOfWa3-356,THE FLAME OF OLYMPUS II,,SPIRIT OF PANDORA,"Kratos! Over here, Kratos. Hurry, Kratos! Kratos, please. I need you to free me.",,N,GoOfWa3-355,GoOfWa3-357
+GoOfWa3-357,THE FLAME OF OLYMPUS II,,ZEUS,"Don't listen to her, Kratos. For once in your pathetic life, don't fail. Don't fail her like you failed your family.",,N,GoOfWa3-356,GoOfWa3-358
+GoOfWa3-358,THE FLAME OF OLYMPUS II,,SPIRIT OF PANDORA,"It's alright, Kratos. Kratos, you know this is the only way. As the fear in the gods rose, mine was replaced by hope.",,N,GoOfWa3-357,GoOfWa3-359
+GoOfWa3-359,THE FLAME OF OLYMPUS II,,,[Kratos swims up to Pandora's box.],,Y,GoOfWa3-358,GoOfWa3-360
+GoOfWa3-360,THE FLAME OF OLYMPUS II,,KRATOS,The power to kill a god.,,N,GoOfWa3-359,GoOfWa3-361
+GoOfWa3-361,THE FLAME OF OLYMPUS II,,,[He opens the box and jumps back through his life to the world of living.],,Y,GoOfWa3-360,GoOfWa3-362
+GoOfWa3-362,THE FLAME OF OLYMPUS II,,SPIRIT OF PANDORA,Hope is what makes us strong. This is why we are here. It is what we fight with when all else is lost.,,N,GoOfWa3-361,GoOfWa3-363
+GoOfWa3-363,THE FLAME OF OLYMPUS II,,,"[His hands burn with a blue flame. Now he is ready to fight with Zeus. He beats him with such force and hatred, that turns him into a bloody mess. With the death of father of Olympus, real chaos begin to reign on earth.]",,Y,GoOfWa3-362,GoOfWa3-364
+GoOfWa3-364,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA,"You have done well, Kratos. Freed from the bondage of Olympus and cleansed in chaos. Mankind is now ready to hear my message.",,N,GoOfWa3-363,GoOfWa3-365
+GoOfWa3-365,THE FLAME OF OLYMPUS II,,KRATOS,"Look around you, Athena. The world stands in ruin. What good is your message?",,N,GoOfWa3-364,GoOfWa3-366
+GoOfWa3-366,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA,"Go if you must, but first I insist you give me the power from inside the box.",,N,GoOfWa3-365,GoOfWa3-367
+GoOfWa3-367,THE FLAME OF OLYMPUS II,,KRATOS,The box was empty.,,N,GoOfWa3-366,GoOfWa3-368
+GoOfWa3-368,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA,"That can’t be true. I can see it in your eyes. You used my power to kill Zeus. You still have it as we speak. Don’t you understand? When Zeus gathered all the evils and placed them in the box. I dreaded what would happen if it was opened again. And so, I summoned the most powerful weapon in the world and I placed it in the box.",,N,GoOfWa3-367,GoOfWa3-369
+GoOfWa3-369,THE FLAME OF OLYMPUS II,,KRATOS,"I told you, it was empty. Pandora was sacrificed in vain. She died because of my need for vengeance.",,N,GoOfWa3-368,GoOfWa3-370
+GoOfWa3-370,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA,"You must be mistaken. You used my power to kill Zeus. I saw you do it. Unless... Of course. When you opened the box you released the evils to the gods. Infected them. Changed them. Zeus himself fell prey to the dark evils. This is why he became so enraged and obsessed with your death. He was consumed by the evil, fear. I thought the power I placed in the box was never released all these years I assumed you drew from the evils inside to destroy Ares. But I was wrong… the power you took from the box is mine. From it you gained the strength that Zeus could never destroy. A strength great enough to overcome fear. Locked deep inside of you Kratos, is hope. It has remained buried, trapped by your guilt and the failures of your past. When you kill Zeus, you must have allowed something to awaken it. What was it, Kratos?",,N,GoOfWa3-369,GoOfWa3-371
+GoOfWa3-371,THE FLAME OF OLYMPUS II,,PANDORA,Hope is what makes us strong. This is why we are here. It is what we fight with when all else is lost.,,N,GoOfWa3-370,GoOfWa3-372
+GoOfWa3-372,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA,"What was it, Kratos?",,N,GoOfWa3-371,GoOfWa3-373
+GoOfWa3-373,THE FLAME OF OLYMPUS II,,KRATOS,All I remember is what I have lost.,,N,GoOfWa3-372,GoOfWa3-374
+GoOfWa3-374,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA,"That is why you should give me the power. I understand its true meaning and where it belongs. Trust you to do the right thing, Kratos.",,N,GoOfWa3-373,GoOfWa3-375
+GoOfWa3-375,THE FLAME OF OLYMPUS II,,KRATOS,You shouldn't.,,N,GoOfWa3-374,GoOfWa3-376
+GoOfWa3-376,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA," You owe me this, Kratos.",(angrily) ,N,GoOfWa3-375,GoOfWa3-377
+GoOfWa3-377,THE FLAME OF OLYMPUS II,,KRATOS, I owe you nothing!,(threateningly) ,N,GoOfWa3-376,GoOfWa3-378
+GoOfWa3-378,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA,I made you a god. I sheltered you from the wrath of Olympus. I delivered your revenge on Zeus.,,N,GoOfWa3-377,GoOfWa3-379
+GoOfWa3-379,THE FLAME OF OLYMPUS II,,KRATOS,"It is over, Athena.",,N,GoOfWa3-378,GoOfWa3-380
+GoOfWa3-380,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA,"You would dare strike me down, again?",,N,GoOfWa3-379,GoOfWa3-381
+GoOfWa3-381,THE FLAME OF OLYMPUS II,,KRATOS,My vengeance ends now.,,N,GoOfWa3-380,GoOfWa3-382
+GoOfWa3-382,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA,"Kratos, no!",,N,GoOfWa3-381,GoOfWa3-383
+GoOfWa3-383,THE FLAME OF OLYMPUS II,,,[Kratos swings his sword and pierces himself through.],,Y,GoOfWa3-382,GoOfWa3-384
+GoOfWa3-384,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA,You fool! What have you done?,,N,GoOfWa3-383,GoOfWa3-385
+GoOfWa3-385,THE FLAME OF OLYMPUS II,,,[The power of hope leaves Kratos and spreads around the world.],,Y,GoOfWa3-384,GoOfWa3-386
+GoOfWa3-386,THE FLAME OF OLYMPUS II,,SPIRIT OF ATHENA,"No! That was meant for me! They will not know what to do with it! You disappoint me, Spartan.",,N,GoOfWa3-385,GoOfWa3-387
+GoOfWa3-387,THE FLAME OF OLYMPUS II,,,[She leaves. Kratos slowly dies in a pool of his own blood... But a moment later we see that Kratos' body has disappeared.],,Y,GoOfWa3-386,GoOfWa3-388

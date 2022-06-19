@@ -1,0 +1,732 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+ReEv3(2-2,,,Reporter 1,This pandemic has spread faster than any disease in modern history—,,N,ReEv3(2-1,ReEv3(2-3
+ReEv3(2-3,,,Helicopter Loudspeaker,You need to disperse immediately!,,N,ReEv3(2-2,ReEv3(2-4
+ReEv3(2-4,,,Reporter 2,"Angry mobs roam the city, burning buildings—",,N,ReEv3(2-3,ReEv3(2-5
+ReEv3(2-5,,,Reporter 3,Authorities are bracing for more rioting tonight—,,N,ReEv3(2-4,ReEv3(2-6
+ReEv3(2-6,,,Witness,"He was knocked unconscious, he had severe lacerations all over his face—",,N,ReEv3(2-5,ReEv3(2-7
+ReEv3(2-7,,,Reporter 4,A citywide emergency has been declared—,,N,ReEv3(2-6,ReEv3(2-8
+ReEv3(2-8,,,Government Official,The CDC has quarantined the lower mid-western region of the USA—,,N,ReEv3(2-7,ReEv3(2-9
+ReEv3(2-9,,,Reporter 5,Officials can't say—,,N,ReEv3(2-8,ReEv3(2-10
+ReEv3(2-10,,,,[Then we're jumping to Umbrella's offices. A certain representative broadcasts the official position of the company.],,Y,ReEv3(2-9,ReEv3(2-11
+ReEv3(2-11,,,"Dr. Matt Gorkis, Genetic Scientist","Commitment, honesty, integrity. These are the core values that create the foundation for Umbrella Corp. It's this foundation that will continue to build a brighter future for all of us.",,N,ReEv3(2-10,ReEv3(2-12
+ReEv3(2-12,,,,"[Against the background of his words, we see scientists conducting experiments, taking the contaminated blood and injecting it into some creepy monster.]",,Y,ReEv3(2-11,ReEv3(2-13
+ReEv3(2-13,RESIDENT EVIL 3,,,"[Umbrella employees load the coffin with the monster in the helicopter. We see some writings on the coffin - CARTRIDGE FOR BIOWEAPON, CODENAME: NEMESIS, LOT: NONE.]",,Y,ReEv3(2-12,ReEv3(2-14
+ReEv3(2-14,RESIDENT EVIL 3,,,"[Jill wakes up in her room. There's a storm going on outside the window. She closes the window and goes to the bathroom. We see a board of paper clippings on her way. Jill must have been investigating something for a long time. In the bathroom her nose is starting to bleed… Jill is slowly turning into a zombie... Overwhelmed with despair, she grabs the gun, pulls the trigger and... she wakes up.]",,Y,ReEv3(2-13,ReEv3(2-15
+ReEv3(2-15,RESIDENT EVIL 3,,Jill,Fucking hell… Gets worse every night...  Three more days. Then I can kiss this town goodbye.,(looking at marked calendar) ,N,ReEv3(2-14,ReEv3(2-16
+ReEv3(2-16,RESIDENT EVIL 3,,,"[She's looking over her records, trying to get her working mood back on track.]",,Y,ReEv3(2-15,ReEv3(2-17
+ReEv3(2-17,RESIDENT EVIL 3,,,[Jill’s Report],,Y,ReEv3(2-16,ReEv3(2-18
+ReEv3(2-26,The T-Virus,"September 26, 1998",,[Investigation Notes],,Y,ReEv3(2-25,ReEv3(2-27
+ReEv3(2-33,- Effectively controls the city,- Large donations to Mayor Warren's office,,[Unsealed Envelope],,Y,ReEv3(2-32,ReEv3(2-34
+ReEv3(2-38,- Effectively controls the city,Wish me luck.,,[Message from a Colleague],,Y,ReEv3(2-37,ReEv3(2-39
+ReEv3(2-45,Brad Vickers,Wish me luck.,Jill,Who could that be? Hello?,,N,ReEv3(2-44,ReEv3(2-46
+ReEv3(2-46,Brad Vickers,Wish me luck.,An agitated man's voice,Jill! A-Are you OK?,,N,ReEv3(2-45,ReEv3(2-47
+ReEv3(2-47,Brad Vickers,Wish me luck.,Jill,Brad? Is that you?,,N,ReEv3(2-46,ReEv3(2-48
+ReEv3(2-48,Brad Vickers,Wish me luck.,Brad,Listen! You gotta get out of there!,,N,ReEv3(2-47,ReEv3(2-49
+ReEv3(2-49,Brad Vickers,Wish me luck.,Jill,What are you talking about?,,N,ReEv3(2-48,ReEv3(2-50
+ReEv3(2-50,Brad Vickers,Wish me luck.,Brad,I don't have time to explain. You gotta get out of there RIGHT NOW!,,N,ReEv3(2-49,ReEv3(2-51
+ReEv3(2-51,Brad Vickers,Wish me luck.,Jill,Alright. Let me grab my—,,N,ReEv3(2-50,ReEv3(2-52
+ReEv3(2-52,Brad Vickers,Wish me luck.,,"[In this very second the wall of the room collapses, throwing Jill to the floor. A monster named Nemesis enters the room. Jill grabs a gun and tries to shoot the monster several times, but without success. He grabs her shoulder and throws her on the floor. Jill gets up, dodges a fatal blow to the head and runs for the door. She runs out into the hallway.]",,Y,ReEv3(2-51,ReEv3(2-53
+ReEv3(2-53,Brad Vickers,Wish me luck.,Jill,What the hell is that thing!? Gotta get outta here. What the hell!? No way!,,N,ReEv3(2-52,ReEv3(2-54
+ReEv3(2-54,Brad Vickers,Wish me luck.,,"[She goes downstairs, but Nemesis catches up with her breaking the floor. A creepy, nasty tentacle comes out of his hand. Jill crawls out, grabs a sharp piece of stone and cuts off the tentacle trying to pull her away. Jill runs away and goes down one more floor.]",,Y,ReEv3(2-53,ReEv3(2-55
+ReEv3(2-55,Brad Vickers,Wish me luck.,Jill,OK.,,N,ReEv3(2-54,ReEv3(2-56
+ReEv3(2-56,Brad Vickers,Wish me luck.,,"[As soon as she had finished, the door next to her breaks down and Nemesis grabs her, dragging her into a burning corridor like the abysses of hell. Jill dodges the powerful blows that break the planks. Nemesis rips out a piece of the CEILING and runs to our heroine with it! She barely manages to reach the opposite end of the corridor and leave the building - the passageway is blocked with stones and only this stops her terrible pursuer!]",,Y,ReEv3(2-55,ReEv3(2-57
+ReEv3(2-57,Brad Vickers,Wish me luck.,Jill,What the fuck!?,,N,ReEv3(2-56,ReEv3(2-58
+ReEv3(2-58,Brad Vickers,Wish me luck.,,[An old friend meets her at the exit of the alley.],,Y,ReEv3(2-57,ReEv3(2-59
+ReEv3(2-59,Brad Vickers,Wish me luck.,Brad,Jill! Over here!,,N,ReEv3(2-58,ReEv3(2-60
+ReEv3(2-60,Brad Vickers,Wish me luck.,Jill,Brad!,,N,ReEv3(2-59,ReEv3(2-61
+ReEv3(2-61,Brad Vickers,Wish me luck.,Brad,You OK?,,N,ReEv3(2-60,ReEv3(2-62
+ReEv3(2-62,Brad Vickers,Wish me luck.,Jill,What was that thing?,,N,ReEv3(2-61,ReEv3(2-63
+ReEv3(2-63,Brad Vickers,Wish me luck.,Brad,"Damned if I know. But right now, it's got a hard-on for the only two S.T.A.R.S. left in town: you and me. I'm not stickin' around. Just look around you. The longer we wait, the more screwed we are.",,N,ReEv3(2-62,ReEv3(2-64
+ReEv3(2-64,Brad Vickers,Wish me luck.,,"[Jill is taking to the streets. Around the chaos, broken windows, abandoned cars and human screams...]",,Y,ReEv3(2-63,ReEv3(2-65
+ReEv3(2-65,Brad Vickers,Wish me luck.,Jill,How did this all happen so fast?,,N,ReEv3(2-64,ReEv3(2-66
+ReEv3(2-66,Brad Vickers,Wish me luck.,Brad,I dunno. But one fucked-up thing always leads to another. It's like Arklay on steroids.,,N,ReEv3(2-65,ReEv3(2-67
+ReEv3(2-67,Brad Vickers,Wish me luck.,,[There's a helicopter flying over them.],,Y,ReEv3(2-66,ReEv3(2-68
+ReEv3(2-68,Brad Vickers,Wish me luck.,Brad,"Hey! Hey, wait! Down here! Ah, god dammit...",,N,ReEv3(2-67,ReEv3(2-69
+ReEv3(2-69,Brad Vickers,Wish me luck.,Jill,We've gotta be dreaming. How could this many people be infected?,,N,ReEv3(2-68,ReEv3(2-70
+ReEv3(2-70,Brad Vickers,Wish me luck.,,[She notices a bunch of zombies behind a fence. They're getting ready to overcome the obstacle.],,Y,ReEv3(2-69,ReEv3(2-71
+ReEv3(2-71,Brad Vickers,Wish me luck.,Jill,Brad! Here they come!,,N,ReEv3(2-70,ReEv3(2-72
+ReEv3(2-72,Brad Vickers,Wish me luck.,Brad,In here!,,N,ReEv3(2-71,ReEv3(2-73
+ReEv3(2-73,Brad Vickers,Wish me luck.,Jill,There's so many...,,N,ReEv3(2-72,ReEv3(2-74
+ReEv3(2-74,Brad Vickers,Wish me luck.,,[She runs to nearby bar Jack. Brad holds the door behind her.],,Y,ReEv3(2-73,ReEv3(2-75
+ReEv3(2-75,Brad Vickers,Wish me luck.,Brad,Door behind you! Go!,,N,ReEv3(2-74,ReEv3(2-76
+ReEv3(2-76,Brad Vickers,Wish me luck.,,[A bursting zombie bites Brad in the elbow. Blood is pouring and the guy is screaming.],,Y,ReEv3(2-75,ReEv3(2-77
+ReEv3(2-77,Brad Vickers,Wish me luck.,Jill,Brad!,,N,ReEv3(2-76,ReEv3(2-78
+ReEv3(2-78,Brad Vickers,Wish me luck.,,[Jill grabs a knife and puts it in the zombie’s head then hold the door.],,Y,ReEv3(2-77,ReEv3(2-79
+ReEv3(2-79,Brad Vickers,Wish me luck.,Jill,Don't think about it. We're gonna make a run for it!,,N,ReEv3(2-78,ReEv3(2-80
+ReEv3(2-80,Brad Vickers,Wish me luck.,Brad,"C'mon, Jill. We know how this ends.",,N,ReEv3(2-79,ReEv3(2-81
+ReEv3(2-81,Brad Vickers,Wish me luck.,Jill,No. I don't.,,N,ReEv3(2-80,ReEv3(2-82
+ReEv3(2-82,Brad Vickers,Wish me luck.,Brad,Are we still a team?,,N,ReEv3(2-81,ReEv3(2-83
+ReEv3(2-83,Brad Vickers,Wish me luck.,Jill,Always.,,N,ReEv3(2-82,ReEv3(2-84
+ReEv3(2-84,Brad Vickers,Wish me luck.,Brad,Then do me a favor and don't fuck up like I did. Go!,,N,ReEv3(2-83,ReEv3(2-85
+ReEv3(2-85,Brad Vickers,Wish me luck.,,[He pushes her away from the door. Jill goes outside.],,Y,ReEv3(2-84,ReEv3(2-86
+ReEv3(2-86,Brad Vickers,Wish me luck.,Jill,"I'm sorry, Brad…",,N,ReEv3(2-85,ReEv3(2-87
+ReEv3(2-87,Brad Vickers,Wish me luck.,,[She takes the gun from a dead cop's hand.],,Y,ReEv3(2-86,ReEv3(2-88
+ReEv3(2-88,Brad Vickers,Wish me luck.,Jill,Sorry.,,N,ReEv3(2-87,ReEv3(2-89
+ReEv3(2-89,Brad Vickers,Wish me luck.,,[She checks the number of rounds in the clip. It's only five bullets. A zombie slowly walks into an alley. Jill decides not to waste the bullets and runs away.],,Y,ReEv3(2-88,ReEv3(2-90
+ReEv3(2-90,Brad Vickers,Wish me luck.,Helicopter Loudspeaker,You down there! Get to the parking garage roof!,,N,ReEv3(2-89,ReEv3(2-91
+ReEv3(2-91,Brad Vickers,Wish me luck.,Jill,Parking garage. Got it.,,N,ReEv3(2-90,ReEv3(2-92
+ReEv3(2-92,Brad Vickers,Wish me luck.,,[She enters a garage and sees a man standing in the distance.],,Y,ReEv3(2-91,ReEv3(2-93
+ReEv3(2-93,Brad Vickers,Wish me luck.,Jill,"Sir, are you alright?",,N,ReEv3(2-92,ReEv3(2-94
+ReEv3(2-94,Brad Vickers,Wish me luck.,Man,Stay back! Don't come any closer!,,N,ReEv3(2-93,ReEv3(2-95
+ReEv3(2-95,Brad Vickers,Wish me luck.,Jill,"Hey, come on. There's a helicopter waiting to take you to safety.",,N,ReEv3(2-94,ReEv3(2-96
+ReEv3(2-96,Brad Vickers,Wish me luck.,Man,"What ""safety""? I'm not going out there!",,N,ReEv3(2-95,ReEv3(2-97
+ReEv3(2-97,Brad Vickers,Wish me luck.,Jill,The parking garage isn't far. I can take you there.,,N,ReEv3(2-96,ReEv3(2-98
+ReEv3(2-98,Brad Vickers,Wish me luck.,Man,The only safe place is in here!,,N,ReEv3(2-97,ReEv3(2-99
+ReEv3(2-99,Brad Vickers,Wish me luck.,,[He locks himself in the back of a truck.],,Y,ReEv3(2-98,ReEv3(2-100
+ReEv3(2-100,Brad Vickers,Wish me luck.,Jill,"Sir, what's your name? I can't just leave you behind.",,N,ReEv3(2-99,ReEv3(2-101
+ReEv3(2-101,Brad Vickers,Wish me luck.,Mna,"It's Dario Rosso. And yeah, right. You just want to steal my safehouse! Get your own, missy!",,N,ReEv3(2-100,ReEv3(2-102
+ReEv3(2-102,Brad Vickers,Wish me luck.,Jill,“Missy”? Would you please calm down? I'm a police officer. I'm here to help.,,N,ReEv3(2-101,ReEv3(2-103
+ReEv3(2-103,Brad Vickers,Wish me luck.,Dario,"Oh, yeah, you've been doing-a-bang-up job. You wanna help? Go handcuff yourself to one of those freaks.",,N,ReEv3(2-102,ReEv3(2-104
+ReEv3(2-104,Brad Vickers,Wish me luck.,Jill,"Sir, this is your last chance. No one else is coming-for-you.",,N,ReEv3(2-103,ReEv3(2-105
+ReEv3(2-105,Brad Vickers,Wish me luck.,Dario,I'm not going anywhere! I'd rather starve to death in here than be eaten by one of those undead-monsters! Now leave me alone!,,N,ReEv3(2-104,ReEv3(2-106
+ReEv3(2-106,Brad Vickers,Wish me luck.,,"[Jill has nothing left but to go on. She picks up ammo and leaves the garage. She makes her way to a parking lot. Zombies come out all over her trying to eat juicy brains, but Jill manages to dodge them. Unfortunately, the elevator in the parking lot is also full of zombies and Jill has to fight hand-to-hand.]",,Y,ReEv3(2-105,ReEv3(2-107
+ReEv3(2-107,Brad Vickers,Wish me luck.,Jill,Shit!,,N,ReEv3(2-106,ReEv3(2-108
+ReEv3(2-108,Brad Vickers,Wish me luck.,,"[Throwing the zombie away, she runs into the elevator and presses the button quickly.]",,Y,ReEv3(2-107,ReEv3(2-109
+ReEv3(2-109,Brad Vickers,Wish me luck.,Jill,Come on.,,N,ReEv3(2-108,ReEv3(2-110
+ReEv3(2-110,Brad Vickers,Wish me luck.,,[She goes up to the roof where the helicopter already circling around.],,Y,ReEv3(2-109,ReEv3(2-111
+ReEv3(2-111,Brad Vickers,Wish me luck.,Jill,Hey! Down here!,,N,ReEv3(2-110,ReEv3(2-112
+ReEv3(2-112,Brad Vickers,Wish me luck.,Helicopter Loudspeaker,"Hey, get in!",,N,ReEv3(2-111,ReEv3(2-113
+ReEv3(2-113,Brad Vickers,Wish me luck.,,"[Suddenly, the helicopter explodes and crashes into the roof of the parking lot. Jill, who's already suffered enough lately, almost dies. From afar, the terrible Nemesis is coming at her with determined footsteps. Jill opens the door of a car standing nearby.]",,Y,ReEv3(2-112,ReEv3(2-114
+ReEv3(2-114,Brad Vickers,Wish me luck.,Jill," Sorry… Oh, come on. Start, dammit!",(throwing a dead man out of his car) ,N,ReEv3(2-113,ReEv3(2-115
+ReEv3(2-115,Brad Vickers,Wish me luck.,,[The car is finally starting.],,Y,ReEv3(2-114,ReEv3(2-116
+ReEv3(2-116,Brad Vickers,Wish me luck.,Jill,"It's my turn, bitch!",,N,ReEv3(2-115,ReEv3(2-117
+ReEv3(2-117,Brad Vickers,Wish me luck.,,"[She shifts gear and steps on the accelerator. When she hits the beast, she doesn't knock it down. Even the full speed of the car does not move Nemesis. The creepy thing breaks the windshield and stretches its hand out to Jill. The power of the car engine does knock the Nemesis down eventually and they fly off the roof of the parking lot. Jill manages not to lose consciousness. Nemesis gets off the asphalt without actually getting any damage. Jill crawls out of the car and runs away. The car immediately explodes, setting Nemesis on fire. He ignores it, goes to Jill, who crawls on the asphalt with no strength left.]",,Y,ReEv3(2-116,ReEv3(2-118
+ReEv3(2-118,Brad Vickers,Wish me luck.,Man,"Hey, fuckface.",,N,ReEv3(2-117,ReEv3(2-119
+ReEv3(2-119,Brad Vickers,Wish me luck.,,[A man shoots him with a rocket launcher. Nemesis intercepts the missile with a tentacle and throws it away. The man shoots again! Nemesis falls on the asphalt.],,Y,ReEv3(2-118,ReEv3(2-120
+ReEv3(2-120,Brad Vickers,Wish me luck.,Man,"Hey, easy lady… I got ya.",,N,ReEv3(2-119,ReEv3(2-121
+ReEv3(2-121,Brad Vickers,Wish me luck.,Jill,Who are you? What are you do—,,N,ReEv3(2-120,ReEv3(2-122
+ReEv3(2-122,Brad Vickers,Wish me luck.,Man,"Name's Carlos and I'm saving you! C'mon, let's get you someplace safe.",,N,ReEv3(2-121,ReEv3(2-123
+ReEv3(2-123,Brad Vickers,Wish me luck.,,[They run into the lobby of the subway.],,Y,ReEv3(2-122,ReEv3(2-124
+ReEv3(2-124,Brad Vickers,Wish me luck.,Carlos,I think we're in the clear.,,N,ReEv3(2-123,ReEv3(2-125
+ReEv3(2-125,Brad Vickers,Wish me luck.,Jill,Hope so.,,N,ReEv3(2-124,ReEv3(2-126
+ReEv3(2-126,Brad Vickers,Wish me luck.,Carlos,We've been bringing survivors here.,,N,ReEv3(2-125,ReEv3(2-127
+ReEv3(2-127,Brad Vickers,Wish me luck.,Jill,"""Here"" where?",,N,ReEv3(2-126,ReEv3(2-128
+ReEv3(2-128,Brad Vickers,Wish me luck.,Carlos,My guys have converted some subway cars into a shelter. It's safe.,,N,ReEv3(2-127,ReEv3(2-129
+ReEv3(2-129,Brad Vickers,Wish me luck.,,[He wants to help Jill to walk.],,Y,ReEv3(2-128,ReEv3(2-130
+ReEv3(2-130,Brad Vickers,Wish me luck.,Jill,I’m fine.,,N,ReEv3(2-129,ReEv3(2-131
+ReEv3(2-131,Brad Vickers,Wish me luck.,Carlos,"Personal space, OK. I get it. Let's go. Aw, c'mon. Who's the dipshit that closed this? Sorry. We're gonna have to go around.",,N,ReEv3(2-130,ReEv3(2-132
+ReEv3(2-132,Brad Vickers,Wish me luck.,Jill,"Hey, what do you know about that monster?",,N,ReEv3(2-131,ReEv3(2-133
+ReEv3(2-133,Brad Vickers,Wish me luck.,Carlos,Nothing. I've never seen anything like it. But it's no zombie. It knows what it wants and won't stop till it gets it. Don't you like that in a man?,,N,ReEv3(2-132,ReEv3(2-134
+ReEv3(2-134,Brad Vickers,Wish me luck.,Jill,No thanks. He's all yours.,,N,ReEv3(2-133,ReEv3(2-135
+ReEv3(2-135,Brad Vickers,Wish me luck.,Carlos,"Listen, I promise you're in good hands. I'm with the Umbrella Biohazard Countermeasure Service. U.B.C.S. for short.",,N,ReEv3(2-134,ReEv3(2-136
+ReEv3(2-136,Brad Vickers,Wish me luck.,Jill,Are you kidding me? Are you fucking kidding me? You guys are the ones who caused all of this!,,N,ReEv3(2-135,ReEv3(2-137
+ReEv3(2-137,Brad Vickers,Wish me luck.,Carlos,Whoa whoa whoa whoa. What are you talking about? We're just here to help people. What's wrong with Umbrella?,,N,ReEv3(2-136,ReEv3(2-138
+ReEv3(2-138,Brad Vickers,Wish me luck.,Jill,"""What's wrong with Umbrella?"" Oh my god. Your company is responsible for infecting everyone!",,N,ReEv3(2-137,ReEv3(2-139
+ReEv3(2-139,Brad Vickers,Wish me luck.,Carlos,"Yeah, uh, I don't know anything about all that. You don't have to trust me, but I'm going to the shelter. You comin'? C'mon. It's this way.",,N,ReEv3(2-138,ReEv3(2-140
+ReEv3(2-140,Brad Vickers,Wish me luck.,,"[They enter the wagon of the train, where sits a harsh military in a red beret.]",,Y,ReEv3(2-139,ReEv3(2-141
+ReEv3(2-141,Brad Vickers,Wish me luck.,Carlos,Hey Captain. This fine young lady could use our help.,,N,ReEv3(2-140,ReEv3(2-142
+ReEv3(2-142,Brad Vickers,Wish me luck.,Captain,"Carlos, you didn't even think to ask fine young lady her name? She is an elite operative of R.P.D. Special Tactics and Rescue Service. Her name is… something... Valentine.",,N,ReEv3(2-141,ReEv3(2-143
+ReEv3(2-143,Brad Vickers,Wish me luck.,Jill,It’s Jill.,,N,ReEv3(2-142,ReEv3(2-144
+ReEv3(2-144,Brad Vickers,Wish me luck.,Captain,"Nice to meet you, Jill. I am U.B.C.S. Platoon Leader Mikhail Victor. My team was sent here to rescue civilians.",,N,ReEv3(2-143,ReEv3(2-145
+ReEv3(2-145,Brad Vickers,Wish me luck.,,"[The man speaks with a heavy Russian accent, but instead of his surname and name he has two names for some reason. Since I don't know which one of these is the name that defined for him by developers, I will call him Mikhail.]",,Y,ReEv3(2-144,ReEv3(2-146
+ReEv3(2-146,Brad Vickers,Wish me luck.,Jill,Right. How's that going for you?,,N,ReEv3(2-145,ReEv3(2-147
+ReEv3(2-147,Brad Vickers,Wish me luck.,Mikhail,"The city is completely cut off. Isolated. Most of the hundred thousand civilians will wind up dead. Ah, correction: undead. My platoon has suffered serious losses. Just keeping them alive is more than I can manage.",,N,ReEv3(2-146,ReEv3(2-148
+ReEv3(2-148,Brad Vickers,Wish me luck.,Jill,"Well, you can thank your corporate overlords for that.",,N,ReEv3(2-147,ReEv3(2-149
+ReEv3(2-149,Brad Vickers,Wish me luck.,Mikhail,"Yes, well... We are doing all we can. If we can get this subway train moving... we can evacuate some survivors. But we need help. My men cannot do this alone.",,N,ReEv3(2-148,ReEv3(2-150
+ReEv3(2-150,Brad Vickers,Wish me luck.,Jill,"Alright, I'm in. But I am on their side. Not yours.",,N,ReEv3(2-149,ReEv3(2-151
+ReEv3(2-151,Brad Vickers,Wish me luck.,Carlos,"Oh hey, hey, that's cool. We all want the same thing.",,N,ReEv3(2-150,ReEv3(2-152
+ReEv3(2-152,Brad Vickers,Wish me luck.,Mikhail,"Thank you, Jill.",,N,ReEv3(2-151,ReEv3(2-153
+ReEv3(2-153,Brad Vickers,Wish me luck.,Carlos,"Alright, supercop. Here you go. We can use this to stay in contact.",,N,ReEv3(2-152,ReEv3(2-154
+ReEv3(2-154,Brad Vickers,Wish me luck.,Jill,I know what a radio is.,,N,ReEv3(2-153,ReEv3(2-155
+ReEv3(2-155,Brad Vickers,Wish me luck.,Carlos,"OK, first things first. We need to get you geared up. Head up to street level. You'll find supplies there.",,N,ReEv3(2-154,ReEv3(2-156
+ReEv3(2-156,Brad Vickers,Wish me luck.,Jill,Alright.,,N,ReEv3(2-155,ReEv3(2-157
+ReEv3(2-157,Brad Vickers,Wish me luck.,Carlos," Shit, Captain. They really took a chunk out of you.",(to Mikhail) ,N,ReEv3(2-156,ReEv3(2-158
+ReEv3(2-158,Brad Vickers,Wish me luck.,Mikhail,Nothing that I will miss.,,N,ReEv3(2-157,ReEv3(2-159
+ReEv3(2-159,Brad Vickers,Wish me luck.,,[U.B.C.S. Ammo Crafting Guide],,Y,ReEv3(2-158,ReEv3(2-160
+ReEv3(2-166,High-Grade Gunpowder x2,Wish me luck.,,[Tabloid Front Page],,Y,ReEv3(2-165,ReEv3(2-167
+ReEv3(2-167,High-Grade Gunpowder x2,Wish me luck.,THE CANNIBAL MURDERS,A COMPLETE DIGEST,,N,ReEv3(2-166,ReEv3(2-168
+ReEv3(2-171,High-Grade Gunpowder x2,Wish me luck.,,[Jill goes upstairs to the lobby of the subway.],,Y,ReEv3(2-170,ReEv3(2-172
+ReEv3(2-172,High-Grade Gunpowder x2,Wish me luck.,Carlos," Jill, it's me again. You topside yet?",(via radio) ,N,ReEv3(2-171,ReEv3(2-173
+ReEv3(2-173,High-Grade Gunpowder x2,Wish me luck.,Jill,Working on it. So what's the plan?,,N,ReEv3(2-172,ReEv3(2-174
+ReEv3(2-174,High-Grade Gunpowder x2,Wish me luck.,Carlos, The old tank's got me clearing the tracks. You mind getting the subway infrastructure back online?,(via radio) ,N,ReEv3(2-173,ReEv3(2-175
+ReEv3(2-175,High-Grade Gunpowder x2,Wish me luck.,Jill,And how do I do that?,,N,ReEv3(2-174,ReEv3(2-176
+ReEv3(2-176,High-Grade Gunpowder x2,Wish me luck.,Carlos, Let's start by restoring power. I'll navigate you to the substation once you hit the main road.,(via radio) ,N,ReEv3(2-175,ReEv3(2-177
+ReEv3(2-177,High-Grade Gunpowder x2,Wish me luck.,Jill,Copy that. Let's do this fast.,,N,ReEv3(2-176,ReEv3(2-178
+ReEv3(2-178,High-Grade Gunpowder x2,Wish me luck.,,[U.B.C.S. Herb Field Manual],,Y,ReEv3(2-177,ReEv3(2-179
+ReEv3(2-186,Green Herb x3,- or -,,[Jill finds a big weird watch with a round field at the bottom.],,Y,ReEv3(2-185,ReEv3(2-187
+ReEv3(2-187,Green Herb x3,- or -,Jill,It almost looks like I could get this working if I plug in the right… whatever it is.,,N,ReEv3(2-186,ReEv3(2-188
+ReEv3(2-188,Green Herb x3,- or -,,[It's still chaos outside. The streets are full of people screaming and running wildly from zombies.],,Y,ReEv3(2-187,ReEv3(2-189
+ReEv3(2-189,Green Herb x3,- or -,Jill,More survivors. We've got to get that train moving.,,N,ReEv3(2-188,ReEv3(2-190
+ReEv3(2-190,Green Herb x3,- or -,,[They go to the power plant shooting zombies in the head.],,Y,ReEv3(2-189,ReEv3(2-191
+ReEv3(2-191,Green Herb x3,- or -,Jill,Carlos? I've reached the main avenue. Which way do I go?,,N,ReEv3(2-190,ReEv3(2-192
+ReEv3(2-192,Green Herb x3,- or -,Carlos, See a big transmission tower? That's the substation. You'll have to circle around through an alley to your right to get there.,(via radio) ,N,ReEv3(2-191,ReEv3(2-193
+ReEv3(2-193,Green Herb x3,- or -,Jill,You mean the alley that's on fire?,,N,ReEv3(2-192,ReEv3(2-194
+ReEv3(2-194,Green Herb x3,- or -,Carlos, ...Maybe? Surely a tall drink of water like yourself can put out a few flames.,(via radio) ,N,ReEv3(2-193,ReEv3(2-195
+ReEv3(2-195,Green Herb x3,- or -,Jill,Fuck you.,,N,ReEv3(2-194,ReEv3(2-196
+ReEv3(2-196,Green Herb x3,- or -,,[She comes up to a metal door behind which the fire is raging.],,Y,ReEv3(2-195,ReEv3(2-197
+ReEv3(2-197,Green Herb x3,- or -,Jill,Gotta put this out.,,N,ReEv3(2-196,ReEv3(2-198
+ReEv3(2-198,Green Herb x3,- or -,,"[She's surrounded by zombies. Breaking them off, she runs to a pharmacy.]",,Y,ReEv3(2-197,ReEv3(2-199
+ReEv3(2-199,Green Herb x3,- or -,,[Drugstore Owner's Journal],,Y,ReEv3(2-198,ReEv3(2-200
+ReEv3(2-205,September 2,- or -,,"[Jill has to search nearby buildings for the necessary items. Worried that Jill might get bored, zombies decide to keep her company.]",,Y,ReEv3(2-204,ReEv3(2-206
+ReEv3(2-206,September 2,- or -,Jill,"This must be the subway company's offices. Huh, nothing...",,N,ReEv3(2-205,ReEv3(2-207
+ReEv3(2-207,September 2,- or -,,[Kite Bros. Railway Manual],,Y,ReEv3(2-206,ReEv3(2-208
+ReEv3(2-211,Ensuring Safe Subway Operations,- or -,,[Subway Employee's Memo],,Y,ReEv3(2-210,ReEv3(2-212
+ReEv3(2-215,Ensuring Safe Subway Operations,- or -,,"[Jill manages to find the key, open a locked metal door and extinguish the fire from a nearby fire hydrant.]",,Y,ReEv3(2-214,ReEv3(2-216
+ReEv3(2-216,Ensuring Safe Subway Operations,- or -,Jill,There.,,N,ReEv3(2-215,ReEv3(2-217
+ReEv3(2-217,Ensuring Safe Subway Operations,- or -,,[After entering a garage and arming herself with bolt cutters she hears a rustle coming from the next room.],,Y,ReEv3(2-216,ReEv3(2-218
+ReEv3(2-218,Ensuring Safe Subway Operations,- or -,Jill,Is someone in here?,,N,ReEv3(2-217,ReEv3(2-219
+ReEv3(2-219,Ensuring Safe Subway Operations,- or -,,[She opens the door with the bolt cutters and finds a wounded young guy.],,Y,ReEv3(2-218,ReEv3(2-220
+ReEv3(2-220,Ensuring Safe Subway Operations,- or -,Jill,You're U.B.C.S.?,,N,ReEv3(2-219,ReEv3(2-221
+ReEv3(2-221,Ensuring Safe Subway Operations,- or -,Guy,"Yeah. C-Careful, careful. C'mon don't look at me like that, alright? I'm not an infected!",,N,ReEv3(2-220,ReEv3(2-222
+ReEv3(2-222,Ensuring Safe Subway Operations,- or -,Jill,"OK, let's take care—",,N,ReEv3(2-221,ReEv3(2-223
+ReEv3(2-223,Ensuring Safe Subway Operations,- or -,,"[At this point, a grey haired man with a gun enters the garage.]",,Y,ReEv3(2-222,ReEv3(2-224
+ReEv3(2-224,Ensuring Safe Subway Operations,- or -,Guy,No no no wait! Please!,,N,ReEv3(2-223,ReEv3(2-225
+ReEv3(2-225,Ensuring Safe Subway Operations,- or -,,[The man shoots him in the head without hesitation.],,Y,ReEv3(2-224,ReEv3(2-226
+ReEv3(2-226,Ensuring Safe Subway Operations,- or -,Jill,What the fuck!,,N,ReEv3(2-225,ReEv3(2-227
+ReEv3(2-227,Ensuring Safe Subway Operations,- or -,Man,He was infected.,,N,ReEv3(2-226,ReEv3(2-228
+ReEv3(2-228,Ensuring Safe Subway Operations,- or -,Jill,He might have been infected.,,N,ReEv3(2-227,ReEv3(2-229
+ReEv3(2-229,Ensuring Safe Subway Operations,- or -,Man,Are all S.T.A.R.S. this soft? No wonder so many of you are dead.,,N,ReEv3(2-228,ReEv3(2-230
+ReEv3(2-230,Ensuring Safe Subway Operations,- or -,Jill,And what are you? U.B.C.S.? Killing your own people?,,N,ReEv3(2-229,ReEv3(2-231
+ReEv3(2-231,Ensuring Safe Subway Operations,- or -,Man,He would have turned. Where is your sense of self-preservation? Go back to the subway station. We don't need a bleeding heart like you getting in the way.,,N,ReEv3(2-230,ReEv3(2-232
+ReEv3(2-232,Ensuring Safe Subway Operations,- or -,,[The man comes out of the garage closing the door behind him.],,Y,ReEv3(2-231,ReEv3(2-233
+ReEv3(2-233,Ensuring Safe Subway Operations,- or -,,[Training Log],,Y,ReEv3(2-232,ReEv3(2-234
+ReEv3(2-239,181 lbs / 30 km run / 4 circuits,"Target practice at 600 yds, no misses","Murphy's back, baby! You'll never see ME miss another target. Tomorrow I go on my first mission","riot control in Raccoon City. I think Jimmy would've liked that. My brother was always the first to reach out and help people, right up until those street punks took him away from me. Now it's my turn to do some good for a change—the way I know best.",,N,ReEv3(2-238,ReEv3(2-240
+ReEv3(2-241,181 lbs / 30 km run / 4 circuits,"Target practice at 600 yds, no misses",,[U.B.C.S. Suicide Note],,Y,ReEv3(2-240,ReEv3(2-242
+ReEv3(2-247,September 28,But this job? This one was supposed to be easy.,,[Electrician's Notice],,Y,ReEv3(2-246,ReEv3(2-248
+ReEv3(2-249,September 28,But this job? This one was supposed to be easy.,"Due to the ongoing power outages, the guild has decided to provisionally place a number of electric generators throughout the city. Everyone welcome to use them, but REMEMBER","these generators are running high voltage currents. If one were to be struck or impacted gunfire, anyone standing nearby could get electrocuted.",,N,ReEv3(2-248,ReEv3(2-250
+ReEv3(2-250,September 28,But this job? This one was supposed to be easy.,,[Handwritten addition],,Y,ReEv3(2-249,ReEv3(2-251
+ReEv3(2-252,"Your Neighborhood Electrician, Sam",But this job? This one was supposed to be easy.,,[Fax from Substation Chief],,Y,ReEv3(2-251,ReEv3(2-253
+ReEv3(2-255,To all employees,But this job? This one was supposed to be easy.,,[Our brave heroine goes down to the substation to restore power.],,Y,ReEv3(2-254,ReEv3(2-256
+ReEv3(2-256,To all employees,But this job? This one was supposed to be easy.,Jill,"Ugh, it smells like... Oh, I don't even wanna think about it.",,N,ReEv3(2-255,ReEv3(2-257
+ReEv3(2-257,To all employees,But this job? This one was supposed to be easy.,,[Green Herbs: They Work!],,Y,ReEv3(2-256,ReEv3(2-258
+ReEv3(2-259,To all employees,But this job? This one was supposed to be easy.,"I was gagging and heaving, but those little bastards didn't seem to mind none—they just wouldn't come up. I was staggering around like a madman and then I saw it",a green herb.,,N,ReEv3(2-258,ReEv3(2-260
+ReEv3(2-261,To all employees,But this job? This one was supposed to be easy.,"I'm gonna head back out there to look for Chad. If anyone else sees this, remember",eat your greens!,,N,ReEv3(2-260,ReEv3(2-262
+ReEv3(2-262,To all employees,But this job? This one was supposed to be easy.,,[Substation Internal Memo],,Y,ReEv3(2-261,ReEv3(2-263
+ReEv3(2-266,To all employees,But this job? This one was supposed to be easy.,,"[Jill finds a richly decorated box in the dead body's hands. When she picks up the box, the corpse's belly explodes and the larvae come out.]",,Y,ReEv3(2-265,ReEv3(2-267
+ReEv3(2-267,To all employees,But this job? This one was supposed to be easy.,Jill,Oh my god.,,N,ReEv3(2-266,ReEv3(2-268
+ReEv3(2-268,To all employees,But this job? This one was supposed to be easy.,,"[She opens the box and finds a rusty lockpick. When she picks the lock down the hall, a green insectlike monster attacks her from above. It grabs Jill by the neck and puts its... sprout... in her mouth, and then it runs away. Jill's getting sick.]",,Y,ReEv3(2-267,ReEv3(2-269
+ReEv3(2-269,To all employees,But this job? This one was supposed to be easy.,Jill,Get it out!,,N,ReEv3(2-268,ReEv3(2-270
+ReEv3(2-270,To all employees,But this job? This one was supposed to be easy.,,[She causes vomiting and pukes the nasty thing out of her stomach.],,Y,ReEv3(2-269,ReEv3(2-271
+ReEv3(2-271,To all employees,But this job? This one was supposed to be easy.,Jill,Fucking gross!,,N,ReEv3(2-270,ReEv3(2-272
+ReEv3(2-272,To all employees,But this job? This one was supposed to be easy.,,[Further progress in the substation is hindered by a horrible insect goo that has swept all around and bugs of all kinds of aggressiveness and size. She turns on the first circuit.],,Y,ReEv3(2-271,ReEv3(2-273
+ReEv3(2-273,To all employees,But this job? This one was supposed to be easy.,Jill,Here we go.,,N,ReEv3(2-272,ReEv3(2-274
+ReEv3(2-274,To all employees,But this job? This one was supposed to be easy.,,[She activates all four circuits.],,Y,ReEv3(2-273,ReEv3(2-275
+ReEv3(2-275,To all employees,But this job? This one was supposed to be easy.,Jill,Done. Time to get the hell outta here.,,N,ReEv3(2-274,ReEv3(2-276
+ReEv3(2-276,To all employees,But this job? This one was supposed to be easy.,,"[However, the bugs continue to interfere with her plans.]",,Y,ReEv3(2-275,ReEv3(2-277
+ReEv3(2-277,To all employees,But this job? This one was supposed to be easy.,Jill,"Oh, come on!",,N,ReEv3(2-276,ReEv3(2-278
+ReEv3(2-278,To all employees,But this job? This one was supposed to be easy.,,[She's making her way to the substation's central control panel.],,Y,ReEv3(2-277,ReEv3(2-279
+ReEv3(2-279,To all employees,But this job? This one was supposed to be easy.,Jill,"OK, all that leaves is the main power switch.",,N,ReEv3(2-278,ReEv3(2-280
+ReEv3(2-280,To all employees,But this job? This one was supposed to be easy.,,"[By pressing a button on the control panel, it destroys a beast that is sitting on an electric tower.]",,Y,ReEv3(2-279,ReEv3(2-281
+ReEv3(2-281,To all employees,But this job? This one was supposed to be easy.,Jill,Enjoy that.,,N,ReEv3(2-280,ReEv3(2-282
+ReEv3(2-282,To all employees,But this job? This one was supposed to be easy.,,"[Done with the mission, she calls Carlos.]",,Y,ReEv3(2-281,ReEv3(2-283
+ReEv3(2-283,To all employees,But this job? This one was supposed to be easy.,Jill,"Carlos, it's Jill. I've restored power to the subway",,N,ReEv3(2-282,ReEv3(2-284
+ReEv3(2-284,To all employees,But this job? This one was supposed to be easy.,Carlos, Nice going! Next up is the traffic control system. It should be in the subway company's offices.,(via radio) ,N,ReEv3(2-283,ReEv3(2-285
+ReEv3(2-285,To all employees,But this job? This one was supposed to be easy.,Jill,"Right, I think I know the building.",,N,ReEv3(2-284,ReEv3(2-286
+ReEv3(2-286,To all employees,But this job? This one was supposed to be easy.,Carlos," Really? Way to go, partner. One step ahead!",(via radio) ,N,ReEv3(2-285,ReEv3(2-287
+ReEv3(2-287,To all employees,But this job? This one was supposed to be easy.,Jill,Not your partner.,,N,ReEv3(2-286,ReEv3(2-288
+ReEv3(2-288,To all employees,But this job? This one was supposed to be easy.,,"[As soon as she goes out on the street, an old friend, Nemesis, reminds her of himself! He elegantly breaks through the wall and goes to Jill with a firm, confident footstep.]",,Y,ReEv3(2-287,ReEv3(2-289
+ReEv3(2-289,To all employees,But this job? This one was supposed to be easy.,Jill,Are you shitting me!?,,N,ReEv3(2-288,ReEv3(2-290
+ReEv3(2-290,To all employees,But this job? This one was supposed to be easy.,,"[Taking advantage of her speed and beauty, Jill cleverly escapes her pursuer!]",,Y,ReEv3(2-289,ReEv3(2-291
+ReEv3(2-291,To all employees,But this job? This one was supposed to be easy.,Jill,"Carlos, that thing is still alive! It's after me!",,N,ReEv3(2-290,ReEv3(2-292
+ReEv3(2-292,To all employees,But this job? This one was supposed to be easy.,Carlos, What? Run! Come back to the station!,(via radio) ,N,ReEv3(2-291,ReEv3(2-293
+ReEv3(2-293,To all employees,But this job? This one was supposed to be easy.,Jill,Not until I get traffic control online!,,N,ReEv3(2-292,ReEv3(2-294
+ReEv3(2-294,To all employees,But this job? This one was supposed to be easy.,,[She goes back to Kite Bros Railway.],,Y,ReEv3(2-293,ReEv3(2-295
+ReEv3(2-295,To all employees,But this job? This one was supposed to be easy.,Jill,"OK, back again. Carlos, I'm in the control room. Now what?",,N,ReEv3(2-294,ReEv3(2-296
+ReEv3(2-296,To all employees,But this job? This one was supposed to be easy.,Carlos, Nice! Now you gotta plot out a route.,(via radio) ,N,ReEv3(2-295,ReEv3(2-297
+ReEv3(2-297,To all employees,But this job? This one was supposed to be easy.,Jill,"OK, gimme a sec. Alright, where are we headed?",,N,ReEv3(2-296,ReEv3(2-298
+ReEv3(2-298,To all employees,But this job? This one was supposed to be easy.,Carlos, The train is stopped at Redstone Street. We need to reach Fox Park Station. Can you program that in?,(via radio) ,N,ReEv3(2-297,ReEv3(2-299
+ReEv3(2-299,To all employees,But this job? This one was supposed to be easy.,Jill,Hey I’m supercop. Consider it done.,,N,ReEv3(2-298,ReEv3(2-300
+ReEv3(2-300,To all employees,But this job? This one was supposed to be easy.,Computer,Please enter a route.,,N,ReEv3(2-299,ReEv3(2-301
+ReEv3(2-301,To all employees,But this job? This one was supposed to be easy.,Jill,What did he say? Redstone Street to Fox Park...,,N,ReEv3(2-300,ReEv3(2-302
+ReEv3(2-302,To all employees,But this job? This one was supposed to be easy.,Computer,Valid route confirmed.,,N,ReEv3(2-301,ReEv3(2-303
+ReEv3(2-303,To all employees,But this job? This one was supposed to be easy.,Jill,"Carlos, it's me. I've finished inputting the subway route.",,N,ReEv3(2-302,ReEv3(2-304
+ReEv3(2-304,To all employees,But this job? This one was supposed to be easy.,Carlos," Jill, you are amazing! Tough as nails, too. Hurry back to the station. We'll make sure the subway is ready to depart.",(via radio) ,N,ReEv3(2-303,ReEv3(2-305
+ReEv3(2-305,To all employees,But this job? This one was supposed to be easy.,,[Jill comes out of the room... and she's met by a new kind of infected zombie with a creepy crab-like head and a huge tail that this creepy creature uses as a whip.],,Y,ReEv3(2-304,ReEv3(2-306
+ReEv3(2-306,To all employees,But this job? This one was supposed to be easy.,Jill,What the fuck!?,,N,ReEv3(2-305,ReEv3(2-307
+ReEv3(2-307,To all employees,But this job? This one was supposed to be easy.,,"[She kills the creature with a shotgun and goes out into the street where an interesting discovery awaits her - these monsters are created by Nemesis! He grabs a zombie, and the tentacles in his hand transform the zombie's head.]",,Y,ReEv3(2-306,ReEv3(2-308
+ReEv3(2-308,To all employees,But this job? This one was supposed to be easy.,Jill,What the hell is it doing to them?,,N,ReEv3(2-307,ReEv3(2-309
+ReEv3(2-309,To all employees,But this job? This one was supposed to be easy.,,"[She keeps going to the station, fending off all kinds of zombies and collecting everything she can carry. She even opens a strange clock from the beginning of the game, with the bottom of it lying... a grenade. Having stashed everything useful to a few pockets, Jill goes back to Carlos.]",,Y,ReEv3(2-308,ReEv3(2-310
+ReEv3(2-310,To all employees,But this job? This one was supposed to be easy.,Carlos,"Nice job, supercop. I'm impressed.",,N,ReEv3(2-309,ReEv3(2-311
+ReEv3(2-311,To all employees,But this job? This one was supposed to be easy.,Jill,We back in business?,,N,ReEv3(2-310,ReEv3(2-312
+ReEv3(2-312,To all employees,But this job? This one was supposed to be easy.,Carlos,"Yeah, mostly. But we need 30 to 40 minutes to finish maintenance.",,N,ReEv3(2-311,ReEv3(2-313
+ReEv3(2-313,To all employees,But this job? This one was supposed to be easy.,,[The room is entered by a gray haired man and a black muscleman with a machine gun.],,Y,ReEv3(2-312,ReEv3(2-314
+ReEv3(2-314,To all employees,But this job? This one was supposed to be easy.,Carlos,Nicholai! How we doin'?,,N,ReEv3(2-313,ReEv3(2-315
+ReEv3(2-315,To all employees,But this job? This one was supposed to be easy.,Nicholai,The town's crawling with those freaks. No chance of fighting our way out of the city. Why is she here?,,N,ReEv3(2-314,ReEv3(2-316
+ReEv3(2-316,To all employees,But this job? This one was supposed to be easy.,Carlos,She's helping get the trains running again.,,N,ReEv3(2-315,ReEv3(2-317
+ReEv3(2-317,To all employees,But this job? This one was supposed to be easy.,Nicholai,"Bad time to start carrying dead weight, friend. She's unreliable. Can't pull the trigger when it counts.",,N,ReEv3(2-316,ReEv3(2-318
+ReEv3(2-318,To all employees,But this job? This one was supposed to be easy.,Carlos,"Hey, take it easy.",,N,ReEv3(2-317,ReEv3(2-319
+ReEv3(2-319,To all employees,But this job? This one was supposed to be easy.,Nicholai,She'll get you killed.,,N,ReEv3(2-318,ReEv3(2-320
+ReEv3(2-320,To all employees,But this job? This one was supposed to be easy.,,[He leaves.],,Y,ReEv3(2-319,ReEv3(2-321
+ReEv3(2-321,To all employees,But this job? This one was supposed to be easy.,Carlos,Sorry about that. Everyone's a little worked up.,,N,ReEv3(2-320,ReEv3(2-322
+ReEv3(2-322,To all employees,But this job? This one was supposed to be easy.,,[A dreadful rumble can be heard from far away.],,Y,ReEv3(2-321,ReEv3(2-323
+ReEv3(2-323,To all employees,But this job? This one was supposed to be easy.,Carlos,Aw come on. Not again.,,N,ReEv3(2-322,ReEv3(2-324
+ReEv3(2-324,To all employees,But this job? This one was supposed to be easy.,,"[Jill pretends to leave with Carlos, but at the last moment he performs a deceptive maneuver and stays on the other side of the gate.]",,Y,ReEv3(2-323,ReEv3(2-325
+ReEv3(2-325,To all employees,But this job? This one was supposed to be easy.,Jill,It's me he's after. I'll buy you some time.,,N,ReEv3(2-324,ReEv3(2-326
+ReEv3(2-326,To all employees,But this job? This one was supposed to be easy.,Carlos,"Hey wait! Wait, Jill! No! God dammit!",,N,ReEv3(2-325,ReEv3(2-327
+ReEv3(2-327,To all employees,But this job? This one was supposed to be easy.,,[She bravely runs straight at the enemy without fear of the difference in strength. She has experience and honed skills.],,Y,ReEv3(2-326,ReEv3(2-328
+ReEv3(2-328,To all employees,But this job? This one was supposed to be easy.,Jill,"Come on, you creepy-ass stalker! You want S.T.A.R.S.!? I'll give you S.T.A.R.S.!",,N,ReEv3(2-327,ReEv3(2-329
+ReEv3(2-329,To all employees,But this job? This one was supposed to be easy.,,[She kicks his ass with a couple of grenades and falls back into the sewers.],,Y,ReEv3(2-328,ReEv3(2-330
+ReEv3(2-330,To all employees,But this job? This one was supposed to be easy.,Jill,"Carlos, do you copy? Carlos! ...Shit. I need to find another way out.",,N,ReEv3(2-329,ReEv3(2-331
+ReEv3(2-331,To all employees,But this job? This one was supposed to be easy.,,[She found Sewers Map in the safe room.],,Y,ReEv3(2-330,ReEv3(2-332
+ReEv3(2-332,To all employees,But this job? This one was supposed to be easy.,Jill,A map of the area. Perfect.,,N,ReEv3(2-331,ReEv3(2-333
+ReEv3(2-333,To all employees,But this job? This one was supposed to be easy.,,"[When she leaves the room, she hears a sound that resembles an echo from a sentence spoken on a loudspeaker.]",,Y,ReEv3(2-332,ReEv3(2-334
+ReEv3(2-334,To all employees,But this job? This one was supposed to be easy.,Jill,What was that?,,N,ReEv3(2-333,ReEv3(2-335
+ReEv3(2-335,To all employees,But this job? This one was supposed to be easy.,,[Increased Sewer Security],,Y,ReEv3(2-334,ReEv3(2-336
+ReEv3(2-338,To all employees,But this job? This one was supposed to be easy.,Jill,Door won't budge. Looks like it needs a power source.,,N,ReEv3(2-337,ReEv3(2-339
+ReEv3(2-339,To all employees,But this job? This one was supposed to be easy.,,[She has to slip a little on the sloping surface of the sewer.],,Y,ReEv3(2-338,ReEv3(2-340
+ReEv3(2-340,To all employees,But this job? This one was supposed to be easy.,Jill,Ohhh god. I'm definitely burning these clothes.,,N,ReEv3(2-339,ReEv3(2-341
+ReEv3(2-341,To all employees,But this job? This one was supposed to be easy.,,"[A tadpole on two legs comes out of the sewer depths. When he opens his stinking flower-like mouth, he gets shot with a shotgun and dies.]",,Y,ReEv3(2-340,ReEv3(2-342
+ReEv3(2-342,To all employees,But this job? This one was supposed to be easy.,Jill,What the fuck was that!?,,N,ReEv3(2-341,ReEv3(2-343
+ReEv3(2-343,To all employees,But this job? This one was supposed to be easy.,,[Research Assistant's Logs],,Y,ReEv3(2-342,ReEv3(2-344
+ReEv3(2-344,Mar 4,But this job? This one was supposed to be easy.,Water Temp,18C pH: 6.8,,N,ReEv3(2-343,ReEv3(2-345
+ReEv3(2-346,Apr 18,But this job? This one was supposed to be easy.,Water Temp,20C pH: 6.8,,N,ReEv3(2-345,ReEv3(2-347
+ReEv3(2-348,Jun 30,But this job? This one was supposed to be easy.,Water Temp,22C pH: 6.2,,N,ReEv3(2-347,ReEv3(2-349
+ReEv3(2-350,Aug 14,But this job? This one was supposed to be easy.,Water Temp,25C pH: 5.8,,N,ReEv3(2-349,ReEv3(2-351
+ReEv3(2-351,Aug 14,But this job? This one was supposed to be easy.,"Two weeks since relocating to the sewers. Increased temperatures have led to a decrease in water quality, but specimens appear fine despite my concerns","Gamma? quickly learned the layout of the sewers and within two days were exploring the entire underground of Raccoon City. All specimens are familiar with and friendly towards us, but I have procured high-powered weaponry as a safeguard in the event that they become uncontrollable.",,N,ReEv3(2-350,ReEv3(2-352
+ReEv3(2-352,Sep 1,But this job? This one was supposed to be easy.,Water Temp,23C pH: 6.1,,N,ReEv3(2-351,ReEv3(2-353
+ReEv3(2-354,Sep 9,But this job? This one was supposed to be easy.,Water Temp,21C pH: 6.1,,N,ReEv3(2-353,ReEv3(2-355
+ReEv3(2-356,Sep 9,But this job? This one was supposed to be easy.,,[Invoice from Gun Shop Kendo],,Y,ReEv3(2-355,ReEv3(2-357
+ReEv3(2-360,Sep 9,But this job? This one was supposed to be easy.,,[Handwritten note on reverse],,Y,ReEv3(2-359,ReEv3(2-361
+ReEv3(2-361,Sep 9,But this job? This one was supposed to be easy.,Explosive Rounds,Explosive A x2,,N,ReEv3(2-360,ReEv3(2-362
+ReEv3(2-362,Sep 9,But this job? This one was supposed to be easy.,Flame Rounds,Explosive A + Explosive B,,N,ReEv3(2-361,ReEv3(2-363
+ReEv3(2-363,Sep 9,But this job? This one was supposed to be easy.,Acid Rounds,Explosive B x2,,N,ReEv3(2-362,ReEv3(2-364
+ReEv3(2-364,Sep 9,But this job? This one was supposed to be easy.,Mine Rounds,Can't readily crafted. Not worth stocking up on. Won't help if we need to the Gammas in line.,,N,ReEv3(2-363,ReEv3(2-365
+ReEv3(2-365,Sep 9,But this job? This one was supposed to be easy.,,[Sewer Worker's Notes],,Y,ReEv3(2-364,ReEv3(2-366
+ReEv3(2-370,Sep 9,But this job? This one was supposed to be easy.,,"[Having beaten a whole crowd of tadpoles with a grenade launcher, Jill finally finds a battery pack.]",,Y,ReEv3(2-369,ReEv3(2-371
+ReEv3(2-371,Sep 9,But this job? This one was supposed to be easy.,,[A Love Letter?],,Y,ReEv3(2-370,ReEv3(2-372
+ReEv3(2-377,Sep 9,But this job? This one was supposed to be easy.,,[Jill finally opens a locked door with battery pack and walk upstairs.],,Y,ReEv3(2-376,ReEv3(2-378
+ReEv3(2-378,Sep 9,But this job? This one was supposed to be easy.,Jill,"Carlos, can you hear me now?",,N,ReEv3(2-377,ReEv3(2-379
+ReEv3(2-379,Sep 9,But this job? This one was supposed to be easy.,Carlos," Jill! Oh, thank god! Everything OK?",(via radio) ,N,ReEv3(2-378,ReEv3(2-380
+ReEv3(2-380,Sep 9,But this job? This one was supposed to be easy.,Jill,"Yeah, I'm alive. I lost him.",,N,ReEv3(2-379,ReEv3(2-381
+ReEv3(2-381,Sep 9,But this job? This one was supposed to be easy.,Carlos, Great. The subway's ready to go. We'll leave as soon as you make it back.,(via radio) ,N,ReEv3(2-380,ReEv3(2-382
+ReEv3(2-382,Sep 9,But this job? This one was supposed to be easy.,,"[When Jill finishes talking, she goes up the stairs and then... Nemesis grabs her head. He pulls Jill out of the hatch and throws her on the asphalt, threatening his giant flamethrower. Jill runs away, saving her life.]",,Y,ReEv3(2-381,ReEv3(2-383
+ReEv3(2-383,Sep 9,But this job? This one was supposed to be easy.,Jill,"It can use weapons? I gotta get out, quick!",,N,ReEv3(2-382,ReEv3(2-384
+ReEv3(2-384,Sep 9,But this job? This one was supposed to be easy.,,"[Nemesis is chasing her, setting fire to a building under construction that Jill is running through.]",,Y,ReEv3(2-383,ReEv3(2-385
+ReEv3(2-385,Sep 9,But this job? This one was supposed to be easy.,,[Notice of Demolition Delay],,Y,ReEv3(2-384,ReEv3(2-386
+ReEv3(2-388,Sep 9,But this job? This one was supposed to be easy.,,"[On the roof, the terrifying Nemesis is catching up with Jill. There's nowhere to run.]",,Y,ReEv3(2-387,ReEv3(2-389
+ReEv3(2-389,Sep 9,But this job? This one was supposed to be easy.,Jill,"Alright, let's do this. Maybe I can hit the fuel tank.",,N,ReEv3(2-388,ReEv3(2-390
+ReEv3(2-390,Sep 9,But this job? This one was supposed to be easy.,,[She shoots up a huge barrel of flammable fluid on Nemesis' back.],,Y,ReEv3(2-389,ReEv3(2-391
+ReEv3(2-391,Sep 9,But this job? This one was supposed to be easy.,Jill,It's still kicking?,,N,ReEv3(2-390,ReEv3(2-392
+ReEv3(2-392,Sep 9,But this job? This one was supposed to be easy.,,"[She shoots him with everything she's got. Failing to endure such love, Nemesis falls to the floor. The flammable fluid spills all over the roof and causes a big fire. Jill jumps off a roof and falls on a cradle, one of whose cables breaks. Jill lands hard on the asphalt and only her military training allows her to dodge the falling cradle.]",,Y,ReEv3(2-391,ReEv3(2-393
+ReEv3(2-393,Sep 9,But this job? This one was supposed to be easy.,Jill,"Carlos, it's Jill. Do you read me?",,N,ReEv3(2-392,ReEv3(2-394
+ReEv3(2-394,Sep 9,But this job? This one was supposed to be easy.,Carlos, Loud and clear. You alright?,(via radio) ,N,ReEv3(2-393,ReEv3(2-395
+ReEv3(2-395,Sep 9,But this job? This one was supposed to be easy.,Jill,Yeah... Bastard's dead.,,N,ReEv3(2-394,ReEv3(2-396
+ReEv3(2-396,Sep 9,But this job? This one was supposed to be easy.,Carlos," Good. Fuck 'im. But what were you thinking, turning yourself into bait? You could've been killed.",(via radio) ,N,ReEv3(2-395,ReEv3(2-397
+ReEv3(2-397,Sep 9,But this job? This one was supposed to be easy.,Jill,Don't start I did what I had to..,,N,ReEv3(2-396,ReEv3(2-398
+ReEv3(2-398,Sep 9,But this job? This one was supposed to be easy.,Carlos," I know. And, uh… thanks. The subway's ready to go. Hurry back.",(via radio) ,N,ReEv3(2-397,ReEv3(2-399
+ReEv3(2-399,Sep 9,But this job? This one was supposed to be easy.,,"[Jill enters the famous GUN SHOP KENDO. She takes the last remaining ammunition from the shelves, when suddenly the owner of the store jumps at her with a crazy look and a shotgun.]",,Y,ReEv3(2-398,ReEv3(2-400
+ReEv3(2-400,Sep 9,But this job? This one was supposed to be easy.,Kendo,Don't move! Shit… Jill.,,N,ReEv3(2-399,ReEv3(2-401
+ReEv3(2-401,Sep 9,But this job? This one was supposed to be easy.,Jill,Kendo. You're alright.,,N,ReEv3(2-400,ReEv3(2-402
+ReEv3(2-402,Sep 9,But this job? This one was supposed to be easy.,Kendo,"Yeah well, alright's a stretch. Sorry I got a little jumpy there. Didn't know quite what to expect.",,N,ReEv3(2-401,ReEv3(2-403
+ReEv3(2-403,Sep 9,But this job? This one was supposed to be easy.,Jill,"No shit. Look, we're using the subway to get people out of town. You in?",,N,ReEv3(2-402,ReEv3(2-404
+ReEv3(2-404,Sep 9,But this job? This one was supposed to be easy.,Kendo,Subway. Well... That's good thinking.,,N,ReEv3(2-403,ReEv3(2-405
+ReEv3(2-405,Sep 9,But this job? This one was supposed to be easy.,Jill,When we get out there's gonna be a lot to do. We could use a man of your skillset. What's wrong?,,N,ReEv3(2-404,ReEv3(2-406
+ReEv3(2-406,Sep 9,But this job? This one was supposed to be easy.,Kendo,"Nothin'. Just uh... Just bad timing is all. Look, um… don't worry about me. I'm gonna make other arrangements. OK?",,N,ReEv3(2-405,ReEv3(2-407
+ReEv3(2-407,Sep 9,But this job? This one was supposed to be easy.,Jill,You better. You're the best gunsmith around.,,N,ReEv3(2-406,ReEv3(2-408
+ReEv3(2-408,Sep 9,But this job? This one was supposed to be easy.,Kendo,"Oh, no.",,N,ReEv3(2-407,ReEv3(2-409
+ReEv3(2-409,Sep 9,But this job? This one was supposed to be easy.,Jill,Don't do anything stupid.,,N,ReEv3(2-408,ReEv3(2-410
+ReEv3(2-410,Sep 9,But this job? This one was supposed to be easy.,Kendo,"Oh that's—that's your job, right?  Take care, Jill.",(smiles) ,N,ReEv3(2-409,ReEv3(2-411
+ReEv3(2-411,Sep 9,But this job? This one was supposed to be easy.,,[He goes into the basement and locks the door behind him. Those who played the remake of the second game know what's in there.],,Y,ReEv3(2-410,ReEv3(2-412
+ReEv3(2-412,Sep 9,But this job? This one was supposed to be easy.,Kendo,"If you're heading to the station, take that service alley out in front of the shop, OK? The key's hanging on the wall.",,N,ReEv3(2-411,ReEv3(2-413
+ReEv3(2-413,Sep 9,But this job? This one was supposed to be easy.,,[Raccoon Times Reader's Column],,Y,ReEv3(2-412,ReEv3(2-414
+ReEv3(2-417,—Timothy Wyles (69],"Dear Editor,",,[There's a nasty surprise waiting for her outside. Nemesis is very much alive. He jumps off a roof holding a huge suitcase with a rocket launcher inside it.],,Y,ReEv3(2-416,ReEv3(2-418
+ReEv3(2-418,—Timothy Wyles (69],"Dear Editor,",Jill,A rocket launcher? Really!?,,N,ReEv3(2-417,ReEv3(2-419
+ReEv3(2-419,—Timothy Wyles (69],"Dear Editor,",Carlos," Jill, you OK?",(via radio) ,N,ReEv3(2-418,ReEv3(2-420
+ReEv3(2-420,—Timothy Wyles (69],"Dear Editor,",Jill,"Carlos, that monster's on my ass again!",,N,ReEv3(2-419,ReEv3(2-421
+ReEv3(2-421,—Timothy Wyles (69],"Dear Editor,",Carlos, Are you shitting me? I thought you killed it!,(via radio) ,N,ReEv3(2-420,ReEv3(2-422
+ReEv3(2-422,—Timothy Wyles (69],"Dear Editor,",Jill,Me too!,,N,ReEv3(2-421,ReEv3(2-423
+ReEv3(2-423,—Timothy Wyles (69],"Dear Editor,",,"[Nemesis fires missiles at Jill with a striking distance of 400 meters or 1300 feet, but thanks to congenital immortality, she manages to avoid deadly projectiles.]",,Y,ReEv3(2-422,ReEv3(2-424
+ReEv3(2-424,—Timothy Wyles (69],"Dear Editor,",Carlos," Jill, you there? I think I know how to slow that fucker down. Head back toward the station!",(via radio) ,N,ReEv3(2-423,ReEv3(2-425
+ReEv3(2-425,—Timothy Wyles (69],"Dear Editor,",Jill,And lead him right to you?,,N,ReEv3(2-424,ReEv3(2-426
+ReEv3(2-426,—Timothy Wyles (69],"Dear Editor,",Carlos, It's OK. Trust me!,(via radio) ,N,ReEv3(2-425,ReEv3(2-427
+ReEv3(2-427,—Timothy Wyles (69],"Dear Editor,",,[Nemesis shoots a rocket at a giant mustache head on the roof of a Toy Uncle store and it rolls right onto Jill.],,Y,ReEv3(2-426,ReEv3(2-428
+ReEv3(2-428,—Timothy Wyles (69],"Dear Editor,",Jill,This is insane.,,N,ReEv3(2-427,ReEv3(2-429
+ReEv3(2-429,—Timothy Wyles (69],"Dear Editor,",Carlos,"Jill! This way! Hey, you OK? GO… GO!",,N,ReEv3(2-428,ReEv3(2-430
+ReEv3(2-430,—Timothy Wyles (69],"Dear Editor,",Jill,C'mon! Forget about him!,,N,ReEv3(2-429,ReEv3(2-431
+ReEv3(2-431,—Timothy Wyles (69],"Dear Editor,",,[They enter the building leading to the underground station.],,Y,ReEv3(2-430,ReEv3(2-432
+ReEv3(2-432,—Timothy Wyles (69],"Dear Editor,",Carlos,C'mon. Let's get out of here.,,N,ReEv3(2-431,ReEv3(2-433
+ReEv3(2-433,—Timothy Wyles (69],"Dear Editor,",Jill,"Carlos, I know we didn't get off to a great start, but… thanks for the save.",,N,ReEv3(2-432,ReEv3(2-434
+ReEv3(2-434,—Timothy Wyles (69],"Dear Editor,",Carlos,"Hey, you saved my ass first. You're a hell of a lot braver than me.",,N,ReEv3(2-433,ReEv3(2-435
+ReEv3(2-435,—Timothy Wyles (69],"Dear Editor,",Jill,"Well, what matters is that we can get everyone out of the city now.",,N,ReEv3(2-434,ReEv3(2-436
+ReEv3(2-436,—Timothy Wyles (69],"Dear Editor,",Carlos,Yeah. You'll be safe.,,N,ReEv3(2-435,ReEv3(2-437
+ReEv3(2-437,—Timothy Wyles (69],"Dear Editor,",Jill,What about you?,,N,ReEv3(2-436,ReEv3(2-438
+ReEv3(2-438,—Timothy Wyles (69],"Dear Editor,",Carlos,From the sound of it. I won't be catching the train.,,N,ReEv3(2-437,ReEv3(2-439
+ReEv3(2-439,—Timothy Wyles (69],"Dear Editor,",Jill,Why not?,,N,ReEv3(2-438,ReEv3(2-440
+ReEv3(2-440,—Timothy Wyles (69],"Dear Editor,",Carlos,"There'll be new orders. If it means I can help save the city, that's fine by me.",,N,ReEv3(2-439,ReEv3(2-441
+ReEv3(2-441,—Timothy Wyles (69],"Dear Editor,",,"[Carlos lifts up a massive roller and they approach the train. Next to it, Mikhail sits.]",,Y,ReEv3(2-440,ReEv3(2-442
+ReEv3(2-442,—Timothy Wyles (69],"Dear Editor,",Mikhail,"Good work. Your reputation is well deserved. Get inside, the subway is about to leave. Carlos, Tyrell. You have your orders. You need to go back out into the city and find Nathaniel Bard.",,N,ReEv3(2-441,ReEv3(2-443
+ReEv3(2-443,—Timothy Wyles (69],"Dear Editor,",Jill,"This isn't the last ride out of town, right?",,N,ReEv3(2-442,ReEv3(2-444
+ReEv3(2-444,—Timothy Wyles (69],"Dear Editor,",Mikhail,"Do not worry. Once the civilians are safe, the train will be back.",,N,ReEv3(2-443,ReEv3(2-445
+ReEv3(2-445,—Timothy Wyles (69],"Dear Editor,",Carlos,"It's alright, you go on ahead. I'm not gonna die on you, and leave you in a cold, cruel, Carlos-less world.",,N,ReEv3(2-444,ReEv3(2-446
+ReEv3(2-446,—Timothy Wyles (69],"Dear Editor,",Jill,OK.,,N,ReEv3(2-445,ReEv3(2-447
+ReEv3(2-447,—Timothy Wyles (69],"Dear Editor,",Mikhail,You need to find this scientist. His vaccine research could save us all.,,N,ReEv3(2-446,ReEv3(2-448
+ReEv3(2-448,—Timothy Wyles (69],"Dear Editor,",Nicholai, You see? You're learning. The only life that matters is your own.,(clapping) ,N,ReEv3(2-447,ReEv3(2-449
+ReEv3(2-449,—Timothy Wyles (69],"Dear Editor,",Mikhail,Good luck. Let's go!,,N,ReEv3(2-448,ReEv3(2-450
+ReEv3(2-450,—Timothy Wyles (69],"Dear Editor,",,"[Jill, Mikhail and Nicholai takes the train and Carlos stays at the station.]",,Y,ReEv3(2-449,ReEv3(2-451
+ReEv3(2-452,—Timothy Wyles (69],"Dear Editor,",Nicholai,"You don't really think a pencil-pusher like Bard is still alive, do you?",,N,ReEv3(2-451,ReEv3(2-453
+ReEv3(2-453,—Timothy Wyles (69],"Dear Editor,",Mikhail,I have it on good authority. Why? Are you worried about teammates? Or something else? Funny how brainless zombies can ambush a platoon like that. Funny the gate was locked. Don't you think?,,N,ReEv3(2-452,ReEv3(2-454
+ReEv3(2-454,—Timothy Wyles (69],"Dear Editor,",,"[Nicholai chuckles and then the train starts shaking. From afar, the rattle of metal is heard.]",,Y,ReEv3(2-453,ReEv3(2-455
+ReEv3(2-455,—Timothy Wyles (69],"Dear Editor,",Jill,What was that?,,N,ReEv3(2-454,ReEv3(2-456
+ReEv3(2-456,—Timothy Wyles (69],"Dear Editor,",,[They open the door to the next car and see Nemesis.],,Y,ReEv3(2-455,ReEv3(2-457
+ReEv3(2-457,—Timothy Wyles (69],"Dear Editor,",Jill,How is this fucker not dead yet!?,,N,ReEv3(2-456,ReEv3(2-458
+ReEv3(2-458,—Timothy Wyles (69],"Dear Editor,",,"[She runs to him in a rage, but Mikhail catches her off, grabbing her hand.]",,Y,ReEv3(2-457,ReEv3(2-459
+ReEv3(2-459,—Timothy Wyles (69],"Dear Editor,",Mikhail,"Jill, no. They're gone. Come. This way.",,N,ReEv3(2-458,ReEv3(2-460
+ReEv3(2-460,—Timothy Wyles (69],"Dear Editor,",,"[She runs to the opposite car, but Nicholai has already locked it and stands on the other side of the door.]",,Y,ReEv3(2-459,ReEv3(2-461
+ReEv3(2-461,—Timothy Wyles (69],"Dear Editor,",Jill,"Nicholai, what are you doing?",,N,ReEv3(2-460,ReEv3(2-462
+ReEv3(2-462,—Timothy Wyles (69],"Dear Editor,",Nicholai,It's not after me.,,N,ReEv3(2-461,ReEv3(2-463
+ReEv3(2-463,—Timothy Wyles (69],"Dear Editor,",Jill,Nicholai!,,N,ReEv3(2-462,ReEv3(2-464
+ReEv3(2-464,—Timothy Wyles (69],"Dear Editor,",,"[Meanwhile, Mikhail trying to shoot off Nemesis, but without success. Nemesis grabs him and drags him to himself. Mikhail, like a real warrior, has prepared a backup plan – covered himself in explosives.]",,Y,ReEv3(2-463,ReEv3(2-465
+ReEv3(2-465,—Timothy Wyles (69],"Dear Editor,",Mikhail,"Get off my train, shitbird.",,N,ReEv3(2-464,ReEv3(2-466
+ReEv3(2-466,—Timothy Wyles (69],"Dear Editor,",,"[He presses the detonator trigger. The car explodes. We're going back to Carlos, who is approaching the RPD building with his partner Tyrell.]",,Y,ReEv3(2-465,ReEv3(2-467
+ReEv3(2-468,—Timothy Wyles (69],"Dear Editor,",Carlos,It's been awhile. Subway's gotta be clear of the city by now.,,N,ReEv3(2-467,ReEv3(2-469
+ReEv3(2-469,—Timothy Wyles (69],"Dear Editor,",Tyrell,Along with your hot date?,,N,ReEv3(2-468,ReEv3(2-470
+ReEv3(2-470,—Timothy Wyles (69],"Dear Editor,",Carlos,"Nah, she's not like that. Hell, she's not like anybody.",,N,ReEv3(2-469,ReEv3(2-471
+ReEv3(2-471,—Timothy Wyles (69],"Dear Editor,",Tyrell,"Alright, keep your head screwed on, Romeo. This is the police station.",,N,ReEv3(2-470,ReEv3(2-472
+ReEv3(2-472,—Timothy Wyles (69],"Dear Editor,",Carlos,"Uh, you sure? 'Cause it looks like a cemetery to me.",,N,ReEv3(2-471,ReEv3(2-473
+ReEv3(2-473,—Timothy Wyles (69],"Dear Editor,",Marvin,Brad! Stop!,,N,ReEv3(2-472,ReEv3(2-474
+ReEv3(2-474,—Timothy Wyles (69],"Dear Editor,",Carlos,T!,,N,ReEv3(2-473,ReEv3(2-475
+ReEv3(2-475,—Timothy Wyles (69],"Dear Editor,",Marvin,"C'mon, man. Not you too.",,N,ReEv3(2-474,ReEv3(2-476
+ReEv3(2-476,—Timothy Wyles (69],"Dear Editor,",,[He shoots at Brad several times.],,Y,ReEv3(2-475,ReEv3(2-477
+ReEv3(2-477,—Timothy Wyles (69],"Dear Editor,",Marvin,Sorry…,,N,ReEv3(2-476,ReEv3(2-478
+ReEv3(2-478,—Timothy Wyles (69],"Dear Editor,",Brad (zombie),So… rry…,,N,ReEv3(2-477,ReEv3(2-479
+ReEv3(2-479,—Timothy Wyles (69],"Dear Editor,",,"[Stunned by the answer, Marvin snaps for a second and zombie Brad bites him. Marvin runs off to the police station and locks the door behind him. Tyrell comes running to the door.]",,Y,ReEv3(2-478,ReEv3(2-480
+ReEv3(2-480,—Timothy Wyles (69],"Dear Editor,",Tyrell,Shit! It's locked!,,N,ReEv3(2-479,ReEv3(2-481
+ReEv3(2-481,—Timothy Wyles (69],"Dear Editor,",Carlos,You stay on the door. I got this fucker. Come get some!,,N,ReEv3(2-480,ReEv3(2-482
+ReEv3(2-482,—Timothy Wyles (69],"Dear Editor,",Tyrell,Leave him! C'mon!,,N,ReEv3(2-481,ReEv3(2-483
+ReEv3(2-483,—Timothy Wyles (69],"Dear Editor,",,"[Carlos is shooting Brad in the head. After searching the body, he finds his ID.]",,Y,ReEv3(2-482,ReEv3(2-484
+ReEv3(2-484,—Timothy Wyles (69],"Dear Editor,",Carlos,He's S.T.A.R.S.? That could be useful.,,N,ReEv3(2-483,ReEv3(2-485
+ReEv3(2-485,—Timothy Wyles (69],"Dear Editor,",,[They enter the police station.],,Y,ReEv3(2-484,ReEv3(2-486
+ReEv3(2-486,—Timothy Wyles (69],"Dear Editor,",Carlos,Where'd that cop go?,,N,ReEv3(2-485,ReEv3(2-487
+ReEv3(2-487,—Timothy Wyles (69],"Dear Editor,",Tyrell,"Don't know, don't care. We got a job to do. If our intel's still worth a damn, then Bard's in the S.T.A.R.S. office. Let's find him and take him into custody.",,N,ReEv3(2-486,ReEv3(2-488
+ReEv3(2-488,—Timothy Wyles (69],"Dear Editor,",Carlos,Custody? I thought this was a rescue.,,N,ReEv3(2-487,ReEv3(2-489
+ReEv3(2-489,—Timothy Wyles (69],"Dear Editor,",Tyrell,"Carlos, take a look at this. I've located the S.T.A.R.S. office. Remember, Bard had access to Umbrella's darkest secrets. He knows we'll try to keep him under our thumbs.",,N,ReEv3(2-488,ReEv3(2-490
+ReEv3(2-490,—Timothy Wyles (69],"Dear Editor,",Carlos,"So this “search and rescue mission” is really more like ""find and detain."" ...Right. Good to know.",,N,ReEv3(2-489,ReEv3(2-491
+ReEv3(2-491,—Timothy Wyles (69],"Dear Editor,",Tyrell,I’ll open the shutter so you can get through.,,N,ReEv3(2-490,ReEv3(2-492
+ReEv3(2-492,—Timothy Wyles (69],"Dear Editor,",Carlos,You stay here and find out what's been going on here at the station.,,N,ReEv3(2-491,ReEv3(2-493
+ReEv3(2-493,—Timothy Wyles (69],"Dear Editor,",Tyrell,Call ya if I find anything. Hey. Be careful.,,N,ReEv3(2-492,ReEv3(2-494
+ReEv3(2-494,—Timothy Wyles (69],"Dear Editor,",Carlos,"Yeah, you too, man.",,N,ReEv3(2-493,ReEv3(2-495
+ReEv3(2-495,—Timothy Wyles (69],"Dear Editor,",,[He starts exploring the police station.],,Y,ReEv3(2-494,ReEv3(2-496
+ReEv3(2-496,—Timothy Wyles (69],"Dear Editor,",Carlos,Now here's a weird fuckin' door.,,N,ReEv3(2-495,ReEv3(2-497
+ReEv3(2-497,—Timothy Wyles (69],"Dear Editor,",Tyrell,Leave it. We're here for Bard.,,N,ReEv3(2-496,ReEv3(2-498
+ReEv3(2-498,—Timothy Wyles (69],"Dear Editor,",,[ID Card Security Protocols],,Y,ReEv3(2-497,ReEv3(2-499
+ReEv3(2-501,—Timothy Wyles (69],"Sept. 16, 1998",,"[In the next room, Carlos sees a creature with a long tongue killing two cops. Carlos walks into the room carefully, keeping his weapon ready.]",,Y,ReEv3(2-500,ReEv3(2-502
+ReEv3(2-502,—Timothy Wyles (69],"Sept. 16, 1998",Carlos,What the hell was that thing? Couldn't have been a zombie. It didn't stick around. Here we go…,,N,ReEv3(2-501,ReEv3(2-503
+ReEv3(2-503,—Timothy Wyles (69],"Sept. 16, 1998",,[He gets attacked by zombies and starts shooting back.],,Y,ReEv3(2-502,ReEv3(2-504
+ReEv3(2-504,—Timothy Wyles (69],"Sept. 16, 1998",Carlos,"T, you copy? There's something real nasty in here. I don't know what it is.",,N,ReEv3(2-503,ReEv3(2-505
+ReEv3(2-505,—Timothy Wyles (69],"Sept. 16, 1998",Tyrell, Something nasty? Alright. I'll take a look with the cameras. Watch your six.,(via radio) ,N,ReEv3(2-504,ReEv3(2-506
+ReEv3(2-506,—Timothy Wyles (69],"Sept. 16, 1998",,[Sept. 20 Arrest Report],,Y,ReEv3(2-505,ReEv3(2-507
+ReEv3(2-507,—Timothy Wyles (69],"Sept. 16, 1998",Name,Rodney Gray,,N,ReEv3(2-506,ReEv3(2-508
+ReEv3(2-508,—Timothy Wyles (69],"Sept. 16, 1998",Occupation,Unemployed (former electrician],,N,ReEv3(2-507,ReEv3(2-509
+ReEv3(2-519,Unlawful creation and/or,"Sept. 16, 1998",,[The battery was secured in safety deposit room.],,Y,ReEv3(2-518,ReEv3(2-520
+ReEv3(2-520,Interrogating Officer Wes Drucker,"Sept. 16, 1998",,[Internal Memo],,Y,ReEv3(2-519,ReEv3(2-521
+ReEv3(2-523,Interrogating Officer Wes Drucker,"Sept. 22, 1998",,[Carlos finds a camera.],,Y,ReEv3(2-522,ReEv3(2-524
+ReEv3(2-524,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Carlos,"If cameras killed those things, I'd be set. There you are, dickface!",,N,ReEv3(2-523,ReEv3(2-525
+ReEv3(2-525,Interrogating Officer Wes Drucker,"Sept. 22, 1998",,"[In the locker room, Tyrell is in contact with him.]",,Y,ReEv3(2-524,ReEv3(2-526
+ReEv3(2-526,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Tyrell," Carlos, I've hit a dead end with the terminal here. Gonna head your way.",(via radio) ,N,ReEv3(2-525,ReEv3(2-527
+ReEv3(2-527,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Carlos,Copy that.,,N,ReEv3(2-526,ReEv3(2-528
+ReEv3(2-528,Interrogating Officer Wes Drucker,"Sept. 22, 1998",,[Note to a Friend],,Y,ReEv3(2-527,ReEv3(2-529
+ReEv3(2-536,Interrogating Officer Wes Drucker,"Sept. 22, 1998",,[Carlos comes to the locker and decides whether or not to open it.],,Y,ReEv3(2-535,ReEv3(2-537
+ReEv3(2-537,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Carlos,Better not.,,N,ReEv3(2-536,ReEv3(2-538
+ReEv3(2-538,Interrogating Officer Wes Drucker,"Sept. 22, 1998",,[He continues to explore the infected police station.],,Y,ReEv3(2-537,ReEv3(2-539
+ReEv3(2-539,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Carlos,"Gotta move. One at a time, take a number. Man, it sucks to be popular. This asshole again!",,N,ReEv3(2-538,ReEv3(2-540
+ReEv3(2-540,Interrogating Officer Wes Drucker,"Sept. 22, 1998",,[I'm going out to the main police station offices. One of the computers has an incoming message on its screen. Carlos clicks on it and the video call tuns on.],,Y,ReEv3(2-539,ReEv3(2-541
+ReEv3(2-541,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Carlos,Dr. Bard!,,N,ReEv3(2-540,ReEv3(2-542
+ReEv3(2-542,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Dr. Bard,"Oh, thank god. Do you know how long I've been trying to reach somebody?",,N,ReEv3(2-541,ReEv3(2-543
+ReEv3(2-543,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Carlos,"Don't worry, we're gonna get you out of there. Just tell me where you are.",,N,ReEv3(2-542,ReEv3(2-544
+ReEv3(2-544,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Dr. Bard,"I'm trapped in a goddamn hospital, surrounded by every kind of abomination... Look, just send in S.T.A.R.S. They're gonna know what to do.",,N,ReEv3(2-543,ReEv3(2-545
+ReEv3(2-545,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Carlos,"Nah, negative. R.P.D.'s overrun too.",,N,ReEv3(2-544,ReEv3(2-546
+ReEv3(2-546,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Dr. Bard,"Then figure it out! Umbrella's gone crazy. They're killing all the researchers. I am the only one who knows how to make the vaccine to stop the zombies... So you can either sit there with your dick in your hand, or send—send somebody who's capable of getting me the hell out of here!",,N,ReEv3(2-545,ReEv3(2-547
+ReEv3(2-547,Interrogating Officer Wes Drucker,"Sept. 22, 1998",,"[His partner, Tyrell, is approaching him.]",,Y,ReEv3(2-546,ReEv3(2-548
+ReEv3(2-548,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Tyrell,I like him already.,,N,ReEv3(2-547,ReEv3(2-549
+ReEv3(2-549,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Carlos,"Yeah, you would. You heard what he said. We can't turn him over to the company.",,N,ReEv3(2-548,ReEv3(2-550
+ReEv3(2-550,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Tyrell,"That's not our call to make. That's Mikhail's call. I'm gonna check the computer and see if I can trace the doc's location. This'll take some time. Look around, see if you can find anything useful.",,N,ReEv3(2-549,ReEv3(2-551
+ReEv3(2-551,Interrogating Officer Wes Drucker,"Sept. 22, 1998",,[Report on the Mansion Incident],,Y,ReEv3(2-550,ReEv3(2-552
+ReEv3(2-557,Interrogating Officer Wes Drucker,"Sept. 22, 1998",,"[Some time later, someone's giving Carlos the latest news on the radio.]",,Y,ReEv3(2-556,ReEv3(2-558
+ReEv3(2-558,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Carlos,"Yeah, what's up? Derailed? Was anyone hurt?",,N,ReEv3(2-557,ReEv3(2-559
+ReEv3(2-559,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Tyrell,Jill?,,N,ReEv3(2-558,ReEv3(2-560
+ReEv3(2-560,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Carlos,"Ah, shit... Wait what!? Jill? Jill, what happened!? Jill come in! T, I gotta go.",,N,ReEv3(2-559,ReEv3(2-561
+ReEv3(2-562,Interrogating Officer Wes Drucker,"Sept. 22, 1998",Tyrell,Do what you gotta. I'll take care of Bard.,,N,ReEv3(2-561,ReEv3(2-563
+ReEv3(2-563,Interrogating Officer Wes Drucker,Several minutes earlier - Subway Tunnels,,[Jill barely gets up after a terrible train wreck. The car next to her is blazing with bright flames. She begins to look for a way to the surface.],,Y,ReEv3(2-562,ReEv3(2-564
+ReEv3(2-564,Interrogating Officer Wes Drucker,Several minutes earlier - Subway Tunnels,Jill,"Am I the only one who made it? Carlos, come in. Carlos? Dammit, guess I'm out of range.",,N,ReEv3(2-563,ReEv3(2-565
+ReEv3(2-565,Interrogating Officer Wes Drucker,Several minutes earlier - Subway Tunnels,,[U.B.CS. New Weaponry Notice],,Y,ReEv3(2-564,ReEv3(2-566
+ReEv3(2-567,Interrogating Officer Wes Drucker,Several minutes earlier - Subway Tunnels,"I've got some new weaponry for that's guaranteed to put the brass back in your sacks. They're called Mine Rounds. These babies were developed by Umbrella's military R&D, and they will light your fires even hotter than the lover you left back home. They're tough to fin and tricky to handle, but trust me","they're worth it. Alright, let's take a look at the specs.",,N,ReEv3(2-566,ReEv3(2-568
+ReEv3(2-572,Interrogating Officer Wes Drucker,Several minutes earlier - Subway Tunnels,,"[When she gets to the surface, she hears the roar of Nemesis.]",,Y,ReEv3(2-571,ReEv3(2-573
+ReEv3(2-573,Interrogating Officer Wes Drucker,Several minutes earlier - Subway Tunnels,Jill,That fucker's still alive. I can't stay here.,,N,ReEv3(2-572,ReEv3(2-574
+ReEv3(2-574,Interrogating Officer Wes Drucker,Several minutes earlier - Subway Tunnels,,[Clock Tower Brochure],,Y,ReEv3(2-573,ReEv3(2-575
+ReEv3(2-578,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,,"[Jill climbs up to the observation deck and sees burning Nemesis burrowing in pain coming out of the subway. He walks to the river, falls into the water like a sack of rotten meat, after which Jill utters her legendary phrase...]",,Y,ReEv3(2-577,ReEv3(2-579
+ReEv3(2-579,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Jill,Bitch can't even swim.,,N,ReEv3(2-578,ReEv3(2-580
+ReEv3(2-580,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,,"[Happy with herself, she pulls out the radio.]",,Y,ReEv3(2-579,ReEv3(2-581
+ReEv3(2-581,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Jill,Carlos! Respond!,,N,ReEv3(2-580,ReEv3(2-582
+ReEv3(2-582,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Carlos, Yeah. What's up?,(via radio) ,N,ReEv3(2-581,ReEv3(2-583
+ReEv3(2-583,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Jill,We didn't make it. The train derailed.,,N,ReEv3(2-582,ReEv3(2-584
+ReEv3(2-584,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Carlos, Derailed? Was anyone hurt?,(via radio) ,N,ReEv3(2-583,ReEv3(2-585
+ReEv3(2-585,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Jill,Everybody's dead. Mikhail. Everybody.,,N,ReEv3(2-584,ReEv3(2-586
+ReEv3(2-586,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Carlos, Shit...,(via radio) ,N,ReEv3(2-585,ReEv3(2-587
+ReEv3(2-587,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Jill,Nicholai left us to die.,,N,ReEv3(2-586,ReEv3(2-588
+ReEv3(2-588,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Carlos," Wait, what!?",(via radio) ,N,ReEv3(2-587,ReEv3(2-589
+ReEv3(2-589,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Jill,What the fuck!?,,N,ReEv3(2-588,ReEv3(2-590
+ReEv3(2-590,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,,"[Nemesis jumps out of the water right on her. He mutated, turning into a mix of gorilla and fish.]",,Y,ReEv3(2-589,ReEv3(2-591
+ReEv3(2-591,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Jill,It's back!,,N,ReEv3(2-590,ReEv3(2-592
+ReEv3(2-592,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Carlos," Jill? Jill, what happened!? Jill! Come in!",(via radio) ,N,ReEv3(2-591,ReEv3(2-593
+ReEv3(2-593,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Jill,"Oh, come on!",,N,ReEv3(2-592,ReEv3(2-594
+ReEv3(2-594,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,,[She has to fight the mutant.],,Y,ReEv3(2-593,ReEv3(2-595
+ReEv3(2-595,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Jill,"I'm gonna kill you! Alright, let's do this. Suck it!",,N,ReEv3(2-594,ReEv3(2-596
+ReEv3(2-596,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,,[She fires a grenade launcher at Nemesis several times. Nemesis falls on cars and seems to be dead.],,Y,ReEv3(2-595,ReEv3(2-597
+ReEv3(2-597,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Jill,"Carlos!? You still there!? Oh, come on. You're gonna crap out on me NOW? God damn it!",,N,ReEv3(2-596,ReEv3(2-598
+ReEv3(2-598,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,,[She steps over the limpen hand of Nemesis and enters a building. Nemesis wakes up and grabs Jill's leg. She notices there's a gate hanging over Nemesis' head. Jill shoots at the chain holding them and the gate cuts off Nemesis' hand. He grows a new one almost instantly and shoots Jill with a thorn. She's getting sick. Nicholai approaches the gate from the other side.],,Y,ReEv3(2-597,ReEv3(2-599
+ReEv3(2-599,Saint Michael's Clock Tower,Several minutes earlier - Subway Tunnels,Nicholai,"Interesting... You've done me a big favor, Miss Valentine.",,N,ReEv3(2-598,ReEv3(2-600
+ReEv3(2-600,Saint Michael's Clock Tower,Roughly half a day later,,[Carlos finds Jill lying on the floor.],,Y,ReEv3(2-599,ReEv3(2-601
+ReEv3(2-601,Saint Michael's Clock Tower,Roughly half a day later,Carlos,"Hey! Answer me! God damn it! Tyrell, do you copy?",,N,ReEv3(2-600,ReEv3(2-602
+ReEv3(2-602,Saint Michael's Clock Tower,Roughly half a day later,Tyrell, What's going on?,(via radio) ,N,ReEv3(2-601,ReEv3(2-603
+ReEv3(2-603,Saint Michael's Clock Tower,Roughly half a day later,Carlos,"Jill's been infected, I... I'm taking her to the hospital. Maybe Dr. Bard can save her!",,N,ReEv3(2-602,ReEv3(2-604
+ReEv3(2-604,Saint Michael's Clock Tower,Roughly half a day later,Tyrell," Alright, I'll meet you there.",(via radio) ,N,ReEv3(2-603,ReEv3(2-605
+ReEv3(2-605,Saint Michael's Clock Tower,Roughly half a day later,Carlos,"You hang in there, supercop. I got ya.",,N,ReEv3(2-604,ReEv3(2-606
+ReEv3(2-606,Saint Michael's Clock Tower,Roughly half a day later,,[He picks up Jill and takes her to the nearest hospital.],,Y,ReEv3(2-605,ReEv3(2-607
+ReEv3(2-608,Saint Michael's Clock Tower,Roughly half a day later,,[Carlos puts Jill in a hospital bed.],,Y,ReEv3(2-607,ReEv3(2-609
+ReEv3(2-609,Saint Michael's Clock Tower,Roughly half a day later,Carlos,"Fight it, Jill. I'm gonna get you that vaccine. You're gonna be OK, I promise.",,N,ReEv3(2-608,ReEv3(2-610
+ReEv3(2-610,Saint Michael's Clock Tower,Roughly half a day later,,[He's going to look for Dr. Bard.],,Y,ReEv3(2-609,ReEv3(2-611
+ReEv3(2-611,Saint Michael's Clock Tower,Roughly half a day later,Carlos,"Tyrell, where's Bard now?",,N,ReEv3(2-610,ReEv3(2-612
+ReEv3(2-612,Saint Michael's Clock Tower,Roughly half a day later,Tyrell, Gotta be the lab in the back. Stay frosty. I'm on my way.,(via radio) ,N,ReEv3(2-611,ReEv3(2-613
+ReEv3(2-613,Saint Michael's Clock Tower,Roughly half a day later,Carlos,Copy. I'll go on ahead.,,N,ReEv3(2-612,ReEv3(2-614
+ReEv3(2-614,Saint Michael's Clock Tower,Roughly half a day later,,[Soon Carlos walks into an abandoned hospital wing there Dr. Bard’s office is.],,Y,ReEv3(2-613,ReEv3(2-615
+ReEv3(2-615,Saint Michael's Clock Tower,Roughly half a day later,Computer,Welcome to the office of Dr. Nathaniel Bard. Please state your business clearly into the intercom.,,N,ReEv3(2-614,ReEv3(2-616
+ReEv3(2-616,Saint Michael's Clock Tower,Roughly half a day later,,[Nurse's Journal: Sept. 25],,Y,ReEv3(2-615,ReEv3(2-617
+ReEv3(2-619,Saint Michael's Clock Tower,Roughly half a day later,,[Carlos hits the intercom.],,Y,ReEv3(2-618,ReEv3(2-620
+ReEv3(2-620,Saint Michael's Clock Tower,Roughly half a day later,Carlos,"Dr. Bard, are you in there? I'm here to rescue you! Open the door!",,N,ReEv3(2-619,ReEv3(2-621
+ReEv3(2-621,Saint Michael's Clock Tower,Roughly half a day later,,"[He walks down the hallways of the hospital killing ""patients.""]",,Y,ReEv3(2-620,ReEv3(2-622
+ReEv3(2-622,Saint Michael's Clock Tower,Roughly half a day later,,[Nurse's Journal: Sept. 27],,Y,ReEv3(2-621,ReEv3(2-623
+ReEv3(2-628,→ ASK AGAIN,· Still no bloodwork back from the research wing,,[Memos from Administration],,Y,ReEv3(2-627,ReEv3(2-629
+ReEv3(2-632,Administration - Sept. 24,· Still no bloodwork back from the research wing,,[Nurse's Journal: Sept. 29],,Y,ReEv3(2-631,ReEv3(2-633
+ReEv3(2-639,Help m,· Still no bloodwork back from the research wing,Carlos,"OK, not this way…",,N,ReEv3(2-638,ReEv3(2-640
+ReEv3(2-640,Help m,· Still no bloodwork back from the research wing,,[He walks up to the shaking door and raises his weapon. Is it the isolation wing?],,Y,ReEv3(2-639,ReEv3(2-641
+ReEv3(2-641,Help m,· Still no bloodwork back from the research wing,,[Note about a Tape Recording],,Y,ReEv3(2-640,ReEv3(2-642
+ReEv3(2-646,—A friend,· Still no bloodwork back from the research wing,,"[Carlos kills a few more ""patients"" and enters the isolation wing. There's something huge and clawy running towards him. Carlos kills it.]",,Y,ReEv3(2-645,ReEv3(2-647
+ReEv3(2-647,—A friend,· Still no bloodwork back from the research wing,Carlos,Jesus Christ!,,N,ReEv3(2-646,ReEv3(2-648
+ReEv3(2-648,—A friend,· Still no bloodwork back from the research wing,,[RE: Lost Items],,Y,ReEv3(2-647,ReEv3(2-649
+ReEv3(2-653,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,,"[Carlos finds a tape labeled ""Dr. B Recording for HR"", a recorder and gets back to the voice locked door. He turns on the recording and brings it to the intercom.]",,Y,ReEv3(2-652,ReEv3(2-654
+ReEv3(2-654,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Nurse on Tape,All I wanted to know was what the documents were doing in your office in the first place—,,N,ReEv3(2-653,ReEv3(2-655
+ReEv3(2-655,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Dr. Bard on Tape,"Who do you think you're talking to? I'm goddam Nathaniel Bard! I'm the best biologist you'll ever meet, you bedpan-changing waste of a nursing degree. Of course I have connections higher up. Of course the military consults with me on projects beyond your comprehension. So stop wasting my time with your nosy questions!",,N,ReEv3(2-654,ReEv3(2-656
+ReEv3(2-656,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Nurse on Tape,"...I-I'm sorry, Doctor.",,N,ReEv3(2-655,ReEv3(2-657
+ReEv3(2-657,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Dr. Bard on Tape,"...You didn't read the documents, did you?",,N,ReEv3(2-656,ReEv3(2-658
+ReEv3(2-658,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Nurse on Tape,"No, I shredded them just like you asked.",,N,ReEv3(2-657,ReEv3(2-659
+ReEv3(2-659,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Dr. Bard on Tape,"Good... Good. If that's all, you can go back to wiping your patients' asses. That's what they pay you for, right? And polish my shoes.",,N,ReEv3(2-658,ReEv3(2-660
+ReEv3(2-660,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Nurse on Tape,"Yes, sir.",,N,ReEv3(2-659,ReEv3(2-661
+ReEv3(2-661,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Dr. Bard on Tape,"I bet you know a lot about polishing, don't you? Now fuck off. And don't say a word to anyone.",,N,ReEv3(2-660,ReEv3(2-662
+ReEv3(2-662,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,,[Carlos walks into the office and finds Dr. Bard sitting in his chair. Carlos turns the chair and realizes that Dr. Bard is dead.],,Y,ReEv3(2-661,ReEv3(2-663
+ReEv3(2-663,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Carlos,Bard.  Tyrell! Bard's dead. He's been shot!,(via radio) ,N,ReEv3(2-662,ReEv3(2-664
+ReEv3(2-664,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Tyrell, Shit. And the vaccine?,(via radio) ,N,ReEv3(2-663,ReEv3(2-665
+ReEv3(2-665,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Carlos,I'm looking.,,N,ReEv3(2-664,ReEv3(2-666
+ReEv3(2-666,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,Tyrell," Well, look harder! There's gotta be a computer, right?",(via radio) ,N,ReEv3(2-665,ReEv3(2-667
+ReEv3(2-667,"9 clockwise, 3 counterclockwise.",· Still no bloodwork back from the research wing,,[Banquet Invitation],,Y,ReEv3(2-666,ReEv3(2-668
+ReEv3(2-671,Handwritten note,"Thursday, September 10, 1998 - 6:00 p.m.",,[Email from Nathaniel Bard],,Y,ReEv3(2-670,ReEv3(2-672
+ReEv3(2-672,Handwritten note,"Thursday, September 10, 1998 - 6:00 p.m.",To,Greg Tester,,N,ReEv3(2-671,ReEv3(2-673
+ReEv3(2-673,Handwritten note,"Thursday, September 10, 1998 - 6:00 p.m.",Subject,REPLY IMMEDIATELY,,N,ReEv3(2-672,ReEv3(2-674
+ReEv3(2-677,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[Carlos sits at the computer and presses a few keys. A video with the doctor appears.],,Y,ReEv3(2-676,ReEv3(2-678
+ReEv3(2-678,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Dr. Bard,"This is VRC Chief Nathaniel Bard. September 29... 11 p.m. I am acutely aware... that my time's running out. And I hope and pray by making this recording and bringing the truth to light... that I can restore some small shred of honor to my name. All of Raccoon City's suffering began with the release of a biological weapon known as the T-Virus. My employer, the Umbrella Corporation, engineered this virus... and they ordered my team to develop a vaccine, which we did. Now I keep samples of this vaccine here in my office, The rest of it is stored underground. But those sons of bitches on the board... they want to destroy it. They don't want the world to know what they've done... so they're trying to erase all evidence that the virus ever existed. Now I'm not a fool. I know they don't want me to—",,N,ReEv3(2-677,ReEv3(2-679
+ReEv3(2-679,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[He notices something and stops the recording.],,Y,ReEv3(2-678,ReEv3(2-680
+ReEv3(2-680,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,"My god, Jill knew all along. And she trusted me anyway.",,N,ReEv3(2-679,ReEv3(2-681
+ReEv3(2-681,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,Is it here?,,N,ReEv3(2-680,ReEv3(2-682
+ReEv3(2-682,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[He opens up the fridge and takes out the vaccine syringe.],,Y,ReEv3(2-681,ReEv3(2-683
+ReEv3(2-683,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,"Alright, Jill. Hang tight. T, I got it!",,N,ReEv3(2-682,ReEv3(2-684
+ReEv3(2-684,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell, Good. I'm headed your way.,(via radio) ,N,ReEv3(2-683,ReEv3(2-685
+ReEv3(2-685,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,Be careful.,,N,ReEv3(2-684,ReEv3(2-686
+ReEv3(2-686,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell," ""Careful?""  Have you seen this town? It'll be a fucking miracle if I get there in one piece.",(via radio) (laughs) ,N,ReEv3(2-685,ReEv3(2-687
+ReEv3(2-687,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[Carlos is on his way back to Jill's room.],,Y,ReEv3(2-686,ReEv3(2-688
+ReEv3(2-688,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,"You're gonna be OK, Jill.",,N,ReEv3(2-687,ReEv3(2-689
+ReEv3(2-689,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[He's giving her the vaccine.],,Y,ReEv3(2-688,ReEv3(2-690
+ReEv3(2-690,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,Come on... This shit better work.,,N,ReEv3(2-689,ReEv3(2-691
+ReEv3(2-691,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[Some time passes… Tyrell comes into the room. He can barely breathe from running and fighting. ],,Y,ReEv3(2-690,ReEv3(2-692
+ReEv3(2-692,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,Jesus. Tyrell. What the hell happened!?,,N,ReEv3(2-691,ReEv3(2-693
+ReEv3(2-693,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,"[Without saying a word, Tyrell turns on the TV. ]",,Y,ReEv3(2-692,ReEv3(2-694
+ReEv3(2-694,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Reporter,"Attention all citizens. The contagion spreading throughout the city has been designated uncontainable. On October 1, Raccoon City will be completely destroyed in a missile strike. All residents capable of rational thought are urged to evacuate immediately. This is not a test. Attention all citizens... (the recording continues]",,N,ReEv3(2-693,ReEv3(2-695
+ReEv3(2-695,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,"Man, that's only a day away. There's still people in the city!",,N,ReEv3(2-694,ReEv3(2-696
+ReEv3(2-696,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell,You think Uncle Sam gives a shit? Fuck. Here they come.,,N,ReEv3(2-695,ReEv3(2-697
+ReEv3(2-697,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,Now you sit tight. I got this.,,N,ReEv3(2-696,ReEv3(2-698
+ReEv3(2-698,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell,"Better grab some gear. Sounds like there's a lot of 'em out there...  I'm gonna try to lower the window shutters! The less entry points, the better!",(via radio) ,N,ReEv3(2-697,ReEv3(2-699
+ReEv3(2-699,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,And how do we do that?,,N,ReEv3(2-698,ReEv3(2-700
+ReEv3(2-700,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell, I'll try hacking into the hospital security system. Keep 'em off me in the meantime!,(via radio) ,N,ReEv3(2-699,ReEv3(2-701
+ReEv3(2-701,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[There's a whole horde of zombies coming to the hospital. Carlos grabs his machine gun.],,Y,ReEv3(2-700,ReEv3(2-702
+ReEv3(2-702,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,"OK, now the fun shit begins.",,N,ReEv3(2-701,ReEv3(2-703
+ReEv3(2-703,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[A few minutes later.],,Y,ReEv3(2-702,ReEv3(2-704
+ReEv3(2-704,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell," Carlos, they've breached the room!",(via radio) ,N,ReEv3(2-703,ReEv3(2-705
+ReEv3(2-705,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,"Aw, c'mon.",,N,ReEv3(2-704,ReEv3(2-706
+ReEv3(2-706,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell, Find the breaker! It must be somewhere!,(via radio) ,N,ReEv3(2-705,ReEv3(2-707
+ReEv3(2-707,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,"[Carlos keeps tearing off crowds of zombies. Huge, clawed creatures enter the hospital building, one of which Carlos fought recently.]",,Y,ReEv3(2-706,ReEv3(2-708
+ReEv3(2-708,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,Almost got it! There. Now I just gotta clean up.,,N,ReEv3(2-707,ReEv3(2-709
+ReEv3(2-709,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,"[However, at that moment, the hospital doors break down and a new crowd of zombies goes inside.]",,Y,ReEv3(2-708,ReEv3(2-710
+ReEv3(2-710,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell," Carlos, maybe you can knock the pillar down with that explosive!",(via radio) ,N,ReEv3(2-709,ReEv3(2-711
+ReEv3(2-711,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,I'm on it!,,N,ReEv3(2-710,ReEv3(2-712
+ReEv3(2-712,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[He blows up the pillar.],,Y,ReEv3(2-711,ReEv3(2-713
+ReEv3(2-713,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell, Carlos! You alright?,(via radio) ,N,ReEv3(2-712,ReEv3(2-714
+ReEv3(2-714,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,Not even close. But at least it's over. I'm comin' back.,,N,ReEv3(2-713,ReEv3(2-715
+ReEv3(2-715,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell,Vaccine's the real deal.,,N,ReEv3(2-714,ReEv3(2-716
+ReEv3(2-716,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,Good.,,N,ReEv3(2-715,ReEv3(2-717
+ReEv3(2-717,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell,You goin' somewhere?,,N,ReEv3(2-716,ReEv3(2-718
+ReEv3(2-718,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,You're damn right.,,N,ReEv3(2-717,ReEv3(2-719
+ReEv3(2-719,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell,What do you think you're gonna do? The whole city's about to be microwaved.,,N,ReEv3(2-718,ReEv3(2-720
+ReEv3(2-720,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,"C'mon, man. Call the government. Tell them we found a cure. You stall for time!",,N,ReEv3(2-719,ReEv3(2-721
+ReEv3(2-721,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell,Ballsy motherfucker.,,N,ReEv3(2-720,ReEv3(2-722
+ReEv3(2-722,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,"[After a while, Jill regains consciousness. There's no one in the room. A minute later, Carlos enters.]",,Y,ReEv3(2-721,ReEv3(2-723
+ReEv3(2-723,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,"Jill! Oh, thank god! You're OK. I've got good news. It's over now. The city's safe.",,N,ReEv3(2-722,ReEv3(2-724
+ReEv3(2-724,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,"[She falls to the floor, spitting blood on it. Jill tries to get close to him, but Carlos is squirming his face and hissing at her - he's obviously infected for a long time.]",,Y,ReEv3(2-723,ReEv3(2-725
+ReEv3(2-725,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos," Shoot me, Jill!",(barely speaking) ,N,ReEv3(2-724,ReEv3(2-726
+ReEv3(2-726,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,"[The gun in Jill's hand shakes like she's not a trained soldier, but a rookie holding a gun for the first time.]",,Y,ReEv3(2-725,ReEv3(2-727
+ReEv3(2-727,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Carlos,It's the only way…,,N,ReEv3(2-726,ReEv3(2-728
+ReEv3(2-728,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[He throws himself at her and... Jill wakes up.],,Y,ReEv3(2-727,ReEv3(2-729
+ReEv3(2-729,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Jill,Where am I? What's going on?,,N,ReEv3(2-728,ReEv3(2-730
+ReEv3(2-730,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Emergency Report,Attention all citizens. The missile strike on Raccoon City will occur in just hours. The payload is designed to eradicate all biological material. You will not survive if you remain in the city. Evacuate now. Repeat: evacuate now.,,N,ReEv3(2-729,ReEv3(2-731
+ReEv3(2-731,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Jill,"October 1st? No, it can't be.",,N,ReEv3(2-730,ReEv3(2-732
+ReEv3(2-733,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[She gets out of bed and leaves the room.],,Y,ReEv3(2-732,ReEv3(2-734
+ReEv3(2-734,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell,Morning sunshine.,,N,ReEv3(2-733,ReEv3(2-735
+ReEv3(2-735,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Jill,You saved my life.,,N,ReEv3(2-734,ReEv3(2-736
+ReEv3(2-736,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell,I sure as shit didn't. That was all Carlos. He carried you here and he treated you himself crazy bastard.,,N,ReEv3(2-735,ReEv3(2-737
+ReEv3(2-737,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Jill,Where is he?,,N,ReEv3(2-736,ReEv3(2-738
+ReEv3(2-738,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell,"He went underground. Bard stockpiled the vaccine, enough to give the city some hope.",,N,ReEv3(2-737,ReEv3(2-739
+ReEv3(2-739,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Jill,He thinks he can do this by himself. I'm going after him.,,N,ReEv3(2-738,ReEv3(2-740
+ReEv3(2-740,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell,"Wait! Did you see the broadcast? They’re gonna blow the city sky high. I'm trying to get ahold of someone, anyone with the clearance to stop it. Leave this mess to him. He's a professional.",,N,ReEv3(2-739,ReEv3(2-741
+ReEv3(2-741,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Jill,So am I.,,N,ReEv3(2-740,ReEv3(2-742
+ReEv3(2-742,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Tyrell,"Right. Guess I'm not talkin' you out of this. The storage facility is underground, beneath this hospital. I've lost contact with Carlos, so expect trouble.",,N,ReEv3(2-741,ReEv3(2-743
+ReEv3(2-743,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,"[Jill starts exploring the hospital, putting together all the useful things she can find. She goes to Dr. Bard's office.]",,Y,ReEv3(2-742,ReEv3(2-744
+ReEv3(2-744,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Jill, This looks like Nicholai’s work.,(looking at his body) ,N,ReEv3(2-743,ReEv3(2-745
+ReEv3(2-745,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[She goes down to the big parking lot with a few trucks.],,Y,ReEv3(2-744,ReEv3(2-746
+ReEv3(2-746,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Jill,This must be the way underground.,,N,ReEv3(2-745,ReEv3(2-747
+ReEv3(2-747,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[At the push of a button she goes down in a giant elevator to the ground with one of the trucks.],,Y,ReEv3(2-746,ReEv3(2-748
+ReEv3(2-748,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Jill,How is it no one in the hospital ever noticed all this?,,N,ReEv3(2-747,ReEv3(2-749
+ReEv3(2-749,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[Elevator Notice],,Y,ReEv3(2-748,ReEv3(2-750
+ReEv3(2-752,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[She's starting to explore this incredible underground lab. There's a lot of research going on there and thousands of people have to work. She sees Nicholai in the control room on the second floor.],,Y,ReEv3(2-751,ReEv3(2-753
+ReEv3(2-753,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Nicholai," I must admit, I respect your tenacity. But I'm afraid our games end here.",(via loudspeaker) ,N,ReEv3(2-752,ReEv3(2-754
+ReEv3(2-754,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Jill, You think this is over?,(to herself) ,N,ReEv3(2-753,ReEv3(2-755
+ReEv3(2-755,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,"[However, there seems to be no way to get upstairs.]",,Y,ReEv3(2-754,ReEv3(2-756
+ReEv3(2-756,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",Jill,"A dead end… No, wait.",,N,ReEv3(2-755,ReEv3(2-757
+ReEv3(2-757,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[She squeezes between the shelves and goes on.],,Y,ReEv3(2-756,ReEv3(2-758
+ReEv3(2-758,—Nate,"Thursday, September 10, 1998 - 6:00 p.m.",,[Employee Memo],,Y,ReEv3(2-757,ReEv3(2-759
+ReEv3(2-759,Sept. 12,"Thursday, September 10, 1998 - 6:00 p.m.",Admitted to N2,male 45 / female 32,,N,ReEv3(2-758,ReEv3(2-760
+ReEv3(2-760,Sept. 12,"Thursday, September 10, 1998 - 6:00 p.m.",Discarded,male 60 / female 89,,N,ReEv3(2-759,ReEv3(2-761
+ReEv3(2-761,Sept. 5,"Thursday, September 10, 1998 - 6:00 p.m.",Admitted to N2,"males 55, 19 / female 51",,N,ReEv3(2-760,ReEv3(2-762
+ReEv3(2-762,Sept. 5,"Thursday, September 10, 1998 - 6:00 p.m.",Discarded,female 76,,N,ReEv3(2-761,ReEv3(2-763
+ReEv3(2-763,Sept. 5,"Thursday, September 10, 1998 - 6:00 p.m.",Returned,female 8 (uninfected],,N,ReEv3(2-762,ReEv3(2-764
+ReEv3(2-764,Sept. 22,"Thursday, September 10, 1998 - 6:00 p.m.",Admitted to N2,"males 25, 22, 15 / females 16, 21, 29",,N,ReEv3(2-763,ReEv3(2-765
+ReEv3(2-765,Sept. 22,"Thursday, September 10, 1998 - 6:00 p.m.",Discarded,6 male specimens / 9 female specimens,,N,ReEv3(2-764,ReEv3(2-766
+ReEv3(2-769,Sept. 24,Pre-emptively dispose of any over 30 years of age.,,[She heads to the control room.],,Y,ReEv3(2-768,ReEv3(2-770
+ReEv3(2-770,Sept. 24,Pre-emptively dispose of any over 30 years of age.,Jill,Shit. He got away. What was he doing in here?,,N,ReEv3(2-769,ReEv3(2-771
+ReEv3(2-771,Sept. 24,Pre-emptively dispose of any over 30 years of age.,,[Unfinished Activity Log],,Y,ReEv3(2-770,ReEv3(2-772
+ReEv3(2-776,9/28,Pre-emptively dispose of any over 30 years of age.,0430. Diverted pack toward command post. Result,night skirmish in confined area with large number of combatants .,(video attached) ,N,ReEv3(2-775,ReEv3(2-777
+ReEv3(2-778,9/28,0800. End of skirmish. Seven survivors.,2000. Got eyes on two S.T.A.R.S.,a male  and female. Bioweapon is pursuing the female.,(infected) ,N,ReEv3(2-777,ReEv3(2-779
+ReEv3(2-784,9/30,0800. End of skirmish. Seven survivors.,,"[After reading the magazine, she hears someone take the elevator to the room. She turns around and points her gun.]",,Y,ReEv3(2-783,ReEv3(2-785
+ReEv3(2-785,9/30,0800. End of skirmish. Seven survivors.,Tyrell,Jill!,,N,ReEv3(2-784,ReEv3(2-786
+ReEv3(2-786,9/30,0800. End of skirmish. Seven survivors.,Jill,Tyrell!,,N,ReEv3(2-785,ReEv3(2-787
+ReEv3(2-787,9/30,0800. End of skirmish. Seven survivors.,Tyrell,I got through! They're willing to negotiate—,,N,ReEv3(2-786,ReEv3(2-788
+ReEv3(2-788,9/30,0800. End of skirmish. Seven survivors.,,[He's writhing in pain.],,Y,ReEv3(2-787,ReEv3(2-789
+ReEv3(2-789,9/30,0800. End of skirmish. Seven survivors.,Tyrell,"They'll call off the strike, if—and this is one big-ass ""if""… we can deliver the vaccine to them",,N,ReEv3(2-788,ReEv3(2-790
+ReEv3(2-790,9/30,before they launch.,Jill,How long do we have?,,N,ReEv3(2-789,ReEv3(2-791
+ReEv3(2-791,9/30,before they launch.,Tyrell,"Hours, maybe.",,N,ReEv3(2-790,ReEv3(2-792
+ReEv3(2-792,9/30,before they launch.,Jill,Then let's not waste one more second.,,N,ReEv3(2-791,ReEv3(2-793
+ReEv3(2-793,9/30,before they launch.,Tyrell,This way.,,N,ReEv3(2-792,ReEv3(2-794
+ReEv3(2-794,9/30,before they launch.,Jill,Sure you don't need to stop?,,N,ReEv3(2-793,ReEv3(2-795
+ReEv3(2-795,9/30,before they launch.,Tyrell,Stop and do what? I got your back.,,N,ReEv3(2-794,ReEv3(2-796
+ReEv3(2-796,9/30,before they launch.,Jill,Alright. Let's get this done.,,N,ReEv3(2-795,ReEv3(2-797
+ReEv3(2-797,9/30,before they launch.,,"[They go into the next room and look around, keeping their weapons ready. Suddenly - though they were supposed to see him - mutated Nemesis appears in the room and throws Tyrell against the wall.]",,Y,ReEv3(2-796,ReEv3(2-798
+ReEv3(2-798,9/30,before they launch.,Jill,Tyrell!,,N,ReEv3(2-797,ReEv3(2-799
+ReEv3(2-799,9/30,before they launch.,,"[She shoots at Nemesis, giving Tyrell a chance to get up.]",,Y,ReEv3(2-798,ReEv3(2-800
+ReEv3(2-800,9/30,before they launch.,Jill,Now! Keep going! We're almost there!,,N,ReEv3(2-799,ReEv3(2-801
+ReEv3(2-801,9/30,before they launch.,,[Nemesis pierces him with his tentacle.],,Y,ReEv3(2-800,ReEv3(2-802
+ReEv3(2-802,9/30,before they launch.,Tyrell,Jill!,,N,ReEv3(2-801,ReEv3(2-803
+ReEv3(2-803,9/30,before they launch.,Jill,No…,,N,ReEv3(2-802,ReEv3(2-804
+ReEv3(2-804,9/30,before they launch.,Tyrell,Go! GO!,,N,ReEv3(2-803,ReEv3(2-805
+ReEv3(2-805,9/30,before they launch.,Jill,Shit!,,N,ReEv3(2-804,ReEv3(2-806
+ReEv3(2-806,9/30,before they launch.,,[Jill runs away and closes the door behind him at the last second. Now she alone has to get the vaccine as soon as possible.],,Y,ReEv3(2-805,ReEv3(2-807
+ReEv3(2-807,9/30,before they launch.,,[NEST 2 Employee Regulations],,Y,ReEv3(2-806,ReEv3(2-808
+ReEv3(2-811,Attention NEST 2 Employees,before they launch.,,[Isaac Graves' Diary],,Y,ReEv3(2-810,ReEv3(2-812
+ReEv3(2-817,Attention NEST 2 Employees,before they launch.,,[She finds the medical device that creates the vaccine.],,Y,ReEv3(2-816,ReEv3(2-818
+ReEv3(2-818,Attention NEST 2 Employees,before they launch.,Computer,"To begin vaccine synthesis, place the materials in the chamber.",,N,ReEv3(2-817,ReEv3(2-819
+ReEv3(2-819,Attention NEST 2 Employees,before they launch.,Jill,"""Synthesis""? I have to make it myself? Alright, gotta figure this out.",,N,ReEv3(2-818,ReEv3(2-820
+ReEv3(2-820,Attention NEST 2 Employees,before they launch.,Computer,Override key successfully generated.,,N,ReEv3(2-819,ReEv3(2-821
+ReEv3(2-821,Attention NEST 2 Employees,before they launch.,Jill,What have we here?,,N,ReEv3(2-820,ReEv3(2-822
+ReEv3(2-822,Attention NEST 2 Employees,before they launch.,Computer,Override key removed.,,N,ReEv3(2-821,ReEv3(2-823
+ReEv3(2-823,Attention NEST 2 Employees,before they launch.,,"[With a key, she opens the door in another part of the lab.]",,Y,ReEv3(2-822,ReEv3(2-824
+ReEv3(2-824,Attention NEST 2 Employees,before they launch.,Computer,Override complete.,,N,ReEv3(2-823,ReEv3(2-825
+ReEv3(2-825,Attention NEST 2 Employees,before they launch.,,[In the room Jill finds a lot of equipment for making medical supplies.],,Y,ReEv3(2-824,ReEv3(2-826
+ReEv3(2-826,Attention NEST 2 Employees,before they launch.,Jill,An antigen sample. I'll definitely need this for the vaccine.,,N,ReEv3(2-825,ReEv3(2-827
+ReEv3(2-827,Attention NEST 2 Employees,before they launch.,,[Weaponry Authorization Request],,Y,ReEv3(2-826,ReEv3(2-828
+ReEv3(2-832,Dear Dr. Emmerson,before they launch.,,[Scientist’s Dying Message],,Y,ReEv3(2-831,ReEv3(2-833
+ReEv3(2-837,Dear Dr. Emmerson,before they launch.,,"[Deep in the lab, Jill finds huge glowing batteries.]",,Y,ReEv3(2-836,ReEv3(2-838
+ReEv3(2-838,Dear Dr. Emmerson,before they launch.,Jill,This must be what powers it.,,N,ReEv3(2-837,ReEv3(2-839
+ReEv3(2-839,Dear Dr. Emmerson,before they launch.,,"[By moving them to the right places, she powers the door and continues on her way. Like upstairs zombies are all over the place.]",,Y,ReEv3(2-838,ReEv3(2-840
+ReEv3(2-840,Dear Dr. Emmerson,before they launch.,Jill,Out of the way!,,N,ReEv3(2-839,ReEv3(2-841
+ReEv3(2-841,Dear Dr. Emmerson,before they launch.,,[Expression of Concern],,Y,ReEv3(2-840,ReEv3(2-842
+ReEv3(2-851,"Nathaniel Bard, PhD",before they launch.,Jill,"So it's called the ""Nemesis.""",,N,ReEv3(2-850,ReEv3(2-852
+ReEv3(2-852,"Nathaniel Bard, PhD",before they launch.,,[She goes back to the machine that synthesizes the vaccine and puts antigen in it.],,Y,ReEv3(2-851,ReEv3(2-853
+ReEv3(2-853,"Nathaniel Bard, PhD",before they launch.,Computer,Synthesizing vaccine... Synthesis complete. Please remove the vaccine canister.,,N,ReEv3(2-852,ReEv3(2-854
+ReEv3(2-854,"Nathaniel Bard, PhD",before they launch.,,"[When she takes the finished vaccine, Nemesis grabs her with his tentacle. Jill pulls out a knife and releases herself. She has to leave the lab as soon as possible, but Nemesis is trying to make sure she doesn't. Eventually, Jill manages to escape him in the elevator.]",,Y,ReEv3(2-853,ReEv3(2-855
+ReEv3(2-855,"Nathaniel Bard, PhD",before they launch.,,[Disposal Center],,Y,ReEv3(2-854,ReEv3(2-856
+ReEv3(2-856,Disposal Center Protocols,before they launch.,"This facility's to be used for the dissolution, and disposal of test subjects used in NEST 2 experiments","The potent solvents used will ensure that any biological matter within the vat, living or dead, is completely dissolved and ready for disposal. Please follow all safety protocols when using the disposal center.",,N,ReEv3(2-855,ReEv3(2-857
+ReEv3(2-860,Disposal Center Protocols,before they launch.,,"[She goes out into the hangar designed to destroy biomaterial. Judging by its size, the creators of this lab knew perfectly well which creatures they would have to work with.]",,Y,ReEv3(2-859,ReEv3(2-861
+ReEv3(2-861,Disposal Center Protocols,before they launch.,Jill,What in god's name is this place?,,N,ReEv3(2-860,ReEv3(2-862
+ReEv3(2-862,Disposal Center Protocols,before they launch.,,[The bridge that Jill walks on falls apart and she hangs on a ledge. Nicholai approaches.],,Y,ReEv3(2-861,ReEv3(2-863
+ReEv3(2-863,Disposal Center Protocols,before they launch.,Nicholai,Ooh. What do we have here?,,N,ReEv3(2-862,ReEv3(2-864
+ReEv3(2-864,Disposal Center Protocols,before they launch.,Jill,"Nicholai, don't! The city needs that vaccine!",,N,ReEv3(2-863,ReEv3(2-865
+ReEv3(2-865,Disposal Center Protocols,before they launch.,Nicholai,"More than I do? Hmm. (he steps on Jill’s hand) I don't think the wisdom I've been trying to impart on you is getting through. Now I know you can't put a price on life. But I'm in this business to get paid. So let's make a deal. You go down there, battle the Nemesis. And if record it all and sell the combat data. Put on a good show and maybe I don't need the vaccine. Agreed? Good.",,N,ReEv3(2-864,ReEv3(2-866
+ReEv3(2-866,Disposal Center Protocols,before they launch.,,"[Jill falls to the bottom of the pit and has to fight the mutated Nemesis. After a few minutes of fierce battle, Jill hears a familiar voice from the loudspeaker.]",,Y,ReEv3(2-865,ReEv3(2-867
+ReEv3(2-867,Disposal Center Protocols,before they launch.,Carlos,"Jill, is that you?",,N,ReEv3(2-866,ReEv3(2-868
+ReEv3(2-868,Disposal Center Protocols,before they launch.,Jill,Carlos!?,,N,ReEv3(2-867,ReEv3(2-869
+ReEv3(2-869,Disposal Center Protocols,before they launch.,Carlos,You're OK! Let me spot for you!,,N,ReEv3(2-868,ReEv3(2-870
+ReEv3(2-870,Disposal Center Protocols,before they launch.,Jill,Good idea.,,N,ReEv3(2-869,ReEv3(2-871
+ReEv3(2-871,Disposal Center Protocols,before they launch.,,[Carlos is electrocuting Nemesis.],,Y,ReEv3(2-870,ReEv3(2-872
+ReEv3(2-872,Disposal Center Protocols,before they launch.,Carlos,"Watch it! You've got company! He's hiding behind tank eight! Number eight! Here come some more! Look out! He's hiding behind tank two! Now! Rip that fucker apart! Got some more incoming! Number two! Yeah! Here come some more! Look out! Got some more incoming! Number one! Here come some more! Look out! Got some more incoming! Number five! I got this! Not what I intended to hit, but I'll take it! Here come some more! Look out! Got some more incoming! Number seven! Here come some more! Look out!",,N,ReEv3(2-871,ReEv3(2-873
+ReEv3(2-873,Disposal Center Protocols,before they launch.,,"[Tired of fighting, Nemesis decides to take a nap.]",,Y,ReEv3(2-872,ReEv3(2-874
+ReEv3(2-874,Disposal Center Protocols,before they launch.,Carlos,Jill! Here comes the crane. Use it to climb up!,,N,ReEv3(2-873,ReEv3(2-875
+ReEv3(2-875,Disposal Center Protocols,before they launch.,,[Evil Jill keeps Nemesis from sleeping and he wakes up.],,Y,ReEv3(2-874,ReEv3(2-876
+ReEv3(2-876,Disposal Center Protocols,before they launch.,Jill,"Oh no! C'mon, c'mon…",,N,ReEv3(2-875,ReEv3(2-877
+ReEv3(2-877,Disposal Center Protocols,before they launch.,Carlos,"Jill, stay back!",,N,ReEv3(2-876,ReEv3(2-878
+ReEv3(2-878,Disposal Center Protocols,before they launch.,,[Carlos slaps Nemesis hard at his ugly mug with a crane hook.],,Y,ReEv3(2-877,ReEv3(2-879
+ReEv3(2-879,Disposal Center Protocols,before they launch.,Carlos,Now! Get on! I'm gonna melt this fucker into mush.,,N,ReEv3(2-878,ReEv3(2-880
+ReEv3(2-880,Disposal Center Protocols,before they launch.,,[He floods the bottom of the pool with acid. Nemesis finally dead?],,Y,ReEv3(2-879,ReEv3(2-881
+ReEv3(2-881,Disposal Center Protocols,before they launch.,Carlos,"OK, I'll meet you up ahead!",,N,ReEv3(2-880,ReEv3(2-882
+ReEv3(2-882,Disposal Center Protocols,before they launch.,Jill,Nicholai. Where did you go...? I have to get that vaccine back.,,N,ReEv3(2-881,ReEv3(2-883
+ReEv3(2-883,Disposal Center Protocols,before they launch.,,[She finds a sly-ass Russian and points a gun at him. The Russian does the same thing.],,Y,ReEv3(2-882,ReEv3(2-884
+ReEv3(2-884,Disposal Center Protocols,before they launch.,Jill,"It's done. Give me the vaccine, you greedy son of a bitch.",,N,ReEv3(2-883,ReEv3(2-885
+ReEv3(2-885,Disposal Center Protocols,before they launch.,Nicholai,Oh no no no no. You print money. I like money. We shall make ours an ongoing arrangement Now drop the gun!,,N,ReEv3(2-884,ReEv3(2-886
+ReEv3(2-886,Disposal Center Protocols,before they launch.,,"[The lab is shaking and part of the wall is falling apart. A giant poop comes out of the crack, which opens like a flower.]",,Y,ReEv3(2-885,ReEv3(2-887
+ReEv3(2-887,Disposal Center Protocols,before they launch.,Nicholai,"Have you—Have you ever seen anything so incredible? The data on this would be worth millions! But, uh, you know how it is—city's about to explode... And you can't put a price on life. Good luck!",,N,ReEv3(2-886,ReEv3(2-888
+ReEv3(2-888,Disposal Center Protocols,before they launch.,Jill,Nicholai!,,N,ReEv3(2-887,ReEv3(2-889
+ReEv3(2-889,Disposal Center Protocols,before they launch.,Carlos,Jill!,,N,ReEv3(2-888,ReEv3(2-890
+ReEv3(2-890,Disposal Center Protocols,before they launch.,Jill,Go after Nicholai! He's got the vaccine!,,N,ReEv3(2-889,ReEv3(2-891
+ReEv3(2-891,Disposal Center Protocols,before they launch.,Carlos,What about you?,,N,ReEv3(2-890,ReEv3(2-892
+ReEv3(2-892,Disposal Center Protocols,before they launch.,Jill,We're running out of time! I've got this.,,N,ReEv3(2-891,ReEv3(2-893
+ReEv3(2-893,Disposal Center Protocols,before they launch.,Carlos,I know you do.,,N,ReEv3(2-892,ReEv3(2-894
+ReEv3(2-894,Disposal Center Protocols,before they launch.,Jill," Look, Just so you know? This is the last fucking time.",(to Nemesis) ,N,ReEv3(2-893,ReEv3(2-895
+ReEv3(2-895,Disposal Center Protocols,before they launch.,,"[She goes into battle with Nemesis, which has become something like a giant octopus.]",,Y,ReEv3(2-894,ReEv3(2-896
+ReEv3(2-896,Disposal Center Protocols,before they launch.,Computer,Opening compartment.,,N,ReEv3(2-895,ReEv3(2-897
+ReEv3(2-897,Disposal Center Protocols,before they launch.,Jill,Now we're talking!,,N,ReEv3(2-896,ReEv3(2-898
+ReEv3(2-898,Disposal Center Protocols,before they launch.,,"[Jill pulls out a giant fucking railgun. She shoots at Nemesis, turning part of his body into a bloody mess.]",,Y,ReEv3(2-897,ReEv3(2-899
+ReEv3(2-899,Disposal Center Protocols,before they launch.,Computer,Cooldown in progress. Please reactivate power sources.,,N,ReEv3(2-898,ReEv3(2-900
+ReEv3(2-900,Disposal Center Protocols,before they launch.,Jill,"Damn, it needs power! Felt that, did you? How about some more! Go ahead! I'm gonna put you right back on your ass! You think I don't know how to fuck you up!?",,N,ReEv3(2-899,ReEv3(2-901
+ReEv3(2-901,Disposal Center Protocols,before they launch.,Computer,All power sources activated. Powering up.,,N,ReEv3(2-900,ReEv3(2-902
+ReEv3(2-902,Disposal Center Protocols,before they launch.,Jill,I am sick of your SHIT!,,N,ReEv3(2-901,ReEv3(2-903
+ReEv3(2-903,Disposal Center Protocols,before they launch.,,"[She shoots Nemesis again, and then she comes up and puts the barrel in his mouth.]",,Y,ReEv3(2-902,ReEv3(2-904
+ReEv3(2-904,Disposal Center Protocols,before they launch.,Jill,Come on! Next time… take the fucking hint.,,N,ReEv3(2-903,ReEv3(2-905
+ReEv3(2-905,Disposal Center Protocols,before they launch.,,"[She pulls the trigger and the huge monster turns into a puddle of blood, and a hole in the wall appears for several rooms.]",,Y,ReEv3(2-904,ReEv3(2-906
+ReEv3(2-906,Disposal Center Protocols,before they launch.,Jill,Good riddance.,,N,ReEv3(2-905,ReEv3(2-907
+ReEv3(2-907,Disposal Center Protocols,before they launch.,,[She's running after Nicholai.],,Y,ReEv3(2-906,ReEv3(2-908
+ReEv3(2-908,Disposal Center Protocols,before they launch.,Jill,Can't let Nicholai get away with that vaccine! I hope Carlos managed to stop him. I can still catch him.,,N,ReEv3(2-907,ReEv3(2-909
+ReEv3(2-909,Disposal Center Protocols,before they launch.,,[She takes the elevator to the surface.],,Y,ReEv3(2-908,ReEv3(2-910
+ReEv3(2-910,Disposal Center Protocols,before they launch.,Jill,Oh no…,,N,ReEv3(2-909,ReEv3(2-911
+ReEv3(2-911,Disposal Center Protocols,before they launch.,,"[She finds Carlos' body on the heliport. Nicholas comes up to her from behind, throws her on the asphalt and knocks the gun out of her hand.]",,Y,ReEv3(2-910,ReEv3(2-912
+ReEv3(2-912,Disposal Center Protocols,before they launch.,Nicholai,"You're not going to stop me. Promised you this, didn't I?",,N,ReEv3(2-911,ReEv3(2-913
+ReEv3(2-913,Disposal Center Protocols,before they launch.,,[He throws a vaccine tube onto the asphalt and destroys it with a gunshot. Jill screams.],,Y,ReEv3(2-912,ReEv3(2-914
+ReEv3(2-914,Disposal Center Protocols,before they launch.,Jill,No! Do you have any idea what you've just done?,,N,ReEv3(2-913,ReEv3(2-915
+ReEv3(2-915,Disposal Center Protocols,before they launch.,Nicholai,Don't know. Don't care. My client ordered me to reduce Umbrella to rubble.,,N,ReEv3(2-914,ReEv3(2-916
+ReEv3(2-916,Disposal Center Protocols,before they launch.,Computer,Ten minutes until missile impact.,,N,ReEv3(2-915,ReEv3(2-917
+ReEv3(2-917,Disposal Center Protocols,before they launch.,Nicholai,"Ah. The missile has launched. And that is my cue to leave. Good-bye, Miss Valentine. A shame you didn't listen to me when you had the chance.",,N,ReEv3(2-916,ReEv3(2-918
+ReEv3(2-918,Disposal Center Protocols,before they launch.,,"[Suddenly Carlos runs up to him and they start fighting, showing their military training. Carlos manages to catch Nicholai in a hold.]",,Y,ReEv3(2-917,ReEv3(2-919
+ReEv3(2-919,Disposal Center Protocols,before they launch.,Carlos,Jill! Shoot him!,,N,ReEv3(2-918,ReEv3(2-920
+ReEv3(2-920,Disposal Center Protocols,before they launch.,Jill,I can't! I'll hit you!,,N,ReEv3(2-919,ReEv3(2-921
+ReEv3(2-921,Disposal Center Protocols,before they launch.,Carlos,Do it! You have to! There's no other way!,,N,ReEv3(2-920,ReEv3(2-922
+ReEv3(2-922,Disposal Center Protocols,before they launch.,,[She shoots Nicholai and runs up to Carlos.],,Y,ReEv3(2-921,ReEv3(2-923
+ReEv3(2-923,Disposal Center Protocols,before they launch.,Jill,Carlos!,,N,ReEv3(2-922,ReEv3(2-924
+ReEv3(2-924,Disposal Center Protocols,before they launch.,Carlos,Hey. I told you I couldn't leave you in a Carlos-less world. That would just be too cruel. What about him?,,N,ReEv3(2-923,ReEv3(2-925
+ReEv3(2-925,Disposal Center Protocols,before they launch.,,[Nicholai is trying to crawl away with a shot in the stomach.],,Y,ReEv3(2-924,ReEv3(2-926
+ReEv3(2-926,Disposal Center Protocols,before they launch.,Jill,Why'd you do it?,,N,ReEv3(2-925,ReEv3(2-927
+ReEv3(2-927,Disposal Center Protocols,before they launch.,Nicholai,There's a price tag for everything. Even letting the world burn.,,N,ReEv3(2-926,ReEv3(2-928
+ReEv3(2-928,Disposal Center Protocols,before they launch.,Jill,Who are you working for?,,N,ReEv3(2-927,ReEv3(2-929
+ReEv3(2-929,Disposal Center Protocols,before they launch.,Nicholai,I'll tell you if you get me out of here. I'll pay you whatever you want.,,N,ReEv3(2-928,ReEv3(2-930
+ReEv3(2-930,Disposal Center Protocols,before they launch.,,[Jill smiles and wak away.],,Y,ReEv3(2-929,ReEv3(2-931
+ReEv3(2-931,Disposal Center Protocols,before they launch.,Nicholai,"You're a fool. You're a fool! If I die, you'll never find out the truth.",,N,ReEv3(2-930,ReEv3(2-932
+ReEv3(2-932,Disposal Center Protocols,before they launch.,Jill,I don't mind a little detective work.,,N,ReEv3(2-931,ReEv3(2-933
+ReEv3(2-933,Disposal Center Protocols,before they launch.,,[She and Carlos are leaving in a helicopter.],,Y,ReEv3(2-932,ReEv3(2-934
+ReEv3(2-934,Disposal Center Protocols,before they launch.,Carlos,Jill. You alright?,,N,ReEv3(2-933,ReEv3(2-935
+ReEv3(2-935,Disposal Center Protocols,before they launch.,Jill,There it is.,,N,ReEv3(2-934,ReEv3(2-936
+ReEv3(2-936,Disposal Center Protocols,before they launch.,,[Outside the window of the helicopter flies a rocket. Light flashes over Raccoon City and a nuclear fungus grows. The blast wave is shaking the helicopter a little.],,Y,ReEv3(2-935,ReEv3(2-937
+ReEv3(2-937,Disposal Center Protocols,before they launch.,Carlos,It's finally over.,,N,ReEv3(2-936,ReEv3(2-938
+ReEv3(2-938,Disposal Center Protocols,before they launch.,Jill,"So long, RC.",,N,ReEv3(2-937,ReEv3(2-939
+ReEv3(2-939,Disposal Center Protocols,before they launch.,Jill’s Thoughts,I felt empty and cold as the heat from the blast washed over us. All this death wasn't caused by a monster-making virus. It was greed. Human greed. I decided then and there: the ashes of Raccoon City would be Umbrella's ashes too. I would end them once and for all.,,N,ReEv3(2-938,ReEv3(2-940

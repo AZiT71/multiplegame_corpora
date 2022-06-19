@@ -1,0 +1,141 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+NiGa-1,﻿OPENING,,,"[We see a duel between two ninjas in red and white clothes. They jump on each other and deal a crushing blows. After landing, the ninja in red clothes falls to the ground.]",,Y,,NiGa-2
+NiGa-2,﻿OPENING,,Ryu,With whom did Father have a dual and loose?.. For what reason did he fight and die?,,N,NiGa-1,NiGa-3
+NiGa-8,"""Ryu, be always brave...""",,Ryu,""" I will get my revenge!""",,N,NiGa-7,NiGa-9
+NiGa-9,ACT I,,,[GAMEPLAY],,Y,NiGa-8,NiGa-10
+NiGa-10,ACT I,,Ryu,"""Who are they... It seems to be following me...""",,N,NiGa-9,NiGa-11
+NiGa-12,"""Just a girl. Get out of here!""",,,[We see a gun in girl's hands.],,Y,NiGa-11,NiGa-13
+NiGa-13,"""Just a girl. Get out of here!""",,Girl,"""I will, but first...""",,N,NiGa-12,NiGa-14
+NiGa-14,"""Just a girl. Get out of here!""",,,[The girl shoots at Ryu.],,Y,NiGa-13,NiGa-15
+NiGa-15,ACT II,,,[Ryu appears to be imprisoned in a cell.],,Y,NiGa-14,NiGa-16
+NiGa-16,ACT II,,Ryu,"""Ow... Where... Where I am I?""",,N,NiGa-15,NiGa-17
+NiGa-17,ACT II,,???,"""I see the anesthetic is wearing off.""",,N,NiGa-16,NiGa-18
+NiGa-18,ACT II,,Ryu,"""Who are you?!""",,N,NiGa-17,NiGa-19
+NiGa-19,ACT II,,Girl,"""Shhhh. Don't make so much noise... I've got a favor to ask of you.""",,N,NiGa-18,NiGa-20
+NiGa-20,ACT II,,Girl,"""Here. Thick face and escape.""",,N,NiGa-19,NiGa-21
+NiGa-21,ACT II,,Ryu,"""What is this... this statue?""",,N,NiGa-20,NiGa-22
+NiGa-22,ACT II,,Girl,"""There is no time to explain. Hurry.""",,N,NiGa-21,NiGa-23
+NiGa-23,ACT II,,Ryu,"""Hey, wait. Who are you?""",,N,NiGa-22,NiGa-24
+NiGa-24,ACT II,,Ryu,"""Didn't you try to kill me?""",,N,NiGa-23,NiGa-25
+NiGa-25,ACT II,,Girl,"""Someone's coming. Be careful.""",,N,NiGa-24,NiGa-26
+NiGa-26,ACT II,,,[GAMEPLAY],,Y,NiGa-25,NiGa-27
+NiGa-27,ACT II,,Ryu,"""What is this bizarre statue anyway? And who was that woman?""",,N,NiGa-26,NiGa-28
+NiGa-28,ACT II,,Ryu,"As I grew more and more suspicious, I went off to look for that supposed acquaintance for my father's, Mr. Smith.",,N,NiGa-27,NiGa-29
+NiGa-29,ACT III,,Ryu,"""You must be Walter Smith. The name's Ryu, Ryu Hayabusa.""",,N,NiGa-28,NiGa-30
+NiGa-30,ACT III,,Walter Smith,"""Who? That sword... Of course. You must be Ken Hayabusa's son.""",,N,NiGa-29,NiGa-31
+NiGa-31,ACT III,,Ryu,"""In his last letter, my father told me I should see you.""",,N,NiGa-30,NiGa-32
+NiGa-32,ACT III,,Walter Smith,"""Last letter? I see... It is already begun.""",,N,NiGa-31,NiGa-33
+NiGa-33,ACT III,,Ryu,"""...""",,N,NiGa-32,NiGa-34
+NiGa-34,ACT III,,Walter Smith,"""Ken and I were on an expedition to some old Amazon ruins.",,N,NiGa-33,NiGa-35
+NiGa-44,ACT III,"""SHINOBI borrowed the strength of the dragon",,"[Suddenly a ninja in green clothes appears and stole the ""SHADOW"" statue.]",,Y,NiGa-43,NiGa-45
+NiGa-45,ACT III,"""SHINOBI borrowed the strength of the dragon",Ninja in Green Clothes,"""And now I've got it. Bye, friend!""",,N,NiGa-44,NiGa-46
+NiGa-46,ACT III,"""SHINOBI borrowed the strength of the dragon",Ryu,"""What the...?""",,N,NiGa-45,NiGa-47
+NiGa-47,ACT III,"""SHINOBI borrowed the strength of the dragon",Walter Smith,"""After him, Ryu!""",,N,NiGa-46,NiGa-48
+NiGa-48,ACT III,"""SHINOBI borrowed the strength of the dragon",,[GAMEPLAY],,Y,NiGa-47,NiGa-49
+NiGa-49,ACT III,"""SHINOBI borrowed the strength of the dragon",Ryu,"After getting back the demon statue, I felt a strange premonition and hurried back.",,N,NiGa-48,NiGa-50
+NiGa-50,ACT III,"""SHINOBI borrowed the strength of the dragon",,"[Returning to Dr. Smith's house, Ryu finds him lying on the floor.]",,Y,NiGa-49,NiGa-51
+NiGa-51,ACT III,"""SHINOBI borrowed the strength of the dragon",Ryu,"""Dr. Smith!!""",,N,NiGa-50,NiGa-52
+NiGa-52,ACT III,"""SHINOBI borrowed the strength of the dragon",,[Dr. Smith is dying.],,Y,NiGa-51,NiGa-53
+NiGa-53,ACT III,"""SHINOBI borrowed the strength of the dragon",Walter Smith,"""Ryu... the ""LIGHT"" demon statue... was taken...""",,N,NiGa-52,NiGa-54
+NiGa-54,ACT III,"""SHINOBI borrowed the strength of the dragon",Ryu,"""The ""LIGHT"" statue?""",,N,NiGa-53,NiGa-55
+NiGa-55,ACT III,"""SHINOBI borrowed the strength of the dragon",Walter Smith,"""Yes, your father and I... we each kept one of the statues... Just in case.",,N,NiGa-54,NiGa-56
+NiGa-59,ACT III,"""...whatever we do... we've got to stop it.",Ryu,"""Dr. Smith! Dr. Smith!""",,N,NiGa-58,NiGa-60
+NiGa-60,ACT III,"""...whatever we do... we've got to stop it.",Ryu,"""...""",,N,NiGa-59,NiGa-61
+NiGa-61,ACT III,"""...whatever we do... we've got to stop it.",,[Several armed men in black suits appear behind Ryu.],,Y,NiGa-60,NiGa-62
+NiGa-62,ACT III,"""...whatever we do... we've got to stop it.",Man,Come with us.,,N,NiGa-61,NiGa-63
+NiGa-63,ACT IV,"""...whatever we do... we've got to stop it.",Man,"""Welcome, Ryu Hayabusa. Sorry if I startled you.",,N,NiGa-62,NiGa-64
+NiGa-65,ACT IV,"""...whatever we do... we've got to stop it.",Ryu,"""...""",,N,NiGa-64,NiGa-66
+NiGa-66,ACT IV,"""...whatever we do... we've got to stop it.",Foster,"""Getting right to the point...""",,N,NiGa-65,NiGa-67
+NiGa-67,ACT IV,"""...whatever we do... we've got to stop it.",Ryu,"""Wait. I want to know why you killed Smith?""",,N,NiGa-66,NiGa-68
+NiGa-68,ACT IV,"""...whatever we do... we've got to stop it.",Foster,"""We didn't kill him. But we'll fill you in on what we know.""",,N,NiGa-67,NiGa-69
+NiGa-77,ACT IV,"""According to our records, it seems that",Ryu,"""...""",,N,NiGa-76,NiGa-78
+NiGa-78,ACT IV,"""According to our records, it seems that",Foster,"""When a black moon shines, Light and Dark break apart, the King of Darkness howls""",,N,NiGa-77,NiGa-79
+NiGa-81,ACT IV,"""enough to control of the entire world.""",Ryu,"""So you know about that?""",,N,NiGa-80,NiGa-82
+NiGa-82,ACT IV,"""enough to control of the entire world.""",Foster,"""The woman who shot you in the bar was one of our agents.""",,N,NiGa-81,NiGa-83
+NiGa-84,ACT IV,"""Of course, you will be paid for the work.""",Ryu,"""If I say no?""",,N,NiGa-83,NiGa-85
+NiGa-85,ACT IV,"""Of course, you will be paid for the work.""",Foster,"""You know the answer for that.""",,N,NiGa-84,NiGa-86
+NiGa-86,ACT IV,"""Of course, you will be paid for the work.""",,[In the next scene Ryu already flies by plane to the jungle. When he reaches the place he jumps with the parachute.],,Y,NiGa-85,NiGa-87
+NiGa-87,ACT IV,"""Of course, you will be paid for the work.""",,[GAMEPLAY],,Y,NiGa-86,NiGa-88
+NiGa-88,ACT IV,"""Of course, you will be paid for the work.""",,"[Standing on top of the rock, Ryu looks with his steel gaze at the temple of his enemy.]",,Y,NiGa-87,NiGa-89
+NiGa-89,ACT IV,"""Of course, you will be paid for the work.""",,[GAMEPLAY],,Y,NiGa-88,NiGa-90
+NiGa-90,ACT IV,"""Of course, you will be paid for the work.""",Jaquio,"""You have come a long way to bring me the demon statue. Now give it to me.""",,N,NiGa-89,NiGa-91
+NiGa-91,ACT IV,"""Of course, you will be paid for the work.""",Ryu,"""No!""",,N,NiGa-90,NiGa-92
+NiGa-92,ACT IV,"""Of course, you will be paid for the work.""",Ryu,"""Do you know what you're saying.""",,N,NiGa-91,NiGa-93
+NiGa-93,ACT IV,"""Of course, you will be paid for the work.""",Jaquio,"""What?!""",,N,NiGa-92,NiGa-94
+NiGa-94,ACT IV,"""Of course, you will be paid for the work.""",Girl,"""Ryu!""",,N,NiGa-93,NiGa-95
+NiGa-95,ACT IV,"""Of course, you will be paid for the work.""",Ryu,"""You... you coward.""",,N,NiGa-94,NiGa-96
+NiGa-96,ACT IV,"""Of course, you will be paid for the work.""",Girl,"“No, don't give it to him.”",,N,NiGa-95,NiGa-97
+NiGa-97,ACT IV,"""Of course, you will be paid for the work.""",Jaquio,"“Now, put down the demon statue on the floor and back up.",,N,NiGa-96,NiGa-98
+NiGa-99,ACT IV,“Have a nice day.,,[The floor opens and Ryu falls into the caves.],,Y,NiGa-98,NiGa-100
+NiGa-100,ACT IV,“Have a nice day.,Girl,“Ah…”,,N,NiGa-99,NiGa-101
+NiGa-101,ACT IV,“Have a nice day.,Jaquio,"""Take the girl away. She is going to be a sacrifice.",,N,NiGa-100,NiGa-102
+NiGa-103,ACT V,"“Ha, ha, ha, ha…”",,[GAMEPLAY],,Y,NiGa-102,NiGa-104
+NiGa-104,ACT V,"“Ha, ha, ha, ha…”",???,“I am Maith. You will never get pass me.”,,N,NiGa-103,NiGa-105
+NiGa-105,ACT V,"“Ha, ha, ha, ha…”",Ryu,“Then I must defeat you!”,,N,NiGa-104,NiGa-106
+NiGa-106,ACT V,"“Ha, ha, ha, ha…”",Maith,“You are as bold as your father. But he is a much better swordsman.”,,N,NiGa-105,NiGa-107
+NiGa-107,ACT V,"“Ha, ha, ha, ha…”",Ryu,“You know my father?”,,N,NiGa-106,NiGa-108
+NiGa-108,ACT V,"“Ha, ha, ha, ha…”",Maith,"“Come and fight, young Hayabusa!”",,N,NiGa-107,NiGa-109
+NiGa-109,ACT V,"“Ha, ha, ha, ha…”",,[GAMEPLAY],,Y,NiGa-108,NiGa-110
+NiGa-110,ACT V,"“Ha, ha, ha, ha…”",Ryu,“You killed my father.”,,N,NiGa-109,NiGa-111
+NiGa-111,ACT V,"“Ha, ha, ha, ha…”",Maith,"""Killed? It is true that we fought. But your father is alive.""",,N,NiGa-110,NiGa-112
+NiGa-112,ACT V,"“Ha, ha, ha, ha…”",Ryu,"""Lair!""",,N,NiGa-111,NiGa-113
+NiGa-113,ACT V,"“Ha, ha, ha, ha…”",Maith,"""No, it is not a lie. If you proceed further, you will see him.""",,N,NiGa-112,NiGa-114
+NiGa-114,ACT V,"""But it will be the last thing you see.""",Ryu,"""...""",,N,NiGa-113,NiGa-115
+NiGa-115,ACT VI,"""But it will be the last thing you see.""",,[GAMEPLAY],,Y,NiGa-114,NiGa-116
+NiGa-116,ACT VI,"""But it will be the last thing you see.""",???,"""Ryu, you deserve praise for making it this far.""",,N,NiGa-115,NiGa-117
+NiGa-117,ACT VI,"""But it will be the last thing you see.""",Ryu,"""Where are you, show yourself!""",,N,NiGa-116,NiGa-118
+NiGa-119,ACT VI,"""But it will be the last thing you see.""",Ryu,"""No one can beat me.""",,N,NiGa-118,NiGa-120
+NiGa-120,ACT VI,"""But it will be the last thing you see.""",???,"""Even... your father?""",,N,NiGa-119,NiGa-121
+NiGa-121,ACT VI,"""But it will be the last thing you see.""",Ryu,"""What?!""",,N,NiGa-120,NiGa-122
+NiGa-122,ACT VI,"""But it will be the last thing you see.""",???,"""Your father was not killed, he has been turned into ""the masked devil.""",,N,NiGa-121,NiGa-123
+NiGa-123,ACT VI,"""But it will be the last thing you see.""",Ryu,"""No!""",,N,NiGa-122,NiGa-124
+NiGa-124,ACT VI,"""But it will be the last thing you see.""",???,"""It will be entertaining to watch father and son fight to the death.""",,N,NiGa-123,NiGa-125
+NiGa-125,ACT VI,"""But it will be the last thing you see.""",Ryu,"""Wake up, Father!""",,N,NiGa-124,NiGa-126
+NiGa-126,ACT VI,"""But it will be the last thing you see.""",???,"""No use. He thinks only of killing you.”",,N,NiGa-125,NiGa-127
+NiGa-127,ACT VI,"""But it will be the last thing you see.""",Ryu,“So this is my destiny. Maith was telling the truth. What shall I do?,,N,NiGa-126,NiGa-128
+NiGa-130,ACT VI,"""But it will be the last thing you see.""",,[GAMEPLAY],,Y,NiGa-129,NiGa-131
+NiGa-131,ACT VI,"""But it will be the last thing you see.""",Ryu,“Father!”,,N,NiGa-130,NiGa-132
+NiGa-132,ACT VI,"""But it will be the last thing you see.""",Ken,“...Where am I…? Ryu… Are you Ryu?”,,N,NiGa-131,NiGa-133
+NiGa-133,ACT VI,"""But it will be the last thing you see.""",Ryu,"“Yes, Father.”",,N,NiGa-132,NiGa-134
+NiGa-134,ACT VI,"""But it will be the last thing you see.""",???,“Argh! He’s awake.”,,N,NiGa-133,NiGa-135
+NiGa-135,ACT VI,"""But it will be the last thing you see.""",Ryu,“The Jaquio!”,,N,NiGa-134,NiGa-136
+NiGa-136,ACT VI,"""But it will be the last thing you see.""",Jaquio,“You both will die!”,,N,NiGa-135,NiGa-137
+NiGa-137,ACT VI,"""But it will be the last thing you see.""",,"[Jaquio shoots an energy ball at Ryu,]",,Y,NiGa-136,NiGa-138
+NiGa-138,ACT VI,"""But it will be the last thing you see.""",Ken,“Watch out!”,,N,NiGa-137,NiGa-139
+NiGa-139,ACT VI,"""But it will be the last thing you see.""",,[Ken shields Ryu and takes the hit.],,Y,NiGa-138,NiGa-140
+NiGa-140,ACT VI,"""But it will be the last thing you see.""",Ken,“Ugh…!”,,N,NiGa-139,NiGa-141
+NiGa-141,ACT VI,"""But it will be the last thing you see.""",Ryu,“Father...”,,N,NiGa-140,NiGa-142
+NiGa-142,ACT VI,"""But it will be the last thing you see.""",Ken,“Ryu… you’ve got to… get them for me.”,,N,NiGa-141,NiGa-143
+NiGa-143,ACT VI,"""But it will be the last thing you see.""",Ryu,“Father!”,,N,NiGa-142,NiGa-144
+NiGa-144,ACT VI,"""But it will be the last thing you see.""",Ryu,"“Your day has come, Jaquio!”",,N,NiGa-143,NiGa-145
+NiGa-145,ACT VI,"""But it will be the last thing you see.""",,[GAMEPLAY],,Y,NiGa-144,NiGa-146
+NiGa-146,ACT VI,"""But it will be the last thing you see.""",Girl,“Ryu! Thank God your safe!”,,N,NiGa-145,NiGa-147
+NiGa-147,ACT VI,"""But it will be the last thing you see.""",Ryu,"“Let’s go, father. Let’s get out of this temple.”",,N,NiGa-146,NiGa-148
+NiGa-148,ACT VI,"""But it will be the last thing you see.""",Ken,"“Ryu, wait. Before we do, the demon statues… we’ve got to throw them from the temple",,N,NiGa-147,NiGa-149
+NiGa-150,ACT VI,"""But it will be the last thing you see.""",Girl,"“Ryu, what’s that?”",,N,NiGa-149,NiGa-151
+NiGa-151,ACT VI,"""But it will be the last thing you see.""",Ryu,“Is it a lunar eclipse?! That must be it. That’s what the “black moon” meant…,,N,NiGa-150,NiGa-152
+NiGa-152,ACT VI,"“Oh, no! The demon statues…”",,[The demon statues transforms into giant monster.],,Y,NiGa-151,NiGa-153
+NiGa-153,ACT VI,"“Oh, no! The demon statues…”",,[GAMEPLAY],,Y,NiGa-152,NiGa-154
+NiGa-154,ACT VI,"“Oh, no! The demon statues…”",Ryu,"“Wake up father, wake up.”",,N,NiGa-153,NiGa-155
+NiGa-155,ACT VI,"“Oh, no! The demon statues…”",Ken,“Ryu… I haven't got much longer… This temple is about to break apart.,,N,NiGa-154,NiGa-156
+NiGa-157,ACT VI,"“Oh, no! The demon statues…”",Ryu,"“What are you saying, father. I can’t just leave you!”",,N,NiGa-156,NiGa-158
+NiGa-158,ACT VI,"“Oh, no! The demon statues…”",Ken,"“Ryu, you are a man now. My destiny is tied to the demon statue.",,N,NiGa-157,NiGa-159
+NiGa-160,ACT VI,"“Oh, no! The demon statues…”",Ryu,"“Father, father...!”",,N,NiGa-159,NiGa-161
+NiGa-162,ACT VI,"“Oh, no! The demon statues…”",,[Ryu's father is dead. The temple is falling apart.],,Y,NiGa-161,NiGa-163
+NiGa-163,ACT VI,"“Oh, no! The demon statues…”",Girl,“Ryu...”,,N,NiGa-162,NiGa-164
+NiGa-164,ACT VI,"“Oh, no! The demon statues…”",,[Someone is calling the girl on the radio.],,Y,NiGa-163,NiGa-165
+NiGa-165,ACT VI,"“Oh, no! The demon statues…”",Girl,“This is Sea Swallow...”,,N,NiGa-164,NiGa-166
+NiGa-166,ACT VI,"“Oh, no! The demon statues…”",Foster,“This is Foster. We detected the explosion from the satellite. Job well done. You are to kill Ryu Hayabusa.”,,N,NiGa-165,NiGa-167
+NiGa-167,ACT VI,"“Oh, no! The demon statues…”",Girl,“What? Kill Ryu?”,,N,NiGa-166,NiGa-168
+NiGa-168,ACT VI,"“Oh, no! The demon statues…”",Foster,“That’s right. Then you are to steal the demon statues.“,,N,NiGa-167,NiGa-169
+NiGa-169,ACT VI,"“Oh, no! The demon statues…”",Ryu,"“So this was your plan all along… I’ll get you for this, Foster!”",,N,NiGa-168,NiGa-170
+NiGa-170,ACT VI,"“Oh, no! The demon statues…”",Foster,"“Ryu, you...”",,N,NiGa-169,NiGa-171
+NiGa-171,ACT VI,"“Oh, no! The demon statues…”",Ryu,“I get two kinds of payment. The first I have already received.,,N,NiGa-170,NiGa-172
+NiGa-172,ACT VI,"“The second… is you, Foster!”",Foster,“Ryu… wait...”,,N,NiGa-171,NiGa-173
+NiGa-173,ACT VI,"“The second… is you, Foster!”",Girl,"“Ryu, what is the payment you have already received?”",,N,NiGa-172,NiGa-174
+NiGa-174,ACT VI,"“The second… is you, Foster!”",Ryu,“She’s right in front of me.”,,N,NiGa-173,NiGa-175
+NiGa-175,ACT VI,"“The second… is you, Foster!”",,[They kiss.],,Y,NiGa-174,NiGa-176
+NiGa-176,ACT VI,"“The second… is you, Foster!”",Ryu,“I don’t even know your name.”,,N,NiGa-175,NiGa-177
+NiGa-177,ACT VI,"“The second… is you, Foster!”",Girl,“Irene. Irene Lew.”,,N,NiGa-176,NiGa-178
+NiGa-178,ACT VI,"“The second… is you, Foster!”",Ryu,"“Well, Irene. Look, the sun is rising. Everything is so bright now,",,N,NiGa-177,NiGa-179
+NiGa-180,ACT VI,"“The second… is you, Foster!”",,[They hug against the backdrop of the rising sun.],,Y,NiGa-179,NiGa-181

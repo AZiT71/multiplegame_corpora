@@ -1,0 +1,820 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+Bidlcl1,Mid-Atlantic,,,"[We see a man sitting in a passenger airplane. He smokes and looks at the photo. A gift appears in his hands, on the tag of which it is written “To Jack with love, from Mom & Dad. Would you kindly not open <hidden by a bow> until <hidden by a bow>”]",,Y,,Bidlcl2
+Bidlcl2,Mid-Atlantic,,Jack,"They told me... Son, you’re special. You’re born to do great things. You know that? They were right.",,N,Bidlcl1,Bidlcl3
+Bidlcl3,Mid-Atlantic,,,[We hear people screaming and the sound of a crashing airplane. The name of the game appears.],,Y,Bidlcl2,Bidlcl4
+Bidlcl4,BIOSHOCK,,,[Jack emerges from the water and swims to a nearby lighthouse.],,Y,Bidlcl3,Bidlcl5
+Bidlcl5,BIOSHOCK,,,"[On the lighthouse we hear melodic music of the sixties. Jack get down the stairs, hung with stylized propaganda posters, enters the bathysphere and descends into the underwater depths.]",,Y,Bidlcl4,Bidlcl6
+Bidlcl6,BIOSHOCK,,,"[As an advertisement screen appears, Jack sees several static images and hears a voiceover.]",,Y,Bidlcl5,Bidlcl7
+Bidlcl7,BIOSHOCK,,Andrew Ryan,"I am Andrew Ryan and I’m here to ask you a question: is a man not entitled to the sweat of his brow? No, says the man in Washington. It belongs to the poor. No, says the man in the Vatican. It belongs to God. No, says the man in Moscow. It belongs to everyone. I rejected those answers. Instead, I choose something different. I choose the impossible. I choose... Rapture.",,N,Bidlcl6,Bidlcl8
+Bidlcl8,BIOSHOCK,,,[The screen is lowered and Jack sees a panorama of the underwater city.],,Y,Bidlcl7,Bidlcl9
+Bidlcl9,BIOSHOCK,,Andrew Ryan,"A city where the artist would not fear the censor. Where the scientist would not be bound by petty morality. There the great would not be constrained by the small. And with the sweat of your brow, Rapture can become your city as well.",,N,Bidlcl8,Bidlcl10
+Bidlcl10,BIOSHOCK,,,[Ryan stops talking and Jack hears two people talking on the radio.],,Y,Bidlcl9,Bidlcl11
+Bidlcl11,BIOSHOCK,,Atlas,...but the lighthouse is all lit up like hellfire… looks like some kind of plane crash...,,N,Bidlcl10,Bidlcl12
+Bidlcl12,BIOSHOCK,,Johnny,...we’re in the middle of the Atlantic Ocean... How could it—,,N,Bidlcl11,Bidlcl13
+Bidlcl13,BIOSHOCK,,Atlas,"Dunno, you best get over there, and be quick about it… The splicers are coming...",,N,Bidlcl12,Bidlcl14
+Bidlcl14,BIOSHOCK,,,"[Jack get to the some kind of submarine port, where on each section are highlighted the words: ""All good things"", ""of this Earth"", ""flow"", ""into the city"" and then appears the city logo - ""Rapture"" with the slogan: ""Ad Idem""-""Meeting of the minds""]",,Y,Bidlcl13,Bidlcl15
+Bidlcl15,BIOSHOCK,,Johnny,You’ve gotta be kidding- How do you know someone’s even coming?,,N,Bidlcl14,Bidlcl16
+Bidlcl16,BIOSHOCK,,Atlas,Cause we got a bathysphere on its way down... That means we’ve got company.,,N,Bidlcl15,Bidlcl17
+Bidlcl17,BIOSHOCK,,Johnny,"O-okay, just one more minute… The ‘sphere— the ‘sphere is coming up now...",,N,Bidlcl16,Bidlcl18
+Bidlcl18,BIOSHOCK,,Atlas,"Johnny, security’s banging off all over... get a move on!",,N,Bidlcl17,Bidlcl19
+Bidlcl19,BIOSHOCK,,,"[Bathysphere rises and Jack sees Johnny, who is attacked by something with hooks instead of hands.]",,Y,Bidlcl18,Bidlcl20
+Bidlcl20,BIOSHOCK,,Johnny,"Please, lady... I didn’t mean no trespass. Just don’t hurt me... Just let me go… you can keep my gun. You can—  ",(scream) (death gurgle) ,N,Bidlcl19,Bidlcl21
+Bidlcl21,BIOSHOCK,,Splicer-Female, Is it someone new?,(Breathing heavy) ,N,Bidlcl20,Bidlcl22
+Bidlcl22,BIOSHOCK,,,"[The female splicer jumps on the bathysphere, breaking it, trying to get to Jack.]",,Y,Bidlcl21,Bidlcl23
+Bidlcl23,BIOSHOCK,,Splicer-Female,  ,(shriek of rage) (sounds of exertion) (shout of frustration) ,N,Bidlcl22,Bidlcl24
+Bidlcl24,BIOSHOCK,,,[After the splicer-woman leaves Jack hears the voice of Atlas.],,Y,Bidlcl23,Bidlcl25
+Bidlcl25,BIOSHOCK,,Atlas,"Would you kindly pick up that shortwave radio? I don’t know how you survived that plane crash, but I’ve never been one to question Providence. I’m Atlas, and I aim to keep you alive. Now keep on moving… we’re gonna have to get you to higher ground. Take a deep breath and step out of the bathysphere. I won’t leave you twisting in the wind. We’re gonna need to draw her out of hiding. But you’re gonna have to trust me.",,N,Bidlcl24,Bidlcl26
+Bidlcl26,BIOSHOCK,,,[Atlas sets a flying security robot on a female splicer.],,Y,Bidlcl25,Bidlcl27
+Bidlcl27,BIOSHOCK,,Atlas,"Just a bit further... how do you like that, sister?",,N,Bidlcl26,Bidlcl28
+Bidlcl28,BIOSHOCK,,,[Jack move forward and finds a small tunnel.],,Y,Bidlcl27,Bidlcl29
+Bidlcl29,BIOSHOCK,,Atlas,Now would you kindly find a crowbar or something? Bloody splicers sealed Johnny in before they... goddamn splicers.,,N,Bidlcl28,Bidlcl30
+Bidlcl30,BIOSHOCK,,,"[Jack found his first weapon and he goes further, fighting with several splicers. After a while he finds the Gatherer’s Garden and get his first plasmid — Electro Bolt.]",,Y,Bidlcl29,Bidlcl31
+Bidlcl31,BIOSHOCK,,Atlas,Steady now! Your genetic code is being rewritten - just hold on and everything will be fine!,,N,Bidlcl30,Bidlcl32
+Bidlcl32,BIOSHOCK,,,"[Jack with shouts falls from the second floor and loses consciousness. Having a little coming to himself, he sees two splicers next to him.]",,Y,Bidlcl31,Bidlcl33
+Bidlcl33,BIOSHOCK,,Splicer One,This little fish looks like he just had his cherry POPPED. I wonder if he’s still got some Adam on him?,,N,Bidlcl32,Bidlcl34
+Bidlcl34,BIOSHOCK,,Splicer Two,You hear that? Let’s bug!,,N,Bidlcl33,Bidlcl35
+Bidlcl35,BIOSHOCK,,Splicer One,Weak! You’re weak chopper!,,N,Bidlcl34,Bidlcl36
+Bidlcl36,BIOSHOCK,,Splicer Two,This little fish ain’t worth toeing it with no Big Daddy!,,N,Bidlcl35,Bidlcl37
+Bidlcl37,BIOSHOCK,,Splicer - Male,"Yellow! Always have been! You’ll be no better off with the metal daddy, little fish. See you floating in the briney...",,N,Bidlcl36,Bidlcl38
+Bidlcl38,BIOSHOCK,,,[Splicers leaves. Jack hears a rumbling steps and see his first Big Daddy. Then Little Sister joins him.],,Y,Bidlcl37,Bidlcl39
+Bidlcl39,BIOSHOCK,,Little Sister,"Look Mr. Bubbles, it’s on angel - I can see light coming from his belly... Wait a minute, he’s still breathing. It’s alright, I know he’ll be an angel soon.",,N,Bidlcl38,Bidlcl40
+Bidlcl40,BIOSHOCK,,,[Jack finally comes to his senses. The game continues.],,Y,Bidlcl39,Bidlcl41
+Bidlcl41,BIOSHOCK,,Atlas,"You all right, boyo? First time plasmid’s a real kick from a mule. But... here’s nothing like a fistful of lightning, now, is there?",,N,Bidlcl40,Bidlcl42
+Bidlcl42,BIOSHOCK,,,[Jack goes on and stumbles across the splicer.],,Y,Bidlcl41,Bidlcl43
+Bidlcl43,BIOSHOCK,,Atlas,"Splicer! Give ‘em the combo- zap ‘em then whack ‘em. One-two- punch! Remember, the one-two punch!",,N,Bidlcl42,Bidlcl44
+Bidlcl44,BIOSHOCK,,,[Jack finds an elevator and goes up.],,Y,Bidlcl43,Bidlcl45
+Bidlcl45,BIOSHOCK,,Atlas,"Listen- I’ve got a family. I need to get them out of here. But the splicers have cut me off from them- If you can reach them in Neptune’s Bounty, then maybe, just maybe- I know you must feel like the unlikeliest man in the world right now, but you’re the only hope I’ll ever see my wife and child again. Go to Neptune’s Bounty… find my family… please.",,N,Bidlcl44,Bidlcl46
+Bidlcl46,BIOSHOCK,,,"[Coming out of the elevator, Jack hears a melodic lullaby.]",,Y,Bidlcl45,Bidlcl47
+Bidlcl47,BIOSHOCK,,Female Splicer,"When your daddy’s in the ground, mommy’s gonna sell you by the pound. When your mommy’s up and gone, you’re gonna be the lonely one. When you are the lonely one, no one will be there to sing this song. Hush now… Mommy’s… gone… and daddy too. Wait… this is happening before and not… why aren’t you here? W-why is it today and not then when you were warm and sweet? Why can’t mommy hold you to her breast and feel your teeth? Oh no, no no no no...",,N,Bidlcl46,Bidlcl48
+Bidlcl48,BIOSHOCK,,,"[When dealing with the splicer and getting his first firearm - a pistol, Jack hears Atlas over the radio.]",,Y,Bidlcl47,Bidlcl49
+Bidlcl49,BIOSHOCK,,Atlas,"Plasmids changed everything. They destroyed our bodies, our minds. We couldn’t handle it. Best friends butchering one another, babies strangled in cribs. The whole city went to hell.",,N,Bidlcl48,Bidlcl50
+Bidlcl50,BIOSHOCK,,,[Jack sees several splicers in the water.],,Y,Bidlcl49,Bidlcl51
+Bidlcl51,BIOSHOCK,,Atlas,"If you spot a splicer in the water, hit ‘em with the Electro Bolt.",,N,Bidlcl50,Bidlcl52
+Bidlcl52,BIOSHOCK,,,[New Year’s Eve Alone Diary],,Y,Bidlcl51,Bidlcl53
+Bidlcl53,BIOSHOCK,,Diane McClintock,"Another New Year’s, another night alone. I’m out, and you’re stuck in Hephaestus, working. imagine my surprise I guess I’ll have another drink... here’s a toast to Diane McClintock, silliest girl in Rapture. Silly enough to fall with Andrew Ryan, silly enough to, What... what happened... I’m bleeding... oh, god... what’s happening...",,N,Bidlcl52,Bidlcl54
+Bidlcl54,BIOSHOCK,,,[Jack meets a ghost in the toilet.],,Y,Bidlcl53,Bidlcl55
+Bidlcl55,BIOSHOCK,,Ghost Two,"I’m too spliced up, too spliced up... now nobody’s gonna want me...",,N,Bidlcl54,Bidlcl56
+Bidlcl56,BIOSHOCK,,,[Hole in Bathroom Wall Diary],,Y,Bidlcl55,Bidlcl57
+Bidlcl57,BIOSHOCK,,Steve Barker,"Hey, Brenda- You care to tell me why you’ve had a hole in the wall the size of Plymouth Rock coming out of your crapper on three weeks now? Now, I ain’t saying I’m Shakespeare, but I’m trying to run a respectable theater. I got working folk coming in from Port Neptune trying to catch a little diversion… and all they can think about is the stink coming out your shitter. Get it fixed.",,N,Bidlcl56,Bidlcl58
+Bidlcl58,BIOSHOCK,,,[Passing through the hole in the wall of the toilet Jack walks along the steel beams and sees the Little Sister under him.],,Y,Bidlcl57,Bidlcl59
+Bidlcl59,BIOSHOCK,,Atlas,"Careful now... would you kindly lower that weapon for a minute? You think that’s a child down there? Don’t be fooled. She’s a Little Sister now. Somebody went and turned a sweet baby girl into a monster. Whatever you thought about right and wrong on the surface, that don’t count for much down in Rapture. Those Little Sister - the genetic material that keeps the wheels of Rapture turning - everybody wants it. Everybody needs it.",,N,Bidlcl58,Bidlcl60
+Bidlcl60,BIOSHOCK,,,[Jack goes downstairs and sees Big Daddy slaughters the splicer that attacked the Little Sister.],,Y,Bidlcl59,Bidlcl61
+Bidlcl61,BIOSHOCK,,Atlas,"That’s the Big Daddy. She gathers Adam, he keeps her safe.",,N,Bidlcl60,Bidlcl62
+Bidlcl62,BIOSHOCK,,,"[Jack goes on and finds the right door to the Neptune’s Bounty, but the door is blocked, the siren turns on and many splicers appear.]",,Y,Bidlcl61,Bidlcl63
+Bidlcl63,BIOSHOCK,,Atlas,It’s Ryan! Goddamn Andrew Ryan! He found us! Dammit! He’s shut off access to Neptune... there’s another way to get there... head to Medical! What are you waiting for? Go!,,N,Bidlcl62,Bidlcl64
+Bidlcl64,BIOSHOCK,,,"[Jack goes to the transitional chamber of the Medical Pavilion, but it turns out to be locked.]",,Y,Bidlcl63,Bidlcl65
+Bidlcl65,BIOSHOCK,,Atlas,"Ah, Christ! You’re trapped... gonna try to override the exit from here!",,N,Bidlcl64,Bidlcl66
+Bidlcl66,BIOSHOCK,,,[A huge screen appears with Andrew Ryan on it.],,Y,Bidlcl65,Bidlcl67
+Bidlcl67,BIOSHOCK,,Andrew Ryan,"So tell me, friend… which one of the bitches sent you? The KGB wolf? Or The CIA jackal? Here’s the news: Rapture isn’t some sunken ship for you to plunder and Andrew Ryan isn’t giddy socialite who can be slapped around by government muscle. And with that, farewell, or Dasvadinya. Whichever you prefer.",,N,Bidlcl66,Bidlcl68
+Bidlcl68,BIOSHOCK,,,[Splicers begin to try breaking into the room.],,Y,Bidlcl67,Bidlcl69
+Bidlcl69,BIOSHOCK,,Atlas,I got it... get out of there… get out now!!!,,N,Bidlcl68,Bidlcl70
+Bidlcl70,BIOSHOCK,,,[Jack opens the door and escapes.],,Y,Bidlcl69,Bidlcl71
+Bidlcl71,MEDICAL PAVILION,,,[Jack successfully avoids violence and falls into the foyer of the Medical Pavilion.],,Y,Bidlcl70,Bidlcl72
+Bidlcl72,MEDICAL PAVILION,,Atlas,"Now you’ve met Andrew Ryan, bloody King of Rapture. Now find your way to Emergency Access.",,N,Bidlcl71,Bidlcl73
+Bidlcl73,MEDICAL PAVILION,,,[Released Today Diary],,Y,Bidlcl72,Bidlcl74
+Bidlcl74,MEDICAL PAVILION,,Diane McClintock,"Dr. Steinman said he’d release me today. Ryan didn’t come to see me since the New Year’s attack. Not once. But Dr. Steinman was very attentive. He told me that once the scar tissue was gone, he was going to fix me right up. Make me prettier than any girl I’ve ever seen. He’s sweet ail right... and so interested in my case!",,N,Bidlcl73,Bidlcl75
+Bidlcl75,MEDICAL PAVILION,,,[Adam’s Changes Diary],,Y,Bidlcl74,Bidlcl76
+Bidlcl76,MEDICAL PAVILION,,Doctor Steinman,"Ryan and Adam, Adam and Ryan… all those years of study and was I ever truly a surgeon before I met them? How we plinked with our scalpels and toy morality. Yes, we could lop a boil here, and shave down a beak there, but... but could we really change anything? No. But Adam gives us the means to do it. And Ryan frees us from the phony ethics that held us back. Change your look. Change your sex, change your race. It’s yours to change, nobody else’s.",,N,Bidlcl75,Bidlcl77
+Bidlcl77,MEDICAL PAVILION,,,"[After Jack is dealt with several splicers, he finds a switch that opens the door to the Pavilion itself.]",,Y,Bidlcl76,Bidlcl78
+Bidlcl78,MEDICAL PAVILION,,Atlas,"If you want to use the Emergency Access, you’ll be needing Doctor Steinman’s key. He’s the one what runs this place. But I don’t expect him to hand it to you out of the milk of human kindness. Steinman ain’t that kind, and frankly, I’m not even sure he’s still human.",,N,Bidlcl77,Bidlcl79
+Bidlcl79,MEDICAL PAVILION,,,[Jack uses the switch and finds a machine gun. Splicers start attacking from all sides.],,Y,Bidlcl78,Bidlcl80
+Bidlcl80,MEDICAL PAVILION,,Atlas,Now you’ve rattled the monkey cage. Here they come.,,N,Bidlcl79,Bidlcl81
+Bidlcl81,MEDICAL PAVILION,,,"[Jack kills all the splicers and goes into the opened door, where he sees another ghost at the door.]",,Y,Bidlcl80,Bidlcl82
+Bidlcl82,MEDICAL PAVILION,,Ghost Two,"You promised me pretty, Steinman, you promised me pretty... Now look of me… LOOK AT ME!!!",,N,Bidlcl81,Bidlcl83
+Bidlcl83,MEDICAL PAVILION,,,"[Jack presses the button, goes into the opened door and gets to the Medical Pavilion.]",,Y,Bidlcl82,Bidlcl84
+Bidlcl84,MEDICAL PAVILION,,Atlas,"You keep on eye peeled for Steinman. The daft bastard’s shop in the surgery wing. You wanna find him, just follow the blood.",,N,Bidlcl83,Bidlcl85
+Bidlcl85,MEDICAL PAVILION,,,[Higher Standards Diary],,Y,Bidlcl84,Bidlcl86
+Bidlcl86,MEDICAL PAVILION,,Doctor Steinman,"Adam presents new problems for the professional. As your tools improve, so do your standards. There was a time, I was happy enough to take off a wart or two, or turn a real circus freak into something you can show in the daylight. But that was then, when we took what we got, but with ADAM... the flesh becomes clay. What excuse do we have not to sculpt, and sculpt, and sculpt, until the job is done?",,N,Bidlcl85,Bidlcl87
+Bidlcl87,MEDICAL PAVILION,,,[Jack encounters a security turret.],,Y,Bidlcl86,Bidlcl88
+Bidlcl88,MEDICAL PAVILION,,Atlas,"Remember, all the machines will short out right and proper if you hit them with Electro Bolt!",,N,Bidlcl87,Bidlcl89
+Bidlcl89,MEDICAL PAVILION,,,[Jack examines the Medical Pavilion.],,Y,Bidlcl88,Bidlcl90
+Bidlcl90,MEDICAL PAVILION,,,[Limits of Imagination Diary],,Y,Bidlcl89,Bidlcl91
+Bidlcl91,MEDICAL PAVILION,,Doctor Steinman,"I am beautiful, yes. Look at me, what could I do to make my features finer? With Adam and my scalpel, I have been transformed. But is there not something better? What if now it is now my skill that fails me... but my imagination?",,N,Bidlcl90,Bidlcl92
+Bidlcl92,MEDICAL PAVILION,,,[Love for Science Diary],,Y,Bidlcl91,Bidlcl93
+Bidlcl93,MEDICAL PAVILION,,Tenenbaum,"I was at German prison camp only of sixteen years old when I realize I have love for science. German doctor, he make experiment. Sometime, he make scientific error. I tell him of this error, and this make him angry. But then he asks, ""How can a child know such a thing?"" I tell him, ""Sometimes, I just know."" He screams at me, ""Then why tell me?"" ""Well,"" I said, ""if you’re going to do such things, at least you should do them properly.""",,N,Bidlcl92,Bidlcl94
+Bidlcl94,MEDICAL PAVILION,,,[Parasite Expectations],,Y,Bidlcl93,Bidlcl95
+Bidlcl95,MEDICAL PAVILION,,Andrew Ryan,"On the surface, the Parasite expects the doctor to heal them for free, the farmer to feed them out of charity. How little they differ from the pervert who prowls the streets, looking for a victim he can ravish for his grotesque amusement.",,N,Bidlcl94,Bidlcl96
+Bidlcl96,MEDICAL PAVILION,,,[Vandalism Diary],,Y,Bidlcl95,Bidlcl97
+Bidlcl97,MEDICAL PAVILION,,Andrew Ryan,"It has been brought to my attention that some citizens have discovered ways to... ""hack"" the vending machines. I should not need to remind each and every citizen of Rapture that free enterprise is the foundation upon which our society has been established. Parasites will be punished.",,N,Bidlcl96,Bidlcl98
+Bidlcl98,MEDICAL PAVILION,,,"[After defeating many enemies, Jack goes to Dr. Steinman’s surgical department ""Aesthetic Ideals."" We hear his voice through the loudspeakers.]",,Y,Bidlcl97,Bidlcl99
+Bidlcl99,MEDICAL PAVILION,,Doctor Steinman,"With genetic modifications, beauty is no longer a goal, or even a virtue. It is a moral obligation. Do we force the healthy to live with the contagious? Do we mix The criminal with the low-abiding? Then why are the plain allowed to mingle with the fair?",,N,Bidlcl98,Bidlcl100
+Bidlcl100,MEDICAL PAVILION,,,"[Entering the foyer of surgical department, we see how Dr. Steinman bent over the body of some poor fellow.]",,Y,Bidlcl99,Bidlcl101
+Bidlcl101,MEDICAL PAVILION,,,"[Steinman runs away, blowing the passage behind him. Atlas is communicate with Jack over the radio.]",,Y,Bidlcl100,Bidlcl102
+Bidlcl102,MEDICAL PAVILION,,Atlas,"You’ll have to find some way To get through to surgery… and Steinman. Chin up, now. The Lord hates a quitter.",,N,Bidlcl101,Bidlcl103
+Bidlcl103,MEDICAL PAVILION,,,[Little further ahead Jack encounters a splicer with a box of explosives.],,Y,Bidlcl102,Bidlcl104
+Bidlcl104,MEDICAL PAVILION,,Atlas,"I can hear that splicer sounding off like it’s the 4th of July. Explosives are hard to come by down here, but if you get your hands on one of them Telekinesis plasmids, you could catch the damn firebombs and loss it right back in his gob… or anything else that might be standing in your way.",,N,Bidlcl103,Bidlcl105
+Bidlcl105,MEDICAL PAVILION,,,"[Jack returns to the Medical Pavilion and, going down to the lower floor, discovers that the passage is frozen.]",,Y,Bidlcl104,Bidlcl106
+Bidlcl106,MEDICAL PAVILION,,,[Freezing Pipes Diary],,Y,Bidlcl105,Bidlcl107
+Bidlcl107,MEDICAL PAVILION,,Bill McDonagh,"Steinman, I know Medical Pavilion is your manor, but you might want to cogitate on this: ocean water is colder than a witch’s tit. You don’t heat the pipes, the pipes freeze. Pipes freeze, pipes burst. Then Rapture leaks. Now, I realize you’re a posh sort of geezer, and, frankly, I don’t give a toss if you piss or go fishing. But once Rapture starts leaking, the old girl’s never gonna stop. And then I’ll be sure to tell Ryan he’s got you to thank.",,N,Bidlcl106,Bidlcl108
+Bidlcl108,MEDICAL PAVILION,,,"[Jack enters the crematorium ""Eternal Flame.""]",,Y,Bidlcl107,Bidlcl109
+Bidlcl109,MEDICAL PAVILION,,,[Surgery’s Picasso],,Y,Bidlcl108,Bidlcl110
+Bidlcl110,MEDICAL PAVILION,,Doctor Steinman,"When Picasso became bored of painting people, he started representing them as cubes and other abstract forms. The world called him a genius! I’ve spent my entire surgical career creating the same tired shapes, over and over again: the upturned nose, the cleft chin, the ample bosom. Wouldn’t it be wonderful if I could do with a knife what that old Spaniard did with a brush?",,N,Bidlcl109,Bidlcl111
+Bidlcl111,MEDICAL PAVILION,,,[Jack finds security cameras.],,Y,Bidlcl110,Bidlcl112
+Bidlcl112,MEDICAL PAVILION,,Atlas,Security cameras. I can hear the infernal things all around you. Ryan’s eyes and ears.,,N,Bidlcl111,Bidlcl113
+Bidlcl113,MEDICAL PAVILION,,,"[On the second floor of the crematorium, Jack finds a new plasmid, ""Incinerate!"". We hear Andrew Ryan’s voice through the loudspeakers.]",,Y,Bidlcl112,Bidlcl114
+Bidlcl114,MEDICAL PAVILION,,Andrew Ryan,"A parasite wanders the halls. We rebuild our city, and the doubters send a fly to spoil our ointment. One thousand Adam to the man or woman who pins its wings.",,N,Bidlcl113,Bidlcl115
+Bidlcl115,MEDICAL PAVILION,,,"[Several enemies attack Jack - it’s time to try out a new plasmid. After defeating them, Atlas is communicate with Jack.]",,Y,Bidlcl114,Bidlcl116
+Bidlcl116,MEDICAL PAVILION,,Atlas,"All roads in Rapture lead to Ryan. The security, the splicers, the Big Daddies, the Little Sisters: he pumps some kind of chemical scent in the air, pheromones they call it, makes them alt dance to his tune.",,N,Bidlcl115,Bidlcl117
+Bidlcl117,MEDICAL PAVILION,,,[Jack descends to the lower floor of the Medical Pavilion again and destroys the ice barrier with a new plasmid.],,Y,Bidlcl116,Bidlcl118
+Bidlcl118,MEDICAL PAVILION,,,[Jack finds a shotgun and ammo to it. The light turns off and he is attacked from all sides.],,Y,Bidlcl117,Bidlcl119
+Bidlcl119,MEDICAL PAVILION,,,"[After the victory over them Jack goes to the dental clinic ""Dandy Dental.""]",,Y,Bidlcl118,Bidlcl120
+Bidlcl120,MEDICAL PAVILION,,,[Testing Telekinesis Diary],,Y,Bidlcl119,Bidlcl121
+Bidlcl121,MEDICAL PAVILION,,Suchong,"Clinical Trial Lot 23 Dr. Suchong/Client Fontaine Futuristics. Work on Telekinesis Plasmid proceeding well. Lifting objects at distance present no problem. Moving objects through space, no problem. Cannot stop speeding bullet, but can catch and throw fast moving object. Problem not with Plasmid. Problem with reaction time... Suchong just get new idea for Plasmid.",,N,Bidlcl120,Bidlcl122
+Bidlcl122,MEDICAL PAVILION,,,"[Jack is attacked by splicers. After defeating them, he finds a diary.]",,Y,Bidlcl121,Bidlcl123
+Bidlcl123,MEDICAL PAVILION,,,[Useless Experiments],,Y,Bidlcl122,Bidlcl124
+Bidlcl124,MEDICAL PAVILION,,Tenenbaum,"At the German prison camp, they put me to work on genetic experiments on other prisoners. They call me ""Das Wunderkind"", the wonder child. Germans, all they can talk about is blue eyes, and shape of forehead. All I care about is why is this one born strong, and that one weak? This one smart, that one stupid? All that killing, you think the Germans could have been interested in something useful?",,N,Bidlcl123,Bidlcl125
+Bidlcl125,MEDICAL PAVILION,,,"[Jack enters the clinic ""Kure-All"".]",,Y,Bidlcl124,Bidlcl126
+Bidlcl126,MEDICAL PAVILION,,,[Enrage Trial],,Y,Bidlcl125,Bidlcl127
+Bidlcl127,MEDICAL PAVILION,,Suchong,"Clinical Trial Lot 44 Dr. Suchong/Client Fontaine Futuristics. Subject is white male, one Roland Wallace. Can you hear me, Mr. Wallace?",,N,Bidlcl126,Bidlcl128
+Bidlcl128,MEDICAL PAVILION,,Roland Wallace,"Yes sir, Mr. Suchong, sir.",,N,Bidlcl127,Bidlcl129
+Bidlcl129,MEDICAL PAVILION,,Suchong,"Very well. Right, I’m introducing lot 44 now... We’ve codenamed Lot 44 ""Enrage"" because of its tendency to...",,N,Bidlcl128,Bidlcl130
+Bidlcl130,MEDICAL PAVILION,,,[Mr. Wallace starts screaming],,Y,Bidlcl129,Bidlcl131
+Bidlcl131,MEDICAL PAVILION,,Suchong,"Nurse, hold him down... nurse! Nurse!!!",,N,Bidlcl130,Bidlcl132
+Bidlcl132,MEDICAL PAVILION,,,"[Jack enters the clinic ""Painless Dentals.""]",,Y,Bidlcl131,Bidlcl133
+Bidlcl133,MEDICAL PAVILION,,,[Plasmids Are The Paint],,Y,Bidlcl132,Bidlcl134
+Bidlcl134,MEDICAL PAVILION,,Suchong,"Tenenbaum... sometimes I pity the little freak. Such a tiny imagination... Content to sit there with her tanks of ADAM, tweaking and optimizing. I need to create... ADAM is a canvas of genetic modification... but Plasmids are the paint.",,N,Bidlcl133,Bidlcl135
+Bidlcl135,MEDICAL PAVILION,,,"[After receiving all the necessary plasmids, Jack returns to the surgical department of Dr. Steinman’s ""Aesthetic Ideals"" and gets through the blocked passage with an explosion.]",,Y,Bidlcl134,Bidlcl136
+Bidlcl136,MEDICAL PAVILION,,,[Symmetry],,Y,Bidlcl135,Bidlcl137
+Bidlcl137,MEDICAL PAVILION,,Doctor Steinman,"Today I had lunch with the Goddess. ""Steinman,"" she said... ""I’m here to free you from the tyranny of the commonplace. I’m here to show you a new kind of beauty."" I asked her, ""What do you mean, goddess?"" ""Symmetry, dear Steinman. It’s time we did something about symmetry...""",,N,Bidlcl136,Bidlcl138
+Bidlcl138,MEDICAL PAVILION,,,[Aphrodite Walking],,Y,Bidlcl137,Bidlcl139
+Bidlcl139,MEDICAL PAVILION,,Doctor Steinman,"Aphrodite is walking the halls -- shimmering, like a scalpel... ""Steinman,"" she calls, ""Steinman! I have what you’re looking for! Just open your eyes!"" And when I see her, she cuts me into a thousand beautiful pieces.",,N,Bidlcl138,Bidlcl140
+Bidlcl140,MEDICAL PAVILION,,,"[Jack kills several splicers and enters the ""Aesthetic Ideals"" where he sees Steinman conducting the operation.]",,Y,Bidlcl139,Bidlcl141
+Bidlcl141,MEDICAL PAVILION,,Doctor Steinman,"What can I do with this one, Aphrodite? She WON’T. STAY. STILL! I want to make them beautiful, but they always turn out wrong! That one… too fat! This one… too tall! This one... too symmetrical! And now- What’s this, goddess? An intruder! He’s ugly! Ugly, ugly, UGLY!",,N,Bidlcl140,Bidlcl142
+Bidlcl142,MEDICAL PAVILION,,,"[The battle with Dr. Steinman begins. After the victory over him, Atlas is communicate with Jack.]",,Y,Bidlcl141,Bidlcl143
+Bidlcl143,MEDICAL PAVILION,,Atlas,You all right? It was lime somebody took care of that sick bastard. Make sure you get the key off Steinman and head back lo Emergency Access. I’m working my way to the back side of Port Neptune myself. We’ll gel there soon enough.,,N,Bidlcl142,Bidlcl144
+Bidlcl144,MEDICAL PAVILION,,,"[On the corpse of the poor ""patient"" of Dr. Steinman, Jack finds a diary.]",,Y,Bidlcl143,Bidlcl145
+Bidlcl145,MEDICAL PAVILION,,,[Not What She Wanted],,Y,Bidlcl144,Bidlcl146
+Bidlcl146,MEDICAL PAVILION,,Steinman,Four-oh silk and… done.,,N,Bidlcl145,Bidlcl147
+Bidlcl147,MEDICAL PAVILION,,Nurse,"The nose looks terrific, Doctor Steinman… Doctor?",,N,Bidlcl146,Bidlcl148
+Bidlcl148,MEDICAL PAVILION,,Steinman,"You know, looking at her now... I didn’t realize how much her face sags... Scalpel...",,N,Bidlcl147,Bidlcl149
+Bidlcl149,MEDICAL PAVILION,,Nurse,Excuse me?,,N,Bidlcl148,Bidlcl150
+Bidlcl150,MEDICAL PAVILION,,Steinman,Scalpel!,,N,Bidlcl149,Bidlcl151
+Bidlcl151,MEDICAL PAVILION,,Nurse,"Uh, doctor, she’s not booked for a face lift...",,N,Bidlcl150,Bidlcl152
+Bidlcl152,MEDICAL PAVILION,,Steinman,Let’s just come in here and... *starts whistling*,,N,Bidlcl151,Bidlcl153
+Bidlcl153,MEDICAL PAVILION,,Nurse,"Doctor... Stop cutting... Doctor, stop cutting... Get me the chief of surgery! Get me the chief of surgery NOW!!!",,N,Bidlcl152,Bidlcl154
+Bidlcl154,MEDICAL PAVILION,,,[Jack returns to the Emergency Access by killing a crowd of enemies.],,Y,Bidlcl153,Bidlcl155
+Bidlcl155,MEDICAL PAVILION,,,[When he reaches the tunnel to the Medical Pavilion everything starts to crumble.],,Y,Bidlcl154,Bidlcl156
+Bidlcl156,MEDICAL PAVILION,,Atlas,"Sounds like another tunnel collapse. Welcome to Rapture, the world’s fastest growing pile of junk.",,N,Bidlcl155,Bidlcl157
+Bidlcl157,MEDICAL PAVILION,,,"[Having found a detour route, Jack sees how Big Daddy throws an explosion. He’s all on fire and probably dead.]",,Y,Bidlcl156,Bidlcl158
+Bidlcl158,MEDICAL PAVILION,,Atlas,It’s a Little One... Here’s your chance to get some Adam.,,N,Bidlcl157,Bidlcl159
+Bidlcl159,MEDICAL PAVILION,,,[Jack enters a hole in the wall and sees a splicer about to do something with the Little Sister that is not good.],,Y,Bidlcl158,Bidlcl160
+Bidlcl160,MEDICAL PAVILION,,Male Splicer,"...it’s just you, me, and all of the tasty Adam I can drink...",,N,Bidlcl159,Bidlcl161
+Bidlcl161,MEDICAL PAVILION,,,"[The Little Sister screams in terror. Suddenly, someone shoots the splicer. We see Dr. Tenenbaum standing on the balcony.]",,Y,Bidlcl160,Bidlcl162
+Bidlcl162,MEDICAL PAVILION,,Tenenbaum,Stay away from her or it is you who will be shot next...,,N,Bidlcl161,Bidlcl163
+Bidlcl163,MEDICAL PAVILION,,Atlas,"Easy now, Doctor… He’s just looking for a wee bit of Adam, just enough to get by...",,N,Bidlcl162,Bidlcl164
+Bidlcl164,MEDICAL PAVILION,,Tenenbaum,I’ll not have him hurt my Little Ones...,,N,Bidlcl163,Bidlcl165
+Bidlcl165,MEDICAL PAVILION,,Atlas,"It’s okay, lad. That’s not a child, not anymore it ain’t. Dr. Tenenbaum saw to that.",,N,Bidlcl164,Bidlcl166
+Bidlcl166,MEDICAL PAVILION,,Atlas,"Aye, that’s a pretty sermon coming from the ghoul who cooked up them creatures in the first place. Took fine little girls and turned them into that, didn’t you? Listen to me, boyo: you won’t survive without the Adam those... things... are carrying. Are you prepared to trade your life, the lives of my wife and child for Tenenbaum’s little Frankensteins?",,N,Bidlcl165,Bidlcl167
+Bidlcl167,MEDICAL PAVILION,,,[Dr. Tenenbaum draws the attention of the protagonist and throws him a plasmid.],,Y,Bidlcl166,Bidlcl168
+Bidlcl168,MEDICAL PAVILION,,Tenenbaum,"Here! There is another way... use this, free them from their torment... I will make it to be worth your while… somehow.",,N,Bidlcl167,Bidlcl169
+Bidlcl169,MEDICAL PAVILION,,,"[Jack chooses to save the Sister. She kicks and breaks, but when Jack touches her hand with a charged plasmid and she becomes a normal girl again.]",,Y,Bidlcl168,Bidlcl170
+Bidlcl170,MEDICAL PAVILION,,Tenenbaum,"The path of the righteous is not always easy, yes? The reward will become clear in time... be patient.",,N,Bidlcl169,Bidlcl171
+Bidlcl171,MEDICAL PAVILION,,Atlas,"Tenenbaum’s playing you for a sap. Those things may look like wee little girls, but looks don’t make it so. You’ll need all the Adam you can gel to survive. If you cross paths with another of them Gatherer’s Garden machines, make sure you pick up a new plasmid or two. That’s if the price ain’t too dear, of course...",,N,Bidlcl170,Bidlcl172
+Bidlcl172,MEDICAL PAVILION,,,"[Jack visits the Gatherer’s Garden for the first time, and next to him he finds a diary.]",,Y,Bidlcl171,Bidlcl173
+Bidlcl173,MEDICAL PAVILION,,,[Gatherer’s Vulnerability],,Y,Bidlcl172,Bidlcl174
+Bidlcl174,MEDICAL PAVILION,,Doctor Steinman,"Not only are those little girls veritable ADAM factories, they’re nearly indestructible. They regenerate any wounded flesh with stem versions of the dead cells. But their relationship with the implanted slugs is symbiotic... if you harvest the slug, the host will die. ""So you see, it’s not like killing,"" Tenenbaum said. ""It’s more like removing a terminal patient from life support.""",,N,Bidlcl173,Bidlcl175
+Bidlcl175,NEPTUNE’S BOUNTY,,,"[Jack returns to the Medical Pavilion, where the Big Daddy is waiting for him.]",,Y,Bidlcl174,Bidlcl176
+Bidlcl176,NEPTUNE’S BOUNTY,,Atlas,"You’re ready now... it’s time to take on one of them Big Daddies. It won’t be easy, but it’s the only way to get to the Little Sisters… and the Adam they carry.",,N,Bidlcl175,Bidlcl177
+Bidlcl177,NEPTUNE’S BOUNTY,,,"[When Jack defeats Daddy and saves the Little Sister, Atlas contacts him again.]",,Y,Bidlcl176,Bidlcl178
+Bidlcl178,NEPTUNE’S BOUNTY,,Atlas,Are you almost back to Emergency Access? Come through as soon as you get there. You got Ryan’ eye now. You won’t hear him coming... but he’ll be there before you know it.,,N,Bidlcl177,Bidlcl179
+Bidlcl179,NEPTUNE’S BOUNTY,,,[Jack returns to the Emergency Access and finally opens it.],,Y,Bidlcl178,Bidlcl180
+Bidlcl180,NEPTUNE’S BOUNTY,,Announcer,Security alert deactivated. Thank you for your patience!,,N,Bidlcl179,Bidlcl181
+Bidlcl181,NEPTUNE’S BOUNTY,,Atlas,"I don’t know how you managed it, but you did. Come through to Port Neptune now. I’m looking forward to shaking your hand.",,N,Bidlcl180,Bidlcl182
+Bidlcl182,NEPTUNE’S BOUNTY,,,"[Jack enters the bathysphere and goes to the ""Neptune’s Bounty"".]",,Y,Bidlcl181,Bidlcl183
+Bidlcl183,NEPTUNE’S BOUNTY,,,[Jack finds himself at the Rapture subway station. Atlas communicates with him on the radio.],,Y,Bidlcl182,Bidlcl184
+Bidlcl184,NEPTUNE’S BOUNTY,,Atlas,"Now you’ve had the pleasure of Andrew Ryan’s company. He’s the one who built this place, and he’s the one who run it into the ground. Nobody knows exactly what happened. Maybe he went mad. Maybe the power got to him. Maybe he just decided he didn’t like people. Whichever way you slice it, good men died. Me family’s in a submarine hidden in the foundation of Fontaine Fisheries. I’ll meet you there.",,N,Bidlcl183,Bidlcl185
+Bidlcl185,NEPTUNE’S BOUNTY,,,[Jack goes on and notices the shadow of the female splicer.],,Y,Bidlcl184,Bidlcl186
+Bidlcl186,NEPTUNE’S BOUNTY,,Female Splicer,What crawls in my garden? But the days go by like wind...,,N,Bidlcl185,Bidlcl187
+Bidlcl187,NEPTUNE’S BOUNTY,,,"[On the Lower Wharf Jack meets a new type of Big Daddies, Rosie, kills her and saves the Sister.]",,Y,Bidlcl186,Bidlcl188
+Bidlcl188,NEPTUNE’S BOUNTY,,Tenenbaum,"You have shown kindness to my Little Ones... but are you really a friend to us? Regardless, a Little One brings you a gift to demonstrate our appreciation.",,N,Bidlcl187,Bidlcl189
+Bidlcl189,NEPTUNE’S BOUNTY,,,[Jack searches the Upper and Lower Wharfes.],,Y,Bidlcl188,Bidlcl190
+Bidlcl190,NEPTUNE’S BOUNTY,,,[Fontaine Must Go],,Y,Bidlcl189,Bidlcl191
+Bidlcl191,NEPTUNE’S BOUNTY,,Andrew Ryan,"Something must be done about Fontaine. While I was buying buildings and fish futures, he was cornering the market on genotypes and nucleotide sequences. Rapture is transforming before my eyes. The Great Chain is pulling away from me. Perhaps it’s time to give it a tug.",,N,Bidlcl190,Bidlcl192
+Bidlcl192,NEPTUNE’S BOUNTY,,,[Bathysphere Keys],,Y,Bidlcl191,Bidlcl193
+Bidlcl193,NEPTUNE’S BOUNTY,,Sullivan,"We’re putting all the bathyspheres in lockdown until further notice. Ryan had us install some kinda genetic device into the things so only Ryan and his inner circle will be able to use ‘em without dispensation. But the boys tell me the keys are pretty unreliable. Sisters, cousins-anybody in the ballpark, genetically, will be able to come and go as they see fit.",,N,Bidlcl192,Bidlcl194
+Bidlcl194,NEPTUNE’S BOUNTY,,,[Finding the Sea Slug],,Y,Bidlcl193,Bidlcl195
+Bidlcl195,NEPTUNE’S BOUNTY,,Tenenbaum,"I saw one of the smugglers having a game of catching on the docks today. And this surprised me, because his hands were crippled during the war. He was unloading the barge the other day when he was bitten from this Sea Slug. He woke up the next morning and he found he could move his fingers for the first time in years. I asked him if he still had that Sea Slug. As luck would have it, he did...",,N,Bidlcl194,Bidlcl196
+Bidlcl196,NEPTUNE’S BOUNTY,,,[Masha Come Home],,Y,Bidlcl195,Bidlcl197
+Bidlcl197,NEPTUNE’S BOUNTY,,Mariska Lutz,"Darling Masha -- We don’t know what has happened to you... Ryan’s men have taken you away and said you are needed to save Rapture. Who needs a child to save a city? But I see these little girls crawling out of these vents, and I only wonder if you might one day crawl out of this vent and find this note. We look for you, but if you find this, come to us at the Fighting McDonagh’s in room #7. The code to our room is 7533. We miss you, our darling child.",,N,Bidlcl196,Bidlcl198
+Bidlcl198,NEPTUNE’S BOUNTY,,,[Picked Up Timmy H.],,Y,Bidlcl197,Bidlcl199
+Bidlcl199,NEPTUNE’S BOUNTY,,Sullivan,"Now the eggs are in the scramble. We picked up Timmy H., right after midnight. Either Ryan’ll be taking down Fontaine, or Fontaine’ll be taking down Ryan. We’ll be ""interviewing"" poor Timmy ’neath Fontaine Fisheries... if you’re up for entertainment, the code’s 5380.",,N,Bidlcl198,Bidlcl200
+Bidlcl200,NEPTUNE’S BOUNTY,,,[Timmy H. Interrogation (needs a code]],,Y,Bidlcl199,Bidlcl201
+Bidlcl201,NEPTUNE’S BOUNTY,,Sullivan,"Mr. Ryan asked me personally to make this clear to you. You give us Fontaine, and this whole filthy ring of his, and you’ll be knocking back pints up at the Fighting McDonaghs. But if you prefer to play the mule... we’ll treat you like a mule... Give him a taste, Patrick...",,N,Bidlcl200,Bidlcl202
+Bidlcl202,NEPTUNE’S BOUNTY,,,[Timmy screams from electrocution],,Y,Bidlcl201,Bidlcl203
+Bidlcl203,NEPTUNE’S BOUNTY,,Sullivan,"Oh, what’s that? Change of heart, Timmy? Timmy? Ready to talk now?",,N,Bidlcl202,Bidlcl204
+Bidlcl204,NEPTUNE’S BOUNTY,,Timmy H,"Go on, Sullivan... go on and do your dirty! ...Whatever Ryan thinks he can do to me, Fontaine can do double!",,N,Bidlcl203,Bidlcl205
+Bidlcl205,NEPTUNE’S BOUNTY,,,[Watch Fontaine],,Y,Bidlcl204,Bidlcl206
+Bidlcl206,NEPTUNE’S BOUNTY,,Andrew Ryan,"This Fontaine fellow is somebody to watch. Once, he was just a menace, to be convicted and hung. But he always manages to be where the evidence isn’t. He’s the most dangerous type of hoodlum... the kind with vision.",,N,Bidlcl205,Bidlcl207
+Bidlcl207,NEPTUNE’S BOUNTY,,,[ADAM Discovery],,Y,Bidlcl206,Bidlcl208
+Bidlcl208,NEPTUNE’S BOUNTY,,Tenenbaum,"This little Sea Slug has come along and glued together all the crazy ideas I’ve had since the war... it doesn’t just heal damaged cells, it... resurrects them... I can bend the double helix... black can be reborn white, tall, short, weak, strong... But the slugs alone are not enough... I’ll need money... and one other thing...",,N,Bidlcl207,Bidlcl209
+Bidlcl209,NEPTUNE’S BOUNTY,,,"[Jack fights his way to the ""Fontaine’s Fisheries"".]",,Y,Bidlcl208,Bidlcl210
+Bidlcl210,NEPTUNE’S BOUNTY,,Female Splicer,Who can blame a lady who craves variety? And one day the gentlemen stopped calling...,,N,Bidlcl209,Bidlcl211
+Bidlcl211,NEPTUNE’S BOUNTY,,,[Jack knocks his wrench at the iron door.],,Y,Bidlcl210,Bidlcl212
+Bidlcl212,NEPTUNE’S BOUNTY,,Peach Wilkins,"Atlas radioed on ahead, says you were looking for an invite to the fisheries. Nuts, I say. But if’n you heads up to the wharf master’s office and find ol’ Peach a research camera, maybe I could manage an invite...",,N,Bidlcl211,Bidlcl213
+Bidlcl213,NEPTUNE’S BOUNTY,,Female Splicer,(humming Inkspots song ’If I didn’t care’),,N,Bidlcl212,Bidlcl214
+Bidlcl214,NEPTUNE’S BOUNTY,,Peach Wilkins,"What was that? My friend, you are fucked.",,N,Bidlcl213,Bidlcl215
+Bidlcl215,NEPTUNE’S BOUNTY,,,[A female splicer attacks Jack with a shout.],,Y,Bidlcl214,Bidlcl216
+Bidlcl216,NEPTUNE’S BOUNTY,,Female Splicer,My youth! My rose! I want it back! I want it back!! Yeargh!,,N,Bidlcl215,Bidlcl217
+Bidlcl217,NEPTUNE’S BOUNTY,,,"[After a while, Peach sends backup to Jack.]",,Y,Bidlcl216,Bidlcl218
+Bidlcl218,NEPTUNE’S BOUNTY,,Peach Wilkins,You hold tightly. I’m sending something fierce to watch your back.,,N,Bidlcl217,Bidlcl219
+Bidlcl219,NEPTUNE’S BOUNTY,,,"[The security robot pushes the female splicer into the hole in the ceiling and follows her, after which we hear a shrill scream.]",,Y,Bidlcl218,Bidlcl220
+Bidlcl220,NEPTUNE’S BOUNTY,,Peach Wilkins,"That one’s too tough for you. Look on the conveyor belt, you’ll find something to keep you alive. Now go get that camera and then snapshots of on those that crawls on the ceiling... Then I’ll let you in to the fisheries.",,N,Bidlcl219,Bidlcl221
+Bidlcl221,NEPTUNE’S BOUNTY,,Peach Wilkins,"Just remember, sonny friend: I smell an ounce of Fontaine on you, and I’ll have you in a box! Atlas gives you the vouch, but I ain’t turning my eye just on his say so!",,N,Bidlcl220,Bidlcl222
+Bidlcl222,NEPTUNE’S BOUNTY,,,[Jack goes to the Upper Wharf.],,Y,Bidlcl221,Bidlcl223
+Bidlcl223,NEPTUNE’S BOUNTY,,Atlas,"Grown man, jumpin’ at ghost. Fontaine’s dead and everybody’ knows it. In the ground for months, and half the place still jumping at his shadow... Christ, even Ryan. You never mind all that. We got work to do. Seems like ol’ Peach knows where to find a research camera. He seems a decent enough sort. No doubt he’ll wait until after you’ve done his errands to stick a shiv in your belly.",,N,Bidlcl222,Bidlcl224
+Bidlcl224,NEPTUNE’S BOUNTY,,,"[Jack goes further, fighting with the splicers. On the Upper Wharf, near the office of the wharfmaster, Jack encounters another Rosie, kills her and saves the Little Sister.]",,Y,Bidlcl223,Bidlcl225
+Bidlcl225,NEPTUNE’S BOUNTY,,,"[Jack gets to the wharfmaster’s office, and Atlas contacts him.]",,Y,Bidlcl224,Bidlcl226
+Bidlcl226,NEPTUNE’S BOUNTY,,Atlas,"The research camera looks just like one you’d see topside. According to this magazine article I scrounged up, it can also ’analyze genetic information, parse biological structures’ and lots of other five rounds dollar words.",,N,Bidlcl225,Bidlcl227
+Bidlcl227,NEPTUNE’S BOUNTY,,,[Have My Badge],,Y,Bidlcl226,Bidlcl228
+Bidlcl228,NEPTUNE’S BOUNTY,,Sullivan,"Hanging now, is it? That’s what we’ve come to? Now look, I don’t make the laws here, I just enforce them. But I didn’t come to Rapture to string men up for running contraband. If Ryan and his crew have their law, then they can have my badge.",,N,Bidlcl227,Bidlcl229
+Bidlcl229,NEPTUNE’S BOUNTY,,,[Jack finds a research camera.],,Y,Bidlcl228,Bidlcl230
+Bidlcl230,NEPTUNE’S BOUNTY,,Peach Wilkins,"Good, you got the camera. Now get me some snap snaps on those spider splicers! And don’t come back down here ’till you got my research!",,N,Bidlcl229,Bidlcl231
+Bidlcl231,NEPTUNE’S BOUNTY,,,[Jack leaves the wharfmaster’s office and takes a new plasmid along the way.],,Y,Bidlcl230,Bidlcl232
+Bidlcl232,NEPTUNE’S BOUNTY,,Atlas,"You have the Research Camera? Good. Guess it’s time to get to work for ol’ Peachy. Take the man’s pictures, and let’s get the hell out of this place...",,N,Bidlcl231,Bidlcl233
+Bidlcl233,NEPTUNE’S BOUNTY,,,[Eden Leaking],,Y,Bidlcl232,Bidlcl234
+Bidlcl234,NEPTUNE’S BOUNTY,,Bill McDonagh,"If things weren’t bad enough, it seems that even our water system’s sprung a leak. Yep, that’s right. The irrigation system in Arcadia is taking on sea water. I told Mr. Ryan when we were building this place; either you build her like a bathtub, or she’s gonna turn into a sewer. ""No, McDonagh,"" he said, ""we’re not gonna build no bathtub... we’re gonna build Eden.""",,N,Bidlcl233,Bidlcl235
+Bidlcl235,NEPTUNE’S BOUNTY,,,[Fontaine’s Smugglers],,Y,Bidlcl234,Bidlcl236
+Bidlcl236,NEPTUNE’S BOUNTY,,Tenenbaum,"As the respectable labs have all turned me away, I have turned to Fontaine’s smugglers in Port Neptune for supplies. Fontaine’s men are pigs. They spit, they stink. But they deliver and they don’t ask questions. They’re all terrified of Fontaine... he reminds me a bit of the Germans -- so efficient. It wouldn’t surprise me if he were soon running things down here.",,N,Bidlcl235,Bidlcl237
+Bidlcl237,NEPTUNE’S BOUNTY,,,[Jack enters the Jet Postal and takes the necessary pictures. Now his damage to spider-splicers increases.],,Y,Bidlcl236,Bidlcl238
+Bidlcl238,NEPTUNE’S BOUNTY,,,[Death Penalty in Rapture],,Y,Bidlcl237,Bidlcl239
+Bidlcl239,NEPTUNE’S BOUNTY,,Andrew Ryan,The death penalty in Rapture! Council’s in an uproar. Riots in the streets they say! But this is the time for leadership. Action must be taken against the smugglers. Any contact with the surface exposes Rapture to the very Parasites we fled from. A few stretched necks are a small price to pay for our ideals.,,N,Bidlcl238,Bidlcl240
+Bidlcl240,NEPTUNE’S BOUNTY,,,[Jack enters the Fighting McDonagh.],,Y,Bidlcl239,Bidlcl241
+Bidlcl241,NEPTUNE’S BOUNTY,,,[Smuggling Ring],,Y,Bidlcl240,Bidlcl242
+Bidlcl242,NEPTUNE’S BOUNTY,,Sullivan,"I’m closing in on the whole ring. I’d pat myself on the back, but let’s face it... these aren’t exactly bloodthirsty desperadoes we’re talking about. Rapture’s full of poets, artists... tennis players, not hired guerrillas. But this leader of theirs, this Fontaine... he seems to know his way around a grift. He keeps his nose clean, but not so clean that the right people don’t know he’s not to be trifled with...",,N,Bidlcl241,Bidlcl243
+Bidlcl243,NEPTUNE’S BOUNTY,,,[Working Late Again],,Y,Bidlcl242,Bidlcl244
+Bidlcl244,NEPTUNE’S BOUNTY,,Andrew Ryan,"Diane, my dear, I’m sorry but I’ll be late again tonight... Rosenberg is demanding to speak about this Fontaine business. I’m trying to build a proper financial market and this idiot keeps going on about ADAM this and genetic modification that. I’ll go spend an hour pretending to pay attention to the poor fellow and be home as soon as I can. -Andrei",,N,Bidlcl243,Bidlcl245
+Bidlcl245,NEPTUNE’S BOUNTY,,,[Arresting Fontaine],,Y,Bidlcl244,Bidlcl246
+Bidlcl246,NEPTUNE’S BOUNTY,,Bill McDonagh,"Mr. Ryan... I believe in Rapture. But that doesn’t mean we always win. Fontaine Futuristics is the biggest thing going in Rapture. So let me be plain: when we arrest that toe-rag Fontaine for his thieving and smuggling, we must make it clear that we won’t touch his business interests. We sit on the Council because these poor sods trust us... not because God gave us a chair.",,N,Bidlcl245,Bidlcl247
+Bidlcl247,NEPTUNE’S BOUNTY,,,[Saw Masha Today (needs a code)],,Y,Bidlcl246,Bidlcl248
+Bidlcl248,NEPTUNE’S BOUNTY,,Mariska Lutz,"We saw our Masha today. We barely recognize her. ""That’s her,"" Sam said. ""You’re crazy,"" I told him. ""That thing? that, that is our Masha?"" But he was right. She was drawing blood out of a corpse by Fontaine Fisheries, and then when she was done, she walked off hand in hand with one of those awful golems. Masha!",,N,Bidlcl247,Bidlcl249
+Bidlcl249,NEPTUNE’S BOUNTY,,,[Meeting Ryan],,Y,Bidlcl248,Bidlcl250
+Bidlcl250,NEPTUNE’S BOUNTY,,Bill McDonagh,"I met Ryan the day me and the lads were installing the bathroom plumbing up in his posh Park Avenue digs. ""Oi!"" says he, ""What’s with all the brass fittings? General contractor had me down for the tin."" ""Well,"" I says, ""I supposed it’s the contractor then who’ll be bailing out your loo once a fortnight, is it? If it’s price you’re worried about, I’ll be picking up the brass, so not to worry, squire."" ""And why would you be doing that?"" says he. ""Well, Mr. Ryan, profit or not, no man bails water out of privies built by Bill McDonagh."" The next day I finds out, I’m Ryan’s new general contractor.",,N,Bidlcl249,Bidlcl251
+Bidlcl251,NEPTUNE’S BOUNTY,,,[Rapture Changing],,Y,Bidlcl250,Bidlcl252
+Bidlcl252,NEPTUNE’S BOUNTY,,Bill McDonagh,"Rapture’s changing, but Ryan can’t see the wolves in the woods. This Fontaine fellow... he’s a crook and a proper tea leaf, but he’s got the ADAM, and that makes him the guv’nor. He’s sinking the profits back into bigger and better Plasmids, building them Fontaine Poorhouses... more like Fontaine recruiting centers... ’Fore we know it, Bloke’s gonna have an army of Splicers, and we’re gonna have ourselves a whole heap of miseries.",,N,Bidlcl251,Bidlcl253
+Bidlcl253,NEPTUNE’S BOUNTY,,,"[After Jack makes all the necessary shots, Atlas contacts him.]",,Y,Bidlcl252,Bidlcl254
+Bidlcl254,NEPTUNE’S BOUNTY,,Atlas,"Sounds like that should about it. Head back to Fontaine Fisheries when you’re ready, would you kindly?",,N,Bidlcl253,Bidlcl255
+Bidlcl255,NEPTUNE’S BOUNTY,,,[Jack goes on.],,Y,Bidlcl254,Bidlcl256
+Bidlcl256,NEPTUNE’S BOUNTY,,Atlas,"Me wife, Moira: she’s a right pain in the neck. But she’s a beauty and she means the world to me. I can’t help but feel God’s punishing me for bringing her and Patrick to this place. I though this would be a better life for us. Can you imagine a bigger fool than that?",,N,Bidlcl255,Bidlcl257
+Bidlcl257,NEPTUNE’S BOUNTY,,,[Jack stumbles across another Rosie and kills her. She has no Little Sister.],,Y,Bidlcl256,Bidlcl258
+Bidlcl258,NEPTUNE’S BOUNTY,,,[Jack gets to the entrance of the “Fontaine’s Fisheries”.],,Y,Bidlcl257,Bidlcl259
+Bidlcl259,NEPTUNE’S BOUNTY,,Female Splicer,(humming Inkspots song ’If I didn’t care’],,N,Bidlcl258,Bidlcl260
+Bidlcl260,NEPTUNE’S BOUNTY,,,[Jack knocks on the door again.],,Y,Bidlcl259,Bidlcl261
+Bidlcl261,NEPTUNE’S BOUNTY,,Peach Wilkins,"The wharf rat didn’t get himself et. You got something for me and my crew, or are you just looking to get criticized? You set here a spell, I needs to set on some coffee, maybe put silverware and the like.",,N,Bidlcl260,Bidlcl262
+Bidlcl262,NEPTUNE’S BOUNTY,,,[Jack comes inside.],,Y,Bidlcl261,Bidlcl263
+Bidlcl263,NEPTUNE’S BOUNTY,,Atlas,"Before you head into the Fisheries, a word to the wise. Ol’ Peachy seems about as straight as a dog’s hind leg. You keep your eyes open.",,N,Bidlcl262,Bidlcl264
+Bidlcl264,NEPTUNE’S BOUNTY,,Peach Wilkins,"Nobody walks into my swampy carrying the heat. Put your weapons in the pneumo, and then I’ll let you in.",,N,Bidlcl263,Bidlcl265
+Bidlcl265,NEPTUNE’S BOUNTY,,,[Jack drop his weapon into the pneumo and goes on.],,Y,Bidlcl264,Bidlcl266
+Bidlcl266,NEPTUNE’S BOUNTY,,,"[Entering the freezer compartment for fish suddenly rolls up the fog. When it dissipates, we hear Peach’s voice on the radio.]",,Y,Bidlcl265,Bidlcl267
+Bidlcl267,NEPTUNE’S BOUNTY,,Peach Wilkins,"Now, I bet when your boss wiggled out of hell he done fold The Devil he’d be right back and the Devil said, sure thing Mr. Fontaine, I’ll hold you a spot Ryan promised Fontaine was dust, and now here you are, doing his dirty… I guess that makes Ryan a burn, and you a-",,N,Bidlcl266,Bidlcl268
+Bidlcl268,NEPTUNE’S BOUNTY,,Peach Wilkins,Atlas! He was ours! Ours!!!,,N,Bidlcl267,Bidlcl269
+Bidlcl269,NEPTUNE’S BOUNTY,,,[Many strong splicers attack Jack.],,Y,Bidlcl268,Bidlcl270
+Bidlcl270,NEPTUNE’S BOUNTY,,,[During the battle Atlas communicates with Jack.],,Y,Bidlcl269,Bidlcl271
+Bidlcl271,NEPTUNE’S BOUNTY,,Atlas,"The submarine bay was only used by smugglers and thieves. More than likely, the entrance will be hidden— better to keep the coppers off the scent.",,N,Bidlcl270,Bidlcl272
+Bidlcl272,NEPTUNE’S BOUNTY,,,"[Finishing off the enemies, Jack searches freezers.]",,Y,Bidlcl271,Bidlcl273
+Bidlcl273,SMUGGLERS’ HIDEOUT,,,"[After finishing searching the freezers, Jack descends the stairs to the lower floor, takes his weapon and gets access to the first upgrade.]",,Y,Bidlcl272,Bidlcl274
+Bidlcl274,SMUGGLERS’ HIDEOUT,,,[Jack searches the freezers of the lower floor.],,Y,Bidlcl273,Bidlcl275
+Bidlcl275,SMUGGLERS’ HIDEOUT,,,[Putting the Screws On],,Y,Bidlcl274,Bidlcl276
+Bidlcl276,SMUGGLERS’ HIDEOUT,,Peach Wilkins,"Fontaine’s putting the screws on us, and double. He’s squeezing us out of 80 points of our cut with the threat of turning us in to Ryan if we don’t play ball. Son of a bitch. Sammy G. comes and tells me he’s thinking of going to the constable, and the next day, Sammy G. was found in a sack in the salt pond. We got no choice here. We stay on Fontaine’s crew, and we’re gonna catch the gallows. We take a powder, and we end up like Sammy G. There’s gotta be another way...",,N,Bidlcl275,Bidlcl277
+Bidlcl277,SMUGGLERS’ HIDEOUT,,,"[In one of the freezers, Jack meets two ghosts.]",,Y,Bidlcl276,Bidlcl278
+Bidlcl278,SMUGGLERS’ HIDEOUT,,Ghost 1,You can’t quit.. Fontaine will find you.,,N,Bidlcl277,Bidlcl279
+Bidlcl279,SMUGGLERS’ HIDEOUT,,Ghost 2,"Hey, fuck Fontaine!",,N,Bidlcl278,Bidlcl280
+Bidlcl280,SMUGGLERS’ HIDEOUT,,Ghost 1,You don’t fuck Fontaine. Fontaine fucks you.,,N,Bidlcl279,Bidlcl281
+Bidlcl281,SMUGGLERS’ HIDEOUT,,,"[Jack enters the hole from which the ghosts come out, and immediately after that the Atlas contacts him.]",,Y,Bidlcl280,Bidlcl282
+Bidlcl282,SMUGGLERS’ HIDEOUT,,Atlas,You got it! Should be smooth sailing from here. I’ll meet you up ahead!,,N,Bidlcl281,Bidlcl283
+Bidlcl283,SMUGGLERS’ HIDEOUT,,,[Jack is moving forward.],,Y,Bidlcl282,Bidlcl284
+Bidlcl284,SMUGGLERS’ HIDEOUT,,Atlas,"I’m right outside the submarine bay, but I can’t get in. I’ll need you for that. My family can’t be more than a hundred yards away.",,N,Bidlcl283,Bidlcl285
+Bidlcl285,SMUGGLERS’ HIDEOUT,,,[Jack finds a warehouse of smugglers.],,Y,Bidlcl284,Bidlcl286
+Bidlcl286,SMUGGLERS’ HIDEOUT,,,[Meeting with Fontaine],,Y,Bidlcl285,Bidlcl287
+Bidlcl287,SMUGGLERS’ HIDEOUT,,Peach Wilkins,"We all come down here, figured we’d all be part of Ryan’s Great Chain. Turns out Ryan’s chain is made of gold, and ours are the sort with the big iron ball around your ankle. He’s up in Fort Frolic banging fashion models... we’re down in this dump yanking guts outta fish. Fontaine’s promising something better. He’s like one-a us, you know, like he’s worked a day in his life. He says meet him at his fish-packing joint at 11. I’ll go, bring a couple of guys. Hey, it’s not like things could get a lot worse.",,N,Bidlcl286,Bidlcl288
+Bidlcl288,SMUGGLERS’ HIDEOUT,,,[Jack continues to explore the tunnels until he finds his goal - a dock for the submarines.],,Y,Bidlcl287,Bidlcl289
+Bidlcl289,SMUGGLERS’ HIDEOUT,,Atlas,"Hit the switch up there in the control booth, and let me in. I think it’s time to shake hands and get acquainted.",,N,Bidlcl288,Bidlcl290
+Bidlcl290,SMUGGLERS’ HIDEOUT,,Andrew Ryan,"You’ve had your fun, but enough is enough... If you press that button, you’ll learn what it means to truly be my enemy.",,N,Bidlcl289,Bidlcl291
+Bidlcl291,SMUGGLERS’ HIDEOUT,,,[Jack finds the switch and clicks on it.],,Y,Bidlcl290,Bidlcl292
+Bidlcl292,SMUGGLERS’ HIDEOUT,,,[Something breaks - the siren starts screaming and the wharf are flooding with splicers.],,Y,Bidlcl291,Bidlcl293
+Bidlcl293,SMUGGLERS’ HIDEOUT,,Atlas,"You blow a fuse up there? Can’t see a damn thing in that booth. Give me a tick, and I’ll get you out of there. Moira! Can you hear me in me there, darling?",,N,Bidlcl292,Bidlcl294
+Bidlcl294,SMUGGLERS’ HIDEOUT,,Andrew Ryan,So dark in here... if only your friend could look up and see you.. maybe you could warn him... if only you could do something... anything... except just stand here… and watch him die...,,N,Bidlcl293,Bidlcl295
+Bidlcl295,SMUGGLERS’ HIDEOUT,,Atlas,"Splicers! They’re everywhere! I can’t hold ‘em, got to fall back! Get me family out and we’ll regroup as soon as we can!",,N,Bidlcl294,Bidlcl296
+Bidlcl296,SMUGGLERS’ HIDEOUT,,,"[Jack goes to the submarine, fight his way through the crowds of enemies.]",,Y,Bidlcl295,Bidlcl297
+Bidlcl297,SMUGGLERS’ HIDEOUT,,Atlas,Get out if you can! Get out and we’ll regroup!,,N,Bidlcl296,Bidlcl298
+Bidlcl298,SMUGGLERS’ HIDEOUT,,,[Jack goes on.],,Y,Bidlcl297,Bidlcl299
+Bidlcl299,SMUGGLERS’ HIDEOUT,,,[Kraut Scientist],,Y,Bidlcl298,Bidlcl300
+Bidlcl300,SMUGGLERS’ HIDEOUT,,Fontaine,"Spent the morning jawing with that Kraut scientist. She’s damaged goods, all right. Just like all those chumps they scraped out of them prison camps. But she’s no crackpot... she’s gonna make me the kinda scratch that’ll have Ryan look like he’s runnin’ a paper route. She just needs some supplies to get the ball rolling... and a friend to watch her back.",,N,Bidlcl299,Bidlcl301
+Bidlcl301,SMUGGLERS’ HIDEOUT,,,"[When a hero approaches a submarine, an explosion occurs.]",,Y,Bidlcl300,Bidlcl302
+Bidlcl302,SMUGGLERS’ HIDEOUT,,Atlas,The sub! Noooo!,,N,Bidlcl301,Bidlcl303
+Bidlcl303,SMUGGLERS’ HIDEOUT,,Andrew Ryan,"You ooze in like an assassin and then try to sneak out like thief. You’re no CIA spook. Who are you? Why have you come here? There’s two ways to deal with the mystery... uncover it, or eliminate it.",,N,Bidlcl302,Bidlcl304
+Bidlcl304,SMUGGLERS’ HIDEOUT,,Atlas,Get out... Get out and get to Arcadia... Jesus Christ...,,N,Bidlcl303,Bidlcl305
+Bidlcl305,SMUGGLERS’ HIDEOUT,,,[Offered a Deal],,Y,Bidlcl304,Bidlcl306
+Bidlcl306,SMUGGLERS’ HIDEOUT,,Peach Wilkins,"The Irish porkpie offered me a deal. I flip ‘em Fontaine, and I walk out of here. That simple. How do I know that fat fuck isn’t Fontaine’s guy? How do I know they’re not all Fontaine’s guy? Fontaine’s got ADAM and everybody wants it. Ryan’s got a whole lot of talk and a nice suit. Even down here, any idiot can see which way the wind is blowing.",,N,Bidlcl305,Bidlcl307
+Bidlcl307,SMUGGLERS’ HIDEOUT,,,[Jack sits down in the bathysphere and goes to Arcadia.],,Y,Bidlcl306,Bidlcl308
+Bidlcl308,ARCADIA,,,"[Jack arrives in Arcadia. Upon arrival, Atlas contacts him.]",,Y,Bidlcl307,Bidlcl309
+Bidlcl309,ARCADIA,,Atlas,"Moira... Patrick... Ain’t that just like Ryan, wait until we’re almost out, and then he pulls the string. We’ll find the bastard, we’ll find him and we’ll tear his heart out.",,N,Bidlcl308,Bidlcl310
+Bidlcl310,ARCADIA,,Andrew Ryan,"I come to this place to build the impossible. You come to rob what you could never build, a Hun gaping at the gates of Rome. Even the air you breathe is sponged from my account. Well, breathe deep... so later you might remember the taste.",,N,Bidlcl309,Bidlcl311
+Bidlcl311,ARCADIA,,Atlas,You get to the Bathysphere in the Rolling Hills. That’ll take you straight to the devil himself. And then all debts will be paid in full.,,N,Bidlcl310,Bidlcl312
+Bidlcl312,ARCADIA,,,[Jack explores the Tea Garden],,Y,Bidlcl311,Bidlcl313
+Bidlcl313,ARCADIA,,,[Seeing Ghosts],,Y,Bidlcl312,Bidlcl314
+Bidlcl314,ARCADIA,,Bill McDonagh,Seems like some poor blighters have started seeing ghosts. Ghosts! Ryan tells me it’s a side effect of this Plasmid business. One poor sod’s memories getting passed on to another through genetic sampling. Leaks. Lunatics. Rebellion. And now bleeding ghosts. Ain’t life in Rapture grand?,,N,Bidlcl313,Bidlcl315
+Bidlcl315,ARCADIA,,,[Big Night Out],,Y,Bidlcl314,Bidlcl316
+Bidlcl316,ARCADIA,,Dieter Sonnekalb,"What a night I got lined up. Everything’s ready. Flowers, bottle of wine, even two tickets to the Tea Garden. Nothing gets the betties in the mood like nighttime in Arcadia. Now I just gotta stop by the Thrifty Care to pick up a med hypo, just to be safe. Word is this ain’t Angelina’s first visit to the Tea Garden...",,N,Bidlcl315,Bidlcl317
+Bidlcl317,ARCADIA,,,[Mass Producing ADAM],,Y,Bidlcl316,Bidlcl318
+Bidlcl318,ARCADIA,,Tenenbaum,"The augmentation procedure is a success. The slugs alone could not provide enough ADAM for serious work. But combined with the host... now we have something. The slug is embedded in the lining of the host’s stomach and after the host feeds we induce regurgitation, and then we have twenty, thirty times yield of usable ADAM. The problem now is the shortage of hosts. Fontaine says, ""Patience, Tenenbaum. Soon the first home for Little Sisters will be open, and that problem will be solved...""",,N,Bidlcl317,Bidlcl319
+Bidlcl319,ARCADIA,,,[Arcadia Closed],,Y,Bidlcl318,Bidlcl320
+Bidlcl320,ARCADIA,,Julie Langford,"Today Arcadia was closed off to all but paying customers. The man hires me to build a forest at the bottom of the ocean, and then turns a walk in the woods into a luxury. Ryan asked, ""Should a farmer not be able to sell his food?"" ""Is a potter not entitled to a profit from his pots?"" I started to argue with the man and then I remembered who signed my checks. Only thing worse than a hypocrite is an unemployed one.",,N,Bidlcl319,Bidlcl321
+Bidlcl321,ARCADIA,,,"[Jack with a battle breaks through to the Tree Farm, where he meets Rosie, kills her and saves the Little Sister.]",,Y,Bidlcl320,Bidlcl322
+Bidlcl322,ARCADIA,,,[Jack approaches the Upper Rolling Hills.],,Y,Bidlcl321,Bidlcl323
+Bidlcl323,ARCADIA,,Atlas,Rolling Hill is over younder... And the bathypshere station is as well. And then straight on to Ryan.,,N,Bidlcl322,Bidlcl324
+Bidlcl324,ARCADIA,,Andrew Ryan,"On the surface, I once bought a forest. The Parasites claimed that the land belonged to God, and demanded that I establish a public park there. Why? So the rubble could stand slack—jawed under the canopy, and pretend that it was Paradise earned. When Congress moved to nationalize my forest, I burnt it to the ground. God did not plant the seeds of this Arcadia. I did.",,N,Bidlcl323,Bidlcl325
+Bidlcl325,ARCADIA,,,[Jack approaches the entrance to the metro station but the room suddenly starts to fill with the green gas.],,Y,Bidlcl324,Bidlcl326
+Bidlcl326,ARCADIA,,Atlas,"This isn’t right... I’m gonna need you to listen to me. I’m no sort of, botanist, but I think Ryan has just killed Arcadia... the man’s put something foul into the air. Bottom of the ocean, boyo. All the oxygen comes from the trees. No trees, no oxygen Give me a spell to think. Ryan’s woman in Arcadia is an old betty named Langford. An okay sort, but not above doing a dirty job for a dollar. If she’s still kicking around, I’m sure she’s gonna want to save her trees. After all, she planted the damn things.",,N,Bidlcl325,Bidlcl327
+Bidlcl327,ARCADIA,,Announcer,Oxygen levels critical. Lockdown initialed All bulkhead doors are now sealed. Thank you!,,N,Bidlcl326,Bidlcl328
+Bidlcl328,ARCADIA,,Atlas,Damn city’s built to not let anyone out in the event of this kind of emergency... either we get those trees bock... or you’re a permanent resident.,,N,Bidlcl327,Bidlcl329
+Bidlcl329,ARCADIA,,,[Jack approaches the research laboratories.],,Y,Bidlcl328,Bidlcl330
+Bidlcl330,ARCADIA,,Julie Langford,"My trees! It wasn’t you, was it? No... Ryan!... I think I’ve got a way to save the trees, it’s a genetic vector that... oh, look who I’m talking to... Could you find a sample of Rosa Gallica for me? … look in the Grotto... I’ve got to keep working while there’s time...",,N,Bidlcl329,Bidlcl331
+Bidlcl331,ARCADIA,,,[Jack explores the Upper Rolling Hills.],,Y,Bidlcl330,Bidlcl332
+Bidlcl332,ARCADIA,,,[Shouldn’t Have Come],,Y,Bidlcl331,Bidlcl333
+Bidlcl333,ARCADIA,,Mariska Lutz,"The minute we came here, Masha started screaming, ""Mama! Mama! What is that? What is that!?"" I thought she was having some kind of seizure and then I realized... trees... trees! Never saw one before, thought they were monsters. Oh, Sammy, maybe we never should have come to this place...",,N,Bidlcl332,Bidlcl334
+Bidlcl334,ARCADIA,,,[Jack explores the Lower Rolling Hills.],,Y,Bidlcl333,Bidlcl335
+Bidlcl335,ARCADIA,,,[The Saturnine],,Y,Bidlcl334,Bidlcl336
+Bidlcl336,ARCADIA,,Julie Langford,"They dress up in leaves and call themselves the Saturnine. Please. They drink human blood, and chant -- ""Harness the flame, Harness the mist!"" and believe they are touched by the ancient gods. Hah. An aging bunch of frat boys, tilting back goblets of Plasmids and calling it ambrosia.",,N,Bidlcl335,Bidlcl337
+Bidlcl337,ARCADIA,,,[Jack explores the Waterfall Grotto.],,Y,Bidlcl336,Bidlcl338
+Bidlcl338,ARCADIA,,,[The Market is Patient],,Y,Bidlcl337,Bidlcl339
+Bidlcl339,ARCADIA,,Andrew Ryan,"There has been tremendous pressure to regulate this Plasmid business. There have been side effects: blindness, insanity, death. But what use is our ideology if it is not tested? The market does not respond like an infant, shrieking at the first sign of displeasure. The market is patient, and we must be too.",,N,Bidlcl338,Bidlcl340
+Bidlcl340,ARCADIA,,,[Early Tests Promising],,Y,Bidlcl339,Bidlcl341
+Bidlcl341,ARCADIA,,Langford,"Yes, yes, yes, I KNOW about the lockdown. It’s absurd. Just give me a minute! The early Lazarus tests are very promising. If the Rosa Gallica bloom, then by God, I’ll know we’re in business...",,N,Bidlcl340,Bidlcl342
+Bidlcl342,ARCADIA,,Man in background,Hurry! The lockdown!!,,N,Bidlcl341,Bidlcl343
+Bidlcl343,ARCADIA,,Langford,Hm? Oh all right! I’m leaving! But somebody has to find a way to come back to check on these samples. They’re very important!,,N,Bidlcl342,Bidlcl344
+Bidlcl344,ARCADIA,,,[Offer a Better Product],,Y,Bidlcl343,Bidlcl345
+Bidlcl345,ARCADIA,,Andrew Ryan,"Gregory, don’t come whining to me about market forces. And don’t expect me to punish citizens for showing a little initiative. If you don’t like what Fontaine is doing, well, I suggest you find a way to offer a better product.",,N,Bidlcl344,Bidlcl346
+Bidlcl346,ARCADIA,,,[Heroes and Criminals],,Y,Bidlcl345,Bidlcl347
+Bidlcl347,ARCADIA,,Diane McClintock,"I couldn’t believe how much things had changed since I left Dr. Steinman’s office. It’s like I don’t even recognize Rapture no more. I hear they’ve been rounding up people in ’Pollo Square... I asked Ryan how could he do such things to innocents. He said, ""Innocents? If they haven’t chosen to defend Rapture, they’ve chosen to side with Atlas and his bandits"". So there are no innocents. There are heroes, and there are criminals.",,N,Bidlcl346,Bidlcl348
+Bidlcl348,ARCADIA,,,[Jack brings the sample.],,Y,Bidlcl347,Bidlcl349
+Bidlcl349,ARCADIA,,Julie Langford,"You’ve brought the Rose Galllca? Well, what are you waiting for? An engraved invitation? Send it through the pheumo!",,N,Bidlcl348,Bidlcl350
+Bidlcl350,ARCADIA,,Julie Langford,"Yes, This is perfect... perfect... Come on up to my office... I’m letting you in now... I think I’ve got just the thing to put the green back in this forest.",,N,Bidlcl349,Bidlcl351
+Bidlcl351,ARCADIA,,,[The door opens and Jack walks inside.],,Y,Bidlcl350,Bidlcl352
+Bidlcl352,ARCADIA,,,[What Won’t They Steal],,Y,Bidlcl351,Bidlcl353
+Bidlcl353,ARCADIA,,Julie Langford,"Isn’t there anything in this damn place those pagans won’t steal? Paper towels, ink pots, witch hazel, chlorophyll solution, even my back issues of National Geographic. They’re feathering their disgusting little shrines with it, I suppose. Sick bastards.",,N,Bidlcl352,Bidlcl354
+Bidlcl354,ARCADIA,,,[Teaching an Old Hound],,Y,Bidlcl353,Bidlcl355
+Bidlcl355,ARCADIA,,Julie Langford,"Who says you can’t teach an old hound new tricks? This batty plant woman spends four years coming up with ways to defoliate trees in the Pacific to scare out the Japs, and now, here I am, down at the bottom of the Atlantic, trying to figure out how to do the same thing in reverse. ADAM, ADAM, ADAM... It’s bathtub gin, times the atom bomb, times Eve with the serpent. Let’s go see what it can do.",,N,Bidlcl354,Bidlcl356
+Bidlcl356,ARCADIA,,,"[Reaching Doctor Langford’s office, Jack hears the voice of Andrew Ryan from the speakers.]",,Y,Bidlcl355,Bidlcl357
+Bidlcl357,ARCADIA,,Andrew Ryan,"Julie, we made a business deal, you and I, did we not?",,N,Bidlcl356,Bidlcl358
+Bidlcl359,ARCADIA,,Langford,Mr. Ryan?,,N,Bidlcl358,Bidlcl360
+Bidlcl360,ARCADIA,,Andrew Ryan,"’Ryan Corp maintains EXCLUSIVE rights to the creation, I use, and exploitation of the Lazarus Vector. Ownership is civilization, Julie. Without it, we’re back in the swamp...",,N,Bidlcl359,Bidlcl361
+Bidlcl361,ARCADIA,,,[The room is filled with poisonous green gas. Dr. Langford writhes in agony.],,Y,Bidlcl360,Bidlcl362
+Bidlcl362,ARCADIA,,Langford,Mr. Ryan… Wait… No! Please! ...Mr. Ryan!,,N,Bidlcl361,Bidlcl363
+Bidlcl363,ARCADIA,,,"[From the last forces, Dr. Langford writes on the glass for Jack some numbers.]",,Y,Bidlcl362,Bidlcl364
+Bidlcl364,ARCADIA,,,[After the door to the cabinet is unlocked and Atlas is contacts with Jack.],,Y,Bidlcl363,Bidlcl365
+Bidlcl365,ARCADIA,,Atlas,"Every time we get a yard ahead, Ryan goes and moves the goal line down to the other side of the field.",,N,Bidlcl364,Bidlcl366
+Bidlcl366,ARCADIA,,,[Jack examines the cabinet.],,Y,Bidlcl365,Bidlcl367
+Bidlcl367,ARCADIA,,,[The Lazarus Vector (on the body of Dr. Langford)],,Y,Bidlcl366,Bidlcl368
+Bidlcl368,ARCADIA,,Julie Langford,"I’ve been killing trees for twenty-five years. At Berkeley, back in the 20’s. On the Japs at Iwo Jima. But I never brought one back from the grave before. I did, Becky. Momma’s gonna build her first damn Franken-tree. I’m gonna call my little creation ""The Lazarus Vector."" Maybe it’ll bring the old gal’s career back from the dead as well...",,N,Bidlcl367,Bidlcl369
+Bidlcl369,ARCADIA,,,[Lazarus Vector Formula (needs a code)],,Y,Bidlcl368,Bidlcl370
+Bidlcl370,ARCADIA,,Julie Langford,"What’s the point of being a damn genius if the only ones around to appreciate it are a bunch of spliced-up morons? I’ve cracked the Vector, or at least I’m 99% certain I have. I just need a bud of Rosa Gallica to confirm my analysis. Distilled Water, a bit of chlorophyll, and enzymes extracted from Apis Mellifera. That’s right, sweethearts: honeybee spit.",,N,Bidlcl369,Bidlcl371
+Bidlcl371,ARCADIA,,,"[Jack goes to find the right components for the creation of Lazarus Serum. After some time, Atlas contacts him.]",,Y,Bidlcl370,Bidlcl372
+Bidlcl372,ARCADIA,,Atlas,"Arcadia’s a big place, but mostly rural. If you’re looking for something in particular, I’d start at the Farmer’s Market.",,N,Bidlcl371,Bidlcl373
+Bidlcl373,ARCADIA,,,[Jack enters the Tree Farm.],,Y,Bidlcl372,Bidlcl374
+Bidlcl374,ARCADIA,,,[Arcadia and Oxygen],,Y,Bidlcl373,Bidlcl375
+Bidlcl375,ARCADIA,,Julie Langford,"Now I’m a woman of science, but I’m also a woman who’s not afraid of turning a buck or two. Ryan said if I could boost profits in Arcadia, part of the up would ride on my hip. So I get to thinking, we’re paying for oxygen when we got photosynthesizing trees... Hell, we can even sell the extra to the rest of the city and undercut the other guys. Ryan will like that for sure -- Fontaine’s people have moved into the O2 biz tooth and claw.",,N,Bidlcl374,Bidlcl376
+Bidlcl376,ARCADIA,,,[Maternal Instinct],,Y,Bidlcl375,Bidlcl377
+Bidlcl377,ARCADIA,,Tenenbaum,"What makes something like me? I look at genes all day long, and never do I see the blueprint of sin. I could blame the Germans, but in truth, I did not find tormentors in the Prison Camp, but kindred spirits. These children I brutalized have awoken something inside that for most is beautiful and natural, but in me, is an abomination... my maternal instinct.",,N,Bidlcl376,Bidlcl378
+Bidlcl378,ARCADIA,,,[The Great Chain],,Y,Bidlcl377,Bidlcl379
+Bidlcl379,ARCADIA,,Andrew Ryan,"I believe in no God, no invisible man in the sky. But there is something more powerful than each of us, a combination of our efforts, a Great Chain of industry that unites us. But it is only when we struggle in our own interest that the chain pulls society in the right direction. The chain is too powerful and too mysterious for any government to guide. Any man who tells you different either has his hand in your pocket, or a pistol to your neck.",,N,Bidlcl378,Bidlcl380
+Bidlcl380,ARCADIA,,,[Jack passes through the waterproof bulkhead going to the Farmer’s Market.],,Y,Bidlcl379,Bidlcl381
+Bidlcl381,FARMER’S MARKET,,,[Jack arrives at the Farmer’s Market.],,Y,Bidlcl380,Bidlcl382
+Bidlcl382,FARMER’S MARKET,,,[Bee Enzyme],,Y,Bidlcl381,Bidlcl383
+Bidlcl383,FARMER’S MARKET,,Tasha Denu,"Julie, my dear, I am trying to run a business here. You wanna spend time with my honey bees, well, I’m gonna have to start charging you for the pleasure. If I come out one more time and find you lolling out there amongst my hives, I’m grabbing my shotgun. As to your question, yes, my days in beekeeping school are a blur, but I do seem to remember something about that enzyme you keep blabbing on about.",,N,Bidlcl382,Bidlcl384
+Bidlcl384,FARMER’S MARKET,,,[Pulling Together],,Y,Bidlcl383,Bidlcl385
+Bidlcl385,FARMER’S MARKET,,Andrew Ryan,"The children with their very long needles, their tuneless songs, their ghastly errands. Their ghoulish, Frankenstein fathers. But, we’ve all placed our hand on the Great Chain of endeavor. My hand is on it, Fontaine’s is on it -- We all pull it and are pulled by it. Yes, these children are an abomination. But it is not my hand alone on the chain that created them. No. Their little fingers were right there, next to mine.",,N,Bidlcl384,Bidlcl386
+Bidlcl386,FARMER’S MARKET,,,"[Jack encounters Rosie, kills her and saves the Little Sister.]",,Y,Bidlcl385,Bidlcl387
+Bidlcl387,FARMER’S MARKET,,Tenenbaum,"Even in the gathering dark, you light a candle. You have saved the Little Ones when you might have shown your cruelty. I’m sending something your way to demonstrate our thanks.",,N,Bidlcl386,Bidlcl388
+Bidlcl388,FARMER’S MARKET,,,[Jack continues to explore the market and looking for the ingredients for the serum.],,Y,Bidlcl387,Bidlcl389
+Bidlcl389,FARMER’S MARKET,,,[Water in Wine],,Y,Bidlcl388,Bidlcl390
+Bidlcl390,FARMER’S MARKET,,Pierre Gobbi,"In ten years in this dump, I’ve come to accept a very low standard of life. But even at the bottom of this fish tank, a man must have standards. The pathetic trou du cul down at Worley Winery has started putting water to his terrible wine... water!!! When I confronted him with this fact, he tells me, ""Pierre, this is not to worry, the water, she is distilled. It could be worse... I could take it right from the ocean...""",,N,Bidlcl389,Bidlcl391
+Bidlcl391,FARMER’S MARKET,,,[ADAM Explained],,Y,Bidlcl390,Bidlcl392
+Bidlcl392,FARMER’S MARKET,,Tenenbaum,"ADAM acts like a benign cancer, destroying native cells and replacing them with unstable stem versions. While this very instability is what gives it its amazing properties, it is also what causes the cosmetic and mental damage. You need more and more ADAM just to keep back the tide. From a medical standpoint, this is catastrophic. From a business standpoint, well... Fontaine sees the possibilities.",,N,Bidlcl391,Bidlcl393
+Bidlcl393,FARMER’S MARKET,,,"[When Jack enters the ""Worley Winery"", Atlas contacts him.]",,Y,Bidlcl392,Bidlcl394
+Bidlcl394,FARMER’S MARKET,,Atlas,"Why do they wear those masks? Maybe there’s a part of them that remembers how they used to be, how they used to look. And they’re ashamed.",,N,Bidlcl393,Bidlcl395
+Bidlcl395,FARMER’S MARKET,,,[Jack continues to search for the ingredients.],,Y,Bidlcl394,Bidlcl396
+Bidlcl396,FARMER’S MARKET,,,[Hatred],,Y,Bidlcl395,Bidlcl397
+Bidlcl397,FARMER’S MARKET,,Tenenbaum,"One of the children came and sat in my lap. I push her off, I shout, ""Get away from me!"" I can see the ADAM oozing out of the corner of her mouth, thick and green. Her filthy hair hanging in her face, dirty clothes, and that dead glow in her eye... I feel... hatred, like I never felt before, in my chest. Bitter, burning fury. I can barely breathe. And suddenly, I know, it is not this child I hate.",,N,Bidlcl396,Bidlcl398
+Bidlcl398,FARMER’S MARKET,,,[Desperate Times],,Y,Bidlcl397,Bidlcl399
+Bidlcl399,FARMER’S MARKET,,Andrew Ryan,"Doctor Suchong, frankly, I’m shocked by your proposal. If we were to modify the structure of our commercial Plasmid line as you propose, to have them make the user vulnerable to mental suggestion through pheromones, would we not be able to effectively control the actions of the citizens of Rapture? Free will is the cornerstone of this city. The thought of sacrificing it is abhorrent. However... we are indeed in a time of war. If Atlas and his bandits have their way, will they not turn us into slaves? And what will become of free will then? Desperate times call for desperate measures.",,N,Bidlcl398,Bidlcl400
+Bidlcl400,FARMER’S MARKET,,,[Functional Children],,Y,Bidlcl399,Bidlcl401
+Bidlcl401,FARMER’S MARKET,,Tenenbaum,"The children must remain functional to be effective producers of ADAM. I had hoped we could place them into vegetative state, so they would be more pliable. I find being around them very uncomfortable. Even with those things implanted in their bellies, they are still children. They play, and sing. Sometimes they look at me, and they don’t stop. Sometimes they smile.",,N,Bidlcl400,Bidlcl402
+Bidlcl402,FARMER’S MARKET,,,[First Encounter],,Y,Bidlcl401,Bidlcl403
+Bidlcl403,FARMER’S MARKET,,Andrew Ryan,"On my walk today I had my first encounter with a pair of them... he, a lumbering palooka in a foul-smelling diving suit, and she, an unwashed moppet in a filthy pink smock. Her pallor was off, green and morbid, and there was a rather unpleasant aspect to her demeanor, as if she were in an altogether different place than the rest of us. … I understand the need for such creatures, I just wish they could make them more presentable.",,N,Bidlcl402,Bidlcl404
+Bidlcl404,FARMER’S MARKET,,,"[After Jack has collected all the ingredients, Atlas contacts him.]",,Y,Bidlcl403,Bidlcl405
+Bidlcl405,FARMER’S MARKET,,Atlas,"Do you have all the components for the Lazarus Vector yet? If you do, best head to a crafting station. Then, head back to Langford’s lab and put the whole witch’s brew in the mister. That should clear this fog right up.",,N,Bidlcl404,Bidlcl406
+Bidlcl406,FARMER’S MARKET,,,"[Jack finds the rack ""U-INVENT"" and makes the Lazarus Serum.]",,Y,Bidlcl405,Bidlcl407
+Bidlcl407,FARMER’S MARKET,,Atlas,"From the sounds of that U-Invent, I’m guessing you’re the proud papa of a brand new Lazarus Vector. Now drop the Vector into a gadget called the Central Misting Control. Then we’ll be cooking with gas.",,N,Bidlcl406,Bidlcl408
+Bidlcl408,FARMER’S MARKET,,,[Jack returns to Arcadia.],,Y,Bidlcl407,Bidlcl409
+Bidlcl409,FORT FROLIC,,,[Jack arrives in Arcadia. On arrival Andrew Ryan contacts him.],,Y,Bidlcl408,Bidlcl410
+Bidlcl410,FORT FROLIC,,Andrew Ryan,"Don’t fight the inevitable. You’ll run out of oxygen soon, and then you’ll just go to sleep.",,N,Bidlcl409,Bidlcl411
+Bidlcl411,FORT FROLIC,,,[Jack goes to the research laboratories.],,Y,Bidlcl410,Bidlcl412
+Bidlcl412,FORT FROLIC,,,"[In the labs, Jack meets another Rosie and kills her, saving the Little Sister.]",,Y,Bidlcl411,Bidlcl413
+Bidlcl413,FORT FROLIC,,,"[Entering Dr. Langford’s office, Jack places the Lazarus Serum in a spraying mechanism, and then the Atlas contacts him.]",,Y,Bidlcl412,Bidlcl414
+Bidlcl414,FORT FROLIC,,Atlas,"Ah, listen to that damn thing gurgle and crank. How long is it going to take?",,N,Bidlcl413,Bidlcl415
+Bidlcl415,FORT FROLIC,,Andrew Ryan,It seems Julie’s death didn’t provide a clear enough lesson to you. Perhaps this will suffice.,,N,Bidlcl414,Bidlcl416
+Bidlcl416,FORT FROLIC,,Atlas,Ryan’s got your number. No doubt he’ll be sending company. Best to head back to the lab entrance and seal her up... might be the only way to keep the splicers out.,,N,Bidlcl415,Bidlcl417
+Bidlcl417,FORT FROLIC,,,[Jack repels the attack of the splicers.],,Y,Bidlcl416,Bidlcl418
+Bidlcl418,FORT FROLIC,,Atlas,"What are you waiting for boyo? Ryan’s lads are on their way... get the lab entrance sealed! I’ve sent you a wee package through the pneumo. It’s not much, but every little bit counts.",,N,Bidlcl417,Bidlcl419
+Bidlcl419,FORT FROLIC,,,"[Jack blocks the entrance to the laboratory, however, it is almost immediately started to be burned with a blowtorch.]",,Y,Bidlcl418,Bidlcl420
+Bidlcl420,FORT FROLIC,,Atlas,"Did you get that door closed? Good. That should buy some time. Oh, Christ. Here they come.",,N,Bidlcl419,Bidlcl421
+Bidlcl421,FORT FROLIC,,,[Jack repels attacks of the splicers. Readiness of Lazarus Serum is 1/3.],,Y,Bidlcl420,Bidlcl422
+Bidlcl422,FORT FROLIC,,Atlas,"For Christ’s sake, how long is that damn vector gonna take to cook?",,N,Bidlcl421,Bidlcl423
+Bidlcl423,FORT FROLIC,,,[Jack continues to repel attacks of the splicers. Lazarus Serum is ready for 2/3.],,Y,Bidlcl422,Bidlcl424
+Bidlcl424,FORT FROLIC,,Atlas,You’re about halfway There. Keep your hand on the throttle. Ryan’s skin jobs aren’t the type to gel complacent.,,N,Bidlcl423,Bidlcl425
+Bidlcl425,FORT FROLIC,,,[Jack continues to repel the attacks of the splicers. The Lazarus Serum is ready.],,Y,Bidlcl424,Bidlcl426
+Bidlcl426,FORT FROLIC,,Atlas,What was that? Is the vector ready? What are you waiting for? Hit the damn switch!,,N,Bidlcl425,Bidlcl427
+Bidlcl427,FORT FROLIC,,,[Jack presses the switch in Dr. Langford’s office. The spray of poison stops and the forest begins to recover.],,Y,Bidlcl426,Bidlcl428
+Bidlcl428,FORT FROLIC,,Atlas,"Well done, lad. Take a deep breath and enjoy it - and then head over to Rolling Hills and get the bathysphere. Next stop is Ryan’s house. It’s time for blood.",,N,Bidlcl427,Bidlcl429
+Bidlcl429,FORT FROLIC,,Andrew Ryan,"Why are you so resistant to the traditional methods of separating a man from his soul? You’re not CIA, are you? You belong to Atlas. The one roach I can’t seem to exterminate. Don’t worry. I just need time to find the proper poison.",,N,Bidlcl428,Bidlcl430
+Bidlcl430,FORT FROLIC,,,[Jack sits in the bathysphere and goes to Fort Frolic.],,Y,Bidlcl429,Bidlcl431
+Bidlcl431,FORT FROLIC,,,"[Jack arrives at Fort Frolic. Upon arrival, Atlas contacts him.]",,Y,Bidlcl430,Bidlcl432
+Bidlcl432,FORT FROLIC,,Atlas,You’re almost there. The sphere to Ryan is up on ahead.,,N,Bidlcl431,Bidlcl433
+Bidlcl433,FORT FROLIC,,Atlas,"Ryan’s handed the keys to Fort Frolic over to guy named Sander Cohen. Cohen’s an artist, says some. He’s a Section Eight. says I.",,N,Bidlcl432,Bidlcl434
+Bidlcl434,FORT FROLIC,,,"[Jack tries to sit on the bathysphere, but it swims away, and the gate to it is closes. Sander Cohen contacts Jack over on the radio.]",,Y,Bidlcl433,Bidlcl435
+Bidlcl435,FORT FROLIC,,Sander Cohen,"Ah, that’s better… Atlas, Ryan, Atlas, Ryan, duh duh duh, duh duh dudg... Time was you could get something decent on the radio. The artist has a duty to seduce the ear and delight the spirit… so say goodbye to those two blowhords and hello, to on evening with Sander Cohen!",,N,Bidlcl434,Bidlcl436
+Bidlcl436,FORT FROLIC,,,"[When Jack leaves the subway station, Sander Cohen contacts him again.]",,Y,Bidlcl435,Bidlcl437
+Bidlcl437,FORT FROLIC,,Sander Cohen,"Now, I haven’t seen a sign of real life down here in months. Let’s see if you’re just another Johnny come lately… or maybe something more delicious...",,N,Bidlcl436,Bidlcl438
+Bidlcl438,FORT FROLIC,,,[After Jack defeats several splicers.],,Y,Bidlcl437,Bidlcl439
+Bidlcl439,FORT FROLIC,,Sander Cohen,"Ohhh. Icon smell the molt vinegar in this one. I’ve waited so long for something tasty to come to this little burg, but all that pass ore yokels and rubes… Where are my manners? Come in! Come in!!! Sander Cohen awaits you… at the Fleet Hall!!!",,N,Bidlcl438,Bidlcl440
+Bidlcl440,FORT FROLIC,,,[Jack enters the atrium.],,Y,Bidlcl439,Bidlcl441
+Bidlcl441,FORT FROLIC,,Sander Cohen,"WELCOME - to - Fort – Frolic! No need to thank me for jamming the transmissions of those boors Atlas and Ryan. Let them have their squabble the artist, yes, the artist knows there is richer earth to tilt... For example, I test you, little moth, but for a reason. I test all my disciples. Some shine like galaxies... and some... some burn like a moth at the flame! Come now... into my home.",,N,Bidlcl440,Bidlcl442
+Bidlcl442,FORT FROLIC,,,[Jack examines the cocktail lounge.],,Y,Bidlcl441,Bidlcl443
+Bidlcl443,FORT FROLIC,,,[Come to the Record Store],,Y,Bidlcl442,Bidlcl444
+Bidlcl444,FORT FROLIC,,Silas Cobb,"You wanna lock us in, old man? Oh, that’s fine with Cobbsie. I used to love you. I used to think you were a musical genius. You know why? Because you paid my rent, you ancient hack! Come on to the record store, I’ll show you what I think of your plinkity, plink, plink!",,N,Bidlcl443,Bidlcl445
+Bidlcl445,FORT FROLIC,,,[The Wild Bunny],,Y,Bidlcl444,Bidlcl446
+Bidlcl446,FORT FROLIC,,Sander Cohen,"The Wild Bunny by Sander Cohen: I want to take the ears off, but I can’t. I hop, and when I hop, I never get off the ground. It’s my curse, my eternal curse! I want to take the ears off but I can’t! It’s my curse! It’s my fucking curse! I want to take the ears off! Please! Take them off! Please!",,N,Bidlcl445,Bidlcl447
+Bidlcl447,FORT FROLIC,,,[Artist’s Feud],,Y,Bidlcl446,Bidlcl448
+Bidlcl448,FORT FROLIC,,Sullivan,"I worked the meatball beat in Little Italy, and even I’m shocked at the cold blood that oozes out of these artistic types. This broad Culpepper and that fruitjob Cohen are in some kind of feud, and Cohen’s lookin’ for MY security detail to pick sides. The next thing I know I’m called into Ryan’s office to talk about the whole mess. Goddamn nutjob artists.",,N,Bidlcl447,Bidlcl449
+Bidlcl449,FORT FROLIC,,,"[Jack examines ""Le Marquis D’Epoque""]",,Y,Bidlcl448,Bidlcl450
+Bidlcl450,FORT FROLIC,,,[Fancy Cigarettes],,Y,Bidlcl449,Bidlcl451
+Bidlcl451,FORT FROLIC,,Albert Milonakis,"Some hired Betty tried to sell me on those fancy Oxford Club ciggies. Mmm -- no thanks. I told her, I’m a Nico Time man, always will be. Why? They smoke good, and don’t cost half a damn. Who cares if the things are made out of sea shells and fish eggs?",,N,Bidlcl450,Bidlcl452
+Bidlcl452,FORT FROLIC,,,[Jack enters the elevator and goes up.],,Y,Bidlcl451,Bidlcl453
+Bidlcl453,FORT FROLIC,,Sander Cohen,No! No! No!,,N,Bidlcl452,Bidlcl454
+Bidlcl454,FORT FROLIC,,Fitzpatrick,"Mr. Cohen, please...",,N,Bidlcl453,Bidlcl455
+Bidlcl455,FORT FROLIC,,Sander Cohen,"SILENCE!!! Allegro… Allegro! Do, Do, Do, Do, Do, DA, Presto... Presto!!! NO!!! No!!! Once again, young Fitzpatrick. Come down now, little moth. Life, death... the burden gt the artist is to... capture! See young Fitzpatrick here on the stage... Use your camera... take him as he is now... so I may remember him... And now you’ve got Fitzpatrick, caught in his moment of glory. It seems you’ve got the eye of the shutterbug, little moth! Now head to the atrium and place his photograph in my masterpiece... and so our collaboration commences.",,N,Bidlcl454,Bidlcl456
+Bidlcl456,FORT FROLIC,,,"[If Jack manages to get a new tonic ""Security Expert"" by jumping to a nearby balcony, he hears the following comment.]",,Y,Bidlcl455,Bidlcl457
+Bidlcl457,FORT FROLIC,,Sander Cohen,What on outstanding display of athleticism!,,N,Bidlcl456,Bidlcl458
+Bidlcl458,FORT FROLIC,,,"[After a while, Sander again contacts with Jack.]",,Y,Bidlcl457,Bidlcl459
+Bidlcl459,FORT FROLIC,,Sander Cohen,"I know why you’ve come, little moth. You’ve your own canvas, one you’ll point with the blood of a man I once loved… Yes, I’ll send you to Ryan, but first you must be part of my masterpiece. Go to the atrium. Hurry now... my muse is a fickle bitch a very short attention span...",,N,Bidlcl458,Bidlcl460
+Bidlcl460,FORT FROLIC,,,[Jack examines the upper atrium.],,Y,Bidlcl459,Bidlcl461
+Bidlcl461,FORT FROLIC,,,[Stood Up Again],,Y,Bidlcl460,Bidlcl462
+Bidlcl462,FORT FROLIC,,Diane McClintock,"Stood up! Again... Second time this week. Ever since my face was... Steinman worked on me, but it was never the same since the blast... Being alone so much gives a girl time to think. Who could hate me so much they’d ruin me like this? What did I do to them? I keep thinking of all them bandits and terrorists Ryan’s got locked up in Apollo Square and I get so mad... sometimes I can hardly breathe... if I could only confront them, tell them what they did to me, how they’re ruining everything for me, for Rapture... maybe I’d... well, maybe I’d feel better.",,N,Bidlcl461,Bidlcl463
+Bidlcl463,FORT FROLIC,,,[Musical Insult],,Y,Bidlcl462,Bidlcl464
+Bidlcl464,FORT FROLIC,,Sander Cohen,"Regarding your review of Anna Culpepper’s latest musical insult: Of all of the worthy artists in Rapture, why you continue to devote column inches to this musical GREMLIN is beyond my imagination. Where she is not derivative, she’s boring. Where she’s not boring, she’s obvious. Where she’s not obvious, she’s dangerous!",,N,Bidlcl463,Bidlcl465
+Bidlcl465,FORT FROLIC,,,[Requiem for Andrew Ryan],,Y,Bidlcl464,Bidlcl466
+Bidlcl466,FORT FROLIC,,Sander Cohen,"I could have been the toast of Broadway, the talk of Hollywood. But, instead, I followed you to this soggy bucket. When you needed my star light, I illuminated you. But now I rot, waiting for an audience that doesn’t... ever... come... I’m writing something for you, Andrew Ryan... it’s a requiem.",,N,Bidlcl465,Bidlcl467
+Bidlcl467,FORT FROLIC,,,[The Doubters],,Y,Bidlcl466,Bidlcl468
+Bidlcl468,FORT FROLIC,,Sander Cohen,"Rapture’s going to hell, and why? Because of them... always behind the scenes. At the Lyceum, at the galleries in Soho, even down here, in this so-called-Utopia. The Doubters. But Ryan understands. We’re simpatico... Yes, there’s blood in the streets. Yes, people sometimes... disappear. And those awful little girls... Well, I suppose the Doubters think you can paint a picture without soiling your smock...",,N,Bidlcl467,Bidlcl469
+Bidlcl469,FORT FROLIC,,,"[Jack finds ""Sander Cohen’s Masterpiece.""]",,Y,Bidlcl468,Bidlcl470
+Bidlcl470,FORT FROLIC,,Sander Cohen,"Do you see it? When I am dust, this is what they’ll point to! Go ahead, don’t be afraid, touch it... Yes, and there’s Fitzpatrick, freed of his own kinks and defects. And here’s the glorious news... this is just the moment of conception.. out in this place, there are three men, oil former disciples of mine, all connected by a common thread... betrayal. Find them, little moth, and immortalize their morality in my quadtych. Go. Once they’ve been sent to their reward, you shall go to yours... and To Ryan...",,N,Bidlcl469,Bidlcl471
+Bidlcl471,FORT FROLIC,,,"[Jack goes to ""Poseidon"".]",,Y,Bidlcl470,Bidlcl472
+Bidlcl472,FORT FROLIC,,,[The Iceman Cometh],,Y,Bidlcl471,Bidlcl473
+Bidlcl473,FORT FROLIC,,Martin Finnegan,"You think you gonna finish me in here, you old fruit? The other saps you tossed in this meat locker all panicked like rabbits. I just watched and waited. And when they started to kick, I started to scavenge. Made myself a little Splicer cocktail, I did. If you can’t come in from the cold, then you gotta grow ice over your heart. And the iceman cometh, Sander baby. The iceman fucking cometh.",,N,Bidlcl472,Bidlcl474
+Bidlcl474,FORT FROLIC,,,[Jack finds Martin Finnegan.],,Y,Bidlcl473,Bidlcl475
+Bidlcl475,FORT FROLIC,,Martin Finnegan,I can see your breath!,,N,Bidlcl474,Bidlcl476
+Bidlcl476,FORT FROLIC,,,[After the victory at Martin Finnegan.],,Y,Bidlcl475,Bidlcl477
+Bidlcl477,FORT FROLIC,,Sander Cohen,"That was bracing. Take a photo of him, and place it in the quadtych. I’m feeling full, like an expected mama.",,N,Bidlcl476,Bidlcl478
+Bidlcl478,FORT FROLIC,,,"[Jack carry the photo to the ""Masterpiece"".]",,Y,Bidlcl477,Bidlcl479
+Bidlcl479,FORT FROLIC,,Sender Cohen,"Yes! Now put the picture in the frame! Let’s see what we’ve got here! It’s coming together... yes... but there will always be Doubters. You don’t doubt me, do you? I could never stomach Doubsters.",,N,Bidlcl478,Bidlcl480
+Bidlcl480,FORT FROLIC,,,"[Jack goes to Poseidon Square and inspects the ""Sir Prize""]",,Y,Bidlcl479,Bidlcl481
+Bidlcl481,FORT FROLIC,,,[Fontaine’s Army],,Y,Bidlcl480,Bidlcl482
+Bidlcl482,FORT FROLIC,,Bill McDonagh,"Fontaine knew our blokes were coming. We were done over. Them Splicers come screaming out the woodwork. Burping fire, spitting ice... demons out of the Bible, they were. Never seen nothing like it. It wasn’t a business he was building, it was an army.",,N,Bidlcl481,Bidlcl483
+Bidlcl483,FORT FROLIC,,,"[Jack enters the ""Pharaoh’s Fortune.""]",,Y,Bidlcl482,Bidlcl484
+Bidlcl484,FORT FROLIC,,,[Bump Culpepper?],,Y,Bidlcl483,Bidlcl485
+Bidlcl485,FORT FROLIC,,Sullivan,I just got the word to put the bump on Anna Culpepper. This isn’t some gangster or hard-nosed political operative. We’re talking about a dizzy twist what wrote a song or two that got under Ryan’s wig.,,N,Bidlcl484,Bidlcl486
+Bidlcl486,FORT FROLIC,,,[Jack enters the “Robertson’s Tobacco”.],,Y,Bidlcl485,Bidlcl487
+Bidlcl487,FORT FROLIC,,,[Guns Blazing],,Y,Bidlcl486,Bidlcl488
+Bidlcl488,FORT FROLIC,,Bill McDonagh,"The good people of Rapture didn’t sign up to see us government-types shutting down shops, killing their owners... even with a ponce like Fontaine. But he brung it upon himself. ’Stead of copping it on the chin, bugger gets into his ’ead that he’s gonna go down guns blazing. Who does he think he is? John bloody Wayne? We can get on top of this. We can. Here’s what we do: we find Fontaine’s will and make what was his go to where it was intended -- and not into the pockets of us that put ’im into the ground.",,N,Bidlcl487,Bidlcl489
+Bidlcl489,FORT FROLIC,,,"[Jack enters the ""Eve Garden"" and sees the ghost of the dancer.]",,Y,Bidlcl488,Bidlcl490
+Bidlcl490,FORT FROLIC,,Jasmine Jolene,"Well, If it isn’t the long lost Andrew Ryan. Come here, tiger...",,N,Bidlcl489,Bidlcl491
+Bidlcl491,FORT FROLIC,,,[Jack follows the ghost behind the scene.],,Y,Bidlcl490,Bidlcl492
+Bidlcl492,FORT FROLIC,,Jasmine Jolene,I thought you had forgotten about poor Jasmine. But I’m glad you didn’t.,,N,Bidlcl491,Bidlcl493
+Bidlcl493,FORT FROLIC,,,"[Jack comes to the closed door, behind which the voice of Jasmine is heard. After her speech, the door opens.]",,Y,Bidlcl492,Bidlcl494
+Bidlcl494,FORT FROLIC,,Jasmine Jolene,"I’m sorry, Mr. Ryan, I didn’t know… I didn’t know Fontaine had something to do with it... I... wha- What are you doing? No, don’t, please! I loved you don’t, don’t please... No! No!!",,N,Bidlcl493,Bidlcl495
+Bidlcl495,FORT FROLIC,,,[Jack finds a diary next to the corpse.],,Y,Bidlcl494,Bidlcl496
+Bidlcl496,FORT FROLIC,,,[Pregnancy],,Y,Bidlcl495,Bidlcl497
+Bidlcl497,FORT FROLIC,,Jasmine Jolene,"That creepy Dr. Tenenbaum promised me it wasn’t gonna be a real pregnancy, they’d just take the egg out once Mr. Ryan and I had... I needed the money so bad... But I know Mr. Ryan’s gonna suss it out, gonna know I wasn’t being careful... gonna know I sold the... Mr. Ryan’s gonna be so mad at me...",,N,Bidlcl496,Bidlcl498
+Bidlcl498,FORT FROLIC,,,"[After, Jack goes to the bar and sees his next goal - Hector Rodriguez. Jack kills him.]",,Y,Bidlcl497,Bidlcl499
+Bidlcl499,FORT FROLIC,,Sander Cohen,"He was a lout. But he was vigorous. Get the photo before he completely dries up. You flutter all around the Fort, taking life as you go. You’re not a moth... you’re an angel. I’ve never painted an angel… maybe I should...",,N,Bidlcl498,Bidlcl500
+Bidlcl500,FORT FROLIC,,,"[Jack continues to inspect the ""Eve Garden.""]",,Y,Bidlcl499,Bidlcl501
+Bidlcl501,FORT FROLIC,,,[It’s All Grift],,Y,Bidlcl500,Bidlcl502
+Bidlcl502,FORT FROLIC,,Hector Rodriguez,"You know what? Art... music... poetry... It’s all grift. Cohen’s got Ryan wrapped around his lil’ pinky... and why? Because he tells him what he wants to hear. ""Rise, Rapture, Rise!"" Nuts! That stuff was stale before it came out Cohen’s pen. I’m through with the whole piñata. Let’s see that old fruit try an’ keep me here...",,N,Bidlcl501,Bidlcl503
+Bidlcl503,FORT FROLIC,,,[Jack kills yet another Big Daddy and rescues the Little Sister. Then Tenenbaum contacts him.],,Y,Bidlcl502,Bidlcl504
+Bidlcl504,FORT FROLIC,,Tenenbaum,"The Little Ones have never had anyone to look to... except for me... and I am not much to speak of. You give them hope. And for this, I am grateful. I’ll send something to demonstrate that gratitude.",,N,Bidlcl503,Bidlcl505
+Bidlcl505,FORT FROLIC,,,"[Jack returns to the ""Masterpiece"" and places the photo.]",,Y,Bidlcl504,Bidlcl506
+Bidlcl506,FORT FROLIC,,Sander Cohen,"That’s three of four.. what’s that look- you dam don’t like it, do you? I don’t need to be judged by you... by anyone... screw you! Screw all you fucking Doubters!!! Here’s what I say to all of you!!!",,N,Bidlcl505,Bidlcl507
+Bidlcl507,FORT FROLIC,,,"[A lot of splicers appears. As long as Jack deals with them, he hears the following.]",,Y,Bidlcl506,Bidlcl508
+Bidlcl508,FORT FROLIC,,Sander Cohen,Smile! SMILE!,,N,Bidlcl507,Bidlcl509
+Bidlcl509,FORT FROLIC,,,[When Jack kills all the splicers. Cohen contacts him again.],,Y,Bidlcl508,Bidlcl510
+Bidlcl510,FORT FROLIC,,Sander Cohen,"I’m sorry for that outburst. You’ll have to forgive an old fool his artistic temperament. The birth is so close now... the labor pains can blur the judgment, and drive the passions of even the finest spirits...",,N,Bidlcl509,Bidlcl511
+Bidlcl511,FORT FROLIC,,,"[Jack returns to Poseidon Square and inspects ""Rapture Records."" The door behind him locks and he hears a voice while he is attacked by security robots and splicers.]",,Y,Bidlcl510,Bidlcl512
+Bidlcl512,FORT FROLIC,,Cobb,"My collection’s almost complete. Then we’ll see who The REAL artist is down here. Tell The old crow his music cooks better than it sounds! You Cohen’s messenger boy? I’ve got something for that crow! Spend a little time with my kittens, sugar! It’s all a game, errand boy! Cohen, Ryan! Two old birds pulling on each others milk sticks! My kittens! You murdered my kittens!",,N,Bidlcl511,Bidlcl513
+Bidlcl513,FORT FROLIC,,,[Jack kills Cobb.],,Y,Bidlcl512,Bidlcl514
+Bidlcl514,FORT FROLIC,,Sander Cohen,"He was a nasty one... and my favorite. But I think I like him better this way. Take his damn picture, chop chop.",,N,Bidlcl513,Bidlcl515
+Bidlcl515,FORT FROLIC,,,"[Jack finds a diary in ""Rapture Records.""]",,Y,Bidlcl514,Bidlcl516
+Bidlcl516,FORT FROLIC,,,[Ryan’s Stableboy],,Y,Bidlcl515,Bidlcl517
+Bidlcl517,FORT FROLIC,,Anna Culpepper,"Cohen’s not a musician. He’s Ryan’s stable boy. Ryan’s corrupt policies crap all over the place, and Cohen flutters around clearing it up. But instead of using a shovel, like you would with a proper mule, Cohen tidies with a catchy melody and a clever turn of phrase. But no matter how nicely it sounds, he can’t really do anything about the smell...",,N,Bidlcl516,Bidlcl518
+Bidlcl518,FORT FROLIC,,,"[Jack again goes to the atrium and finishes the ""Masterpiece.""]",,Y,Bidlcl517,Bidlcl519
+Bidlcl519,FORT FROLIC,,Sander Cohen,"It... is... accomplished! Let me see it! My God... My God... It’s... It’s beautiful! You find your path to Ryan is now clear. Tell him Sanders says hello. Oh, yes! You man avail yourself in one of my lesser work as a token of our time together. If you have become my one and true disciple, you might being worthy to see inside the box of my most private muse. But who knows if that man is yet even known? NOW... GO!",,N,Bidlcl518,Bidlcl520
+Bidlcl520,FORT FROLIC,,,[Jack leaves. After a while he hears Atlas’s voice on the radio.],,Y,Bidlcl519,Bidlcl521
+Bidlcl521,FORT FROLIC,,Atlas,What happened to you? I’ve been trying to raise you for a dog’s age. Never mind. Would you kindly leg it over to the ’sphere and get on down to Hephaestus? It’s time to settle up with Ryan.,,N,Bidlcl520,Bidlcl522
+Bidlcl522,FORT FROLIC,,,[Jack is leaving Fort Frolic.],,Y,Bidlcl521,Bidlcl523
+Bidlcl523,HEPHAESTUS,,,"[Jack arrives at Hephaestus, after which Atlas contacts him.]",,Y,Bidlcl522,Bidlcl524
+Bidlcl524,HEPHAESTUS,,Atlas,"Watch yourself. Ryan’s stirring. We best keep to our knitting. It’s time to either run the table or go home empty. Ryan’s got the genetic key to Rapture, we get that from him and we get out of this hellhole. We don’t, then you and I are ghosts. Now would you kindly head to Ryan’s office and kill the son of o bitch... it’s time to finish this.",,N,Bidlcl523,Bidlcl525
+Bidlcl525,HEPHAESTUS,,,"[Jack goes on. While he explores and does tasks, he unilaterally communicates with Andrew Ryan over the radio.]",,Y,Bidlcl524,Bidlcl526
+Bidlcl526,HEPHAESTUS,,Andrew Ryan,"I see Cohen’s lost his touch. If you knew him when... when he used to believe in the work... in the struggle. And now, he rots in that never-land, waiting for someone to come and tell him he’s still got it. I suppose that’s why he let you live.",,N,Bidlcl525,Bidlcl527
+Bidlcl527,HEPHAESTUS,,,[Ryan Takes F Futuristics],,Y,Bidlcl526,Bidlcl528
+Bidlcl528,HEPHAESTUS,,Bill McDonagh,"Ryan nationalized Fontaine Futuristics -- he owns it now, lock, stock and barrel. For the good of the city, he says. He’ll break it up in due time, he says. I’ve resigned from the Council and lodged me letter of protest, but that’s just pissing in the wind. It’ll be war, I say... unless somebody stops Ryan, and right fast.",,N,Bidlcl527,Bidlcl529
+Bidlcl529,HEPHAESTUS,,,[Jack goes on.],,Y,Bidlcl528,Bidlcl530
+Bidlcl530,HEPHAESTUS,,Andrew Ryan,"You can taste it, can’t you? Andrew Ryan!",,N,Bidlcl529,Bidlcl531
+Bidlcl531,HEPHAESTUS,,,[Scoping the Gate],,Y,Bidlcl530,Bidlcl532
+Bidlcl532,HEPHAESTUS,,Kyburz,I spent the afternoon trying to get as close to Ryan’s gate as possible without making a spectacle of myself... He’s got it shielded six ways till Easter. There’s no way into that place. All I got for my trouble was the hairy eyeball from Ryan’s Splicer mates. That’s the reward you get for trying to outsmart the best electrical engineer of our generation.,,N,Bidlcl531,Bidlcl533
+Bidlcl533,HEPHAESTUS,,,[Going to Heat Loss],,Y,Bidlcl532,Bidlcl534
+Bidlcl534,HEPHAESTUS,,Anya Andersdotter,"I had to go jungle-style with that filthy ape for three weeks, but he finally spilled the beans on how to get to Andrew Ryan. Generate a sympathetic overload in Harmonic Core #3. That’s simple. Now all I gotta do is figure out what the hell a sympathetic overload is, and for that matter, a Harmonic Core #3! Piece of cake for an electrical engineer. Too bad I design lady’s shoes. Gonna go see the grease monkeys left alive in Heat Loss Monitoring, see what I can shake out of their trees.",,N,Bidlcl533,Bidlcl535
+Bidlcl535,HEPHAESTUS,,,[Jack goes on.],,Y,Bidlcl534,Bidlcl536
+Bidlcl536,HEPHAESTUS,,Andrew Ryan,"A worm looks up and sees the face of God! But look around... it’s a regular convention of worms in here. They all had mothers, fathers, people who loved them. They got married, fucked their wives. What makes you think you’re any different? I haven’t chosen a spot for you on the wall yet... let me know if you have a preference.",,N,Bidlcl535,Bidlcl537
+Bidlcl537,HEPHAESTUS,,,[Stopping Ryan],,Y,Bidlcl536,Bidlcl538
+Bidlcl538,HEPHAESTUS,,Bill McDonagh,"I never killed a man, let alone a mate. But this is what things come to. I don’t know if killing Mr. Ryan will stop the war, but I know it won’t stop while that man breathes. I love Mr. Ryan. But I love Rapture. If I have to kill one to save the other, so be it.",,N,Bidlcl537,Bidlcl539
+Bidlcl539,HEPHAESTUS,,,[Jack goes on.],,Y,Bidlcl538,Bidlcl540
+Bidlcl540,HEPHAESTUS,,Andrew Ryan,How like all Parasites who ever tried to walk in stolen shoes. I’d explain the science that renders what you’re trying lo do impossible. But that would be like playing Mozart for a tree frog.,,N,Bidlcl539,Bidlcl541
+Bidlcl541,HEPHAESTUS,,,[A Man or a Parasite],,Y,Bidlcl540,Bidlcl542
+Bidlcl542,HEPHAESTUS,,Andrew Ryan,"What is the difference between a Man and a Parasite? A Man builds. A Parasite asks, ""Where is my share?"" A Man creates. A Parasite says, ""What will the neighbors think?"". A Man invents. A Parasite says, ""Watch out, or you might tread on the toes of God...""",,N,Bidlcl541,Bidlcl543
+Bidlcl543,HEPHAESTUS,,,[Jack goes on.],,Y,Bidlcl542,Bidlcl544
+Bidlcl544,HEPHAESTUS,,Andrew Ryan,"Rapture is coming back to life. Even now, can’t you hear her breath returning to her lungs? The shops re-opening, the schools humming with the thoughts of young minds? My city will live, my city will thrive. And when that day comes, we’ll use your tombstone for paving tiles.",,N,Bidlcl543,Bidlcl545
+Bidlcl545,HEPHAESTUS,,,[Fontaine’s Legacy],,Y,Bidlcl544,Bidlcl546
+Bidlcl546,HEPHAESTUS,,Bill McDonagh,"Strikes me that Fontaine wasn’t overly inconvenienced by his own demise. On New Year’s Eve, his wretched Splicers came streaming out of the poor houses and stormed the proverbial barricades! The dead rot in the streets, and Johnny and Janey Citizen are lined up round the block for Plasmids... anything to help fend off the rabble.",,N,Bidlcl545,Bidlcl547
+Bidlcl547,HEPHAESTUS,,,[Running Short on R-34s],,Y,Bidlcl546,Bidlcl548
+Bidlcl548,HEPHAESTUS,,Pablo Navarro,"Do you guys have any idea there’s a war on? If you don’t follow proper maintenance on those Big Daddies, they burn through those R-34s like them Eve’s Apple betties go through penicillin. I’ve got Atlas’ goons hitting us non-stop, and two dead mechanics just this week. We need to control costs! If I wanted to deal with amateurs, I would have stayed on dry land.",,N,Bidlcl547,Bidlcl549
+Bidlcl549,HEPHAESTUS,,,[Jack kills yet another Big Daddy and saves the Little Sister.],,Y,Bidlcl548,Bidlcl550
+Bidlcl550,HEPHAESTUS,,Tenenbaum,I’ve seen such terrible things. And done worse myself. Thank you for reminding me that the light of the world has not yet been snuffed off. I’m sending a Little One to help you on your way.,,N,Bidlcl549,Bidlcl551
+Bidlcl551,HEPHAESTUS,,,[Jack goes on.],,Y,Bidlcl550,Bidlcl552
+Bidlcl552,HEPHAESTUS,,,[Assassin],,Y,Bidlcl551,Bidlcl553
+Bidlcl553,HEPHAESTUS,,Anya Andersdotter,"An assassin... that’s rich. I could have gone along, I suppose. Spliced up, forgot. I believed in this place. I believed in Ryan. But when it got hard, Ryan didn’t believe in Rapture, didn’t believe in the Great Chain. He believed in power. And now this place is busto. And my girl is... gone... worse than gone... one of those... things. So am I an assassin? ...Well, only one way to find out.",,N,Bidlcl552,Bidlcl554
+Bidlcl554,HEPHAESTUS,,,[Kyburz Door Code],,Y,Bidlcl553,Bidlcl555
+Bidlcl555,HEPHAESTUS,,Pablo Navarro,"Let me tell you something about Kyburz and all them university types… they’re so smart, except when they ain’t. I put a couple of drinks in him last week, and before I could say ""boo"", he’s telling me he’s got the code to his office keyed to the date of Australia Day. Nows every weeks, I slip in real gentle and nick a buck or two from the till. The Aussie never notices, and I ain’t about to tell him. Seems like there’s all kind of crazy stuff back there. Maybe... maybe one day I’ll get more ambitious.",,N,Bidlcl554,Bidlcl556
+Bidlcl556,HEPHAESTUS,,,[Genetic Arms Race],,Y,Bidlcl555,Bidlcl557
+Bidlcl557,HEPHAESTUS,,Bill McDonagh,"I begged Mr. Ryan to hand Fontaine Futuristics over to Atlas’ boys as a peace offering, but the stupid sod won’t listen to reason. ’Stead he’s just splicing his mob up, giving them more and tougher Plasmids. There’s an arms race on here in Rapture, but it’s not about who can build the best guns and the biggest bombs. It’s about who can become less of a man and more of a monster...",,N,Bidlcl556,Bidlcl558
+Bidlcl558,HEPHAESTUS,,,[Getting a Break],,Y,Bidlcl557,Bidlcl559
+Bidlcl559,HEPHAESTUS,,Pablo Navarro,"I didn’t recognize the twist that come into the shop today... Stacked like Sally and dressed to the nines. She’s play her cards pretty close to the vest, but you ain’t gotta be no college yob to see that she’s into some bad china. She was asking about magnetic locks, and some such. I played it coy, but she took wise. After she showed me ’round her backyard, I gave her directions to Kyburz’ tool shop. Rapture’s gone to hell, but sometimes the Great Chain still cuts you a break.",,N,Bidlcl558,Bidlcl560
+Bidlcl560,HEPHAESTUS,,,[Jack goes on.],,Y,Bidlcl559,Bidlcl561
+Bidlcl561,HEPHAESTUS,,Andrew Ryan,"Imagine the will it took lo create a place like this. And what have you built? Nothing, you can only loot, and break. You’re not a man... you’re just a termite of Versailles.",,N,Bidlcl560,Bidlcl562
+Bidlcl562,HEPHAESTUS,,,[Market Maintenance Code],,Y,Bidlcl561,Bidlcl563
+Bidlcl563,HEPHAESTUS,,Pablo Navarro,"I tracked the problem that was blocking the tubes here, and you’ll never believe where I ended up... the damn Farmer’s Market, clear on the other end of Rapture. I fixed it right up and installed some new gaskets... oof, what a mess. Anyway, the code is 0512, if you ever need to get back in there to do maintenance.",,N,Bidlcl562,Bidlcl564
+Bidlcl564,HEPHAESTUS,,,[Device Almost Finished],,Y,Bidlcl563,Bidlcl565
+Bidlcl565,HEPHAESTUS,,Kyburz,"Ryan’s Splicers are dragging the young woman off right now. I’m certain she’s one of Ryan’s spies, sent to feel me out... I think she is... if I’m wrong, an innocent girl’ll end up on Ryan’s bloody trophy wall. If I’m right... well, I best be right. The device is almost finished. I can’t get soft now, I can’t!",,N,Bidlcl564,Bidlcl566
+Bidlcl566,HEPHAESTUS,,,[The Dream],,Y,Bidlcl565,Bidlcl567
+Bidlcl567,HEPHAESTUS,,Kyburz,"What a barmy dream... some kind of fruit tree, spinning like a top, and it was pouring juice down Ryan’s throat, choking the bastard. But it wasn’t a tree, really, when I looked closer, it was the core control, the gizmo that feeds the mag locks on Ryan’s gate. You can’t cut off the power, comes right from the volcanic vents... Ryan always gets his juice. But I suppose you could drown the son of a bitch in it...",,N,Bidlcl566,Bidlcl568
+Bidlcl568,HEPHAESTUS,,,[Assembling the Bomb],,Y,Bidlcl567,Bidlcl569
+Bidlcl569,HEPHAESTUS,,Kyburz,"The basic casing is ready, I’ve got one charge of Nitroglycerin in my office, that will serve as a catalyst. Now I need four R-34 lead shield wire stubs to pass the circuit. Then a half-can of Ionic Gel -- that’s the pretty Betty of the mix. Should send the core into compensation mode, push power down the line and trigger the circuit breaker on Ryan’s gate. That’s the theory. It’ll either work like a charm, or blow up half of Rapture. Nothing ventured...",,N,Bidlcl568,Bidlcl570
+Bidlcl570,HEPHAESTUS,,,[Great Chain Moves Slowly],,Y,Bidlcl569,Bidlcl571
+Bidlcl571,HEPHAESTUS,,Andrew Ryan,"Is there blood in the streets? Of course. Have some chosen to destroy themselves with careless splicing? Undeniable. But I will make no proclamations, I will dictate no laws. The Great Chain moves slowly, but with wisdom. It is our impatience that invites in the Parasite of big government. And once you’ve invited it in, it will never stop feeding on the body of the city.",,N,Bidlcl570,Bidlcl572
+Bidlcl572,HEPHAESTUS,,,[After Jack assemble the bomb.],,Y,Bidlcl571,Bidlcl573
+Bidlcl573,HEPHAESTUS,,Atlas,"Does it look like it’s a real bomb? It better. You got to put it on the core past Geothermal Control, and we’ll see if these needlenoses knew, what the hell they were talking about.",,N,Bidlcl572,Bidlcl574
+Bidlcl574,HEPHAESTUS,,,"[Jack went off to set the bomb, but he gets to ambush on the way to it. After he kills all the splicers, Andrew Ryan contacts him.]",,Y,Bidlcl573,Bidlcl575
+Bidlcl575,HEPHAESTUS,,Andrew Ryan,"Before the final rat has eaten the last gram of you, Rapture will have returned. I will lead a parade. Who was that, they’ll say, as they point to the sad shape hanging on my wall. Who was that?",,N,Bidlcl574,Bidlcl576
+Bidlcl576,HEPHAESTUS,,,[Jack finds the Geothermal Control.],,Y,Bidlcl575,Bidlcl577
+Bidlcl577,HEPHAESTUS,,Atlas,"Looks like the ocean’s got an itch to retake this corner of Rapture... this happened right after the start of the war, read about it in the papers... head on in, I’ll see what I can dig up to help...",,N,Bidlcl576,Bidlcl578
+Bidlcl578,HEPHAESTUS,,,[Jack approaches the big yellow valve.],,Y,Bidlcl577,Bidlcl579
+Bidlcl579,HEPHAESTUS,,Atlas,"I’m no engineer, but if I read these plans right, you can channel that magma flow using the Redirect Valve. It’ll bolt off that water right quick, and you’ll be able to reach the Core. But Ryan’s sure to take notice might want to set up a perimeter, just to be certain.",,N,Bidlcl578,Bidlcl580
+Bidlcl580,HEPHAESTUS,,,[Jack turns the valve.],,Y,Bidlcl579,Bidlcl581
+Bidlcl581,HEPHAESTUS,,Andrew Ryan,"Will these creatures kill you? Even I don’t know. As you drag me closer to the abyss, you pull yourself right along with me. I offer you a quick death, parasite. It will be preferable to what you will learn if you win.",,N,Bidlcl580,Bidlcl582
+Bidlcl582,HEPHAESTUS,,,[Jack finishes the turn of the valve. Hot magma pours out.],,Y,Bidlcl581,Bidlcl583
+Bidlcl583,HEPHAESTUS,,Atlas,Are they all dead? Hope so. Best be heading on To the Core.,,N,Bidlcl582,Bidlcl584
+Bidlcl584,HEPHAESTUS,,,[Jack descends on the elevator and goes forward.],,Y,Bidlcl583,Bidlcl585
+Bidlcl585,HEPHAESTUS,,Andrew Ryan,"So far away from your family, from you friends, from everything you ever loved. But for some reason, you like it here... you feel something, you can’t quite put your finger on... think about it for a second, and maybe the word will come to you: nostalgia...",,N,Bidlcl584,Bidlcl586
+Bidlcl586,HEPHAESTUS,,,[Jack goes on.],,Y,Bidlcl585,Bidlcl587
+Bidlcl587,HEPHAESTUS,,Andrew Ryan,What did Atlas offer you? A piece of my plundered city? Mark my words - your only reward will be a knife in the back.,,N,Bidlcl586,Bidlcl588
+Bidlcl588,HEPHAESTUS,,,[Jack overloads the core.],,Y,Bidlcl587,Bidlcl589
+Bidlcl589,HEPHAESTUS,,Atlas,"Christ, what a rocket you’re making down there. It you’ve surged the core, then there’s only one more task to be done. Head on back to Ryan’s gate and throw the circuit breaker. That’ll let you right into his place.",,N,Bidlcl588,Bidlcl590
+Bidlcl590,HEPHAESTUS,,Andrew Ryan,"Though my physical defenses fall, you’ll not defeat me. My strength is not in steel and fire, but in my intellect and will. You hear me, Atlas!? Andrew Ryan offers you nothing but ashes!",,N,Bidlcl589,Bidlcl591
+Bidlcl591,HEPHAESTUS,,,[Impossible Anywhere Else],,Y,Bidlcl590,Bidlcl592
+Bidlcl592,HEPHAESTUS,,Andrew Ryan,"To build a city at the bottom of the sea! Insanity. But where else could we be free from the clutching hand of the Parasites? Where else could we build an economy that they would not try to control, a society that they would not try to destroy? It was not impossible to build Rapture at the bottom of the sea. It was impossible to build it anywhere else.",,N,Bidlcl591,Bidlcl593
+Bidlcl593,HEPHAESTUS,,,[Jack goes on and destroys the magnetic locks to Andrew Ryan’s office.],,Y,Bidlcl592,Bidlcl594
+Bidlcl594,HEPHAESTUS,,Andrew Ryan,"In the end, all that matters to me - is me. And all that mailers to you - is you. It is the nature of things.",,N,Bidlcl593,Bidlcl595
+Bidlcl595,HEPHAESTUS,,,[Jack opens the door of the waterproof bulkhead and leaves Hephaestus.],,Y,Bidlcl594,Bidlcl596
+Bidlcl596,RAPTURE CENTRAL CONTROL,,,"[Jack arrives at the ""Rapture Central Control."" A minute after arriving, Andrew Ryan contacts him.]",,Y,Bidlcl595,Bidlcl597
+Bidlcl597,RAPTURE CENTRAL CONTROL,,Andrew Ryan,"Even in the book of lies, sometimes you find truth... there is indeed a season for all things. And now that I see you flesh to flesh and blood to blood, I know I cannot raise my hand against you. But know this: you are my greatest disappointment. Does your master hear me? Atlas? You can kill me, but you will never have my city! My strength is not in steel and fire! That is what the parasites will never understand. A season for all things: A time to live, and a time to die. A time lo build, and a time to destroy. Come now, my child. There is one final thing to discuss.",,N,Bidlcl596,Bidlcl598
+Bidlcl598,RAPTURE CENTRAL CONTROL,,Atlas,What?! Ryan’s set the core to self destruct! This is different than what you did… He’s got a mind to take down the whole damn city! Get in there and whack the Chump before the whole joint blows!,,N,Bidlcl597,Bidlcl599
+Bidlcl599,RAPTURE CENTRAL CONTROL,,,[The Vita Chamber],,Y,Bidlcl598,Bidlcl600
+Bidlcl600,RAPTURE CENTRAL CONTROL,,Suchong,"Initial Deployment, Vita-Chamber/Client Ryan Industries. Stage one is complete. Sinclair and Alexander tried to explain the science to me, but Suchong does not believe them. They keep saying Plasmid reconstruction this and quantum entanglement that, and then poof, dead people come back to life. Bullshit! Of course, Ryan will only allow it to be tuned to his genetic frequencies for the testing...",,N,Bidlcl599,Bidlcl601
+Bidlcl601,RAPTURE CENTRAL CONTROL,,,[Jack goes on. He finds a room with several audio diaries.],,Y,Bidlcl600,Bidlcl602
+Bidlcl602,RAPTURE CENTRAL CONTROL,,,[Baby Status],,Y,Bidlcl601,Bidlcl603
+Bidlcl603,RAPTURE CENTRAL CONTROL,,Suchong,"Advanced Deployment, Lot 111 Dr. Suchong/Client Fontaine Futuristics. Baby is now a year old, weighs 58 pounds, and possesses gross musculature of a fit, 19-year-old. The results are... disappointing, but within expected tolerances.",,N,Bidlcl602,Bidlcl604
+Bidlcl604,RAPTURE CENTRAL CONTROL,,,[Mind Control Test],,Y,Bidlcl603,Bidlcl605
+Bidlcl605,RAPTURE CENTRAL CONTROL,,,[puppy barking in background],,Y,Bidlcl604,Bidlcl606
+Bidlcl606,RAPTURE CENTRAL CONTROL,,Suchong,Is that your puppy? She’s very pretty...,,N,Bidlcl605,Bidlcl607
+Bidlcl607,RAPTURE CENTRAL CONTROL,,Little Boy,"Thank you, Papa Suchong.",,N,Bidlcl606,Bidlcl608
+Bidlcl608,RAPTURE CENTRAL CONTROL,,Suchong,Break her neck for me.,,N,Bidlcl607,Bidlcl609
+Bidlcl609,RAPTURE CENTRAL CONTROL,,Little Boy,What?,,N,Bidlcl608,Bidlcl610
+Bidlcl610,RAPTURE CENTRAL CONTROL,,Suchong,Break that sweet puppy’s neck.,,N,Bidlcl609,Bidlcl611
+Bidlcl611,RAPTURE CENTRAL CONTROL,,Little Boy,No... please...,,N,Bidlcl610,Bidlcl612
+Bidlcl612,RAPTURE CENTRAL CONTROL,,Suchong,Break that puppy’s neck -- Would You Kindly...,,N,Bidlcl611,Bidlcl613
+Bidlcl613,RAPTURE CENTRAL CONTROL,,Little Boy,No... no...  *snap*,(puppy whimpering) ,N,Bidlcl612,Bidlcl614
+Bidlcl614,RAPTURE CENTRAL CONTROL,,Suchong,Very good.,,N,Bidlcl613,Bidlcl615
+Bidlcl615,RAPTURE CENTRAL CONTROL,,,"[Jack goes on until he runs into Andrew Ryan’s office, where he hears, and then sees Andrew Ryan in person.]",,Y,Bidlcl614,Bidlcl616
+Bidlcl616,RAPTURE CENTRAL CONTROL,,Andrew Ryan,"The assassin has overcome my final defense, and now he’s come to murder me in the end, what separates a man from a slave? Money, Power? No. A man chooses. A slave obeys. You think you have memories.",,N,Bidlcl615,Bidlcl617
+Bidlcl617,RAPTURE CENTRAL CONTROL,,Andrew Ryan,"A farm. A family. An airplane. A crash. And then this place. Was there really a family? Did that airplane crash, or was if hijacked? Forced down. Forced down by something less than a man.",,N,Bidlcl616,Bidlcl618
+Bidlcl619,RAPTURE CENTRAL CONTROL,,,[Jack enters the opened door.],,Y,Bidlcl618,Bidlcl620
+Bidlcl620,RAPTURE CENTRAL CONTROL,,Andrew Ryan,"Slop, would you kindly? Would you kindly. Powerful phrase. Familiar phrase? Sit, would you kindly. Stand, would you kindly. Run. Stop! Turn. A man chooses. A slave obeys. Kill. A man chooses. A slave obeys. OBEY.",,N,Bidlcl619,Bidlcl621
+Bidlcl621,RAPTURE CENTRAL CONTROL,,,"[Jack executes all Ryan’s commands, then hammers him with a golf club at his own request.]",,Y,Bidlcl620,Bidlcl622
+Bidlcl622,RAPTURE CENTRAL CONTROL,,Atlas,Hurry now... grab Ryan’s genetic key! Now would you kindly put it in that goddamn machine?,,N,Bidlcl621,Bidlcl623
+Bidlcl623,RAPTURE CENTRAL CONTROL,,,[Jack inserts the key into the mechanism.],,Y,Bidlcl622,Bidlcl624
+Bidlcl624,RAPTURE CENTRAL CONTROL,,Atlas,"Nice work, boyo! . It’s lime to end this little masquerade. There ain’t no Atlas, kid. Never was. Fella in my line a work takes on a variety of aliases. Hell, once I was even a china-man for six months. But you’ve been a sport, so I guess I owe you a little honesty. The name’s Frank Fontaine.",(laughter) ,N,Bidlcl623,Bidlcl625
+Bidlcl625,RAPTURE CENTRAL CONTROL,,Frank Fontaine,"I gotta say, I had a lot of business partners in my life, but you... ’Course the fact that you were generically conditioned to bark like a cocker spaniel when I said ’Would you kindly’ might have had something to do with it, but still... Now as soon as that machine finishes processing the genetic key you just fished off Ryan, I’m gonna run Rapture, tits to toes. You been a pal. but you know what they say... Never mix business with friendship. Thanks for everything, kid...",,N,Bidlcl624,Bidlcl626
+Bidlcl627,RAPTURE CENTRAL CONTROL,,,"[The alarm turns on and machine-gun turrets appear everywhere. Jack sees one of the Little Sisters he saved, which tells him where to go, Jack enters the airway shaft, but falls into darkness along the way.]",,Y,Bidlcl626,Bidlcl628
+Bidlcl628,OLYMPUS HEIGHTS,,,[Jack comes to himself in a room. Tenenbaum talks to him on the radio.],,Y,Bidlcl627,Bidlcl629
+Bidlcl629,OLYMPUS HEIGHTS,,Tenenbaum,"Welcome back, child. Welcome to the city where you were born. You are angry at Fontaine, yes? Now you know the truth. You are his tool. Brought back to Rapture to save him. You have saved many of my Little Ones. I owe you a debt. While you sleep, I undo some of Fontaine’s mental conditioning. His control is no longer complete, but he can still pull some very unpleasant strings. We made your mind with many locks and keys. Fontaine has most of those keys, but not all. Suchong designed your mind, taught Fontaine to control you. You might find answers in Suchong’s flat in Mercury Suites.",,N,Bidlcl628,Bidlcl630
+Bidlcl630,OLYMPUS HEIGHTS,,,"[One of the Little Sisters calls Jack, opens the door for him, and he gets into the sewers of the Olympic Heights. Fountain contacts him in a moment.]",,Y,Bidlcl629,Bidlcl631
+Bidlcl631,OLYMPUS HEIGHTS,,Frank Fontaine,"And now you’ve got hooked up with Tenenbaum, huh, kid? She’s a regular Mother Goose. All right, fun’s fun, kid, but now... go get stepped on by a Big Daddy, would you kindly? Huh? I says, would you kindly go get stepped on by a Big Daddy? Ah. Seems like Mother Goose has been playing around in your egg salad. If you won’t dance to that tune, I got others. ‘Code Yellow’.",,N,Bidlcl630,Bidlcl632
+Bidlcl632,OLYMPUS HEIGHTS,,,[Jack’s vision blurred and he takes damage.],,Y,Bidlcl631,Bidlcl633
+Bidlcl633,OLYMPUS HEIGHTS,,Frank Fontaine,"I just told your brain to tell your heart to stop beating. Not right off the bat, mind your the heart’s a stubborn muscle. But it ain’t that stubborn.",,N,Bidlcl632,Bidlcl634
+Bidlcl634,OLYMPUS HEIGHTS,,Tenenbaum,"Once you are free of Fontaine’s control, then you can have your revenge... and we can keep my Little Ones out of his filthy hands.",,N,Bidlcl633,Bidlcl635
+Bidlcl635,OLYMPUS HEIGHTS,,,[Jack goes on and saves yet another Little Sister.],,Y,Bidlcl634,Bidlcl636
+Bidlcl636,OLYMPUS HEIGHTS,,Tenenbaum,Adam improved every aspect of man... except his character. Perhaps there is a plasmid that can grow the spirit. Perhaps in your DNA this secret lies. I’ve sent a Little One with some goodies to help ease your burdens.,,N,Bidlcl635,Bidlcl637
+Bidlcl637,OLYMPUS HEIGHTS,,,[Fontaine again reduces Jack’s health.],,Y,Bidlcl636,Bidlcl638
+Bidlcl638,OLYMPUS HEIGHTS,,Frank Fontaine,"That’s it, kid. You’re busto. My new friends will catch up, with you soon... oh, kid... I hope they make if quick...",,N,Bidlcl637,Bidlcl639
+Bidlcl639,OLYMPUS HEIGHTS,,,[Jack goes on.],,Y,Bidlcl638,Bidlcl640
+Bidlcl640,OLYMPUS HEIGHTS,,,[Mozart of Genetics],,Y,Bidlcl639,Bidlcl641
+Bidlcl641,OLYMPUS HEIGHTS,,Suchong,"That’s quite a little monster Fontaine’s dug up. When she does speak, which is almost never, her accent is thick and grating. Her hair is filthy and she seems to wear the same mustard-stained jumper day after day. But I’ve got to hand it to Frank: Tenenbaum is the all-time diamond in the rough. No formal training, no experience... but put her in front of a gene sequence, and she’s Mozart at the harpsichord.",,N,Bidlcl640,Bidlcl642
+Bidlcl642,OLYMPUS HEIGHTS,,,"[After a while, Jack’s health decreases again and Fontaine contacts him.]",,Y,Bidlcl641,Bidlcl643
+Bidlcl643,OLYMPUS HEIGHTS,,Frank Fontaine,"I don’t like this any more than you do, kid. But you gotta understand where I’m coming from... I’ve got twelve years down here... big investment. Man can’t walk away from a long can like that...",,N,Bidlcl642,Bidlcl644
+Bidlcl644,OLYMPUS HEIGHTS,,,[Jack enters Sander Cohen’s apartment and Sander contacts him on the radio.],,Y,Bidlcl643,Bidlcl645
+Bidlcl645,OLYMPUS HEIGHTS,,Sander Cohen,"I hear your wings flopping in my home… flip flop flip flop flip flop. Come into the light, little moth, come in....",,N,Bidlcl644,Bidlcl646
+Bidlcl646,OLYMPUS HEIGHTS,,,[Jack kills the dancing splicers.],,Y,Bidlcl645,Bidlcl647
+Bidlcl647,OLYMPUS HEIGHTS,,Sander Cohen,"When will you ever learn to take instruction? I’m coming down there, little moth... coming down to teach you to dance.",,N,Bidlcl646,Bidlcl648
+Bidlcl648,OLYMPUS HEIGHTS,,,[Sander Cohen appears in his own apartment.],,Y,Bidlcl647,Bidlcl649
+Bidlcl649,OLYMPUS HEIGHTS,,Sander Cohen,"I’m Sander, fucking, Cohen! Please, come back!",,N,Bidlcl648,Bidlcl650
+Bidlcl650,OLYMPUS HEIGHTS,,,[The fight begins. Jack wins and leaves the apartment.],,Y,Bidlcl649,Bidlcl651
+Bidlcl651,OLYMPUS HEIGHTS,,,[Jack enters Anna Culpepper’s apartment.],,Y,Bidlcl650,Bidlcl652
+Bidlcl652,OLYMPUS HEIGHTS,,,[Artist Woman],,Y,Bidlcl651,Bidlcl653
+Bidlcl653,OLYMPUS HEIGHTS,,Sullivan,"When it was done with Culpepper, I left her as she was in the bathroom. I seen she had a blanket half-knitted by her bed. It was nice, you know, black and red, real pretty. So I took it, so I could, you know, have somebody finish it. So it could be of use to someone. It just didn’t seem right to leave it lying there, lying there all by itself.",,N,Bidlcl652,Bidlcl654
+Bidlcl654,OLYMPUS HEIGHTS,,,"[After some time, Fontaine again lowers the maximum health of Jack.]",,Y,Bidlcl653,Bidlcl655
+Bidlcl655,OLYMPUS HEIGHTS,,Frank Fontaine,"Kills me to turn my fist to you, but business is business. Don’t let it get you down... won’t make a difference when this whole place is fish food.",,N,Bidlcl654,Bidlcl656
+Bidlcl656,OLYMPUS HEIGHTS,,,[Jack enters the apartment of Dr. Sushong.],,Y,Bidlcl655,Bidlcl657
+Bidlcl657,OLYMPUS HEIGHTS,,Frank Fontaine,"That Tenenbaum ain’t what you think. Florence Nightengale, huh? That’ll all come crashing down ’fore you can say canned tomatoes. I’ve seen good bunco, and I’ve seen great bunco, but when you waltz through Rapture and World War Two without even a scratch? You got more than leprachauns watching over you.",,N,Bidlcl656,Bidlcl658
+Bidlcl658,OLYMPUS HEIGHTS,,,[Fontaine’s Human Jukebox],,Y,Bidlcl657,Bidlcl659
+Bidlcl659,OLYMPUS HEIGHTS,,Suchong,"All those years we thought we were making progress: with our Skinner boxes and our electric shocks... what a waste of time. Until ADAM, you could no more domesticate a child than a boa constrictor... Fontaine gives Suchong history for child that he wants to imprint into child’s head. Kid not a person, he jukebox, ready to play whatever tune Fontaine wants to hear.",,N,Bidlcl658,Bidlcl660
+Bidlcl660,OLYMPUS HEIGHTS,,,"[Jack searches Sushong’s apartment. After a while, Tenenbaum contacts with him.]",,Y,Bidlcl659,Bidlcl661
+Bidlcl661,OLYMPUS HEIGHTS,,Tenenbaum,"I knew there was something to that. Always secrets with Suchong, always secrets. He must have this Lot 192 in his labs near Apollo Square. But, I once in secret stole a dose and brought it to my flat on the second floor. I never knew what it was for, but I figured if that bastard was doing something in the shadows, on this I keep my eye.",,N,Bidlcl660,Bidlcl662
+Bidlcl662,OLYMPUS HEIGHTS,,,[Fontaine again reduces the health of Jack.],,Y,Bidlcl661,Bidlcl663
+Bidlcl663,OLYMPUS HEIGHTS,,Frank Fontaine,"Hate to see you this way, kid. Hell, I was there when you were born. You ever have a dog you gotta put down? Breaks your heart.",,N,Bidlcl662,Bidlcl664
+Bidlcl664,OLYMPUS HEIGHTS,,,[Jack go to the elevator.],,Y,Bidlcl663,Bidlcl665
+Bidlcl665,OLYMPUS HEIGHTS,,Tenenbaum,"They say to save one life is to save the world entire. I made a place for the children here, but it is you who are their savior. Will you stop here, or will you deliver them from this terrible city at long lost?",,N,Bidlcl664,Bidlcl666
+Bidlcl666,OLYMPUS HEIGHTS,,,[Jack enters Frank Fontaine’s apartment and get upstairs.],,Y,Bidlcl665,Bidlcl667
+Bidlcl667,OLYMPUS HEIGHTS,,Frank Fontaine,I’m gonna miss this place. Rapture was a candy store for a guy like me. Guys who thought they knew it all. Dames who thought they’d SEEN it all. Give me a smart mark over a dumb one every time.,,N,Bidlcl666,Bidlcl668
+Bidlcl668,OLYMPUS HEIGHTS,,,[Sad Saps],,Y,Bidlcl667,Bidlcl669
+Bidlcl669,OLYMPUS HEIGHTS,,Frank Fontaine,"These sad saps. They come to Rapture thinking they’re gonna be captains of industry, but they all forget that somebody’s gotta scrub the toilets. What an angle they gave me... I hand these mugs a cot and a bowl of soup, and they give me their lives. Who needs an army when I got Fontaine’s Home for the Poor?",,N,Bidlcl668,Bidlcl670
+Bidlcl670,OLYMPUS HEIGHTS,,,[Jack finds the medicine and takes it.],,Y,Bidlcl669,Bidlcl671
+Bidlcl671,OLYMPUS HEIGHTS,,Tenenbaum,"Yes! The compound is taking hold. The effects of the mental suggestion are now gone, but there will certainly be side effects.",,N,Bidlcl670,Bidlcl672
+Bidlcl672,OLYMPUS HEIGHTS,,Tenenbaum,Lot 192 has reorganized your entire plasmid structure. I should have known you would need a larger dosage. You’ll have to locate another dosage to fully remove the effects.,,N,Bidlcl671,Bidlcl673
+Bidlcl673,OLYMPUS HEIGHTS,,Tenenbaum,Out. Now go and find Suchong’s lab in Artemis Suites. In there no doubt there will be more of this Lot 192.,,N,Bidlcl672,Bidlcl674
+Bidlcl674,OLYMPUS HEIGHTS,,,[Jack goes to the waterproof bulkhead and heads to Apollo Square.],,Y,Bidlcl673,Bidlcl675
+Bidlcl675,APOLLO SQUARE,,,[Jack arrives at the Apollo Square. His plasmids continue to change randomly.],,Y,Bidlcl674,Bidlcl676
+Bidlcl676,APOLLO SQUARE,,,[What’s Happening Here?],,Y,Bidlcl675,Bidlcl677
+Bidlcl677,APOLLO SQUARE,,Diane McClintock,"I was so angry when I came down here, but... my god... I had no idea... there’s armed men all over the place... I saw a woman climb over the fence trying to escape... one of Ryan’s guards pointed at her, and she lit on fire... just like that. What’s happening here?",,N,Bidlcl676,Bidlcl678
+Bidlcl678,APOLLO SQUARE,,,[Jack goes on and saves yet another Little Sister.],,Y,Bidlcl677,Bidlcl679
+Bidlcl679,APOLLO SQUARE,,Tenenbaum,"What can I really do for these Little Ones? I am tainted by sins. But you… perhaps you unlock a future for them that I cannot even imagine. A Little One heads your way with a gift... please, be careful.",,N,Bidlcl678,Bidlcl680
+Bidlcl680,APOLLO SQUARE,,,[Jack goes on.],,Y,Bidlcl679,Bidlcl681
+Bidlcl681,APOLLO SQUARE,,Tenenbaum,It is too dangerous to re-engineer your plasmids in the state Fontaine has put you in. You’ll just have to make do with what you have.,,N,Bidlcl680,Bidlcl682
+Bidlcl682,APOLLO SQUARE,,,[Atlas Lives],,Y,Bidlcl681,Bidlcl683
+Bidlcl683,APOLLO SQUARE,,Diane McClintock,"I bribed one of the gorillas at the gate to let me in. It’s awful in here... to my right, I can see a dead woman lying in the street... everybody’s just walking by her, like she isn’t there. But I noticed something, spray-painted everywhere... ""Atlas lives."" I don’t know what it means, but something tells me it’s important to these people...",,N,Bidlcl682,Bidlcl684
+Bidlcl684,APOLLO SQUARE,,,[Jack finds the Rapture subway station.],,Y,Bidlcl683,Bidlcl685
+Bidlcl685,APOLLO SQUARE,,Ghost,You think Ryan’s gonna be there for you when you’re down and out? No! Fontaine! Fontaine’s the man with the helping hand!!!,,N,Bidlcl684,Bidlcl686
+Bidlcl686,APOLLO SQUARE,,,[Jack go down to the elevator.],,Y,Bidlcl685,Bidlcl687
+Bidlcl687,APOLLO SQUARE,,Frank Fontaine,"Not so quick, kid. I still got enough of a leash on that brain of yours to keep you from getting any closer to my roost.",,N,Bidlcl686,Bidlcl688
+Bidlcl688,APOLLO SQUARE,,,"[Jack finds the ""Fontaine’s Home for The Poor"".]",,Y,Bidlcl687,Bidlcl689
+Bidlcl689,APOLLO SQUARE,,Frank Fontaine,"Made Ryan good and mad when I started playing charity angle. Fontaine’s Home for The Poor. ‘Fore I knew if, I was calling myself Atlas and leading an army. Ryan and his precious Rapture. You don’t have to build a city to make people worship you... just make the chumps believe they’re worth a nickel.",,N,Bidlcl688,Bidlcl690
+Bidlcl690,APOLLO SQUARE,,,[Jack continues to explore the Apollo Square.],,Y,Bidlcl689,Bidlcl691
+Bidlcl691,APOLLO SQUARE,,,[Protection Bond],,Y,Bidlcl690,Bidlcl692
+Bidlcl692,APOLLO SQUARE,,Suchong,Clinical Trial Protector System Plasmid Lot 255. Dr. Suchong/client Ryan Industries. Very frustrating day. I can’t seem to get the damn Big Daddies to imprint on the little brats. The protection bond is just not forming...,,N,Bidlcl691,Bidlcl693
+Bidlcl693,APOLLO SQUARE,,Little Sister,Papa Suchong!,,N,Bidlcl692,Bidlcl694
+Bidlcl694,APOLLO SQUARE,,Suchong,"Get, get away... maybe if I modify the genetic sequence to...",,N,Bidlcl693,Bidlcl695
+Bidlcl695,APOLLO SQUARE,,Little Sister,Papa Suchong!,,N,Bidlcl694,Bidlcl696
+Bidlcl696,APOLLO SQUARE,,Suchong,"Shush, shoo... sequence to allow for...",,N,Bidlcl695,Bidlcl697
+Bidlcl697,APOLLO SQUARE,,Little Sister,Papa Suchong! Papa Suchong! Papa Suchong!,,N,Bidlcl696,Bidlcl698
+Bidlcl698,APOLLO SQUARE,,Suchong,"Get away, you filthy little shit! *smacks Little Sister* *Little Sister starts to cry* ...What? *Bouncer roar* What are you doing? Get back... get back!!! Argh!",,N,Bidlcl697,Bidlcl699
+Bidlcl699,APOLLO SQUARE,,,[Jack goes on.],,Y,Bidlcl698,Bidlcl700
+Bidlcl700,APOLLO SQUARE,,,[Meeting Atlas],,Y,Bidlcl699,Bidlcl701
+Bidlcl701,APOLLO SQUARE,,Diane McClintock,"The people here have grown to trust me... Ryan’s mistress, and still they take me in! They finally brought me to Atlas. Without him, the people of Apollo Square would give up. I asked him if he was going to lead the people in some kind of uprising against Ryan. He sighed and said, ""I am not a liberator. Liberators do not exist. These people will liberate themselves."" I thought Andrew Ryan was a great man. I was a fool.",,N,Bidlcl700,Bidlcl702
+Bidlcl702,APOLLO SQUARE,,,[Jack goes on.],,Y,Bidlcl701,Bidlcl703
+Bidlcl703,APOLLO SQUARE,,,[The Longest Con],,Y,Bidlcl702,Bidlcl704
+Bidlcl704,APOLLO SQUARE,,Frank Fontaine,"Never play a man for the short con when you can play ‘em for the long one. Atlas is the longest con of all. Ryan wanted Frank Fontaine dead, I just gave him what he wanted. As Atlas, I got a new face, a clean record, and a fresh start. Now it’s time to take back Rapture and --",,N,Bidlcl703,Bidlcl705
+Bidlcl705,APOLLO SQUARE,,Diane McClintock,... Ryan did. I can’t wait to tell Atlas. He’ll be so pleased...,,N,Bidlcl704,Bidlcl706
+Bidlcl706,APOLLO SQUARE,,Frank Fontaine (Using Atlas’ voice),"Uhh, Miss McClintock... what are you doing here? Let me just...  turn this off...",(slowly stammers back to normal voice) ,N,Bidlcl705,Bidlcl707
+Bidlcl707,APOLLO SQUARE,,,[Jack goes on.],,Y,Bidlcl706,Bidlcl708
+Bidlcl708,APOLLO SQUARE,,,[Today’s Raid],,Y,Bidlcl707,Bidlcl709
+Bidlcl709,APOLLO SQUARE,,Diane McClintock,"We went on a raid outside the wire today. We snagged 31 rounds of buckshot, 4 frag grenades, a shotgun, and 34 ADAM. We lost McGee, Epstein and Vallette. We got one of those goddamn Big Daddies in the bargain, though. It was something awful what they had to do to that little girl to get the ADAM, but we didn’t start this thing. Ryan did. I can’t wait to tell Atlas. He’ll be so pleased...",,N,Bidlcl708,Bidlcl710
+Bidlcl710,APOLLO SQUARE,,,[Jack finds another dose of medicine and takes it.],,Y,Bidlcl709,Bidlcl711
+Bidlcl711,APOLLO SQUARE,,Tenenbaum,Now you are having freedom. Suchong’s drugs should have no hold on you. Take the bafhysphere to Point Prometheus. It Is time for this matter to be settled.,,N,Bidlcl710,Bidlcl712
+Bidlcl712,APOLLO SQUARE,,,[Jack get in the elevator.],,Y,Bidlcl711,Bidlcl713
+Bidlcl713,APOLLO SQUARE,,Frank Fontaine,"You broke the spell?! But layin’ all your chips on Mother Goose - it’s not like you never been double-crossed before, you know what I’m sayin’? Hoof it to Point Prometheus. We’ll discuss This like men. You, me, a submarine topside, and more Adam than you could possibly imagine...",,N,Bidlcl712,Bidlcl714
+Bidlcl714,APOLLO SQUARE,,,[Jack sits in the bathysphere and floats away.],,Y,Bidlcl713,Bidlcl715
+Bidlcl715,POINT PROMETHEUS,,,"[When Jack rises to the surface, he sees Frank Fontaine, armed with grenades. He throws several grenades into the bathysphere, sets it on fire and runs away.]",,Y,Bidlcl714,Bidlcl716
+Bidlcl716,POINT PROMETHEUS,,Tenenbaum,What is this you waiting for? Go and get thus idiot...,,N,Bidlcl715,Bidlcl717
+Bidlcl717,POINT PROMETHEUS,,,[Jack enters the main hall.],,Y,Bidlcl716,Bidlcl718
+Bidlcl718,POINT PROMETHEUS,,Frank Fontaine,"Last chance, kid. You pack ii in now, and I’ll leave this dump to you and Frau Kraut. You keep on coming, and Rapture’s a fish tank.",,N,Bidlcl717,Bidlcl719
+Bidlcl719,POINT PROMETHEUS,,,"[Jack chases Fontaine, but he nevertheless escapes.]",,Y,Bidlcl718,Bidlcl720
+Bidlcl720,POINT PROMETHEUS,,Tenenbaum,"Scheisse! You let him getaway! I need a moment for thinking. Ah! Ach, of course! This will be no problem. Find a Big Daddy and search his body. I would suggest you lo be finding a deed one.",,N,Bidlcl719,Bidlcl721
+Bidlcl721,POINT PROMETHEUS,,,[Jack finds the dead Big Daddy and removes the necessary part from him.],,Y,Bidlcl720,Bidlcl722
+Bidlcl722,POINT PROMETHEUS,,Tenenbaum,"You see he Suit Control System? Sehr Gut. Get it. That is step one of turning you into one of those disgusting Big Daddys. The only way to get through that door Fontaine went through is to have a Little One open it for you. And they’ll only trust you if you look like, sound like, and even smell like one of those big stinking brutes...",,N,Bidlcl721,Bidlcl723
+Bidlcl723,POINT PROMETHEUS,,,[Jack tries to go to the door where Fontaine left.],,Y,Bidlcl722,Bidlcl724
+Bidlcl724,POINT PROMETHEUS,,Tenenbaum,Where do you think you’re going? You need to become a Big Daddy before you are able to draw out the Little Ones...,,N,Bidlcl723,Bidlcl725
+Bidlcl725,POINT PROMETHEUS,,,[Jack goes to the goal of his mission.],,Y,Bidlcl724,Bidlcl726
+Bidlcl726,POINT PROMETHEUS,,Tenenbaum,"We bred Little Ones to imprint to certain smells, the pheromones. But this is not like putting on aftershave... you’ll need three industrial applications of this stuff... and then the Little Ones will be drawn to you like a bee to honey... You will have to gather three pheromones here, so that you smell disgusting, just like a Big Daddy.",,N,Bidlcl725,Bidlcl727
+Bidlcl727,POINT PROMETHEUS,,,[Jack searches for another Big Daddy.],,Y,Bidlcl726,Bidlcl728
+Bidlcl728,POINT PROMETHEUS,,Frank Fontaine,"You pushed me too for, kid. When you’re cold and stiff, I’m going over to Mother Goose’s house, and I’m going to take it apart piece by piece. and brat by brat. Consider it your legacy.",,N,Bidlcl727,Bidlcl729
+Bidlcl729,POINT PROMETHEUS,,,[Jack goes on.],,Y,Bidlcl728,Bidlcl730
+Bidlcl730,POINT PROMETHEUS,,,[Changing Employers],,Y,Bidlcl729,Bidlcl731
+Bidlcl731,POINT PROMETHEUS,,Suchong,"Fontaine is dead. Hmmm. Bad for Fontaine. Good for Suchong. Play hard to get for a bit, then Mr. Ryan get hungry for me. Tenenbaum gone, Fontaine gone, Suchong only one who know all about Little Sisters. Like I said, this very good for Suchong.",,N,Bidlcl730,Bidlcl732
+Bidlcl732,POINT PROMETHEUS,,,[Jack goes on.],,Y,Bidlcl731,Bidlcl733
+Bidlcl733,POINT PROMETHEUS,,Tenenbaum,"After Ryan takes this place, here is where they build their filthy golems, their Frankensteins. Find the pieces of the suit. Guide the Little Ones.",,N,Bidlcl732,Bidlcl734
+Bidlcl734,POINT PROMETHEUS,,,"[Jack approaches the ""Optimized Eugenics.""]",,Y,Bidlcl733,Bidlcl735
+Bidlcl735,POINT PROMETHEUS,,Tenenbaum,Here is where you be finding the voicebox to have sound like one of those Big Daddies. Repulsive creatures...,,N,Bidlcl734,Bidlcl736
+Bidlcl736,POINT PROMETHEUS,,,[Jack goes on.],,Y,Bidlcl735,Bidlcl737
+Bidlcl737,POINT PROMETHEUS,,,[Marketing Gold],,Y,Bidlcl736,Bidlcl738
+Bidlcl738,POINT PROMETHEUS,,Andrew Ryan,"I’ll admit Fontaine showed some foresight when he built up the Plasmid business, but the man really never understood sales. Hiding those little girls beneath a bushel. I’ve just seen the preliminary design work on the new Plasmid machines, and they’re exactly what I wanted. Mark my words -- presented properly, those Little Sisters are marketing gold.",,N,Bidlcl737,Bidlcl739
+Bidlcl739,POINT PROMETHEUS,,,[After the murder of yet another Big Daddy.],,Y,Bidlcl738,Bidlcl740
+Bidlcl740,POINT PROMETHEUS,,Frank Fontaine,"Look around you, kid. You heroics count for a fig in this pit? You’re staring down the puke stain of Ryan’s busted dream. You think there’s something worth saving down here? Then you deserve to gargle with the rest of these scrubs.",,N,Bidlcl739,Bidlcl741
+Bidlcl741,POINT PROMETHEUS,,,[Jack finds a machine for modifying the voice.],,Y,Bidlcl740,Bidlcl742
+Bidlcl742,POINT PROMETHEUS,,Frank Fontaine,You think turning yourself into one of those tin men is a two-way street? The Kraut’s holding auditions for the Frankenstein parade and you’re first in line!,,N,Bidlcl741,Bidlcl743
+Bidlcl743,POINT PROMETHEUS,,,[Jack uses the machine.],,Y,Bidlcl742,Bidlcl744
+Bidlcl744,POINT PROMETHEUS,,Tenenbaum,"One down, two steps to go. Now you need only to be finding the bodysuit and the pheromones from the other labs. What you wait for, engraved invitation?",,N,Bidlcl743,Bidlcl745
+Bidlcl745,POINT PROMETHEUS,,,[Jack returns to the main hall.],,Y,Bidlcl744,Bidlcl746
+Bidlcl746,POINT PROMETHEUS,,Frank Fontaine,"You’re playing a bad hand, kid! You’re just too spliced to smell it! Roll on back to Mother Goose now, or everything’s gonna go busto!",,N,Bidlcl745,Bidlcl747
+Bidlcl747,POINT PROMETHEUS,,,[Jack finds the pheromones of Big Daddy.],,Y,Bidlcl746,Bidlcl748
+Bidlcl748,POINT PROMETHEUS,,Tenenbaum,"Ah! Look at you! We will make Big Daddy out of you yet, I think. There is only one piece missing: the bodysuit. Go to Failsafe Armored Escorts.",,N,Bidlcl747,Bidlcl749
+Bidlcl749,POINT PROMETHEUS,,,[Why Just Girls?],,Y,Bidlcl748,Bidlcl750
+Bidlcl750,POINT PROMETHEUS,,Tenenbaum,"I know why it has to be children, but why just girls? This I cannot determine why, but I know it is so. Fontaine says, ""Ah, one less bathroom to build in the orphanage"". It is amazing to watch the effect of ADAM on their small bodies. Their own cells, replaced by the new stems the instant they are damaged. These children are practically invulnerable. It is a shame you could not do the same thing to an adult. There would be quite a market for a man you could not kill.",,N,Bidlcl749,Bidlcl751
+Bidlcl751,POINT PROMETHEUS,,,[Jack goes on.],,Y,Bidlcl750,Bidlcl752
+Bidlcl752,POINT PROMETHEUS,,,[Extra Munitions],,Y,Bidlcl751,Bidlcl753
+Bidlcl753,POINT PROMETHEUS,,Suchong,"Ryan sent over extra munitions. He must suspect trouble. I’ve locked them up near the Protector Labs and set the code to 1921. I don’t expect we’ll ever be needing them though. Once Big Daddy is ready, nobody cross the Big Daddy.",,N,Bidlcl752,Bidlcl754
+Bidlcl754,POINT PROMETHEUS,,Frank Fontaine,"Has Mother Goose really got her hooks into you. You can knock Ryan all you want, but the old man was bingo on one point of fact: you won’t even work till somebody says “go”!",,N,Bidlcl753,Bidlcl755
+Bidlcl755,POINT PROMETHEUS,,,[Jack returns to the main hall.],,Y,Bidlcl754,Bidlcl756
+Bidlcl756,POINT PROMETHEUS,,Frank Fontaine,Shame things turned out this way. kid. You and me coulda run the table in this place. Now there’s nothing left for you but a long cold nothing.,,N,Bidlcl755,Bidlcl757
+Bidlcl757,POINT PROMETHEUS,,,[Jack goes on and saves yet another Little Sister.],,Y,Bidlcl756,Bidlcl758
+Bidlcl758,POINT PROMETHEUS,,Tenenbaum,"It’s a wounded world, is it not? How can I thank you for this kindness? I send another Little One with o token of our appreciation.",,N,Bidlcl757,Bidlcl759
+Bidlcl759,POINT PROMETHEUS,,,[Jack goes where the shoes of Big Daddy should be.],,Y,Bidlcl758,Bidlcl760
+Bidlcl760,POINT PROMETHEUS,,Tenenbaum,The boots! I was sure the boots would be here! Schiesse!,,N,Bidlcl759,Bidlcl761
+Bidlcl761,POINT PROMETHEUS,,,[Missing Boots],,Y,Bidlcl760,Bidlcl762
+Bidlcl762,POINT PROMETHEUS,,Suchong,"Goddammit! The Big Daddy boots need to be shipped here, not to damn library! What kind of idiots is Ryan hiring nowadays? This kind of bullshit never happen under Fontaine.",,N,Bidlcl761,Bidlcl763
+Bidlcl763,POINT PROMETHEUS,,,[Jack goes on.],,Y,Bidlcl762,Bidlcl764
+Bidlcl764,POINT PROMETHEUS,,,[Cheap Son Of A Bitch],,Y,Bidlcl763,Bidlcl765
+Bidlcl765,POINT PROMETHEUS,,Suchong,"Fontaine scary son of a bitch, but Ryan cheap son of a bitch. You can no reuse protector suit. Take a man, graft skin and organs straight into suit, otherwise suit not work. Ryan say Big Daddy too expensive. Ryan can go suck egg.",,N,Bidlcl764,Bidlcl766
+Bidlcl766,POINT PROMETHEUS,,,[Jack walks on and hides the door to the conveyor belt with the Big Daddy suits.],,Y,Bidlcl765,Bidlcl767
+Bidlcl767,POINT PROMETHEUS,,Frank Fontaine,"You know, you should be THANKING me! I brought you here! I showed you who you are! Nobody never told you nothing but lies till I come along!",,N,Bidlcl766,Bidlcl768
+Bidlcl768,POINT PROMETHEUS,,,[Jack picks up one of the suits.],,Y,Bidlcl767,Bidlcl769
+Bidlcl769,POINT PROMETHEUS,,Tenenbaum,"Das ist gut! We will make disgusting Frankenstein out of you yet. There is helmet and pair of boots and we will be, how you say, in business?",,N,Bidlcl768,Bidlcl770
+Bidlcl770,POINT PROMETHEUS,,,[Jack finds the helmet of Big Daddy.],,Y,Bidlcl769,Bidlcl771
+Bidlcl771,POINT PROMETHEUS,,Frank Fontaine,I’d turn tail if I were you. kid. Ain’t nothin’ here for you but tears.,,N,Bidlcl770,Bidlcl772
+Bidlcl772,POINT PROMETHEUS,,,[Jack puts on a helmet.],,Y,Bidlcl771,Bidlcl773
+Bidlcl773,POINT PROMETHEUS,,Frank Fontaine,"Look around you! There’s nothing to save! Rapture’s a mausoleum, a god damn cemetery funhouse. And you and The Kraut is just ghosts... just a matter time till you realize it.",,N,Bidlcl772,Bidlcl774
+Bidlcl774,POINT PROMETHEUS,,,[Jack goes on.],,Y,Bidlcl773,Bidlcl775
+Bidlcl775,POINT PROMETHEUS,,,[Protecting Little Ones],,Y,Bidlcl774,Bidlcl776
+Bidlcl776,POINT PROMETHEUS,,Suchong,"War a terrible thing. Japanese kill every man in my city, except for Suchong. Suchong have opium. Very good opium. This war, terrible thing, too, but not for Suchong. Everyone scared now. Everyone need ADAM. More than Little Sisters can make. Good news is war makes lots of corpses. Suchong knows way to recycle ADAM from corpse. But can’t send Little Sister out to street unprotected. Suchong must think on this.",,N,Bidlcl775,Bidlcl777
+Bidlcl777,POINT PROMETHEUS,,,[Mistakes],,Y,Bidlcl776,Bidlcl778
+Bidlcl778,POINT PROMETHEUS,,Andrew Ryan,"Could I have made mistakes? One does not build cities if one is guided by doubt. But can one govern in absolute certainty? I know that my beliefs have elevated me, just as I know that the things I have rejected would have destroyed me. But the city... it is collapsing before my... have I become so convinced by my own beliefs that I have stopped seeing the truth? Perhaps. But Atlas is out there, and he aims to destroy me, and destroy my city. To question is to surrender. I will not question.",,N,Bidlcl777,Bidlcl779
+Bidlcl779,POINT PROMETHEUS,,,[Protector Smell],,Y,Bidlcl778,Bidlcl780
+Bidlcl780,POINT PROMETHEUS,,Suchong,"Big Daddy make a terrible stink, very smelly. Maybe something can be done, but Little Sisters seem to like odor. Now we have to find recruits... you become Big Daddy, it’s a one-way street. But Ryan says, don’t worry, recruits will be no problem. That Ryan -- he’s a good guy.",,N,Bidlcl779,Bidlcl781
+Bidlcl781,POINT PROMETHEUS,,,[Jack finds the shoes of Big Daddy.],,Y,Bidlcl780,Bidlcl782
+Bidlcl782,POINT PROMETHEUS,,Tenenbaum,"Yes, now this is a Big Daddy. Are you ready? Now go to the Little Sister vent by the Proving Grounds.",,N,Bidlcl781,Bidlcl783
+Bidlcl783,POINT PROMETHEUS,,Frank Fontaine,"I’ve got the Rapture now! I’ve got the Adam now! You think that tin suit’s even half enough to put the scare on me? Where you gonna go? Your life? Your family? They’re a fairy tale, kid. No more real than something you read about in the Saturday Evening Post. Poor bastard... a motherless freak whipped up in a half-baked science experiment.",,N,Bidlcl782,Bidlcl784
+Bidlcl784,POINT PROMETHEUS,,Tenenbaum,"You need to bring them out of hiding, and then they’ll let you in the door. Go on, hit the vent with your wrench.",,N,Bidlcl783,Bidlcl785
+Bidlcl785,POINT PROMETHEUS,,,[Jack knocks on the ventilation shaft with his wrench and from there creeps out Little Sister.],,Y,Bidlcl784,Bidlcl786
+Bidlcl786,POINT PROMETHEUS,,Tenenbaum,Und bitte. It would mean very much to me if you will be gentle with the girls. Mein kleines maedchen.,,N,Bidlcl785,Bidlcl787
+Bidlcl787,POINT PROMETHEUS,,,[Little Sister opens the door for Jack. He opens the waterproof partition and goes to the Promised Land.],,Y,Bidlcl786,Bidlcl788
+Bidlcl788,POINT PROMETHEUS,,,[Jack enters the hall of the museum and Tenenbaum contacts him.],,Y,Bidlcl787,Bidlcl789
+Bidlcl789,POINT PROMETHEUS,,Tenenbaum,The Little Ones will lead you to Fontaine... but you must protect them.,,N,Bidlcl788,Bidlcl790
+Bidlcl790,POINT PROMETHEUS,,Frank Fontaine,That’s it. kid. It’s been a long road. You don’t even remember most of it. Put you on a sub when you were just a sprout.,,N,Bidlcl789,Bidlcl791
+Bidlcl791,POINT PROMETHEUS,,,[Jack goes on.],,Y,Bidlcl790,Bidlcl792
+Bidlcl792,POINT PROMETHEUS,,Frank Fontaine,"I really wound you up with that wife and child bit... Oh, me poor Moira... Ay, me wee baby Patrick. Maybe one day I’ll get me a real family... they play well with the suckers.",,N,Bidlcl791,Bidlcl793
+Bidlcl793,POINT PROMETHEUS,,,[Jack goes on.],,Y,Bidlcl792,Bidlcl794
+Bidlcl794,POINT PROMETHEUS,,Tenenbaum,"Ach, look at them... even though they are physically free of the need to gather, Suchong’s mental conditioning still holds them to their terrible task. For sins such as this, we can never alone...",,N,Bidlcl793,Bidlcl795
+Bidlcl795,POINT PROMETHEUS,,,"[Jack goes further, fighting with the splicers and defending the Little Sister. In the middle of the battle, Tennenbaum gives advice.]",,Y,Bidlcl794,Bidlcl796
+Bidlcl796,POINT PROMETHEUS,,Tenenbaum,Watch out! For certain their harvesting will draw the attention of the splicers!,,N,Bidlcl795,Bidlcl797
+Bidlcl797,POINT PROMETHEUS,,,[Jack goes on.],,Y,Bidlcl796,Bidlcl798
+Bidlcl798,POINT PROMETHEUS,,Frank Fontaine," Don’t know what I was thinking... never spliced up once the whole time I was down here in this aquarium... figured it was bad to mix business with pleasure, but, whew!!! Forget all the nose candy and ﬂoor polish I’ve been wasting time with- this stuff is the mother’s milk...",(exhilarated) ,N,Bidlcl797,Bidlcl799
+Bidlcl799,POINT PROMETHEUS,,,"[Jack goes further, fighting with the splicers and defending the Little Sister. In the middle of the fight, Tenenbaum gives advice.]",,Y,Bidlcl798,Bidlcl800
+Bidlcl800,POINT PROMETHEUS,,Tenenbaum,Hurry! The harvesting will draw the attention of the splicers!,,N,Bidlcl799,Bidlcl801
+Bidlcl801,POINT PROMETHEUS,,,[Jack goes on.],,Y,Bidlcl800,Bidlcl802
+Bidlcl802,POINT PROMETHEUS,,Tenenbaum,"Better for the girls to be with you, better with you them alone, clone in the crawling darkness.",,N,Bidlcl801,Bidlcl803
+Bidlcl803,POINT PROMETHEUS,,Frank Fontaine,"-Hah! That might be plenty for the working scrubs and the pencil-pushers, but I need more, more... I won’t to splice ’til there ain’t nothing left to splice with!",,N,Bidlcl802,Bidlcl804
+Bidlcl804,POINT PROMETHEUS,,Tenenbaum,Fontaine is nearby. You are reaching close now.,,N,Bidlcl803,Bidlcl805
+Bidlcl805,POINT PROMETHEUS,,,[Jack goes on.],,Y,Bidlcl804,Bidlcl806
+Bidlcl806,POINT PROMETHEUS,,Tenenbaum,"There, you must use the needle of the Little Sister to drain Fontaine of his Adam… it is the only way to defeat him.",,N,Bidlcl805,Bidlcl807
+Bidlcl807,POINT PROMETHEUS,,,[Jack approaches the elevator. The Little Sister gives him his syringe.],,Y,Bidlcl806,Bidlcl808
+Bidlcl808,POINT PROMETHEUS,,Little Sister,Here... take this… stick it in the bad man!,,N,Bidlcl807,Bidlcl809
+Bidlcl809,POINT PROMETHEUS,,Tenenbaum,Fontaine waits above. There will no going back from here. Make sure you are ready to face him before moving on.,,N,Bidlcl808,Bidlcl810
+Bidlcl810,POINT PROMETHEUS,,,"[Jack sits in the elevator. As he rises up, Fontaine talks to him over the radio.]",,Y,Bidlcl809,Bidlcl811
+Bidlcl811,POINT PROMETHEUS,,Frank Fontaine,"I remember when me and the Kraut put you in that sub. You were no more than two. You were my ace in the hole, but you were also the closest thing I ever had to a son. And that’s why this hurts. Betrayal, kid. Life ain’t strictly business.",,N,Bidlcl810,Bidlcl812
+Bidlcl812,POINT PROMETHEUS,,,[Jack comes out of the elevator. He sees Fontaine tied to some kind of mechanism. Tenenbaum contacts Jack.],,Y,Bidlcl811,Bidlcl813
+Bidlcl813,POINT PROMETHEUS,,Tenenbaum,Go! Go now! Hit him with the needle!,,N,Bidlcl812,Bidlcl814
+Bidlcl814,POINT PROMETHEUS,,,[Jack pierces Fontaine with needle and he comes to life. The fight begins.],,Y,Bidlcl813,Bidlcl815
+Bidlcl815,POINT PROMETHEUS,,,"[During the fight, Little Sister gives advice to Jack.]",,Y,Bidlcl814,Bidlcl816
+Bidlcl816,POINT PROMETHEUS,,Little Sister,Unzip him. Mr. B! Unzip him!,,N,Bidlcl815,Bidlcl817
+Bidlcl817,POINT PROMETHEUS,,,"[After a while, Fontaine strikes Jack and he falls to the floor.]",,Y,Bidlcl816,Bidlcl818
+Bidlcl818,POINT PROMETHEUS,,Frank Fontaine,"I had you built! I sent you topside! I called you back, showed you what you was, what you was capable of! Even that life you thought you had, that was something I dreamed up and had tattooed inside your head. Now, if you don’t call that a family, I don’t know that is. And now...",,N,Bidlcl817,Bidlcl819
+Bidlcl819,POINT PROMETHEUS,,,"[Fontaine swings for the final blow, but he is attacked by the Little Sisters.]",,Y,Bidlcl818,Bidlcl820
+Bidlcl820,POINT PROMETHEUS,,Little Sister,Come on! Come on!,,N,Bidlcl819,Bidlcl821
+Bidlcl821,POINT PROMETHEUS,,,"[Many Little Sisters attack Fontaine, piercing it with their syringes. The screen fades, after which we see the final cutscene.]",,Y,Bidlcl820,Bidlcl822
+Bidlcl822,POINT PROMETHEUS,,Tenenbaum,They offered you the city...,,N,Bidlcl821,Bidlcl823

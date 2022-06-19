@@ -1,0 +1,353 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+SoVI-1,,,﻿Narrator,"A pillar of light pierced the heavens, the product of rampant evil — the Evil Seed. No one could have predicted it would become a catalyst for catastrophe across the world... Our story takes place in the 16th century.",,N,,SoVI-2
+SoVI-3,— The Ling-Sheng Su Tragedy —,,Narrator,"A tragedy befell this place. Ling-Sheng Su Temple was a famous martial arts school in the far reaches of China, Ling-Sheng Su Temple was a famous martial arts school in the far reaches of China, Kilik ate and slept with the other students, and began his training at a young age, Despite this, he established a family-like bond with just one other student-Xianglian, a young girl who was like an elder sister to him. Dedicated to the way of the sword, she looked after Kilik as if they were siblings. So close was their bond that when one felt happy or sad, the other would feel the same. Together they studied and grew as warriors. Kilik’s skill earned him a place as a teacher-an honorable position for one so young. Throughout the ages, Ling-Sheng Su Temple had kept hold of the three sacred treasures: Krita-Yuga, Dvapara-Yuga, and Kali-Yuga. Kilik’s years of arduous training earned him the title of rightful bearer of the staff, Kali-Yuga Likewise, Xianglian was also designated bearer of Dvapara-Yuga, a sacred mirror. Our story begins on the night before the ritual for passing the treasures on to their new masters…",,N,SoVI-2,SoVI-4
+SoVI-4,— The Ling-Sheng Su Tragedy —,,Kilik,Xianglian... Can I ask you something?,,N,SoVI-3,SoVI-5
+SoVI-5,— The Ling-Sheng Su Tragedy —,,Xianglian,Sure.,,N,SoVI-4,SoVI-6
+SoVI-6,— The Ling-Sheng Su Tragedy —,,Kilik,How come you were chosen to bear Dvapara-Yuga?,,N,SoVI-5,SoVI-7
+SoVI-7,— The Ling-Sheng Su Tragedy —,,Xianglian,...,,N,SoVI-6,SoVI-8
+SoVI-8,— The Ling-Sheng Su Tragedy —,,Kilik,"I thought you’d get Krita-Yuga. After all, you’ve dedicated your life to the sword.",,N,SoVI-7,SoVI-9
+SoVI-9,— The Ling-Sheng Su Tragedy —,,Xianglian,"...Kilik, this is not easy for me to talk about. The Krita-Yuga... it’s no longer at Ling-Sheng Su. The sword has been gone for more than a decade. All that’s left is the Kali-Yuga and the Dwapara-Yuga.",,N,SoVI-8,SoVI-10
+SoVI-10,— The Ling-Sheng Su Tragedy —,,Kilik,Really…?,,N,SoVI-9,SoVI-11
+SoVI-11,— The Ling-Sheng Su Tragedy —,,Xianglian,"Surprised? Well, there’s more. The one who stole the Krita-Yuga was none other than... my father. That’s why I don’t have the right to bear it. That’s why even though it was offered to me, I decided to decline. Of course. I love Ling-Sheng Su... and I do wish to see my studies through to their conclusion. It’s just… I... I just don’t want the sacred treasures or my status as a sacred bearer... or anything else to hold me back. You know what the monks say.",,N,SoVI-10,SoVI-12
+SoVI-12,— The Ling-Sheng Su Tragedy —,,Kilik & Xianglian,“Fate is carved with your own hands.”,,N,SoVI-11,SoVI-13
+SoVI-13,— The Ling-Sheng Su Tragedy —,,Xianglian,"When I spoke to them about that, they decided to let me bear Dvapara-Yuga instead. Now I can feel proud that I’m a sacred bearer, just like you. Um, you know something, Kilik...?",,N,SoVI-12,SoVI-14
+SoVI-14,— The Ling-Sheng Su Tragedy —,,Kilik,What?,,N,SoVI-13,SoVI-15
+SoVI-15,— The Ling-Sheng Su Tragedy —,,Xianglian,It’s okay. Never mind... I’m really looking forward to tomorrow.,,N,SoVI-14,SoVI-16
+SoVI-16,— The Ling-Sheng Su Tragedy —,,Kilik,"Me, too...",,N,SoVI-15,SoVI-17
+SoVI-17,— The Ling-Sheng Su Tragedy —,,Narrator,"And so it was Kilik and Xianglian were set to attend the official ritual for becoming sacred bearers. But the night before the ritual, a terrible calamity plunged everything into chaos. Drawn by the Kali-Yuga in Kilik’s hand, the Evil Seed came to Ling-Sheng Su Temple. The monks, driven insane by the evil force, began slaying each other, turning the temple into hell on Earth…",,N,SoVI-16,SoVI-18
+SoVI-18,— The Ling-Sheng Su Tragedy —,,Kilik,"Haah, hah, hah… What have... I done? Ngh! Ungh!",,N,SoVI-17,SoVI-19
+SoVI-19,— The Ling-Sheng Su Tragedy —,,Monk,Hyah! Hyaaah!,,N,SoVI-18,SoVI-20
+SoVI-20,— The Ling-Sheng Su Tragedy —,,Kilik,I don’t understand. Everyone... stop this madness... Krgh! Ngh! It’s kill... or be killed...! Huh?! Xia— ...Xianglian...?,,N,SoVI-19,SoVI-21
+SoVI-21,— The Ling-Sheng Su Tragedy —,,Xianglian,Hrrragh!,,N,SoVI-20,SoVI-22
+SoVI-22,— The Ling-Sheng Su Tragedy —,,Kilik,"Get a hold of yourself, Xianglian!",,N,SoVI-21,SoVI-23
+SoVI-23,— The Ling-Sheng Su Tragedy —,,Xianglian,Teiyah! Yyaaah!,,N,SoVI-22,SoVI-24
+SoVI-24,— The Ling-Sheng Su Tragedy —,,Kilik,Xianglian... Ngh!,,N,SoVI-23,SoVI-25
+SoVI-25,— The Ling-Sheng Su Tragedy —,,,[He accidentally kills her.],,Y,SoVI-24,SoVI-26
+SoVI-26,— The Ling-Sheng Su Tragedy —,,Kilik,Xiang—...lian...? Aaaaaaaaaagh!!!,,N,SoVI-25,SoVI-27
+SoVI-29,The Chronicle of Souls 3,,Kilik,Ungh... Where... am I...?,,N,SoVI-28,SoVI-30
+SoVI-30,The Chronicle of Souls 3,,Mysterious Old Man,...,,N,SoVI-29,SoVI-31
+SoVI-31,The Chronicle of Souls 3,,Kilik,Did you save me? Who are y— Ngh!,,N,SoVI-30,SoVI-32
+SoVI-32,The Chronicle of Souls 3,,Mysterious Old Man,You have yet to recover from your injuries. Rest. And that mirror-- Dvapara-Yuga. Wear it always. There will be grave consequences if you do not. Understand?,,N,SoVI-31,SoVI-33
+SoVI-33,The Chronicle of Souls 3,,Kilik,Uh…,,N,SoVI-32,SoVI-34
+SoVI-34,The Chronicle of Souls 3,,,[He remembers something from the attack.],,Y,SoVI-33,SoVI-35
+SoVI-35,The Chronicle of Souls 3,,Kilik,"*sigh* Oh, Xianglian... *weeping quietly* So... the power of Dvapara-Yuga saved me. That means... Xianglian... she gave it to me. She sacrificed her life for me. And then I... I... with my bare hands… Why? Tell me, Xianglian! Why am I still alive?!",,N,SoVI-34,SoVI-36
+SoVI-36,The Chronicle of Souls 3,,Mysterious Old Man,Have you not realized yet? You are being protected. Dvapara-Yuga suppresses the evil within you.,,N,SoVI-35,SoVI-37
+SoVI-37,The Chronicle of Souls 3,,Kilik,Evil?,,N,SoVI-36,SoVI-38
+SoVI-38,The Chronicle of Souls 3,,Narrator,"The old man proceeded to tell a tale. He told Kilik about the Evil Seed… How Dvapara-Yuga had pulled Kilik back from the brink of insanity... How Kali-Yuga had the ability to absorb power and how it was falling under an evil spell... And finally, he told Kilik about Soul Edge.",,N,SoVI-37,SoVI-39
+SoVI-39,The Chronicle of Souls 3,,Mysterious Old Man,"Your fate will be set in stone the moment you lose your will to live. Your soul will be swallowed whole by your destiny, leaving behind but a rotten corpse. That is but one path you may take. But, perhaps, it is the path you wish to take. To submit to that evil sword and its wicked power? Is that what you wish? To become a thrall? Do you see...? All is in your hands.",,N,SoVI-38,SoVI-40
+SoVI-40,The Chronicle of Souls 3,,Kilik, Xianglian... she told me… “Fate is carved with your own hands.” Xianglian gave her life so I could live. That leaves me only one choice.,(thinking) ,N,SoVI-39,SoVI-41
+SoVI-41,The Chronicle of Souls 3,,Narrator,"From that day forth, Kilik bore the heavy weight of his karma. As Xianglian’s slayer, and the last living member of Ling-Sheng Su, he chose to face his cruel fate head on.",,N,SoVI-40,SoVI-42
+SoVI-43,— A Mysterious Visitor —,,Edge Master,"If you continue upon this path, the evil within you will create a second Soul Edge out of Kali-Yuga. The only reason you and Kali-Yuga have yet to succumb is because of Dvapara-Yuga’s power. However, all is not lost. You can learn to control the evil within.",,N,SoVI-42,SoVI-44
+SoVI-44,— A Mysterious Visitor —,,Kilik,Yes... Master!,,N,SoVI-43,SoVI-45
+SoVI-45,— A Mysterious Visitor —,,Edge Master,"Is that it? If this tests you so dearly, how do you intend to stand up to evil?",,N,SoVI-44,SoVI-46
+SoVI-46,— A Mysterious Visitor —,,Kilik,"Ngh... Sorry, Master!",,N,SoVI-45,SoVI-47
+SoVI-47,— A Mysterious Visitor —,,Edge Master,"To control evil, you must first control yourself. Mastering your own will is the key to overcoming malice.",,N,SoVI-46,SoVI-48
+SoVI-48,— A Mysterious Visitor —,,Kilik,"Yes, Master!",,N,SoVI-47,SoVI-49
+SoVI-49,— A Mysterious Visitor —,,Edge Master,"The enemy is powerful. You must stand strong, whoever your opponent!",,N,SoVI-48,SoVI-50
+SoVI-50,— A Mysterious Visitor —,,Kilik,"Um... Yes, Master!",,N,SoVI-49,SoVI-51
+SoVI-51,— A Mysterious Visitor —,,Edge Master,"Hmph... Kilik, your next opponent awaits.",,N,SoVI-50,SoVI-52
+SoVI-52,— A Mysterious Visitor —,,Kilik,Who...?,,N,SoVI-51,SoVI-53
+SoVI-53,— A Mysterious Visitor —,,Edge Master,Sometimes things reveal themselves when you fight.,,N,SoVI-52,SoVI-54
+SoVI-54,— A Mysterious Visitor —,,Kilik,"I understand, Master.",,N,SoVI-53,SoVI-55
+SoVI-55,— A Mysterious Visitor —,,Edge Master,So... did you learn something?,,N,SoVI-54,SoVI-56
+SoVI-56,— A Mysterious Visitor —,,Kilik,Yes. I believe I felt how delicate the balance is between myself and evil.,,N,SoVI-55,SoVI-57
+SoVI-57,— A Mysterious Visitor —,,Edge Master,I see... Then the time has almost come.,,N,SoVI-56,SoVI-58
+SoVI-58,— A Mysterious Visitor —,,Kilik,Master...?,,N,SoVI-57,SoVI-59
+SoVI-59,— A Mysterious Visitor —,,Edge Master,It is nothing. What are you doing? You have yet to finish your training for the day.,,N,SoVI-58,SoVI-60
+SoVI-60,— A Mysterious Visitor —,,Kilik,"Y-Yes, Master!",,N,SoVI-59,SoVI-61
+SoVI-62,— The Final Test —,,Edge Master,Kilik... You have borne the burden of your training well.,,N,SoVI-61,SoVI-63
+SoVI-63,— The Final Test —,,Kilik,"Yes, Master",,N,SoVI-62,SoVI-64
+SoVI-64,— The Final Test —,,Edge Master,Now we shall see how you fare against me.,,N,SoVI-63,SoVI-65
+SoVI-65,— The Final Test —,,Kilik,An actual fight with you? It would be an honor!,,N,SoVI-64,SoVI-66
+SoVI-66,— The Final Test —,,Edge Master,Why do you hold back? Come at me!,,N,SoVI-65,SoVI-67
+SoVI-67,— The Final Test —,,Kilik,"Yes, Master! Yah!",,N,SoVI-66,SoVI-68
+SoVI-68,— The Final Test —,,Edge Master,Seiii! You have improved. I understand why you were chosen to bear Kali-Yuga.,,N,SoVI-67,SoVI-69
+SoVI-69,— The Final Test —,,,[Kilik recall the night he kills Xianglian.],,Y,SoVI-68,SoVI-70
+SoVI-70,— The Final Test —,,Kilik,…!,,N,SoVI-69,SoVI-71
+SoVI-71,— The Final Test —,,Edge Master,"Kilik, a shadow lies upon your soul. Take heed! If it envelops you completely, the evil within you will stir... and in time tear at your soul until there is nothing left. You need to banish that shadow. I have shown you how to control evil. The rest is up to you.",,N,SoVI-70,SoVI-72
+SoVI-72,— The Final Test —,,Kilik,"Yes, Master...",,N,SoVI-71,SoVI-73
+SoVI-73,— The Final Test —,,Edge Master,"Kilik, this will be your final test. You must seal away Soul Edge, the cause of all this madness, and cleanse yourself of evil.",,N,SoVI-72,SoVI-74
+SoVI-74,— The Final Test —,,Kilik,"Yes, Master!",,N,SoVI-73,SoVI-75
+SoVI-75,— The Final Test —,,Edge Master,"Head west. Keep going to where the wielder of Soul Edge awaits in the heart of a great maelstrom. You must live on, as have I.",,N,SoVI-74,SoVI-76
+SoVI-77,— Kilik’s Journey Begins —,,,[Kilik’s riding in a wagon with some pirate.],,Y,SoVI-76,SoVI-78
+SoVI-78,— Kilik’s Journey Begins —,,Pirate,"So, ya wants to head West, do’s ya? Guess нer in luck, 'cause that’s where we’re goin’. But I warns ya, our ship ain’t whatcha call luxurious.",,N,SoVI-77,SoVI-79
+SoVI-79,— Kilik’s Journey Begins —,,Kilik,"I don’t care, as long as you’re heading West. So, can I join you?",,N,SoVI-78,SoVI-80
+SoVI-80,— Kilik’s Journey Begins —,,Pirate,"Sure, why not? But it could end up costin’ ya a pretty penny, heh heh. Huh? Oi, driver! Where’s ya goin’? This ain’t the way to the dock!",,N,SoVI-79,SoVI-81
+SoVI-81,— Kilik’s Journey Begins —,,Kilik,Huh?,,N,SoVI-80,SoVI-82
+SoVI-82,— Kilik’s Journey Begins —,,Pirate,You deaf or summin?!,,N,SoVI-81,SoVI-83
+SoVI-83,— Kilik’s Journey Begins —,,Kilik,What the...?!,,N,SoVI-82,SoVI-84
+SoVI-84,— Kilik’s Journey Begins —,,,[The driver appears to be… um… zombie?],,Y,SoVI-83,SoVI-85
+SoVI-85,— Kilik’s Journey Begins —,,Driver,Screeeeech!!,,N,SoVI-84,SoVI-86
+SoVI-86,— Kilik’s Journey Begins —,,Kilik,He’s been consumed by evil!,,N,SoVI-85,SoVI-87
+SoVI-87,— Kilik’s Journey Begins —,,Driver,I’ll kill you!,,N,SoVI-86,SoVI-88
+SoVI-88,— Kilik’s Journey Begins —,,Kilik,Damn... You leave me no choice!,,N,SoVI-87,SoVI-89
+SoVI-89,— Kilik’s Journey Begins —,,Pirate,"Phew, ya saved me. Even us pirates ain’t safe from bandits when we’s on land. Thanks, matey!",,N,SoVI-88,SoVI-90
+SoVI-90,— Kilik’s Journey Begins —,,Kilik,Sure.  That was no ordinary bandit. It takes me back to that night. The shadow upon my soul... Xianglian... Am I strong enough...?,(thinking) ,N,SoVI-89,SoVI-91
+SoVI-92,— The Indian Port —,,Kyam,"So yer the guy who saved one of our own? On behalf o’ our captain, Maxi, I welcome ya aboard. But... I’m gonna have to take that mirror from ya till we hit land. Sound reasonable?",,N,SoVI-91,SoVI-93
+SoVI-93,— The Indian Port —,,Kilik,This is one thing I can’t give you.,,N,SoVI-92,SoVI-94
+SoVI-94,— The Indian Port —,,Kyam,Why not? We’re just gonna hold on to it. It ain’t like it’s payment for yer ride or nothin’.,,N,SoVI-93,SoVI-95
+SoVI-95,— The Indian Port —,,Kilik,This is a keepsake from my sister.,,N,SoVI-94,SoVI-96
+SoVI-96,— The Indian Port —,,Kyam,"A keepsake, eh?  Y’know... I dunno what I’da done, if it weren’t for Maxi.  Heh... Kay, fine. I like ya. I’ll go speak to Maxi for ya. Yer one o’ us now.",(thinking) (out loud) ,N,SoVI-95,SoVI-97
+SoVI-97,— The Indian Port —,,Kilik,Thank you...!,,N,SoVI-96,SoVI-98
+SoVI-98,— The Indian Port —,,Kyam,Don’t mention it. [Kilik and Kyam have a friendly chat],,N,SoVI-97,SoVI-99
+SoVI-99,— The Indian Port —,,Kilik,It seems the captain has the trust of his crew.,,N,SoVI-98,SoVI-100
+SoVI-100,— The Indian Port —,,Kyam,"Heh, you’ll see why once ya meet ’im. He ain’t been back since he stepped on land. Prolly got stuck at the bottom o’ a glass. Hm? What the...?!",,N,SoVI-99,SoVI-101
+SoVI-101,— The Indian Port —,,,[Some monsters attack them.],,Y,SoVI-100,SoVI-102
+SoVI-102,— The Indian Port —,,Deck Hand,What?!,,N,SoVI-101,SoVI-103
+SoVI-103,— The Indian Port —,,Flustered Crew Member,Aaagh!,,N,SoVI-102,SoVI-104
+SoVI-104,— The Indian Port —,,Kyam,"Who d’ya think ya are?! Ya got some nerve thinkin’ ya can pick a fight with one o’ us! Hey... Kilik, right? You’re a passenger, so stand back!",,N,SoVI-103,SoVI-105
+SoVI-105,— The Indian Port —,,Kilik,"No, I want to join in.",,N,SoVI-104,SoVI-106
+SoVI-106,— The Indian Port —,,Kyam,"Heh... In that case, welcome to the crew! It’s show time! It never ends!",,N,SoVI-105,SoVI-107
+SoVI-107,— The Indian Port —,,Kilik,Ngh!,,N,SoVI-106,SoVI-108
+SoVI-108,— The Indian Port —,,Astaroth,I don’t understand. Why will you not relinquish your ego and let the evil consume you?,,N,SoVI-107,SoVI-109
+SoVI-109,— The Indian Port —,,Kilik,Who the hell are you?!,,N,SoVI-108,SoVI-110
+SoVI-110,— The Indian Port —,,Astaroth,Is it because of that mirror? You fool! Remember the massacre you caused?! You let yourself run wild! I shall destroy the mirror and free you from its shackles!,,N,SoVI-109,SoVI-111
+SoVI-111,— The Indian Port —,,Kilik,Hrngh!,,N,SoVI-110,SoVI-112
+SoVI-112,— The Indian Port —,,Kyam,"Look out, Kilik!",,N,SoVI-111,SoVI-113
+SoVI-113,— The Indian Port —,,Kilik,Kyam!,,N,SoVI-112,SoVI-114
+SoVI-115,— The Malfested Swarm —,,Maxi,Who is this abomination?! How dare he harm my family! Have at you!,,N,SoVI-114,SoVI-116
+SoVI-116,— The Malfested Swarm —,,Kyam,Maxi…,,N,SoVI-115,SoVI-117
+SoVI-117,— The Malfested Swarm —,,Maxi,Kyam! This is bad...,,N,SoVI-116,SoVI-118
+SoVI-118,— The Malfested Swarm —,,Kyam,Hrnnn!,,N,SoVI-117,SoVI-119
+SoVI-119,— The Malfested Swarm —,,Kyam,"Careful o’ that ax, brother…",,N,SoVI-118,SoVI-120
+SoVI-120,— The Malfested Swarm —,,Maxi,That son of a—! He’ll pay for this... He WILL pay!,,N,SoVI-119,SoVI-121
+SoVI-121,— The Malfested Swarm —,,Astaroth,"Who the hell are you?! Hmph, no matter. You’re just another sacrifice! He still needs strong souls to increase his strength! Fall back!",,N,SoVI-120,SoVI-122
+SoVI-122,— The Malfested Swarm —,,Maxi,Stop right there! What?!,,N,SoVI-121,SoVI-123
+SoVI-123,— The Malfested Swarm —,,,[Kilik transforms into his “evil” form.],,Y,SoVI-122,SoVI-124
+SoVI-124,— The Malfested Swarm —,,Kilik,Ngroooaagggh!,,N,SoVI-123,SoVI-125
+SoVI-125,— The Malfested Swarm —,,Maxi,"What’s with this guy?! We gotta fight him, too?!",,N,SoVI-124,SoVI-126
+SoVI-126,— The Malfested Swarm —,,Kyam,He… he’s one of us…,,N,SoVI-125,SoVI-127
+SoVI-127,— The Malfested Swarm —,,Maxi,"Okay, so I won’t kill him... Just save your strength. Damn. Got my work cut out for me. If the mirror doesn’t work, the only option I’ve got is to kill him! You... can thank... Kyam. Adios, Kyam... everyone...",,N,SoVI-126,SoVI-128
+SoVI-128,— The Malfested Swarm —,,Kyam,Take... Take Kilik west...,,N,SoVI-127,SoVI-129
+SoVI-129,— The Malfested Swarm —,,Maxi,"I know, Kyam... I know... It’s like you said, he’s one of us. I ain’t leaving him behind. And y’know... Those guys’ll be back for ‘im. We will get our revenge! It’s the only reason I live for now.",,N,SoVI-128,SoVI-130
+SoVI-131,— A Violent Confrontation —,,Mitsurugi,You... Are you that nunchaku wielder who wants me dead?,,N,SoVI-130,SoVI-132
+SoVI-132,— A Violent Confrontation —,,Kilik,Maxi...?,,N,SoVI-131,SoVI-133
+SoVI-133,— A Violent Confrontation —,,Maxi,"I have no idea what you’re talking about... Even so, what’s the deal?!",,N,SoVI-132,SoVI-134
+SoVI-134,— A Violent Confrontation —,,Mitsurugi,What? I thought all warriors knew you have to strike first.,,N,SoVI-133,SoVI-135
+SoVI-135,— A Violent Confrontation —,,Kilik,Hold on a sec!,,N,SoVI-134,SoVI-136
+SoVI-136,— A Violent Confrontation —,,Maxi,Looks like we’re done talkin’! I may look easygoing... but I never back down from a challenge!,,N,SoVI-135,SoVI-137
+SoVI-137,— A Violent Confrontation —,,Mitsurugi,"Ha, you’re sure one plucky fellow! I will honor you with a duel!",,N,SoVI-136,SoVI-138
+SoVI-138,— A Violent Confrontation —,,Maxi,Heh. Don’t blame me if you get hurt. Wait. What do you mean you got the wrong person!,,N,SoVI-137,SoVI-139
+SoVI-139,— A Violent Confrontation —,,Mitsurugi,"Hahaha! I’m sorry. I am Mitsurugi. So many people want me dead, it’s hard to keep track.",,N,SoVI-138,SoVI-140
+SoVI-140,— A Violent Confrontation —,,Maxi,Seriously? You may wanna rethink your life choices.,,N,SoVI-139,SoVI-141
+SoVI-141,— A Violent Confrontation —,,Mitsurugi,"Well, if you seek Soul Edge, the most powerful weapon ever, you’re bound to attract trouble, right?",,N,SoVI-140,SoVI-142
+SoVI-142,— A Violent Confrontation —,,Kilik,Soul Edge?,,N,SoVI-141,SoVI-143
+SoVI-143,— A Violent Confrontation —,,Maxi,We’ve got our own beef with that.,,N,SoVI-142,SoVI-144
+SoVI-144,— A Violent Confrontation —,,Mitsurugi,"Well, this is quite a coincidence. Let me just give you this word of advice. Beware of the ninja Taki. Soul Edge and her go hand in hand. So long!",,N,SoVI-143,SoVI-145
+SoVI-145,— A Violent Confrontation —,,Maxi,The hell was up with that guy?,,N,SoVI-144,SoVI-146
+SoVI-146,— A Violent Confrontation —,,Kilik,No idea.,,N,SoVI-145,SoVI-147
+SoVI-147,— A Violent Confrontation —,,Maxi,"He put up a good fight, I’ll give him that. Is everyone that’s looking for Soul Edge like him?",,N,SoVI-146,SoVI-148
+SoVI-148,— A Violent Confrontation —,,Kilik,"Just try not to overdo it, okay, Maxi?",,N,SoVI-147,SoVI-149
+SoVI-149,— A Violent Confrontation —,,Maxi,"Haha! You worry too much! If anything, you’re the one we need to keep an eye on.",,N,SoVI-148,SoVI-150
+SoVI-151,— A Fated Meeting —,,Xianghua,Hyah! Tah! Yah!,,N,SoVI-150,SoVI-152
+SoVI-152,— A Fated Meeting —,,Kilik,Is that...? Is that the Ling-Sheng Su style sword technique? Xianglian…?,,N,SoVI-151,SoVI-153
+SoVI-153,— A Fated Meeting —,,Xianghua,Why’s he staring?,,N,SoVI-152,SoVI-154
+SoVI-154,— A Fated Meeting —,,Kilik,They could be twins...,,N,SoVI-153,SoVI-155
+SoVI-155,— A Fated Meeting —,,Xianghua,"…? Ling-Sheng Su? I’ve heard of it... My mother might’ve trained there when she was younger... She taught me how to use a sword. Admit it, you’re impressed.",,N,SoVI-154,SoVI-156
+SoVI-156,— A Fated Meeting —,,Kilik,"Yeah, I am. You move very... um... gracefully.",,N,SoVI-155,SoVI-157
+SoVI-157,— A Fated Meeting —,,Xianghua,Heehee! Thank you! Are you traveling somewhere?,,N,SoVI-156,SoVI-158
+SoVI-158,— A Fated Meeting —,,Kilik,Yeah. I’m heading west.,,N,SoVI-157,SoVI-159
+SoVI-159,— A Fated Meeting —,,Xianghua,"Really?! Me, too! What are you doing around here?",,N,SoVI-158,SoVI-160
+SoVI-160,— A Fated Meeting —,,Kilik,I just... y’know... happened to be passing through.,,N,SoVI-159,SoVI-161
+SoVI-161,— A Fated Meeting —,,Xianghua,I see... It must be fate!,,N,SoVI-160,SoVI-162
+SoVI-162,— A Fated Meeting —,,Kilik,…!,,N,SoVI-161,SoVI-163
+SoVI-163,— A Fated Meeting —,,,[He recalls the night he kills Xianglian.],,Y,SoVI-162,SoVI-164
+SoVI-164,— A Fated Meeting —,,Edge Master,(in Kilik’s head) A shadow lies upon your soul.,,N,SoVI-163,SoVI-165
+SoVI-165,— A Fated Meeting —,,Xianghua,So I’m Xianghua! And you are?,,N,SoVI-164,SoVI-166
+SoVI-166,— A Fated Meeting —,,Kilik,I...,,N,SoVI-165,SoVI-167
+SoVI-167,— A Fated Meeting —,,Maxi,"Hey, Kilik! You found someone you wanna bring along? Hahaha! I can’t take my eye off you for five seconds, can I?",,N,SoVI-166,SoVI-168
+SoVI-168,— A Fated Meeting —,,Kilik,"No, it’s not —",,N,SoVI-167,SoVI-169
+SoVI-169,— A Fated Meeting —,,Xianghua,"We’re going in the same direction. The more the merrier! Thanks, Kilik.",,N,SoVI-168,SoVI-170
+SoVI-170,— A Fated Meeting —,,Kilik,I… um… okay…,,N,SoVI-169,SoVI-171
+SoVI-172,— Shadow of the Azure Knight —,,Maxi,Nightmare? So he’s the wielder of Soul Edge?,,N,SoVI-171,SoVI-173
+SoVI-173,— Shadow of the Azure Knight —,,Xianghua,"If my investigations are correct, yes.",,N,SoVI-172,SoVI-174
+SoVI-174,— Shadow of the Azure Knight —,,Maxi,"Kind of over-the-top name, isn’t it?",,N,SoVI-173,SoVI-175
+SoVI-175,— Shadow of the Azure Knight —,,Kilik,…,,N,SoVI-174,SoVI-176
+SoVI-176,— Shadow of the Azure Knight —,,Maxi,"Okay, lees go over everything. They’re banding together. And their leader is Nightmare. He’s friends with the jerk I’m after — a real piece of work called Astaroth. Then there’s that lizard freak... and a woman called Ivy, who uses a whip-sword. That’s one hell of a crew.",,N,SoVI-175,SoVI-177
+SoVI-177,— Shadow of the Azure Knight —,,Xianghua,"We could end up facing a whole army. Nightmares are like phantoms. Wherever they appear, they slaughter everyone in sight. They’re monsters.",,N,SoVI-176,SoVI-178
+SoVI-178,— Shadow of the Azure Knight —,,Maxi,What do they want?,,N,SoVI-177,SoVI-179
+SoVI-179,— Shadow of the Azure Knight —,,Xianghua,...Who knows?,,N,SoVI-178,SoVI-180
+SoVI-180,— Shadow of the Azure Knight —,,Maxi,"Kilik, doesn’t your master know anything about all this?",,N,SoVI-179,SoVI-181
+SoVI-181,— Shadow of the Azure Knight —,,Kilik,I don’t know...,,N,SoVI-180,SoVI-182
+SoVI-182,— Shadow of the Azure Knight —,,Xianghua,"Well, that’s just great.",,N,SoVI-181,SoVI-183
+SoVI-183,— Shadow of the Azure Knight —,,Kilik,"Still... Whatever we do, I think our paths will cross at some point.",,N,SoVI-182,SoVI-184
+SoVI-184,— Shadow of the Azure Knight —,,Maxi,"Yeah, at some point.",,N,SoVI-183,SoVI-185
+SoVI-185,— Shadow of the Azure Knight —,,Xianghua,Great…,,N,SoVI-184,SoVI-186
+SoVI-187,— The Warrior in Black —,,Grøh,Hmph.,,N,SoVI-186,SoVI-188
+SoVI-188,— The Warrior in Black —,,Liaison,The order stands as it was.,,N,SoVI-187,SoVI-189
+SoVI-189,— The Warrior in Black —,,Grøh,Understood. I will make contact shortly.,,N,SoVI-188,SoVI-190
+SoVI-190,— The Warrior in Black —,,,[Kilik attacks him.],,Y,SoVI-189,SoVI-191
+SoVI-191,— The Warrior in Black —,,Grøh,Show me what you’ve got!,,N,SoVI-190,SoVI-192
+SoVI-192,— The Warrior in Black —,,,[He split his staff into two swords.],,Y,SoVI-191,SoVI-193
+SoVI-193,— The Warrior in Black —,,Kilik,What?!,,N,SoVI-192,SoVI-194
+SoVI-194,— The Warrior in Black —,,Grøh,If this is all you have... Then your fate is to die here.,,N,SoVI-193,SoVI-195
+SoVI-195,— The Warrior in Black —,,Kilik,Who are you?!,,N,SoVI-194,SoVI-196
+SoVI-196,— The Warrior in Black —,,Grøh,I have no reason to answer that.,,N,SoVI-195,SoVI-197
+SoVI-197,— The Warrior in Black —,,,[Kilik defeat him.],,Y,SoVI-196,SoVI-198
+SoVI-198,— The Warrior in Black —,,Grøh,So it seems my information was sound. I will tell you one thing. Nightmare has established a base in an abandoned castle called Ostrheinsburg. Head there if you seek Soul Edge.,,N,SoVI-197,SoVI-199
+SoVI-199,— The Warrior in Black —,,Kilik,What? Who the hell are you?!,,N,SoVI-198,SoVI-200
+SoVI-200,— The Warrior in Black —,,Grøh,...,,N,SoVI-199,SoVI-201
+SoVI-201,— The Warrior in Black —,,Xianghua,"Kilik, are you okay?!",,N,SoVI-200,SoVI-202
+SoVI-202,— The Warrior in Black —,,Kilik,"Y-Yes, fine.",,N,SoVI-201,SoVI-203
+SoVI-203,— The Warrior in Black —,,Xianghua,"Tell me, Kilik... Who exactly are you? People seem out to get you.",,N,SoVI-202,SoVI-204
+SoVI-204,— The Warrior in Black —,,Kilik,I apologize for getting you involved in all this...,,N,SoVI-203,SoVI-205
+SoVI-205,— The Warrior in Black —,,Xianghua,"Stop acting so formal! Fine, I’ll open up first. I’ve been hiding something from you. I’m searching for Soul Edge, too.",,N,SoVI-204,SoVI-206
+SoVI-206,— The Warrior in Black —,,Kilik,Really…?,,N,SoVI-205,SoVI-207
+SoVI-207,— The Warrior in Black —,,Xianghua,"My country, the Ming Empire... you know it, right? It’s going through some hard times. Violence is the norm. In the hope of saving our land, the emperor asked me directly to search for the Hero’s Sword… Also known as Soul Edge. So, that’s what I’m trying to do. I may not look like one, but I’m a soldier.",,N,SoVI-206,SoVI-208
+SoVI-208,— The Warrior in Black —,,Kilik,…!,,N,SoVI-207,SoVI-209
+SoVI-209,— The Warrior in Black —,,Xianghua,"Surprised? Well, it means I’ve been involved in this from the start. Phew... You’re the first person I’ve told. It was supposed to be an imperial secret. Does that affect things between us?",,N,SoVI-208,SoVI-210
+SoVI-210,— The Warrior in Black —,,Kilik,"Yeah, I guess so... Sorry. I knew some time ago I would have to tell you everything. So I’ll just say it. Soul Edge is evil. It isn’t going to save your empire.",,N,SoVI-209,SoVI-211
+SoVI-211,— The Warrior in Black —,,Xianghua,"Okay... If you say so, it must be true. I thought it was a little strange. How could that so-called Hero’s Sword save our land? Okay, that settles it! I’m going to stick with you, Kilik!",,N,SoVI-210,SoVI-212
+SoVI-212,— The Warrior in Black —,,Kilik,What? But...,,N,SoVI-211,SoVI-213
+SoVI-213,— The Warrior in Black —,,Xianghua,My duty is important to me... but I want to know the truth. I want to see it for myself!,,N,SoVI-212,SoVI-214
+SoVI-214,— The Warrior in Black —,,Kilik,…!,,N,SoVI-213,SoVI-215
+SoVI-215,— The Warrior in Black —,,Xianghua,"Okay, when this journey’s over, escort me back to my land. With Maxi, too, of course. No ifs, ands, or buts!",,N,SoVI-214,SoVI-216
+SoVI-216,— The Warrior in Black —,,Kilik,What have I gotten myself into? I guess it’s fate...,,N,SoVI-215,SoVI-217
+SoVI-217,— The Warrior in Black —,,Xianghua,Don’t you worry about that. I know fate has plunged you into misfortune... but my mother always said... “Fate is carved with your own hands.”,,N,SoVI-216,SoVI-218
+SoVI-218,— The Warrior in Black —,,Kilik,…!,,N,SoVI-217,SoVI-219
+SoVI-219,— The Warrior in Black —,,Xianghua,"Um, I’m kidding?",,N,SoVI-218,SoVI-220
+SoVI-220,— The Warrior in Black —,,Kilik,"Oh, right... Never mind then.",,N,SoVI-219,SoVI-221
+SoVI-222,— For Whom Would You Die? —,,Sophitia,Um...,,N,SoVI-221,SoVI-223
+SoVI-223,— For Whom Would You Die? —,,Kilik,Y-Yes? Is something the matter?,,N,SoVI-222,SoVI-224
+SoVI-224,— For Whom Would You Die? —,,Sophitia,"Um... no… It’s just, you look a little sad.",,N,SoVI-223,SoVI-225
+SoVI-225,— For Whom Would You Die? —,,Kilik,Oh… Really?,,N,SoVI-224,SoVI-226
+SoVI-226,— For Whom Would You Die? —,,Sophitia,"Pardon me, but a re you a traveler?",,N,SoVI-225,SoVI-227
+SoVI-227,— For Whom Would You Die? —,,Kilik,Well… um… Yo could say that.,,N,SoVI-226,SoVI-228
+SoVI-228,— For Whom Would You Die? —,,Sophitia,"I am, too. I mean, I am from this town. I came to this shrine to pray before embarking on my journey. You... you’re a warrior, aren’t you?",,N,SoVI-227,SoVI-229
+SoVI-229,— For Whom Would You Die? —,,Kilik,Yes...,,N,SoVI-228,SoVI-230
+SoVI-230,— For Whom Would You Die? —,,Sophitia,"I was, too. I fought for the longest time... It is why I can never simply pass by someone with as forlorn a countenance as yours.",,N,SoVI-229,SoVI-231
+SoVI-231,— For Whom Would You Die? —,,Kilik,There’s something I must do.,,N,SoVI-230,SoVI-232
+SoVI-232,— For Whom Would You Die? —,,Sophitia,"When you find a reason to fight, you find a reason to punish yourself. I was the same.",,N,SoVI-231,SoVI-233
+SoVI-233,— For Whom Would You Die? —,,Kilik,There are some things we are powerless to do anything about.,,N,SoVI-232,SoVI-234
+SoVI-234,— For Whom Would You Die? —,,Sophitia,"People speak of fate, but I wonder if there is worth in sacrificing yourself for it.",,N,SoVI-233,SoVI-235
+SoVI-235,— For Whom Would You Die? —,,Kilik,I feel so uncertain.,,N,SoVI-234,SoVI-236
+SoVI-236,— For Whom Would You Die? —,,Sophitia,The darkness of the soul can be troubling.,,N,SoVI-235,SoVI-237
+SoVI-237,— For Whom Would You Die? —,,Kilik,"It’s always with me, like a real shadow, dark and unshakable.",,N,SoVI-236,SoVI-238
+SoVI-238,— For Whom Would You Die? —,,Sophitia,"Yet, all is not lost.",,N,SoVI-237,SoVI-239
+SoVI-239,— For Whom Would You Die? —,,Kilik,I can’t just forget the past in order to save myself.,,N,SoVI-238,SoVI-240
+SoVI-240,— For Whom Would You Die? —,,Sophitia,"It is no bad thing to keep hold of the past. Those dear to you will always be in your memories. Still... the past is the past. If you ask me... there are those you need to protect in the here and now. So, you should wear a more fitting expression.",,N,SoVI-239,SoVI-241
+SoVI-241,— For Whom Would You Die? —,,Kilik,"Um, okay.",,N,SoVI-240,SoVI-242
+SoVI-242,— For Whom Would You Die? —,,Sophitia,Listen to me babbling on. Haha.,,N,SoVI-241,SoVI-243
+SoVI-243,— For Whom Would You Die? —,,Kilik,…,,N,SoVI-242,SoVI-244
+SoVI-244,— For Whom Would You Die? —,,Sophitia,I have to go. Hn!,,N,SoVI-243,SoVI-245
+SoVI-245,— For Whom Would You Die? —,,Kilik,Are you okay?,,N,SoVI-244,SoVI-246
+SoVI-246,— For Whom Would You Die? —,,Sophitia,Yes... Pain does indeed lie in the past. I shall pray for your safety.,,N,SoVI-245,SoVI-247
+SoVI-247,— For Whom Would You Die? —,,Kilik,As will I.,,N,SoVI-246,SoVI-248
+SoVI-248,— For Whom Would You Die? —,,,[She leaves.],,Y,SoVI-247,SoVI-249
+SoVI-249,— For Whom Would You Die? —,,Kilik,Those I need to protect in the here and now...,,N,SoVI-248,SoVI-250
+SoVI-251,— The Fu-Ma Ninja —,,Xianghua,Are you sure this is the right way?,,N,SoVI-250,SoVI-252
+SoVI-252,— The Fu-Ma Ninja —,,Kilik,It should be.,,N,SoVI-251,SoVI-253
+SoVI-253,— The Fu-Ma Ninja —,,Xianghua,I can’t believe we got separated from Maxi... Dammit....,,N,SoVI-252,SoVI-254
+SoVI-254,— The Fu-Ma Ninja —,,Kilik,Look out! Hng!,,N,SoVI-253,SoVI-255
+SoVI-255,— The Fu-Ma Ninja —,,Xianghua,Wh-What the...?!,,N,SoVI-254,SoVI-256
+SoVI-256,— The Fu-Ma Ninja —,,,[Something hits Kilik… A shuriken?],,Y,SoVI-255,SoVI-257
+SoVI-257,— The Fu-Ma Ninja —,,Taki,So you made it this far.,,N,SoVI-256,SoVI-258
+SoVI-258,— The Fu-Ma Ninja —,,Kilik,Huh?! Why...? Guhh!,,N,SoVI-257,SoVI-259
+SoVI-259,— The Fu-Ma Ninja —,,Taki,"Is that all it takes to hobble you? If so, do you honestly think you can take on Soul Edge? You’re a fool.",,N,SoVI-258,SoVI-260
+SoVI-260,— The Fu-Ma Ninja —,,Kilik,Ngh...!,,N,SoVI-259,SoVI-261
+SoVI-261,— The Fu-Ma Ninja —,,Taki,No human can bear that power. I’ll stop you here and now before you make contact with the cursed sword!,,N,SoVI-260,SoVI-262
+SoVI-262,— The Fu-Ma Ninja —,,Xianghua,H-Hold on! I won’t let you touch Kilik!,,N,SoVI-261,SoVI-263
+SoVI-263,— The Fu-Ma Ninja —,,Taki,"Oh really? Why do you interfere? You never had anything to do with the sword before. For your own sake, stay out of this.",,N,SoVI-262,SoVI-264
+SoVI-264,— The Fu-Ma Ninja —,,Xianghua,"I didn’t choose to get involved! But now, I’m choosing not to back down!",,N,SoVI-263,SoVI-265
+SoVI-265,— The Fu-Ma Ninja —,,Taki,Huh...? There’s something strange about that sword. How do you like this?!,,N,SoVI-264,SoVI-266
+SoVI-266,— The Fu-Ma Ninja —,,Xianghua,Whoa!,,N,SoVI-265,SoVI-267
+SoVI-267,— The Fu-Ma Ninja —,,Kilik,Haah!,,N,SoVI-266,SoVI-268
+SoVI-268,— The Fu-Ma Ninja —,,Taki,What?!,,N,SoVI-267,SoVI-269
+SoVI-269,— The Fu-Ma Ninja —,,Kilik,What’s wrong...? Had enough?,,N,SoVI-268,SoVI-270
+SoVI-270,— The Fu-Ma Ninja —,,Taki,"Heh. So you controlled the evil yourself. Fair enough. Just take care. Soul Edge is more powerful than ever before. The instant you give yourself over to your shadow, I’ll kill you. You’ve been warned! There’s no escape from a ninja with the power to seal!",,N,SoVI-269,SoVI-271
+SoVI-271,— The Fu-Ma Ninja —,,Kilik,Ngh… Guh…,,N,SoVI-270,SoVI-272
+SoVI-272,— The Fu-Ma Ninja —,,Xianghua,"Are you okay, Kilik?!",,N,SoVI-271,SoVI-273
+SoVI-273,— The Fu-Ma Ninja —,,Kilik,"Y-yeah… I knew pursuing Soul Edge... would be no easy task, but...",,N,SoVI-272,SoVI-274
+SoVI-274,— The Fu-Ma Ninja —,,Xianghua,…,,N,SoVI-273,SoVI-275
+SoVI-276,— The Lady with the Strange Sword —,,Kilik,Once we get through this forest…,,N,SoVI-275,SoVI-277
+SoVI-277,— The Lady with the Strange Sword —,,Maxi,"Yup, it’s the date we’ve all been waiting for. Who knows? Might go well.",,N,SoVI-276,SoVI-278
+SoVI-278,— The Lady with the Strange Sword —,,Xianghua,"I just don’t wanna deal with any more freaks. One lizard’s enough for me,",,N,SoVI-277,SoVI-279
+SoVI-279,— The Lady with the Strange Sword —,,Kilik,Huh?!,,N,SoVI-278,SoVI-280
+SoVI-280,— The Lady with the Strange Sword —,,Xianghua,Gah!,,N,SoVI-279,SoVI-281
+SoVI-281,— The Lady with the Strange Sword —,,Maxi,Speak of the devil!,,N,SoVI-280,SoVI-282
+SoVI-282,— The Lady with the Strange Sword —,,Kilik,Maxi! Don’t do anything rash!,,N,SoVI-281,SoVI-283
+SoVI-283,— The Lady with the Strange Sword —,,Ivy,Hmph.,,N,SoVI-282,SoVI-284
+SoVI-284,— The Lady with the Strange Sword —,,Kilik,Xianghua!,,N,SoVI-283,SoVI-285
+SoVI-285,— The Lady with the Strange Sword —,,Maxi,Are you okay?,,N,SoVI-284,SoVI-286
+SoVI-286,— The Lady with the Strange Sword —,,Ivy,"I’d say that was enough. I have fulfilled my duty. If you want to pursue Nightmare, I don’t care. Do as you please.",,N,SoVI-285,SoVI-287
+SoVI-287,— The Lady with the Strange Sword —,,Xianghua,Hey! Hold on!,,N,SoVI-286,SoVI-288
+SoVI-288,— The Lady with the Strange Sword —,,Kilik,"Xianghua, you can’t go on with your leg like that.",,N,SoVI-287,SoVI-289
+SoVI-289,— The Lady with the Strange Sword —,,Maxi,We’re almost to the castle.,,N,SoVI-288,SoVI-290
+SoVI-291,— Time for Revenge —,,Maxi,A damn trap... Well isn’t this just peachy?!,,N,SoVI-290,SoVI-292
+SoVI-292,— Time for Revenge —,,Xianghua,*strained breathing*,,N,SoVI-291,SoVI-293
+SoVI-294,— Time for Revenge —,,Astaroth,Gweh heh heh... So the reports were true. What sort of idiots try to enter a castle through the front?!,,N,SoVI-293,SoVI-295
+SoVI-295,— Time for Revenge —,,Maxi,Leave him to me. I’ve been looking forward to smacking down this freak!,,N,SoVI-294,SoVI-296
+SoVI-296,— Time for Revenge —,,Astaroth,Hmph... So you came here to die?! What’s this?!,,N,SoVI-295,SoVI-297
+SoVI-297,— Time for Revenge —,,Kilik,Are you here to help us?,,N,SoVI-296,SoVI-298
+SoVI-298,— Time for Revenge —,,Grøh,This way! Hurry!,,N,SoVI-297,SoVI-299
+SoVI-299,— Time for Revenge —,,Xianghua,"Um, but what about Maxi?!",,N,SoVI-298,SoVI-300
+SoVI-300,— Time for Revenge —,,Maxi,I’m fine. Just go!,,N,SoVI-299,SoVI-301
+SoVI-301,— Time for Revenge —,,Astaroth,Impudent fools! You cannot escape me! Gwaaagh!,,N,SoVI-300,SoVI-302
+SoVI-302,— Time for Revenge —,,Maxi,I’m your problem right now.  Is it... over...?,(they fight) ,N,SoVI-301,SoVI-303
+SoVI-303,— Time for Revenge —,,Astaroth,Doryaaah!,,N,SoVI-302,SoVI-304
+SoVI-304,— Time for Revenge —,,Maxi,Gwoof! Talk about a poor loser! Нrrtah!,,N,SoVI-303,SoVI-305
+SoVI-305,— Time for Revenge —,,Astaroth,Gwaaaaaaargh!,,N,SoVI-304,SoVI-306
+SoVI-306,— Time for Revenge —,,,[Asteroth’s defeated.],,Y,SoVI-305,SoVI-307
+SoVI-307,— Time for Revenge —,,Maxi,Everyone... Kyam... this was for you...  Gurhurgh...!,(falls to the ground) ,N,SoVI-306,SoVI-308
+SoVI-309,— No Escape —,,Xianghua,*gasping*,,N,SoVI-308,SoVI-310
+SoVI-310,— No Escape —,,Grøh,Get a hold of yourselves.,,N,SoVI-309,SoVI-311
+SoVI-311,— No Escape —,,Kilik,Her leg.,,N,SoVI-310,SoVI-312
+SoVI-312,— No Escape —,,Grøh,"If you cannot fight, you will be left behind.",,N,SoVI-311,SoVI-313
+SoVI-313,— No Escape —,,Xianghua,I’m fine! Don’t underestimate me!,,N,SoVI-312,SoVI-314
+SoVI-314,— No Escape —,,Kilik,Where are we?,,N,SoVI-313,SoVI-315
+SoVI-315,— No Escape —,,Grøh,"Sorry, but I have to attend to my mission now. The rest is up to you.",,N,SoVI-314,SoVI-316
+SoVI-316,— No Escape —,,Kilik,Th-Thank you.,,N,SoVI-315,SoVI-317
+SoVI-317,— No Escape —,,,[Grøh leaves.],,Y,SoVI-316,SoVI-318
+SoVI-318,— No Escape —,,Kilik,"Xianghua, you should stay here.",,N,SoVI-317,SoVI-319
+SoVI-319,— No Escape —,,Xianghua,Never! I can’t turn away now after all we’ve been through! Let’s do this.,,N,SoVI-318,SoVI-320
+SoVI-320,— No Escape —,,Kilik,...Okay.,,N,SoVI-319,SoVI-321
+SoVI-321,— No Escape —,,,"[They enter the castle, walking carefully and constantly looking around. In the middle of the room, they meet a knight in heavy dark armor, Nightmare.]",,Y,SoVI-320,SoVI-322
+SoVI-322,— No Escape —,,Nightmare,Fate... has chosen you. Why do you resist?,,N,SoVI-321,SoVI-323
+SoVI-323,— No Escape —,,Kilik,Because… that is what it means to be human! I’ll carve... my own fate!,,N,SoVI-322,SoVI-324
+SoVI-324,— No Escape —,,,[They fight and Kilik manages to gain the upper hand over one of the most nightmarish enemies of the universe.],,Y,SoVI-323,SoVI-325
+SoVI-326,— Hell’s Inferno —,,,[The victory costs Kilik a high price.],,Y,SoVI-325,SoVI-327
+SoVI-327,— Hell’s Inferno —,,Kilik,Nnghh!,,N,SoVI-326,SoVI-328
+SoVI-328,— Hell’s Inferno —,,Xianghua,"Are you okay, Kilik?!",,N,SoVI-327,SoVI-329
+SoVI-329,— Hell’s Inferno —,,,[Unexpectedly Nightmare begins to transform...],,Y,SoVI-328,SoVI-330
+SoVI-330,— Hell’s Inferno —,,Kilik,Ngh...!,,N,SoVI-329,SoVI-331
+SoVI-331,— Hell’s Inferno —,,Xianghua,What?!,,N,SoVI-330,SoVI-332
+SoVI-332,— Hell’s Inferno —,,Kilik,Look out!,,N,SoVI-331,SoVI-333
+SoVI-333,— Hell’s Inferno —,,Xianghua,Aaagh!,,N,SoVI-332,SoVI-334
+SoVI-334,— Hell’s Inferno —,,,[A Chinese sword comes down from the sky. Xianghua takes it.],,Y,SoVI-333,SoVI-335
+SoVI-335,— Hell’s Inferno —,,Xianghua,Mother... I... am ready!,,N,SoVI-334,SoVI-336
+SoVI-336,— Hell’s Inferno —,,,[She's defeating the demon.],,Y,SoVI-335,SoVI-337
+SoVI-338,— A Battle with Destiny —,,Xianghua,Is it over yet?!,,N,SoVI-337,SoVI-339
+SoVI-339,— A Battle with Destiny —,,,[The demon is not dead yet.],,Y,SoVI-338,SoVI-340
+SoVI-340,— A Battle with Destiny —,,Xianghua,Stubborn son of a— Agh!,,N,SoVI-339,SoVI-341
+SoVI-341,— A Battle with Destiny —,,Kilik,Xianghua!,,N,SoVI-340,SoVI-342
+SoVI-342,— A Battle with Destiny —,,,"[The demon attacks Xianghua, but Kilik covers her with his body.]",,Y,SoVI-341,SoVI-343
+SoVI-343,— A Battle with Destiny —,,Xianghua,Unh... K-Kilik?!,,N,SoVI-342,SoVI-344
+SoVI-344,— A Battle with Destiny —,,Kilik,It’s okay. Xianglian... give me strength!,,N,SoVI-343,SoVI-345
+SoVI-345,— A Battle with Destiny —,,,[Kilik is transforming into his own... uh... super saiyan form and defeats the demon.],,Y,SoVI-344,SoVI-346
+SoVI-346,— A Battle with Destiny —,,Kilik,Xianghua!,,N,SoVI-345,SoVI-347
+SoVI-347,— A Battle with Destiny —,,,[She runs up and breaks the demon's sword.],,Y,SoVI-346,SoVI-348
+SoVI-349,— You Carve Your Own Fate —,,Kilik,Rngh!,,N,SoVI-348,SoVI-350
+SoVI-350,— You Carve Your Own Fate —,,Xianghua,Aaaagh! Is it... protecting me? B-But…!,,N,SoVI-349,SoVI-351
+SoVI-351,— You Carve Your Own Fate —,,Kilik,Ngh...!,,N,SoVI-350,SoVI-352
+SoVI-352,— You Carve Your Own Fate —,,,[The sword sucks into the rift between the worlds.],,Y,SoVI-351,SoVI-353
+SoVI-353,— You Carve Your Own Fate —,,Xianghua,Agh! The sword!,,N,SoVI-352,SoVI-354
+SoVI-354,— You Carve Your Own Fate —,,Kilik,No! It's too dangerous!,,N,SoVI-353,SoVI-355
+SoVI-355,— You Carve Your Own Fate —,,Xianghua,Nngrraaaaah!,,N,SoVI-354,SoVI-356
+SoVI-356,— You Carve Your Own Fate —,,Kilik,Nnghh!,,N,SoVI-355,SoVI-357
+SoVI-357,— You Carve Your Own Fate —,,,[There comes peace in the world.],,Y,SoVI-356,SoVI-358
+SoVI-358,— You Carve Your Own Fate —,,Kilik,Xianglian…,,N,SoVI-357,SoVI-359
+SoVI-359,— You Carve Your Own Fate —,,Xianghua,Dvapara-Yuga... What a waste.,,N,SoVI-358,SoVI-360
+SoVI-360,— You Carve Your Own Fate —,,Kilik,It's fine.,,N,SoVI-359,SoVI-361
+SoVI-361,— You Carve Your Own Fate —,,Xianghua,"*sigh* Kilik, hold out your hand.",,N,SoVI-360,SoVI-362
+SoVI-362,— You Carve Your Own Fate —,,Kilik,…? This is…,,N,SoVI-361,SoVI-363
+SoVI-363,— You Carve Your Own Fate —,,,[He's got a green crystal in his hand.],,Y,SoVI-362,SoVI-364
+SoVI-364,— You Carve Your Own Fate —,,Xianghua,Hee hee! I just couldn’t resist!,,N,SoVI-363,SoVI-365
+SoVI-365,— You Carve Your Own Fate —,,Kilik,Xianghua... could you hold on to it for me?,,N,SoVI-364,SoVI-366
+SoVI-366,— You Carve Your Own Fate —,,Xianghua,What? But...,,N,SoVI-365,SoVI-367
+SoVI-367,— You Carve Your Own Fate —,,Kilik,Please.,,N,SoVI-366,SoVI-368
+SoVI-368,— You Carve Your Own Fate —,,Xianghua,Okay...,,N,SoVI-367,SoVI-369
+SoVI-369,— You Carve Your Own Fate —,,Xianghua,Thanks. I’ll keep it safe.,,N,SoVI-368,SoVI-370
+SoVI-370,— You Carve Your Own Fate —,,Kilik,Great!,,N,SoVI-369,SoVI-371
+SoVI-371,— You Carve Your Own Fate —,,Narrator,The swords once again left their mark on history and still the march of fate continues onward…,,N,SoVI-370,SoVI-372
+SoVI-372,— You Carve Your Own Fate —,,,[Credits],,Y,SoVI-371,SoVI-373
+SoVI-373,— You Carve Your Own Fate —,,Narrator,The legend will never die.,,N,SoVI-372,SoVI-374

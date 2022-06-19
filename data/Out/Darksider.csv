@@ -1,0 +1,514 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+Da-1,,,﻿Narrator,"Since the dawn of time, the armies of Heaven and Hell have waged an endless war. Drawn to the conflict was the Charred Council, an entity bound by ancient laws to preserve order and balance. It held that any great power, unchecked, threatened the very fabric of the universe. In time, Heaven and Hell came to honor the Council and its laws, for none were beyond the swift and terrible justice of the Council’s enforcers-- a fearsome brotherhood known as the Four Horsemen. Amid the turmoil, the first humans emerged. The Council foretold that these weak, but cunning creatures would someday be integral to the Balance. Thus, a third kingdom was named the Kingdom of Man. By order of the Council, a truce was forged between Heaven and Hell. The great pact was bound by Seven Seals, to be broken at the appointed time-- when Man’s Kingdom stood ready for the Endwar-- a battle that would bring balance, and determine the ultimate fate of the three kingdoms…",,N,,Da-2
+Da-2,,,,"[The apocalypse has begun. War falls from the sky and begint to stretch his arms at the first enemies, recalling the basics.]",,Y,Da-1,Da-3
+Da-3,,,Angel,WAR is here! Judgment approaches!,,N,Da-2,Da-4
+Da-4,,,,"[Suddenly, War loses his massive demonic form.]",,Y,Da-3,Da-5
+Da-5,,,War,What… is happening?,,N,Da-4,Da-6
+Da-6,,,,"[Nevertheless, he continues to fight.]",,Y,Da-5,Da-7
+Da-7,,,Angel,We will not yield! Your justice is at hand.,,N,Da-6,Da-8
+Da-8,,,,[War sees several elite angels fighting demons.],,Y,Da-7,Da-9
+Da-9,,,War,Impossible... Abaddon... What is this? Where are my brothers?,,N,Da-8,Da-10
+Da-10,,,Abaddon,This cannot be. The final Seal...,,N,Da-9,Da-11
+Da-11,,,,[He’s being attacked by a demon.],,Y,Da-10,Da-12
+Da-12,,,Woman Angel,My Lord!,,N,Da-11,Da-13
+Da-13,,,Abaddon,...how... did this happen...?,,N,Da-12,Da-14
+Da-14,,,,[He succeeds in defeating a demon. War is getting worse.],,Y,Da-13,Da-15
+Da-15,,,Abaddon,The Seventh Seal was not broken!!!,,N,Da-14,Da-16
+Da-16,,,,[He’s grabbed the giant stone hand of another demon.],,Y,Da-15,Da-17
+Da-17,,,Woman Angel,Abaddon!  What in Heaven’s name have you done?,(to War) ,N,Da-16,Da-18
+Da-18,,,War,I answer the call.,,N,Da-17,Da-19
+Da-19,,,,[The giant demon that killed Abbadon is attacking War. War takes on a fight and loses. The demon laughs and throws him away.],,Y,Da-18,Da-20
+Da-20,,,War,The Law... has been broken...,,N,Da-19,Da-21
+Da-21,,,Demon,"And so have you, Horseman.",,N,Da-20,Da-22
+Da-22,,,,"[He grabs it and squeezes it in his fist, breaking all the bones. War is now stands before three Judges.]",,Y,Da-21,Da-23
+Da-23,,,Judge 2,"The Law is clear: When the Seventh Seal is broken... Four Horseman shall ride forth co punish the wicked. Four Horsemen shall ride forth to punish the wicked... be they Sons of Men... Lords of Heaven... or the Dregs of Hell... All upon the Earth will be judged, and the pact forged anew... YOU FORGET YOUR POST, HORSEMAN! YOU FORGET THE LAW!! No call was given! Yet the Destroyer marched, and there you were found -- under his black banner if the claims are true.",,N,Da-22,Da-24
+Da-24,,,War,To hell with your claims! The Seals were broken! I was summoned!,,N,Da-23,Da-25
+Da-25,,,Judge 1,But where are the other Horsemen? Were they not “summoned” as well?,,N,Da-24,Da-26
+Da-26,,,Judge 3,"The Seven Seals are hidden, as they have been since the pact was forged, eons ago... all of them intact... there was no call. You aided the Dark Ones. Broke a sacred covenant that has doomed Mankind, and threatened the Balance! Do you deny it?",,N,Da-25,Da-27
+Da-27,,,War,When I rode... Heaven and Hell were already at war. Abaddon was there. He KNEW something...!,,N,Da-26,Da-28
+Da-28,,,Judge 2,"Abaddon fell, fighting off the chaos you unleashed!",,N,Da-27,Da-29
+Da-29,,,War,"I fought, powerless against the demons! And still you accuse me?!",,N,Da-28,Da-30
+Da-30,,,Judge 3,"Your defeat proves nothing! Likely, the Destroyer cast you aside when he was finished with you!",,N,Da-29,Da-31
+Da-31,,,Judge 1,"You have defiled the Law, Horseman. You will be punished.",,N,Da-30,Da-32
+Da-32,,,War,I serve only the Council. Only the balance. As the Horsemen always have. Send me back. I will punish the ones responsible.,,N,Da-31,Da-33
+Da-33,,,Judge 3,How? What hope do you have against the Destroyer’s armies? You are powerless!,,N,Da-32,Da-34
+Da-34,,,War,"Then I will fail, and the demons will have carried out your sentence.",,N,Da-33,Da-35
+Da-35,,,Judge 2,"Very well. You will return to the Earth. But, you will be watched. Come forth.",,N,Da-34,Da-36
+Da-36,,,,[War pushes a hand in a latent glove into lava and burns the seal on it.],,Y,Da-35,Da-37
+Da-37,,,Judge 2,The Watcher is bound to you. It will ensure your loyalty.,,N,Da-36,Da-38
+Da-38,,,Watcher,Remember that. Or I will really get under your skin!,,N,Da-37,Da-39
+Da-39,,,,"[The Watcher brings untold suffering to War, forcing him to fall to his knees before the Council.]",,Y,Da-38,Da-40
+Da-40,,,Judge 2,"ENOUGH! Rise, War... and arm yourself.",,N,Da-39,Da-41
+Da-41,,,,[The Council gives War a sword.],,Y,Da-40,Da-42
+Da-42,,,Judge 2,Chaoseater. The angry blade thirsts for destruction.,,N,Da-41,Da-43
+Da-43,,,,[War accepts it humbly.],,Y,Da-42,Da-44
+Da-44,,,Judge 1,The souls of the dead will be your currency. Some enemies are more easily bought than killed.,,N,Da-43,Da-45
+Da-45,,,,[The Council transmits a large number of souls to War.],,Y,Da-44,Da-46
+Da-46,,,Judge 3,"Seek the demon Vulgrim. Few can afford his services, but perhaps you can strike a bargain.",,N,Da-45,Da-47
+Da-47,,,War,"The Council confers with demons now, does it?",,N,Da-46,Da-48
+Da-48,,,Judge 1,"Since the truce was broken, some demons have fallen from the Destroyer’s favor. Vulgrim is one such outcast... he has long sought an audience with us.",,N,Da-47,Da-49
+Da-49,,,War,How long have I been here?,,N,Da-48,Da-50
+Da-50,,,,"[The Watcher stifles War with pain again and they are teleporting to the human world. Devastation, jagged hellstructures and fire everywhere.]",,Y,Da-49,Da-51
+Da-51,,,Watcher,Looks like our trajectory was a little off.,,N,Da-50,Da-52
+Da-52,,,,[War takes his sword out of the ground and decides to leave.],,Y,Da-51,Da-53
+Da-53,,,Watcher,"Not so fast, Horseman.",,N,Da-52,Da-54
+Da-54,,,,[War is bent in pain.],,Y,Da-53,Da-55
+Da-55,,,Watcher,"Let’s lay down a few ground rules. Until this is over, you’re a dog on a leash. I say bark, you bark. And if I have to kick you, you’d better not bare your teeth. Understand? Or should I teach you to play dead? Good boy.",,N,Da-54,Da-56
+Da-56,,,,[The wrecked parking they landed in appears to be full of zombies.],,Y,Da-55,Da-57
+Da-57,,,Watcher,"Here comes the welcome party. War, why don’t you introduce yourself?",,N,Da-56,Da-58
+Da-58,,Over here!,,[War destroys the enemies and they enter a vast square called The Crossroads.],,Y,Da-57,Da-59
+Da-59,,Over here!,War,How long was I gone?,,N,Da-58,Da-60
+Da-60,,Over here!,Watcher,In Earth years? About a century. Long enough for the last of the mouth breathers to die off.,,N,Da-59,Da-61
+Da-61,,Over here!,War,Then... the Third Kingdom is lost…,,N,Da-60,Da-62
+Da-62,,Over here!,,[He jumps into the square. A demon emerges from the ground.],,Y,Da-61,Da-63
+Da-63,,Over here!,Demon,Subtle. I almost didn’t hear you coming.,,N,Da-62,Da-64
+Da-64,,Over here!,War,Vulgrim.,,N,Da-63,Da-65
+Da-65,,Over here!,Vulgrim,"The Council finally took me seriously. If so, you’re surely not empty handed.... or this shall be the briefest of introductions, not empty handed.",,N,Da-64,Da-66
+Da-66,,Over here!,,[War gives him the souls he received from the Council.],,Y,Da-65,Da-67
+Da-67,,Over here!,Vulgrim,"Mmmm... there were... a few young ones... spectacular! You seek the power behind the one called “Destroyer""? You will find the answers, and the font of his power... there. Oh... such haste to die? You aren’t even a shadow of your former self.... you wouldn’t last a heartbeat. Besides, the way to the Tower is shrouded by demon magics... even I do not know the way.",,N,Da-66,Da-68
+Da-68,,Over here!,War,Who does?,,N,Da-67,Da-69
+Da-69,,Over here!,Vulgrim,Feed my hunger... and I’ll feed your curiosity.,,N,Da-68,Da-70
+Da-70,,Over here!,,[War collects 500 souls for the demon.],,Y,Da-69,Da-71
+Da-71,,Over here!,Vulgrim,"These ancient Gates have a mind of their own. But with THIS... you may reach... an understanding. Beyond the gate, seek out Samael’s Prison. Once, Samael was close in power to the Dark Prince himself. Some might even say, a threat. You will find he is no friend to the Destroyer. Seek me out when you’ve gathered more souls. I will make it worth your while...",,N,Da-70,Da-72
+Da-72,,Over here!,,[War gets the “Earthcaller” horn and goes to the nearby temple. He blows to the horn and wakes up the “door” of the temple.],,Y,Da-71,Da-73
+Da-73,,Over here!,Gate,The Horn call of my ancestors. Awakened at last from the dreamless sleep. Then... we are free?,,N,Da-72,Da-74
+Da-74,,Over here!,War,None are free while the Destroyer still breathes.,,N,Da-73,Da-75
+Da-75,,Over here!,Gate,"Hmmmm... The Destroyer... yes... To his service we are bound, though enemies we remain. So his enemies we call friend. Pass now, friend. Must bring victory. Must bring freedom.",,N,Da-74,Da-76
+Da-76,,Over here!,,[The door’s leaving.],,Y,Da-75,Da-77
+Da-77,,Over here!,Watcher,"If that was the Gate, I can’t WAIT to find out what’s behind it!",,N,Da-76,Da-78
+Da-78,,Over here!,,[Walking through the territory of the temple War goes out into the street and meets a demon that looks like an orc.],,Y,Da-77,Da-79
+Da-79,,Over here!,Phantom General, You have killed many of my warriors.,(in foreign language) ,N,Da-78,Da-80
+Da-80,,Over here!,War, I have yet to find a warrior among you.,(in the same language) ,N,Da-79,Da-81
+Da-81,,Over here!,Phantom General," Do you know what is imprisoned here? There are things even YOU should fear, Horseman! Once you were strong. But now you are weak. And you are alone. The Destroyer knows of your coming. Even now, he moves his legions against you!",(laughs) ,N,Da-80,Da-82
+Da-82,,Over here!,War, Then I’ll make this quick.,(unsheathing his sword) ,N,Da-81,Da-83
+Da-83,,Over here!,,"[Unsure of his victory, the demon calls his warriors.]",,Y,Da-82,Da-84
+Da-84,,Over here!,Phantom General,"I will take your HEAD! To my side, dogs! Destroy this fool! I will take your HEAD! You will pay for that.",,N,Da-83,Da-85
+Da-85,,Over here!,,[War kills a demon by killing him with his own axe. War begins to solve the puzzle with blood and statues.],,Y,Da-84,Da-86
+Da-86,,Over here!,Watcher,"Just ONE hideous, blood puking Gargoyle? The plumbing must be stopped up...",,N,Da-85,Da-87
+Da-87,,Over here!,,[When War opens the portal a huge horned and winged demon comes out of it. It seems to be incredibly strong.],,Y,Da-86,Da-88
+Da-88,,Over here!,Samael,War! Are you here to play executioner? They should have sent all four of you.,,N,Da-87,Da-89
+Da-89,,Over here!,War,"I have no interest in killing you, Samael.",,N,Da-88,Da-90
+Da-90,,Over here!,Samael,Ha! The Destroyer? He’s beyond your reach. Beyond mine.,,N,Da-89,Da-91
+Da-91,,Over here!,War,Has prison made you a coward?,,N,Da-90,Da-92
+Da-92,,Over here!,,[Samael breathes a stream of flame on him. The war hasn’t even moved.],,Y,Da-91,Da-93
+Da-93,,Over here!,Samael,"Perhaps there is a way... But, you will need to get inside the Destroyer’s spire. The Tower is guarded by four of his Chosen. Bring me their Hearts. And ask me no questions... My reasons for helping you are my own.",,N,Da-92,Da-94
+Da-94,,Over here!,War,Where can I find these Guardians?,,N,Da-93,Da-95
+Da-95,,Over here!,Samael,"First, seek the Twilight Cathedral, where the Bat Queen Tiamat has gone to roost. The whole of her domain is a blistered inferno. By land, you will never reach it. Find the high ground... with this. And bring me her still-beating Heart!",,N,Da-94,Da-96
+Da-96,,Over here!,,"[War is on its way. In the cemetery, he meets Vulgrim.]",,Y,Da-95,Da-97
+Da-97,,Over here!,Vulgrim,Samael has returned you in one piece. He must like you...,,N,Da-96,Da-98
+Da-98,,Over here!,,[War finds another “door” and blows the horn.],,Y,Da-97,Da-99
+Da-99,,Over here!,Gate,Hmmmn....,,N,Da-98,Da-100
+Da-100,,Over here!,War,I have come for the Destroyer.,,N,Da-99,Da-101
+Da-101,,Over here!,Gate,"My brothers spoke of your coming. But, a powerful curse holds me now. I cannot help you.",,N,Da-100,Da-102
+Da-102,,Over here!,War,Any curse can be broken.,,N,Da-101,Da-103
+Da-103,,Over here!,Gate,Yes... perhaps... These servants of the Destroyer walk unseen within the Realm of Shadow. By their blood we are bound... By their blood shall we be free.,,N,Da-102,Da-104
+Da-104,,Over here!,War,I’m no longer move within the Shadow Realm. Much of my power has left me.,,N,Da-103,Da-105
+Da-105,,Over here!,Gate,"You need not enter it! I will grant you the power to see into the accursed realm for a time. But, to what end? What hope have we now against the Destroyer’s foul sorcery",,N,Da-104,Da-106
+Da-106,,Over here!,War,Hope will not bring you freedom.,,N,Da-105,Da-107
+Da-107,,Over here!,Gate,Yes...,,N,Da-106,Da-108
+Da-108,,Over here!,,"[The door breathes on War, carrying it into the world of shadows.]",,Y,Da-107,Da-109
+Da-109,,Over here!,Watcher,Find where these Shadow Lurkers hide and KILL THEM ALL! They can’t be that hard to find. Surely this is no challenge for the likes of you? Excellent. I always knew you had it in you. Now THAT was entertaining. Can we do it again?,,N,Da-108,Da-110
+Da-110,,Over here!,,[War deals with the enemies holding the door.],,Y,Da-109,Da-111
+Da-111,,Over here!,Gate,Ancestors praise you.,,N,Da-110,Da-112
+Da-112,,Over here!,,"[The door goes away and War continues his journey. On the destroyed bridge, he notices the angels flying by and hides.]",,Y,Da-111,Da-113
+Da-113,,Over here!,Angel,This way!,,N,Da-112,Da-114
+Da-114,,Over here!,Angel 2,It’s nothing. Some demon trick.,,N,Da-113,Da-115
+Da-115,,Over here!,Angel,I know what I saw.,,N,Da-114,Da-116
+Da-116,,Over here!,Woman Angel,He’s right.,,N,Da-115,Da-117
+Da-117,,Over here!,Angel,Uriel.,,N,Da-116,Da-118
+Da-118,,Over here!,Uriel,"It’s there, beneath the stench of this place... You can sense it. Ancient. From neither the White City nor the Black Depths... something lost between.",,N,Da-117,Da-119
+Da-119,,Over here!,,[War attacks the angels by jumping on one of them flying a griffin.],,Y,Da-118,Da-120
+Da-120,,Over here!,Uriel,"Hellguard, TO ARMS!!! Slay him! Bring him to justice! Bring him down! The Horseman approaches.",,N,Da-119,Da-121
+Da-121,,Over here!,,[War manages to shake off the pursuers and lands at The Twilight Cathedral.],,Y,Da-120,Da-122
+Da-122,,Over here!,Watcher,Tiamat I assume? Guess she wasn’t up for having visitors today.,,N,Da-121,Da-123
+Da-123,,Over here!,,[War begins to rise to the top of this enormous cathedral.],,Y,Da-122,Da-124
+Da-124,,Over here!,Watcher,"What… is this place? I have to admit, for a bunch of weaklings, those humans were full of surprises. Who knows what secrets they buried down here?",,N,Da-123,Da-125
+Da-125,,Over here!,,"[At the top, he finds a huge bat flying straight out of Hell.]",,Y,Da-124,Da-126
+Da-126,,Over here!,Tiamat,"Has the Council reduced the Horsemen to common assassins? Or has Samael bought your loyalty? Because, if you are for sale, Rider... perhaps we can strike a deal.",,N,Da-125,Da-127
+Da-127,,Over here!,War,You won’t like my terms.,,N,Da-126,Da-128
+Da-128,,Over here!,,[War beats a giant bat and rips off her wings.],,Y,Da-127,Da-129
+Da-129,,Over here!,Tiamat,Horseman...,,N,Da-128,Da-130
+Da-130,,Over here!,Watcher,Do it! Tear out her Heart while she still lives... I want to hear her scream!,,N,Da-129,Da-131
+Da-131,,Over here!,Tiamat,...I am... one of the Chosen... I can giant... your every wish...,,N,Da-130,Da-132
+Da-132,,Over here!,War,Can you restore the Balance?,,N,Da-131,Da-133
+Da-133,,Over here!,,[Tiamat screams and War rips her heart out.],,Y,Da-132,Da-134
+Da-134,,Over here!,Wiatcher,"No wonder Samael wants this thing, it’s COURSING with power! You really think he’s going to let you live long enough to collect on your end?",,N,Da-133,Da-135
+Da-135,,Over here!,,[War is teleporting to the entrance to the cathedral. Vulgrim runs up to him.],,Y,Da-134,Da-136
+Da-136,,Over here!,Vulgrim,"Tragic... Without your feathered friend, how will you escape this prison of rock?",,N,Da-135,Da-137
+Da-137,,Over here!,War,I’ll find a way.,,N,Da-136,Da-138
+Da-138,,Over here!,Vulgrim,You have certainly proven yourself.... resourceful. Perhaps I can provide a quicker way.,,N,Da-137,Da-139
+Da-139,,Over here!,War,"Speak plainly, Demon...",,N,Da-138,Da-140
+Da-140,,Over here!,Vulgrim,"Serpent Holes... Ancient paths that worm their way beneath the husk of this dead world... and beyond. I use them to get about, and for a price... so can you!",,N,Da-139,Da-141
+Da-141,,Over here!,War,What do you want... Vulgrim?,,N,Da-140,Da-142
+Da-142,,Over here!,Vulgrim,A trifle really... the Chosen’s heart. I felt its power the moment you stepped from that tower.,,N,Da-141,Da-143
+Da-143,,Over here!,,[War is looking at a cocky demon with an evil eye.],,Y,Da-142,Da-144
+Da-144,,Over here!,Vulgrim,"You wound me, Horseman... I would never come between you and your friend Samael. No, I only wish to look at the heart. One glance... and our bargain is sealed.",,N,Da-143,Da-145
+Da-145,,Over here!,,"[War takes out the heart of Tiamat. Vulgrim greedily draws his hands to it, but War quickly takes it back.]",,Y,Da-144,Da-146
+Da-146,,Over here!,Vulgrim,"Samael will be pleased. The Serpent Holes are yours, Horseman. Seek me out when you wish to use them.",,N,Da-145,Da-147
+Da-147,,Over here!,Watcher,"You’ve brought down Tiamat, have you? The Destroyer will not be pleased. You need Vulgrim more than ever, yesss?",,N,Da-146,Da-148
+Da-148,,Over here!,,[War is returning to Samuel.],,Y,Da-147,Da-149
+Da-149,,Over here!,Samael,I trust that she suffered?,,N,Da-148,Da-150
+Da-150,,Over here!,Watcher,Not nearly enough.,,N,Da-149,Da-151
+Da-151,,Over here!,,[War takes out the heart.],,Y,Da-150,Da-152
+Da-152,,Over here!,Samael,"Beautiful... The second Guardian -- the Griever, moves in tunnels beneath this place. But first, there is an... obstacle that must be removed. Ulthane. One of the Old Ones.",,N,Da-151,Da-153
+Da-153,,Over here!,War,You didn’t mention that before.,,N,Da-152,Da-154
+Da-154,,Over here!,Watcher,"Changing the deal already, Samael?",,N,Da-153,Da-155
+Da-155,,Over here!,Samael," Be silent, filth. My business is with the Horseman. Ulthane is no ally of the Destroyer... but you won’t find the Griever without confronting the Black Hammer. And that will require strength you don’t possess... huh... yet!",(slapping him) ,N,Da-154,Da-156
+Da-156,,Over here!,Watcher,URK! What the hell do you think you’re doing Samael?,,N,Da-155,Da-157
+Da-157,,Over here!,Samael,Tell him Watcher. How you stifle the Horseman’s true power in order to keep him on the Council’s leash. War -- destroy this parasite.,,N,Da-156,Da-158
+Da-158,,Over here!,Watcher,You so much as blink at me and the Council will end you. BOTH of you! I’m PROTECTED!,,N,Da-157,Da-159
+Da-159,,Over here!,Samael,Not in here. You are War! Rider of the Red Horse! Not some puppet on this pathetic creature’s strings!,,N,Da-158,Da-160
+Da-160,,Over here!,Watcher,"War, I will make you suffer! Focus your anger. A great rage stirs within you, clawing to get out. You MUST release it. Or a puppet you’ll remain.",,N,Da-159,Da-161
+Da-161,,Over here!,,"[War gathers all its anger and hatred and smashes The Watcher on the ground, leaving him alive.]",,Y,Da-160,Da-162
+Da-162,,Over here!,Samael,You are reborn!,,N,Da-161,Da-163
+Da-163,,Over here!,,[War gets his demonic form back.],,Y,Da-162,Da-164
+Da-164,,Over here!,Watcher,What... was that?!,,N,Da-163,Da-165
+Da-165,,Over here!,Samael,"The Horseman is broken, but there is still much power in him. For a moment I saw... one who would stand alone against the Destroyer’s ARMY.",,N,Da-164,Da-166
+Da-166,,Over here!,,[War goes to some flooded city and at its furthest end finds another door.],,Y,Da-165,Da-167
+Da-167,,Over here!,Gate,"Forgive me, friend. I would grant you passage were it within my power. Do for me what you have done for my brethren, and I will hinder you no more.",,N,Da-166,Da-168
+Da-168,,Over here!,War,There must be another way.,,N,Da-167,Da-169
+Da-169,,Over here!,Gate,"The Curse must be broken. Then, you may pass.",,N,Da-168,Da-170
+Da-170,,Over here!,Watcher,Find where these Shadow Lurkers hide and KILL THEM ALL! They can’t be that hard to find. I always knew you had it in you. Now THAT was entertaining. Can we do it again? Looks like that was the last of them. Let’s get out of here.,,N,Da-169,Da-171
+Da-171,,Over here!,,[War kills the keepers of the curse in the world of shadows and goes back.],,Y,Da-170,Da-172
+Da-172,,Over here!,Gate,Ancestors praise you. Soon... we will be free…,,N,Da-171,Da-173
+Da-173,,Over here!,,"[War goes on and finds a huge hammer lying in the middle of a ruined building that has been overgrown with bushes. Naturally, it immediately occurs to him to take the hammer for himself - why lose a good tool.]",,Y,Da-172,Da-174
+Da-174,,Over here!,Watcher,"Come on, already! What are you waiting for?!",,N,Da-173,Da-175
+Da-175,,Over here!,Giant Dwarf,You plan on usin’ them hands ever again... You’d best not go touchin’... that what ain’t yers.,,N,Da-174,Da-176
+Da-176,,Over here!,,"[He’s kicking the car he was sitting on off, launching it into the sky.]",,Y,Da-175,Da-177
+Da-177,,Over here!,War,Ulthane.,,N,Da-176,Da-178
+Da-178,,Over here!,Ulthane,You know me. But I don’t know you. And I don’t like strangers. Especially the uninvited kind. And maybe who you are don’t matter as much as what you want.,,N,Da-177,Da-179
+Da-179,,Over here!,War,I’ve come for the Black Hammer.,,N,Da-178,Da-180
+Da-180,,Over here!,Ulthane,"Really now?! Well, you’re welcome to give it another go. But after that, I best not catch you around here again.",,N,Da-179,Da-181
+Da-181,,Over here!,War,It’s you...,,N,Da-180,Da-182
+Da-182,,Over here!,Ulthane,What’s that now?,,N,Da-181,Da-183
+Da-183,,Over here!,War,The Black Hammer... It’s you.,,N,Da-182,Da-184
+Da-184,,Over here!,Ulthane," Do yer worst. But let me tell you a little secret, boy. The one in the dirt, is by far... the easier of the two.",(ready for battle) ,N,Da-183,Da-185
+Da-185,,Over here!,,[They’re starting to fight.],,Y,Da-184,Da-186
+Da-186,,Over here!,Ulthane,"Yer throwin glass against stone, boy. That blade’s big. But I’m bigger.",,N,Da-185,Da-187
+Da-187,,Over here!,Watcher,That blade of yours is useless against him. Perhaps there is another way.,,N,Da-186,Da-188
+Da-188,,Over here!,Ulthane,WATCH OUT!!!,,N,Da-187,Da-189
+Da-189,,Over here!,Watcher,Try getting all big red and nasty on him. Maybe that will work.,,N,Da-188,Da-190
+Da-190,,Over here!,,[War transforms into his demonic form.],,Y,Da-189,Da-191
+Da-191,,Over here!,Ulthane,Impressive! I ain’t been tagged in millennia... Hmm.,,N,Da-190,Da-192
+Da-192,,Over here!,,"[He runs to War wanting to continue the fight, but here the angels come.]",,Y,Da-191,Da-193
+Da-193,,Over here!,Uriel,"One hundred years... Since the day Abaddon was taken from us, I have prayed for this moment. For your crimes, I would see you tried in the White City. But until this world is free of the Destroyer, its gates are closed to us. And justice will not wait. I sentence you, here and NOW!!",,N,Da-192,Da-194
+Da-194,,Over here!,,"[They cross swords, but here one of the angels is nailed to the ground with a huge hammer.]",,Y,Da-193,Da-195
+Da-195,,Over here!,Ulthane,"Yer justice can wait till we finish our little scrap, missy. There ain’t no sport jumpin’ into a tussle what don’t concern you. Go’on! Fly away, pigeons! ’fore I pluck ya.",,N,Da-194,Da-196
+Da-196,,Over here!,Angel 2," Blasphemer, it is you who takes sides... in a battle that doesn’t... concern you...",(trying to lift the hammer) ,N,Da-195,Da-197
+Da-197,,Over here!,Ulthane,Bwawwwwhawwhaww! Please... Allow me.,,N,Da-196,Da-198
+Da-198,,Over here!,,"[He jumps off a building, grabs his hammer, and with one strike smash the angel to the fluff and feathers.]",,Y,Da-197,Da-199
+Da-199,,Over here!,Ulthane,That’s what ya get fer touchin’ what ain’t yerz. I’d duck if I was you.,,N,Da-198,Da-200
+Da-200,,Over here!,,[Massive battle begins. War is looking for the entrance to the subway and together with Ulthane they repel the attacks of numerous angels.],,Y,Da-199,Da-201
+Da-201,,Over here!,Angel,We will not yield! Bring him to justice! Bring him down! For the Light!,,N,Da-200,Da-202
+Da-202,,Over here!,Ulthane,My pillows need a little stuffin’!,,N,Da-201,Da-203
+Da-203,,Over here!,Angel,Your justice is at hand.,,N,Da-202,Da-204
+Da-204,,Over here!,Ulthane,Out of my way!,,N,Da-203,Da-205
+Da-205,,Over here!,Watcher,"I hope this Old One knows where he’s going. We came for the Griever’s Heart, remember?!",,N,Da-204,Da-206
+Da-206,,Over here!,Ulthane,"Is that all you’ve got? Get over here, blast it!",,N,Da-205,Da-207
+Da-207,,Over here!,Angel,The Horseman approaches. For the Hellguard!,,N,Da-206,Da-208
+Da-208,,Over here!,Ulthane,"Shove off, pigeons. Okay, now you’re just showin’ off. Over here, stranger. What you waiting for, drop this thing. C’mon, give us a hand over here.",,N,Da-207,Da-209
+Da-209,,Over here!,,"[They manage to fight off the angels, and the War has killed more angels than Ulthane.]",,Y,Da-208,Da-210
+Da-210,,Over here!,Ulthane,"Quick on the draw, are we? You won. Fair ’n square.",,N,Da-209,Da-211
+Da-211,,Over here!,,[The angel commander is waiting for him outside the door.],,Y,Da-210,Da-212
+Da-212,,Over here!,Uriel,"You’ll go nowhere, Horseman. You cannot escape your fate. Abaddon will be avenged. Defend yourself traitor.",,N,Da-211,Da-213
+Da-213,,Over here!,Watcher,"Gets me all worked up just thinking about killing her, but I’ll settle for watching you do it.",,N,Da-212,Da-214
+Da-214,,Over here!,Ulthane,Impressive!,,N,Da-213,Da-215
+Da-215,,Over here!,,[War win the fight. Two angels carry away the beaten Uriel.],,Y,Da-214,Da-216
+Da-216,,Over here!,Ulthane,"Ah, could be you really are who you say. Them pigeons seemed mighty convinced. But I ain’t. So once again. You know me, but I still don’t know you.",,N,Da-215,Da-217
+Da-217,,Over here!,War,The Griever’s lair.,,N,Da-216,Da-218
+Da-218,,Over here!,Ulthane,The Griever’s beyond here. Had to seal these passages up tight to keep her pets outta my yard. Little bastards kept droppin’ by uninvited. Taking things what don’t belong to ’em.,,N,Da-217,Da-219
+Da-219,,Over here!,War,I am who I claim to be.,,N,Da-218,Da-220
+Da-220,,Over here!,Ulthane,"You kill that Griever. You even make it back out o’ that hole, that’ll be proof enough. Then, I promise, we’ll have words. Now get offa my property before more pigeons come lookin’ an crap in me yard.",,N,Da-219,Da-221
+Da-221,,Over here!,,"[He opens the door to War, and he continues his journey to the second heart. Surprisingly, he meets his target in the foyer, but Griever’s manage to escape.]",,Y,Da-220,Da-222
+Da-222,,Over here!,Watcher,I think all you managed to do was piss her off. Let’s find her and finish the job. And don’t toy around with her this time!,,N,Da-221,Da-223
+Da-223,,Over here!,,"[War begins to survey the half-submerged subway tunnels, solving puzzles with trains and fighting countless monsters. Finally, he finds Griever in the depot. He takes a wagon and smashes the icy shell covering her heart.]",,Y,Da-222,Da-224
+Da-224,,Over here!,Watcher,"Two down, two to go. You might make it to the Tower after all. Then, the real fun begins.",,N,Da-223,Da-225
+Da-225,,Over here!,,[The war will teleport back to Ulthane. He grabbed his hammer with his new reinforcing glove and throws it through his door. The hammer flies an inch from the head of the Ulthane himself. ],,Y,Da-224,Da-226
+Da-226,,Over here!,Ulthane,"Ah. Welcome back, Horseman. You could have knocked. But I suppose that isn’t your way, is it?",,N,Da-225,Da-227
+Da-227,,Over here!,War,Why are you here?,,N,Da-226,Da-228
+Da-228,,Over here!,Ulthane,"Strange question, seein’ how you’re the one, broke into MY house!",,N,Da-227,Da-229
+Da-229,,Over here!,War,"You weren’t always the ’Black Hammer’. You huddle in exile -- a hermit among tombstones. Why? What role did you play in this, Ulthane?",,N,Da-228,Da-230
+Da-230,,Over here!,Ulthane,"Horseman... I’ve got something for you. A fair bit o’ work, but... it’s a bit dainty for me. It’ll serve you better.",,N,Da-229,Da-231
+Da-231,,Over here!,,"[He throws him a gun. War, without hesitation, aims the “gift” to its creator.]",,Y,Da-230,Da-232
+Da-232,,Over here!,War,"You didn’t answer my question, ’Old One’.",,N,Da-231,Da-233
+Da-233,,Over here!,Ulthane,"Maybe I like the scenery. What’s it to you? You asked for my help, and I gave it. You go on bein’ ungrateful and I’m liable to get upset. Do I look like I’m afraid o’ death boy?",,N,Da-232,Da-234
+Da-234,,Over here!,,[The war takes the gun away and walks away.],,Y,Da-233,Da-235
+Da-235,,Over here!,War,It’s not ‘death’ you should fear.,,N,Da-234,Da-236
+Da-236,,Over here!,,[He’s going back to Samael.],,Y,Da-235,Da-237
+Da-237,,Over here!,Samael,Did you enjoy yourself? War and the Black Hammer ‘plucking pigeons’. (laughs],,N,Da-236,Da-238
+Da-238,,Over here!,War,"You see a great many things from inside a prison, Samael.",,N,Da-237,Da-239
+Da-239,,Over here!,Samael,"There is little you can keep from me Horseman, once I have a mind to know it.",,N,Da-238,Da-240
+Da-240,,Over here!,War,And what do you know of Uriel?,,N,Da-239,Da-241
+Da-241,,Over here!,Samael,"Oh, I thought the Horsemen were above such earthly pursuits.",,N,Da-240,Da-242
+Da-242,,Over here!,War,She believes I killed Abaddon.,,N,Da-241,Da-243
+Da-243,,Over here!,Samael,The Hellguard worshiped their fallen lord and leader. And Uriel... some might say her admiration was less than professional. She will stop at nothing to punish the one responsible.,,N,Da-242,Da-244
+Da-244,,Over here!,War,I fought the demon who killed Abaddon. And he will be punished.,,N,Da-243,Da-245
+Da-245,,Over here!,Samael,"Straga is the strongest of the Chosen. No doubt you’ll face him again -- he draws power from the spire, and won’t stand to be away from it for long.",,N,Da-244,Da-246
+Da-246,,Over here!,Samael,"With all I have taught you, you might even survive the reunion.",,N,Da-245,Da-247
+Da-247,,Over here!,War,"Who’s Heart would you have, demon?",,N,Da-246,Da-248
+Da-248,,Over here!,Samael,The Stygian is King of the ancient worms that now plague the Ashlands. It won’t be easy. The worms grow well in such fertile ground.,,N,Da-247,Da-249
+Da-249,,Over here!,War,Fertile?,,N,Da-248,Da-250
+Da-250,,Over here!,Samael,"Fertile with death. Decay. All the land is covered in it. The ashes of the dead. But you may be in luck. It seems that some fool demons have taken to capturing the worms for sport. And they hunt... other creatures as well. The strongest are made to fight in cruel arenas. The demons seek to tame the Stygian. Not knowing that within the monster, there beats a black Heart of the Chosen.",,N,Da-249,Da-251
+Da-251,,Over here!,War,How do the demons avoid the Ashworms?,,N,Da-250,Da-252
+Da-252,,Over here!,Samael,You know of the Chronospheres?,,N,Da-251,Da-253
+Da-253,,Over here!,War,"A gift of The Old Ones. It is said that to master the Chronosphere is to master time itself. One could stop time, or even move it -- forward and back.",,N,Da-252,Da-254
+Da-254,,Over here!,Samael,"Indeed. None of the old masters exist, but the demons have learned to use them, to a lesser degree... I can grant you a basic understanding of the Chronosphemes. It won’t be much -- perhaps just enough to avoid the worms.",,N,Da-253,Da-255
+Da-255,,Over here!,War,Perhaps?,,N,Da-254,Da-256
+Da-256,,Over here!,Samael,"Perhaps not. What in this life is certain, Horseman...? ...other than our word, of course?",,N,Da-255,Da-257
+Da-257,,Over here!,,[War goes to the desert to find the Stygian...],,Y,Da-256,Da-258
+Da-258,,Over here!,Watcher,Samael wasn’t kidding about those worms! And the Stygian’s supposed to be the ‘mean’ one...,,N,Da-257,Da-259
+Da-259,,Over here!,,[War is being attacked by entire hordes of various beings.],,Y,Da-258,Da-260
+Da-260,,Over here!,Dual Blade Demon,Destroy him! My sisters warned me of you.,,N,Da-259,Da-261
+Da-261,,Over here!,Demon with Axe,"To my side, dogs! You’ll not take another step! He comes. We do not fear you. Die! Is that all? Bury him, Tear him apart! His death will bring us glory. He can’t kill us all. A feast for the worms! Hahaha. Fools, he is dangerous! Leave nothing of him!",,N,Da-260,Da-262
+Da-262,,Over here!,,[When War sliced up an entire pile of monsters his faces their captain - horned freak in the hood on a fiery horse.],,Y,Da-261,Da-263
+Da-263,,Over here!,Horned Freak,"You disappoint me, Horseman. You look quite small from up here.",,N,Da-262,Da-264
+Da-264,,Over here!,War,You can look me in the eye when I kill you.,,N,Da-263,Da-265
+Da-265,,Over here!,Horned Freak,"Let’s see how you fare, Horseman, with only two legs to carry you.",,N,Da-264,Da-266
+Da-266,,Over here!,,[The fight begins.],,Y,Da-265,Da-267
+Da-267,,Over here!,Horned Freak,"I will savor this victory. You fight well! I’ll make this quick, but not painless. Look how he cowers!! His death will bring us glory.",,N,Da-266,Da-268
+Da-268,,Over here!,,"[The war chops off his legs, looking him right in the eyes. But his horse is still alive.]",,Y,Da-267,Da-269
+Da-269,,Over here!,Watcher,What do you think you’re doing? That thing’s lost its mind! KILL IT! Enough I said! Finish it.,,N,Da-268,Da-270
+Da-270,,Over here!,War,Ruin... I won’t fight you.,,N,Da-269,Da-271
+Da-271,,Over here!,Watcher,You FOOL! I order you to break that nag.,,N,Da-270,Da-272
+Da-272,,Over here!,War,"And if I refuse, you’ll kill me? I’ll take my chances.",,N,Da-271,Da-273
+Da-273,,Over here!,,[Ruin goes back to her master. The subordinates of the killed ringleader are going on the field.],,Y,Da-272,Da-274
+Da-274,,Over here!,Watcher,Are you not entertained?!,,N,Da-273,Da-275
+Da-275,,Over here!,,"[On Ruin’s back, War easily dealt with them.]",,Y,Da-274,Da-276
+Da-276,,Over here!,Watcher,"You’re little reunion brings a tear to my eye, now can we go?! That filthy beast might be your only hope of finding the Stygian.",,N,Da-275,Da-277
+Da-277,,Over here!,,[They encounter a giant sandworm.],,Y,Da-276,Da-278
+Da-278,,Over here!,Watcher,"Did you see that? There was something glowing in it’s mouth right before it turned you into kibble! Well done. But that was only practice for the Stygian. The biggest, and meanest of them all.",,N,Da-277,Da-279
+Da-279,,Over here!,,[Soon the War taste the fighting with the Sandworm King himself.],,Y,Da-278,Da-280
+Da-280,,Over here!,Watcher,"So, that’s the Stygian. Looks like they worked him over pretty good. Now you just have to get in there and finish what they started. Ride Horseman! Do what you were BORN to do!",,N,Da-279,Da-281
+Da-281,,Over here!,,"[Finally, Stygian is defeated.]",,Y,Da-280,Da-282
+Da-282,,Over here!,Watcher,"I guess there’s nothing left to do but get the Stygian’s Heart back to Samael. Still, all these hearts the power he’ll get from them... I hope you know what you’re doing.",,N,Da-281,Da-283
+Da-283,,Over here!,Vulgrim,Bravo Horseman... Even the ash crawling Stygian lies dead in your wake. Who can stand against you?,,N,Da-282,Da-284
+Da-284,,Over here!,,[War returns to Samael.],,Y,Da-283,Da-285
+Da-285,,Over here!,Samael,"One more... Just one more -- and then, War... you get your Tower. Silitha’s web-infested lair is far across a great chasm in the Ashlands. Ruin has yet to regain much of his strength, but he will make the distance. As for, Silitha -- just get there, and she’ll find you. The Broodmother is a collector of sorts. Most who enter her realm, she feeds to her young. The ones she takes an interest in... ah, those are the unlucky ones. Those she keeps alive. And they can live a long time... long enough to tell her things. You could say she collects stories. Information.",,N,Da-284,Da-286
+Da-286,,Over here!,War,"What stories will she tell me about you, Samael?",,N,Da-285,Da-287
+Da-287,,Over here!,Samael," Careful!! Or your ending will be a tragic one! Sometimes, the hero dies in the end.  But Horseman... I like stories that have a happy ending. Now bring me the final Heart!",(screams) (soft voice) ,N,Da-286,Da-288
+Da-288,,Over here!,,"[War gets back on the road. As soon as he enters the desert, he’s attacked by some spiders. War turns out to be tied by a spider web in a huge building of a former factory, as it seems to be. War begins to break through the spider web and crowds of spiders to his target. At the very top of the building, he finds who he’s looking for.]",,Y,Da-287,Da-289
+Da-289,,Over here!,Watcher,"Silitha’s lair must lie beyond that sticky barrier, let’s finish this!",,N,Da-288,Da-290
+Da-290,,Over here!,Silitha,"You honor me with your presence, Horseman. There are so many stories about you. You have killed three of the Chosen. Taken their Hearts. Disturbing.... Is that why you have come? To slay the final Tower Guardian? To take my Heart? Did Samael tell you how we came to bear his tainted blood? Why his accursed power beats within our breast? It is not the Tower that the Chosen protect, Horseman Our charge, is to prevent Samael’s return at any cost. You may kill me and return to Samael with my Heart. But in him, you will face a threat greater than all the Chosen combined.",,N,Da-289,Da-291
+Da-291,,Over here!,War,"I did not come for your counsel, spider. Or your stories.",,N,Da-290,Da-292
+Da-292,,Over here!,Silitha,My children will dance to the music of your screams.,,N,Da-291,Da-293
+Da-293,,Over here!,,[Epic battle begins.],,Y,Da-292,Da-294
+Da-294,,Over here!,Silitha,"Don’t rush our embrace… Ah! Hold still, little one.",,N,Da-293,Da-295
+Da-295,,Over here!,Watcher,You need to find a way to get close to her!,,N,Da-294,Da-296
+Da-296,,Over here!,Silitha,Ah! You are a fool to trust Samael. You’ll never take my Heart!,,N,Da-295,Da-297
+Da-297,,Over here!,,[War kills the huge spider by dumping it on a sharp rock.],,Y,Da-296,Da-298
+Da-298,,Over here!,Watcher,Samael will be waiting for the last Heart. You think he’s going to let you live long enough to collect on your end?,,N,Da-297,Da-299
+Da-299,,Over here!,,[War is returning to Samuel.],,Y,Da-298,Da-300
+Da-300,,Over here!,Vulgrim,"Silitha, I liked. Such a pity. But perhaps--you have souls to ease my sorrow?",,N,Da-299,Da-301
+Da-301,,Over here!,Samael,I was beginning to worry you might not live up to your end of the bargain. Give it to me.,,N,Da-300,Da-302
+Da-302,,Over here!,,[War is not in a hurry to approach him. He has the heart of Silitha in one hand. The other is clutching his sword.],,Y,Da-301,Da-303
+Da-303,,Over here!,War,You lied to me about the Chosen... They never guarded the Tower.,,N,Da-302,Da-304
+Da-304,,Over here!,Samael,"What does it matter? Our deal wasn’t for ancient history. I promised you the Tower, and you shall have it.",,N,Da-303,Da-305
+Da-305,,Over here!,,[Samael eats the last heart and is freed from his shackles.],,Y,Da-304,Da-306
+Da-306,,Over here!,Samael,"Did it amuse you, to deny me what’s rightfully mine? With my powers restored, I am like unto a GOD! I could suck the marrow from your bones before you drew another breath. I could... but I too have a code by which I do business. Besides, say what you will about Balance and your ridiculous Law. I recognize a quest for revenge when I see one. And revenge, I respect! As for the details of my ’resignation’… well... I do not approve of the company my master keeps.",,N,Da-305,Da-307
+Da-307,,Over here!,,[He’s opening a portal for War.],,Y,Da-306,Da-308
+Da-308,,Over here!,War,"Why did you challenge the Destroyer, Samael?",,N,Da-307,Da-309
+Da-309,,Over here!,Samael,"See your journey to its end, Horseman, you will understand soon enough.",,N,Da-308,Da-310
+Da-310,,Over here!,War,You --- trust him?! Who knows where in the Nine Hells this portal will take us?!,,N,Da-309,Da-311
+Da-311,,Over here!,Samael,We will meet again.,,N,Da-310,Da-312
+Da-312,,Over here!,,[War teleports to the Black Throne where it meets an angel with big wings.],,Y,Da-311,Da-313
+Da-313,,Over here!,War,Azrael...,,N,Da-312,Da-314
+Da-314,,Over here!,Azrael,Heaven help me... Th-the Seventh Seal... was not broken...,,N,Da-313,Da-315
+Da-315,,Over here!,War,"What have you to fear from me, Angel of Death?",,N,Da-314,Da-316
+Da-316,,Over here!,Azrael,"If you do not intend to kill me, then perhaps... you will help me?",,N,Da-315,Da-317
+Da-317,,Over here!,War,You’ve given me no reason to do either.,,N,Da-316,Da-318
+Da-318,,Over here!,Azrael,Listen to me. The Gate must be shut. The Tower must be cut off from the well! It is from the Well that the Destroyer draws his power.,,N,Da-317,Da-319
+Da-319,,Over here!,War,The Well of Souls?,,N,Da-318,Da-320
+Da-320,,Over here!,Azrael,Millions of souls... yes. Enslaved... twisted. A corrupt power to fuel the Destroyer’s armies!,,N,Da-319,Da-321
+Da-321,,Over here!,War,"You are Steward of the Underworld. Watcher of the Well. Not a single soul flows back into this world without you knowing... unless, gatekeeper, you opened the way?",,N,Da-320,Da-322
+Da-322,,Over here!,Azrael,"The Destroyer sent the mightiest of his Chosen against me. I fared no better than you did, Horseman... against Straga.",,N,Da-321,Da-323
+Da-323,,Over here!,War,Straga! You will take me to him?,,N,Da-322,Da-324
+Da-324,,Over here!,Azrael,You have my word.,,N,Da-323,Da-325
+Da-325,,Over here!,War,Then tell me what I must do... Angel of Death.,,N,Da-324,Da-326
+Da-326,,Over here!,Azrael,"Please, you must find some way to draw power to this chamber!",,N,Da-325,Da-327
+Da-327,,Over here!,,[],,Y,Da-326,Da-328
+Da-328,,Over here!,Azrael,"Horseman... I never imagined that you would be my salvation. Hurry now, before Straga learns of your coming.",,N,Da-327,Da-329
+Da-329,,Over here!,War,"When I found you, you said, “The Seventh Seal was not broken”. I’ve heard those words before. Abaddon said the same... right before he died.",,N,Da-328,Da-330
+Da-330,,Over here!,Azrael,The beams... redirect the beams...,,N,Da-329,Da-331
+Da-331,,Over here!,,[The war goes to solve many puzzles to redirect the rays for the Angel of Death. After he’s succeeded...],,Y,Da-330,Da-332
+Da-332,,Over here!,Azrael,"The universe... is sick, Horseman. The Charred Council refuses to admit it, but those of us who look... we see... we had to do something.",,N,Da-331,Da-333
+Da-333,,Over here!,,[Azrael recalls the event before the Apocalypse.],,Y,Da-332,Da-334
+Da-334,,Over here!,Azrael,An open attack on the Dark Kingdom would violate the treaty! What you’re proposing is madness!,,N,Da-333,Da-335
+Da-335,,Over here!,Abaddon,"Azrael, evil darkens every corner of creation... and Heaven waits?! The Council ties our hands!!",,N,Da-334,Da-336
+Da-336,,Over here!,Azrael,To question them is to question the Creator... Do you believe you know better?,,N,Da-335,Da-337
+Da-337,,Over here!,Abadon,"Yes, old friend... I do. When the Seals are broken, Hell will send its Chosen to declare battle rights. Their leaders will be gathered in one place. And there... we will sever the head of the beast.",,N,Da-336,Da-338
+Da-339,,Over here!,Azrael,Breaking the Seals will trigger the Endwar! The Kingdom of Man is not yet strong enough. Earth will be destroyed!!,,N,Da-338,Da-340
+Da-340,,Over here!,Abaddon,"No, there will be no war, Azrael! We will crush the Dark Ones before it’s even begun.",,N,Da-339,Da-341
+Da-341,,Over here!,Azrael,The pact is a sacred covenant. Even in victory we will face the wrath of the Council.,,N,Da-340,Da-342
+Da-342,,Over here!,Abaddon,"They will arrive to find the Seals intact. And it will be our word... Heaven’s word, against that of the Prince of Lies. Now do you see?",,N,Da-341,Da-343
+Da-343,,Over here!,Azrael,"The Seals will be reforged. All will believe that Hell’s legions invaded and were delivered to justice by our hand. For the Glory of the Light, will you do this?",,N,Da-342,Da-344
+Da-344,,Over here!,Ulthane,Oh Azrael... you old fool.,,N,Da-343,Da-345
+Da-345,,Over here!,,"[He gives Azrael a skillfully decorated blade that radiates with magic. Azrael reads the spell, and stuck the sword into the seal. Back to the present.]",,Y,Da-344,Da-346
+Da-346,,Over here!,Azrael,We broke all but one. Abaddon ordered the final Seal not be harmed. He protected it himself!,,N,Da-345,Da-347
+Da-347,,Over here!,War,Are you certain?,,N,Da-346,Da-348
+Da-348,,Over here!,Azrael,"Without question. We... dared not involve the Horsemen. We never dreamed we would have to, until it was too late...",,N,Da-347,Da-349
+Da-349,,Over here!,War,Yet I am to pay the price for your betrayal!,,N,Da-348,Da-350
+Da-350,,Over here!,Watcher,"Treason!!! War, you will root out all involved, and make them PAY! Starting with this one!",,N,Da-349,Da-351
+Da-351,,Over here!,War,Νο.,,N,Da-350,Da-352
+Da-352,,Over here!,Watcher,Fool! You deny the will of the Council?,,N,Da-351,Da-353
+Da-353,,Over here!,War,You heard the angel’s confession. My service to the Council is ended.,,N,Da-352,Da-354
+Da-354,,Over here!,,[The Watcher is stifling war with pain.],,Y,Da-353,Da-355
+Da-355,,Over here!,Watcher,"We made you! We own you! You’re not done until you find the Destroyer and shut him down! “Balance""... remember? Get up. Azrael lives until he stops being useful. After that, you WILL do your duty.",,N,Da-354,Da-356
+Da-356,,Over here!,,[War continues to solve puzzles.],,Y,Da-355,Da-357
+Da-357,,Over here!,Azrael,"One final beam, and I will be free.",,N,Da-356,Da-358
+Da-358,,Over here!,,"[Finally, Azrael is released and opens the passage to the master of the tower.]",,Y,Da-357,Da-359
+Da-359,,Over here!,Azrael,Please... leave me... Straga awaits.,,N,Da-358,Da-360
+Da-360,,Over here!,Watcher,"Looks like you’ve finally outlived your usefulness, Azrael.",,N,Da-359,Da-361
+Da-361,,Over here!,Azrael,"And how do you propose to leave the Tower once Straga has been dealt with? Straga and the Tower are one. Even if you manage to defeat him, you’ll be trapped without me,",,N,Da-360,Da-362
+Da-362,,Over here!,War,We need him.,,N,Da-361,Da-363
+Da-363,,Over here!,Azrael,Pray the Horseman doesn’t make it back alive.,,N,Da-362,Da-364
+Da-364,,Over here!,,"[War goes up and enters a vast hall, where the demon he encountered during the Apocalypse awaits him.]",,Y,Da-363,Da-365
+Da-365,,Over here!,Straga,Hmmm... You are stronger than Straga remembers. But here you face Straga with no hope of victory or escape. Straga is the mightiest of the Destroyer’s CHOSEN!,,N,Da-364,Da-366
+Da-366,,Over here!,War,And the last. Your master chose poorly.,,N,Da-365,Da-367
+Da-367,,Over here!,,[He takes out his sword and the fight begins.],,Y,Da-366,Da-368
+Da-368,,Over here!,Straga," Straga will enjoy killing you again! How long will you run from Straga? This time, you will STAY dead! Tricky Horseman… now it’s Straga’s turn!",(laughs) ,N,Da-367,Da-369
+Da-369,,Over here!,,[War penetrates into Straga and breaks out of his skull. Azrael appears.],,Y,Da-368,Da-370
+Da-370,,Over here!,Azrael,"As I said, Straga and the Tower are one. Now, let’s see how useful I can be.",,N,Da-369,Da-371
+Da-371,,Over here!,,[He’s turning a dead body of the mater of the tower into a giant portal.],,Y,Da-370,Da-372
+Da-372,,Over here!,Azrael,Into the well! HURRY!,,N,Da-371,Da-373
+Da-373,,Over here!,,"[They move to some bright, calm and blooming place.]",,Y,Da-372,Da-374
+Da-374,,Over here!,Azrael,"He came to me after his death. Abaddon. Alive, and I wanted so much to believe... I was such a fool...",,N,Da-373,Da-375
+Da-375,,Over here!,War,Azrael -- you saw Abaddon after he fell?,,N,Da-374,Da-376
+Da-376,,Over here!,Azrael,Saw him? I brought him here -- to Eden.,,N,Da-375,Da-377
+Da-377,,Over here!,Watcher,What treachery is this Azrael? Eden doesn’t exist. Not any more...,,N,Da-376,Da-378
+Da-378,,Over here!,Azrael,"Ignorant sprite! I bore witness as the First Ones were cast out and the Garden fell to ruin! I could not let Heaven’s first gift... and greatest weapon, simply rot, or worse, fall to darkness. I...hid it away.",,N,Da-377,Da-379
+Da-379,,Over here!,War,The Tree of Knowledge. Then... Abaddon has been to the tree?!,,N,Da-378,Da-380
+Da-380,,Over here!,Azrael,"You must draw upon its gifts now. If some way exists to stop the Destroyer, the tree will show it to you. I never dared use it myself. Perhaps if I had, things would have been... different.",,N,Da-379,Da-381
+Da-381,,Over here!,War,And Abaddon? What of his gift?,,N,Da-380,Da-382
+Da-382,,Over here!,Azrael,"That was not for me to know. Each who comes before the tree receives a different gift. Some receive nothing. Others are driven mad by visions, or simply destroyed. No, I cannot say for certain. Come.",,N,Da-381,Da-383
+Da-383,,Over here!,War,There’s no way across.,,N,Da-382,Da-384
+Da-384,,Over here!,Azrael,"There is, for those who are worthy. Or those who can fly. Horseman, you have fought against the darkness so long that it has marked you. Creatures of the light will sense it, as I have. In this place you are worse than a demon. Conquer the shadow! Then, you may pass. Are you ready to face yourself in the light? Not all are prepared for what they see.",,N,Da-383,Da-385
+Da-385,,Over here!,War,The Mask of Shadows.,,N,Da-384,Da-386
+Da-386,,Over here!,Azrael,Yes. You will see into the Shadow Realm for as long as you wear the Mask. Fight well.,,N,Da-385,Da-387
+Da-387,,Over here!,,[War has to fight its own shadow.],,Y,Da-386,Da-388
+Da-388,,Over here!,Azrael,"Heaven’s first gift awaits you. I will remain here, with the Watcher.",,N,Da-387,Da-389
+Da-389,,Over here!,Watcher,"I’m not letting the Horseman out of my sight! Where he goes, I go!",,N,Da-388,Da-390
+Da-390,,Over here!,Azrael,Indeed? Go then darkling -- make for the Tree. You will never reach the other side.,,N,Da-389,Da-391
+Da-391,,Over here!,,[The Watcher is shackling War with pain again.],,Y,Da-390,Da-392
+Da-392,,Over here!,Watcher,Hurry up! And don’t forget who holds the leash.,,N,Da-391,Da-393
+Da-393,,Over here!,,[The war goes upstairs and enters the courtyard. Everything around is shrouded in mist. He is overwhelmed by a vision of past events.],,Y,Da-392,Da-394
+Da-394,,Over here!,Uriel,Would you serve in Heaven? Or rule in Hell?,,N,Da-393,Da-395
+Da-395,,Over here!,Abaddon,"A storm is coming, Uriel. Soon - I will need you at my side.",,N,Da-394,Da-396
+Da-396,,Over here!,Uriel,"I would follow you into Hell, my Lord.",,N,Da-395,Da-397
+Da-397,,Over here!,Abaddon,They knew... how did they...?,,N,Da-396,Da-398
+Da-398,,Over here!,Uriel, “The best laid plans...” or so the humans used to say.,(laughs) ,N,Da-397,Da-399
+Da-399,,Over here!,Abaddon,You... did this...?,,N,Da-398,Da-400
+Da-400,,Over here!,Uriel,You plotted and schemed to call us to this world. I simply took advantage of your initiative.,,N,Da-399,Da-401
+Da-401,,Over here!,Abaddon,ΝΟ...,,N,Da-400,Da-402
+Da-402,,Over here!,Uriel,"I will consider this an offering Abaddon -- and you, my loyal servant. Join me, and take up the mantle of the Destroyer!",,N,Da-401,Da-403
+Da-403,,Over here!,Abaddon,NO...,,N,Da-402,Da-404
+Da-404,,Over here!,Uriel,"Once the Throne learns what you’ve done, you will be cast down. Dragged in chains before the Council. You’re already damned. So, I offer you this choice... Would you serve in Heaven? Or rule in hell?",,N,Da-403,Da-405
+Da-405,,Over here!,,[Abaddon screams and turns into a giant fire-breathing dragon – The Destroyer.],,Y,Da-404,Da-406
+Da-406,,Over here!,Uriel,"Now, return to Azrael. Persuade him to help us. Then... together, we will change the face of the universe. (laughs]",,N,Da-405,Da-407
+Da-407,,Over here!,Judge 2,Abaddon MUST be punished! He bends the Law to his will! Laughs in the face of the Council!,,N,Da-406,Da-408
+Da-408,,Over here!,Judge 1,"What proof do we have? The Seals are intact! No doubt the angel had help. But from whom? Until we know, we must WAIT!",,N,Da-407,Da-409
+Da-409,,Over here!,Judge 2,His act breeds open defiance! The Council weakens... How long before we are overthrown?,,N,Da-408,Da-410
+Da-410,,Over here!,Judge 1,We cannot stop Abaddon... but there are others who might -- if they had reason...,,N,Da-409,Da-411
+Da-411,,Over here!,Judge 3,"We dare not send the Four! Without proof, there is no justice. Only murder. They will see no reason in this... assassination!",,N,Da-410,Da-412
+Da-412,,Over here!,Judge 1,"We will send one, for whom vengeance is reason enough.",,N,Da-411,Da-413
+Da-413,,Over here!,Abaddon the Destroyer, The blade is scattered. I guard the Seventh Seal! This world is ours! Heaven is ours!!,(holding the seal in his hand) ,N,Da-412,Da-414
+Da-414,,Over here!,Watcher,You had to know it was a one way ticket...,,N,Da-413,Da-415
+Da-415,,Over here!,,[War is waking up. In his hands is the handle of the sword with which he was pierced in his memories - the sword with which the seal was broken.],,Y,Da-414,Da-416
+Da-416,,Over here!,Watcher,Well?,,N,Da-415,Da-417
+Da-417,,Over here!,War,Abaddon is the Destroyer.,,N,Da-416,Da-418
+Da-418,,Over here!,Watcher,The Archangel?,,N,Da-417,Da-419
+Da-419,,Over here!,War,He was betrayed. He is only a pawn in some greater game.,,N,Da-418,Da-420
+Da-420,,Over here!,Azrael,You must... bring him peace...,,N,Da-419,Da-421
+Da-421,,Over here!,Watcher,Peace? Abaddon is the Destroyer! I’m pretty sure peace is off the table.,,N,Da-420,Da-422
+Da-422,,Over here!,Azrael,Did you find any clues among the visions? A way to stop--him?,,N,Da-421,Da-423
+Da-423,,Over here!,War,There was a sword--one which broke the seals.,,N,Da-422,Da-424
+Da-424,,Over here!,Azrael,"The Armageddon Blade. But... after the seals were broken, Abaddon ordered the blade destroyed, on the very anvil of its creation Horseman... I fear the blade is lost to us now.",,N,Da-423,Da-425
+Da-425,,Over here!,War,It will be made again.,,N,Da-424,Da-426
+Da-426,,Over here!,Watcher,What else did you see?,,N,Da-425,Da-427
+Da-427,,Over here!,War,Abaddon guards the Seventh Seal. He plots with others to storm the White Gates. Uriel will lead the Hellguard against him... and fail.,,N,Da-426,Da-428
+Da-428,,Over here!,Watcher,What else did you see?,,N,Da-427,Da-429
+Da-429,,Over here!,War,I saw nothing else.,,N,Da-428,Da-430
+Da-430,,Over here!,Azrael,"I will open a gate to return us. Once it is closed, the Garden and its secrets will be lost forever.",,N,Da-429,Da-431
+Da-432,,Over here!,War,The Shadow Realm.,,N,Da-431,Da-433
+Da-433,,Over here!,Azrael,"Yes. Use the Mask of Shadows. Assemble the broken blade. Then, return it to the forge of the Black Hammer. When this is done, return to me. Perhaps I can serve you one last time before the end.",,N,Da-432,Da-434
+Da-434,,Over here!,War,Azrael... at any time you could have left me to my fate. Dead in the Tower. Lost among the ashes of Eden. Why do you help me now? When this is over the Council will see that justice is done. I will kill Abaddon. And all who schemed with him...,,N,Da-433,Da-435
+Da-435,,Over here!,Azrael,"We all must answer for our sins, Horseman. When the hour of my judgment comes, I will embrace it. Whatever the light decides… Go! Waste no more time on me, And tell Ulthane… he is the last hope of an old fool. The blade was scattered over this ruined world. Find the pieces - forge them at the hand of the Black Hammer then return.",,N,Da-434,Da-436
+Da-436,,Over here!,,[War is heading out.],,Y,Da-435,Da-437
+Da-437,,Over here!,Vulgrim,So---the final battle is before you! You are wise to seek help from old Vulgrim!,,N,Da-436,Da-438
+Da-438,,Over here!,,[Uriel descends from the sky above as he approaches one of the pieces on the Crossroads.],,Y,Da-437,Da-439
+Da-439,,Over here!,Uriel,"This is no ambush, Horseman. I come alone.",,N,Da-438,Da-440
+Da-440,,Over here!,,[She stuck her sword in the ground.],,Y,Da-439,Da-441
+Da-441,,Over here!,Uriel,"I, Uriel of the Hellguard, Champion of the White City -- call you, Horseman, to Nex Sacramentum.",,N,Da-440,Da-442
+Da-442,,Over here!,War,Fool...,,N,Da-441,Da-443
+Da-443,,Over here!,Uriel,I lay claim to your life before the Creator... will you dishonor this law as well?,,N,Da-442,Da-444
+Da-444,,Over here!,,[War is sticking its sword next to hers.],,Y,Da-443,Da-445
+Da-445,,Over here!,War,Why?,,N,Da-444,Da-446
+Da-446,,Over here!,Uriel,Because Abaddon said you understood honor... and because... he was the best of us.,,N,Da-445,Da-447
+Da-447,,Over here!,War,The Death Oath cannot be broken... Until one falls by the hand of the other... I accept.,,N,Da-446,Da-448
+Da-448,,Over here!,,[They fight.],,Y,Da-447,Da-449
+Da-449,,Over here!,Uriel,You cannot escape your fate. You underestimate me. Defend yourself traitor.,,N,Da-448,Da-450
+Da-450,,Over here!,,"[Pretty soon, War prevails.]",,Y,Da-449,Da-451
+Da-451,,Over here!,Watcher,Yes. YESss! What are you waiting for? Harvest this wench!! War?! Don’t you dare walk away from me!,,N,Da-450,Da-452
+Da-452,,Over here!,War,The Nex Sacramentum is MINE. I decide when the angel dies. Not YOU.,,N,Da-451,Da-453
+Da-453,,Over here!,Uriel,You swore an oath to me...,,N,Da-452,Da-454
+Da-454,,Over here!,War,Abaddon is The Destroyer.,,N,Da-453,Da-455
+Da-455,,Over here!,Uriel,Liar!,,N,Da-454,Da-456
+Da-456,,Over here!,War,"To protect you, he kept you from the truth. You pledged to follow your Lord into Hell, never knowing what awaited you. Or what he would become.",,N,Da-455,Da-457
+Da-457,,Over here!,Uriel,...Abaddon...,,N,Da-456,Da-458
+Da-458,,Over here!,War,"He was betrayed, and became the enemy of all creation. I’ve been to the Tree. Its gift, was truth. And I share it with you now. Remember the Death Oath... Soon, it must be fulfilled.",,N,Da-457,Da-459
+Da-459,,Over here!,,[War takes the remaining pieces of the Armageddon sword and returns to Ulthane.],,Y,Da-458,Da-460
+Da-460,,Over here!,Watcher,"That’s it... the last piece of that accursed blade. Now, get back to Ulthane and finish this business.",,N,Da-459,Da-461
+Da-461,,Over here!,Ulthane,"Good to see you again, Horseman.",,N,Da-460,Da-462
+Da-462,,Over here!,,[War puts pieces of the Armageddon sword before him.],,Y,Da-461,Da-463
+Da-463,,Over here!,Ulthane,My greatest work...,,N,Da-462,Da-464
+Da-464,,Over here!,War,Until now.,,N,Da-463,Da-465
+Da-465,,Over here!,,"[Ulthane agrees and starts forging. The sounds of his hammer can be heard all over the earth. Azrael and Uriel ponder their own destiny to the sound of the hammer. When the sword is ready, Uriel, along with the other angels, attacks the Destroyer. ]",,Y,Da-464,Da-466
+Da-466,,Over here!,Watcher,"This is for all cookies, Horseman. When you proceed, there’s no return.",,N,Da-465,Da-467
+Da-467,,Over here!,,[War returns to Azrael.],,Y,Da-466,Da-468
+Da-468,,Over here!,Azrael,It’s Abaddon. Uriel has lead the Hellguard against him. It is as you foretold. The Hellguard will fall.,,N,Da-467,Da-469
+Da-469,,Over here!,War,Angel of Death -- serve me one last time.,,N,Da-468,Da-470
+Da-470,,Over here!,,"[The war flies away to help Uriel. When he lands, the angels parted before him, recognizing his power.]",,Y,Da-469,Da-471
+Da-471,,Over here!,Abaddon The Destroyer,"She mistook me for... someone else. She loved him. And I believe that he loved her... long ago, before all this... Foolishly, he chose duty above all, and died for it. Will you do the same? Heaven hunts you... Hell hates you. All of creation cares not whether you live or die. Join me, War. Like a great sword, I will raise you up, and our enemies will shatter against us. The spoils of a thousand victories will be yours. Or, serve the justice of a corrupt Council. And a Creator who abandons his most faithful. I offer you this choice, Horseman. Would you serve in Heaven, or rule in Hell?",,N,Da-470,Da-472
+Da-472,,Over here!,War,"I choose what once, a coward did not.",,N,Da-471,Da-473
+Da-473,,Over here!,,"[Abaddon lets Uriel out of his paws and roars furiously into war. The battle begins. Soon War succeeds in piercing the dragon with the sword of Armageddon and Abaddon returns to his human form. He falls on the platform, breaking through it.]",,Y,Da-472,Da-474
+Da-474,,Over here!,Abaddon,Ahhh... The Armageddon Blade. This will be interesting. You have forced my hand. Ah ah ah. I...will NOT fall to YOU! It ends NOW! You are no match for me. Ah ah ah.,,N,Da-473,Da-475
+Da-475,,Over here!,War,"You have taught me something, Abaddon. Sometimes duty must be cast aside, to do what must be done. It is not for duty that I kill you now.",,N,Da-474,Da-476
+Da-476,,Over here!,,[He rips off the blackened wings of Abaddon.],,Y,Da-475,Da-477
+Da-477,,Over here!,Abaddon,Uriel... Uriel...,,N,Da-476,Da-478
+Da-478,,Over here!,Uriel,"Reap what you have sown, betrayer.",,N,Da-477,Da-479
+Da-479,,Over here!,,[The war pierces Abaddon with the sword. The seventh seal falls out of his soft hands… Watcher appears and stretches the leash.],,Y,Da-478,Da-480
+Da-480,,Over here!,Uriel,War!,,N,Da-479,Da-481
+Da-481,,Over here!,Watcher,You had to know it was a one way ticket...,,N,Da-480,Da-482
+Da-482,,Over here!,War,The… Council…,,N,Da-481,Da-483
+Da-483,,Over here!,Watcher,They knew you’d never play executioner because of your precious honor. They let you take the fall... They knew you’d butcher everyone involved to clear your name. And you did.,,N,Da-482,Da-484
+Da-484,,Over here!,Uriel,No!,,N,Da-483,Da-485
+Da-485,,Over here!,,"[She’s trying to stop Watcher, but he easily throw her away.]",,Y,Da-484,Da-486
+Da-486,,Over here!,Watcher,"Patience, whore. I’ve got some for you too.",,N,Da-485,Da-487
+Da-487,,Over here!,,[He’s take the seventh seal.],,Y,Da-486,Da-488
+Da-488,,Over here!,Watcher,"I’ll take that... If it were to get broken, you might get ideas -- like not going back in your little cage. It’s tragic, really. You had freedom in the palm of your hand… and you LOST it!",,N,Da-487,Da-489
+Da-489,,Over here!,,[War laughs.],,Y,Da-488,Da-490
+Da-490,,Over here!,Watcher,What’s so damn funny? Even you wouldn’t laugh at your own funeral.,,N,Da-489,Da-491
+Da-491,,Over here!,War,I’m laughing... at yours.,,N,Da-490,Da-492
+Da-492,,Over here!,,"[Suddenly Uriel flies, pierces the war with his sword and breaks the seal in Watcher’s hands.]",,Y,Da-491,Da-493
+Da-493,,Over here!,Uriel,Nex Sacramentum. The Death Oath is complete.,,N,Da-492,Da-494
+Da-494,,Over here!,Watcher,Hellguard bitch! What did you do?!,,N,Da-493,Da-495
+Da-495,,Over here!,,[He’s trying to put the seal together. War is slowly resurrecting.],,Y,Da-494,Da-496
+Da-496,,Over here!,Watcher,...no... no... NO!!!,,N,Da-495,Da-497
+Da-497,,Over here!,,[Then he attacks Uriel and strikes her with a spell.],,Y,Da-496,Da-498
+Da-498,,Over here!,Watcher,I’m going to pull your guts out through your halo!,,N,Da-497,Da-499
+Da-499,,Over here!,,[War is stopping his hand.],,Y,Da-498,Da-500
+Da-500,,Over here!,Watcher,Keep getting up... I’ll just kill you again!,,N,Da-499,Da-501
+Da-501,,Over here!,,[War this his in the face.],,Y,Da-500,Da-502
+Da-502,,Over here!,Watcher,I was just following orders... like you...,,N,Da-501,Da-503
+Da-503,,Over here!,,[War hits him again.],,Y,Da-502,Da-504
+Da-504,,Over here!,Watcher,"What are you going to do, fight the Council? Fight EVERYONE?!!",,N,Da-503,Da-505
+Da-505,,Over here!,,[War huts him the third time.],,Y,Da-504,Da-506
+Da-506,,Over here!,Watcher,You’ll never get away... you hear me? NEVER! Don’t... forget... who holds... the leash...,,N,Da-505,Da-507
+Da-507,,Over here!,War,I haven’t forgotten.,,N,Da-506,Da-508
+Da-508,,Over here!,,[He grabbed Watcher’s head and crushed it like a walnut.],,Y,Da-507,Da-509
+Da-509,,Over here!,Uriel,You knew... You knew what would happen here. What I would do. That’s why you spared me.,,N,Da-508,Da-510
+Da-510,,Over here!,War,No.,,N,Da-509,Da-511
+Da-511,,Over here!,Uriel,Then why?,,N,Da-510,Da-512
+Da-512,,Over here!,War,Because I would not have the last of Heaven’s honor die with its Champion.,,N,Da-511,Da-513
+Da-513,,Over here!,Uriel,"All debts are repaid. The duty I uphold -- it may call me to raise my sword against you. And if that day comes, I won’t hesitate. You will be hunted! The White City for certain... The Council... and... there will be others! You would wage this war alone?!",,N,Da-512,Da-514
+Da-514,,Over here!,War,No. Not alone.,,N,Da-513,Da-515
+Da-515,,Over here!,,"[Three comets descend from the skies - purple (Death), red (Fury) and green (Strife).]",,Y,Da-514,

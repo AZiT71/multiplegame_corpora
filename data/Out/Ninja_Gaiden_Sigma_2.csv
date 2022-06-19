@@ -1,0 +1,325 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+NiGaSi2-1,,,﻿PROLOGUE,THE VAMPIRE WAR,,N,,NiGaSi2-2
+NiGaSi2-3,,,Crimson,For those of us who dwell in the shadows… This darkness is the perfect stage for a duel…,,N,NiGaSi2-2,NiGaSi2-4
+NiGaSi2-4,,,,[Crimson],,Y,NiGaSi2-3,NiGaSi2-5
+NiGaSi2-6,,,Crimson,Joe Hayabusa!,,N,NiGaSi2-5,NiGaSi2-7
+NiGaSi2-7,,,,[Joe Hayabusa],,Y,NiGaSi2-6,NiGaSi2-8
+NiGaSi2-9,,,Crimson,I can see you… I can see you perfectly! I've got you!,,N,NiGaSi2-8,NiGaSi2-10
+NiGaSi2-10,,,Joe Hayabusa,Hayabusa style… Izuna Drop!,,N,NiGaSi2-9,NiGaSi2-11
+NiGaSi2-11,,,Crimson,It'll take more than that to finish me!,,N,NiGaSi2-10,NiGaSi2-12
+NiGaSi2-12,,,Joe Hayabusa,Agh!,,N,NiGaSi2-11,NiGaSi2-13
+NiGaSi2-13,,,Crimson,"You finally show your face, young dragon ninja.",,N,NiGaSi2-12,NiGaSi2-14
+NiGaSi2-14,,,Joe Hayabusa,Ryu.,,N,NiGaSi2-13,NiGaSi2-15
+NiGaSi2-15,,,,[Ryu Hayabusa],,Y,NiGaSi2-14,NiGaSi2-16
+NiGaSi2-17,,,,[Dragon Sword],,Y,NiGaSi2-16,NiGaSi2-18
+NiGaSi2-19,,,Crimson,Ngh!,,N,NiGaSi2-18,NiGaSi2-20
+NiGaSi2-20,,,Ryu Hayabusa,Return to the darkness that spawned you.,,N,NiGaSi2-19,NiGaSi2-21
+NiGaSi2-21,,,Crimson,That darkness… spawned you as well!,,N,NiGaSi2-20,NiGaSi2-22
+NiGaSi2-22,,,Ryu Hayabusa,Father!,,N,NiGaSi2-21,NiGaSi2-23
+NiGaSi2-23,,,Joe Hayabusa,Ngh.,,N,NiGaSi2-22,NiGaSi2-24
+NiGaSi2-24,,,Crimson,The light…,,N,NiGaSi2-23,NiGaSi2-25
+NiGaSi2-25,,,,[Eye of the Dragon],,Y,NiGaSi2-24,NiGaSi2-26
+NiGaSi2-27,,,Joe Hayabusa,Now! Do it now!,,N,NiGaSi2-26,NiGaSi2-28
+NiGaSi2-29,,,Joe Hayabusa,The light of dawn drives away the darkness once again.,,N,NiGaSi2-28,NiGaSi2-30
+NiGaSi2-30,,,Ryu Hayabusa,Darkness is destined to lift in the end.,,N,NiGaSi2-29,NiGaSi2-31
+NiGaSi2-31,,,,[Hayabusa Village],,Y,NiGaSi2-30,NiGaSi2-32
+NiGaSi2-33,,,,[Momiji],,Y,NiGaSi2-32,NiGaSi2-34
+NiGaSi2-35,,,Momiji,How is Master Joe?,,N,NiGaSi2-34,NiGaSi2-36
+NiGaSi2-36,,,Ryu Hayabusa,He'll be fine.,,N,NiGaSi2-35,NiGaSi2-37
+NiGaSi2-37,,,Children,That's great! Yay!,,N,NiGaSi2-36,NiGaSi2-38
+NiGaSi2-38,,,Momiji,…Master Ryu. We just received word… A dark shadow has fallen over Tokyo.,,N,NiGaSi2-37,NiGaSi2-39
+NiGaSi2-39,,,Ryu Hayabusa,What is it?,,N,NiGaSi2-38,NiGaSi2-40
+NiGaSi2-40,,,Momiji,The Spider Ninja clan. They've launched another attack.,,N,NiGaSi2-39,NiGaSi2-41
+NiGaSi2-41,,,,[Black Spider Clan],,Y,NiGaSi2-40,NiGaSi2-42
+NiGaSi2-43,,,Ryu Hayabusa,Watch over the village.,,N,NiGaSi2-42,NiGaSi2-44
+NiGaSi2-44,,,Momiji,I will. Master Ryu… be careful.,,N,NiGaSi2-43,NiGaSi2-45
+NiGaSi2-46,Chapter 1: Sky City Tokyo,,Sonia,"So, let me get this straight… You don't have a clue where I can find Ryu Hayabusa?",,N,NiGaSi2-45,NiGaSi2-47
+NiGaSi2-47,Chapter 1: Sky City Tokyo,,Muramasa,"No one know where a ninja goes. If he isn't at the Hayabusa Village, he could be halfway around the world. Sonia, was it? Do you have business with Ryu?",,N,NiGaSi2-46,NiGaSi2-48
+NiGaSi2-48,Chapter 1: Sky City Tokyo,,Sonia,I do.,,N,NiGaSi2-47,NiGaSi2-49
+NiGaSi2-49,Chapter 1: Sky City Tokyo,,Muramasa,And what might that be?,,N,NiGaSi2-48,NiGaSi2-50
+NiGaSi2-50,Chapter 1: Sky City Tokyo,,Sonia,All I'll say is that it concerns the Archfiend.,,N,NiGaSi2-49,NiGaSi2-51
+NiGaSi2-51,Chapter 1: Sky City Tokyo,,Muramasa,"Ooo, The Archfiend…",,N,NiGaSi2-50,NiGaSi2-52
+NiGaSi2-52,Chapter 1: Sky City Tokyo,,???,"We have the woman. I expected more, Ryu Hayabusa!",,N,NiGaSi2-51,NiGaSi2-53
+NiGaSi2-53,Chapter 1: Sky City Tokyo,,,[GAMEPLAY],,Y,NiGaSi2-52,NiGaSi2-54
+NiGaSi2-54,Chapter 1: Sky City Tokyo,,Muramasa,"Why, if it isn't Ryu!",,N,NiGaSi2-53,NiGaSi2-55
+NiGaSi2-55,Chapter 1: Sky City Tokyo,,Ryu,They were minions of the Black Spider Clan.,,N,NiGaSi2-54,NiGaSi2-56
+NiGaSi2-56,Chapter 1: Sky City Tokyo,,Muramasa,Indeed they were. We haven't heard from them in a while.,,N,NiGaSi2-55,NiGaSi2-57
+NiGaSi2-57,Chapter 1: Sky City Tokyo,,Ryu,Who was the woman?,,N,NiGaSi2-56,NiGaSi2-58
+NiGaSi2-58,Chapter 1: Sky City Tokyo,,Muramasa,You don't know her? Neither do I. You couldn't save her? She was looking for you. She said it was about the Archfiend.,,N,NiGaSi2-57,NiGaSi2-59
+NiGaSi2-59,Chapter 1: Sky City Tokyo,,Ryu,The Archfiend…,,N,NiGaSi2-58,NiGaSi2-60
+NiGaSi2-60,Chapter 1: Sky City Tokyo,,,[GAMEPLAY],,Y,NiGaSi2-59,NiGaSi2-61
+NiGaSi2-61,Chapter 1: Sky City Tokyo,,Notebook,Obliteration Technique,,N,NiGaSi2-60,NiGaSi2-62
+NiGaSi2-68,Chapter 1: Sky City Tokyo,But what about me?,,[GAMEPLAY],,Y,NiGaSi2-67,NiGaSi2-69
+NiGaSi2-69,Chapter 1: Sky City Tokyo,But what about me?,Notebook,Shadowless Footsteps,,N,NiGaSi2-68,NiGaSi2-70
+NiGaSi2-71,Chapter 1: Sky City Tokyo,But what about me?,He says,“It is the very spirit of the ninja to traverse where no path can be seen.”,,N,NiGaSi2-70,NiGaSi2-72
+NiGaSi2-80,Hikage-o,What honor can be had by a ninja as clumsy as I?,,[GAMEPLAY],,Y,NiGaSi2-79,NiGaSi2-81
+NiGaSi2-81,Hikage-o,What honor can be had by a ninja as clumsy as I?,???,You shall not pass.,,N,NiGaSi2-80,NiGaSi2-82
+NiGaSi2-82,Hikage-o,What honor can be had by a ninja as clumsy as I?,Rasetsu,I am Shadow Ninja Rasetsu …and you will not leave here alive!,,N,NiGaSi2-81,NiGaSi2-83
+NiGaSi2-83,Hikage-o,What honor can be had by a ninja as clumsy as I?,,[GAMEPLAY],,Y,NiGaSi2-82,NiGaSi2-84
+NiGaSi2-84,Hikage-o,What honor can be had by a ninja as clumsy as I?,???,"You're coming with us! Stop struggling! Take us up. You can have her, Ryu Hayabusa! She just a tool of the CIA! You're bought us the time we needed!",,N,NiGaSi2-83,NiGaSi2-85
+NiGaSi2-85,Hikage-o,What honor can be had by a ninja as clumsy as I?,Sonia,Ryu… I finally found you…,,N,NiGaSi2-84,NiGaSi2-86
+NiGaSi2-86,Hikage-o,What honor can be had by a ninja as clumsy as I?,Ryu,So… What does the CIA want with me?,,N,NiGaSi2-85,NiGaSi2-87
+NiGaSi2-87,Hikage-o,What honor can be had by a ninja as clumsy as I?,Sonia,We have a serious problem. The Fiends are trying to resurrect the Archfiend. We can't let that happen.,,N,NiGaSi2-86,NiGaSi2-88
+NiGaSi2-88,Hikage-o,What honor can be had by a ninja as clumsy as I?,Ryu,I see the Agency has broaden it's horizons.,,N,NiGaSi2-87,NiGaSi2-89
+NiGaSi2-89,Hikage-o,What honor can be had by a ninja as clumsy as I?,Sonia,"Ryu, they're heading for the Hayabusa Village. They are after the Demon Statue! Your clan is in danger!",,N,NiGaSi2-88,NiGaSi2-90
+NiGaSi2-91,Chapter 2: The Castle of the Dragon,What honor can be had by a ninja as clumsy as I?,Joe Hayabusa,Genshin. Why am I not surprised?,,N,NiGaSi2-90,NiGaSi2-92
+NiGaSi2-92,Chapter 2: The Castle of the Dragon,What honor can be had by a ninja as clumsy as I?,Genshin,"How the vaunted Dragon Ninja bloodline has withered, Joe Hayabusa!",,N,NiGaSi2-91,NiGaSi2-93
+NiGaSi2-93,Chapter 2: The Castle of the Dragon,What honor can be had by a ninja as clumsy as I?,Joe Hayabusa,Your embrace of the evil way has consumed you.,,N,NiGaSi2-92,NiGaSi2-94
+NiGaSi2-94,Chapter 2: The Castle of the Dragon,What honor can be had by a ninja as clumsy as I?,Genshin,Evil? The ninja way knows neither good nor evil.,,N,NiGaSi2-93,NiGaSi2-95
+NiGaSi2-95,Chapter 2: The Castle of the Dragon,What honor can be had by a ninja as clumsy as I?,Joe Hayabusa,Corruption of the soul is a fate that befalls the weak.,,N,NiGaSi2-94,NiGaSi2-96
+NiGaSi2-96,Chapter 2: The Castle of the Dragon,What honor can be had by a ninja as clumsy as I?,Genshin,Enough talk. The ties that bind our clans are severed tonight. You will be bloodstains on my blade!,,N,NiGaSi2-95,NiGaSi2-97
+NiGaSi2-97,Chapter 2: The Castle of the Dragon,What honor can be had by a ninja as clumsy as I?,Joe Hayabusa,"Genshin, you fool…",,N,NiGaSi2-96,NiGaSi2-98
+NiGaSi2-98,Chapter 2: The Castle of the Dragon,What honor can be had by a ninja as clumsy as I?,,[GAMEPLAY],,Y,NiGaSi2-97,NiGaSi2-99
+NiGaSi2-99,Chapter 2: The Castle of the Dragon,What honor can be had by a ninja as clumsy as I?,Notebook,Flying Swallow,,N,NiGaSi2-98,NiGaSi2-100
+NiGaSi2-104,Chapter 2: The Castle of the Dragon,Fast as an eagle!,Today I begin my daily training regimen,"one thousand leaps high into the air, followed by one thousand slices with my sword.",,N,NiGaSi2-103,NiGaSi2-105
+NiGaSi2-105,Chapter 2: The Castle of the Dragon,Fast as an eagle!,"One day, I will be able to combine the two",dive and slash!,,N,NiGaSi2-104,NiGaSi2-106
+NiGaSi2-106,Tori-no-Shin,I will be unstoppable!,,[GAMEPLAY],,Y,NiGaSi2-105,NiGaSi2-107
+NiGaSi2-107,Tori-no-Shin,I will be unstoppable!,Notebook,Reverse Wind,,N,NiGaSi2-106,NiGaSi2-108
+NiGaSi2-116,Sanyodo,I will be unstoppable!,,[GAMEPLAY],,Y,NiGaSi2-115,NiGaSi2-117
+NiGaSi2-117,Sanyodo,I will be unstoppable!,Notebook,Ultimate Guidance,,N,NiGaSi2-116,NiGaSi2-118
+NiGaSi2-128,Osi-no-Jyo,I will be unstoppable!,,[GAMEPLAY],,Y,NiGaSi2-127,NiGaSi2-129
+NiGaSi2-129,Osi-no-Jyo,I will be unstoppable!,Notebook,Counter Attack,,N,NiGaSi2-128,NiGaSi2-130
+NiGaSi2-133,Osi-no-Jyo,"Its execution, however, continues elude me.",My follow ninja say that the Counter Attack is easy,a mere flash of the blade after you see your enemy's weapon bounce back from your block.,,N,NiGaSi2-132,NiGaSi2-134
+NiGaSi2-139,Inoshishi,I will not give up so easily.,,[GAMEPLAY],,Y,NiGaSi2-138,NiGaSi2-140
+NiGaSi2-140,Inoshishi,I will not give up so easily.,Notebook,Ultimate Technique,,N,NiGaSi2-139,NiGaSi2-141
+NiGaSi2-149,Tsunekichi,"Then, its be simply a matter of kill or be killed.",,[GAMEPLAY],,Y,NiGaSi2-148,NiGaSi2-150
+NiGaSi2-150,Tsunekichi,"Then, its be simply a matter of kill or be killed.",Genshin,And thus the sun sets on the Dragon Ninja bloodline.,,N,NiGaSi2-149,NiGaSi2-151
+NiGaSi2-151,Tsunekichi,"Then, its be simply a matter of kill or be killed.",Joe Hayabusa,Damn you!,,N,NiGaSi2-150,NiGaSi2-152
+NiGaSi2-152,Tsunekichi,"Then, its be simply a matter of kill or be killed.",Genshin,The Demon Statue is ours. This Statue is the talisman of Mount Fuji.,,N,NiGaSi2-151,NiGaSi2-153
+NiGaSi2-153,Tsunekichi,"Then, its be simply a matter of kill or be killed.",Elizabet,Now the sacred peak erupts…,,N,NiGaSi2-152,NiGaSi2-154
+NiGaSi2-154,Tsunekichi,"Then, its be simply a matter of kill or be killed.",Genshin,The gates of the Underworld are opened.,,N,NiGaSi2-153,NiGaSi2-155
+NiGaSi2-155,Tsunekichi,"Then, its be simply a matter of kill or be killed.",Elizabet,The Fiends are unleashed…,,N,NiGaSi2-154,NiGaSi2-156
+NiGaSi2-157,Chapter 3: Thunderclap of Catastrophe,"Then, its be simply a matter of kill or be killed.",Alexei,"A glittering island, an exquisite city of stardust… Breathtaking. But now, my lady. Must be so tired of the view! How‘s that, my dear? Are you pleased? Excellent. I know you‘d never lie to me.",,N,NiGaSi2-156,NiGaSi2-158
+NiGaSi2-158,Chapter 3: Thunderclap of Catastrophe,"Then, its be simply a matter of kill or be killed.",,[GAMEPLAY],,Y,NiGaSi2-157,NiGaSi2-159
+NiGaSi2-164,"The Four Greater Fiends, Part 1.","The next, ruler of Storms.",,[GAMEPLAY],,Y,NiGaSi2-163,NiGaSi2-165
+NiGaSi2-166,Chapter 4: A Captive Goddess,"The next, ruler of Storms.",Alexei,"Behold! The true world has begun to stir from its prolonged torpor. We have endured imprisonment, a long era of silence, trapped in eternal slumber.",,N,NiGaSi2-165,NiGaSi2-167
+NiGaSi2-167,Chapter 4: A Captive Goddess,"The next, ruler of Storms.",Elizabet,Alexei…,,N,NiGaSi2-166,NiGaSi2-168
+NiGaSi2-168,Chapter 4: A Captive Goddess,"The next, ruler of Storms.",Alexei,Yet… Even the deepest slumber can be disrupted… By of single strike of lighting!,,N,NiGaSi2-167,NiGaSi2-169
+NiGaSi2-169,Chapter 4: A Captive Goddess,"The next, ruler of Storms.",,[GAMEPLAY],,Y,NiGaSi2-168,NiGaSi2-170
+NiGaSi2-170,Chapter 4: A Captive Goddess,"The next, ruler of Storms.",Sonia,Grab on! Hurry! How is it out there?,,N,NiGaSi2-169,NiGaSi2-171
+NiGaSi2-171,Chapter 4: A Captive Goddess,"The next, ruler of Storms.",Ryu,Fiends are everywhere.,,N,NiGaSi2-170,NiGaSi2-172
+NiGaSi2-172,Chapter 4: A Captive Goddess,"The next, ruler of Storms.",Sonia,The Statue of Liberty! That's the source of all this! There's a powerful Fiend there! Be careful!,,N,NiGaSi2-171,NiGaSi2-173
+NiGaSi2-173,Chapter 4: A Captive Goddess,"The next, ruler of Storms.",,[GAMEPLAY],,Y,NiGaSi2-172,NiGaSi2-174
+NiGaSi2-179,"The Four Greater Fiends, Part 2.","The next, ruler of Storms.",,[GAMEPLAY],,Y,NiGaSi2-178,NiGaSi2-180
+NiGaSi2-180,"The Four Greater Fiends, Part 2.","The next, ruler of Storms.",Alexei,"I recognize that stink… The repugnant stench of the Dragon Lineage. The final lament of an ancient creature. That's death you smell. You humans have the life span of flies. I have experienced things your feeble minds could never comprehend… The music of the spheres, echoing through the cosmos! You may call me Alexei. One of the four Greater Fiends, and Master of Lighting!",,N,NiGaSi2-179,NiGaSi2-181
+NiGaSi2-181,"The Four Greater Fiends, Part 2.","The next, ruler of Storms.",,[GAMEPLAY],,Y,NiGaSi2-180,NiGaSi2-182
+NiGaSi2-182,"The Four Greater Fiends, Part 2.","The next, ruler of Storms.",Ryu,Such is the fragility of evil.,,N,NiGaSi2-181,NiGaSi2-183
+NiGaSi2-184,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",???,"Don't you think you're a little out of you league, boy? Even the mice are ninja here. No doubt the Dragon Ninja will take this bait.",,N,NiGaSi2-183,NiGaSi2-185
+NiGaSi2-185,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",,[GAMEPLAY],,Y,NiGaSi2-184,NiGaSi2-186
+NiGaSi2-186,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",Momiji,Sanji!,,N,NiGaSi2-185,NiGaSi2-187
+NiGaSi2-187,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",???,"I expected the Dragon Ninja, but we've caught a shrine-maiden instead.",,N,NiGaSi2-186,NiGaSi2-188
+NiGaSi2-188,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",Momiji,Give Sanji back to me.,,N,NiGaSi2-187,NiGaSi2-189
+NiGaSi2-189,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",???,You are a fool to have come alone. You recklessness will cost you. Careful. Don't underestimate her. This may not be the prey we intended to catch… But I'm always game for a good fight!,,N,NiGaSi2-188,NiGaSi2-190
+NiGaSi2-190,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",,[GAMEPLAY],,Y,NiGaSi2-189,NiGaSi2-191
+NiGaSi2-191,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",Momiji,Sanji! Sanji!,,N,NiGaSi2-190,NiGaSi2-192
+NiGaSi2-192,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",Sanji,Momiji? Is that you?,,N,NiGaSi2-191,NiGaSi2-193
+NiGaSi2-193,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",Momiji,Sanji! You're all right!,,N,NiGaSi2-192,NiGaSi2-194
+NiGaSi2-194,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",Sanji,Momiji… The village… I couldn't…,,N,NiGaSi2-193,NiGaSi2-195
+NiGaSi2-195,Chapter 5: The Shrine-Maiden's Battle,"The next, ruler of Storms.",Momiji,"It's okay. Everyone is worried about you. Let's go home. Until the day you become a true ninja, I will always watch over you. Promise.",,N,NiGaSi2-194,NiGaSi2-196
+NiGaSi2-197,Chapter 6: The Aqua Capital,"The next, ruler of Storms.",???,"This bores me. So fragile, a lot of them. So WEAK! I cannot stand another minute of this tedium. You will find me a mighty adversary! You will bring before me an opponent worthy of I…",,N,NiGaSi2-196,NiGaSi2-198
+NiGaSi2-198,Chapter 6: The Aqua Capital,"The next, ruler of Storms.",Volf,"Volf, Greater Fiend and Ruler of Storms. Accomplish this… And you shall be made ruler of this land!",,N,NiGaSi2-197,NiGaSi2-199
+NiGaSi2-199,Chapter 6: The Aqua Capital,"The next, ruler of Storms.",,[GAMEPLAY],,Y,NiGaSi2-198,NiGaSi2-200
+NiGaSi2-201,Chapter 7: The Lycanthropes' Castle,"The next, ruler of Storms.",,[GAMEPLAY],,Y,NiGaSi2-200,NiGaSi2-202
+NiGaSi2-221,April 16th,Nothing can faze him.,,[GAMEPLAY],,Y,NiGaSi2-220,NiGaSi2-222
+NiGaSi2-222,April 16th,Nothing can faze him.,Volf,"Most impressive. That a puny human like you made it this far is worthy of praise. I have prepared a venue befitting a duel to the death. Not here. Come. We will fight on the sacred battleground of the Colosseum. Behold. Observe closely this human. Do not be deceived by this delicate appearance! He is a proven warrior! Do you wish his blood spilled? Who do you wish to see destroy him? Yes! Volf, invincible Ruler of Storms. He shall be given an honorable… DEATH!",,N,NiGaSi2-221,NiGaSi2-223
+NiGaSi2-223,April 16th,Nothing can faze him.,,[GAMEPLAY],,Y,NiGaSi2-222,NiGaSi2-224
+NiGaSi2-225,Chapter 8: City of the Fallen Goddess,Nothing can faze him.,???,Where is my sworn enemy? Where is the Dragon Ninja? The Goddess of Liberty has deserted this city. It belongs to me now.,,N,NiGaSi2-224,NiGaSi2-226
+NiGaSi2-226,Chapter 8: City of the Fallen Goddess,Nothing can faze him.,Rachel,This is going nowhere… Ryu never would have left a Fiend behind. It's like they're swarming up out of the depths… That was that? Something's out there…,,N,NiGaSi2-225,NiGaSi2-227
+NiGaSi2-227,Chapter 8: City of the Fallen Goddess,Nothing can faze him.,,[GAMEPLAY],,Y,NiGaSi2-226,NiGaSi2-228
+NiGaSi2-228,Chapter 8: City of the Fallen Goddess,Nothing can faze him.,???,You have Fiend blood in your veins. Are you searching for the Dragon Ninja as well?,,N,NiGaSi2-227,NiGaSi2-229
+NiGaSi2-229,Chapter 8: City of the Fallen Goddess,Nothing can faze him.,Rachel,Maybe I am.,,N,NiGaSi2-228,NiGaSi2-230
+NiGaSi2-230,Chapter 8: City of the Fallen Goddess,Nothing can faze him.,???,"Somehow, I suspect we have different reasons for seeking them out.",,N,NiGaSi2-229,NiGaSi2-231
+NiGaSi2-231,Chapter 8: City of the Fallen Goddess,Nothing can faze him.,Rachel,It doesn't matter. You'll never find him. Now go back to the underworld where you belong.,,N,NiGaSi2-230,NiGaSi2-232
+NiGaSi2-232,Chapter 8: City of the Fallen Goddess,Nothing can faze him.,???,"A fragile little doll, trying to take on a Greater Fiend? Very well. Show me that you can do!",,N,NiGaSi2-231,NiGaSi2-233
+NiGaSi2-233,Chapter 8: City of the Fallen Goddess,Nothing can faze him.,,[GAMEPLAY],,Y,NiGaSi2-232,NiGaSi2-234
+NiGaSi2-234,Chapter 8: City of the Fallen Goddess,Nothing can faze him.,Rachel,Night has lifted. Dawn has come.,,N,NiGaSi2-233,NiGaSi2-235
+NiGaSi2-236,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Sonia,I'm bringing us in!,,N,NiGaSi2-235,NiGaSi2-237
+NiGaSi2-237,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,,[NEXT MESSAGES WE HEAR DURING GAMEPLAY],,Y,NiGaSi2-236,NiGaSi2-238
+NiGaSi2-238,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Code yellow! Code yellow!,,N,NiGaSi2-237,NiGaSi2-239
+NiGaSi2-239,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,"Hostiles detected in sector D1, rear cargo bay!",,N,NiGaSi2-238,NiGaSi2-240
+NiGaSi2-240,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,"Tactical Ninja Team, you are go for deployment.",,N,NiGaSi2-239,NiGaSi2-241
+NiGaSi2-241,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,"All hands, code yellow.",,N,NiGaSi2-240,NiGaSi2-242
+NiGaSi2-242,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Do not use explosives.,,N,NiGaSi2-241,NiGaSi2-243
+NiGaSi2-243,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Hull integrity must be protected!,,N,NiGaSi2-242,NiGaSi2-244
+NiGaSi2-244,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,"Repeat, do not use explosives.",,N,NiGaSi2-243,NiGaSi2-245
+NiGaSi2-245,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Hull integrity must be protected.,,N,NiGaSi2-244,NiGaSi2-246
+NiGaSi2-246,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,"Tac Ninja Team, suppress the hostiles in sector D1!",,N,NiGaSi2-245,NiGaSi2-247
+NiGaSi2-247,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Hostiles are few in number.,,N,NiGaSi2-246,NiGaSi2-248
+NiGaSi2-248,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Initiate sweep and clear. Intercept and neutralize.,,N,NiGaSi2-247,NiGaSi2-249
+NiGaSi2-249,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Hostile identified!,,N,NiGaSi2-248,NiGaSi2-250
+NiGaSi2-250,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,"He's a Class A ninja! Repeat, we have a Class A ninja!",,N,NiGaSi2-249,NiGaSi2-251
+NiGaSi2-251,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,"All hands, intercept and terminate!",,N,NiGaSi2-250,NiGaSi2-252
+NiGaSi2-252,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Central control room compromised!,,N,NiGaSi2-251,NiGaSi2-253
+NiGaSi2-253,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,The control room has been attacked.,,N,NiGaSi2-252,NiGaSi2-254
+NiGaSi2-254,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Now switching all flight systems to autopilot.,,N,NiGaSi2-253,NiGaSi2-255
+NiGaSi2-255,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,We've got to get our flight profile stabilized.,,N,NiGaSi2-254,NiGaSi2-256
+NiGaSi2-256,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Control switched.,,N,NiGaSi2-255,NiGaSi2-257
+NiGaSi2-257,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Aircraft is under automatic control.,,N,NiGaSi2-256,NiGaSi2-258
+NiGaSi2-258,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,All systems nominal to profile.,,N,NiGaSi2-257,NiGaSi2-259
+NiGaSi2-259,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Hydraulics green.,,N,NiGaSi2-258,NiGaSi2-260
+NiGaSi2-260,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Flight profile nominal; we are on course.,,N,NiGaSi2-259,NiGaSi2-261
+NiGaSi2-261,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Explosion detected in port reactor zone.,,N,NiGaSi2-260,NiGaSi2-262
+NiGaSi2-262,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Confirmed enemy attack!,,N,NiGaSi2-261,NiGaSi2-263
+NiGaSi2-263,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Backup coolant valves activated.,,N,NiGaSi2-262,NiGaSi2-264
+NiGaSi2-264,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Core temperature still in the green.,,N,NiGaSi2-263,NiGaSi2-265
+NiGaSi2-265,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,"All hands, code orange!",,N,NiGaSi2-264,NiGaSi2-266
+NiGaSi2-266,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,This is not a drill.,,N,NiGaSi2-265,NiGaSi2-267
+NiGaSi2-267,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,"I repeat, threat level increased to code orange!",,N,NiGaSi2-266,NiGaSi2-268
+NiGaSi2-268,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,This is not a drill.,,N,NiGaSi2-267,NiGaSi2-269
+NiGaSi2-269,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,"All tac teams, you are cleared weapons free.",,N,NiGaSi2-268,NiGaSi2-270
+NiGaSi2-270,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Use of explosives authorized.,,N,NiGaSi2-269,NiGaSi2-271
+NiGaSi2-271,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,Terminate the intruder with extreme prejudice!,,N,NiGaSi2-270,NiGaSi2-272
+NiGaSi2-272,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,A total of two intruders detected on board.,,N,NiGaSi2-271,NiGaSi2-273
+NiGaSi2-273,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,They are armed and considered extremely dangerous.,,N,NiGaSi2-272,NiGaSi2-274
+NiGaSi2-274,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,It's time to take the flight to them!,,N,NiGaSi2-273,NiGaSi2-275
+NiGaSi2-275,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,Radio,"They want war, they get war!",,N,NiGaSi2-274,NiGaSi2-276
+NiGaSi2-276,Chapter 9: The Flying Fortress Daedalus,Nothing can faze him.,,[GAMEPLAY],,Y,NiGaSi2-275,NiGaSi2-277
+NiGaSi2-295,April 23rd,Serves them right for relying on firearms.,,[NEXT MESSAGES WE HEAR DURING GAMEPLAY],,Y,NiGaSi2-294,NiGaSi2-296
+NiGaSi2-296,April 23rd,Serves them right for relying on firearms.,Radio,Explosives detected…,,N,NiGaSi2-295,NiGaSi2-297
+NiGaSi2-297,April 23rd,Serves them right for relying on firearms.,Radio,One of the hostiles has an RPG.,,N,NiGaSi2-296,NiGaSi2-298
+NiGaSi2-298,April 23rd,Serves them right for relying on firearms.,Radio,I'm going to try to get a closer look on the cameras…,,N,NiGaSi2-297,NiGaSi2-299
+NiGaSi2-299,April 23rd,Serves them right for relying on firearms.,Radio,Let's see…,,N,NiGaSi2-298,NiGaSi2-300
+NiGaSi2-300,April 23rd,Serves them right for relying on firearms.,Radio,It's the woman… A blonde woman!,,N,NiGaSi2-299,NiGaSi2-301
+NiGaSi2-301,April 23rd,Serves them right for relying on firearms.,Radio,"Alert to all tac teams: she's hot! Hostile ninja approaching Secure Hold! Stop him! For the love of God, don't let them in there!",,N,NiGaSi2-300,NiGaSi2-302
+NiGaSi2-302,April 23rd,Serves them right for relying on firearms.,Radio,Armadillo temperature rising!,,N,NiGaSi2-301,NiGaSi2-303
+NiGaSi2-303,April 23rd,Serves them right for relying on firearms.,Radio,"Damn it, we have a coolant leak!",,N,NiGaSi2-302,NiGaSi2-304
+NiGaSi2-304,April 23rd,Serves them right for relying on firearms.,Radio,"Biotech teams, get on it!",,N,NiGaSi2-303,NiGaSi2-305
+NiGaSi2-305,April 23rd,Serves them right for relying on firearms.,Radio,"Expect high temperatures and noxious gases in adjacent holds! Code red! Repeat, code red! The port side reactor has gone critical! Core temperature climbing… Get the reaction under control! It's going supercritical! Prepare for meltdown! Reactor unit purge in sixty seconds! Repeat, purge in sixty seconds! Countdown, mark! Fifty seconds. Radiation leak confirmed. Forty seconds. Thirty seconds. Purge complete.",,N,NiGaSi2-304,NiGaSi2-306
+NiGaSi2-306,April 23rd,Serves them right for relying on firearms.,Radio,"Lost engines on one side, but profile remains normal. We are still in code red. Repeat, still in code red! Secure the starboard reactor, keep the hostiles out of the Secure Hold, and protect the Armadillo!",,N,NiGaSi2-305,NiGaSi2-307
+NiGaSi2-307,April 23rd,Serves them right for relying on firearms.,Ryu,Be careful with that. We don't want to bring her down quite yet.,,N,NiGaSi2-306,NiGaSi2-308
+NiGaSi2-308,April 23rd,Serves them right for relying on firearms.,Sonia,Trust me.,,N,NiGaSi2-307,NiGaSi2-309
+NiGaSi2-309,April 23rd,Serves them right for relying on firearms.,,[GAMEPLAY],,Y,NiGaSi2-308,NiGaSi2-310
+NiGaSi2-310,April 23rd,Serves them right for relying on firearms.,Elizabet,Someone kill that damned ninja!,,N,NiGaSi2-309,NiGaSi2-311
+NiGaSi2-311,April 23rd,Serves them right for relying on firearms.,Genshin,"Calm yourself, Elizabet. I will handle this.",,N,NiGaSi2-310,NiGaSi2-312
+NiGaSi2-312,April 23rd,Serves them right for relying on firearms.,Genshin,Youngblood. How many times will you stand in our way?,,N,NiGaSi2-311,NiGaSi2-313
+NiGaSi2-313,April 23rd,Serves them right for relying on firearms.,,[GAMEPLAY],,Y,NiGaSi2-312,NiGaSi2-314
+NiGaSi2-314,April 23rd,Serves them right for relying on firearms.,,[NEXT MESSAGES WE HEAR DURING GAMEPLAY],,Y,NiGaSi2-313,NiGaSi2-315
+NiGaSi2-315,April 23rd,Serves them right for relying on firearms.,Radio,Explosive decompression throughout the ship.,,N,NiGaSi2-314,NiGaSi2-316
+NiGaSi2-316,April 23rd,Serves them right for relying on firearms.,Radio,Hydraulic pressure dropping.,,N,NiGaSi2-315,NiGaSi2-317
+NiGaSi2-317,April 23rd,Serves them right for relying on firearms.,Radio,Flight profile has been compromised.,,N,NiGaSi2-316,NiGaSi2-318
+NiGaSi2-318,April 23rd,Serves them right for relying on firearms.,Radio,"Extinguishers, inoperative.",,N,NiGaSi2-317,NiGaSi2-319
+NiGaSi2-319,April 23rd,Serves them right for relying on firearms.,Ryu,You made it.,,N,NiGaSi2-318,NiGaSi2-320
+NiGaSi2-320,April 23rd,Serves them right for relying on firearms.,Sonia,Ryu! We're going down!,,N,NiGaSi2-319,NiGaSi2-321
+NiGaSi2-321,April 23rd,Serves them right for relying on firearms.,Radio,Altitude dropping…,,N,NiGaSi2-320,NiGaSi2-322
+NiGaSi2-322,April 23rd,Serves them right for relying on firearms.,Radio,Recovery impossible.,,N,NiGaSi2-321,NiGaSi2-323
+NiGaSi2-323,April 23rd,Serves them right for relying on firearms.,Radio,We're going down. We're going down!,,N,NiGaSi2-322,NiGaSi2-324
+NiGaSi2-324,April 23rd,Serves them right for relying on firearms.,Radio,Mayday! Mayday!,,N,NiGaSi2-323,NiGaSi2-325
+NiGaSi2-325,April 23rd,Serves them right for relying on firearms.,Sonia,Head down!,,N,NiGaSi2-324,NiGaSi2-326
+NiGaSi2-326,April 23rd,Serves them right for relying on firearms.,Ryu,Sonia.,,N,NiGaSi2-325,NiGaSi2-327
+NiGaSi2-327,April 23rd,Serves them right for relying on firearms.,Sonia,I'm OK.,,N,NiGaSi2-326,NiGaSi2-328
+NiGaSi2-328,"Chapter 10: Submit, or Die!",Serves them right for relying on firearms.,"“Several hundred kilometers north of the snowy crash-site of the Daedalus, Greater Fiend Zedonius has awakened to threaten a once-great military state. The malevolent Ruler of Flame issues an ultimatum handed down from the Infernal Priest Dagra Dai to the people of the world","Accept the yoke of the almighty Archfiend, or die. And so Earth's baptism by fire begins. The taunts of the Greater Fiend of Flame fill Ryu's mind.”",,N,NiGaSi2-327,NiGaSi2-329
+NiGaSi2-329,"Chapter 10: Submit, or Die!",Serves them right for relying on firearms.,???,"Impudent apes, how your hubris has grown in the few short millennia we have been away. Have you forgotten the era when only the mercy of the Archfiend kept your lowly species alive? You ungrateful monkeys. When High Infernal Priest Dagra Dai resurrects and restores the Archfiend to power… You will learn your true place on this Earth. On behalf of His Lordship Dagra Dai, I deliver you an ultimatum: Submit… or die.",,N,NiGaSi2-328,NiGaSi2-330
+NiGaSi2-330,"Chapter 10: Submit, or Die!",Serves them right for relying on firearms.,Soldier,"Ready to fire, sir.",,N,NiGaSi2-329,NiGaSi2-331
+NiGaSi2-331,"Chapter 10: Submit, or Die!",Serves them right for relying on firearms.,Captain,Fire!,,N,NiGaSi2-330,NiGaSi2-332
+NiGaSi2-332,"Chapter 10: Submit, or Die!",Serves them right for relying on firearms.,???,Repent! You are in the presence of Greater Fiend!,,N,NiGaSi2-331,NiGaSi2-333
+NiGaSi2-333,"Chapter 10: Submit, or Die!",Serves them right for relying on firearms.,Zedonius,"I am Zedonius, Ruler of Flame!",,N,NiGaSi2-332,NiGaSi2-334
+NiGaSi2-334,"Chapter 10: Submit, or Die!",Serves them right for relying on firearms.,,[GAMEPLAY],,Y,NiGaSi2-333,NiGaSi2-335
+NiGaSi2-335,"Chapter 10: Submit, or Die!",Serves them right for relying on firearms.,Zedonius,"Your path one of sound and fury… Ultimately signifying nothing. None have survived the purgatory of my flames. Not even those of the Dragon Lineage. All that remains is the memory of fire… Endlessly repeating, again and again.",,N,NiGaSi2-334,NiGaSi2-336
+NiGaSi2-336,"Chapter 10: Submit, or Die!",Serves them right for relying on firearms.,,[GAMEPLAY],,Y,NiGaSi2-335,NiGaSi2-337
+NiGaSi2-354,4/19,"Ha ha, yeah right.",,[GAMEPLAY],,Y,NiGaSi2-353,NiGaSi2-355
+NiGaSi2-358,March the Fifteenth,"Ha ha, yeah right.",My insight tells me this,the youth of our clan have no true spirit.,,N,NiGaSi2-357,NiGaSi2-359
+NiGaSi2-363,March the Twenty-Ninth,"Without spirit, there can be no dedication.",Look at Izo,"barely a man, yet he swaggers about as though he is a master of darkness.",,N,NiGaSi2-362,NiGaSi2-364
+NiGaSi2-372,April the Thirteenth,"Inukoma, you are wrong, my friend.",Yet I dread the lurid scent emanating from the female dressed in red,I fear that even Master Genshin may be vulnerable to its spell.,,N,NiGaSi2-371,NiGaSi2-373
+NiGaSi2-373,April the Thirteenth,"Inukoma, you are wrong, my friend.",,[GAMEPLAY],,Y,NiGaSi2-372,NiGaSi2-374
+NiGaSi2-374,April the Thirteenth,"Inukoma, you are wrong, my friend.",Zedonius,"For the one who first bestowed the precious gift of fire upon you pitiful apes… Was none other than I – Zedonius, Ruler of Flame.",,N,NiGaSi2-373,NiGaSi2-375
+NiGaSi2-375,April the Thirteenth,"Inukoma, you are wrong, my friend.",Ryu,That wasn't in my history book.,,N,NiGaSi2-374,NiGaSi2-376
+NiGaSi2-376,April the Thirteenth,"Inukoma, you are wrong, my friend.",Zedonius,"You are ignorant in the ways of the world as an infant in its crable, ninja. Without my fire, the petty dreams of your species would never taken flight. Yet your ancestors in the Dragon Lineage tried to extinguish that flame. Do you not think that foolish?",,N,NiGaSi2-375,NiGaSi2-377
+NiGaSi2-377,April the Thirteenth,"Inukoma, you are wrong, my friend.",Ryu,I don't care.,,N,NiGaSi2-376,NiGaSi2-378
+NiGaSi2-378,April the Thirteenth,"Inukoma, you are wrong, my friend.",Zedonius,Then let the fires of hell consume the last descendant of the hated Dragon Lineage.,,N,NiGaSi2-377,NiGaSi2-379
+NiGaSi2-379,April the Thirteenth,"Inukoma, you are wrong, my friend.",,[GAMEPLAY],,Y,NiGaSi2-378,NiGaSi2-380
+NiGaSi2-380,April the Thirteenth,"Inukoma, you are wrong, my friend.",Zedonius,This… sensation…,,N,NiGaSi2-379,NiGaSi2-381
+NiGaSi2-381,April the Thirteenth,"Inukoma, you are wrong, my friend.",Ryu,Righteous flames will cleanse the Earth of you kind.,,N,NiGaSi2-380,NiGaSi2-382
+NiGaSi2-382,April the Thirteenth,"Inukoma, you are wrong, my friend.",Zedonius,I'm burning… burning!,,N,NiGaSi2-381,NiGaSi2-383
+NiGaSi2-384,Chapter 11: Night in the City of Water,"Inukoma, you are wrong, my friend.",Joe Hayabusa,So the Black Spider Ninja Clan is after more than just the Demon Statue. For Ryu… For the Village… Find the Eye!,,N,NiGaSi2-383,NiGaSi2-385
+NiGaSi2-385,Chapter 11: Night in the City of Water,"Inukoma, you are wrong, my friend.",,[GAMEPLAY],,Y,NiGaSi2-384,NiGaSi2-386
+NiGaSi2-386,Chapter 11: Night in the City of Water,"Inukoma, you are wrong, my friend.",Ayane,I feel like a bug in a spider's web… Looks like I found the right place.,,N,NiGaSi2-385,NiGaSi2-387
+NiGaSi2-387,Chapter 11: Night in the City of Water,"Inukoma, you are wrong, my friend.",,[GAMEPLAY],,Y,NiGaSi2-386,NiGaSi2-388
+NiGaSi2-388,Chapter 11: Night in the City of Water,"Inukoma, you are wrong, my friend.",???,"Well, well, if it isn't the Tenjin girl.",,N,NiGaSi2-387,NiGaSi2-389
+NiGaSi2-389,Chapter 11: Night in the City of Water,"Inukoma, you are wrong, my friend.",Ayane,You. You're the Spider Ninja Clan's witch. I thought you died a long time ago. Where is the Eye? You've got some fight in you. Is this what you're looking for? What have you done!,,N,NiGaSi2-388,NiGaSi2-390
+NiGaSi2-390,Chapter 11: Night in the City of Water,"Inukoma, you are wrong, my friend.",Witch,I'll show you the power of the Dragon's Eye!,,N,NiGaSi2-389,NiGaSi2-391
+NiGaSi2-391,Chapter 11: Night in the City of Water,"Inukoma, you are wrong, my friend.",,[GAMEPLAY],,Y,NiGaSi2-390,NiGaSi2-392
+NiGaSi2-392,Chapter 11: Night in the City of Water,"Inukoma, you are wrong, my friend.",Ayane,I've got to get this to Ryu…,,N,NiGaSi2-391,NiGaSi2-393
+NiGaSi2-394,Chapter 12: Heart of Darkness,"Inukoma, you are wrong, my friend.",,[GAMEPLAY],,Y,NiGaSi2-393,NiGaSi2-395
+NiGaSi2-396,Chapter 13: The Temple of Sacrifice,"Inukoma, you are wrong, my friend.",,[GAMEPLAY],,Y,NiGaSi2-395,NiGaSi2-397
+NiGaSi2-423,April th,I think I'll rest here for a while.,,[GAMEPLAY],,Y,NiGaSi2-422,NiGaSi2-424
+NiGaSi2-424,April th,I think I'll rest here for a while.,Elizabet,"High Infernal Priest Dagra Dai! Glorious Lord of Darkness! I bring before you the Demon Statue, endowed with life and power once again!",,N,NiGaSi2-423,NiGaSi2-425
+NiGaSi2-425,April th,I think I'll rest here for a while.,Dagra Dai,Yet all is not as it should be.,,N,NiGaSi2-424,NiGaSi2-426
+NiGaSi2-426,April th,I think I'll rest here for a while.,Elizabet,Sire?,,N,NiGaSi2-425,NiGaSi2-427
+NiGaSi2-427,April th,I think I'll rest here for a while.,Dagra Dai,"Can you not sense it? It is the eve of the arrival of the Almighty Archfiend… And all the souls gathered in this place stand ready to be joined as one… Yet, a heretic of the filthy Dragon Lineage swaggers about, polluting our ritual with his foul stench! And you cannot smell it?",,N,NiGaSi2-426,NiGaSi2-428
+NiGaSi2-428,April th,I think I'll rest here for a while.,Elizabet,"An unpardonable lapse, sire.",,N,NiGaSi2-427,NiGaSi2-429
+NiGaSi2-429,April th,I think I'll rest here for a while.,Dagra Dai,"Fear not, Elizabet. We have accomplished that which we came here to do. Now, my Ruler of Blood… Purge this loathsome intruder from our midst!",,N,NiGaSi2-428,NiGaSi2-430
+NiGaSi2-430,April th,I think I'll rest here for a while.,Elizabet,As you command.,,N,NiGaSi2-429,NiGaSi2-431
+NiGaSi2-431,April th,I think I'll rest here for a while.,,[GAMEPLAY],,Y,NiGaSi2-430,NiGaSi2-432
+NiGaSi2-449,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,,[GAMEPLAY],,Y,NiGaSi2-448,NiGaSi2-450
+NiGaSi2-450,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,Elizabet,You will find no one here. They await the arrival of the Almighty Archfiend in the land of His rebirth.,,N,NiGaSi2-449,NiGaSi2-451
+NiGaSi2-451,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,Ryu,And where might that be?,,N,NiGaSi2-450,NiGaSi2-452
+NiGaSi2-452,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,Elizabet,"That is of no concern to you, Dragon Ninja. As it is here that you will die at my hand. For I am… Elizabet Ruler of Blood! Queen of the Greater Fiends!",,N,NiGaSi2-451,NiGaSi2-453
+NiGaSi2-453,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,,[GAMEPLAY],,Y,NiGaSi2-452,NiGaSi2-454
+NiGaSi2-454,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,Elizabet,I will not die! The Greater Fiends are eternal!,,N,NiGaSi2-453,NiGaSi2-455
+NiGaSi2-455,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,Genshin,"So, Dragon Ninja. Would you like to know… Where the Archfiend will be reborn? A place that has bound our clans since time immemorial. More precisely… The peak of Mount Fuji!",,N,NiGaSi2-454,NiGaSi2-456
+NiGaSi2-456,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,Ryu,Mount Fuji?,,N,NiGaSi2-455,NiGaSi2-457
+NiGaSi2-457,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,Genshin,Indeed. The sacred peak that casts a shadow over your village is also where you shall die.,,N,NiGaSi2-456,NiGaSi2-458
+NiGaSi2-458,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,Sonia,Ryu!,,N,NiGaSi2-457,NiGaSi2-459
+NiGaSi2-459,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,Ryu,Sonia. You cannot follow me.,,N,NiGaSi2-458,NiGaSi2-460
+NiGaSi2-460,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,Sonia,What? Wait!,,N,NiGaSi2-459,NiGaSi2-461
+NiGaSi2-461,The Prayer of The Necromantale,We are the supreme followers of our Lord Vazdah.,Ryu,My path leads through the land of the dead.,,N,NiGaSi2-460,NiGaSi2-462
+NiGaSi2-463,Chapter 14: A Tempered Gravestone,We are the supreme followers of our Lord Vazdah.,Ayane,Are you going?,,N,NiGaSi2-462,NiGaSi2-464
+NiGaSi2-464,Chapter 14: A Tempered Gravestone,We are the supreme followers of our Lord Vazdah.,Ryu,I am.,,N,NiGaSi2-463,NiGaSi2-465
+NiGaSi2-465,Chapter 14: A Tempered Gravestone,We are the supreme followers of our Lord Vazdah.,Ayane,Your father will recover. But his condition remains grave.,,N,NiGaSi2-464,NiGaSi2-466
+NiGaSi2-466,Chapter 14: A Tempered Gravestone,We are the supreme followers of our Lord Vazdah.,Ryu,I see.,,N,NiGaSi2-465,NiGaSi2-467
+NiGaSi2-467,Chapter 14: A Tempered Gravestone,We are the supreme followers of our Lord Vazdah.,Ayane,Master Ryu… Please take this.,,N,NiGaSi2-466,NiGaSi2-468
+NiGaSi2-468,Chapter 14: A Tempered Gravestone,We are the supreme followers of our Lord Vazdah.,Ryu,The Eye of the Dragon.,,N,NiGaSi2-467,NiGaSi2-469
+NiGaSi2-469,Chapter 14: A Tempered Gravestone,We are the supreme followers of our Lord Vazdah.,Ayane,It was your father's wish that I bring it to you.,,N,NiGaSi2-468,NiGaSi2-470
+NiGaSi2-470,Chapter 14: A Tempered Gravestone,We are the supreme followers of our Lord Vazdah.,Ryu,"This will help. Ayane, stand back.",,N,NiGaSi2-469,NiGaSi2-471
+NiGaSi2-471,Chapter 14: A Tempered Gravestone,We are the supreme followers of our Lord Vazdah.,Ayane,The True Dragon Sword!,,N,NiGaSi2-470,NiGaSi2-472
+NiGaSi2-472,Chapter 14: A Tempered Gravestone,We are the supreme followers of our Lord Vazdah.,,[GAMEPLAY],,Y,NiGaSi2-471,NiGaSi2-473
+NiGaSi2-480,History of the Castle of the Dragon,We are the supreme followers of our Lord Vazdah.,"Thus, the Castle of the Dragon was conceived",an impenetrable fortress to quell the threatening evil.,,N,NiGaSi2-479,NiGaSi2-481
+NiGaSi2-484,History of the Castle of the Dragon,We are the supreme followers of our Lord Vazdah.,,[GAMEPLAY],,Y,NiGaSi2-483,NiGaSi2-485
+NiGaSi2-507,May 4th,I must die with regret.,,[GAMEPLAY],,Y,NiGaSi2-506,NiGaSi2-508
+NiGaSi2-508,May 4th,I must die with regret.,Ryu,Muramasa.,,N,NiGaSi2-507,NiGaSi2-509
+NiGaSi2-509,May 4th,I must die with regret.,Muramasa,"I sensed the stirring of the Archfiend. It's a calamity the likes of which I've never seen. But I'll never reach the top with these old legs of mine, so I've been waiting for you. I'm glad you made it. I'd expect nothing less from a Dragon Ninja. Long ago, your ancestors imprisoned the Archfiend deep within this mountain. Now, that job is up to you. Here, take this! You'll need your strength.",,N,NiGaSi2-508,NiGaSi2-510
+NiGaSi2-510,May 4th,I must die with regret.,,[GAMEPLAY],,Y,NiGaSi2-509,NiGaSi2-511
+NiGaSi2-522,April the,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-521,NiGaSi2-523
+NiGaSi2-523,April the,"Now, Dragon Ninja, prepare yourself.",Genshin,"So, you made it.",,N,NiGaSi2-522,NiGaSi2-524
+NiGaSi2-524,April the,"Now, Dragon Ninja, prepare yourself.",Ryu,Genshin.,,N,NiGaSi2-523,NiGaSi2-525
+NiGaSi2-525,April the,"Now, Dragon Ninja, prepare yourself.",Genshin,It erupts. Do you understand what this means?,,N,NiGaSi2-524,NiGaSi2-526
+NiGaSi2-526,April the,"Now, Dragon Ninja, prepare yourself.",Ryu,The Archfiend quickens.,,N,NiGaSi2-525,NiGaSi2-527
+NiGaSi2-527,April the,"Now, Dragon Ninja, prepare yourself.",Genshin,"The tantrums of the Archfiend never concerned me. All paths before me are cruel and arduous. Our time has come. You lifeblood shall spill, and YOU SHALL DIE!",,N,NiGaSi2-526,NiGaSi2-528
+NiGaSi2-528,April the,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-527,NiGaSi2-529
+NiGaSi2-529,April the,"Now, Dragon Ninja, prepare yourself.",???,"It need not end this way, Genshin.",,N,NiGaSi2-528,NiGaSi2-530
+NiGaSi2-531,Chapter 15: Quickening Devastation,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-530,NiGaSi2-532
+NiGaSi2-532,Chapter 15: Quickening Devastation,"Now, Dragon Ninja, prepare yourself.",???,"There you are, Dragon Ninja.",,N,NiGaSi2-531,NiGaSi2-533
+NiGaSi2-533,Chapter 15: Quickening Devastation,"Now, Dragon Ninja, prepare yourself.",Ryu,You.,,N,NiGaSi2-532,NiGaSi2-534
+NiGaSi2-534,Chapter 15: Quickening Devastation,"Now, Dragon Ninja, prepare yourself.",???,Now this is ironic. I never expected you to come to the underworld of your own free will.,,N,NiGaSi2-533,NiGaSi2-535
+NiGaSi2-535,Chapter 15: Quickening Devastation,"Now, Dragon Ninja, prepare yourself.",Ryu,Ironic? I don't care what call it. Stay out my way.,,N,NiGaSi2-534,NiGaSi2-536
+NiGaSi2-536,Chapter 15: Quickening Devastation,"Now, Dragon Ninja, prepare yourself.",???,Such a fool. I'm not going to let a perfectly good chance for revenge slip through my fingers. The time has come… To settle score!,,N,NiGaSi2-535,NiGaSi2-537
+NiGaSi2-537,Chapter 15: Quickening Devastation,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-536,NiGaSi2-538
+NiGaSi2-538,Chapter 15: Quickening Devastation,"Now, Dragon Ninja, prepare yourself.",Zedonius,"I cannot die. Here in the Underworld, our power is absolute!",,N,NiGaSi2-537,NiGaSi2-539
+NiGaSi2-539,Chapter 15: Quickening Devastation,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-538,NiGaSi2-540
+NiGaSi2-540,Chapter 15: Quickening Devastation,"Now, Dragon Ninja, prepare yourself.",Volf,You shall kneel before the true power of the Greater Fiends! Infernal Abyss of Annihilation!,,N,NiGaSi2-539,NiGaSi2-541
+NiGaSi2-541,Chapter 15: Quickening Devastation,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-540,NiGaSi2-542
+NiGaSi2-543,Chapter 16: The Underworld Abyss,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-542,NiGaSi2-544
+NiGaSi2-544,Chapter 16: The Underworld Abyss,"Now, Dragon Ninja, prepare yourself.",Alexei,"The décor here never really suited my tastes… But no matter. With you by my side, we can create an exquisite new world. You shouldn't have been in such a dangerous place. Why, that gives me no choice but to bring you home with me! My Sonia, what a dear little bird you are! A beautiful canary, trapped in a cage.",,N,NiGaSi2-543,NiGaSi2-545
+NiGaSi2-545,Chapter 16: The Underworld Abyss,"Now, Dragon Ninja, prepare yourself.",Sonia,Stop it.,,N,NiGaSi2-544,NiGaSi2-546
+NiGaSi2-546,Chapter 16: The Underworld Abyss,"Now, Dragon Ninja, prepare yourself.",Alexei,"Yes, that's it, yes! Sing for me, sing again and again! That maggot…The Dragon Ninja is here! You… will… DIE!",,N,NiGaSi2-545,NiGaSi2-547
+NiGaSi2-547,Chapter 16: The Underworld Abyss,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-546,NiGaSi2-548
+NiGaSi2-548,Chapter 16: The Underworld Abyss,"Now, Dragon Ninja, prepare yourself.",Alexei,What a fool…,,N,NiGaSi2-547,NiGaSi2-549
+NiGaSi2-549,Chapter 16: The Underworld Abyss,"Now, Dragon Ninja, prepare yourself.",Sonia,Ryu… I'm so sorry…,,N,NiGaSi2-548,NiGaSi2-550
+NiGaSi2-550,Chapter 16: The Underworld Abyss,"Now, Dragon Ninja, prepare yourself.",Ryu,"Sonia, stay here and don't move. Understood?",,N,NiGaSi2-549,NiGaSi2-551
+NiGaSi2-552,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-551,NiGaSi2-553
+NiGaSi2-553,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",???,RYU… HAYABUSA!,,N,NiGaSi2-552,NiGaSi2-554
+NiGaSi2-554,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",Ryu,Genshin. Go back to hell.,,N,NiGaSi2-553,NiGaSi2-555
+NiGaSi2-555,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",Genshin,YOU… DIE!,,N,NiGaSi2-554,NiGaSi2-556
+NiGaSi2-556,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-555,NiGaSi2-557
+NiGaSi2-557,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",Genshin,Are you there… Dragon Ninja? All grows dark… and silent… I have staked my name… I have fought with all of my being… All to forge a future for the Black Spider Ninja Clan… I have no regrets… Just as you have pursued a cause greater than yourself… So to have I… Dragon Ninja… take my cursed blade…,,N,NiGaSi2-556,NiGaSi2-558
+NiGaSi2-558,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",Ryu,Genshin…,,N,NiGaSi2-557,NiGaSi2-559
+NiGaSi2-559,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",???,Absolutely useless.,,N,NiGaSi2-558,NiGaSi2-560
+NiGaSi2-560,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",Elizabet,"I gave you the everlasting life of a Fiend, yet you threw it away! Undone by your pathetic sentimentality!",,N,NiGaSi2-559,NiGaSi2-561
+NiGaSi2-561,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",Ryu,"Even in death, you could never understand him, Elizabet!",,N,NiGaSi2-560,NiGaSi2-562
+NiGaSi2-562,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-561,NiGaSi2-563
+NiGaSi2-563,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",Dagra Dai,"Still it hungers for blood… The sacrifice is inadequate! It must have more! Dragon Ninja! Oh Almighty Archfiend, peerless and supreme… My flesh and blood become your sacrifice!",,N,NiGaSi2-562,NiGaSi2-564
+NiGaSi2-564,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",Sonia,Ryu! Ryu? Ryu! Ryu…,,N,NiGaSi2-563,NiGaSi2-565
+NiGaSi2-565,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",,[GAMEPLAY],,Y,NiGaSi2-564,NiGaSi2-566
+NiGaSi2-566,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",Ryu,The light of down drives away the darkness once again.,,N,NiGaSi2-565,NiGaSi2-567
+NiGaSi2-567,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",,[THE NEXT DIALOGUE WILL BE SHOWN AFTER CREDITS.],,Y,NiGaSi2-566,NiGaSi2-568
+NiGaSi2-568,Chapter 17: Poisoned Blood,"Now, Dragon Ninja, prepare yourself.",Ryu Hayabusa (to Kasumi),Darkness is destined to lift in the end. I still have much left to do.,,N,NiGaSi2-567,NiGaSi2-569

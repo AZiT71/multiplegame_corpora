@@ -1,0 +1,574 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+Ar-1,﻿﻿Main Story,,,[The initial scene. We hear a voice on the black screen.],,Y,,Ar-2
+Ar-2,﻿﻿Main Story,,Voice,Aragami...,,N,Ar-1,Ar-3
+Ar-3,﻿﻿Main Story,,Aragami,...What is this? Where am I?,,N,Ar-2,Ar-4
+Ar-4,﻿﻿Main Story,,Voice,Aragami...,,N,Ar-3,Ar-5
+Ar-5,﻿﻿Main Story,,Aragami,Who’s there?,,N,Ar-4,Ar-6
+Ar-6,﻿﻿Main Story,,Voice,Come to me... Follow my voice...,,N,Ar-5,Ar-7
+Ar-7,﻿﻿Main Story,,,[We see a vague flashback in which a few ninjas hold a force field around something and one of these ninjas is the protagonist. Flashback interrupts and our protagonist becoming a ghost-ninja aragami. He looks around and tests his new body.],,Y,Ar-6,Ar-8
+Ar-8,Chapter I: ARAGAMI,,Voice,Come here...,,N,Ar-7,Ar-9
+Ar-9,Chapter I: ARAGAMI,,,[Aragami approaches the small altar next to which materializes a girl with white hair. We see her name - Yamiko.],,Y,Ar-8,Ar-10
+Ar-10,Chapter I: ARAGAMI,,Yamiko,It worked! The ritual worked! A real aragami... I really did it!,,N,Ar-9,Ar-11
+Ar-11,Chapter I: ARAGAMI,,Aragami,…,,N,Ar-10,Ar-12
+Ar-12,Chapter I: ARAGAMI,,Yamiko,My name is Yamiko. I’m the one who invoked you. What is our name? How do you feel?,,N,Ar-11,Ar-13
+Ar-13,Chapter I: ARAGAMI,,Aragami,…,,N,Ar-12,Ar-14
+Ar-14,Chapter I: ARAGAMI,,Yamiko,I guess an aragami really is a blank slate...,,N,Ar-13,Ar-15
+Ar-15,Chapter I: ARAGAMI,,Aragami,Ara... gami?,,N,Ar-14,Ar-16
+Ar-16,Chapter I: ARAGAMI,,Yamiko,"Sorry, am I going too fast? You are an aragami, a vengeful spirit summoned through an ancient ritual. I wasn’t sure it would work...",,N,Ar-15,Ar-17
+Ar-17,Chapter I: ARAGAMI,,Aragami,...Vengeful?,,N,Ar-16,Ar-18
+Ar-18,Chapter I: ARAGAMI,,Yamiko,"Yes. A clan called Kaiho, they... they killed my people. They took our land. They have destroyed everything. We lost the war and they razed it all.",,N,Ar-17,Ar-19
+Ar-19,Chapter I: ARAGAMI,,Aragami,Kaiho...,,N,Ar-18,Ar-20
+Ar-20,Chapter I: ARAGAMI,,Yamiko,"I’m one of the few who survived their attacks. They imprisoned me far away in the city’s temple. What you’re looking at now is just a projection. I don’t know how long they’ll keep me for, or if they’ll let me live... You are my only hope, Aragami.",,N,Ar-19,Ar-21
+Ar-21,Chapter I: ARAGAMI,,Aragami,Right... What am I supposed to do?,,N,Ar-20,Ar-22
+Ar-22,Chapter I: ARAGAMI,,Yamiko,"For starters, you won’t get far without a weapon. Follow me.",,N,Ar-21,Ar-23
+Ar-23,Chapter I: ARAGAMI,,,[Aragami uses his powers to pass through the closed door.],,Y,Ar-22,Ar-24
+Ar-24,Chapter I: ARAGAMI,,Yamiko,You can use Shadow essence? I didn’t know aragami could do that! If that’s the case then be careful in the light. It will drain your energy. Try to keep to the shadows. You can recover Shadow essence that way.,,N,Ar-23,Ar-25
+Ar-25,Chapter I: ARAGAMI,,,[Aragami approaches the river.],,Y,Ar-24,Ar-26
+Ar-26,Chapter I: ARAGAMI,,Yamiko,Do you think your powers could help us here?,,N,Ar-25,Ar-27
+Ar-27,Chapter I: ARAGAMI,,,[He teleports to the other side.],,Y,Ar-26,Ar-28
+Ar-28,Chapter I: ARAGAMI,,Yamiko,Nice! Um... What about this?,,N,Ar-27,Ar-29
+Ar-29,Chapter I: ARAGAMI,,,[He climbs onto the wall.],,Y,Ar-28,Ar-30
+Ar-30,Chapter I: ARAGAMI,,Yamiko,Perfect! Come. There’s something here for you.,,N,Ar-29,Ar-31
+Ar-31,Chapter I: ARAGAMI,,,"[Aragami jumps into a small room, where he finds a small altar with a lot of snake heads and a sword on the pedestal. He takes the sword, does some training movements and puts it in its scabbard.]",,Y,Ar-30,Ar-32
+Ar-32,Chapter I: ARAGAMI,,Yamiko,"Yes, good. This will help.",,N,Ar-31,Ar-33
+Ar-33,Chapter I: ARAGAMI,,,"[Aragami goes on until he runs into one of the soldiers. We see the name on the screen - that’s the soldier Kaiho, the Warriors of the Light.]",,Y,Ar-32,Ar-34
+Ar-34,Chapter I: ARAGAMI,,Yamiko,"Watch out, it’s one of them! Keep still.",,N,Ar-33,Ar-35
+Ar-35,Chapter I: ARAGAMI,,,[Aragami quietly kills a soldier and goes on.],,Y,Ar-34,Ar-36
+Ar-36,Chapter I: ARAGAMI,,Yamiko,Be careful. Kaiho soldiers are Light adepts. Their swords are imbued with Light essence. Don’t even think about confronting them directly.,,N,Ar-35,Ar-37
+Ar-37,Chapter I: ARAGAMI,,,"[Aragami kills all the soldiers and leaves the level. In the next location, he finds a small altar with a nine-tailed fox. He is overwhelmed by visions once again, from which we understand that ninjas from the previous memory captivated a similar creature.]",,Y,Ar-36,Ar-38
+Ar-38,Chapter I: ARAGAMI,,Aragami,This again... Yamiko? I saw something. A vision.,,N,Ar-37,Ar-39
+Ar-39,Chapter I: ARAGAMI,,Yamiko,I... I saw it too. The ritual must have created some kind of connection between us.,,N,Ar-38,Ar-40
+Ar-40,Chapter I: ARAGAMI,,Aragami,And I had another when I woke up. Just before I met you. What does it mean?,,N,Ar-39,Ar-41
+Ar-41,Chapter I: ARAGAMI,,Yamiko,Who knows. There aren’t many writings about the ritual I used to invoke you. Hopefully we’ll find out soon.,,N,Ar-40,Ar-42
+Ar-42,Chapter I: ARAGAMI,,Aragami,…,,N,Ar-41,Ar-43
+Ar-43,Chapter I: ARAGAMI,,Yamiko,Let’s get moving. Can’t have you evaporating at dawn.,,N,Ar-42,Ar-44
+Ar-44,Chapter I: ARAGAMI,,Aragami,"Okay — wait, what?",,N,Ar-43,Ar-45
+Ar-45,Chapter I: ARAGAMI,,Yamiko,Oh! Didn’t I tell you? Your body is made of shadows. If a ray of sunlight touches it...,,N,Ar-44,Ar-46
+Ar-46,Chapter I: ARAGAMI,,Aragami,At this point I’m just glad you told me at all.,,N,Ar-45,Ar-47
+Ar-47,Chapter I: ARAGAMI,,Yamiko,"Hehe... I’m sorry... Look, Aragami! There’s a scroll the statue. Let’s take a look.",,N,Ar-46,Ar-48
+Ar-48,Chapter I: ARAGAMI,,,"[Aragami takes the scroll, receives 1 skill point and now can upgrade any skill in his arsenal.]",,Y,Ar-47,Ar-49
+Ar-49,Chapter I: ARAGAMI,,Yamiko,You absorbed its aura? Amazing... Whatever it seems to have made you stronger. Let’s keep an eye out for more.,,N,Ar-48,Ar-50
+Ar-50,Chapter I: ARAGAMI,,,[Aragami passes through the locked door.],,Y,Ar-49,Ar-51
+Ar-51,Chapter I: ARAGAMI,,Yamiko,If you are out of Shadow essence just stay in the shadows for a few seconds.,,N,Ar-50,Ar-52
+Ar-52,Chapter I: ARAGAMI,,,[Aragami passes through another locked door.],,Y,Ar-51,Ar-53
+Ar-53,Chapter I: ARAGAMI,,Yamiko,Try to create shadows and then leap to them — you can probably climb anything doing that!,,N,Ar-52,Ar-54
+Ar-54,Chapter II: THE CALL OF THE SHADOWS,,,[Aragami jumps off the ledge and sees a temple nearby.],,Y,Ar-53,Ar-55
+Ar-55,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,See that temple? That’s where we’re headed.,,N,Ar-54,Ar-56
+Ar-56,Chapter II: THE CALL OF THE SHADOWS,,Aragami,Why?,,N,Ar-55,Ar-57
+Ar-57,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,I heard they’re keeping an animal there that may be able to help us.,,N,Ar-56,Ar-58
+Ar-58,Chapter II: THE CALL OF THE SHADOWS,,Aragami,An animal?,,N,Ar-57,Ar-59
+Ar-59,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,"Yes. Apparently it has something to do with magic they used to entrap me. You have to find it, Aragami. By the way, is it okay if I call you Aragami?",,N,Ar-58,Ar-60
+Ar-60,Chapter II: THE CALL OF THE SHADOWS,,Aragami,...I suppose.,,N,Ar-59,Ar-61
+Ar-61,Chapter II: THE CALL OF THE SHADOWS,,,"[He goes further, kill the guards and arrives at the entrance to the temple.]",,Y,Ar-60,Ar-62
+Ar-62,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,"Up here, Aragami.",,N,Ar-61,Ar-63
+Ar-63,Chapter II: THE CALL OF THE SHADOWS,,,[Entering the temple Aragami hears the conversation of the guards.],,Y,Ar-62,Ar-64
+Ar-64,Chapter II: THE CALL OF THE SHADOWS,,Kaiho Soldier,"Guard a talisman, guard a bird, guard this door, guard that door... Guard, guard, guard. When will we see some action?",,N,Ar-63,Ar-65
+Ar-65,Chapter II: THE CALL OF THE SHADOWS,,Kaiho Soldier,Those are Captain Hikaru’s orders. I don’t like it any more than you do.,,N,Ar-64,Ar-66
+Ar-66,Chapter II: THE CALL OF THE SHADOWS,,Kaiho Soldier,"I don’t get why he’s worrying so much about a caged bird, that’s all. Tempted to go have a look.",,N,Ar-65,Ar-67
+Ar-67,Chapter II: THE CALL OF THE SHADOWS,,Kaiho Soldier,Just... don’t. The captain will come the second you leave your post. You know it. You don’t want to see him angry.,,N,Ar-66,Ar-68
+Ar-68,Chapter II: THE CALL OF THE SHADOWS,,Kaiho Soldier,Have you ever see him angry?,,N,Ar-67,Ar-69
+Ar-69,Chapter II: THE CALL OF THE SHADOWS,,Kaiho Soldier,I was there when that snake Hyo gathered his men and ambushed Captain Yuki right when he was most vulnerable. When Captain Hikaru saw Captain Yuki dead... You’d understand if you saw that.,,N,Ar-68,Ar-70
+Ar-70,Chapter II: THE CALL OF THE SHADOWS,,Kaiho Soldier,…,,N,Ar-69,Ar-71
+Ar-71,Chapter II: THE CALL OF THE SHADOWS,,Kaiho Soldier,"But more importantly, it was me who trapped that damn bird. Don’t touch it! Okay, okay, I’ll drop it, I’ll drop it.",,N,Ar-70,Ar-72
+Ar-72,Chapter II: THE CALL OF THE SHADOWS,,,[Aragami finds a room with a bird cage.],,Y,Ar-71,Ar-73
+Ar-73,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,Finally! Let’s free it and move on!,,N,Ar-72,Ar-74
+Ar-74,Chapter II: THE CALL OF THE SHADOWS,,,"[When he touches the cage, he is visited again by the vision of a past life - a bird floating in the sky -- He opens the cage and releases the bird sitting there. It flies out and Aragami follows it.]",,Y,Ar-73,Ar-75
+Ar-75,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,Huh! Good timing. I’ll try to stop it.,,N,Ar-74,Ar-76
+Ar-76,Chapter II: THE CALL OF THE SHADOWS,,,"[Aragami follows the bird until he finds several watchtowers. Having climbed one of them, the hero falls under the floor, and he has another vision. We see the world with his eyes in the first person. There is a war raging around. The hero runs into an attack with an armed sword of the enemy. Suddenly this vision is replaced by another one where we see the same village in peacetime. Returning to the present, Aragami question the spirit of Yamiko.]",,Y,Ar-75,Ar-77
+Ar-77,Chapter II: THE CALL OF THE SHADOWS,,Aragami,These visions... What do they mean?,,N,Ar-76,Ar-78
+Ar-78,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,I don’t know.,,N,Ar-77,Ar-79
+Ar-79,Chapter II: THE CALL OF THE SHADOWS,,Aragami,It felt like I was there... I think I was using... Is it Light essence?,,N,Ar-78,Ar-80
+Ar-80,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,"If you already use Shadow essence, you can’t be a Light adept too. And you were born this evening, remember?",,N,Ar-79,Ar-81
+Ar-81,Chapter II: THE CALL OF THE SHADOWS,,Aragami,But if I’m not seeing memories... Then what am I seeing? Whose visions are these?,,N,Ar-80,Ar-82
+Ar-82,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,I’m sorry. I don’t know... Maybe we can figure it out on the way to the city.,,N,Ar-81,Ar-83
+Ar-83,Chapter II: THE CALL OF THE SHADOWS,,Aragami,Right. And how can the raven help us?,,N,Ar-82,Ar-84
+Ar-84,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,He has been keeping an eye on Kaiho’s activities. He should be able to lead us to the talismans.,,N,Ar-83,Ar-85
+Ar-85,Chapter II: THE CALL OF THE SHADOWS,,Aragami,Talismans?,,N,Ar-84,Ar-86
+Ar-86,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,The magic seal that the Kaiho used to imprison me takes its power from six talismans. We need them all to break it.,,N,Ar-85,Ar-87
+Ar-87,Chapter II: THE CALL OF THE SHADOWS,,Aragami,So we have to get all of them before rescuing you?,,N,Ar-86,Ar-88
+Ar-88,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,"Yes. And thanks to this raven, it won’t take all night to find them. Hopefully.",,N,Ar-87,Ar-89
+Ar-89,Chapter II: THE CALL OF THE SHADOWS,,Aragami,Yamiko. Why did they keep this raven locked up?,,N,Ar-88,Ar-90
+Ar-90,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,Maybe they didn’t want it falling into the wrong hands... like ours.,,N,Ar-89,Ar-91
+Ar-91,Chapter II: THE CALL OF THE SHADOWS,,Aragami,Why didn’t they just...,,N,Ar-90,Ar-92
+Ar-92,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,Kill it? Who knows. But it’s a relief they didn’t.,,N,Ar-91,Ar-93
+Ar-93,Chapter II: THE CALL OF THE SHADOWS,,Aragami,Indeed…,,N,Ar-92,Ar-94
+Ar-94,Chapter II: THE CALL OF THE SHADOWS,,,[He goes on killing Kaiho soldiers until he stumbles into a small passage in the rocks.],,Y,Ar-93,Ar-95
+Ar-95,Chapter II: THE CALL OF THE SHADOWS,,Yamiko,Look! I found a path through the mountain.,,N,Ar-94,Ar-96
+Ar-97,Chapter III: CHIMES OF THE PAST,,Yamiko,"Hey, listen! Aragami! We’re reaching the cemetery’s entrance. Or the exit, as the case may be... Kurosu says the first talisman is here. There are five left after this.",,N,Ar-96,Ar-98
+Ar-98,Chapter III: CHIMES OF THE PAST,,Aragami,Kurosu?,,N,Ar-97,Ar-99
+Ar-99,Chapter III: CHIMES OF THE PAST,,Yamiko,"The raven. I’ve decided to call him ‘Kurosu’. Suits him, right?",,N,Ar-98,Ar-100
+Ar-100,Chapter III: CHIMES OF THE PAST,,Aragami,Sure.,,N,Ar-99,Ar-101
+Ar-101,Chapter III: CHIMES OF THE PAST,,,[He sneak to the second area of the cementry.],,Y,Ar-100,Ar-102
+Ar-102,Chapter III: CHIMES OF THE PAST,,Aragami,…It doesn't feel right...,,N,Ar-101,Ar-103
+Ar-103,Chapter III: CHIMES OF THE PAST,,Yamiko,What was that?,,N,Ar-102,Ar-104
+Ar-104,Chapter III: CHIMES OF THE PAST,,Aragami,Nothing...,,N,Ar-103,Ar-105
+Ar-105,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,How long has it been since we got here?,,N,Ar-104,Ar-106
+Ar-106,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,I don’t even want to know. Feels like decades. I bet my family don’t even remember what I look like.,,N,Ar-105,Ar-107
+Ar-107,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,If you have people waiting back home… Why didn’t you go back after the war?,,N,Ar-106,Ar-108
+Ar-108,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,"When the Nisshoku empire wiped the Light brotherhoods off the map, we came back stronger. But can’t you see this peace is tenuous? One slip and the conflict could begin again. We can’t let that happen.",,N,Ar-107,Ar-109
+Ar-109,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,If only we all had your determination...,,N,Ar-108,Ar-110
+Ar-110,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,I wonder what all these fox statues mean.,,N,Ar-109,Ar-111
+Ar-111,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,Isn’t the fox the symbol of Kyuryu’s royal family?,,N,Ar-110,Ar-112
+Ar-112,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,"Maybe you’re right. That means this is the royal crypt... We could be standing on the graves of Nisshoku’s leaders, the ones responsible for the deaths of thousands!",,N,Ar-111,Ar-113
+Ar-113,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,Probably. What are you thinking?,,N,Ar-112,Ar-114
+Ar-114,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,I’m thinking I better pick a grave to take a dump on.,,N,Ar-113,Ar-115
+Ar-115,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,Ha!,,N,Ar-114,Ar-116
+Ar-116,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,How dare they...,,N,Ar-115,Ar-117
+Ar-117,Chapter III: CHIMES OF THE PAST,,,[After sneaking into the far side of the cemetery Aragami finds a small altar.],,Y,Ar-116,Ar-118
+Ar-118,Chapter III: CHIMES OF THE PAST,,Yamiko,So this is where they put it…,,N,Ar-117,Ar-119
+Ar-119,Chapter III: CHIMES OF THE PAST,,,"[There are bells on the altar. Aragami picks them up and sees the next vision. Little Yamiko gets these bells as a gift. After that, two people break into her house and kill her family. Yamiko manages to escape from her home.]",,Y,Ar-118,Ar-120
+Ar-120,Chapter III: CHIMES OF THE PAST,,Aragami,This again... It felt different this time.,,N,Ar-119,Ar-121
+Ar-121,Chapter III: CHIMES OF THE PAST,,Yamiko,Definitely different… That was my childhood.,,N,Ar-120,Ar-122
+Ar-122,Chapter III: CHIMES OF THE PAST,,Aragami,Your childhood?,,N,Ar-121,Ar-123
+Ar-123,Chapter III: CHIMES OF THE PAST,,Yamiko,I didn’t expect this. It must be another side effect of the ritual.,,N,Ar-122,Ar-124
+Ar-124,Chapter III: CHIMES OF THE PAST,,Aragami,So that girl... it was you?,,N,Ar-123,Ar-125
+Ar-125,Chapter III: CHIMES OF THE PAST,,Yamiko,Yes… Those bells were my father’s. You just watched him and my mother being murdered by Light adepts.,,N,Ar-124,Ar-126
+Ar-126,Chapter III: CHIMES OF THE PAST,,Aragami,Light adepts? From the Kaiho army?,,N,Ar-125,Ar-127
+Ar-127,Chapter III: CHIMES OF THE PAST,,Yamiko,"No… This was before Kaiho. For eons these lands have been assaulted by Light brotherhoods. Taiharo, Saigosen, Kaiho... one after another. We always managed to hold them back… until the day Kaiho came. In the end they’re all the same. Merciless murderers. Callous killers of young and old alike.",,N,Ar-126,Ar-128
+Ar-128,Chapter III: CHIMES OF THE PAST,,Aragami,…Yamiko?,,N,Ar-127,Ar-129
+Ar-129,Chapter III: CHIMES OF THE PAST,,Yamiko,"Ah… I’m sorry. This shrine was built to honor my mother and father, whose bodies were never found. Those men, those killers, didn’t leave a shred of them behind. Nothing but these bells.",,N,Ar-128,Ar-130
+Ar-130,Chapter III: CHIMES OF THE PAST,,Aragami,"That memory… I felt the fear… the pain… I’m sorry for your loss, Yamiko.",,N,Ar-129,Ar-131
+Ar-131,Chapter III: CHIMES OF THE PAST,,Yamiko,"Thank you, Aragami… We have to press on. Try wearing the bells like a bangle. You might find them useful.",,N,Ar-130,Ar-132
+Ar-132,Chapter III: CHIMES OF THE PAST,,Aragami,Right. But I’ll give them back when I find you.,,N,Ar-131,Ar-133
+Ar-133,Chapter III: CHIMES OF THE PAST,,Yamiko,Thank you!,,N,Ar-132,Ar-134
+Ar-134,Chapter III: CHIMES OF THE PAST,,,[Aragami fastens the bells to his armband.],,Y,Ar-133,Ar-135
+Ar-135,Chapter III: CHIMES OF THE PAST,,Yamiko,"Careful, someone’s coming! This might be a good opportunity. Use the bells to draw that guard’s attention. Perhaps we can slip past.",,N,Ar-134,Ar-136
+Ar-136,Chapter III: CHIMES OF THE PAST,,,[Aragami uses the bells.],,Y,Ar-135,Ar-137
+Ar-137,Chapter III: CHIMES OF THE PAST,,Kaiho Soldier,What was that?,,N,Ar-136,Ar-138
+Ar-138,Chapter III: CHIMES OF THE PAST,,,"[While the guard responds to the sound, Aragami slips past him.]",,Y,Ar-137,Ar-139
+Ar-139,Chapter III: CHIMES OF THE PAST,,Yamiko,We got the talisman! Let’s go back and find the trail to the forest.,,N,Ar-138,Ar-140
+Ar-140,Chapter III: CHIMES OF THE PAST,,,"[Aragami gets out of the cemetery, killing the soldiers guarding it.]",,Y,Ar-139,Ar-141
+Ar-141,Chapter III: CHIMES OF THE PAST,,Yamiko,I’ve always liked foxes. My mother used to sing a song about them when I was a child.,,N,Ar-140,Ar-142
+Ar-142,Chapter III: CHIMES OF THE PAST,,Yamiko,Kurosu says they keep the next talisman in a cave deep in the forest... Be careful. I’ve heard many ghost stories about these woods.,,N,Ar-141,Ar-143
+Ar-143,Chapter III: CHIMES OF THE PAST,,Aragami,Wonderful…,,N,Ar-142,Ar-144
+Ar-144,Chapter IV: THE SHADED WOODS,,Yamiko,They blocked the path… That barrier must be linked to an orb of Light essence. I’m sure we’ll be able to get through if you destroy it.,,N,Ar-143,Ar-145
+Ar-145,Chapter IV: THE SHADED WOODS,,,[Aragami enters a small settlement.],,Y,Ar-144,Ar-146
+Ar-146,Chapter IV: THE SHADED WOODS,,Yamiko,This place is familiar…,,N,Ar-145,Ar-147
+Ar-147,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,Have you ever seen that thing… uh… the talisman?,,N,Ar-146,Ar-148
+Ar-148,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,No. Don’t much care to.,,N,Ar-147,Ar-149
+Ar-149,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,How come?,,N,Ar-148,Ar-150
+Ar-150,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,"I heard the general and captains used some rare magic to create them. The same magic that’s affecting their health, even now... Gives me chills just thinking about it.",,N,Ar-149,Ar-151
+Ar-151,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,"Aren’t you even a little curious, though?",,N,Ar-150,Ar-152
+Ar-152,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,"You heard what happened to Captain Yuki, right? He was killed because the magic made him vulnerable. Nobody wants to be near those things.",,N,Ar-151,Ar-153
+Ar-153,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,"Wow… I still wonder what it looks like, though.",,N,Ar-152,Ar-154
+Ar-154,Chapter IV: THE SHADED WOODS,,,"[Having searched Aragami settlement he finds a small cave, in which, apparently, someone was hiding - there are logs, candles and straw mats around. There, he finds a doll. When he picks up the doll, he sees a flash of past event as little Yamiko was hiding in a cave. It's raining heavily outside.]",,Y,Ar-153,Ar-155
+Ar-155,Chapter IV: THE SHADED WOODS,,Yamiko,"That… That’s my precious doll. The only memento I have of my mother. She made it for me. It’s an effigy of an ancient heroine from her clan, the Shirokitsu. It inspired me to keep going, no matter what. Even through all the years I spent in this place.",,N,Ar-154,Ar-156
+Ar-156,Chapter IV: THE SHADED WOODS,,Aragami,You... lived here?,,N,Ar-155,Ar-157
+Ar-157,Chapter IV: THE SHADED WOODS,,Yamiko,"Unfortunately. After the attack I was too afraid to go back to town. They might have been waiting for me. I had nowhere else to go... I thought I’d never trust anyone ever again. …Handle the doll with care, will you?",,N,Ar-156,Ar-158
+Ar-158,Chapter IV: THE SHADED WOODS,,Aragami,I will. Yamiko...,,N,Ar-157,Ar-159
+Ar-159,Chapter IV: THE SHADED WOODS,,Yamiko,Yes?,,N,Ar-158,Ar-160
+Ar-160,Chapter IV: THE SHADED WOODS,,Aragami,These talismans… Why are they being guarded so carefully? You said Kaiho used them to imprison you – I’ve seen tens of guards so far and we have just two talismans. Why are they throwing men at this?,,N,Ar-159,Ar-161
+Ar-161,Chapter IV: THE SHADED WOODS,,Yamiko,You see… I was very close to the Empress. I was with her when the Kaiho attacked. She’s strong – many considered her a goddess because of her immense power.,,N,Ar-160,Ar-162
+Ar-162,Chapter IV: THE SHADED WOODS,,Aragami,A goddess…,,N,Ar-161,Ar-163
+Ar-163,Chapter IV: THE SHADED WOODS,,Yamiko,"Yes. Remember when I said there are others imprisoned here with me? The Empress herself is one of them. Kaiho underestimated her when they attacked. Their leaders had to use this filthy talisman magic to seal the temple… And now they’re guarding the whole place, afraid someone might release her. Even though they couldn’t destroy the Empress back then, they’ve been looking for ways to do so ever since they captured her. This is just one of the reasons we need to hurry.",,N,Ar-162,Ar-164
+Ar-164,Chapter IV: THE SHADED WOODS,,Aragami,You’re right. We’ve wasted enough time already.,,N,Ar-163,Ar-165
+Ar-165,Chapter IV: THE SHADED WOODS,,,[He's taking the doll with him.],,Y,Ar-164,Ar-166
+Ar-166,Chapter IV: THE SHADED WOODS,,Yamiko,"There’s a secret passage back here... I always made sure to have an escape route. Over here, follow me. I remember this place being far bigger…",,N,Ar-165,Ar-167
+Ar-167,Chapter IV: THE SHADED WOODS,,,[The cave is starting to fall apart. Aragami manages to get out thanks to his teleportation abilities.],,Y,Ar-166,Ar-168
+Ar-168,Chapter IV: THE SHADED WOODS,,Yamiko,Well... that was close. I suppose you weigh more than I did when I was a kid...,,N,Ar-167,Ar-169
+Ar-169,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,Do you know how these orbs work?,,N,Ar-168,Ar-170
+Ar-170,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,I heard something about it once… Captain Yuki was the one that created them.,,N,Ar-169,Ar-171
+Ar-171,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,Really? How do they create Light essence like that?,,N,Ar-170,Ar-172
+Ar-172,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,Create? The orbs don’t create it. They’re made of a rare mineral that absorbs Light essence during the day. During the night that essence produces the glow you see.,,N,Ar-171,Ar-173
+Ar-173,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,A mineral? I thought they were just... magic crystal balls or something.,,N,Ar-172,Ar-174
+Ar-174,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,"This is basic stuff, man. It’s the same mineral our weapons are made of. Even those with barely any Light experience can command it with ease.",,N,Ar-173,Ar-175
+Ar-175,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,"I see… Wait, what? My sword?",,N,Ar-174,Ar-176
+Ar-176,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,"Please swap my shift, Captain Hikaru...",,N,Ar-175,Ar-177
+Ar-177,Chapter IV: THE SHADED WOODS,,,[Aragami manages to get to the far side of the guardpost.],,Y,Ar-176,Ar-178
+Ar-178,Chapter IV: THE SHADED WOODS,,Yamiko,"Aragami, news from Kurosu. We’re almost at Sanzen Kozui Lake where the next talisman is. They say that long ago, this lands’ farmers came here to pray to the gods for rain… Kaiho certainly love desecrating sacred places.",,N,Ar-177,Ar-179
+Ar-179,Chapter IV: THE SHADED WOODS,,Aragami,Where was Kurosu? I didn’t see him.,,N,Ar-178,Ar-180
+Ar-180,Chapter IV: THE SHADED WOODS,,Yamiko,In this form I have a telepathic bond with him. Don’t you wonder how my apparition speaks to you without any lungs?,,N,Ar-179,Ar-181
+Ar-181,Chapter IV: THE SHADED WOODS,,Aragami,…Point taken.,,N,Ar-180,Ar-182
+Ar-182,Chapter IV: THE SHADED WOODS,,,[Aragami kills the soldiers at a guard post and climbs into the big castle.],,Y,Ar-181,Ar-183
+Ar-183,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,"…That’s when this land’s people left and travelled to Kyuryu. Before that, they worshipped a god of Water. I think its name was…",,N,Ar-182,Ar-184
+Ar-184,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,Who cares? The only god I’m interested in is the Shadow Empress... They say she’s beautiful.,,N,Ar-183,Ar-185
+Ar-185,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,Are you insane? Don’t you know why we’re doing all this? She’s a monster. She killed thousands. Even our leaders couldn’t defeat her. They only just managed to trap her.,,N,Ar-184,Ar-186
+Ar-186,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,What does that have to do with beauty? Maybe if I ask Captain Hikaru I can get my post swapped and go see the temple. Maybe I’ll see her there…,,N,Ar-185,Ar-187
+Ar-187,Chapter IV: THE SHADED WOODS,,Kaiho Soldier,There’s something wrong with you.,,N,Ar-186,Ar-188
+Ar-188,Chapter V: THE GREAT LAKE,,,[Aragami finds a glass sphere maintaining a protective field that stands in the way of our hero.],,Y,Ar-187,Ar-189
+Ar-189,Chapter V: THE GREAT LAKE,,Yamiko,"They placed it on the lake’s torii… A good spot, I’ll give them that. We’ll need to take a little detour. Let’s go.",,N,Ar-188,Ar-190
+Ar-190,Chapter V: THE GREAT LAKE,,Aragami,"Wait a second, Yamiko.",,N,Ar-189,Ar-191
+Ar-191,Chapter V: THE GREAT LAKE,,Yamiko,Hm?,,N,Ar-190,Ar-192
+Ar-192,Chapter V: THE GREAT LAKE,,Aragami,I’ve been thinking… What will happen after I rescue you?,,N,Ar-191,Ar-193
+Ar-193,Chapter V: THE GREAT LAKE,,Yamiko,"When you free me, the Empress will be free too. She’ll destroy their general in no time, you can count on that. These barbarians aren’t very smart. They need someone to tell them what to do all the time. Without the Kaiho general, the tides will turn for our people at last.",,N,Ar-192,Ar-194
+Ar-194,Chapter V: THE GREAT LAKE,,Aragami,"No, I meant… what will happen to me?",,N,Ar-193,Ar-195
+Ar-195,Chapter V: THE GREAT LAKE,,Yamiko,Oh…,,N,Ar-194,Ar-196
+Ar-196,Chapter V: THE GREAT LAKE,,Aragami,"You summoned me to rescue you and your people, but what happens once I finish the task? Will I just… vanish?",,N,Ar-195,Ar-197
+Ar-197,Chapter V: THE GREAT LAKE,,Yamiko,"To be honest… I never thought about it. The ancient texts I have read didn’t mention your fate, except that the touch of sunlight releases an aragami from the corporeal realm. Don’t worry, the legends didn’t say anything bad will happen. I’ll figure something out. I did invoke you after all, right?",,N,Ar-196,Ar-198
+Ar-198,Chapter V: THE GREAT LAKE,,Aragami,Right. Sorry.,,N,Ar-197,Ar-199
+Ar-199,Chapter V: THE GREAT LAKE,,Yamiko,"It will be okay, I promise. I need you focused, Aragami. The fate of my people depends on it.",,N,Ar-198,Ar-200
+Ar-200,Chapter V: THE GREAT LAKE,,Aragami,I am.,,N,Ar-199,Ar-201
+Ar-201,Chapter V: THE GREAT LAKE,,,"[He destroys the sphere and goes out to the lake. The whole lake is built up with wooden pathways, on which many guards walk. There are also many defensive spheres around that prevent advancement.]",,Y,Ar-200,Ar-202
+Ar-202,Chapter V: THE GREAT LAKE,,Yamiko,"You’ve done it! Great job, Aragami! Three more to go.",,N,Ar-201,Ar-203
+Ar-203,Chapter V: THE GREAT LAKE,,,[Aragami destroys the last talisman.],,Y,Ar-202,Ar-204
+Ar-204,Chapter V: THE GREAT LAKE,,Yamiko,The only way out is the way we came in. Just keep going straight ahead.,,N,Ar-203,Ar-205
+Ar-205,Chapter V: THE GREAT LAKE,,,"[As he makes his way out, he hears two guards talking...]",,Y,Ar-204,Ar-206
+Ar-206,Chapter V: THE GREAT LAKE,,Kaiho Soldier,You know this is the farthest they could possibly station us from the city?,,N,Ar-205,Ar-207
+Ar-207,Chapter V: THE GREAT LAKE,,Kaiho Soldier,"I know. It’s great, right?",,N,Ar-206,Ar-208
+Ar-208,Chapter V: THE GREAT LAKE,,Kaiho Soldier,Great? I’ve never been this bored in my life. I joined Kaiho for action. To fight evil. Make some heads literally roll. What’s the point of walking in circles all day and all night?,,N,Ar-207,Ar-209
+Ar-209,Chapter V: THE GREAT LAKE,,Kaiho Soldier,"Chopping off heads isn’t Kaiho’s main objective, you know? Whatever you say, this is the best place to guard. No one will come here. Ever.",,N,Ar-208,Ar-210
+Ar-210,Chapter V: THE GREAT LAKE,,Kaiho Soldier,Ugh.,,N,Ar-209,Ar-211
+Ar-211,Chapter V: THE GREAT LAKE,,,"[Near the exit, Aragami takes out a piece of wood wrapped in ribbon he picked up earlier. He sees a short vision like little Yamiko hiding in the grass, killing someone or something.]",,Y,Ar-210,Ar-212
+Ar-212,Chapter V: THE GREAT LAKE,,Aragami,What did I just see?,,N,Ar-211,Ar-213
+Ar-213,Chapter V: THE GREAT LAKE,,Yamiko,How embarrassing...,,N,Ar-212,Ar-214
+Ar-214,Chapter V: THE GREAT LAKE,,Aragami,"That was you hunting, right?",,N,Ar-213,Ar-215
+Ar-215,Chapter V: THE GREAT LAKE,,Yamiko,"I was in this forest for years. I didn’t think I could return to society. I lived hand to mouth, hunting and rooting about for shelter… Nature is cruel, you know? Those years changed me for good.",,N,Ar-214,Ar-216
+Ar-216,Chapter V: THE GREAT LAKE,,Aragami,You’re tougher than you look.,,N,Ar-215,Ar-217
+Ar-217,Chapter V: THE GREAT LAKE,,Yamiko,What did you expect? A helpless princess in a castle? Well… I guess I am pretty helpless now... but just wait till you see me out of this damned prison!,,N,Ar-216,Ar-218
+Ar-218,Chapter V: THE GREAT LAKE,,Aragami,"If you say so. By the way, isn’t it strange that all the talismans are… well, yours?",,N,Ar-217,Ar-219
+Ar-219,Chapter V: THE GREAT LAKE,,Yamiko,It is. And I can assure you that I don’t like it one bit. Especially those Kaiho brutes touching my things…,,N,Ar-218,Ar-220
+Ar-220,Chapter V: THE GREAT LAKE,,Aragami,...,,N,Ar-219,Ar-221
+Ar-221,Chapter V: THE GREAT LAKE,,Yamiko,I’ll try not to think about it. According to Kurosu there’s only one more talisman to gather before we need to make for the city. I wonder where they put it…,,N,Ar-220,Ar-222
+Ar-222,Chapter V: THE GREAT LAKE,,,"[They're going out to a huge castle. From the height of the embankment on which they stand, it seems even bigger.]",,Y,Ar-221,Ar-223
+Ar-223,Chapter V: THE GREAT LAKE,,Yamiko,Huh. I can’t think of any hiding places here. Where did they put that talisman?,,N,Ar-222,Ar-224
+Ar-224,Chapter V: THE GREAT LAKE,,Aragami,What’s that place?,,N,Ar-223,Ar-225
+Ar-225,Chapter V: THE GREAT LAKE,,Yamiko,"What the… I don’t know what it is, but my people didn’t build it, that’s for sure.",,N,Ar-224,Ar-226
+Ar-226,Chapter V: THE GREAT LAKE,,Aragami,Then who did? The Kaiho?,,N,Ar-225,Ar-227
+Ar-227,Chapter V: THE GREAT LAKE,,Yamiko,Most likely. Building an ugly thing like that in front of my city… What were they thinking?,,N,Ar-226,Ar-228
+Ar-228,Chapter V: THE GREAT LAKE,,Aragami,"But it’s huge… If this wasn’t here before the war, how long have you been in captivity for?",,N,Ar-227,Ar-229
+Ar-229,Chapter V: THE GREAT LAKE,,Yamiko,"I wish I could say… The dirty magic they used has kept us all asleep for… a long time, I suppose.",,N,Ar-228,Ar-230
+Ar-230,Chapter V: THE GREAT LAKE,,Aragami,Well… Hopefully we’ll find out sooner rather than later.,,N,Ar-229,Ar-231
+Ar-231,Chapter VI: MAUSOLEUM OF THE FALLEN,,,"[Aragami sneaks inside the castle, jumping on one of the walls.]",,Y,Ar-230,Ar-232
+Ar-232,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,"Kurosu says there’s a hidden entrance around here. I don’t like this place… Let’s make this quick, okay?",,N,Ar-231,Ar-233
+Ar-233,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,As always.,,N,Ar-232,Ar-234
+Ar-234,Chapter VI: MAUSOLEUM OF THE FALLEN,,Kaiho Soldier,So. You helped build it? The mausoleum?,,N,Ar-233,Ar-235
+Ar-235,Chapter VI: MAUSOLEUM OF THE FALLEN,,Kaiho Soldier,"Yep. A whole bunch of us worked on it a couple of years back. Wanted to pay our respects to the guys we lost in the war. We barely laid a brick compared to those Earth adepts, though. Those guys knew how to build. I remember looking at the Kaiho army back then. It was an impressive sight. All the adepts of different elements, different guilds all coming together. We were there when history was made, my friend. Let’s drink to that later.",,N,Ar-234,Ar-236
+Ar-236,Chapter VI: MAUSOLEUM OF THE FALLEN,,,"[Once inside Aragami, he discovers that the castle is huge not only on the surface, but also underground.]",,Y,Ar-235,Ar-237
+Ar-237,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,"Aragami. Kurosu has just given me some news. He says the central room is just beyond those doors. In the middle there’s a door we have to get past, but it’s protected by a Light barrier. It takes its energy from four orbs. Each one is in a separate room honoring a different element: Fire, Water, Earth, and Wind. You have to destroy them all to reach the talisman.",,N,Ar-236,Ar-238
+Ar-238,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,How refreshing…,,N,Ar-237,Ar-239
+Ar-239,Chapter VI: MAUSOLEUM OF THE FALLEN,,Kaiho Soldier,Have you ever seen the Pillar of Light?,,N,Ar-238,Ar-240
+Ar-240,Chapter VI: MAUSOLEUM OF THE FALLEN,,Kaiho Soldier,"Of course. Every year I save up some leave and go see it with family. Not something you forget in a hurry. Like those that fell in the war... How does it work, anyway? That huge ray of Light… A mechanism in the central tower, I think. Apparently it takes weeks to charge it.",,N,Ar-239,Ar-241
+Ar-241,Chapter VI: MAUSOLEUM OF THE FALLEN,,Kaiho Soldier,Wow… Must be dangerous in there while it’s active…,,N,Ar-240,Ar-242
+Ar-242,Chapter VI: MAUSOLEUM OF THE FALLEN,,Kaiho Soldier,Indeed. That’s why the general decided to put… “it” inside there.,,N,Ar-241,Ar-243
+Ar-243,Chapter VI: MAUSOLEUM OF THE FALLEN,,Kaiho Soldier,Right.,,N,Ar-242,Ar-244
+Ar-244,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,"One down, three to go. Great. Halfway there. One left… Done! Now, to the door in the central room! At last! Grab it and let’s get out of here.",,N,Ar-243,Ar-245
+Ar-245,Chapter VI: MAUSOLEUM OF THE FALLEN,,,[Aragami picks up a medallion and sees a new vision. Little Yamiko with a piece of wood in her hands meets a young warrior with dark hair and a beard. He holds this very medallion and the doll in his hands.],,Y,Ar-244,Ar-246
+Ar-246,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,"This… This is when I met Hyo for the first time. I lost my doll in the forest, and he found it. I tried to confront him, but he… He was one of Dakudaga’s leaders. Just like my father. My life changed again that day. I joined Dakudaga and Hyo became like a second father to me.",,N,Ar-245,Ar-247
+Ar-247,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,Hyo…,,N,Ar-246,Ar-248
+Ar-248,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,What was that?,,N,Ar-247,Ar-249
+Ar-249,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,Nevermind. He… He looked strong.,,N,Ar-248,Ar-250
+Ar-250,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,"Oh, he was. Hyo faced the Kaiho invasion on the front lines. I heard he survived the war, but that he later faced two Kaiho captains at once… I don’t know if he made it.",,N,Ar-249,Ar-251
+Ar-251,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,Yamiko…,,N,Ar-250,Ar-252
+Ar-252,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,Do you feel that?,,N,Ar-251,Ar-253
+Ar-253,Chapter VI: MAUSOLEUM OF THE FALLEN,,,"[In the center of the room rises a pole emitting rays of light, destructive to the creature of shadows.]",,Y,Ar-252,Ar-254
+Ar-254,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,"It’s a trap! Up, Aragami! Keep climbing! There! Through that door! That was close!",,N,Ar-253,Ar-255
+Ar-255,Chapter VI: MAUSOLEUM OF THE FALLEN,,,[Aragami successfully avoided the trap. The pillar of light breaks out of the dome of the building.],,Y,Ar-254,Ar-256
+Ar-256,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,That light… We have to go. Everyone must have seen that!,,N,Ar-255,Ar-257
+Ar-257,Chapter VI: MAUSOLEUM OF THE FALLEN,,,[Aragami sees a huge stone block with text written on it. It seems to be a description of some historical event.],,Y,Ar-256,Ar-258
+Ar-258,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,"Aragami, what are you...",,N,Ar-257,Ar-259
+Ar-259,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,This is…,,N,Ar-258,Ar-260
+Ar-260,Chapter VI: MAUSOLEUM OF THE FALLEN,,,"[He sees a vision again in which Hyo, along with an army of soldiers, attacks a creature with a pointy haircut. Our hero seems to be fighting alongside him. He epically charges his sword with his hand.]",,Y,Ar-259,Ar-261
+Ar-261,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,Argh… My head…,,N,Ar-260,Ar-262
+Ar-262,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,What is it?,,N,Ar-261,Ar-263
+Ar-263,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,"The war, Nisshoku and Kaiho, the way it all ended…",,N,Ar-262,Ar-264
+Ar-264,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,Aragami… What are you talking about?,,N,Ar-263,Ar-265
+Ar-265,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,There must be a reason for all this. The visions are revealing something important about the war. But I can’t understand what...,,N,Ar-264,Ar-266
+Ar-266,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,The war?,,N,Ar-265,Ar-267
+Ar-267,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,"Yes, the… the war, that’s what I said, right? Those memories were about the war. About these lands! They must be from someone else’s past. Just like I see your memories, but these belong to… Who could…",,N,Ar-266,Ar-268
+Ar-268,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,I can make a guess.,,N,Ar-267,Ar-269
+Ar-269,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,You can?,,N,Ar-268,Ar-270
+Ar-270,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,Kaiho’s general. The leader of the Kaiho army.,,N,Ar-269,Ar-271
+Ar-271,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,Kaiho’s general...,,N,Ar-270,Ar-272
+Ar-272,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,"I saw Hyo in that vision. He was on the front line. Just like I told you. It makes sense... You’re an aragami, after all.",,N,Ar-271,Ar-273
+Ar-273,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,Yamiko?,,N,Ar-272,Ar-274
+Ar-274,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,"You’re a being of revenge, Aragami. The moment I performed the summoning ritual, I prayed for someone who would seek vengeance for my people. Your spirit heard my call, so you were bound to me… but you were also bound to someone else. Kaiho’s general was the man who brought desolation upon us during the war. He ruined me, ruined my people. He is the target of my revenge… Our revenge.",,N,Ar-273,Ar-275
+Ar-275,Chapter VI: MAUSOLEUM OF THE FALLEN,,Aragami,"The target… So the memories are his? I am bound to him, too? Does this mean... my purpose isn’t to save you… but to kill him?",,N,Ar-274,Ar-276
+Ar-276,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,…I believe so.,,N,Ar-275,Ar-277
+Ar-277,Chapter VI: MAUSOLEUM OF THE FALLEN,,,"[Behind the door, the soldiers are heard.]",,Y,Ar-276,Ar-278
+Ar-278,Chapter VI: MAUSOLEUM OF THE FALLEN,,Yamiko,They’re here. We need to go! Now!,,N,Ar-277,Ar-279
+Ar-279,Chapter VI: MAUSOLEUM OF THE FALLEN,,,[They leave.],,Y,Ar-278,Ar-280
+Ar-280,Chapter VII: KYURYU,,Yamiko,…Are you all right?,,N,Ar-279,Ar-281
+Ar-281,Chapter VII: KYURYU,,Aragami,That vision… The Kaiho general’s memory… it’s still echoing in my head.,,N,Ar-280,Ar-282
+Ar-282,Chapter VII: KYURYU,,Yamiko,We’re lucky we found that mural. It’s a shame Kaiho were on our tail. Kurosu. What is it? Aragami! Over there!,,N,Ar-281,Ar-283
+Ar-283,Chapter VII: KYURYU,,,"[They see a soldier with black hair and a beard. His name is Hikaru, the last captain of Kaiho. Two soldiers are approaching him.]",,Y,Ar-282,Ar-284
+Ar-284,Chapter VII: KYURYU,,Kaiho Soldier,"Captain Hikaru, sir! The talisman in the Mausoleum of the Fallen has been taken, sir! Awaiting orders.",,N,Ar-283,Ar-285
+Ar-285,Chapter VII: KYURYU,,Hikaru,Stay.,,N,Ar-284,Ar-286
+Ar-286,Chapter VII: KYURYU,,Kaiho Soldier,…Sir?,,N,Ar-285,Ar-287
+Ar-287,Chapter VII: KYURYU,,Hikaru,"Stay here. That’s not the first talisman they have taken, and the only ones left are within the city walls. The intruder will be headed there.",,N,Ar-286,Ar-288
+Ar-288,Chapter VII: KYURYU,,Kaiho Soldier,But…,,N,Ar-287,Ar-289
+Ar-289,Chapter VII: KYURYU,,Hikaru,I thought we took care of all the stragglers… but at least one remains. And they know what they’re doing. She is getting stronger. I can feel it. Hold your ground. Stay alert. The enemy could be here soon. They’re making for the city.,,N,Ar-288,Ar-290
+Ar-290,Chapter VII: KYURYU,,Kaiho Soldier,"Y-Yes, sir!!",,N,Ar-289,Ar-291
+Ar-291,Chapter VII: KYURYU,,Hikaru,I’ll return to my station within the walls. There’s no time to lose. Go!,,N,Ar-290,Ar-292
+Ar-292,Chapter VII: KYURYU,,Yamiko,"That was Hikaru. Kaiho’s last living captain… Not too impressive, huh?",,N,Ar-291,Ar-293
+Ar-293,Chapter VII: KYURYU,,Aragami,He’s in the general’s memories… He might have some information we can use.,,N,Ar-292,Ar-294
+Ar-294,Chapter VII: KYURYU,,Yamiko,"What are you thinking, Aragami?",,N,Ar-293,Ar-295
+Ar-295,Chapter VII: KYURYU,,Aragami,Nothing. Let’s go.,,N,Ar-294,Ar-296
+Ar-296,Chapter VII: KYURYU,,,[He goes out to the cemetery and kills the soldiers guarding it.],,Y,Ar-295,Ar-297
+Ar-297,Chapter VII: KYURYU,,Kaiho Soldier,Can you believe it? This is where it all started…,,N,Ar-296,Ar-298
+Ar-298,Chapter VII: KYURYU,,Kaiho Soldier,Doesn’t exactly fill you with confidence. No wonder Captain Yuki was ambushed here. It’s as foggy as etched glass.,,N,Ar-297,Ar-299
+Ar-299,Chapter VII: KYURYU,,Kaiho Soldier,Soldiers! Keep your eyes open! The intruder must not enter the city!,,N,Ar-298,Ar-300
+Ar-300,Chapter VII: KYURYU,,Kaiho Soldier,…Even with my eyes peeled like potatoes I can hardly see my own nose…,,N,Ar-299,Ar-301
+Ar-301,Chapter VII: KYURYU,,,[Aragami finds a grave next to which the sword from the vision is stuck.],,Y,Ar-300,Ar-302
+Ar-302,Chapter VII: KYURYU,,Aragami,What’s this?,,N,Ar-301,Ar-303
+Ar-303,Chapter VII: KYURYU,,Yamiko,Could it be…?,,N,Ar-302,Ar-304
+Ar-304,Chapter VII: KYURYU,,,"[In another vision, general Hyo, smiling nastily, goes to kill civilians. Some magician and our main character form a protective field to keep him from passing.]",,Y,Ar-303,Ar-305
+Ar-305,Chapter VII: KYURYU,,Aragami,Another memory from the general… Was he escaping? Seems like this was a long time ago. That man with the patch over one eye… And that sword…,,N,Ar-304,Ar-306
+Ar-306,Chapter VII: KYURYU,,Yamiko,"There’s no doubt… So it’s true. Hyo is… dead. I knew it… in the bottom of my heart, I knew… but I refused to believe… Again and again, the forces of Light take away those I care about. Mother… Father… Hyo… They will pay. Who do they think they are, tearing the ground out from beneath me? In my own home!",,N,Ar-305,Ar-307
+Ar-307,Chapter VII: KYURYU,,Aragami,Yamiko…,,N,Ar-306,Ar-308
+Ar-308,Chapter VII: KYURYU,,Yamiko,S-sorry… I lost my temper…,,N,Ar-307,Ar-309
+Ar-309,Chapter VII: KYURYU,,Aragami,Hyo will be avenged. All of them will be.,,N,Ar-308,Ar-310
+Ar-310,Chapter VII: KYURYU,,Yamiko,…What?,,N,Ar-309,Ar-311
+Ar-311,Chapter VII: KYURYU,,Aragami,"I’m a vengeful spirit, after all.",,N,Ar-310,Ar-312
+Ar-312,Chapter VII: KYURYU,,Yamiko,Aragami…,,N,Ar-311,Ar-313
+Ar-313,Chapter VII: KYURYU,,,[Aragami continues his journey. He goes to a camp of Kaiho.],,Y,Ar-312,Ar-314
+Ar-314,Chapter VII: KYURYU,,Kaiho Soldier,Soldiers! The Mausoleum of the Fallen is not far from here. The enemy is approaching. Don’t let your guard down!,,N,Ar-313,Ar-315
+Ar-315,Chapter VII: KYURYU,,Yamiko,Aragami. We’re near one of the city’s sluice gates. It’s likely we can use it to get in.,,N,Ar-314,Ar-316
+Ar-316,Chapter VII: KYURYU,,,"[Once he gets through the camp, he goes to a small settlement.]",,Y,Ar-315,Ar-317
+Ar-317,Chapter VII: KYURYU,,Yamiko,"Kyuryu, at last! Feels like decades since I was last here.",,N,Ar-316,Ar-318
+Ar-318,Chapter VII: KYURYU,,Aragami,How far until the next talisman?,,N,Ar-317,Ar-319
+Ar-319,Chapter VII: KYURYU,,Yamiko,This is the outer wall… Kurosu says the next one is near the inner walls. We’ve some way to go yet.,,N,Ar-318,Ar-320
+Ar-320,Chapter VII: KYURYU,,Kaiho Soldier,"Have you seen Captain Hikaru lately? He’s always been intimidating, but lately… I don’t know. He’s even worse.",,N,Ar-319,Ar-321
+Ar-321,Chapter VII: KYURYU,,Kaiho Soldier,"Yeah, I heard the rumors. Someone said that the magic Hikaru and the others used to imprison the Shadow Empress is taking its toll. Just like it did with Captain Yuki.",,N,Ar-320,Ar-322
+Ar-322,Chapter VII: KYURYU,,Kaiho Soldier,"It was different with Captain Yuki, though. He became weak. Captain Hikaru has just become… intense. Sinister. Not entirely himself. He used to have a sense of justice, of honor. But now… I just pity whoever crosses his path.",,N,Ar-321,Ar-323
+Ar-323,Chapter VIII: THE OLD SAGE,,Yamiko,"We’re getting closer to the inner walls. Are you aware what is beyond them, Aragami? Hikaru. He’s waiting for us. Kurosu has seen him as well.",,N,Ar-322,Ar-324
+Ar-324,Chapter VIII: THE OLD SAGE,,Aragami,He’ll pay for his part in Hyo’s death. In all of it.,,N,Ar-323,Ar-325
+Ar-325,Chapter VIII: THE OLD SAGE,,Yamiko,Aragami… If we make it through tonight… I’ll make sure the Empress compensates you for everything you have done.,,N,Ar-324,Ar-326
+Ar-326,Chapter VIII: THE OLD SAGE,,Kaiho Soldier,They say that someone took all the talismans outside the walls… Who could do that so quickly?,,N,Ar-325,Ar-327
+Ar-327,Chapter VIII: THE OLD SAGE,,Kaiho Soldier,It doesn’t matter how fast they are. They’ll find Captain Hikaru waiting for them through those doors. No intruder will reach the inner walls. Ever.,,N,Ar-326,Ar-328
+Ar-328,Chapter VIII: THE OLD SAGE,,Kaiho Soldier,…Will he be OK?,,N,Ar-327,Ar-329
+Ar-329,Chapter VIII: THE OLD SAGE,,Kaiho Soldier,"Hikaru? He used to dispatch four Nisshoku scum with one blow. He even faced the Shadow Empress and lived to tell the tale. Worry about yourself, not him.",,N,Ar-328,Ar-330
+Ar-330,Chapter VIII: THE OLD SAGE,,,"[They go out to the high tower. Next to the entrance, by the gravestone, there is a broken staff.]",,Y,Ar-329,Ar-331
+Ar-331,Chapter VIII: THE OLD SAGE,,Yamiko,Is that a gravestone? What happened here?,,N,Ar-330,Ar-332
+Ar-332,Chapter VIII: THE OLD SAGE,,,[Aragami sees that this broken staff belonged to an old magician who taught him to create a barrier.],,Y,Ar-331,Ar-333
+Ar-333,Chapter VIII: THE OLD SAGE,,Yamiko,Another vision?,,N,Ar-332,Ar-334
+Ar-334,Chapter VIII: THE OLD SAGE,,Aragami,“Essence flows from the soul. Soulless beings will never generate or command it.”,,N,Ar-333,Ar-335
+Ar-335,Chapter VIII: THE OLD SAGE,,Yamiko,Aragami… Are you all right? Did the vision do something to you?,,N,Ar-334,Ar-336
+Ar-336,Chapter VIII: THE OLD SAGE,,Aragami,"That was Master Tsuyoshi, the one who taught Kaiho’s leaders the technique which let them capture you and your empress. Those words are his.",,N,Ar-335,Ar-337
+Ar-337,Chapter VIII: THE OLD SAGE,,Yamiko,How do you…?,,N,Ar-336,Ar-338
+Ar-338,Chapter VIII: THE OLD SAGE,,Aragami,"I just know. Like in the Mausoleum. It must be the general’s memories. Even though Tsuyoshi was an enemy of Nisshoku, his wisdom was real. He taught Kaiho’s leaders a lot about essence, and… those words… Do you think I have a soul? Do you remember anything in your ancient scrolls about aragami’s souls?",,N,Ar-337,Ar-339
+Ar-339,Chapter VIII: THE OLD SAGE,,Yamiko,I… don’t think so. Does it matter?,,N,Ar-338,Ar-340
+Ar-340,Chapter VIII: THE OLD SAGE,,Aragami,"Of course it matters. Don’t you understand? My Shadow essence… It isn’t part of the ritual which summoned me. It flows from a soul. If I had no soul, I’d have no essence. But whose soul? Where did it come from? I’m not human. Souls don’t just appear out of thin air… What if I’m… somebody… reincarnated. I use Shadow essence and the sword as if they’re second nature to me. I could from the moment I woke up. Is that because I’m an aragami, or because part of my being is someone’s soul – someone who could wield the sword, could control Shadow essence, before they died? What if-",,N,Ar-339,Ar-341
+Ar-341,Chapter VIII: THE OLD SAGE,,Yamiko,"Aragami, slow down for a second. Please. What are you saying?",,N,Ar-340,Ar-342
+Ar-342,Chapter VIII: THE OLD SAGE,,Aragami,I’m sorry… Having someone else’s memories jostling in my head… I just want to know who I am. I feel like I’m missing something.,,N,Ar-341,Ar-343
+Ar-343,Chapter VIII: THE OLD SAGE,,Yamiko,"It’s fine… I understand. You must think I’m a terrible summoner. I invoked you but I can’t even answer a simple question about aragami. You know, maybe you’re right! Perhaps aragami are reincarnations of dead warriors. Maybe you were part of Nisshoku’s forces in a past life, and that’s why you can use Shadow essence! Don’t worry. We’ll find out what your real nature is. I’m sure of it. But for now you need to keep your head. I can’t have you fall at Hikaru’s feet. The time has come. This is the only path. I don’t know what Hikaru has in store for you, but I’ll help you as much as I can… Be careful.",,N,Ar-342,Ar-344
+Ar-344,Chapter VIII: THE OLD SAGE,,Aragami,"Don’t worry, Yamiko. I’ll deal with him.",,N,Ar-343,Ar-345
+Ar-345,Chapter IX: THE LAST CAPTAIN,,,[Aragami makes his way to where the last captain Hikaru is.],,Y,Ar-344,Ar-346
+Ar-346,Chapter IX: THE LAST CAPTAIN,,Hikaru,"He’s here… Ugh… Soldiers! The time has come! You’ve come far, but it’s over.",,N,Ar-345,Ar-347
+Ar-347,Chapter IX: THE LAST CAPTAIN,,,[The battle with the dying captain begins.],,Y,Ar-346,Ar-348
+Ar-348,Chapter IX: THE LAST CAPTAIN,,Yamiko,"Aragami! The orb on Hikaru’s back is protecting him. You must destroy it! He’s defenseless now! Attack! Aragami! Focus on Hikaru, his shield is down! The orb is leaking light through the crack... You won’t be able to hit it from there again... You’ll need to crack it from above now! Try and attack from behind! Wait… There’s still a second barrier connected to the orbs around here. Go for those first! Well done, Aragami – now break Hikaru’s orb! Strike it again! Come on, you can do it!",,N,Ar-347,Ar-349
+Ar-349,Chapter IX: THE LAST CAPTAIN,,,"[Aragami breaks the captain's defense and begins to fight him with swords, and, of course, wins.]",,Y,Ar-348,Ar-350
+Ar-350,Chapter IX: THE LAST CAPTAIN,,Hikaru,What is this…? You’re not just Nisshoku…,,N,Ar-349,Ar-351
+Ar-351,Chapter IX: THE LAST CAPTAIN,,,[Before Aragami's eyes there is a memory - Hikaru is the same boy who fled from the bloodthirsty general Hyo.],,Y,Ar-350,Ar-352
+Ar-352,Chapter IX: THE LAST CAPTAIN,,Hikaru,"It’s… It’s her… no doubt about it. The voices… the pain… my chest… Shadow Empress! What was it – “Yamiko”? Show yourself, you beast! What kind of trick is this?",,N,Ar-351,Ar-353
+Ar-353,Chapter IX: THE LAST CAPTAIN,,Aragami,"I’ve come for vengeance. To avenge the pain inflicted on this land by Kaiho. Once the morning comes, this land and these people will be free once more.",,N,Ar-352,Ar-354
+Ar-354,Chapter IX: THE LAST CAPTAIN,,Yamiko,...Aragami. He can’t hear you...,,N,Ar-353,Ar-355
+Ar-355,Chapter IX: THE LAST CAPTAIN,,Hikaru,Free? Hah. Do you even know what you’re setting free? You will unleash another war. Nisshoku’s darkness will spread again… Thousands of innocents will perish. All because of you!,,N,Ar-354,Ar-356
+Ar-356,Chapter IX: THE LAST CAPTAIN,,Aragami,Just like that you have done here.,,N,Ar-355,Ar-357
+Ar-357,Chapter IX: THE LAST CAPTAIN,,Hikaru,You… You know nothing. Nothing!,,N,Ar-356,Ar-358
+Ar-358,Chapter IX: THE LAST CAPTAIN,,Aragami,Why should I trust you? I’ll give you one chance at redemption. If your general surrenders tonight-,,N,Ar-357,Ar-359
+Ar-359,Chapter IX: THE LAST CAPTAIN,,Hikaru,Ha! “Redemption”. I don’t need you to trust me. Nor do I need your compassion. I won’t die by your heinous blade. I won’t let you undo all that we have paid for with our sacrifices. Sacrifices Kaiho’s people made to end the war. Sacrifices I made…,,N,Ar-358,Ar-360
+Ar-360,Chapter IX: THE LAST CAPTAIN,,Yamiko,"Aragami, run!",,N,Ar-359,Ar-361
+Ar-361,Chapter IX: THE LAST CAPTAIN,,,[Hikaru explodes with a dazzling flash of light. Aragami dodges it.],,Y,Ar-360,Ar-362
+Ar-362,Chapter IX: THE LAST CAPTAIN,,Yamiko,"Aragami! You’re just full of surprises, aren’t you? How did you survive that?",,N,Ar-361,Ar-363
+Ar-363,Chapter IX: THE LAST CAPTAIN,,Aragami,I’m not sure. I didn’t mean to do it. It just… happened.,,N,Ar-362,Ar-364
+Ar-364,Chapter IX: THE LAST CAPTAIN,,Yamiko,…“Just happened”? Anyway – you did it! Hikaru is gone! The last Kaiho captain… You did it!,,N,Ar-363,Ar-365
+Ar-365,Chapter IX: THE LAST CAPTAIN,,Aragami,He didn’t seem to be on form… And did he call you the Shadow Empress? Yamiko… What did he mean?,,N,Ar-364,Ar-366
+Ar-366,Chapter IX: THE LAST CAPTAIN,,Yamiko,"Uh… The fact is… I… was going to tell you when we finished. …I am the Shadow Empress. I know, I should have told you when I summoned you… But I was worried. I said she was here, it wasn’t a complete lie-",,N,Ar-365,Ar-367
+Ar-367,Chapter IX: THE LAST CAPTAIN,,Aragami,It was! They call you a goddess!,,N,Ar-366,Ar-368
+Ar-368,Chapter IX: THE LAST CAPTAIN,,Yamiko,"No, I’m not a goddess, not like that. I’m just… more powerful than the average…",,N,Ar-367,Ar-369
+Ar-369,Chapter IX: THE LAST CAPTAIN,,Aragami,Why didn’t you tell me?,,N,Ar-368,Ar-370
+Ar-370,Chapter IX: THE LAST CAPTAIN,,Yamiko,"If you were considered a god, respected by all, how would you feel if you were trapped like a mouse, and the only thing you could do was summon the help of some random, fragile spirit? No offense.",,N,Ar-369,Ar-371
+Ar-371,Chapter IX: THE LAST CAPTAIN,,Aragami,"...You felt ashamed? We don’t have time for this, Yamiko. Lies won’t help us. Understand?",,N,Ar-370,Ar-372
+Ar-372,Chapter IX: THE LAST CAPTAIN,,Yamiko,"Yes… yes… From now on, I promise, no more lies. I promise.",,N,Ar-371,Ar-373
+Ar-373,Chapter X: MILITARY DISTRICT,,Yamiko,"Finally! This is the military district. The path to the temple begins here. According to Kurosu they put the talisman in the castle, so that’s where we’re going!",,N,Ar-372,Ar-374
+Ar-374,Chapter X: MILITARY DISTRICT,,Kaiho Soldier,"Did you hear something, by the way? Just a few minutes ago. Like there was an explosion out past the inner wall… I swear I saw a flash as well.",,N,Ar-373,Ar-375
+Ar-375,Chapter X: MILITARY DISTRICT,,Kaiho Soldier,It’s muggy today – maybe it was thunder? Could be a storm coming in…,,N,Ar-374,Ar-376
+Ar-376,Chapter X: MILITARY DISTRICT,,Kaiho Soldier,"Thunder? That close? No way, you’d have heard it too. I hope something isn’t happening. It could be the intruders…",,N,Ar-375,Ar-377
+Ar-377,Chapter X: MILITARY DISTRICT,,Kaiho Soldier,No chance. There’s no way some random intruder could waltz past the inner walls and take down Captain Hikaru.,,N,Ar-376,Ar-378
+Ar-378,Chapter X: MILITARY DISTRICT,,,[Aragami goes up to the attic of a tall building and finds a dagger on a stand there. He touches it and sees Hyo giving this dagger to Yamiko. There are two men sitting next to her - a guy in black leather and a guy in red armor.],,Y,Ar-377,Ar-379
+Ar-379,Chapter X: MILITARY DISTRICT,,Yamiko,"Ah… That takes me back… That was when Hyo gave each of us our dark dagger: a weapon only presented to members of the guild ready to undertake the most dangerous, demanding missions. I was so proud that day…",,N,Ar-378,Ar-380
+Ar-380,Chapter X: MILITARY DISTRICT,,Aragami,Those boys at your side… Who are they?,,N,Ar-379,Ar-381
+Ar-381,Chapter X: MILITARY DISTRICT,,Yamiko,…Orochi and Ryuta. I was partnered with them. We formed one of the best teams Dakudaga had ever had.,,N,Ar-380,Ar-382
+Ar-382,Chapter X: MILITARY DISTRICT,,Aragami,"I see… You really were something else, weren’t you? Which one was on the right?",,N,Ar-381,Ar-383
+Ar-383,Chapter X: MILITARY DISTRICT,,Yamiko,Ryuta. Why do you ask?,,N,Ar-382,Ar-384
+Ar-384,Chapter X: MILITARY DISTRICT,,Aragami,(That armor…],,N,Ar-383,Ar-385
+Ar-385,Chapter X: MILITARY DISTRICT,,Yamiko,"Anyway, only one talisman left. I can almost smell freedom! Kurosu found a hidden path to the temple. It should save us some time. Dawn is near. Let’s hurry. We don’t want you turning into aragami soup.",,N,Ar-384,Ar-386
+Ar-386,Chapter X: MILITARY DISTRICT,,Aragami,Very funny. I expected a goddess to have some manners.,,N,Ar-385,Ar-387
+Ar-387,Chapter X: MILITARY DISTRICT,,Yamiko,Hey!,,N,Ar-386,Ar-388
+Ar-388,Chapter X: MILITARY DISTRICT,,Kaiho Soldier,Look at all these statues of the Shadow Empress… I’ve never trusted sects. Any of them. Nothing but a bunch of fanatics doing what they want in the name of a god. Nisshoku was no different.,,N,Ar-387,Ar-389
+Ar-389,Chapter X: MILITARY DISTRICT,,Kaiho Soldier,Fanatics? Didn’t your mother teach you not to label people? As if guilds don’t do what they want as well.,,N,Ar-388,Ar-390
+Ar-390,Chapter X: MILITARY DISTRICT,,Kaiho Soldier,Don’t you tell me-,,N,Ar-389,Ar-391
+Ar-391,Chapter X: MILITARY DISTRICT,,Kaiho Soldier,"Yes, I was in a sect before I joined Kaiho. Got a problem with that? For your information, we never met a single guild of good men.",,N,Ar-390,Ar-392
+Ar-392,Chapter X: MILITARY DISTRICT,,Kaiho Soldier,"Hey, I didn’t mean any offense-",,N,Ar-391,Ar-393
+Ar-393,Chapter X: MILITARY DISTRICT,,Kaiho Soldier,Then think before you open your mouth.,,N,Ar-392,Ar-394
+Ar-394,Chapter X: MILITARY DISTRICT,,Kaiho Soldier,I always thought he was a bit weird…,,N,Ar-393,Ar-395
+Ar-395,Chapter XI: THE SIXTH TALISMAN,,Yamiko,"Good, the shortcut worked. Almost there… Almost time for these Kaiho idiots to kiss this world goodbye…",,N,Ar-394,Ar-396
+Ar-396,Chapter XI: THE SIXTH TALISMAN,,Kaiho Soldier,At this rate my heart’s going to fall out of my mouth…,,N,Ar-395,Ar-397
+Ar-397,Chapter XI: THE SIXTH TALISMAN,,Kaiho Soldier,You all right?,,N,Ar-396,Ar-398
+Ar-398,Chapter XI: THE SIXTH TALISMAN,,Kaiho Soldier,We’re so close to the temple. To the Shadow Empress. I can understand why no one wants this patrol.,,N,Ar-397,Ar-399
+Ar-399,Chapter XI: THE SIXTH TALISMAN,,Kaiho Soldier,Any patrol is a short straw.,,N,Ar-398,Ar-400
+Ar-400,Chapter XI: THE SIXTH TALISMAN,,Kaiho Soldier,This isn’t a joke! What will we do if she breaks free? Didn’t you hear about the intruder? He’s here to get her. And we can’t stop him!,,N,Ar-399,Ar-401
+Ar-401,Chapter XI: THE SIXTH TALISMAN,,Kaiho Soldier,"Don’t lose your head just yet. The general is watching over the temple, remember? Any intruder’s guts will be decorations the second he sets foot around here.",,N,Ar-400,Ar-402
+Ar-402,Chapter XI: THE SIXTH TALISMAN,,Yamiko,"See that tower, Aragami? Kurosu says the last talisman’s there at the very top. The last one already… Can you believe it?",,N,Ar-401,Ar-403
+Ar-403,Chapter XI: THE SIXTH TALISMAN,,,[Aragami continues to methodically carve soldiers and bully them to the top of the tower. There she finds a medallion with a dragon on it.],,Y,Ar-402,Ar-404
+Ar-404,Chapter XI: THE SIXTH TALISMAN,,Yamiko,Finally…,,N,Ar-403,Ar-405
+Ar-405,Chapter XI: THE SIXTH TALISMAN,,,[After picking up the medallion Aragami see young Hikaru fighting Ryuta in a form of a dragon and defeating him. Young Yamiko sees it all. She is embraced by rage.],,Y,Ar-404,Ar-406
+Ar-406,Chapter XI: THE SIXTH TALISMAN,,Aragami,"Those were your partners in Dakudaga, right? And the Light adepts… I’ve seen them before.",,N,Ar-405,Ar-407
+Ar-407,Chapter XI: THE SIXTH TALISMAN,,Yamiko,The ones who killed my parents.,,N,Ar-406,Ar-408
+Ar-408,Chapter XI: THE SIXTH TALISMAN,,Aragami,Were they in the war too?,,N,Ar-407,Ar-409
+Ar-409,Chapter XI: THE SIXTH TALISMAN,,Yamiko,"It had to be this memory… No, this wasn’t from the last war. This happened years before. Dakudaga sent me on a mission. It just turned out to be the same city these… “men”… were from… It was the perfect opportunity to finally avenge my parents… Orochi, Ryuta, and I struck, but they saw it coming.",,N,Ar-408,Ar-410
+Ar-410,Chapter XI: THE SIXTH TALISMAN,,Aragami,Our vengeance will reach them too.,,N,Ar-409,Ar-411
+Ar-411,Chapter XI: THE SIXTH TALISMAN,,Yamiko,"Oh, that won’t be necessary… They’re dead. I killed them. All of them. I reduced their whole city to rubble. When they killed Orochi and Ryuta, the anger… A great power awoke within me. I lost my senses. But it’s all right. They deserved to die. My family and friends weren’t their only victims, you know? For years upon years they killed people from all around the continent. But from that night on, I vowed to make sure the world knew of my power. An oath to protect all the land’s subjects from any Light brotherhood’s attacks. Peace would come at last. Then, out of the blue Kaiho appeared. The Light wanted to usher in another era of oppression… and they almost managed. You’re one step away from becoming the savior of these lands, Aragami.",,N,Ar-410,Ar-412
+Ar-412,Chapter XI: THE SIXTH TALISMAN,,Aragami,Let’s take that step.,,N,Ar-411,Ar-413
+Ar-413,Chapter XI: THE SIXTH TALISMAN,,Yamiko,"Kaiho’s general could appear at any moment. Be careful. I know I’ve said it a million times, but please… be careful.",,N,Ar-412,Ar-414
+Ar-414,Chapter XI: THE SIXTH TALISMAN,,Aragami,Don’t worry. I’ll make it.,,N,Ar-413,Ar-415
+Ar-415,Chapter XII: ASCENSION,,,"[We flied away some distance from the tower. Kaiho’s General, Sora, is practicing with her bow that shoots rays of light.]",,Y,Ar-414,Ar-416
+Ar-416,Chapter XII: ASCENSION,,Yamiko,"Aragami, look! That must be the general!",,N,Ar-415,Ar-417
+Ar-417,Chapter XII: ASCENSION,,Aragami,Her? But in the visions…,,N,Ar-416,Ar-418
+Ar-418,Chapter XII: ASCENSION,,Yamiko,"I need you focused now. She can feel your presence. If she focuses on you, hiding in the shadows won’t help much.",,N,Ar-417,Ar-419
+Ar-419,Chapter XII: ASCENSION,,,[Aragami finds and confronts her.],,Y,Ar-418,Ar-420
+Ar-420,Chapter XII: ASCENSION,,Yamiko,We’re safe for now…,,N,Ar-419,Ar-421
+Ar-421,Chapter XII: ASCENSION,,Aragami,She keeps leaping further away. Any ideas?,,N,Ar-420,Ar-422
+Ar-422,Chapter XII: ASCENSION,,Yamiko,She’s more cautious than Hikaru. And she seems to be keeping track of you more easily than he did… Just keep going. Sooner or later she’ll have to face you. She fled to the temple!,,N,Ar-421,Ar-423
+Ar-423,Chapter XII: ASCENSION,,Aragami,"I almost had her. Something doesn’t fit, Yamiko. I thought the general was a man…",,N,Ar-422,Ar-424
+Ar-424,Chapter XII: ASCENSION,,Yamiko,"Do not hesitate now, Aragami. You have the talismans. You’ll be all right. Just set me free.",,N,Ar-423,Ar-425
+Ar-425,Chapter XII: ASCENSION,,Aragami,Right… Just hold on.,,N,Ar-424,Ar-426
+Ar-426,Chapter XIII: TWIN SOULS,,Aragami,"I can feel you getting closer with each step, Yamiko. I think I sense you in the next room. What do I do with the talismans? How do I rescue you? …Yamiko?",,N,Ar-425,Ar-427
+Ar-427,Chapter XIII: TWIN SOULS,,,[He walks into a big building. Yamiko's gone somewhere.],,Y,Ar-426,Ar-428
+Ar-428,Chapter XIII: TWIN SOULS,,Aragami,What is that thing? …Yamiko?,,N,Ar-427,Ar-429
+Ar-429,Chapter XIII: TWIN SOULS,,,"[When he enters the huge hall, he sees a huge ball of energy in its center. Next to it is Sora. Aragami runs up to her. After a short fight, he pierces her with his sword.]",,Y,Ar-428,Ar-430
+Ar-430,Chapter XIII: TWIN SOULS,,Sora,…Ryo?,,N,Ar-429,Ar-431
+Ar-431,Chapter XIII: TWIN SOULS,,,[Aragami picks up Sora falling to the floor.],,Y,Ar-430,Ar-432
+Ar-432,Chapter XIII: TWIN SOULS,,Aragami,What did you just say?,,N,Ar-431,Ar-433
+Ar-433,Chapter XIII: TWIN SOULS,,Sora,How can it be? I felt you… Ryo…,,N,Ar-432,Ar-434
+Ar-434,Chapter XIII: TWIN SOULS,,Aragami,That name… Who is Ryo? Tell me!,,N,Ar-433,Ar-435
+Ar-435,Chapter XIII: TWIN SOULS,,Sora,Ryo… Kaiho’s first general. He died here… five years ago.,,N,Ar-434,Ar-436
+Ar-436,Chapter XIII: TWIN SOULS,,Aragami,The first… What does that have to do with me? You are Kaiho’s general! Killing you is my duty! That’s why I’m here! Yamiko! Where are you?!,,N,Ar-435,Ar-437
+Ar-437,Chapter XIII: TWIN SOULS,,Sora,…Yamiko? Now it makes sense…,,N,Ar-436,Ar-438
+Ar-438,Chapter XIII: TWIN SOULS,,Aragami,What?,,N,Ar-437,Ar-439
+Ar-439,Chapter XIII: TWIN SOULS,,Sora,That’s why I feel him within you… You must be him… You are Ryo.,,N,Ar-438,Ar-440
+Ar-440,Chapter XIII: TWIN SOULS,,Aragami,That… That’s ridiculous!,,N,Ar-439,Ar-441
+Ar-441,Chapter XIII: TWIN SOULS,,Sora,If you’re not Ryo… Then why are you holding me? You know it. You know it as well as I do. Try to remember… We came here to defeat Nisshoku.,,N,Ar-440,Ar-442
+Ar-442,Chapter XIII: TWIN SOULS,,Aragami,No…,,N,Ar-441,Ar-443
+Ar-443,Chapter XIII: TWIN SOULS,,Sora,"Yuki, Hikaru… All of us, everyone who joined to end Nisshoku’s tyranny… even old Master Tsuyoshi…",,N,Ar-442,Ar-444
+Ar-444,Chapter XIII: TWIN SOULS,,Aragami,No!,,N,Ar-443,Ar-445
+Ar-445,Chapter XIII: TWIN SOULS,,Sora,"The power of the Empress was overwhelming. We had to use the forbidden technique, but it wasn’t enough. You pushed it further than anyone ever had. You sacrificed yourself to give us a chance… but we still couldn’t defeat her.",,N,Ar-444,Ar-446
+Ar-446,Chapter XIII: TWIN SOULS,,Aragami,Enough!,,N,Ar-445,Ar-447
+Ar-447,Chapter XIII: TWIN SOULS,,Sora,"Why resist it, Ryo?",,N,Ar-446,Ar-448
+Ar-448,Chapter XIII: TWIN SOULS,,Aragami,"It can’t be true… If it is, then what have I been doing all night?",,N,Ar-447,Ar-449
+Ar-449,Chapter XIII: TWIN SOULS,,Sora,Don’t let the guilt suppress your memories… Let them flow. You have to remember…,,N,Ar-448,Ar-450
+Ar-450,Chapter XIII: TWIN SOULS,,,"[She touches his face and he remembers. The memories are lined up in a row. His training. The battle with Hyo and the Shadow Empress. The Empress's captivity with Hikaru and Sora. When he wakes up, Sora gives him his sword.]",,Y,Ar-449,Ar-451
+Ar-451,Chapter XIII: TWIN SOULS,,Sora,"Welcome back, Ryo.",,N,Ar-450,Ar-452
+Ar-452,Chapter XIII: TWIN SOULS,,Aragami,"Sora… What… What have I done? I’ve slaughtered us. Slaughtered us all. My own men, as if they were animals! I forced Hikaru to kill himself… And now you… Please forgive me…",,N,Ar-451,Ar-453
+Ar-453,Chapter XIII: TWIN SOULS,,Sora,Ryo… Don’t apologize. It wasn’t your fault. You know who did this. My light… I can feel it fading… Ryo… Don’t mourn… for me…,,N,Ar-452,Ar-454
+Ar-454,Chapter XIII: TWIN SOULS,,Aragami,No! I… I won’t let you die! I can’t lose you again!,,N,Ar-453,Ar-455
+Ar-455,Chapter XIII: TWIN SOULS,,Sora,It’s all right… I’m happy. Happy I saw you again… My soul… is… finally…,,N,Ar-454,Ar-456
+Ar-456,Chapter XIII: TWIN SOULS,,Aragami,Sora? Sora!,,N,Ar-455,Ar-457
+Ar-457,Chapter XIII: TWIN SOULS,,,[She's dead. Aragami roars of despair. Sora's soul flies off to a giant glowing ball. The balloon explodes with dark energy. Yamiko emerges from it.],,Y,Ar-456,Ar-458
+Ar-458,Chapter XIII: TWIN SOULS,,Yamiko,"I’m free! I’m free! You did it, Aragami! Come here with me! You’re amazing! Even in the face of adversity, you did it! I’m so grateful! You’ve been a perfect aragami. Come, I’ll reward you.",,N,Ar-457,Ar-459
+Ar-459,Chapter XIII: TWIN SOULS,,Aragami,How could you?,,N,Ar-458,Ar-460
+Ar-460,Chapter XIII: TWIN SOULS,,Yamiko,What?,,N,Ar-459,Ar-461
+Ar-461,Chapter XIII: TWIN SOULS,,Aragami,How could you use me like that? Those visions were fragments of my past. My mind trying to remember everything since the beginning.,,N,Ar-460,Ar-462
+Ar-462,Chapter XIII: TWIN SOULS,,Yamiko,What are you saying?,,N,Ar-461,Ar-463
+Ar-463,Chapter XIII: TWIN SOULS,,Aragami,Do you take me for a fool? I’ve remembered everything! You’re not getting in my head ever again.,,N,Ar-462,Ar-464
+Ar-464,Chapter XIII: TWIN SOULS,,Yamiko,Are you sure?,,N,Ar-463,Ar-465
+Ar-465,Chapter XIII: TWIN SOULS,,,[She materializes a dozen copies of herself and they start to non-stop talking. Aragami's head starts to hurt.],,Y,Ar-464,Ar-466
+Ar-466,Chapter XIII: TWIN SOULS,,Yamikos,Aragami! Save me please! I’m trapped… We were attacked…,,N,Ar-465,Ar-467
+Ar-467,Chapter XIII: TWIN SOULS,,,[Yamiko herself turns into a Shadow Empress with a haircut in the form of a ninety-tailed fox and a black dress like a tar stain.],,Y,Ar-466,Ar-468
+Ar-468,Chapter XIII: TWIN SOULS,,Yamiko,"Impressive… Took her time, didn’t she?",,N,Ar-467,Ar-469
+Ar-469,Chapter XIII: TWIN SOULS,,Aragami,Don’t touch her!,,N,Ar-468,Ar-470
+Ar-470,Chapter XIII: TWIN SOULS,,Yamiko,"Well, well… That’s how you speak to the one who gave you life?",,N,Ar-469,Ar-471
+Ar-471,Chapter XIII: TWIN SOULS,,Aragami,"I was right. I am a reincarnation. General Ryo of Kaiho, brought back to life by you to further your own twisted goals. You knew it the whole time… and you kept stringing me along!",,N,Ar-470,Ar-472
+Ar-472,Chapter XIII: TWIN SOULS,,Yamiko,"I didn’t plan everything. I was just as surprised as you when you started remembering things. I just summoned your soul to the cemetery and forced it into a shape. I didn’t know these memories would come with you. But the way I got you to rescue me was brilliant, right? You were so close to working it out a couple of times!",,N,Ar-471,Ar-473
+Ar-473,Chapter XIII: TWIN SOULS,,Aragami,"I knew you were ruthless, but this… Were those visions of your past another ruse to earn my trust?",,N,Ar-472,Ar-474
+Ar-474,Chapter XIII: TWIN SOULS,,Yamiko,"…You were never supposed to see that. That’s the second reason I’ll kill you. But now you ask, I suppose the link between our souls – the one that let you see into my past – occurred because of the fragment of my soul that you stole from me when you died. Don’t you think it’s time to return it already? That’s the first reason, by the way.",,N,Ar-473,Ar-475
+Ar-475,Chapter XIII: TWIN SOULS,,Aragami,"…Fine. You’ll kill me and your soul will become whole again. You’ll regain all your power, and I, the last Kaiho officer, will be dead. But tell me, “Shadow Empress”, what will you do then? You’re alone. We destroyed Nisshoku five years ago. Only a few lowly fanatics remain in hiding. And without your counsellor, Hyo, how far do you think you’ll get? We knew all about it, by the way. That Hyo was the brains behind Nisshoku and you were just the brute force, the tool he used to spread fear. To command these lands.",,N,Ar-474,Ar-476
+Ar-476,Chapter XIII: TWIN SOULS,,Yamiko,"How dare you… How dare you! I won’t kill you just yet. You saved me, after all… Let’s play a game.",,N,Ar-475,Ar-477
+Ar-477,Chapter XIII: TWIN SOULS,,,[The final battle begins.],,Y,Ar-476,Ar-478
+Ar-478,Chapter XIII: TWIN SOULS,,Yamiko,"Here’s how it works: you try to catch me, over and over again, and then when I get tired I kill you.",,N,Ar-477,Ar-479
+Ar-479,Chapter XIII: TWIN SOULS,,Aragami,(I’ll have to go along with her it until she lets her guard down…],,N,Ar-478,Ar-480
+Ar-480,Chapter XIII: TWIN SOULS,,Yamiko,You really think you can defeat me? The Shadow essence you’re using comes from my soul! Mine!,,N,Ar-479,Ar-481
+Ar-481,Chapter XIII: TWIN SOULS,,Aragami,"(Close… Where did you go, Shadow Empress…]",,N,Ar-480,Ar-482
+Ar-482,Chapter XIII: TWIN SOULS,,Yamiko,Who do you think you are! You owe me your life! I’m your goddess!,,N,Ar-481,Ar-483
+Ar-483,Chapter XIII: TWIN SOULS,,Aragami,(Almost had her… Come on…],,N,Ar-482,Ar-484
+Ar-484,Chapter XIII: TWIN SOULS,,Yamiko,Enough! I’m getting tired now. Let’s see you try this!,,N,Ar-483,Ar-485
+Ar-485,Chapter XIII: TWIN SOULS,,Aragami,(She’s getting impatient… I have to finish this quickly… I’ll have to attack from above… Maybe those lamps will help…],,N,Ar-484,Ar-486
+Ar-486,Chapter XIII: TWIN SOULS,,,[Aragami tries to attack her from above but the Empress teleports and attacks him with a ball of dark energy.],,Y,Ar-485,Ar-487
+Ar-487,Chapter XIII: TWIN SOULS,,Yamiko,"You’ve been fooled again, Aragami…",,N,Ar-486,Ar-488
+Ar-488,Chapter XIII: TWIN SOULS,,,[...but Aragami turns into a dragon and the attack does not damage him.],,Y,Ar-487,Ar-489
+Ar-489,Chapter XIII: TWIN SOULS,,Yamiko,That technique… that’s Ryuta’s!,,N,Ar-488,Ar-490
+Ar-490,Chapter XIII: TWIN SOULS,,,[The technique took Aragami's last strength.],,Y,Ar-489,Ar-491
+Ar-491,Chapter XIII: TWIN SOULS,,Yamiko,I’ve had enough of this. Die!,,N,Ar-490,Ar-492
+Ar-492,Chapter XIII: TWIN SOULS,,,[Suddenly Kurosu attacks the Empress and she falls to the floor.],,Y,Ar-491,Ar-493
+Ar-493,Chapter XIII: TWIN SOULS,,Aragami,Kibo!,,N,Ar-492,Ar-494
+Ar-494,Chapter XIII: TWIN SOULS,,,[Aragami picks up his old sword. It begins to emit light that paralyzes his hand.],,Y,Ar-493,Ar-495
+Ar-495,Chapter XIII: TWIN SOULS,,Aragami,"My arm… This body won’t withstand another trick like that. Perfect timing, Kibo. At least one of us will make it… Yamiko… I have no right to blame you for what you’ve done. The fury, the thirst for revenge in your eyes… I felt it myself when we wrought vengeance on the men who killed our families. But we had each other. We carried on as a new family, bound by revenge. But you… You were alone. You lost everything. If I had lost the others… Would I have ended up just like you? Maybe we’re not that different after all.",,N,Ar-494,Ar-496
+Ar-496,Chapter XIII: TWIN SOULS,,,"[He sees Yamiko's memories, only in reverse order. Ryuta's death. The blade Hyo gave her. Attack with a wood plank from the grass. Escape from home with a doll. Attack on the village.]",,Y,Ar-495,Ar-497
+Ar-497,Chapter XIII: TWIN SOULS,,Aragami,"We’re leaves trapped in a hurricane, Yamiko. A storm of vengeance. A cyclone of light and darkness that has been twirling since before you or I even existed. It has sucked us in, and now we’re the ones making it spin. It has to end, Yamiko. I died once for revenge… and I won’t let it happen again. I wish there was another way.",,N,Ar-496,Ar-498
+Ar-498,Chapter XIII: TWIN SOULS,,,"[With his sword in his hand, he goes to Yamiko, beating off her energy balls. As he approaches her, she closes her eyes, preparing to die.]",,Y,Ar-497,Ar-499
+Ar-499,Chapter XIII: TWIN SOULS,,Yamiko,So do I.,,N,Ar-498,Ar-500
+Ar-500,Chapter XIII: TWIN SOULS,,,"[He strikes and there's an explosion. They both dissolve in the air, leaving behind only a sword and a doll.]",,Y,Ar-499,Ar-501
+Ar-501,HYO CHRONICLES,,Hyo chronicles Vol. 1,The Four Symbols,,N,Ar-500,Ar-502
+Ar-504,HYO CHRONICLES,"July 2, Year 28 of the Fifth Age.",Hyo chronicles Vol. 2,Dakudaga,,N,Ar-503,Ar-505
+Ar-509,HYO CHRONICLES,"July 2, Year 28 of the Fifth Age.",Hyo chronicles Vol. 3,A Bright Full Moon,,N,Ar-508,Ar-510
+Ar-514,HYO CHRONICLES,I have to pull myself together.,Hyo chronicles Vol. 4,Enchantment,,N,Ar-513,Ar-515
+Ar-516,HYO CHRONICLES,I have to pull myself together.,For years we’ve been holding the threats to the guild at bay. But now one of them seems to be gaining strength. A Light guild called Saigosen. I’ve heard rumors about its leaders,"two brothers, powerful Light adepts that use techniques no one has never seen before.",,N,Ar-515,Ar-517
+Ar-518,HYO CHRONICLES,"December 26, Year 29 of the Fifth Age",Yesterday Mitsuki gave birth to a baby girl,"Yamiko. I received a letter from Inari talking about her: that she has Mitsuki’s eyes, that she is the most beautiful thing in the world, that she… the list goes on.",,N,Ar-517,Ar-519
+Ar-520,HYO CHRONICLES,"December 26, Year 29 of the Fifth Age",Hyo chronicles Vol. 5,Waste of Time,,N,Ar-519,Ar-521
+Ar-525,HYO CHRONICLES,"October 18, Year 33 of the Fifth Age",Hyo chronicles Vol. 6,Anger,,N,Ar-524,Ar-526
+Ar-531,HYO CHRONICLES,"October 18, Year 33 of the Fifth Age",Hyo chronicles Vol. 7,A Long Search,,N,Ar-530,Ar-532
+Ar-534,HYO CHRONICLES,"October 18, Year 33 of the Fifth Age","Sure enough, we found nothing. What they said was true","Saigosen left no trace of Inari, Mitsuki, or Yamiko. The only thing we found were the bells Inari’s father left him. Our tracking also led us to some sort of mineshaft where the locals had been mining for small traces of a strange mineral. Did Inari find this?",,N,Ar-533,Ar-535
+Ar-538,HYO CHRONICLES,"October 18, Year 33 of the Fifth Age",Hyo chronicles Vol. 8,White Hair and Blue Eyes,,N,Ar-537,Ar-539
+Ar-541,HYO CHRONICLES,"October 18, Year 33 of the Fifth Age","This morning one of my men came to me with a prisoner. A villager that had returned home after hunting in the forest for several days. I asked what he had for me, and he gave me a doll. A small ragdoll, crafted with care but very worn. It was an effigy of a woman with white hair and blue eyes. On her vestments was a motif",the Dakudaga symbol.,,N,Ar-540,Ar-542
+Ar-544,HYO CHRONICLES,"October 18, Year 33 of the Fifth Age",Hyo chronicles Vol. 9,The Little Savage,,N,Ar-543,Ar-545
+Ar-548,HYO CHRONICLES,"October 18, Year 33 of the Fifth Age",Hyo chronicles Vol. 10,Back to Society,,N,Ar-547,Ar-549
+Ar-552,HYO CHRONICLES,"September 18, Year 39 of the Fifth Age",Hyo chronicles Vol. 11,"The Fox, the Snake, and the Dragon",,N,Ar-551,Ar-553
+Ar-554,HYO CHRONICLES,"December 7, Year 40 of the Fifth Age","This year, two more members with unusual abilities joined the guild","Orochi, from the Hebi clan, and Ryuta, from the Ryu clan. Both clans have worked this land for eons, and the two boys seem to be at the peak of their abilities. I teamed them up with Yamiko. She didn’t like the idea to begin with, but she has learnt to trust them. I can see it building, like a chain forged with unbreakable iron. Dakudaga has never witnessed a team so young yet so powerful. I even like their motif, which is the result of putting their family symbols together: the fox from Yamiko, the snake from Orochi, and the dragon from Ryuta.",,N,Ar-553,Ar-555
+Ar-556,HYO CHRONICLES,"December 7, Year 40 of the Fifth Age",Hyo chronicles Vol. 12,Great Potential,,N,Ar-555,Ar-557
+Ar-561,HYO CHRONICLES,"February 10, Year 46 of the Fifth Age",Hyo chronicles Vol. 13,A Light Fortress,,N,Ar-560,Ar-562
+Ar-565,HYO CHRONICLES,"February 10, Year 46 of the Fifth Age","I told Yamiko about the mission. Her team is without a doubt the best we have, even among the other leaders’ platoons. I didn’t want to leave them behind… but I didn’t tell Yamiko the city was a Saigosen stronghold. She doesn’t seem to remember their flag, so I decided not to mention it at all. This is a recon mission","we can’t reveal our blade before we are ready to strike. We’re going there to find out how powerful they’ve become and prepare our attack. If Yamiko knew she was going where her parents’ killers were based… She is intelligent and trustworthy, but her anger is a force to be reckoned with.",,N,Ar-564,Ar-566
+Ar-566,HYO CHRONICLES,We depart next week.,Hyo chronicles Vol. 14,Goddess (1],,N,Ar-565,Ar-567
+Ar-574,HYO CHRONICLES,We depart next week.,Hyo chronicles Vol. 15,Goddess (2],,N,Ar-573,Ar-575
+Ar-576,HYO CHRONICLES,We depart next week.,"We were unable to speak as we watched Yamiko walk out of the city she had just destroyed. Ruined buildings, bodies, and dust were left in her wake. A lifeless gaze had fixed in her eyes. She stopped in front of us. No one could move. I waited for her to say something. What had just happened? What had triggered this… this phenomenon? But her mouth didn’t open, not even for a moment. She just stood there. Gradually, the others started to bend their knees. In fear, no doubt. But I felt no fear. My concern for Yamiko’s safety outweighed every other feeling. Then it struck me","she was alone. In a small voice I asked her, “Orochi and Ryuta?” She looked at me with glassy eyes, and slowly shook her head. I ran to embrace her.",,N,Ar-575,Ar-577
+Ar-580,HYO CHRONICLES,We depart next week.,Hyo chronicles Vol. 16,Nisshoku,,N,Ar-579,Ar-581
+Ar-585,HYO CHRONICLES,We depart next week.,Hyo chronicles Vol. 17,The Right Hand of the Goddess,,N,Ar-584,Ar-586
+Ar-591,HYO CHRONICLES,We depart next week.,Hyo chronicles Vol. 18,Prosperity,,N,Ar-590,Ar-592
+Ar-594,HYO CHRONICLES,"December 25, Year 5 of the Sixth Age",Hyo chronicles Vol. 19,The Name Kaiho,,N,Ar-593,Ar-595
+Ar-598,HYO CHRONICLES,"December 25, Year 5 of the Sixth Age",Hyo chronicles Vol. 20,Kaiho Strikes,,N,Ar-597,Ar-599
+Ar-603,HYO CHRONICLES,"December 25, Year 5 of the Sixth Age",Hyo chronicles Vol. 21,A Deep Wound,,N,Ar-602,Ar-604
+Ar-608,HYO CHRONICLES,"December 25, Year 5 of the Sixth Age","Still, a ray of fortune shone on me","a handful of my men happened upon me during their retreat, and shouldered me to safety. One of them said the Empress had managed to kill at least one of Kaiho’s leaders. As they dragged me towards our escape route, I watched the flags burn above our city. The Empress was defeated. Nisshoku had fallen.",,N,Ar-607,Ar-609
+Ar-609,HYO CHRONICLES,"December 25, Year 5 of the Sixth Age",Hyo chronicles Vol. 22,Mausoleum of the Fallen,,N,Ar-608,Ar-610
+Ar-616,HYO CHRONICLES,"December 25, Year 5 of the Sixth Age",Hyo chronicles Vol. 23,The Only Chance,,N,Ar-615,Ar-617
+Ar-620,TSUYOSHI’S NOTES,"December 25, Year 5 of the Sixth Age",Tsuyoshi’s notes Vol. 1,Essence,,N,Ar-619,Ar-621
+Ar-624,TSUYOSHI’S NOTES,"December 25, Year 5 of the Sixth Age","When the Fire adept lights a bonfire with their bare hands, or when an Earth adept cracks the ground they stand upon with the tiniest of movements, essence is being emitted from their bodies and channeled into the world through an element. As far as we know, there are seven pure elements","Fire, Water, Earth, Wind, Light, Darkness , and Life. Then there are the hybrid elements, born from a mixture of pure elements, but I’ll leave those for another time.",(or Shadow) ,N,Ar-623,Ar-625
+Ar-625,TSUYOSHI’S NOTES,"December 25, Year 5 of the Sixth Age",Tsuyoshi’s notes Vol. 2,Adept,,N,Ar-624,Ar-626
+Ar-626,TSUYOSHI’S NOTES,"September 1, Year 32 of the Fifth Age","More than once I’ve been asked if an adept of a certain element is born or made. Well, it’s true that you can be born with an innate inclination towards one element, but this only means it will be easier for you to use it if you decide to study it. It will still not come naturally. It is like a canvas","when you are born your soul is blank, and it is you who decides which color to paint it. From Fire-red, to Water-blue, to Shadow-black. The more you paint the canvas, the more powerful you become.",,N,Ar-625,Ar-627
+Ar-627,TSUYOSHI’S NOTES,"September 1, Year 32 of the Fifth Age",There are those who think that the essence an adept picks defines who he or she is,"Light for the good, Darkness for the bad, Fire for the brave… Based on my vast experience I can say that essence has no bearing on personality. It’s based on pure chance. Guilds who worship a specific element aren’t necessarily better than sects who worship a god or gods. I’ve met sects that paid respect to their gods without harming anyone, and guilds that destroyed others just because they could…",,N,Ar-626,Ar-628
+Ar-628,TSUYOSHI’S NOTES,"September 1, Year 32 of the Fifth Age",Tsuyoshi’s notes Vol. 3,Life Essence,,N,Ar-627,Ar-629
+Ar-633,TSUYOSHI’S NOTES,"September 1, Year 32 of the Fifth Age",Tsuyoshi’s notes Vol. 4,Balance,,N,Ar-632,Ar-634
+Ar-638,TSUYOSHI’S NOTES,"September 1, Year 32 of the Fifth Age",Tsuyoshi’s notes Vol. 5,Inversely,,N,Ar-637,Ar-639
+Ar-645,TSUYOSHI’S NOTES,"September 1, Year 32 of the Fifth Age",The effects were immediate,his power decreased to nothing. He was paralyzed. The man couldn’t do anything but watch as we cut the flow of his essence.,,N,Ar-644,Ar-646
+Ar-647,TSUYOSHI’S NOTES,"September 1, Year 32 of the Fifth Age",Tsuyoshi’s notes Vol. 6,The Sealing Technique,,N,Ar-646,Ar-648
+Ar-651,TSUYOSHI’S NOTES,"September 9, Year 45 of the Fifth Age",Tsuyoshi’s notes Vol. 7,Effects of the Seal (1],,N,Ar-650,Ar-652
+Ar-653,TSUYOSHI’S NOTES,"September 11, Year 45 of the Fifth Age","It seems that, although a soul is divided, an imperceptible connection remains between its parts. I can feel my partner’s precise presence through the part of his soul inside me. He can feel where I am too. This connection seems independent of distance. We’ve done some tests","no matter how far away or obscured we were, one of us was always able to find the other in no time.",,N,Ar-652,Ar-654
+Ar-657,TSUYOSHI’S NOTES,"September 12, Year 45 of the Fifth Age",Tsuyoshi’s notes Vol. 8,Effects of the Seal (2],,N,Ar-656,Ar-658
+Ar-659,TSUYOSHI’S NOTES,"September 12, Year 45 of the Fifth Age",Each of us have performed the sealing technique with each other and released the link after a few days. The results are conclusive,"telepathy is possible between subjects who share soul fragments. One can communicate with the other, and the link can even transfer memories and feelings.",,N,Ar-658,Ar-660
+Ar-662,TSUYOSHI’S NOTES,"September 12, Year 45 of the Fifth Age",Tsuyoshi’s notes Vol. 9,Effects of the Seal (3],,N,Ar-661,Ar-663
+Ar-667,TSUYOSHI’S NOTES,"November 23, Year 45 of the Fifth Age",Tsuyoshi’s notes Vol. 10,Effects of the Seal (4],,N,Ar-666,Ar-668
+Ar-672,TSUYOSHI’S NOTES,We may have discovered immortality.,Tsuyoshi’s notes Vol. 11,Effects of the Seal (5],,N,Ar-671,Ar-673
+Ar-677,TSUYOSHI’S NOTES,"January 30, Year 46 of the Fifth Age",Tsuyoshi’s notes Vol. 12,The First Apprentice,,N,Ar-676,Ar-678
+Ar-686,TSUYOSHI’S NOTES,"January 30, Year 46 of the Fifth Age",Tsuyoshi’s notes Vol. 13,Time to Think,,N,Ar-685,Ar-687
+Ar-690,TSUYOSHI’S NOTES,"January 30, Year 46 of the Fifth Age",The incident made it clear,"we’ve been playing god long enough. The sealing technique is now marked as “forbidden.” We have dissolved the brotherhood. Indefinitely. In this way we will give ourselves time to think about the past, the present, and the future. We each used the seali… the forbidden technique on each other so we can stay in touch regardless of the distance between us.",,N,Ar-689,Ar-691
+Ar-692,TSUYOSHI’S NOTES,"January 30, Year 46 of the Fifth Age",Tsuyoshi’s notes Vol. 14,Reincarnation,,N,Ar-691,Ar-693
+Ar-697,TSUYOSHI’S NOTES,I have to stop thinking about it.,Tsuyoshi’s notes Vol. 15,A New Era,,N,Ar-696,Ar-698
+Ar-702,YUKI’S CHRONICLES,"November 16, Year 47 of the Fifth Age",Yuki’s chronicles Vol. 1,Beyond the Walls,,N,Ar-701,Ar-703
+Ar-706,YUKI’S CHRONICLES,"November 16, Year 47 of the Fifth Age",Yuki’s chronicles Vol. 2,The Old Sage,,N,Ar-705,Ar-707
+Ar-710,YUKI’S CHRONICLES,"November 16, Year 47 of the Fifth Age",Yuki’s chronicles Vol. 3,Transitions,,N,Ar-709,Ar-711
+Ar-712,YUKI’S CHRONICLES,"November 16, Year 47 of the Fifth Age","After a few months, everyone else in the village began to accept him too. Bit by bit, even the most resentful and intolerant couldn’t deny how valuable he was","he brought true healing and new wisdom to our ways. Tolerance built like muscle on bone, and eventually acceptance blossomed in the hearts of the other villagers.",,N,Ar-711,Ar-713
+Ar-714,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Yuki’s chronicles Vol. 4,Nisshoku’s Invasion,,N,Ar-713,Ar-715
+Ar-718,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Yuki’s chronicles Vol. 5,Thirst of Vengeance,,N,Ar-717,Ar-719
+Ar-723,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Yuki’s chronicles Vol. 6,Reconquest,,N,Ar-722,Ar-724
+Ar-728,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Yuki’s chronicles Vol. 7,The Inside of the Temple,,N,Ar-727,Ar-729
+Ar-734,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Yuki’s chronicles Vol. 8,The Taste of Vengeance,,N,Ar-733,Ar-735
+Ar-738,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Yuki’s chronicles Vol. 9,A Vast World,,N,Ar-737,Ar-739
+Ar-739,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,"We were lost again. But unlike our lonely journey into the wild, we were safe at home – where our lives and history were in rotting tatters. Defeating our village’s attackers resulted in the same outcome",loneliness… But now with the weight of those dead men weighing heavily upon us.,,N,Ar-738,Ar-740
+Ar-743,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Yuki’s chronicles Vol. 10,The Seed of Kaiho,,N,Ar-742,Ar-744
+Ar-746,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Yuki’s chronicles Vol. 11,Re-encounter,,N,Ar-745,Ar-747
+Ar-749,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,"We talked. We talked for a long time. About the past few months. About what Nisshoku had done to the world. The Master had seen their work first hand too. In fact, he had left us because his brotherhood had given him a mission","teaching the command of Life essence to all brotherhoods under Nisshoku attack. Just to give them a slightly better chance. But licking wounds wasn’t the solution. Sooner or later someone had to do something, and the Master knew it. When we told him that we were determined to lead a counterattack, he hardly looked surprised. After a short pause, he said, “Well. Your classes start tomorrow.”",,N,Ar-748,Ar-750
+Ar-750,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Yuki’s chronicles Vol. 12,The Last Resort,,N,Ar-749,Ar-751
+Ar-755,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Yuki’s chronicles Vol. 13,Building an Army,,N,Ar-754,Ar-756
+Ar-757,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Only one thing was missing from our preparations,"Light. Teaching people to use Light, our best offense against Nisshoku’s Shadow, would take years we didn’t have. We only had time for the basics, and that wouldn’t be enough… Then I came up with an idea.",,N,Ar-756,Ar-758
+Ar-760,YUKI’S CHRONICLES,Until the day the Nisshoku arrived.,Yuki’s chronicles Vol. 14,The War to Come,,N,Ar-759,Ar-761
+Ar-765,YUKI’S CHRONICLES,"March 20, Year 10 of the Sixth Age.",Yuki’s chronicles Vol. 15,A Bitter Victory,,N,Ar-764,Ar-766
+Ar-770,YUKI’S CHRONICLES,"June 3, Year 10 of the Sixth Age.",Yuki’s chronicles Vol. 16,Pain,,N,Ar-769,Ar-771
+Ar-773,YUKI’S CHRONICLES,"June 3, Year 10 of the Sixth Age.",It gets worse every day. “Pain” doesn’t even come close,"it’s in my soul. I feel it every minute, every second… I hear her voice in my head telling me to give up. Imploring me. There’s no way I can sleep. Passing some of it to Kibo barely alleviated my pain, and now he has part of her within him. We have to keep him confined.",,N,Ar-772,Ar-774

@@ -1,0 +1,173 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+MeGeSoVGrZe-1,,,﻿Man with Hat,"She told us everything. Don't worry, I kept my word. She didn't suffer long. Here, you earned it.",,N,,MeGeSoVGrZe-2
+MeGeSoVGrZe-2,,,,[He throws a cassette player to the boy.],,Y,MeGeSoVGrZe-1,MeGeSoVGrZe-3
+MeGeSoVGrZe-3,,,Man with Hat,"How's it feel to play the traitor? No more war games - you are a real man, now, soldier.",,N,MeGeSoVGrZe-2,MeGeSoVGrZe-4
+MeGeSoVGrZe-4,,,,[We see the name of the boy.],,Y,MeGeSoVGrZe-3,MeGeSoVGrZe-5
+MeGeSoVGrZe-6,"Ricardo ""Chico"" Valenciano Libre",,Man with Hat,"Give my regards to your Boss, when you get home.",,N,MeGeSoVGrZe-5,MeGeSoVGrZe-7
+MeGeSoVGrZe-7,"Ricardo ""Chico"" Valenciano Libre",,,"[Not paying much attention to the man, Chico inserts his headphones to the player and turns on the music. The song ""Here's to You"" by Ennio Morricone is playing. The man with his soldiers gets into the car and leaves. While they ride we hear someone's voices in the background.]",,Y,MeGeSoVGrZe-6,MeGeSoVGrZe-8
+MeGeSoVGrZe-8,"Ricardo ""Chico"" Valenciano Libre",,Kazuhira Miller,"Ten days ago, we got reports that Paz was still alive.",,N,MeGeSoVGrZe-7,MeGeSoVGrZe-9
+MeGeSoVGrZe-9,"Ricardo ""Chico"" Valenciano Libre",,Snake,She survived?,,N,MeGeSoVGrZe-8,MeGeSoVGrZe-10
+MeGeSoVGrZe-10,"Ricardo ""Chico"" Valenciano Libre",,Kazuhira Miller,She was rescued by a Belizean fisherman who found her drifting in the Caribbean.,,N,MeGeSoVGrZe-9,MeGeSoVGrZe-11
+MeGeSoVGrZe-11,"Ricardo ""Chico"" Valenciano Libre",,Snake,So what's the plan? Silence her before we're compromised?,,N,MeGeSoVGrZe-10,MeGeSoVGrZe-12
+MeGeSoVGrZe-12,"Ricardo ""Chico"" Valenciano Libre",,Kazuhira Miller,"No. I've got something else in mind. Our ""friends"" at Cipher suspect Paz could be a double agent. She's being held for interrogation at the camp on the southern tip of Cuba.",,N,MeGeSoVGrZe-11,MeGeSoVGrZe-13
+MeGeSoVGrZe-13,"Ricardo ""Chico"" Valenciano Libre",,Snake,Black site - nice. A slice of American Pie communist soil. And out of U.S. legal jurisdiction.,,N,MeGeSoVGrZe-12,MeGeSoVGrZe-14
+MeGeSoVGrZe-14,"Ricardo ""Chico"" Valenciano Libre",,Kazuhira Miller,The upcoming inspection of Mother Base has to be connected somehow. The timing's to perfect.,,N,MeGeSoVGrZe-13,MeGeSoVGrZe-15
+MeGeSoVGrZe-15,"Ricardo ""Chico"" Valenciano Libre",,Snake,The UN's nuclear inspection...,,N,MeGeSoVGrZe-14,MeGeSoVGrZe-16
+MeGeSoVGrZe-16,"Ricardo ""Chico"" Valenciano Libre",,Kazuhira Miller,My guess is they're trying to corroborate Paz's leak.,,N,MeGeSoVGrZe-15,MeGeSoVGrZe-17
+MeGeSoVGrZe-17,"Ricardo ""Chico"" Valenciano Libre",,Snake,We're an army without a nation.,,N,MeGeSoVGrZe-16,MeGeSoVGrZe-18
+MeGeSoVGrZe-18,"Ricardo ""Chico"" Valenciano Libre",,Kazuhira Miller,"World of our capabilities gets out, and we'll have the whole world out to shut us down. Having an American private intelligence agency involved's bad news. Cipher's the ones who sent Paz to us in the first place.",,N,MeGeSoVGrZe-17,MeGeSoVGrZe-19
+MeGeSoVGrZe-19,"Ricardo ""Chico"" Valenciano Libre",,Snake,She knows their true nature.,,N,MeGeSoVGrZe-18,MeGeSoVGrZe-20
+MeGeSoVGrZe-20,"Ricardo ""Chico"" Valenciano Libre",,Kazuhira Miller,But... Paz is our only link to Cipher. If she's still alive... We need her on our side.,,N,MeGeSoVGrZe-19,MeGeSoVGrZe-21
+MeGeSoVGrZe-21,"Ricardo ""Chico"" Valenciano Libre",,,"[The man, meanwhile, drove up to the helipad. He approaches the helicopter and using a device to remove his marking.]",,Y,MeGeSoVGrZe-20,MeGeSoVGrZe-22
+MeGeSoVGrZe-22,"Ricardo ""Chico"" Valenciano Libre",,Man with Hat,The Trojan Horse's in.,,N,MeGeSoVGrZe-21,MeGeSoVGrZe-23
+MeGeSoVGrZe-23,"Ricardo ""Chico"" Valenciano Libre",,,[We see the name of the man and his disfigured face.],,Y,MeGeSoVGrZe-22,MeGeSoVGrZe-24
+MeGeSoVGrZe-25,Skull Face,,Skull Face,This pirate crackdown's a go. Move!,,N,MeGeSoVGrZe-24,MeGeSoVGrZe-26
+MeGeSoVGrZe-26,Skull Face,,,"[He, along with his soldiers, gets into the helicopter and flies away. As he flies we hear the voices again.]",,Y,MeGeSoVGrZe-25,MeGeSoVGrZe-27
+MeGeSoVGrZe-27,Skull Face,,Snake,So who's the other target?,,N,MeGeSoVGrZe-26,MeGeSoVGrZe-28
+MeGeSoVGrZe-28,Skull Face,,Kazuhira Miller,"That would be Chico. He's being held in the same area as Paz. Last radio contact was forty hours ago. Find them both. Bring 'em back alive. Enter the compound from the south cliff. Security Chico and Paz, then report back from the rendezvous point.",,N,MeGeSoVGrZe-27,MeGeSoVGrZe-29
+MeGeSoVGrZe-29,Skull Face,,,"[The soldier throws out several emblems of ""XOF"" from the helicopter. The camera makes a short flight and shows us the protagonist of the game.]",,Y,MeGeSoVGrZe-28,MeGeSoVGrZe-30
+MeGeSoVGrZe-30,Skull Face,,Kazuhira Miller,"We'll send a chopper from across the Cuban border. You should be back at Mother Base in time for lunch. You'll probably just miss our ""guests"". The only catch is: you go in solo. The politically sensitive nature of the mission means backup is not an option.",,N,MeGeSoVGrZe-29,MeGeSoVGrZe-31
+MeGeSoVGrZe-31,Skull Face,,Snake,Fine. I like some alone time now and then. I'm in front of the prison camp.,,N,MeGeSoVGrZe-30,MeGeSoVGrZe-32
+MeGeSoVGrZe-32,Skull Face,,Kazuhira Miller,"Excellent, Snake. Age hasn't slow you down one bit.",,N,MeGeSoVGrZe-31,MeGeSoVGrZe-33
+MeGeSoVGrZe-33,Skull Face,,,"[The protagonist slowly stands up, shining in the camera flashing from his night vision device. We see his name.]",,Y,MeGeSoVGrZe-32,MeGeSoVGrZe-34
+MeGeSoVGrZe-35,"""Big Boss""",,Snake,"Kept you waiting, huh?",,N,MeGeSoVGrZe-34,MeGeSoVGrZe-36
+MeGeSoVGrZe-36,"""Big Boss""",,,"[Snake takes out the iDroid. As you move to enemy territory, Miller will give advice on the game.]",,Y,MeGeSoVGrZe-35,MeGeSoVGrZe-37
+MeGeSoVGrZe-37,"""Big Boss""",,Kazuhira Miller,"Chico and Paz are being held in an old unused part of the compound. Get inside and head northeast. This is an infiltration mission. You've got to stay out of sight. Before you go any further, use your binoculars to recon the area. What do you see? Press the CALL button to get more intel. Keep low. You can check the controls on the pause screen. If you're ready your weapon while crawling you can move horizontally left or right. If you do that holding the Dash Button you move faster. To climb an obstacle press the Action Button. Now head east to the old person area. Bring up the targets' location on your iDroid. Take a good look at the enemy through you binoculars and you can them. Marked enemies can be sensed when nearby, even there's a wall between you and them. But it only works if you stop and take the time to focus your attention. This helps you maintain situational awareness. Try it. You should move the bodies of enemies somewhere out of sight. Contact me if you need advice.",,N,MeGeSoVGrZe-36,MeGeSoVGrZe-38
+MeGeSoVGrZe-38,"""Big Boss""",,,[Snake finds an old prison.],,Y,MeGeSoVGrZe-37,MeGeSoVGrZe-39
+MeGeSoVGrZe-39,"""Big Boss""",,Kazuhira Miller,That's the old prison area. The targets are there.,,N,MeGeSoVGrZe-38,MeGeSoVGrZe-40
+MeGeSoVGrZe-40,"""Big Boss""",,Prisoner 1,Get me out of this place...,,N,MeGeSoVGrZe-39,MeGeSoVGrZe-41
+MeGeSoVGrZe-41,"""Big Boss""",,Kazuhira Miller,There is someone in there... What do you plan on doing?,,N,MeGeSoVGrZe-40,MeGeSoVGrZe-42
+MeGeSoVGrZe-42,"""Big Boss""",,Prisoner 2,"Help, I need help... help.",,N,MeGeSoVGrZe-41,MeGeSoVGrZe-43
+MeGeSoVGrZe-43,"""Big Boss""",,Kazuhira Miller,"A POW? ... That's fine if he has some intel, I guess...",,N,MeGeSoVGrZe-42,MeGeSoVGrZe-44
+MeGeSoVGrZe-44,"""Big Boss""",,Prisoner 3,Lemme go home... Lemme go home... Let me go back to my country...,,N,MeGeSoVGrZe-43,MeGeSoVGrZe-45
+MeGeSoVGrZe-45,"""Big Boss""",,Snake,"Chico. Chico! Chico, it's me!",,N,MeGeSoVGrZe-44,MeGeSoVGrZe-46
+MeGeSoVGrZe-46,"""Big Boss""",,Chico,No... No! Go away!,,N,MeGeSoVGrZe-45,MeGeSoVGrZe-47
+MeGeSoVGrZe-47,"""Big Boss""",,Prisoner 3,Hey!,,N,MeGeSoVGrZe-46,MeGeSoVGrZe-48
+MeGeSoVGrZe-48,"""Big Boss""",,Chico,Go away!,,N,MeGeSoVGrZe-47,MeGeSoVGrZe-49
+MeGeSoVGrZe-49,"""Big Boss""",,Prisoner 3,"Come on man! Let me out of here, please!",,N,MeGeSoVGrZe-48,MeGeSoVGrZe-50
+MeGeSoVGrZe-50,"""Big Boss""",,Chico,Get off me!,,N,MeGeSoVGrZe-49,MeGeSoVGrZe-51
+MeGeSoVGrZe-51,"""Big Boss""",,Snake,"Chico, keep it down!",,N,MeGeSoVGrZe-50,MeGeSoVGrZe-52
+MeGeSoVGrZe-52,"""Big Boss""",,Chico,Go away!!,,N,MeGeSoVGrZe-51,MeGeSoVGrZe-53
+MeGeSoVGrZe-53,"""Big Boss""",,,"[Seeing that someone is being rescued, other prisoners are also revitalized.]",,Y,MeGeSoVGrZe-52,MeGeSoVGrZe-54
+MeGeSoVGrZe-54,"""Big Boss""",,Prisoner 3,"Come on, right over here!",,N,MeGeSoVGrZe-53,MeGeSoVGrZe-55
+MeGeSoVGrZe-55,"""Big Boss""",,Prisoner 2,"Hey, hey!",,N,MeGeSoVGrZe-54,MeGeSoVGrZe-56
+MeGeSoVGrZe-56,"""Big Boss""",,Prisoner 1,Over here! Let me out!,,N,MeGeSoVGrZe-55,MeGeSoVGrZe-57
+MeGeSoVGrZe-57,"""Big Boss""",,Prisoner 2,"You let me out, too!",,N,MeGeSoVGrZe-56,MeGeSoVGrZe-58
+MeGeSoVGrZe-58,"""Big Boss""",,Chico,Get off me! Get off!,,N,MeGeSoVGrZe-57,MeGeSoVGrZe-59
+MeGeSoVGrZe-59,"""Big Boss""",,,[Snake starts to choking Chico.],,Y,MeGeSoVGrZe-58,MeGeSoVGrZe-60
+MeGeSoVGrZe-60,"""Big Boss""",,Snake,"Chico, calm down... Calm down... Don't fight it.",,N,MeGeSoVGrZe-59,MeGeSoVGrZe-61
+MeGeSoVGrZe-61,"""Big Boss""",,Snake,I've got Chico.,,N,MeGeSoVGrZe-60,MeGeSoVGrZe-62
+MeGeSoVGrZe-62,"""Big Boss""",,Kazuhira Miller,And Paz?,,N,MeGeSoVGrZe-61,MeGeSoVGrZe-63
+MeGeSoVGrZe-63,"""Big Boss""",,Snake,Not here.,,N,MeGeSoVGrZe-62,MeGeSoVGrZe-64
+MeGeSoVGrZe-64,"""Big Boss""",,Kazuhira Miller,Are you sure?,,N,MeGeSoVGrZe-63,MeGeSoVGrZe-65
+MeGeSoVGrZe-65,"""Big Boss""",,Snake,Pretty sure.,,N,MeGeSoVGrZe-64,MeGeSoVGrZe-66
+MeGeSoVGrZe-66,"""Big Boss""",,Snake,Is Chico able to walk?,,N,MeGeSoVGrZe-65,MeGeSoVGrZe-67
+MeGeSoVGrZe-67,"""Big Boss""",,,[Snake examines the unconscious Chico and sees the bolts screwed into his feet.],,Y,MeGeSoVGrZe-66,MeGeSoVGrZe-68
+MeGeSoVGrZe-68,"""Big Boss""",,Snake,Hold on. Not gonna happen.,,N,MeGeSoVGrZe-67,MeGeSoVGrZe-69
+MeGeSoVGrZe-69,"""Big Boss""",,Kazuhira Miller,"You'll have to carry him out, then. Okay, Boss, change of plans. Haul Chico over to the rendezvous point. We'll get Paz's whereabouts out of him once he's calmed down.",,N,MeGeSoVGrZe-68,MeGeSoVGrZe-70
+MeGeSoVGrZe-70,"""Big Boss""",,,[Snake puts Chico on his shoulders.],,Y,MeGeSoVGrZe-69,MeGeSoVGrZe-71
+MeGeSoVGrZe-71,"""Big Boss""",,Kazuhira Miller,"I've marked the RV on your map. OK, now carry Chico there.",,N,MeGeSoVGrZe-70,MeGeSoVGrZe-72
+MeGeSoVGrZe-72,"""Big Boss""",,,[Snake getting closer to the point of evacuation.],,Y,MeGeSoVGrZe-71,MeGeSoVGrZe-73
+MeGeSoVGrZe-73,"""Big Boss""",,Kazuhira Miller,The RV's just a little further.,,N,MeGeSoVGrZe-72,MeGeSoVGrZe-74
+MeGeSoVGrZe-74,"""Big Boss""",,Chico,Paz is dead.,,N,MeGeSoVGrZe-73,MeGeSoVGrZe-75
+MeGeSoVGrZe-75,"""Big Boss""",,Kazuhira Miller,"Great, you've reached the RV. Put the target down for a minute. How's he doing?",,N,MeGeSoVGrZe-74,MeGeSoVGrZe-76
+MeGeSoVGrZe-76,"""Big Boss""",,Snake,"Chico, where's Paz?",,N,MeGeSoVGrZe-75,MeGeSoVGrZe-77
+MeGeSoVGrZe-77,"""Big Boss""",,,"[Chico gives his headphones to the Snake without words. Wearing them, he hears the sounds of beating and pain.]",,Y,MeGeSoVGrZe-76,MeGeSoVGrZe-78
+MeGeSoVGrZe-78,"""Big Boss""",,Chico,She's dead.,,N,MeGeSoVGrZe-77,MeGeSoVGrZe-79
+MeGeSoVGrZe-79,"""Big Boss""",,Snake,When was this recorded?,,N,MeGeSoVGrZe-78,MeGeSoVGrZe-80
+MeGeSoVGrZe-80,"""Big Boss""",,Chico,She's dead.,,N,MeGeSoVGrZe-79,MeGeSoVGrZe-81
+MeGeSoVGrZe-81,"""Big Boss""",,,[Chico gives the Snake a cassette with the record.],,Y,MeGeSoVGrZe-80,MeGeSoVGrZe-82
+MeGeSoVGrZe-82,"""Big Boss""",,Kazuhira Miller,Okay now use your iDroid to call the chopper for pickup. Roger that chopper request. It's headed your way now.,,N,MeGeSoVGrZe-81,MeGeSoVGrZe-83
+MeGeSoVGrZe-83,"""Big Boss""",,,"[When the helicopter arrives, Snake loads Chico into it.]",,Y,MeGeSoVGrZe-82,MeGeSoVGrZe-84
+MeGeSoVGrZe-84,"""Big Boss""",,Kazuhira Miller,Chico's tape... Think it could give us a clue to Paz's location? Use your iDroid to listen to it.,,N,MeGeSoVGrZe-83,MeGeSoVGrZe-85
+MeGeSoVGrZe-85,"""Big Boss""",,,[Snake plays the cassette on his player.],,Y,MeGeSoVGrZe-84,MeGeSoVGrZe-86
+MeGeSoVGrZe-86,"""Big Boss""",,Chico,Paz!,,N,MeGeSoVGrZe-85,MeGeSoVGrZe-87
+MeGeSoVGrZe-87,"""Big Boss""",,Soldier,On your feet!,,N,MeGeSoVGrZe-86,MeGeSoVGrZe-88
+MeGeSoVGrZe-88,"""Big Boss""",,Chico,OK…,,N,MeGeSoVGrZe-87,MeGeSoVGrZe-89
+MeGeSoVGrZe-89,"""Big Boss""",,,"[Then follow some background sounds. While Snake is listening to the tape, Miller is communicating with him on the codec. Together they are trying to understand what is recorded on the cassette. During communication Snake sneaks through the base and climbs into one of the trucks.]",,Y,MeGeSoVGrZe-88,MeGeSoVGrZe-90
+MeGeSoVGrZe-90,"""Big Boss""",,Kazuhira Miller,"Chico was... taken out of his cage. Did he leave the recording while he was being moved...? Paz might be up ahead... I hear vehicles... and a flag... Must be near the heliport. A gate... Chico leave the tape on record while he was being moved. Try using that you hear to find Paz. If you are still not sure, listen to the tape again. A surveillance camera...",,N,MeGeSoVGrZe-89,MeGeSoVGrZe-91
+MeGeSoVGrZe-91,"""Big Boss""",,,"[On the truck, Snake gets to the fenced part of the base.]",,Y,MeGeSoVGrZe-90,MeGeSoVGrZe-92
+MeGeSoVGrZe-92,"""Big Boss""",,Kazuhira Miller,That's the admin building. Watch your corners. CQC is effective for dealing with nearby enemies.,,N,MeGeSoVGrZe-91,MeGeSoVGrZe-93
+MeGeSoVGrZe-93,"""Big Boss""",,,"[Snake makes his way deep into the base, simultaneously collecting Chico's tapes. Listening to them, he decides where to go next. After a while he stumbles on two guards.]",,Y,MeGeSoVGrZe-92,MeGeSoVGrZe-94
+MeGeSoVGrZe-94,"""Big Boss""",,Guard #1,"Hey, we get confirmation on that garbage disposal yet?",,N,MeGeSoVGrZe-93,MeGeSoVGrZe-95
+MeGeSoVGrZe-95,"""Big Boss""",,Guard #2,"Yeah, they just took care of it.",,N,MeGeSoVGrZe-94,MeGeSoVGrZe-96
+MeGeSoVGrZe-96,"""Big Boss""",,Guard #1,"All right, I'm heading back up top. Stay here and keep watch.",,N,MeGeSoVGrZe-95,MeGeSoVGrZe-97
+MeGeSoVGrZe-97,"""Big Boss""",,Guard #2,You got it.,,N,MeGeSoVGrZe-96,MeGeSoVGrZe-98
+MeGeSoVGrZe-98,"""Big Boss""",,,"[Snake finds a cage in which sits a shaved, beaten girl, tied to the wall.]",,Y,MeGeSoVGrZe-97,MeGeSoVGrZe-99
+MeGeSoVGrZe-99,"""Big Boss""",,Snake,Paz...,,N,MeGeSoVGrZe-98,MeGeSoVGrZe-100
+MeGeSoVGrZe-100,"""Big Boss""",,,[We see the girl's name.],,Y,MeGeSoVGrZe-99,MeGeSoVGrZe-101
+MeGeSoVGrZe-101,Paz Ortega Andrade,A double agent whose true alliances are unknown,,[The girl is hardly alive. Snake cuts the ropes and puts the girl on the floor.],,Y,MeGeSoVGrZe-100,MeGeSoVGrZe-102
+MeGeSoVGrZe-102,Paz Ortega Andrade,A double agent whose true alliances are unknown,Kazuhira Miller,Boss. Get Paz onto the helicopter.,,N,MeGeSoVGrZe-101,MeGeSoVGrZe-103
+MeGeSoVGrZe-103,Paz Ortega Andrade,A double agent whose true alliances are unknown,,[Snake takes the girl to the surface.],,Y,MeGeSoVGrZe-102,MeGeSoVGrZe-104
+MeGeSoVGrZe-104,Paz Ortega Andrade,A double agent whose true alliances are unknown,Paz,Hit me... Hit me all you want...,,N,MeGeSoVGrZe-103,MeGeSoVGrZe-105
+MeGeSoVGrZe-105,Paz Ortega Andrade,A double agent whose true alliances are unknown,,[At the gate he meets two guards.],,Y,MeGeSoVGrZe-104,MeGeSoVGrZe-106
+MeGeSoVGrZe-106,Paz Ortega Andrade,A double agent whose true alliances are unknown,Guard #1,I'm soaked to the bone...,,N,MeGeSoVGrZe-105,MeGeSoVGrZe-107
+MeGeSoVGrZe-107,Paz Ortega Andrade,A double agent whose true alliances are unknown,Guard #2,Forecast says we go this until morning.,,N,MeGeSoVGrZe-106,MeGeSoVGrZe-108
+MeGeSoVGrZe-108,Paz Ortega Andrade,A double agent whose true alliances are unknown,Guard #1,Looks like they're right - for once.,,N,MeGeSoVGrZe-107,MeGeSoVGrZe-109
+MeGeSoVGrZe-109,Paz Ortega Andrade,A double agent whose true alliances are unknown,Guard #2,Can you believe that crew taking choppers out in this storm?,,N,MeGeSoVGrZe-108,MeGeSoVGrZe-110
+MeGeSoVGrZe-110,Paz Ortega Andrade,A double agent whose true alliances are unknown,Guard #1,It's pitch-black too. I knew they were crazy.,,N,MeGeSoVGrZe-109,MeGeSoVGrZe-111
+MeGeSoVGrZe-111,Paz Ortega Andrade,A double agent whose true alliances are unknown,Guard #2,"Either that, or they got some stone-cold rotorheads at the controls. And they flew a tight formation - I guess they got a lot of trust.",,N,MeGeSoVGrZe-110,MeGeSoVGrZe-112
+MeGeSoVGrZe-112,Paz Ortega Andrade,A double agent whose true alliances are unknown,Guard #1,"Trust, my ass. You'd have to drag me into one of those.",,N,MeGeSoVGrZe-111,MeGeSoVGrZe-113
+MeGeSoVGrZe-113,Paz Ortega Andrade,A double agent whose true alliances are unknown,Guard #2,"Yeah, no shit.",,N,MeGeSoVGrZe-112,MeGeSoVGrZe-114
+MeGeSoVGrZe-114,Paz Ortega Andrade,A double agent whose true alliances are unknown,,[Looks like the guards find out that the girl is lost.],,Y,MeGeSoVGrZe-113,MeGeSoVGrZe-115
+MeGeSoVGrZe-115,Paz Ortega Andrade,A double agent whose true alliances are unknown,Radio,"CP, this is Zulu 2! The girl's gone. Appears she escaped. Over!",,N,MeGeSoVGrZe-114,MeGeSoVGrZe-116
+MeGeSoVGrZe-116,Paz Ortega Andrade,A double agent whose true alliances are unknown,CP,"This is CP - understood! Commenced a search, ASAP. Do not let her get away. Out!",,N,MeGeSoVGrZe-115,MeGeSoVGrZe-117
+MeGeSoVGrZe-117,Paz Ortega Andrade,A double agent whose true alliances are unknown,Kazuhira Miller,They've discovered Paz is missing. They'll be looking for her. Hurry. You've got to get outta there.,,N,MeGeSoVGrZe-116,MeGeSoVGrZe-118
+MeGeSoVGrZe-118,Paz Ortega Andrade,A double agent whose true alliances are unknown,,[Snake with the girl get to the place of evacuation.],,Y,MeGeSoVGrZe-117,MeGeSoVGrZe-119
+MeGeSoVGrZe-119,Paz Ortega Andrade,A double agent whose true alliances are unknown,Paz,My stomach…,,N,MeGeSoVGrZe-118,MeGeSoVGrZe-120
+MeGeSoVGrZe-120,Paz Ortega Andrade,A double agent whose true alliances are unknown,CP,"All fireteams, this is CP! Focus all your fire on that enemy chopper!",,N,MeGeSoVGrZe-119,MeGeSoVGrZe-121
+MeGeSoVGrZe-121,Paz Ortega Andrade,A double agent whose true alliances are unknown,Helicopter pilot,Making forced lending! Stand by.,,N,MeGeSoVGrZe-120,MeGeSoVGrZe-122
+MeGeSoVGrZe-122,Paz Ortega Andrade,A double agent whose true alliances are unknown,Kazuhira Miller,Put the target on the chopper.,,N,MeGeSoVGrZe-121,MeGeSoVGrZe-123
+MeGeSoVGrZe-123,Paz Ortega Andrade,A double agent whose true alliances are unknown,Paz,Don't... No...,,N,MeGeSoVGrZe-122,MeGeSoVGrZe-124
+MeGeSoVGrZe-124,Paz Ortega Andrade,A double agent whose true alliances are unknown,,"[Snake puts the Paz in the helicopter and he climbs inside. They fly away. In the helicopter Chico examines Paz lying on a stretcher and notices on her stomach an oblique incision, hastily sewn with threads.]",,Y,MeGeSoVGrZe-123,MeGeSoVGrZe-125
+MeGeSoVGrZe-125,Paz Ortega Andrade,A double agent whose true alliances are unknown,Chico,Snake... Snake!,,N,MeGeSoVGrZe-124,MeGeSoVGrZe-126
+MeGeSoVGrZe-126,Paz Ortega Andrade,A double agent whose true alliances are unknown,Snake,"Medic! She's rigged, damn it. We were set up!",,N,MeGeSoVGrZe-125,MeGeSoVGrZe-127
+MeGeSoVGrZe-127,Paz Ortega Andrade,A double agent whose true alliances are unknown,Medic,We gotta get it out. No time for anesthetic. We have to open her now.,,N,MeGeSoVGrZe-126,MeGeSoVGrZe-128
+MeGeSoVGrZe-128,Paz Ortega Andrade,A double agent whose true alliances are unknown,Snake,Hold her down. Hold her down!,,N,MeGeSoVGrZe-127,MeGeSoVGrZe-129
+MeGeSoVGrZe-129,Paz Ortega Andrade,A double agent whose true alliances are unknown,,[Medic cuts the thread and opens the incision. Inside we see a bomb.],,Y,MeGeSoVGrZe-128,MeGeSoVGrZe-130
+MeGeSoVGrZe-130,Paz Ortega Andrade,A double agent whose true alliances are unknown,Medic,Keep her gut in!,,N,MeGeSoVGrZe-129,MeGeSoVGrZe-131
+MeGeSoVGrZe-131,Paz Ortega Andrade,A double agent whose true alliances are unknown,,"[After a few minutes of screaming and pain, the bomb is taken out. Snake throws it out of the helicopter.]",,Y,MeGeSoVGrZe-130,MeGeSoVGrZe-132
+MeGeSoVGrZe-132,Paz Ortega Andrade,A double agent whose true alliances are unknown,Chico,Boss...,,N,MeGeSoVGrZe-131,MeGeSoVGrZe-133
+MeGeSoVGrZe-133,Paz Ortega Andrade,A double agent whose true alliances are unknown,Medic,Breathing's stable... No active bleeding. She's clean. I'm closing her up. Hold her steady. It's gotta be a continuous suture.,,N,MeGeSoVGrZe-132,MeGeSoVGrZe-134
+MeGeSoVGrZe-134,Paz Ortega Andrade,A double agent whose true alliances are unknown,Radio,"Control tower, this is Morpho One. All hummingbirds are on the wing. We'll shake hands, then head back to the cage. Boss, you got a call. Boss, can you hear me?",,N,MeGeSoVGrZe-133,MeGeSoVGrZe-135
+MeGeSoVGrZe-135,Paz Ortega Andrade,A double agent whose true alliances are unknown,Snake,"What's up, Huey?",,N,MeGeSoVGrZe-134,MeGeSoVGrZe-136
+MeGeSoVGrZe-136,Paz Ortega Andrade,A double agent whose true alliances are unknown,Huey," Our ""guests"" are right in time. Document destruction and hungar decontamination are complete. AFVs has been stowed away, and ZEKE's on the seafloor along with the nuke. Everyone's got their story straight. The guided tour'll be wrapped up by the time you get home.",(Radio) ,N,MeGeSoVGrZe-135,MeGeSoVGrZe-137
+MeGeSoVGrZe-137,Paz Ortega Andrade,A double agent whose true alliances are unknown,Snake,Make me proud.,,N,MeGeSoVGrZe-136,MeGeSoVGrZe-138
+MeGeSoVGrZe-138,Paz Ortega Andrade,A double agent whose true alliances are unknown,Huey," By the time they leave, I'll have the IAEA praising us as the poster boys for world peace. Out.",(Radio) ,N,MeGeSoVGrZe-137,MeGeSoVGrZe-139
+MeGeSoVGrZe-139,Paz Ortega Andrade,A double agent whose true alliances are unknown,,[Some time passes. The helicopter flies to the base.],,Y,MeGeSoVGrZe-138,MeGeSoVGrZe-140
+MeGeSoVGrZe-140,Paz Ortega Andrade,A double agent whose true alliances are unknown,Huey," Tower, this is Morpho One. Do you copy? Can get through! The link seems fine, but...",(Radio) ,N,MeGeSoVGrZe-139,MeGeSoVGrZe-141
+MeGeSoVGrZe-141,Paz Ortega Andrade,A double agent whose true alliances are unknown,,[Snake opens the hatch and sees the burning boats and subsequently the base itself. He takes a rifle.],,Y,MeGeSoVGrZe-140,MeGeSoVGrZe-142
+MeGeSoVGrZe-142,Paz Ortega Andrade,A double agent whose true alliances are unknown,Medic,Look! Commander Miller!,,N,MeGeSoVGrZe-141,MeGeSoVGrZe-143
+MeGeSoVGrZe-143,Paz Ortega Andrade,A double agent whose true alliances are unknown,,[Snake notices that the soldiers on the base is still fighting. He jumps off and opens fire.],,Y,MeGeSoVGrZe-142,MeGeSoVGrZe-144
+MeGeSoVGrZe-144,Paz Ortega Andrade,A double agent whose true alliances are unknown,Soldier,Enemy chopper!,,N,MeGeSoVGrZe-143,MeGeSoVGrZe-145
+MeGeSoVGrZe-145,Paz Ortega Andrade,A double agent whose true alliances are unknown,Soldier,Incoming! Incoming!,,N,MeGeSoVGrZe-144,MeGeSoVGrZe-146
+MeGeSoVGrZe-146,Paz Ortega Andrade,A double agent whose true alliances are unknown,,[The heroes shoot back and together retreat to the helicopter.],,Y,MeGeSoVGrZe-145,MeGeSoVGrZe-147
+MeGeSoVGrZe-147,Paz Ortega Andrade,A double agent whose true alliances are unknown,Kazuhira Miller,Move!!,,N,MeGeSoVGrZe-146,MeGeSoVGrZe-148
+MeGeSoVGrZe-148,Paz Ortega Andrade,A double agent whose true alliances are unknown,,"[Seeing the dying soldiers and losing his mind, Snake rushes into the attack.]",,Y,MeGeSoVGrZe-147,MeGeSoVGrZe-149
+MeGeSoVGrZe-149,Paz Ortega Andrade,A double agent whose true alliances are unknown,Kazuhira Miller,Snake!,,N,MeGeSoVGrZe-148,MeGeSoVGrZe-150
+MeGeSoVGrZe-150,Paz Ortega Andrade,A double agent whose true alliances are unknown,,"[When Snake comes to his senses, he hears the voice of reason and sits down in the helicopter.]",,Y,MeGeSoVGrZe-149,MeGeSoVGrZe-151
+MeGeSoVGrZe-151,Paz Ortega Andrade,A double agent whose true alliances are unknown,Snake,Go!,,N,MeGeSoVGrZe-150,MeGeSoVGrZe-152
+MeGeSoVGrZe-152,Paz Ortega Andrade,A double agent whose true alliances are unknown,,[The heroes fly away. In a helicopter we are introduced to another character.],,Y,MeGeSoVGrZe-151,MeGeSoVGrZe-153
+MeGeSoVGrZe-154,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Kazuhira Miller,"The inspection was nothing but a smokescreen. I heard explosions, then... They played us like a damn fiddle!  Give it back! This isn't right! That was ours... We built it, damn it!  You spying bitch...! C'mon, start talking, bitch! C'mon, get up and start talking!!",(to Snake) (to Paz) ,N,MeGeSoVGrZe-153,MeGeSoVGrZe-155
+MeGeSoVGrZe-155,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,,[Suddenly she gets up and starts to rush about the helicopter. Miller runs up to her.],,Y,MeGeSoVGrZe-154,MeGeSoVGrZe-156
+MeGeSoVGrZe-156,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Kazuhira Miller,You little... [a medic grabs him to stop him],,N,MeGeSoVGrZe-155,MeGeSoVGrZe-157
+MeGeSoVGrZe-157,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Paz,Bomb...,,N,MeGeSoVGrZe-156,MeGeSoVGrZe-158
+MeGeSoVGrZe-158,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Snake,It's alright. We got it out.,,N,MeGeSoVGrZe-157,MeGeSoVGrZe-159
+MeGeSoVGrZe-159,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,,[Paz approaches the hatch and opens it.],,Y,MeGeSoVGrZe-158,MeGeSoVGrZe-160
+MeGeSoVGrZe-160,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Paz,There is another... in my...,,N,MeGeSoVGrZe-159,MeGeSoVGrZe-161
+MeGeSoVGrZe-161,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,,[She jumps out of the helicopter.],,Y,MeGeSoVGrZe-160,MeGeSoVGrZe-162
+MeGeSoVGrZe-162,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Snake,Nooooooo!!,,N,MeGeSoVGrZe-161,MeGeSoVGrZe-163
+MeGeSoVGrZe-163,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,,"[She explodes in the air. A huge explosion destroys the helicopter and breaks the one what flying alongside. They collide. One of the fragments pierce Snake’s forehead. Next, we see a text explaining further events.]",,Y,MeGeSoVGrZe-162,MeGeSoVGrZe-164
+MeGeSoVGrZe-171,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,,"[Next we see titles, behind which the voice of Skull Face is heard.]",,Y,MeGeSoVGrZe-170,MeGeSoVGrZe-172
+MeGeSoVGrZe-172,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Skull Face,"Your favorite song. Nicola. Bart. Immigrants, wrongly executed. But their deaths as a message to others. That ours is a society that murders the innocent. Do you, too, believe you sacrifice will change the world?",,N,MeGeSoVGrZe-171,MeGeSoVGrZe-173
+MeGeSoVGrZe-173,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,,"[After the credits, we hear an additional dialogue on the background of the title of the game.]",,Y,MeGeSoVGrZe-172,MeGeSoVGrZe-174
+MeGeSoVGrZe-174,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Skull Face,"Cipher has been in hiding ever since his grand experiment. No one's seen him in years. All we hear are orders delivery by proxy. Except you. You met with him - face to face - in order to contact Big Boss. Tell me where he is. Where is Cipher... Where is Zero? I've never known choice. Where I was born, the language I speak... I've never had the freedom to choose for myself. But you, right now, are free. Do as you will.",,N,MeGeSoVGrZe-173,MeGeSoVGrZe-175
+MeGeSoVGrZe-175,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Paz,This will save Big Boss?,,N,MeGeSoVGrZe-174,MeGeSoVGrZe-176
+MeGeSoVGrZe-176,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Skull Face,It may.,,N,MeGeSoVGrZe-175,MeGeSoVGrZe-177
+MeGeSoVGrZe-177,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Paz,Will you really kill Zero for me?,,N,MeGeSoVGrZe-176,MeGeSoVGrZe-178
+MeGeSoVGrZe-178,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Skull Face,Not for you.,,N,MeGeSoVGrZe-177,MeGeSoVGrZe-179
+MeGeSoVGrZe-179,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Paz,Alright... Zero is...,,N,MeGeSoVGrZe-178,MeGeSoVGrZe-180
+MeGeSoVGrZe-180,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,,"[The recording truncated. After that, we see a short cutscene, telling us about the events after the explosion. Snake and Miller, both barely alive, lie on hospital beds. Around them fuss doctors.]",,Y,MeGeSoVGrZe-179,MeGeSoVGrZe-181
+MeGeSoVGrZe-181,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Kazuhira Miller,"Don't you die on me, damn it!",,N,MeGeSoVGrZe-180,MeGeSoVGrZe-182
+MeGeSoVGrZe-182,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,,"[While doctors are fighting for his life, the recent events on the base sweep past Snake’s eyes.]",,Y,MeGeSoVGrZe-181,MeGeSoVGrZe-183
+MeGeSoVGrZe-183,"Kazuhira ""Kaz"" Miller",A double agent whose true alliances are unknown,Doctor,"B.P.'s dropping! Intubate! Now! Clear! No response, hit him again! Clear!",,N,MeGeSoVGrZe-182,MeGeSoVGrZe-184

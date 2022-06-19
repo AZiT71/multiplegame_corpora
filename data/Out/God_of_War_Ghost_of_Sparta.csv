@@ -1,0 +1,151 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+GoofWaGhofSp-1,﻿,,KRATOS,This... cannot be. Why? Why would you do this?,,N,,GoofWaGhofSp-2
+GoofWaGhofSp-2,﻿,,MOTHER,Your father forbid me to tell you.,,N,GoofWaGhofSp-1,GoofWaGhofSp-3
+GoofWaGhofSp-3,﻿,,KRATOS,My father? Who is my father?,,N,GoofWaGhofSp-2,GoofWaGhofSp-4
+GoofWaGhofSp-4,﻿,,,[GAMEPLAY],,Y,GoofWaGhofSp-3,GoofWaGhofSp-5
+GoofWaGhofSp-5,﻿,,MOTHER,"Finally, I am free, find your brother… Kratos, go to… Sparta… find Deimos. He… needs you.",,N,GoofWaGhofSp-4,GoofWaGhofSp-6
+GoofWaGhofSp-6,﻿,,KRATOS,Mother! What have I done?,,N,GoofWaGhofSp-5,GoofWaGhofSp-7
+GoofWaGhofSp-7,﻿,,NARRATOR,"With her last breath, she released the weight of her burden and finally found the peace she had long sought, but for Kratos, the rage was almost palpable. Fate had once again pushed him to the brink of madness.",,N,GoofWaGhofSp-6,GoofWaGhofSp-8
+GoofWaGhofSp-8,﻿,,,[GAMEPLAY],,Y,GoofWaGhofSp-7,GoofWaGhofSp-9
+GoofWaGhofSp-9,﻿,,THERA,"It has been long since our kind waited for the one destined to free us. Gaia foretold of our salvation, Ghost of Sparta.",,N,GoofWaGhofSp-8,GoofWaGhofSp-10
+GoofWaGhofSp-10,﻿,,KRATOS,I have not come here for your or your kind.,,N,GoofWaGhofSp-9,GoofWaGhofSp-11
+GoofWaGhofSp-11,﻿,,THERA,"Do not be so naive, Kratos. Your path led you to me. You need my help.",,N,GoofWaGhofSp-10,GoofWaGhofSp-12
+GoofWaGhofSp-12,﻿,,KRATOS,"I need nothing from you, Thera.",,N,GoofWaGhofSp-11,GoofWaGhofSp-13
+GoofWaGhofSp-13,﻿,,THERA,"If you do not free me, then you will share my fate. You will die here, with me. Free me. Free me and my power will be yours. Without it, we will both remain prisoners of our torments.",,N,GoofWaGhofSp-12,GoofWaGhofSp-14
+GoofWaGhofSp-14,﻿,,,[GAMEPLAY],,Y,GoofWaGhofSp-13,GoofWaGhofSp-15
+GoofWaGhofSp-16,THE ARCHIMEDEAN SCREW,,,[GAMEPLAY],,Y,GoofWaGhofSp-15,GoofWaGhofSp-17
+GoofWaGhofSp-17,THE ARCHIMEDEAN SCREW,,NARRATOR,The battle with Scylla had shaken the very foundation of Poseidon’s kingdom. Atlantis was sinking. But that mattered little to the Ghost of Sparta.,,N,GoofWaGhofSp-16,GoofWaGhofSp-18
+GoofWaGhofSp-18,THE ARCHIMEDEAN SCREW,,,[GAMEPLAY],,Y,GoofWaGhofSp-17,GoofWaGhofSp-19
+GoofWaGhofSp-19,THE ARCHIMEDEAN SCREW,,KRATOS,Athena! You lie to to me! The Gods lie to me! My brother lives! Athena!!!,,N,GoofWaGhofSp-18,GoofWaGhofSp-20
+GoofWaGhofSp-20,THE ARCHIMEDEAN SCREW,,ATHENA,"Don't let your rage blind you, Kratos. There is much you do not know. Be warned, they will all try to stop...",,N,GoofWaGhofSp-19,GoofWaGhofSp-21
+GoofWaGhofSp-21,THE ARCHIMEDEAN SCREW,,KRATOS, Ahhhhhh!,(crushing the statue) ,N,GoofWaGhofSp-20,GoofWaGhofSp-22
+GoofWaGhofSp-22,THE ARCHIMEDEAN SCREW,,,[GAMEPLAY],,Y,GoofWaGhofSp-21,GoofWaGhofSp-23
+GoofWaGhofSp-23,THE ARCHIMEDEAN SCREW,,DYING SOLDIER,"Hold fast, Dominus, we've won the battle. Hold fast.",,N,GoofWaGhofSp-22,GoofWaGhofSp-24
+GoofWaGhofSp-24,THE ARCHIMEDEAN SCREW,,KRATOS,What happened here?,,N,GoofWaGhofSp-23,GoofWaGhofSp-25
+GoofWaGhofSp-25,THE ARCHIMEDEAN SCREW,,DYING SOLDIER,We have angered them... the gods… They sent a message to all who defy their glory. But we... we survived. Spared us… she… she...,,N,GoofWaGhofSp-24,GoofWaGhofSp-26
+GoofWaGhofSp-26,THE ARCHIMEDEAN SCREW,,KRATOS,Who spared you?,,N,GoofWaGhofSp-25,GoofWaGhofSp-27
+GoofWaGhofSp-27,THE ARCHIMEDEAN SCREW,,DYING SOLDIER,The Daughter… a message... to the Ghost of Sparta. ...The Labor begins. ...Death… awaits the Ghost. He will never get the Skull. The Skull...,,N,GoofWaGhofSp-26,GoofWaGhofSp-28
+GoofWaGhofSp-28,THE ARCHIMEDEAN SCREW,,KRATOS,"I am coming for you, brother.",,N,GoofWaGhofSp-27,GoofWaGhofSp-29
+GoofWaGhofSp-29,THE ARCHIMEDEAN SCREW,,,[GAMEPLAY],,Y,GoofWaGhofSp-28,GoofWaGhofSp-30
+GoofWaGhofSp-31,HERAKLION,,,[GAMEPLAY],,Y,GoofWaGhofSp-30,GoofWaGhofSp-32
+GoofWaGhofSp-32,HERAKLION,,GRAVE DIGGER,"What fools. What fool? And you...The biggest fool of all, Kratos. The Ghost of Sparta. The slayer of Ares, and now the destroyer of Atlantis. You should take heed, Spartan. The destruction of Poseidon's kingdom will not bode well on Olympus.",,N,GoofWaGhofSp-31,GoofWaGhofSp-33
+GoofWaGhofSp-33,HERAKLION,,KRATOS,I care little for the gods.,,N,GoofWaGhofSp-32,GoofWaGhofSp-34
+GoofWaGhofSp-34,HERAKLION,,GRAVE DIGGER,And yet you walk beside them?,,N,GoofWaGhofSp-33,GoofWaGhofSp-35
+GoofWaGhofSp-35,HERAKLION,,KRATOS,I did not ask for he throne of ares.,,N,GoofWaGhofSp-34,GoofWaGhofSp-36
+GoofWaGhofSp-36,HERAKLION,,GRAVE DIGGER,You were given the honor to walk among the gods. And yet you spit on it like it was dirt.,,N,GoofWaGhofSp-35,GoofWaGhofSp-37
+GoofWaGhofSp-37,HERAKLION,,KRATOS,The gods can keep their honor. I wish only to find my brother. ‘,,N,GoofWaGhofSp-36,GoofWaGhofSp-38
+GoofWaGhofSp-38,HERAKLION,,GRAVE DIGGER,"Ah, yes. The other one. Try if you must, but you will not succeed. You will never find him. And in the wake of your destruction, you have sunk the only path to your salvation. This... is all that awaits you at the end of your journey.",,N,GoofWaGhofSp-37,GoofWaGhofSp-39
+GoofWaGhofSp-39,HERAKLION,,KRATOS,Not before I find Deimos.,,N,GoofWaGhofSp-38,GoofWaGhofSp-40
+GoofWaGhofSp-40,HERAKLION,,GRAVE DIGGER,"Be wise, my son... And turn back now. Do not seek the Domain of Death.",,N,GoofWaGhofSp-39,GoofWaGhofSp-41
+GoofWaGhofSp-41,HERAKLION,,,[GAMEPLAY],,Y,GoofWaGhofSp-40,GoofWaGhofSp-42
+GoofWaGhofSp-42,HERAKLION,,YOUNG KRATOS,"Don’t let you guard down, Deimos.  A Spartan warrior never lets his back hit the ground. Even in death, a Spartan stands tall for battle. You are a Spartan, are you not???",(attacks him and win) ,N,GoofWaGhofSp-41,GoofWaGhofSp-43
+GoofWaGhofSp-43,HERAKLION,,,[GAMEPLAY],,Y,GoofWaGhofSp-42,GoofWaGhofSp-44
+GoofWaGhofSp-44,HERAKLION,,THE DAUGHTER,Ghost of Sparta?,,N,GoofWaGhofSp-43,GoofWaGhofSp-45
+GoofWaGhofSp-45,HERAKLION,,SOLDIER,I don't now where he is. Please… I swear to you...,,N,GoofWaGhofSp-44,GoofWaGhofSp-46
+GoofWaGhofSp-46,HERAKLION,,THE DAUGHTER,Tell us.,,N,GoofWaGhofSp-45,GoofWaGhofSp-47
+GoofWaGhofSp-47,HERAKLION,,,[GAMEPLAY],,Y,GoofWaGhofSp-46,GoofWaGhofSp-48
+GoofWaGhofSp-48,HERAKLION,,SOLDIER,"My lord, I knew you would return. I have not failed you. I told the servants of Death nothing. Elysium. Elysium…",,N,GoofWaGhofSp-47,GoofWaGhofSp-49
+GoofWaGhofSp-49,HERAKLION,,KRATOS,You are a Spartan. Even in death you stand tall for battle.,,N,GoofWaGhofSp-48,GoofWaGhofSp-50
+GoofWaGhofSp-50,HERAKLION,,SOLDIER,"Thank you, Lord Kratos.",,N,GoofWaGhofSp-49,GoofWaGhofSp-51
+GoofWaGhofSp-51,HERAKLION,,,[SOLDIER’S CORPSE],,Y,GoofWaGhofSp-50,GoofWaGhofSp-52
+GoofWaGhofSp-53,HERAKLION,,,[GAMEPLAY],,Y,GoofWaGhofSp-52,GoofWaGhofSp-54
+GoofWaGhofSp-54,HERAKLION,,NARRATOR,"Erinys… the daughter of Thanatos, the God of Death. Pain given form, evil given life.",,N,GoofWaGhofSp-53,GoofWaGhofSp-55
+GoofWaGhofSp-55,HERAKLION,,ERINYS,Ghost of Sparta. The God Slayer. Your brother belongs to Thanatos. So does your blood.,,N,GoofWaGhofSp-54,GoofWaGhofSp-56
+GoofWaGhofSp-56,HERAKLION,,KRATOS,You cannot stop me. Nothing can.,,N,GoofWaGhofSp-55,GoofWaGhofSp-57
+GoofWaGhofSp-57,HERAKLION,,,[GAMEPLAY],,Y,GoofWaGhofSp-56,GoofWaGhofSp-58
+GoofWaGhofSp-58,HERAKLION,,YOUNG KRATOS,"A Spartan warrior never lets his back hit the ground. Even in death, a Spartan stands tall for battle. You are a Spartan, are you not?",,N,GoofWaGhofSp-57,GoofWaGhofSp-59
+GoofWaGhofSp-59,HERAKLION,,NARRATOR,"The Oracle had foretold the demise of the Olympian Gods, and the destruction of Olympus. She saw that it would brought about not by the hands of the Titans, who thirsted for revenge, but by the hands of a mortal, a marked warrior. Whoever controlled the marked warrior... controlled the fate of Olympus.",,N,GoofWaGhofSp-58,GoofWaGhofSp-60
+GoofWaGhofSp-60,HERAKLION,,ATHENA,"(god’s language) Enough! Father sent us here to bring the marked one, this boy is of no consequence.",,N,GoofWaGhofSp-59,GoofWaGhofSp-61
+GoofWaGhofSp-61,HERAKLION,,ARES,"(god’s language) You see so little of what is true, Athena. STEP ASIDE!!",,N,GoofWaGhofSp-60,GoofWaGhofSp-62
+GoofWaGhofSp-62,HERAKLION,,ATHENA,"(god’s language) I said, the boy is not to be touched. Now take the marked one, and leave!",,N,GoofWaGhofSp-61,GoofWaGhofSp-63
+GoofWaGhofSp-63,HERAKLION,,YOUNG DEIMOS,Kratos! Help! Kratos!,,N,GoofWaGhofSp-62,GoofWaGhofSp-64
+GoofWaGhofSp-64,HERAKLION,,ATHENA,Forgive me.,,N,GoofWaGhofSp-63,GoofWaGhofSp-65
+GoofWaGhofSp-65,HERAKLION,,YOUNG DEIMOS,Help!,,N,GoofWaGhofSp-64,GoofWaGhofSp-66
+GoofWaGhofSp-66,HERAKLION,,YOUNG KRATOS,Deimos!,,N,GoofWaGhofSp-65,GoofWaGhofSp-67
+GoofWaGhofSp-67,HERAKLION,,MOTHER,"Kratos! Deimos! Where are you? Come home, my sons!",,N,GoofWaGhofSp-66,GoofWaGhofSp-68
+GoofWaGhofSp-68,HERAKLION,,KRATOS,Deimos... I will find you.,,N,GoofWaGhofSp-67,GoofWaGhofSp-69
+GoofWaGhofSp-69,HERAKLION,,,[GAMEPLAY],,Y,GoofWaGhofSp-68,GoofWaGhofSp-70
+GoofWaGhofSp-70,HERAKLION,,CAPTAIN,"My Lord! We shall make quick work of this and erect a statue befitting of your glory. That's right men. Now pull! All hail Lord Kratos, the God of War!",,N,GoofWaGhofSp-69,GoofWaGhofSp-71
+GoofWaGhofSp-71,HERAKLION,,SOLDIERS,All hail Lord Kratos!,,N,GoofWaGhofSp-70,GoofWaGhofSp-72
+GoofWaGhofSp-72,HERAKLION,,CAPTAIN,My Lord. I have something for you. I shall return.,,N,GoofWaGhofSp-71,GoofWaGhofSp-73
+GoofWaGhofSp-73,HERAKLION,,,[At the door to the temple he is met by the face of Ares.],,Y,GoofWaGhofSp-72,GoofWaGhofSp-74
+GoofWaGhofSp-74,HERAKLION,,ARES,"Face thyself, and your fate shall be sealed.",,N,GoofWaGhofSp-73,GoofWaGhofSp-75
+GoofWaGhofSp-75,HERAKLION,,NARRATOR,"Kratos stood in the temple of ares. It was a somber reminder of who and where had become. The Ghost of Sparta, the God Slayer. And now the very person he had once despised, the God of War.",,N,GoofWaGhofSp-74,GoofWaGhofSp-76
+GoofWaGhofSp-77,THE TEMPLE OF ARES,,,[GAMEPLAY],,Y,GoofWaGhofSp-76,GoofWaGhofSp-78
+GoofWaGhofSp-78,THE TEMPLE OF ARES,,NARRATOR,"Kratos knew he had to return to Atlantis, back to the sunken city. Only there would he find the entrance to Death's Domain, and the brother he left behind.",,N,GoofWaGhofSp-77,GoofWaGhofSp-79
+GoofWaGhofSp-79,THE TEMPLE OF ARES,,CAPTAIN,"Your weapons, my Lord. I have looked after them as if they were my own.",,N,GoofWaGhofSp-78,GoofWaGhofSp-80
+GoofWaGhofSp-80,THE TEMPLE OF ARES,,KRATOS,You have served me well.,,N,GoofWaGhofSp-79,GoofWaGhofSp-81
+GoofWaGhofSp-81,THE TEMPLE OF ARES,,CAPTAIN,"Thank you, my Lord.",,N,GoofWaGhofSp-80,GoofWaGhofSp-82
+GoofWaGhofSp-82,THE TEMPLE OF ARES,,,[GAMEPLAY],,Y,GoofWaGhofSp-81,GoofWaGhofSp-83
+GoofWaGhofSp-84,THE SHRINE OF BOREAS,,Dead Soldier,"Be warned Ghost of Sparta. Do not pursue this path, the Gods forbid it.",,N,GoofWaGhofSp-83,GoofWaGhofSp-85
+GoofWaGhofSp-85,THE SHRINE OF BOREAS,,Kratos,"The gods have no power over me, Thanatos. Where is my brother?",,N,GoofWaGhofSp-84,GoofWaGhofSp-86
+GoofWaGhofSp-86,THE SHRINE OF BOREAS,,Dead Soldier," If you persist, not even the Fates will prevent me from ending your path.",(laughs) ,N,GoofWaGhofSp-85,GoofWaGhofSp-87
+GoofWaGhofSp-87,THE SHRINE OF BOREAS,,Dead Soldier,Ares was unwise to believe you could serve him.,,N,GoofWaGhofSp-86,GoofWaGhofSp-88
+GoofWaGhofSp-88,THE SHRINE OF BOREAS,,Kratos,"Do not stand in my way, Thanatos. Or Ares' blood is not the only I will shed.",,N,GoofWaGhofSp-87,GoofWaGhofSp-89
+GoofWaGhofSp-89,THE SHRINE OF BOREAS,,,[Dead soldier laughs and dies again.],,Y,GoofWaGhofSp-88,GoofWaGhofSp-90
+GoofWaGhofSp-90,THE SHRINE OF BOREAS,,,[GAMEPLAY],,Y,GoofWaGhofSp-89,GoofWaGhofSp-91
+GoofWaGhofSp-92,THE CURSE OF MIDAS,,KING MIDAS, No! Leave me alone!,(to Kartos) ,N,GoofWaGhofSp-91,GoofWaGhofSp-93
+GoofWaGhofSp-93,THE CURSE OF MIDAS,,,[GAMEPLAY],,Y,GoofWaGhofSp-92,GoofWaGhofSp-94
+GoofWaGhofSp-94,THE CURSE OF MIDAS,,KING MIDAS, Stay away!!! Stay away!! I’m cursed! Stay away! Don't you see? Everything I touch... Gold.,(to Kartos) ,N,GoofWaGhofSp-93,GoofWaGhofSp-95
+GoofWaGhofSp-95,THE CURSE OF MIDAS,,Kratos,Midas?,,N,GoofWaGhofSp-94,GoofWaGhofSp-96
+GoofWaGhofSp-96,THE CURSE OF MIDAS,,KING MIDAS,"I... I didn't mean to. I thought... How... How could I know that she would... Oh, my daughter... My beautiful little girl...",,N,GoofWaGhofSp-95,GoofWaGhofSp-97
+GoofWaGhofSp-97,THE CURSE OF MIDAS,,,"[Distraught completely, he begins to think that the river of lava before him is the River Styx.]",,Y,GoofWaGhofSp-96,GoofWaGhofSp-98
+GoofWaGhofSp-98,THE CURSE OF MIDAS,,KING MIDAS,The River Styx... I am in Hades? I must be! Finally I know that I must do!,,N,GoofWaGhofSp-97,GoofWaGhofSp-99
+GoofWaGhofSp-99,THE CURSE OF MIDAS,,,"[He touches lava. It turns to gold, but his hand burned out.]",,Y,GoofWaGhofSp-98,GoofWaGhofSp-100
+GoofWaGhofSp-100,THE CURSE OF MIDAS,,KING MIDAS,"Augh, no, no... Aaah!!!",,N,GoofWaGhofSp-99,GoofWaGhofSp-101
+GoofWaGhofSp-101,THE CURSE OF MIDAS,,,"[He runs away. Kratos finds him, beats him up and throws him into lava to turn it into gold and cross to the other side.]",,Y,GoofWaGhofSp-100,GoofWaGhofSp-102
+GoofWaGhofSp-103,THE HARBOR OF ATLANTIS,,,[Kratos set sail to the city of Atlantis.],,Y,GoofWaGhofSp-102,GoofWaGhofSp-104
+GoofWaGhofSp-104,THE HARBOR OF ATLANTIS,,NARRATOR,Kratos knew that deep within the raging abyss lay the answer to a question he was not yet prepared to ask. Was Deimos still alive?,,N,GoofWaGhofSp-103,GoofWaGhofSp-105
+GoofWaGhofSp-105,SUNKEN ATLANTIS,,,"[Kratos sails to the dilapidated and submerged Atlantis. He is met by the huge head of the statue of the god of the seas, Poseidon.]",,Y,GoofWaGhofSp-104,GoofWaGhofSp-106
+GoofWaGhofSp-106,SUNKEN ATLANTIS,,POSEIDON,"You have desecrated my kingdom. I shall not forget this, Ghost of Sparta. You will answer for this affront.",,N,GoofWaGhofSp-105,GoofWaGhofSp-107
+GoofWaGhofSp-107,SUNKEN ATLANTIS,,,[Kratos reads a description on the statue],,Y,GoofWaGhofSp-106,GoofWaGhofSp-108
+GoofWaGhofSp-109,SUNKEN ATLANTIS,,,"[Reaching Ancient Atlantis, he sees a multitude of violently roaring waterfalls and giant statues next to them. Their description reads as follows.]",,Y,GoofWaGhofSp-108,GoofWaGhofSp-110
+GoofWaGhofSp-111,SUNKEN ATLANTIS,,,[In the next room he comes to the statues of Athena.],,Y,GoofWaGhofSp-110,GoofWaGhofSp-112
+GoofWaGhofSp-112,SUNKEN ATLANTIS,,ATHENA,"It is not too late to turn back, Kratos. No good will come of this journey. The Gods...",,N,GoofWaGhofSp-111,GoofWaGhofSp-113
+GoofWaGhofSp-113,SUNKEN ATLANTIS,,KRATOS,I am done with the gods. Return to Olympus and leave me be.,,N,GoofWaGhofSp-112,GoofWaGhofSp-114
+GoofWaGhofSp-114,SUNKEN ATLANTIS,,ATHENA,"Your brother was a threat to Olympus, Kratos. What was done… had to be done. Forgive me.",,N,GoofWaGhofSp-113,GoofWaGhofSp-115
+GoofWaGhofSp-115,SUNKEN ATLANTIS,,,[Kratos recalls the day his brother was kidnapped.],,Y,GoofWaGhofSp-114,GoofWaGhofSp-116
+GoofWaGhofSp-116,SUNKEN ATLANTIS,,ATHENA,Forgive me.,,N,GoofWaGhofSp-115,GoofWaGhofSp-117
+GoofWaGhofSp-117,SUNKEN ATLANTIS,,KRATOS,You were there? Why? Why didn't you help him?,,N,GoofWaGhofSp-116,GoofWaGhofSp-118
+GoofWaGhofSp-118,SUNKEN ATLANTIS,,ATHENA,"I was there for you, Kratos. You had to be saved.",,N,GoofWaGhofSp-117,GoofWaGhofSp-119
+GoofWaGhofSp-119,SUNKEN ATLANTIS,,KRATOS,You should have saved him. I should have saved him.,,N,GoofWaGhofSp-118,GoofWaGhofSp-120
+GoofWaGhofSp-120,SUNKEN ATLANTIS,,ATHENA,"There is more to this than you could possibly know, Kratos.",,N,GoofWaGhofSp-119,GoofWaGhofSp-121
+GoofWaGhofSp-121,SUNKEN ATLANTIS,,KRATOS,"Lies and riddles. That’s all you give me, Athena. I will save my brother, and you will stay out of my way.",,N,GoofWaGhofSp-120,GoofWaGhofSp-122
+GoofWaGhofSp-122,SUNKEN ATLANTIS,,,[He activates the Nexus and open a path to Death Gate.],,Y,GoofWaGhofSp-121,GoofWaGhofSp-123
+GoofWaGhofSp-123,THE DOMAIN OF DEATH,,NARRATOR,"The Domain of Death. A dark netherworld, nestled between the land of living, and the real of the dead. A purgatory ruled by the God of Death, Thanatos.",,N,GoofWaGhofSp-122,GoofWaGhofSp-124
+GoofWaGhofSp-124,THE DOMAIN OF DEATH,,,[He goes deep into the Hall of the Damnation...],,Y,GoofWaGhofSp-123,GoofWaGhofSp-125
+GoofWaGhofSp-125,THE DOMAIN OF DEATH,,NARRATOR,"The doors to the Domain of Death. Nor god had dared enter. Worshipped long before the Olympians, Thanatos, the God of Death, dwelled within.",,N,GoofWaGhofSp-124,GoofWaGhofSp-126
+GoofWaGhofSp-126,THE DOMAIN OF DEATH,,,[On the door to his temple a face of Thanatos himself speak to Kratos.],,Y,GoofWaGhofSp-125,GoofWaGhofSp-127
+GoofWaGhofSp-127,THE DOMAIN OF DEATH,,THANATOS,"Free thyself, and your past shall be forgiven.",,N,GoofWaGhofSp-126,GoofWaGhofSp-128
+GoofWaGhofSp-128,THE DOMAIN OF DEATH,,,[Book at the entrance.],,Y,GoofWaGhofSp-127,GoofWaGhofSp-129
+GoofWaGhofSp-130,THE DOMAIN OF DEATH,,,"[Kratos solve some puzzles, tear some enemies apart and finally finds his brother.]",,Y,GoofWaGhofSp-129,GoofWaGhofSp-131
+GoofWaGhofSp-131,THE DOMAIN OF DEATH,,KRATOS,Deimos…,,N,GoofWaGhofSp-130,GoofWaGhofSp-132
+GoofWaGhofSp-132,THE DOMAIN OF DEATH,,,[He frees him from the shackles.],,Y,GoofWaGhofSp-131,GoofWaGhofSp-133
+GoofWaGhofSp-133,THE DOMAIN OF DEATH,,KRATOS,"Brother, you are safe now.",,N,GoofWaGhofSp-132,GoofWaGhofSp-134
+GoofWaGhofSp-134,THE DOMAIN OF DEATH,,DEIMOS," SAFE?! You let this happen to me! You were supposed to protect me! Did you think I would forget? Did you think I would forgive? I will never forgive you, brother.",(laughs) ,N,GoofWaGhofSp-133,GoofWaGhofSp-135
+GoofWaGhofSp-135,THE DOMAIN OF DEATH,,,[The have a fight. Deimos gets his brother ass kicked.],,Y,GoofWaGhofSp-134,GoofWaGhofSp-136
+GoofWaGhofSp-136,THE DOMAIN OF DEATH,,DEIMOS,"You left me! Get get up! Fight me! I hate you, Kratos!",,N,GoofWaGhofSp-135,GoofWaGhofSp-137
+GoofWaGhofSp-137,THE DOMAIN OF DEATH,,,"[Suddenly Thanatos appears, grab Deimos and goes to throw him into the abyss.]",,Y,GoofWaGhofSp-136,GoofWaGhofSp-138
+GoofWaGhofSp-138,THE DOMAIN OF DEATH,,THANATOS,"You killed my daughter, spartan! And now you will suffer for it!",,N,GoofWaGhofSp-137,GoofWaGhofSp-139
+GoofWaGhofSp-139,THE DOMAIN OF DEATH,,,"[He actually throws Deimos, but picks him up in flies away somewhere.]",,Y,GoofWaGhofSp-138,GoofWaGhofSp-140
+GoofWaGhofSp-140,THE DOMAIN OF DEATH,,DEIMOS,AAAAAH!,,N,GoofWaGhofSp-139,GoofWaGhofSp-141
+GoofWaGhofSp-141,THE DOMAIN OF DEATH,,,"[Tired of fighting, Kratos finds the strength to rise and jumps after his brother. He sees his brother fighting Thanatos on the edge of a cliff. Kratos helps him and Deimos finds the strength to forgive his brother.]",,Y,GoofWaGhofSp-140,GoofWaGhofSp-142
+GoofWaGhofSp-142,THE DOMAIN OF DEATH,,DEIMOS,"A spartan never lets his back hit the ground. Right, brother?",,N,GoofWaGhofSp-141,GoofWaGhofSp-143
+GoofWaGhofSp-143,THE DOMAIN OF DEATH,,KRATOS,"I will not lose your again, Deimos. Come. The fight is not over.",,N,GoofWaGhofSp-142,GoofWaGhofSp-144
+GoofWaGhofSp-144,THE DOMAIN OF DEATH,,,[He give his brother the Arms of Sparta. Now he can aid Kratos in battle!],,Y,GoofWaGhofSp-143,GoofWaGhofSp-145
+GoofWaGhofSp-145,THE DOMAIN OF DEATH,,THANATOS,The oracle may have yet spoken truth. The marked warrior shall bring about the destruction of Olympus. Ares chose poorly that day. He took your brother when it should have been you. None of that matters now. Nothing you do is of your own choosing.,,N,GoofWaGhofSp-144,GoofWaGhofSp-146
+GoofWaGhofSp-146,THE DOMAIN OF DEATH,,KRATOS,"The gods do not decide my fate, Thanatos!",,N,GoofWaGhofSp-145,GoofWaGhofSp-147
+GoofWaGhofSp-147,THE DOMAIN OF DEATH,,THANATOS,"The gods decide… And the Sisters of Fate make it so! You are nothing but a pawn in a game you don't even know is being played. Pathetic. Now is the time, Kratos... The beginning of the end.",,N,GoofWaGhofSp-146,GoofWaGhofSp-148
+GoofWaGhofSp-148,THE DOMAIN OF DEATH,,,"[They have an epic fight. Kratos and Deimos side by side, crushing a god. In the end Deimos make a jump and pierce Thanatos’s eye, but he catch him and smash him into the ground.]",,Y,GoofWaGhofSp-147,GoofWaGhofSp-149
+GoofWaGhofSp-149,THE DOMAIN OF DEATH,,KRATOS,Deimos!,,N,GoofWaGhofSp-148,GoofWaGhofSp-150
+GoofWaGhofSp-150,THE DOMAIN OF DEATH,,,[Kratos looses his mind in rage and destroy Thanatos. He takes the body of his brother in his arms and carries along the Path of Solitude.],,Y,GoofWaGhofSp-149,GoofWaGhofSp-151
+GoofWaGhofSp-151,THE DOMAIN OF DEATH,,KRATOS,You are free now… brother.,,N,GoofWaGhofSp-150,GoofWaGhofSp-152
+GoofWaGhofSp-152,THE DOMAIN OF DEATH,,,[The gravedigger (from the first game) begin to prepare a new grave. Kratos comes to an edge of the cliff...],,Y,GoofWaGhofSp-151,GoofWaGhofSp-153
+GoofWaGhofSp-153,THE DOMAIN OF DEATH,,KRATOS,"By the gods, what have I become?",,N,GoofWaGhofSp-152,GoofWaGhofSp-154
+GoofWaGhofSp-154,THE DOMAIN OF DEATH,,THE GRAVEDIGGER,Death. The destroyer... of worlds.,,N,GoofWaGhofSp-153,GoofWaGhofSp-155
+GoofWaGhofSp-155,THE DOMAIN OF DEATH,,ATHENA,It is done. You have let go of that which made you mortal. Your ties to this world are severed. You are ready… to be a god.,,N,GoofWaGhofSp-154,GoofWaGhofSp-156
+GoofWaGhofSp-156,THE DOMAIN OF DEATH,,,"[He touches his head and start to transfer gods powers, but Kratos refuses.]",,Y,GoofWaGhofSp-155,GoofWaGhofSp-157
+GoofWaGhofSp-157,THE DOMAIN OF DEATH,,KRATOS,"Is this all a game to you, Athena?!!! Its not over, Athena. The gods will pay for this.",,N,GoofWaGhofSp-156,GoofWaGhofSp-158
+GoofWaGhofSp-158,THE DOMAIN OF DEATH,,ATHENA,Forgive me... brother.,,N,GoofWaGhofSp-157,GoofWaGhofSp-159
+GoofWaGhofSp-159,THE DOMAIN OF DEATH,,,[Additional scene. The Gravedigger put the body of Kratos’s mother to a grave.],,Y,GoofWaGhofSp-158,GoofWaGhofSp-160
+GoofWaGhofSp-160,THE DOMAIN OF DEATH,,THE GRAVEDIGGER,"Now, only one remains…",,N,GoofWaGhofSp-159,GoofWaGhofSp-161

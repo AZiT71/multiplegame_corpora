@@ -1,0 +1,948 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+Te2-1,,,﻿PART 1,RIKIMARU,,N,,Te2-2
+Te2-3,,,,[We see a few shots of the peaceful Japanese village’s life. Then the camera switches to the young ninja and his teacher.],,Y,Te2-2,Te2-4
+Te2-4,,,???,"You have learned much, but I would expect that from one raised childhood to be an Azuma Ninja.",,N,Te2-3,Te2-5
+Te2-5,,,,"[We learn that the name of the teacher is Azuma Shiunsai, the head of the Azuma Ninja Clan.]",,Y,Te2-4,Te2-6
+Te2-6,,,Azuma Shiunsai,Now it is time to complete your training. Come into my house.,,N,Te2-5,Te2-7
+Te2-7,The Training Course,,,[Rikimaru go through a series of tests aimed at learning the basics of ninja skills.],,Y,Te2-6,Te2-8
+Te2-17,The Training Course,,,"[Once the training is over, the young ninja returns to his teacher's home.]",,Y,Te2-16,Te2-18
+Te2-18,The Training Course,,Young Ninja,"Test my strength, master. I am ready to be a ninja!",,N,Te2-17,Te2-19
+Te2-19,The Training Course,,Azuma Shiunsai,"You are strong, Rikimaru, but you have much to learn before you can be a ninja.",,N,Te2-18,Te2-20
+Te2-20,The Training Course,,,[The teacher pulls the rope and the secret hatch under Rikimaru swings open.],,Y,Te2-19,Te2-21
+Te2-21,The Training Course,,Rikimaru,Whoa!,,N,Te2-20,Te2-22
+Te2-22,The Training Course,,,[Rikimaru lands in the depths of the cave.],,Y,Te2-21,Te2-23
+Te2-23,The Training Course,,Azuma Shiunsai,Come back when you can survive as a ninja!,,N,Te2-22,Te2-24
+Te2-24,A Test from the Master,,,"[Now Rikimaru needs to get out of the cave quietly killing enemies and avoiding traps, like spikes and falling floor tiles.]",,Y,Te2-23,Te2-25
+Te2-25,A Test from the Master,,,"[After we manage to get out of the cave, the scene changes, and we see the teacher Shiunsai sitting in a secret cave behind a waterfall. The teacher hands Rikimaru a scroll.]",,Y,Te2-24,Te2-26
+Te2-26,A Test from the Master,,Azuma Shiunsai,"So, you have survived the training. You are now an Azuma Ninja, Rikimaru. But you still have much to learn.",,N,Te2-25,Te2-27
+Te2-27,A Test from the Master,,Rikimaru,"I’m honored to serve, master Shiunsai.",,N,Te2-26,Te2-28
+Te2-28,A Test from the Master,,,"[The scene changes. The master stands facing the waterfall and holding his hands behind his back, gives his student the first serious task.]",,Y,Te2-27,Te2-29
+Te2-29,A Test from the Master,,Azuma Shiunsai,Thieves and mountain bandits have joined forces to prey on local farmers. They lurk in an abandoned village. Attack them by daylight then the bandits are gone and the thieves are sleeping.,,N,Te2-28,Te2-30
+Te2-30,A Test from the Master,,Rikimaru,"Yes, master.",,N,Te2-29,Te2-31
+Te2-31,The Gang of Thieves,,,"[Rikimaru cautiously walks through the village carving the thieves while they sleep. In the depths of the village he finds a Shinto shrine where he sees Garan, the leader of thieves throwing knives into a bound woman.]",,Y,Te2-30,Te2-32
+Te2-32,The Gang of Thieves,,Woman,Help! No! Please!,,N,Te2-31,Te2-33
+Te2-33,The Gang of Thieves,,Garan,"Hahaha! Dance, woman!",,N,Te2-32,Te2-34
+Te2-34,The Gang of Thieves,,Woman,"Please, stop!",,N,Te2-33,Te2-35
+Te2-35,The Gang of Thieves,,Garan,I’ll stop when you die!,,N,Te2-34,Te2-36
+Te2-36,The Gang of Thieves,,,"[Garan throws another knife, but suddenly Rikimaru appears and parry it with his sword.]",,Y,Te2-35,Te2-37
+Te2-37,The Gang of Thieves,,Garan,What?! Who are you?,,N,Te2-36,Te2-38
+Te2-38,The Gang of Thieves,,Rikimaru,The heavens demand retribution and I will deliver it!,,N,Te2-37,Te2-39
+Te2-39,The Gang of Thieves,,,[The fight begins. Rikimaru wins.],,Y,Te2-38,Te2-40
+Te2-40,The Gang of Thieves,,Garan,"Boran, where are you when I need you?",,N,Te2-39,Te2-41
+Te2-41,The Gang of Thieves,,,[Garan dies. The woman crawls on her knees to Rikimaru.],,Y,Te2-40,Te2-42
+Te2-42,The Gang of Thieves,,Woman,"Wait, please! Who are you?",,N,Te2-41,Te2-43
+Te2-43,The Gang of Thieves,,Rikimaru,I am a shadow. I have no name!,,N,Te2-42,Te2-44
+Te2-44,The Gang of Thieves,,,[Rikimaru disappears with a dramatic jump.],,Y,Te2-43,Te2-45
+Te2-45,Treason at Gohda Castle,,ACT I,THE RED LOTUS (紅蓮],,N,Te2-44,Te2-46
+Te2-47,Treason at Gohda Castle,,Skilled Ninja,"Rikimaru, master Shiunsai calls us.",,N,Te2-46,Te2-48
+Te2-48,Treason at Gohda Castle,,Rikimaru,On my way.,,N,Te2-47,Te2-49
+Te2-49,Treason at Gohda Castle,,,"[They go to the teacher's house, accompanied by a ninja girl.]",,Y,Te2-48,Te2-50
+Te2-50,Treason at Gohda Castle,,Ninja Girl, What are you two doing here?,(giggles) ,N,Te2-49,Te2-51
+Te2-51,Treason at Gohda Castle,,Azuma Shiunsai,"My students, rebellion has broken out in the House of Gohda. Our honorable Lord Gohda is in danger from his own Uncle Sire Motohide. If the Lord we serve falls to a dishonorable traitor, we, Azuma ninjas will stand for nothing. Go to Gohda Castle and protect Lord Gohda with your lives. This is the ancestral sword, Izayoi. The spirit of the Azuma Ninja.",,N,Te2-50,Te2-52
+Te2-52,Treason at Gohda Castle,,,"[While the teacher speaks we see the names of unknown characters - the girl's name is Ayame, and the guy's name is Tatsumaru.]",,Y,Te2-51,Te2-53
+Te2-53,Treason at Gohda Castle,,Azuma Shiunsai,"Tatsumaru, it is yours. Today, you replace me as Master Ninja. May honor guide your hand.",,N,Te2-52,Te2-54
+Te2-54,Treason at Gohda Castle,,Tatsumaru,Master…,,N,Te2-53,Te2-55
+Te2-55,Treason at Gohda Castle,,Rikimaru,But…,,N,Te2-54,Te2-56
+Te2-56,Treason at Gohda Castle,,Ayame,No!,,N,Te2-55,Te2-57
+Te2-57,Treason at Gohda Castle,,Azuma Shiunsai,"The powerful must know when to pass along their power. As you three graduate to new roles, I also ascend.",,N,Te2-56,Te2-58
+Te2-58,Treason at Gohda Castle,,Rikimaru,Very well.,,N,Te2-57,Te2-59
+Te2-59,Treason at Gohda Castle,,Tatsumaru,I obey.,,N,Te2-58,Te2-60
+Te2-60,Treason at Gohda Castle,,Ayame,"Yes, master.",,N,Te2-59,Te2-61
+Te2-61,Treason at Gohda Castle,,,"[The scene changes, and we see Lord Gohda's castle on fire. A ninja kills an innocent woman... fire, blood and death everywhere. Barely standing woman is trying to leave the castle, but meets our heroes.]",,Y,Te2-60,Te2-62
+Te2-62,Treason at Gohda Castle,,Woman,Please! Don’t kill me!,,N,Te2-61,Te2-63
+Te2-63,Treason at Gohda Castle,,Rikimaru,"It’s okay, we’re here to help.",,N,Te2-62,Te2-64
+Te2-64,Treason at Gohda Castle,,Woman,Oh thank goodness. His Lordship is still inside; so are Lady Kei and Princess Kiku!,,N,Te2-63,Te2-65
+Te2-65,Treason at Gohda Castle,,Tatsumaru,"Ayame, find Lady Kei and the Princess. Rikimaru, come with me. We must rescue Lord Gohda.",,N,Te2-64,Te2-66
+Te2-66,Treason at Gohda Castle,,,"[Next scene. Rikimaru and Tatsumaru run along the wall, but suddenly Tatsumaru notices someone and stops.]",,Y,Te2-65,Te2-67
+Te2-67,Treason at Gohda Castle,,Tatsumaru,"Wait, Rikimaru. Go find his Lordship. I’ll catch up later.",,N,Te2-66,Te2-68
+Te2-68,Treason at Gohda Castle,,,"[Rikimaru quietly passes through the burning castle of Lord Gohda, carving out the guard. He climbing to the top floor, clinging to the wall and listening to the Gohda's conversation with his uncle.]",,Y,Te2-67,Te2-69
+Te2-69,Treason at Gohda Castle,,Gohda Motohide,The world is torn apart by war! I am the house of Gohda's only hope; the peasants must learn their place!,,N,Te2-68,Te2-70
+Te2-70,Treason at Gohda Castle,,Gohda Matsunoshin,"You’re wrong, Uncle! The people are the soul of this land!",,N,Te2-69,Te2-71
+Te2-71,Treason at Gohda Castle,,Gohda Motohide,Enough talk! Yah!,,N,Te2-70,Te2-72
+Te2-72,Treason at Gohda Castle,,,"[They fight and Gohda Matsunoshin wins, but he lacks the spirit to strike the final blow. Motohide takes out the musket.]",,Y,Te2-71,Te2-73
+Te2-73,Treason at Gohda Castle,,Gohda Motohide,Compassionate fool!,,N,Te2-72,Te2-74
+Te2-74,Treason at Gohda Castle,,,[Motohide shoots. Rikimaru runs into the room.],,Y,Te2-73,Te2-75
+Te2-75,Treason at Gohda Castle,,Rikimaru,My Lord!,,N,Te2-74,Te2-76
+Te2-76,Treason at Gohda Castle,,,[The fight begins. Rikimaru defeat Gohda Motohide.],,Y,Te2-75,Te2-77
+Te2-77,Treason at Gohda Castle,,Gohda Motohide,How humiliating! Defeated by a servant.,,N,Te2-76,Te2-78
+Te2-78,Treason at Gohda Castle,,Rikimaru,Sire Motohide! Prepare to die!,,N,Te2-77,Te2-79
+Te2-79,Treason at Gohda Castle,,,"[While Rikimaru swings, Gohda Matsunoshin runs out in slow motion and puts his back under the sword, saving Motorhide. Rikimaru falls to his knees.]",,Y,Te2-78,Te2-80
+Te2-80,Treason at Gohda Castle,,Rikimaru,No...,,N,Te2-79,Te2-81
+Te2-81,Treason at Gohda Castle,,Gohda Motohide,Hehehe...,,N,Te2-80,Te2-82
+Te2-82,Treason at Gohda Castle,,,[Motohide runs away.],,Y,Te2-81,Te2-83
+Te2-83,Treason at Gohda Castle,,Gohda Matsunoshin,"Identify yourself, ninja.",,N,Te2-82,Te2-84
+Te2-84,Treason at Gohda Castle,,Rikimaru,"Rikimaru of the Azuma Ninja, my Lord.",,N,Te2-83,Te2-85
+Te2-85,Treason at Gohda Castle,,Gohda Matsunoshin,"Ah, Rikimaru, I didn’t recognize you.",,N,Te2-84,Te2-86
+Te2-86,Treason at Gohda Castle,,Rikimaru,"My Lord, I tried to kill the traitor, but I have dishonored myself by striking you.",,N,Te2-85,Te2-87
+Te2-87,Treason at Gohda Castle,,Gohda Matsunoshin,"Nonsense, you did not mean to injure me. My Uncle, he is misguided, but he is trying to save the land.",,N,Te2-86,Te2-88
+Te2-88,Treason at Gohda Castle,,,[A one-eyed samurai with two swords rushes into the room.],,Y,Te2-87,Te2-89
+Te2-89,Treason at Gohda Castle,,Samurai,Assassin!,,N,Te2-88,Te2-90
+Te2-90,Treason at Gohda Castle,,Gohda Matsunoshin,"Jubei stop! It’s Rikimaru, he saved my life!",,N,Te2-89,Te2-91
+Te2-91,Treason at Gohda Castle,,Tachibana Jubei,"Rikimaru, the ruffian master Shiunsai was training. Hmmm, well you have my thanks, but my Lord, Motohide’s soldiers have broken into the castle! You must flee! Use the secret exit!",,N,Te2-90,Te2-92
+Te2-92,Treason at Gohda Castle,,Gohda Matsunoshin,I will not leave the castle while my wife and daughter are still here.,,N,Te2-91,Te2-93
+Te2-93,Treason at Gohda Castle,,Tachibana Jubei,"Please my lord, they will kill you!",,N,Te2-92,Te2-94
+Te2-94,Treason at Gohda Castle,,Rikimaru,"Lady Kei and Princess Kiku are in good hands. Ayame went to rescue them. My Lord, what of the people? What will become of them if you die today?",,N,Te2-93,Te2-95
+Te2-95,Treason at Gohda Castle,,,[Several soldiers try to attack the heroes.],,Y,Te2-94,Te2-96
+Te2-96,Treason at Gohda Castle,,Soldier,DIE!,,N,Te2-95,Te2-97
+Te2-97,Treason at Gohda Castle,,,[Jubei deftly kills them.],,Y,Te2-96,Te2-98
+Te2-98,Treason at Gohda Castle,,Tachibana Jubei,"My lord... I beg you, take the secret passage. Rikimaru — protect him! Go! I can’t hold them off forever.",,N,Te2-97,Te2-99
+Te2-99,Treason at Gohda Castle,,,[The scene changes and we see Rikimaru and Lord Matsunoshin looking at the burning castle. Lord Matsunoshin begins to cry and falls to his knees.],,Y,Te2-98,Te2-100
+Te2-100,Treason at Gohda Castle,,Gohda Matsunoshin,My castle burns… all is lost… if only these tears can quench the flames.,,N,Te2-99,Te2-101
+Te2-101,Treason at Gohda Castle,,Rikimaru,My Lord…,,N,Te2-100,Te2-102
+Te2-102,Treason at Gohda Castle,,Gohda Matsunoshin,What a pathetic being I have become…,,N,Te2-101,Te2-103
+Te2-103,Treason at Gohda Castle,,,[A man is approaching him on a horse.],,Y,Te2-102,Te2-104
+Te2-104,Treason at Gohda Castle,,Man,Lord Gohda? Are you all right?,,N,Te2-103,Te2-105
+Te2-105,Treason at Gohda Castle,,Gohda Matsunoshin,Sekiya… I am glad to see you alive.,,N,Te2-104,Te2-106
+Te2-106,Treason at Gohda Castle,,,"[The man turns out to be Sekiya Naotada, counselor of old Lord Gohda.]",,Y,Te2-105,Te2-107
+Te2-107,Treason at Gohda Castle,,Sekiya Naotada,"You must be Rikimaru, Jubei told me how you saved Lord Gohda’s live. I am in your debt.",,N,Te2-106,Te2-108
+Te2-108,Treason at Gohda Castle,,Rikimaru,Saved? It is my sword that--,,N,Te2-107,Te2-109
+Te2-109,Treason at Gohda Castle,,Gohda Matsunoshin,Sekiya… Where are Kei and Kiku?,,N,Te2-108,Te2-110
+Te2-110,Treason at Gohda Castle,,Sekiya Naotada,Oh… my Lord… They are…,,N,Te2-109,Te2-111
+Te2-111,Treason at Gohda Castle,,Gohda Matsunoshin,What is it? Tell me!,,N,Te2-110,Te2-112
+Te2-112,Treason at Gohda Castle,,Sekiya Naotada,"My Lord… I regret to inform you… that your wife, Lady Kei… has been killed. And your daughter, Princess Kiku… kidnapped. Ayame is chasing the kidnapper, but my Lord… The kidnapper… The murderer… is your Uncle… Motohide.",,N,Te2-111,Te2-113
+Te2-113,Treason at Gohda Castle,,Gohda Matsunoshin,What?! Motohide?,,N,Te2-112,Te2-114
+Te2-114,Treason at Gohda Castle,,Rikimaru,"It is my fault, my Lord. I should have been there…",,N,Te2-113,Te2-115
+Te2-115,Treason at Gohda Castle,,Gohda Matsunoshin,"There is no fault of yours, Rikimaru. The blame is mine. And I must bear it… ALONE!",,N,Te2-114,Te2-116
+Te2-116,Treason at Gohda Castle,,Rikimaru,My Lord…,,N,Te2-115,Te2-117
+Te2-117,Treason at Gohda Castle,,Sekiya Naotada,"My Lord, the enemy has taken advantage of the rebellion to move against us. Toda’s troops have crossed our border! What is your command?",,N,Te2-116,Te2-118
+Te2-118,Treason at Gohda Castle,,Gohda Matsunoshin,Toda think my Uncle’s treason leave us helpless? I'll kill that coward myself!,,N,Te2-117,Te2-119
+Te2-119,Treason at Gohda Castle,,,[He impotently falls to his knees.],,Y,Te2-118,Te2-120
+Te2-120,Treason at Gohda Castle,,Rikimaru,"I will find Toda, my Lord, and bring you his head!",,N,Te2-119,Te2-121
+Te2-121,Treason at Gohda Castle,,,[Rikimaru takes a few steps back.],,Y,Te2-120,Te2-122
+Te2-122,Treason at Gohda Castle,,Gohda Matsunoshin,Rikimaru?,,N,Te2-121,Te2-123
+Te2-123,Treason at Gohda Castle,,Rikimaru,"Please, my Lord. If you die this day, sire Motohide will rule.",,N,Te2-122,Te2-124
+Te2-124,Treason at Gohda Castle,,,"[Next scene. Rikimaru stands at the entrance to the camp, enduring a strong wind and rain. He speaks to himself.]",,Y,Te2-123,Te2-125
+Te2-125,Treason at Gohda Castle,,Rikimaru,Toda! Your time is at hand!,,N,Te2-124,Te2-126
+Te2-126,Lord Toda's War Camp,,,"[The heavy rain worsens the visibility, so Rikimaru has to walk carefully through the camp, killing the soldiers. After walking deep into the camp, he is stopped by a knife thrown under his feet. The owner of the knife, a ninja in a golden mask, jumps off a tall tree.]",,Y,Te2-125,Te2-127
+Te2-127,Lord Toda's War Camp,,Suzaku,I am Suzaku the Red Sparrow. You may not pass beyond this…,,N,Te2-126,Te2-128
+Te2-128,Lord Toda's War Camp,,Rikimaru,Stand aside!,,N,Te2-127,Te2-129
+Te2-129,Lord Toda's War Camp,,Suzaku,"What’s your hurry, hero? Stay and play.",,N,Te2-128,Te2-130
+Te2-130,Lord Toda's War Camp,,,[They fight and Rikimaru wins.],,Y,Te2-129,Te2-131
+Te2-131,Lord Toda's War Camp,,Suzaku,"You're good, little ninja. One day you may actually become a worthy opponent for me.",,N,Te2-130,Te2-132
+Te2-132,Lord Toda's War Camp,,,[Suzaku leaves.],,Y,Te2-131,Te2-133
+Te2-133,Lord Toda's War Camp,,Rikimaru,Come back! Forget it… I’ve got to stop Toda. I’ll get Suzaku some other day.,,N,Te2-132,Te2-134
+Te2-134,Lord Toda's War Camp,,,[Next scene. Rikimaru goes into the tent and sees the body of Gohda Motohide in a pool of blood.],,Y,Te2-133,Te2-135
+Te2-135,Lord Toda's War Camp,,Rikimaru,"Looks like you paid a high price for your treason, sire Motohide.",,N,Te2-134,Te2-136
+Te2-136,Lord Toda's War Camp,,,[Going a little further he sees another decapitated body.],,Y,Te2-135,Te2-137
+Te2-137,Lord Toda's War Camp,,Rikimaru,Toda! Who did this to him? Ayame? No… Such a clean cut. Must've been Tatsumaru.,,N,Te2-136,Te2-138
+Te2-138,Lord Toda's War Camp,,,[Rikimaru hears clanging of swords and runs out of the tents.],,Y,Te2-137,Te2-139
+Te2-139,Lord Toda's War Camp,,,"[The camera switches to Ayame, carrying a little girl. She also hears the sound of swords.]",,Y,Te2-138,Te2-140
+Te2-140,Lord Toda's War Camp,,Ayame,"Oh, no!",,N,Te2-139,Te2-141
+Te2-141,Lord Toda's War Camp,,,[We see Tatsumaru fighting with some ninja woman. Rikimaru runs to Ayame.],,Y,Te2-140,Te2-142
+Te2-142,Lord Toda's War Camp,,Ayame,"Rikimaru, protect Princess Kiku!",,N,Te2-141,Te2-143
+Te2-143,Lord Toda's War Camp,,,"[Cutscene: Tatsumaru fights a ninja woman at the top of the cliff. Ayame running to him. Suddenly, part of the rock breaks off. Tatsumaru along with female ninja falls into the sea.]",,Y,Te2-142,Te2-144
+Te2-144,Lord Toda's War Camp,,Ayame,Tatsumaru!,,N,Te2-143,Te2-145
+Te2-145,Lord Toda's War Camp,,,"[Ayame lying on the edge of the rock, looks sadly at the sea. A ribbon from Tatsumaru's clothes is floating on the water.]",,Y,Te2-144,Te2-146
+Te2-146,Lord Toda's War Camp,,ACT II,THE SHIFTING SANDS (流砂 / Quicksand],,N,Te2-145,Te2-147
+Te2-148,Lord Toda's War Camp,,Gohda Matsunoshin,Terrible news from one of our mountain villagers. People are disappearing. The terrified villagers whispers that demons have come for them. Go there. And stop this tragedy.,,N,Te2-147,Te2-149
+Te2-149,Lord Toda's War Camp,,Rikimaru,"As you command, my Lord.",,N,Te2-148,Te2-150
+Te2-150,The Demon Mountain,,,"[Next scene. The camera focuses on the monkey, and then moves on to the villager running away from a gangster wearing a demon mask with a long nose.]",,Y,Te2-149,Te2-151
+Te2-151,The Demon Mountain,,Villager,"Hey! Somebody, help me!",,N,Te2-150,Te2-152
+Te2-152,The Demon Mountain,,Masked Bandit,Go ahead and scream! We're in the middle of nowhere! Ain’t nobody gonna hear ya... or care!,,N,Te2-151,Te2-153
+Te2-153,The Demon Mountain,,Villager,Please!!! Somebody!!!,,N,Te2-152,Te2-154
+Te2-154,The Demon Mountain,,Masked Bandit,Hahaha!!!,,N,Te2-153,Te2-155
+Te2-155,The Demon Mountain,,,[The bandit knocks down the villager and put him on his shoulder.],,Y,Te2-154,Te2-156
+Te2-156,The Demon Mountain,,Rikimaru,You’re pretty sad excuse for a demon!,,N,Te2-155,Te2-157
+Te2-157,The Demon Mountain,,Masked Bandit,Who are you?,,N,Te2-156,Te2-158
+Te2-158,The Demon Mountain,,Rikimaru,I am the man who will cut off your nose. At the neck.,,N,Te2-157,Te2-159
+Te2-159,The Demon Mountain,,,[The bandit throws the villager and leaping into the mountains.],,Y,Te2-158,Te2-160
+Te2-160,The Demon Mountain,,,"[Rikimaru climbs the mountains and kills the bandits. After a while, he finds a small hut.]",,Y,Te2-159,Te2-161
+Te2-161,The Demon Mountain,,Villager,"Oh, thank you! Thank you!",,N,Te2-160,Te2-162
+Te2-162,The Demon Mountain,,Villager,"Here, you might need this.",,N,Te2-161,Te2-163
+Te2-163,The Demon Mountain,,,"[Suddenly, a bandit with two sickle attacked from above and strike the villager. His name is Katadoma. He’s a demon-ninja and leader of the bandits of the Burning Dawn.]",,Y,Te2-162,Te2-164
+Te2-164,The Demon Mountain,,Katadoma,"Hahaha! That’ll teach you to run away, peasant!",,N,Te2-163,Te2-165
+Te2-165,The Demon Mountain,,Rikimaru,You coward! He had no weapon!,,N,Te2-164,Te2-166
+Te2-166,The Demon Mountain,,Katadoma,Hahahaha! He’s a peasant! An insect!,,N,Te2-165,Te2-167
+Te2-167,The Demon Mountain,,Rikimaru,"Insect that better than you, murderer!",,N,Te2-166,Te2-168
+Te2-168,The Demon Mountain,,,[The battle begins. Rikimaru wins.],,Y,Te2-167,Te2-169
+Te2-169,The Demon Mountain,,Katadoma,Hahahaha! Ohhhh…,,N,Te2-168,Te2-170
+Te2-170,The Demon Mountain,,,[Rikimaru cuts his throat.],,Y,Te2-169,Te2-171
+Te2-171,The Demon Mountain,,Rikimaru,You shall die in silence!,,N,Te2-170,Te2-172
+Te2-172,The Demon Mountain,,,"[Next scene. Rikimaru approaches the dying villager, who hands him an envelope.]",,Y,Te2-171,Te2-173
+Te2-173,The Demon Mountain,,Villager,Take… Take this.,,N,Te2-172,Te2-174
+Te2-174,The Demon Mountain,,Rikimaru,What is it?,,N,Te2-173,Te2-175
+Te2-175,The Demon Mountain,,Villager,"The map that shows the secret harbor… Please, save our village!",,N,Te2-174,Te2-176
+Te2-176,The Demon Mountain,,,[The villager dies.],,Y,Te2-175,Te2-177
+Te2-177,The Demon Mountain,,Rikimaru,"Your death will not be in vain. I, Rikimaru, swear it. I’ve got to save those villagers!",,N,Te2-176,Te2-178
+Te2-178,The Demon Mountain,,,"[The scene changes. Night. Rikimaru walks down a narrow mountain pass, sees several soldiers with spears.]",,Y,Te2-177,Te2-179
+Te2-179,The Demon Mountain,,Rikimaru,What is that?,,N,Te2-178,Te2-180
+Te2-180,The Secret Harbor,,,"[Rikimaru explores the harbor, simultaneously killing ordinary soldiers with a spear and new enemies - soldiers with rifles. Having got through the guards, Rikimaru gets on a ship in which he finds the missing villagers.]",,Y,Te2-179,Te2-181
+Te2-181,The Secret Harbor,,Villager,Thank you for saving us!,,N,Te2-180,Te2-182
+Te2-182,The Secret Harbor,,Rikimaru,Hurry! Get out of here!,,N,Te2-181,Te2-183
+Te2-183,The Secret Harbor,,,"[From the next cabin comes Wang Xiaohai, the leader of the Baoliusung Gang.]",,Y,Te2-182,Te2-184
+Te2-184,The Secret Harbor,,Wang Xiaohai,Rude person! In China guests not leave without thanking hosts!,,N,Te2-183,Te2-185
+Te2-185,The Secret Harbor,,Rikimaru,"Ah, but you’re my guest while you’re in Japan. And YOU have overstayed your welcome!",,N,Te2-184,Te2-186
+Te2-186,The Secret Harbor,,,[The battle begins. Rikimaru defeats Wang.],,Y,Te2-185,Te2-187
+Te2-187,The Secret Harbor,,Wang Xiaohai," Defeated… By a barbarian dog… I’m sorry, father…",(cough) ,N,Te2-186,Te2-188
+Te2-188,The Secret Harbor,,,[Wang Xiaohai dies.],,Y,Te2-187,Te2-189
+Te2-189,The Secret Harbor,,,[After a while Rikimaru is attacked by a masked ninja. They exchanges a couple of short blows.],,Y,Te2-188,Te2-190
+Te2-190,The Secret Harbor,,Rikimaru,Who are you?,,N,Te2-189,Te2-191
+Te2-191,The Secret Harbor,,,[The masked ninja takes out his sword.],,Y,Te2-190,Te2-192
+Te2-192,The Secret Harbor,,Rikimaru,That blade… It’s Izayoi!,,N,Te2-191,Te2-193
+Te2-193,The Secret Harbor,,,[The masked ninja takes off the mask.],,Y,Te2-192,Te2-194
+Te2-194,The Secret Harbor,,Rikimaru,Tatsumaru! You’re alive!,,N,Te2-193,Te2-195
+Te2-195,The Secret Harbor,,Ninja,Who’s Tatsumaru? I am Seiryu the Blue Dragon! One of the four Lords of the Burning Dawn!,,N,Te2-194,Te2-196
+Te2-196,The Secret Harbor,,,[Seiryu attacks Rikimaru.],,Y,Te2-195,Te2-197
+Te2-197,The Secret Harbor,,Rikimaru,"Burning Dawn? What are you talking about? You’re Tatsumaru, leader of the Azuma Ninja.",,N,Te2-196,Te2-198
+Te2-198,The Secret Harbor,,Seiryu,I have no time to talk to a mad man.,,N,Te2-197,Te2-199
+Te2-199,The Secret Harbor,,Rikimaru,"Tatsumaru! It’s me, Rikimaru!",,N,Te2-198,Te2-200
+Te2-200,The Secret Harbor,,,[Seiryu jumps and disappears.],,Y,Te2-199,Te2-201
+Te2-201,The Secret Harbor,,,"[Next scene. Rikimaru is talking with his teacher, Shiunsai.]",,Y,Te2-200,Te2-202
+Te2-202,The Secret Harbor,,Azuma Shiunsai,"So, Tatsumaru survived the fall… Hmm…",,N,Te2-201,Te2-203
+Te2-203,The Secret Harbor,,Rikimaru,But how could the enemy trick him into joining them?,,N,Te2-202,Te2-204
+Te2-204,The Secret Harbor,,Azuma Shiunsai,Tatsumaru would never fall to a simple trick! There are unseen forces at work.,,N,Te2-203,Te2-205
+Te2-205,The Secret Harbor,,Rikimaru,"Master, could it be that he’s forgotten who he is?",,N,Te2-204,Te2-206
+Te2-206,The Secret Harbor,,Azuma Shiunsai,"Even if that is so, we still bear the responsibility for his actions. If he has dishonored himself only death at hands of an Azuma Ninja will purify him. You must be prepared to kill him.",,N,Te2-205,Te2-207
+Te2-207,The Secret Harbor,,,[Lord Gohda Matsunoshin enters the house.],,Y,Te2-206,Te2-208
+Te2-208,The Secret Harbor,,Gohda Matsunoshin,Shiunsai! The temple has been overrun… some group called The Burning Dawn…,,N,Te2-207,Te2-209
+Te2-209,The Secret Harbor,,Rikimaru,Burning Dawn?,,N,Te2-208,Te2-210
+Te2-210,The Secret Harbor,,Gohda Matsunoshin,You’ve heard of them?,,N,Te2-209,Te2-211
+Te2-211,The Secret Harbor,,Rikimaru,I…,,N,Te2-210,Te2-212
+Te2-212,The Secret Harbor,,Azuma Shiunsai,Rikimaru… Your answers lie within the temple. Go now and find the truth!,,N,Te2-211,Te2-213
+Te2-213,The Secret Harbor,,Gohda Matsunoshin,Hurry. We’re counting on you.,,N,Te2-212,Te2-214
+Te2-214,The Secret Harbor,,Rikimaru,"Yes, my Lord!",,N,Te2-213,Te2-215
+Te2-215,The Secret Harbor,,,[Next scene. Rikimaru runs to the temple.],,Y,Te2-214,Te2-216
+Te2-216,The Secret Harbor,,Rikimaru,I’ll get answers alright. With cold steel.,,N,Te2-215,Te2-217
+Te2-217,The Secret Harbor,,,[Next scene. We see night views of the temple and its guards.],,Y,Te2-216,Te2-218
+Te2-218,The Secret Harbor,,Rikimaru,"OK, Burning Dawn! Time for some answers!",,N,Te2-217,Te2-219
+Te2-219,The Temple of Dreams,,,"[Rikimaru destroys the guards of the temple, moving mostly under the water. After a while, he finds a small area and swims on it.]",,Y,Te2-218,Te2-220
+Te2-220,The Temple of Dreams,,Rikimaru,Suzaku! I told you I’d catch you!,,N,Te2-219,Te2-221
+Te2-221,The Temple of Dreams,,Suzaku,Span!,,N,Te2-220,Te2-222
+Te2-222,The Temple of Dreams,,,"[All the openings on the court are tightly closed, and a pale girl in a traditional Japanese suit walks down the stairs. This is Yukihotaru, the Ice Firefly, the Burning Dawn female ninja.]",,Y,Te2-221,Te2-223
+Te2-223,The Temple of Dreams,,Yukihotaru,"Let me kill the child ninja for you, my love.",,N,Te2-222,Te2-224
+Te2-224,The Temple of Dreams,,,[The battle begins and Rikimaru wins. Yukihotaku lies in a pool of her own blood.],,Y,Te2-223,Te2-225
+Te2-225,The Temple of Dreams,,Yukihotaru,Su… Suzaku… Hold me… I’m dying…,,N,Te2-224,Te2-226
+Te2-226,The Temple of Dreams,,,[Suzaku mercilessly pierce the dying Yukihotaru with his sword.],,Y,Te2-225,Te2-227
+Te2-227,The Temple of Dreams,,Yukihotaru,Suzaku! My love! How could you!,,N,Te2-226,Te2-228
+Te2-228,The Temple of Dreams,,,[Yukihotaru dies.],,Y,Te2-227,Te2-229
+Te2-229,The Temple of Dreams,,Suzaku,I have no love for weakness! Only power!,,N,Te2-228,Te2-230
+Te2-230,The Temple of Dreams,,,"[Rikimaru looks at him with hatred, ready for battle.]",,Y,Te2-229,Te2-231
+Te2-231,The Temple of Dreams,,Suzaku,So… We meet again. I am Suzaku the Red Sparrow. One of the four Lords of the Burning Dawn.,,N,Te2-230,Te2-232
+Te2-232,The Temple of Dreams,,,[Suzaku takes off his mask. We see a blindfold of his eyes - apparently he is blind.],,Y,Te2-231,Te2-233
+Te2-233,The Temple of Dreams,,Rikimaru,Burning Dawn? What have you done to Tatsumaru?,,N,Te2-232,Te2-234
+Te2-234,The Temple of Dreams,,Suzaku,There is no Tatsumaru. Only Seiryu the Blue Dragon. And we’ve done nothing to him. He chose to throw off the shackle of his old life.,,N,Te2-233,Te2-235
+Te2-235,The Temple of Dreams,,Rikimaru,You lie! Tatsumaru would never--,,N,Te2-234,Te2-236
+Te2-236,The Temple of Dreams,,Suzaku,"Believe what you will, but know this. The Tatsumaru you know is dead. Hahaha!",,N,Te2-235,Te2-237
+Te2-237,The Temple of Dreams,,Rikimaru,No!,,N,Te2-236,Te2-238
+Te2-238,The Temple of Dreams,,Suzaku,Yees! Will you join Tatsumaru and help him create a nation of ninja?,,N,Te2-237,Te2-239
+Te2-239,The Temple of Dreams,,Rikimaru,Nation of ninja?,,N,Te2-238,Te2-240
+Te2-240,The Temple of Dreams,,Suzaku,The era of samurai lordship is over. Now dawn's the age of the ninja! We will rule the world!,,N,Te2-239,Te2-241
+Te2-241,The Temple of Dreams,,Rikimaru,But… Countless thousands will have to die!,,N,Te2-240,Te2-242
+Te2-242,The Temple of Dreams,,Suzaku,We live in the world at war. People die every day.,,N,Te2-241,Te2-243
+Te2-243,The Temple of Dreams,,,"[Suzaku kills a firefly with a single, fast movement of his sword.]",,Y,Te2-242,Te2-244
+Te2-244,The Temple of Dreams,,Suzaku,"But enough arguing. You will join us… eventually. Because you are just like me – a lone wolf, who finds meaning only in the clash of steel on steel, right?",,N,Te2-243,Te2-245
+Te2-245,The Temple of Dreams,,Rikimaru,I--,,N,Te2-244,Te2-246
+Te2-246,The Temple of Dreams,,Suzaku,And besides… soon you will have no one else to turn.,,N,Te2-245,Te2-247
+Te2-247,The Temple of Dreams,,Rikimaru,What do you mean?,,N,Te2-246,Te2-248
+Te2-248,The Temple of Dreams,,Suzaku,You find out soon enough. Hahahaha.,,N,Te2-247,Te2-249
+Te2-249,The Temple of Dreams,,,[He leaves.],,Y,Te2-248,Te2-250
+Te2-250,The Temple of Dreams,,Rikimaru,You’re not getting away this time!,,N,Te2-249,Te2-251
+Te2-251,The Temple of Dreams,,,"[He runs after Suzaku, but he’s already gone. A moment later a mail pigeon flies to Rikimaru and pins him about something.]",,Y,Te2-250,Te2-252
+Te2-252,The Temple of Dreams,,Rikimaru,Ninja village? Under attack?! It can’t be!,,N,Te2-251,Te2-253
+Te2-253,The Temple of Dreams,,,[Next scene. Rikimaru runs into the village. Fire and death all over. Rikimaru sees a ninja woman killing an old man.],,Y,Te2-252,Te2-254
+Te2-254,The Temple of Dreams,,Old man,Ri… Rikimaru…,,N,Te2-253,Te2-255
+Te2-255,The Temple of Dreams,,,[The old man dies.],,Y,Te2-254,Te2-256
+Te2-256,The Temple of Dreams,,Rikimaru,You call yourself a ninja?! Your crimes are unforgivable!,,N,Te2-255,Te2-257
+Te2-257,The Temple of Dreams,,Woman Ninja,You must be Rikimaru. A young man who’s been so busy interfering with my great work.,,N,Te2-256,Te2-258
+Te2-258,The Temple of Dreams,,Rikimaru,Great work? Destroying the ninja?!,,N,Te2-257,Te2-259
+Te2-259,The Temple of Dreams,,Woman Ninja,"I’m the savior of the ninja! I’m Kagami, the leader of the Burning Dawn!",,N,Te2-258,Te2-260
+Te2-260,The Temple of Dreams,,Rikimaru,What kind of savior slaughters innocent people?,,N,Te2-259,Te2-261
+Te2-261,The Temple of Dreams,,Kagami,"The path I take is not important. Only my success. And you’re in the way of that success, young Rikimaru! First the mountain village, then my secret harbor… (tut-tut]",,N,Te2-260,Te2-262
+Te2-262,The Temple of Dreams,,Rikimaru,"If you’re angry with me, why attack this village?",,N,Te2-261,Te2-263
+Te2-263,The Temple of Dreams,,Kagami,"Hah, I’m not angry at all! Haha. I’ve mastered my passions. I can be selfless in service to my dream… Now I know… I did it to touch the world less on me. Oppose me and watch you loved ones suffer!",,N,Te2-262,Te2-264
+Te2-264,The Temple of Dreams,,,"[Next scene. Rikimaru breaks the door to Azuma Shiunsai's house, killing a soldier, while Shiunsai and Lord Gohda Matsunoshin, fighting back to back, killing their opponents.]",,Y,Te2-263,Te2-265
+Te2-265,The Temple of Dreams,,Rikimaru,My master! My Lord! I’m glad to see you both safe.,,N,Te2-264,Te2-266
+Te2-266,The Temple of Dreams,,Azuma Shiunsai,Rikimaru! I’ll protect Lord Gohda. You must save the villagers.,,N,Te2-265,Te2-267
+Te2-267,The Temple of Dreams,,Rikimaru,"Yes, master.",,N,Te2-266,Te2-268
+Te2-268,Ninja Village Under Attack,,,"[The soldiers of the Burning Dawn flooded the ninja village. Rikimaru mercilessly kills all of them, then he hears the scream of his teacher.]",,Y,Te2-267,Te2-269
+Te2-269,Ninja Village Under Attack,,Rikimaru,Master!,,N,Te2-268,Te2-270
+Te2-270,Ninja Village Under Attack,,,"[When he arrives at Shiunsai's house, he finds his teacher and Lord Gohda dead, and their killer... Seiryu. Rikimaru takes out a sword. Seiryu takes his own.]",,Y,Te2-269,Te2-271
+Te2-271,Ninja Village Under Attack,,Rikimaru,Tatsumaru! You have betrayed your clan and your family! You will DIE!,,N,Te2-270,Te2-272
+Te2-272,Ninja Village Under Attack,,,"[Seiryu does not use weapons, and after a few strikes, the fight ends. Seiryu falls to the ground and Rikimaru swings for the final blow.]",,Y,Te2-271,Te2-273
+Te2-273,Ninja Village Under Attack,,Rikimaru,Tatsumaru… prepare to DIE!,,N,Te2-272,Te2-274
+Te2-274,Ninja Village Under Attack,,Seiryu,What’s wrong with you? Do it!,,N,Te2-273,Te2-275
+Te2-275,Ninja Village Under Attack,,Rikimaru,I… I can’t…,,N,Te2-274,Te2-276
+Te2-276,Ninja Village Under Attack,,,"[Rikimaru swings the sword, but the blow does not reach the target. As Rikimaru hesitates, Seiryu takes out his sword and is about to strike. Rikimaru has every chance to repel the blow, but takes away the weapon and turns away, resulting in a scar on his right eye. We hear a scream from outside of the house and a corpse of old man crushing in, breaking the wall. In the formed opening we see Kagami.]",,Y,Te2-275,Te2-277
+Te2-277,Ninja Village Under Attack,,Kagami,"Never start a fight you’re not prepared to finish, boy.",,N,Te2-276,Te2-278
+Te2-278,Ninja Village Under Attack,,Rikimaru,YOU!,,N,Te2-277,Te2-279
+Te2-279,Ninja Village Under Attack,,Kagami,Seiryu? We’re leaving.,,N,Te2-278,Te2-280
+Te2-280,Ninja Village Under Attack,,Seiryu,Yes.,,N,Te2-279,Te2-281
+Te2-281,Ninja Village Under Attack,,Rikimaru,You’re not going anywhere!,,N,Te2-280,Te2-282
+Te2-282,Ninja Village Under Attack,,,"[Rikimaru tries to attack Kagami, but she easily repels his blow.]",,Y,Te2-281,Te2-283
+Te2-283,Ninja Village Under Attack,,Kagami,"Your anger betrays you. You cannot conquer me if you cannot conquer your feelings. You didn’t kill Seiryu, so I would spare you. Listen carefully, Rikimaru… A new day is dawning. Conquer your emotions, attain selflessness and then I let you join us.",,N,Te2-282,Te2-284
+Te2-284,Ninja Village Under Attack,,,[Kagami and Seiryu leave.],,Y,Te2-283,Te2-285
+Te2-285,Ninja Village Under Attack,,Azuma Shiunsai,Rik… Rikimaru…,,N,Te2-284,Te2-286
+Te2-286,Ninja Village Under Attack,,Rikimaru,Master Shiunsai!,,N,Te2-285,Te2-287
+Te2-287,Ninja Village Under Attack,,Azuma Shiunsai,"Rikimaru! You must recover the sword, Izayoi. The fate of the Azuma Clan now in your hands.",,N,Te2-286,Te2-288
+Te2-288,Ninja Village Under Attack,,Rikimaru,"Yes, Master.",,N,Te2-287,Te2-289
+Te2-289,Ninja Village Under Attack,,Azuma Shiunsai,"Wait! Then you face Tatsumaru, you must not ruled by vengeance or anger. You must be in the state of selflessness or you will fail again.",,N,Te2-288,Te2-290
+Te2-290,Ninja Village Under Attack,,Rikimaru,Master?,,N,Te2-289,Te2-291
+Te2-291,Ninja Village Under Attack,,Azuma Shiunsai,I…  I only prepared you for physical combat. You have not yet mastered the warfare of the spirit! Forgive me!,(coughs) ,N,Te2-290,Te2-292
+Te2-292,Ninja Village Under Attack,,,[Master Shiunsai dies.],,Y,Te2-291,Te2-293
+Te2-293,Ninja Village Under Attack,,Rikimaru,Master…,,N,Te2-292,Te2-294
+Te2-294,Ninja Village Under Attack,,,"[The scene changes. We see Lord Gohda riding a horse. Apparently he survived the attack and only fainted. Next to him is his father's adviser, Sekiya Naotada.]",,Y,Te2-293,Te2-295
+Te2-295,Ninja Village Under Attack,,Gohda Matsunoshin,I must return to the castle! The Burning Dawn will attack again. But they cannot catch me unprepared this time!,,N,Te2-294,Te2-296
+Te2-296,Ninja Village Under Attack,,,[Lord Gohda leaves. Sekiya follows him.],,Y,Te2-295,Te2-297
+Te2-297,Ninja Village Under Attack,,,"[Rikimaru looks at Shunsai's burning house. Semimaru, Azuma's dog-ninja, runs up to him.]",,Y,Te2-296,Te2-298
+Te2-298,Ninja Village Under Attack,,Semimaru,"Woof, woof!",,N,Te2-297,Te2-299
+Te2-299,Ninja Village Under Attack,,Rikimaru,"Semimaru! I’m so glad you’re okay! Good dog! Okay, boy, find Tatsumaru. Find Tatsumaru!",,N,Te2-298,Te2-300
+Te2-300,Ninja Village Under Attack,,Semimaru,(howls],,N,Te2-299,Te2-301
+Te2-301,Ninja Village Under Attack,,,"[The scene changes. Rikimaru, along with Semimaru, finds Ayame sitting by the tree.]",,Y,Te2-300,Te2-302
+Te2-302,Ninja Village Under Attack,,Rikimaru,Ayame? Tatsumaru killed master Shiunsai. I must avenge his DEATH!,,N,Te2-301,Te2-303
+Te2-303,Ninja Village Under Attack,,,[Quick as lightning Ayame pulls her blades out of the sheath and puts them to the throat of Rikimaru.],,Y,Te2-302,Te2-304
+Te2-304,Ninja Village Under Attack,,Ayame,I won't let you kill Tatsumaru.,,N,Te2-303,Te2-305
+Te2-305,Ninja Village Under Attack,,Rikimaru,Ayame! I must! He killed the master!,,N,Te2-304,Te2-306
+Te2-306,Ninja Village Under Attack,,Ayame,No… I will kill Tatsumaru myself!,,N,Te2-305,Te2-307
+Te2-307,Ninja Village Under Attack,,Rikimaru,"What? But… Oh, I see… You’re not seeking vengeance. You act from a state of pure selflessness. Come on, Semimaru! Take us to Tatsumaru!",,N,Te2-306,Te2-308
+Te2-308,Ninja Village Under Attack,,Semimaru,"Woof, woof!",,N,Te2-307,Te2-309
+Te2-309,In Pursuit of Tatsumaru,,,"[Semimaru leads the heroes into the bamboo forest and runs forward. Rikimaru cautiously makes his way through the forest. The forest is thickened and he hardly sees his enemies. Finally, he, along with Ayame, catches up with Semimaru.]",,Y,Te2-308,Te2-310
+Te2-310,In Pursuit of Tatsumaru,,Ayame,Come out! Show yourself!,,N,Te2-309,Te2-311
+Te2-311,In Pursuit of Tatsumaru,,???,"Your senses are chapped for your maneuver. I’m Byakko, the White Tiger, one of the four Lords of the Burning Dawn. What’s that? I agree!  Rejoice, woman! You speaking liking to me…  You have the honor to being eaten by Chiro the Magnificent!  As for you… unsavory man… you will have settled to kill by me!",(to Ayame) (to Semimaru) (to Rikimaru) ,N,Te2-310,Te2-312
+Te2-312,In Pursuit of Tatsumaru,,,[The battle begins. Rikimaru kills Byakko.],,Y,Te2-311,Te2-313
+Te2-313,In Pursuit of Tatsumaru,,Byakko,May Chiro pick your bones clean!,,N,Te2-312,Te2-314
+Te2-314,In Pursuit of Tatsumaru,,,[Byakko dies.],,Y,Te2-313,Te2-315
+Te2-315,In Pursuit of Tatsumaru,,Rikimaru,I guess you weren't so ferocious after all.,,N,Te2-314,Te2-316
+Te2-316,In Pursuit of Tatsumaru,,Semimaru,(howls],,N,Te2-315,Te2-317
+Te2-317,In Pursuit of Tatsumaru,,,"[Semimaru leads the heroes into the cave. He barks, indicating direction.]",,Y,Te2-316,Te2-318
+Te2-318,In Pursuit of Tatsumaru,,Rikimaru,"So Tatsumaru's in this cave? Good boy! Now, Semimaru, you stay here.",,N,Te2-317,Te2-319
+Te2-319,In Pursuit of Tatsumaru,,Semimaru,"Woof, woof!",,N,Te2-318,Te2-320
+Te2-320,In Pursuit of Tatsumaru,,Ayame,I’m going in!,,N,Te2-319,Te2-321
+Te2-321,In Pursuit of Tatsumaru,,,[The heroes leave. Semimaru sadly whines as they go.],,Y,Te2-320,Te2-322
+Te2-322,The Kansen Caverns,,,"[Rikimaru has to use all his skill, since there are a lot of pitfalls in the cave. He stops deep into the cave, noticing something unusual.]",,Y,Te2-321,Te2-323
+Te2-323,The Kansen Caverns,,Rikimaru,What... is... that?,,N,Te2-322,Te2-324
+Te2-324,The Kansen Caverns,,,"[He notices a huge structure in the depths of the cave. Ayame peeks out from behind the boxes and signs him up to sign them, they are hiding behind the boxes together, Seiryu and Kagami are standing at the entrance to the structure.]",,Y,Te2-323,Te2-325
+Te2-325,The Kansen Caverns,,Kagami,"Seiryu… It’s almost finished… The most powerful war ship in history! Finally, my dreams becomes real!",,N,Te2-324,Te2-326
+Te2-326,The Kansen Caverns,,Seiryu,A world ruled by a ninja.,,N,Te2-325,Te2-327
+Te2-327,The Kansen Caverns,,Kagami,"Exactly! We no longer be forced to hide in the night like thieves, we will decide how we live. And how we die!",,N,Te2-326,Te2-328
+Te2-328,The Kansen Caverns,,,[One of the ninja soldiers runs up to Kagami.],,Y,Te2-327,Te2-329
+Te2-329,The Kansen Caverns,,Ninja Soldier,Lady Kagami!,,N,Te2-328,Te2-330
+Te2-330,The Kansen Caverns,,Kagami,Stop shouting! I’m talking to Seiryu.,,N,Te2-329,Te2-331
+Te2-331,The Kansen Caverns,,Ninja Soldier,"I’m sorry, Lady Kagami.",,N,Te2-330,Te2-332
+Te2-332,The Kansen Caverns,,Kagami,What do you want?,,N,Te2-331,Te2-333
+Te2-333,The Kansen Caverns,,Ninja Soldier,There is an intruder in the cave. Probably an Azuma Ninja.,,N,Te2-332,Te2-334
+Te2-334,The Kansen Caverns,,Kagami,Great… It's all we need… Listen up! We’re moving up a schedule forward! Prepare to launch the ship immediately! Our first target – Gohda Castle!,,N,Te2-333,Te2-335
+Te2-335,The Kansen Caverns,,Ninja Soldier,"Yes, my Lady.",,N,Te2-334,Te2-336
+Te2-336,The Kansen Caverns,,Kagami,Seiryu… Do you know why we going to destroy Gohda’s Castle?,,N,Te2-335,Te2-337
+Te2-337,The Kansen Caverns,,,[Everyone’s froze in anticipation of her reply.],,Y,Te2-336,Te2-338
+Te2-338,The Kansen Caverns,,Kagami,"Our soul purpose in life has been to serve in the endless war between Toda and Gohda! But now… Toda is gone. Gohda is the only thing standing between us and freedom! If we are ever to cast chains off that’ve shackle our spirits for generations, then Gohda must be destroyed! No matter that the cost! Now come on! It’ time to board the Fire Demon. We stand at the dawn of new era.",,N,Te2-337,Te2-339
+Te2-339,The Kansen Caverns,,,[Kagami and Seiryu leave. We return to our heroes.],,Y,Te2-338,Te2-340
+Te2-340,The Kansen Caverns,,Rikimaru,I’ll want the castle. You stay with the ship!,,N,Te2-339,Te2-341
+Te2-341,The Kansen Caverns,,Ayame,Agreed!,,N,Te2-340,Te2-342
+Te2-342,The Kansen Caverns,,ACT III,SOLITUDE (幽玄 / Mystery],,N,Te2-341,Te2-343
+Te2-344,The Kansen Caverns,,Gohda Matsunoshin,We need to find a way to stop the Burning Dawn and their giant warship!,,N,Te2-343,Te2-345
+Te2-345,The Kansen Caverns,,Adviser 1,Our troops cannot fight it from land… Maybe we should send our fleet…,,N,Te2-344,Te2-346
+Te2-346,The Kansen Caverns,,Adviser 2,Our boats are too small and be blown to bits if they come near the Fire Demon…,,N,Te2-345,Te2-347
+Te2-347,The Kansen Caverns,,Sekiya Naotada,"Enough! You talk as if we’re already lost, before the battle have even begun! Have you forgotten that you are warriors…",,N,Te2-346,Te2-348
+Te2-348,The Kansen Caverns,,,[The bell rang.],,Y,Te2-347,Te2-349
+Te2-349,The Kansen Caverns,,Rikimaru,They're here!,,N,Te2-348,Te2-350
+Te2-350,The Kansen Caverns,,,"[Cutscene: A huge ship appears from behind the rocks along with dizel of small ships, colossally inferior to it in size. The ship come closer and starts firing its massive cannon along it, destroying the upper level.]",,Y,Te2-349,Te2-351
+Te2-351,The Kansen Caverns,,Gohda Matsunoshin,I will lead the assault on the enemy myself. Prepare my ship!,,N,Te2-350,Te2-352
+Te2-352,The Kansen Caverns,,Rikimaru,Lord Gohda! I going to board the enemy ship. I’ll come back with Kagami’s head!,,N,Te2-351,Te2-353
+Te2-353,The Kansen Caverns,,Gohda Matsunoshin,"Take care of yourself, Rikimaru. You’re too valuable to loose. I’ll seen you then it’s all over.",,N,Te2-352,Te2-354
+Te2-354,The Kansen Caverns,,Rikimaru,"Yes, my Lord…",,N,Te2-353,Te2-355
+Te2-355,The Sea Battle,,,"[Rikimaru scuffs among a multitude of ships, trying not to hurt the soldiers of Gohda and on one of the ships he is met by an old enemy.]",,Y,Te2-354,Te2-356
+Te2-356,The Sea Battle,,Suzaku,"Intoxicating, isn’t it?",,N,Te2-355,Te2-357
+Te2-357,The Sea Battle,,Rikimaru,What?,,N,Te2-356,Te2-358
+Te2-358,The Sea Battle,,Suzaku,The cutless smell of blood. The screams of dying men… that final moment of flesh as you die. Only servants of darkness can appreciate these… I should deliver you from your darkness… to that pure light!,,N,Te2-357,Te2-359
+Te2-359,The Sea Battle,,Rikimaru,Not if I enlighten you first!,,N,Te2-358,Te2-360
+Te2-360,The Sea Battle,,,[The battle begins. Rikimaru defeats Suzaku.],,Y,Te2-359,Te2-361
+Te2-361,The Sea Battle,,Suzaku,"You loose. Because the more enemies you get revenge on, the angrier and nastier you’ve become. Until you’ve become vicious and selfish as... me!",,N,Te2-360,Te2-362
+Te2-362,The Sea Battle,,Suzaku,Hahahaha!,,N,Te2-361,Te2-363
+Te2-363,The Sea Battle,,,[Suzaku dies.],,Y,Te2-362,Te2-364
+Te2-364,The Sea Battle,,Rikimaru,"I’ve no longer seek vengeance, I nearly serve a worthy master. I fight because I must.",,N,Te2-363,Te2-365
+Te2-365,The Sea Battle,,,"[The mission continues. Rikimaru gets on the ""Fire Demon"" and begins searching for his main enemy. He soon finds him.]",,Y,Te2-364,Te2-366
+Te2-366,The Sea Battle,,,[Rikimaru sees Ayame wiping his blades after Seiryu's assassination.],,Y,Te2-365,Te2-367
+Te2-367,The Sea Battle,,Rikimaru,Ayame…,,N,Te2-366,Te2-368
+Te2-368,The Sea Battle,,,[Ayame throws Rikimaru the main relic of the Azuma clan - the Izayoi sword. Rikimaru remembers the past events.],,Y,Te2-367,Te2-369
+Te2-369,The Sea Battle,,,"[Next scene. We see Kagami, dressed in traditional Japanese clothes and wearing a mask, dancing on a small pedestal. Rikimaru approaches her.]",,Y,Te2-368,Te2-370
+Te2-370,The Sea Battle,,Kagami,So... Seiryu is dead... I’ll think you’ve never have gotten this far. Rikimaru? Will you really put an end to my beautiful dream?,,N,Te2-369,Te2-371
+Te2-371,The Sea Battle,,,"[Kagami removes traditional Japanese clothes in one movement, revealing armor.]",,Y,Te2-370,Te2-372
+Te2-372,The Sea Battle,,Kagami,You… killed he beauty of your dream with the ugliness of your methods…,,N,Te2-371,Te2-373
+Te2-373,The Sea Battle,,,"[The battle begins. Kagami uses only the Japanese fan to defend himself and misses the blow after the blow. In while she throws out her fan and takes out her sword. The fight begins for life or death, but Rikimaru still manages to win.]",,Y,Te2-372,Te2-374
+Te2-374,The Sea Battle,,,"[Kagami falls to the floor, her sword rolls away. She's dying.]",,Y,Te2-373,Te2-375
+Te2-375,The Sea Battle,,Kagami,"You think you have destroyed my dream? By killing me? Ha! But my dream lives! You cannot stop it to becoming true, because… we will pay any price for freedom! But you… you only a fool! Follow the rules without questioning them. And fools can never stop us!",,N,Te2-374,Te2-376
+Te2-376,The Sea Battle,,Rikimaru,"Huh, I’m happily suffer the title of fool if it’s means I can save even ONE life from your blood-drenched dream! Farewell, Kagami…",,N,Te2-375,Te2-377
+Te2-377,The Sea Battle,,,"[The scene changes. Rikimaru kneels before his lord, Lord Gohda.]",,Y,Te2-376,Te2-378
+Te2-378,The Sea Battle,,Gohda Matsunoshin,Rikimaru! Everything is taken care of?,,N,Te2-377,Te2-379
+Te2-379,The Sea Battle,,Rikimaru,"Yes, sir!",,N,Te2-378,Te2-380
+Te2-380,The Sea Battle,,Gohda Matsunoshin,But where is Ayame?,,N,Te2-379,Te2-381
+Te2-381,The Sea Battle,,Rikimaru,She wasn’t on the boat.,,N,Te2-380,Te2-382
+Te2-382,The Sea Battle,,,[Lord Gohda turns away to give an order.],,Y,Te2-381,Te2-383
+Te2-383,The Sea Battle,,Gohda Matsunoshin,Archers! Prepare flaming arrows!,,N,Te2-382,Te2-384
+Te2-384,The Sea Battle,,,"[The archers shoot at the ""Fire Demon"", setting it on fire. The fire reaches for gunpowder, an explosion takes place, and the characters observing it from the shore.]",,Y,Te2-383,Te2-385
+Te2-385,The Sea Battle,,,[The final cutscene. Ayame sits on top of a mountain at a grave made of stones. Rikimaru approaches her.],,Y,Te2-384,Te2-386
+Te2-386,The Sea Battle,,Rikimaru,"Ayame, you made it!",,N,Te2-385,Te2-387
+Te2-387,The Sea Battle,,Ayame,"I have become strong, so no one have ever take away anything I care for.",,N,Te2-386,Te2-388
+Te2-388,The Sea Battle,,Rikimaru,I understand.,,N,Te2-387,Te2-389
+Te2-389,The Sea Battle,,,[Rikimaru is about to leave.],,Y,Te2-388,Te2-390
+Te2-390,The Sea Battle,,Ayame,What will you do now?,,N,Te2-389,Te2-391
+Te2-391,The Sea Battle,,Rikimaru,I wish only to serve Lord Gohda.,,N,Te2-390,Te2-392
+Te2-392,The Sea Battle,,,"[Rikimaru leaves, but Ayame catches up with him.]",,Y,Te2-391,Te2-393
+Te2-393,The Sea Battle,,Ayame,Good. I’m going with you to Gohda Castle.,,N,Te2-392,Te2-394
+Te2-394,The Sea Battle,,Rikimaru,I’m glad.,,N,Te2-393,Te2-395
+Te2-395,The Sea Battle,,Ayame,I’ve someone there worth dying for… and worth living for.,,N,Te2-394,Te2-396
+Te2-396,The Sea Battle,,,[A beautiful seagull flies past the heroes.],,Y,Te2-395,Te2-397
+Te2-397,THE END,,PART 2,AYAME,,N,Te2-396,Te2-398
+Te2-399,THE END,,,[We see a few shots of the peaceful Japanese village’s life. Then the camera switches to the young ninja and her teacher.],,Y,Te2-398,Te2-400
+Te2-400,THE END,,???,"You’ve learned much, but I would expect that from one raised childhood to be an Azuma Ninja.",,N,Te2-399,Te2-401
+Te2-401,THE END,,,"[We learn that the name of the teacher is Azuma Shiunsai, the head of the Azuma Ninja Clan.]",,Y,Te2-400,Te2-402
+Te2-402,THE END,,Azuma Shiunsai,Now it is time to complete your training. Come into my house.,,N,Te2-401,Te2-403
+Te2-403,The Training Course,,,[Ayame go through a series of tests aimed at learning the basics of ninja skills.],,Y,Te2-402,Te2-404
+Te2-413,The Training Course,,,"[Once the training is over, the young ninja returns to his teacher's home.]",,Y,Te2-412,Te2-414
+Te2-414,The Training Course,,Azuma Shiunsai,"Are you ready, Ayame?",,N,Te2-413,Te2-415
+Te2-415,The Training Course,,Ayame,I was born ready!,,N,Te2-414,Te2-416
+Te2-416,The Training Course,,Azuma Shiunsai,Hah. We shall see.,,N,Te2-415,Te2-417
+Te2-417,The Training Course,,,[The teacher pulls the rope and the secret hatch under Ayame swings open.],,Y,Te2-416,Te2-418
+Te2-418,The Training Course,,Ayame,Ah!,,N,Te2-417,Te2-419
+Te2-419,The Training Course,,,[Ayame lands in the depths of the cave.],,Y,Te2-418,Te2-420
+Te2-420,The Training Course,,Azuma Shiunsai,Come back when you can survive as a ninja!,,N,Te2-419,Te2-421
+Te2-421,A Test from the Master,,,"[Now Ayame needs to get out of the cave quietly killing enemies and avoiding traps, like spikes and falling floor tiles.]",,Y,Te2-420,Te2-422
+Te2-422,A Test from the Master,,,"[After we manage to get out of the cave, the scene changes, and we see the master Shiunsai sitting in a secret cave behind a waterfall. The teacher hands Ayame a scroll.]",,Y,Te2-421,Te2-423
+Te2-423,A Test from the Master,,Azuma Shiunsai,"So, you’ve survived the training. You are now an Azuma Ninja, Ayame. But you still have much to learn.",,N,Te2-422,Te2-424
+Te2-424,A Test from the Master,,Ayame,That’s great! I mean... thank you for the honor.,,N,Te2-423,Te2-425
+Te2-425,A Test from the Master,,,"[The scene changes. The master stands facing the waterfall and holding his hands behind his back, gives his student the first serious task.]",,Y,Te2-424,Te2-426
+Te2-426,A Test from the Master,,Azuma Shiunsai,Mountain bandits are hiding in an abandoned village near here. Then the night falls you must chase the bandits away.,,N,Te2-425,Te2-427
+Te2-427,A Test from the Master,,Ayame,But... Master? Bandits? They are filthy! Have you ever smelled one? Eek!,,N,Te2-426,Te2-428
+Te2-428,A Test from the Master,,Azuma Shiunsai,Ayame...,,N,Te2-427,Te2-429
+Te2-429,A Test from the Master,,Ayame,Just kidding... I’m going.,,N,Te2-428,Te2-430
+Te2-430,The Mountain Bandits,,,[Ayame cautiously walks through the village at night carving the bandits. In the depths of the village she sees bulky man riding a horse.],,Y,Te2-429,Te2-431
+Te2-431,The Mountain Bandits,,???,Ho-ho-ho! Look here! A pretty little flower among the weeds!,,N,Te2-430,Te2-432
+Te2-432,The Mountain Bandits,,,"[Soon we learn the name of the man. Its Boron, the leader of bandits.]",,Y,Te2-431,Te2-433
+Te2-433,The Mountain Bandits,,Ayame,"You’re the head idiot around here, aren’t you?",,N,Te2-432,Te2-434
+Te2-434,The Mountain Bandits,,Boron,"I’m the mighty Boron, I lead the mountain bandits.",,N,Te2-433,Te2-435
+Te2-435,The Mountain Bandits,,Ayame,Knew it.,,N,Te2-434,Te2-436
+Te2-436,The Mountain Bandits,,Boron,Ha! How?,,N,Te2-435,Te2-437
+Te2-437,The Mountain Bandits,,Ayame,I’ll tell you in a minute!,,N,Te2-436,Te2-438
+Te2-438,The Mountain Bandits,,,[The fight begins. Ayame wins.],,Y,Te2-437,Te2-439
+Te2-439,The Mountain Bandits,,Ayame,I knew you had to be in charge because you stink worse than the others!,,N,Te2-438,Te2-440
+Te2-440,The Mountain Bandits,,ACT I,THE RED LOTUS (紅蓮],,N,Te2-439,Te2-441
+Te2-442,The Mountain Bandits,,Ayame, What are you two doing here?,(giggles) ,N,Te2-441,Te2-443
+Te2-443,The Mountain Bandits,,Azuma Shiunsai,"My students! Rebellion are broken out in the house of Gohda. Our honorable lord Gohda is in danger from his own uncle, sire Motohide. If the lord we serve, falls to a dishonorable traitor, we the Azuma Ninja, will stand for nothing. Go to Gohda Castle and protect lord Gohda with your lives. This is the ancestral sword, Izayoi. The spirit of the Azuma Ninja.",,N,Te2-442,Te2-444
+Te2-444,The Mountain Bandits,,,"[While the teacher speaks we see the names of unknown characters - the ninja with white hairs is Rikimaru, and the beefy guy's name is Tatsumaru.]",,Y,Te2-443,Te2-445
+Te2-445,The Mountain Bandits,,Azuma Shiunsai,"Tatsumaru, it is yours. Today, you replace me as Master Ninja. May honor guide your hand.",,N,Te2-444,Te2-446
+Te2-446,The Mountain Bandits,,Tatsumaru,Master…,,N,Te2-445,Te2-447
+Te2-447,The Mountain Bandits,,Rikimaru,But…,,N,Te2-446,Te2-448
+Te2-448,The Mountain Bandits,,Ayame,No!,,N,Te2-447,Te2-449
+Te2-449,The Mountain Bandits,,Azuma Shiunsai,"The powerful must know when to pass along their power. As you three graduate to new roles, I also ascend.",,N,Te2-448,Te2-450
+Te2-450,The Mountain Bandits,,Rikimaru,Very well.,,N,Te2-449,Te2-451
+Te2-451,The Mountain Bandits,,Tatsumaru,I obey.,,N,Te2-450,Te2-452
+Te2-452,The Mountain Bandits,,Ayame,"Yes, master.",,N,Te2-451,Te2-453
+Te2-453,The Mountain Bandits,,,"[The scene changes, and we see Lord Gohda's castle on fire. A ninja kills an innocent woman... fire, blood and death everywhere. Barely standing woman is trying to leave the castle, but meets our heroes.]",,Y,Te2-452,Te2-454
+Te2-454,The Mountain Bandits,,Woman,Please! Don’t kill me!,,N,Te2-453,Te2-455
+Te2-455,The Mountain Bandits,,Rikimaru,"It’s okay, we’re here to help.",,N,Te2-454,Te2-456
+Te2-456,The Mountain Bandits,,Woman,Oh thank goodness. His Lordship is still inside; so are Lady Kei and Princess Kiku!,,N,Te2-455,Te2-457
+Te2-457,The Mountain Bandits,,Tatsumaru,"Ayame, find Lady Kei and the Princess. Rikimaru, come with me, we must rescue Lord Gohda.",,N,Te2-456,Te2-458
+Te2-458,Lady Kei in Danger,,,"[Ayame sneaks around the castle of Lord Gohda, killing Motohide’s soldiers. After some time, she finds a room where she sees Gohda Motohide and Lady Kei, who is trying to take away her little Kiki.]",,Y,Te2-457,Te2-459
+Te2-459,Lady Kei in Danger,,Gohda Motohide,Unhand me!,,N,Te2-458,Te2-460
+Te2-460,Lady Kei in Danger,,Lady Kei,"No! If you take my daughter, you’ll have to take me too!",,N,Te2-459,Te2-461
+Te2-461,Lady Kei in Danger,,,[We learn that Lady Kei is Lord Gohda Matsunoshin’s wife.],,Y,Te2-460,Te2-462
+Te2-462,Lady Kei in Danger,,Gohda Motohide,I don’t need you. I need the princess!,,N,Te2-461,Te2-463
+Te2-463,Lady Kei in Danger,,,[Motohide strikes Lady Kei with his sword. Ayame rushes into the room.],,Y,Te2-462,Te2-464
+Te2-464,Lady Kei in Danger,,Ayame,Lady Kei! Motohide! You will pay for that!,,N,Te2-463,Te2-465
+Te2-465,Lady Kei in Danger,,,[We learn that Gohda Motohide is Lord Matsunoshin’s uncle.],,Y,Te2-464,Te2-466
+Te2-466,Lady Kei in Danger,,Gohda Motohide,Another ninja brat. I'll teach you how to speak your betters!,,N,Te2-465,Te2-467
+Te2-467,Lady Kei in Danger,,,"[Suddenly, a fat ninja falls from the ceiling.]",,Y,Te2-466,Te2-468
+Te2-468,Lady Kei in Danger,,Fat Ninja,Wait for Genbu. Genbu sneaks in now! Aw!,,N,Te2-467,Te2-469
+Te2-469,Lady Kei in Danger,,Gohda Motohide,Finally. There’s the rest of Lord Toda’s ninjas?,,N,Te2-468,Te2-470
+Te2-470,Lady Kei in Danger,,Genbu,"Genbu sorrys, Lord Motohide. Genbu will beat up little girl for you.",,N,Te2-469,Te2-471
+Te2-471,Lady Kei in Danger,,Gohda Motohide,Good. Destiny holds me.,,N,Te2-470,Te2-472
+Te2-472,Lady Kei in Danger,,Ayame,The destiny of cowards is messy and embarrassing death!,,N,Te2-471,Te2-473
+Te2-473,Lady Kei in Danger,,Genbu,"Why you so mean to the boss, missy? You want fight?  You fight Genbu! Master of ninja sneaking!",(takes off his mask) ,N,Te2-472,Te2-474
+Te2-474,Lady Kei in Danger,,Ayame,What a shame. You look so much better with the mask on!,,N,Te2-473,Te2-475
+Te2-475,Lady Kei in Danger,,,[The fight begins. Ayame wins.],,Y,Te2-474,Te2-476
+Te2-476,Lady Kei in Danger,,Genbu,Genbu is strongest! Genbu is unbeatable! But today Genbu must sneak away! (drops smoke pellet],,N,Te2-475,Te2-477
+Te2-477,Lady Kei in Danger,,,"[Thick white smoke fills the room. When it dissipates, we see that Genbu is stuck in the window.]",,Y,Te2-476,Te2-478
+Te2-478,Lady Kei in Danger,,Genbu,Nice girl… Little help here?,,N,Te2-477,Te2-479
+Te2-479,Lady Kei in Danger,,Ayame,What? Get lost! (kick him in the butt],,N,Te2-478,Te2-480
+Te2-480,Lady Kei in Danger,,,[Genbu falls out of the window and shouts.],,Y,Te2-479,Te2-481
+Te2-481,Lady Kei in Danger,,Genbu,Thanks nice girl for not killing Genbu!,,N,Te2-480,Te2-482
+Te2-482,Lady Kei in Danger,,,[Ayame comes to Lady Kei.],,Y,Te2-481,Te2-483
+Te2-483,Lady Kei in Danger,,Ayame,Lady Kei?,,N,Te2-482,Te2-484
+Te2-484,Lady Kei in Danger,,Lady Kei,Ayame?,,N,Te2-483,Te2-485
+Te2-485,Lady Kei in Danger,,Ayame,Yes.,,N,Te2-484,Te2-486
+Te2-486,Lady Kei in Danger,,Lady Kei,My Ayame. My ninja. (coughs],,N,Te2-485,Te2-487
+Te2-487,Lady Kei in Danger,,Ayame,"Oh, my lady, don’t try to speak. I’ll get help.",,N,Te2-486,Te2-488
+Te2-488,Lady Kei in Danger,,Lady Kei,"Wait. Take these.  Please, take care of Kiku… (dies]",(give Ayame small bells) ,N,Te2-487,Te2-489
+Te2-489,Lady Kei in Danger,,,[Tatsumaru enters the room.],,Y,Te2-488,Te2-490
+Te2-490,Lady Kei in Danger,,Tatsumaru,Ayame…,,N,Te2-489,Te2-491
+Te2-491,Lady Kei in Danger,,Ayame,Motohide murdered Lady Kei and he kidnapped princess Kiku. I’m going after her!,,N,Te2-490,Te2-492
+Te2-492,Lady Kei in Danger,,,[She jumps out of the window. In the next scene she sit on tree brunch near Lord Toda’s War Camp and overhears a conversation...],,Y,Te2-491,Te2-493
+Te2-493,Lady Kei in Danger,,Lord Toda,"Ah, sir Motohide. Welcome to my War Camp.",,N,Te2-492,Te2-494
+Te2-494,Lady Kei in Danger,,Gohda Motohide,"Greetings, Lord Toda. Regrettably, my nephew still lives, however with my excellent swordplay I wounded him… severely…",,N,Te2-493,Te2-495
+Te2-495,Lady Kei in Danger,,,[We learn the name of Lord Toda – Toda Yoshisada. He is the ruler of the House of Toda.],,Y,Te2-494,Te2-496
+Te2-496,Lady Kei in Danger,,Gohda Motohide,"and… I kidnapped his daughter. Assign me two divisions of your troops, sir, and I finish the job.",,N,Te2-495,Te2-497
+Te2-497,Lady Kei in Danger,,,"[Suddenly, one of Lord Toda's soldiers kills Motohide soldier holding Princess Kiku. Lord Toda draws his sword.]",,Y,Te2-496,Te2-498
+Te2-498,Lady Kei in Danger,,Gohda Motohide,"I know I failed… but… pleease… If I get your troops today, I promise that my flag will fly over Gohda’s Castle tomorrow.",,N,Te2-497,Te2-499
+Te2-499,Lady Kei in Danger,,Lord Toda,"I believe you. But If I need my troops today, then my flag will fly over Gohda’s Castle tomorrow.",,N,Te2-498,Te2-500
+Te2-500,Lady Kei in Danger,,Gohda Motohide,What are you talking about? You said we… Aaah!,,N,Te2-499,Te2-501
+Te2-501,Lady Kei in Danger,,,[Lord Toda strikes Motohide with is sword.],,Y,Te2-500,Te2-502
+Te2-502,Lady Kei in Danger,,Lord Toda,The wine of victory is the one you don’t have to share. Ha ha ha!,,N,Te2-501,Te2-503
+Te2-503,Lady Kei in Danger,,Gohda Motohide,What?! You lied! Have you no honorr?!,,N,Te2-502,Te2-504
+Te2-504,Lady Kei in Danger,,Lord Toda,Silence! I am the Lord! The only master I serve is me. Ha ha ha!,,N,Te2-503,Te2-505
+Te2-505,Lady Kei in Danger,,Gohda Motohide,Liar… (dies],,N,Te2-504,Te2-506
+Te2-506,Lady Kei in Danger,,Lord Toda,Put the princess in the shed. I DO NOT want her damaged. She will come very handy when I order Lord Gohda to surrender. Ha ha ha!,,N,Te2-505,Te2-507
+Te2-507,Lady Kei in Danger,,Ayame,"So much for promises – a proper coward's death! If my first priority wasn’t saving princess Kiku, I’ll kill Toda right now for fun!",,N,Te2-506,Te2-508
+Te2-508,Lady Kei in Danger,,,[Ayame jumps off a tree and goes to the war camp but her way is blocked by a woman in armor.],,Y,Te2-507,Te2-509
+Te2-509,Lady Kei in Danger,,Woman In Armor,"Oh, it’s just an apprentice girl. (leaves]",,N,Te2-508,Te2-510
+Te2-510,Lady Kei in Danger,,Ayame,What was that all about?,,N,Te2-509,Te2-511
+Te2-511,To Save a Princess,,,[Ayame searching the war camp and killing solders. After a while she finds a hut with a princess. She is crying.],,Y,Te2-510,Te2-512
+Te2-512,To Save a Princess,,Kiku,Mama? Mama?,,N,Te2-511,Te2-513
+Te2-513,To Save a Princess,,Ayame,I’m not your… please… stop crying.,,N,Te2-512,Te2-514
+Te2-514,To Save a Princess,,Kiku,Mama… Mama…,,N,Te2-513,Te2-515
+Te2-515,To Save a Princess,,Ayame,"Oh, okay. (hugs her]",,N,Te2-514,Te2-516
+Te2-516,To Save a Princess,,Kiku,"Hey, who are you?",,N,Te2-515,Te2-517
+Te2-517,To Save a Princess,,Ayame,"Here, this is for you. (gives her little bells]",,N,Te2-516,Te2-518
+Te2-518,To Save a Princess,,Kiku,Oh… My Sister bells!,,N,Te2-517,Te2-519
+Te2-519,To Save a Princess,,Ayame,What are Sister bells?,,N,Te2-518,Te2-520
+Te2-520,To Save a Princess,,Kiku,What’s your name?,,N,Te2-519,Te2-521
+Te2-521,To Save a Princess,,Ayame,Ayame.,,N,Te2-520,Te2-522
+Te2-522,To Save a Princess,,Kiku,Here. This bell is for you!,,N,Te2-521,Te2-523
+Te2-523,To Save a Princess,,Ayame,What?,,N,Te2-522,Te2-524
+Te2-524,To Save a Princess,,Kiku,"My mommy made this bells. She made one for me, and one for you. She said that the bells will help us become real sisters. Oh, now I have a big sister! Come on, we have to go to tell mommy! What’s wrong, Ayame? Did you hurt yourself?",,N,Te2-523,Te2-525
+Te2-525,To Save a Princess,,Ayame,"No, it’s not bad.",,N,Te2-524,Te2-526
+Te2-526,To Save a Princess,,Kiku, You won’t be my sister?,(crying) ,N,Te2-525,Te2-527
+Te2-527,To Save a Princess,,Ayame,"No, no, I do…",,N,Te2-526,Te2-528
+Te2-528,To Save a Princess,,Kiku,Then… why are you crying?,,N,Te2-527,Te2-529
+Te2-529,To Save a Princess,,Ayame,It’s okay. Really. You wanna get back to your castle now?,,N,Te2-528,Te2-530
+Te2-530,To Save a Princess,,Kiku,Yeah. Let’s go.,,N,Te2-529,Te2-531
+Te2-531,To Save a Princess,,,[She puts her behind her back and goes outside.],,Y,Te2-530,Te2-532
+Te2-532,To Save a Princess,,Ayame,What’s sounds like... sword fighting?,,N,Te2-531,Te2-533
+Te2-533,To Save a Princess,,Kiku,What’s going on? Can we go see?,,N,Te2-532,Te2-534
+Te2-534,To Save a Princess,,Ayame,"Kiku, brave girl, you’re the best!",,N,Te2-533,Te2-535
+Te2-535,To Save a Princess,,,[Ayame and Kiku go to watch the fight. Arriving at the place Ayame sees how Tatsumaru and the Woman in Armor are fighting on a high cliff.],,Y,Te2-534,Te2-536
+Te2-536,To Save a Princess,,Ayame,"Oh, no!",,N,Te2-535,Te2-537
+Te2-537,To Save a Princess,,,[Rikimaru appears.],,Y,Te2-536,Te2-538
+Te2-538,To Save a Princess,,Ayame,"Rikimaru, protect princess Kiku!",,N,Te2-537,Te2-539
+Te2-539,To Save a Princess,,,[She rush for Tatsumaru.],,Y,Te2-538,Te2-540
+Te2-540,To Save a Princess,,,"[Cutscene: Tatsumaru fights a ninja woman at the top of the cliff. Ayame running to him. Suddenly, part of the rock breaks off. Tatsumaru along with female ninja falls into the sea.]",,Y,Te2-539,Te2-541
+Te2-541,To Save a Princess,,Ayame,Tatsumaru!,,N,Te2-540,Te2-542
+Te2-542,To Save a Princess,,,"[Ayame lying on the edge of the rock, looks sadly at the sea. A ribbon from Tatsumaru's clothes is floating on the water.]",,Y,Te2-541,Te2-543
+Te2-543,To Save a Princess,,ACT II,THE SHIFTING SANDS (流砂 / Quicksand],,N,Te2-542,Te2-544
+Te2-545,To Save a Princess,,,"[Next scene. Ninja village. Ayame plays with the dog while sitting on the doorstep. Next to her we see Lord Gohda Matsunoshin and her teacher, Azuma Shiunsai.]",,Y,Te2-544,Te2-546
+Te2-546,To Save a Princess,,Gohda Matsunoshin,Ayame. Kidnapped had been taking our villages to a deserted island… Can I count on you to investigate?,,N,Te2-545,Te2-547
+Te2-547,To Save a Princess,,Ayame,"Of course, my Lord. Helping people is not really my idea of a good time, orders are orders…",,N,Te2-546,Te2-548
+Te2-548,To Save a Princess,,,[Next scene. Ayame swims to the island.],,Y,Te2-547,Te2-549
+Te2-549,To Save a Princess,,Ayame,So this is there they brought the villagers. What a dump…,,N,Te2-548,Te2-550
+Te2-550,Kubon Island,,,"[Ayame climb mountains, swims and kill bandits. Soon she finds a port and a ship which transporting captured villagers.]",,Y,Te2-549,Te2-551
+Te2-551,Kubon Island,,Bandit,Move! Now!,,N,Te2-550,Te2-552
+Te2-552,Kubon Island,,Ayame,"Hm. Those are villages, but there they taking them?",,N,Te2-551,Te2-553
+Te2-553,The Island Fort,,,"[Ayame sneak into heavy guarded fort and frees the villages. Some chinise warrior runs to her. We learn his name- Wang Dahai, the head of the Baoliusing.]",,Y,Te2-552,Te2-554
+Te2-554,The Island Fort,,Wang Dahai,Halt! Bad person! You dare release slaves of Wang Dahai?,,N,Te2-553,Te2-555
+Te2-555,The Island Fort,,Ayame,"O-ho, bad person yourself! You dare make slaves of Ayame’s people?",,N,Te2-554,Te2-556
+Te2-556,The Island Fort,,,[The fight begins. Ayame wins.],,Y,Te2-555,Te2-557
+Te2-557,The Island Fort,,Wang Dahai,Agh! I don’t want to die!,,N,Te2-556,Te2-558
+Te2-558,The Island Fort,,Ayame,Will you quit whining? What a sore loser!,,N,Te2-557,Te2-559
+Te2-559,The Island Fort,,,[Suddenly Genbu appears blocking the gate with his fat ass.],,Y,Te2-558,Te2-560
+Te2-560,The Island Fort,,Genbu,Hey! Nice little girl! Sneaking ninja Genbu sneaks up on you again! Ha ha ha! NO fair running away.,,N,Te2-559,Te2-561
+Te2-561,The Island Fort,,Ayame,"Oh, not again… Out my way, ignoramus!",,N,Te2-560,Te2-562
+Te2-562,The Island Fort,,Genbu,Oh! My name is not Goramus! This is Genbu the Wise one of the four lords of the Burning Dawn!,,N,Te2-561,Te2-563
+Te2-563,The Island Fort,,Ayame,"You mean Genbu the Drooling Idiot, one of the four Idiots of Idiots Land?",,N,Te2-562,Te2-564
+Te2-564,The Island Fort,,Genbu,No! Don’t you make fun of my new name from Lady Kagami!,,N,Te2-563,Te2-565
+Te2-565,The Island Fort,,Ayame,Kagami?,,N,Te2-564,Te2-566
+Te2-566,The Island Fort,,Genbu,"Lady Kagami is a great… uh… lady! She’s gonna make a world just for us, ninjas!Like in her dream for us. That was said, you’re a ninja, you could ask her real nice and I bet she’d let you join.",,N,Te2-565,Te2-567
+Te2-567,The Island Fort,,Ayame,"Oh, please. Unlike you losers, I don’t need to live in someone else dream! I got I’ve got dreams of my own!",,N,Te2-566,Te2-568
+Te2-568,The Island Fort,,Genbu,"Well then, if you won’t join, I won’t let you join! And I’ll beat you up with m sneaky ninja moves!",,N,Te2-567,Te2-569
+Te2-569,The Island Fort,,,[he drops a smoke pellet and turns into a stone… at the same spot he stand.],,Y,Te2-568,Te2-570
+Te2-570,The Island Fort,,Genbu,You can’t find me!,,N,Te2-569,Te2-571
+Te2-571,The Island Fort,,,[Ayame throws a firebomb at him and set his ass on fire.],,Y,Te2-570,Te2-572
+Te2-572,The Island Fort,,Genbu,Hot! Hot! Hot!,,N,Te2-571,Te2-573
+Te2-573,The Island Fort,,Ayame,"Burning… Dawn? Lady Kagami? A world for ninja? Nah, who cares… he’s just some drunkun-bumpkin.",,N,Te2-572,Te2-574
+Te2-574,The Island Fort,,,[Next scene. Lord Gohda sits in his room and painfully recalls the events that took place in his castle. Ayame enters.],,Y,Te2-573,Te2-575
+Te2-575,The Island Fort,,Ayame,"They said you want to see me right away, my Lord. What’s up?",,N,Te2-574,Te2-576
+Te2-576,The Island Fort,,Gohda Matsunoshin,The Quarantine Village is under attack… I need yo there right away.,,N,Te2-575,Te2-577
+Te2-577,The Island Fort,,Ayame,Quarantine Village? Where’s that?,,N,Te2-576,Te2-578
+Te2-578,The Island Fort,,Gohda Matsunoshin,It’s a village I created to isolate people suffering from contagious diseases.,,N,Te2-577,Te2-579
+Te2-579,The Island Fort,,Ayame,You isolated them?,,N,Te2-578,Te2-580
+Te2-580,The Island Fort,,Gohda Matsunoshin,Yes… but I have no choose. The disease was spreading quickly. What should I have done? I couldn’t just kill them…,,N,Te2-579,Te2-581
+Te2-581,The Island Fort,,Ayame,I’m sorry… I wasn’t thinking. I’ll go check it out.,,N,Te2-580,Te2-582
+Te2-582,The Quarantine Village,,,"[Ayame kills the attackers – ninjas from the Burning Dawn. Passing through the village, she stumbles upon some familiar face... Tatsumaru! Not only is he alive, he also kisses a woman in armor… Ayame decide to watch them. After a minute, the woman in the armor leaves. Ayame runs up to Tatsumaru.]",,Y,Te2-581,Te2-583
+Te2-583,The Quarantine Village,,Ayame,"Tatsumaru! It is you! I knew you wasn’t dead, I just knew it… but that are you doing here? There’s an enemies! And who’s that woman? Oh, it's so good to see you!",,N,Te2-582,Te2-584
+Te2-584,The Quarantine Village,,Man,Ah… do I know you?,,N,Te2-583,Te2-585
+Te2-585,The Quarantine Village,,Ayame,Ha… very funny. You big jerk!,,N,Te2-584,Te2-586
+Te2-586,The Quarantine Village,,Man,"No, I never seen you before in my life.",,N,Te2-585,Te2-587
+Te2-587,The Quarantine Village,,Ayame,"What do you mean? It’s Ayame of the Azuma Ninja! Come on, Tatsumaru!",,N,Te2-586,Te2-588
+Te2-588,The Quarantine Village,,Man,"Look, I don’t know any “Tatsumaru”. I’m Seiryu, Lord of the Burning Dawn. Goodbye.",,N,Te2-587,Te2-589
+Te2-589,The Quarantine Village,,Ayame,Wait… Please. Don’t go!,,N,Te2-588,Te2-590
+Te2-590,The Quarantine Village,,,[Three ninjas jump from somewhere above.],,Y,Te2-589,Te2-591
+Te2-591,The Quarantine Village,,Ninja of the Burning Dawn,Lord Seiryu! We’ll deal with this little nuisance.,,N,Te2-590,Te2-592
+Te2-592,The Quarantine Village,,Seiryu,I… very well.,,N,Te2-591,Te2-593
+Te2-593,The Quarantine Village,,,"[Seiryu leaves and we learn the name of the ninjas from the Burning Dawn -The Frog, The Slug and The Snake.]",,Y,Te2-592,Te2-594
+Te2-594,The Quarantine Village,,Ayame,Tatsumaru!,,N,Te2-593,Te2-595
+Te2-595,The Quarantine Village,,The Snake,"Not so fast, girl! We’d like a word with you… Sshh.",,N,Te2-594,Te2-596
+Te2-596,The Quarantine Village,,The Frog,We are the servants of the burning Dawn!,,N,Te2-595,Te2-597
+Te2-597,The Quarantine Village,,Ayame,"Oh, shut up! Out of my way!",,N,Te2-596,Te2-598
+Te2-598,The Quarantine Village,,,[Ayame rushes into battle and wins.],,Y,Te2-597,Te2-599
+Te2-599,The Quarantine Village,,Ayame,"Tatsumaru! Tatsumaru, there are you…",,N,Te2-598,Te2-600
+Te2-600,The Quarantine Village,,,[A pigeon with message flies to her.],,Y,Te2-599,Te2-601
+Te2-601,The Quarantine Village,,Ayame,"Oh, no! The Ninja Village…",,N,Te2-600,Te2-602
+Te2-602,The Quarantine Village,,,[Ayame returns to the village. Nothing is around but fire and corpses.],,Y,Te2-601,Te2-603
+Te2-603,The Quarantine Village,,Ayame,No…,,N,Te2-602,Te2-604
+Te2-604,The Quarantine Village,,,"[She runs to the teacher's house. When she reaches the house, she sees a woman in armor and Seiryu running out from there. Woman in armor attacked Ayame, but she successfully blocks the blow. Woman in armor runs away. Ayame hears Rikimaru's voice.]",,Y,Te2-603,Te2-605
+Te2-605,The Quarantine Village,,Rikimaru,Master!,,N,Te2-604,Te2-606
+Te2-606,The Quarantine Village,,,"[Ayame hesitates a minute, but decides to run after Seiryu.]",,Y,Te2-605,Te2-607
+Te2-607,The Quarantine Village,,Ayame,How could Tatsumaru have forgotten his oath to Master? How he could not remember me?,,N,Te2-606,Te2-608
+Te2-608,Cherry Tree Hill,,,"[Ayame climbs up the mountain to the cherry tree. Along the way, she kills the ninja of the Burning Dawn.]",,Y,Te2-607,Te2-609
+Te2-609,Cherry Tree Hill,,Ayame,Tatsumaru!,,N,Te2-608,Te2-610
+Te2-610,Cherry Tree Hill,,Woman in Armor,What a stubborn little girl!,,N,Te2-609,Te2-611
+Te2-611,Cherry Tree Hill,,,"[We learn the name of the woman in armor – Kagami, the head of the Burning Dawn.]",,Y,Te2-610,Te2-612
+Te2-612,Cherry Tree Hill,,Kagami,"When you arrive in hell, let everyone know Lady Kagami sent you. (draw her sword]",,N,Te2-611,Te2-613
+Te2-613,Cherry Tree Hill,,Ayame,"So, you're Kagami! The one with drooling idiot follower! How do you add Tatsumaru to your pack of losers?",,N,Te2-612,Te2-614
+Te2-614,Cherry Tree Hill,,Kagami,You insolent brat! I'll skin you alive!  What are you doing?,(Seiryu stops her) ,N,Te2-613,Te2-615
+Te2-615,Cherry Tree Hill,,Seiryu,You let her provoke you. Forgot the dream. I will handle her.,,N,Te2-614,Te2-616
+Te2-616,Cherry Tree Hill,,Kagami,"No! She’s just a child… She cannot provoke me. She… she… You’re right. I lost control. Shamed myself. You deal with her. But be careful. Remember your wound. Come home to me safely, Seiryu… (leaves]",,N,Te2-615,Te2-617
+Te2-617,Cherry Tree Hill,,Ayame,Tatsumaru… Did you kill Master Shiunsai? Tell me it’s not true…,,N,Te2-616,Te2-618
+Te2-618,Cherry Tree Hill,,Seiryu,That old man was your teacher?,,N,Te2-617,Te2-619
+Te2-619,Cherry Tree Hill,,Ayame,He was your teacher too… He was like a father to us! Have you really forgot everything? Can’t you remember any of it? All that time we spent together…,,N,Te2-618,Te2-620
+Te2-620,Cherry Tree Hill,,Tatsumaru,It wasn't real.,,N,Te2-619,Te2-621
+Te2-621,Cherry Tree Hill,,Ayame,"Is that what you saying, Tatsumaru?",,N,Te2-620,Te2-622
+Te2-622,Cherry Tree Hill,,Young Ayame (in Seiryu’s head),"When I grow up, I'm going to marry you, Tatsu! And we will live happily ever after! In a big, beautiful church! Tatsu, Tatsu, Tatsu…",,N,Te2-621,Te2-623
+Te2-623,Cherry Tree Hill,,Ayame,Tatsu…,,N,Te2-622,Te2-624
+Te2-624,Cherry Tree Hill,,Tatsumaru,Ayame… Your name… is Ayame.,,N,Te2-623,Te2-625
+Te2-625,Cherry Tree Hill,,Ayame,Ah! You remember!,,N,Te2-624,Te2-626
+Te2-626,Cherry Tree Hill,,,[She runs to him but he attacks her.],,Y,Te2-625,Te2-627
+Te2-627,Cherry Tree Hill,,Ayame,Tatsu… maru…,,N,Te2-626,Te2-628
+Te2-628,Cherry Tree Hill,,Seiryu,Ayame… you must forget about me. Tatsumaru is dead! There is only Seiryu now!,,N,Te2-627,Te2-629
+Te2-629,Cherry Tree Hill,,Ayame,But… you got your memory back… it can be like it was again…,,N,Te2-628,Te2-630
+Te2-630,Cherry Tree Hill,,Seiryu,No… it can’t.,,N,Te2-629,Te2-631
+Te2-631,Cherry Tree Hill,,Ayame,Why? WHY?,,N,Te2-630,Te2-632
+Te2-632,Cherry Tree Hill,,Seiryu,Because that’s the way it is. If we meet again I WILL kill you!,,N,Te2-631,Te2-633
+Te2-633,Cherry Tree Hill,,,[He leaves. Rikimaru enters.],,Y,Te2-632,Te2-634
+Te2-634,Cherry Tree Hill,,Rikimaru,Ayame? Tatsumaru killed Master Shiunsai. I must avenge his death!,,N,Te2-633,Te2-635
+Te2-635,Cherry Tree Hill,,,[We learn the name of the dog – Semimaru.],,Y,Te2-634,Te2-636
+Te2-636,Cherry Tree Hill,,Ayame,(put her sword to Rikimaru’s neck) I won’t let you kill Tatsumaru!,,N,Te2-635,Te2-637
+Te2-637,Cherry Tree Hill,,Rikimaru,Ayame! I must! He killed the Master!,,N,Te2-636,Te2-638
+Te2-638,Cherry Tree Hill,,Ayame,No! I will kill Tatsumaru… myself.,,N,Te2-637,Te2-639
+Te2-639,Cherry Tree Hill,,Rikimaru,"What? But… Oh, I see. You’re not seeking vengeance. You act from the state of pure selflessness. C’mon, Semimaru, take us to Tatsumaru!",,N,Te2-638,Te2-640
+Te2-640,Cherry Tree Hill,,Semimaru,Woof-woof!,,N,Te2-639,Te2-641
+Te2-641,In Pursuit of Tatsumaru,,,"[Semimaru leads the heroes into the bamboo forest and runs forward. Ayame cautiously makes his way through the forest. The forest is thickened and she hardly sees her enemies. Finally, she, along with Rikimaru, catches up with Semimaru.]",,Y,Te2-640,Te2-642
+Te2-642,In Pursuit of Tatsumaru,,Rikimaru,Come out! Show yourself!,,N,Te2-641,Te2-643
+Te2-643,In Pursuit of Tatsumaru,,???,"Your senses are chapped for your maneuver. I’m Byakko, the White Tiger, one of the four Lords of the Burning Dawn. What’s that? I agree!  Rejoice, woman! You speaking liking to me…  You have the honor to being eaten by Chiro the Magnificent!  As for you… unsavory man… you will have settled to kill by me!",(to Ayame) (to Semimaru) (to Rikimaru) ,N,Te2-642,Te2-644
+Te2-644,In Pursuit of Tatsumaru,,,[The battle begins. Ayame kills Byakko. Semimaru kill Chiro.],,Y,Te2-643,Te2-645
+Te2-645,In Pursuit of Tatsumaru,,Ayame,"Are you okay, Semimaru? Good boy!",,N,Te2-644,Te2-646
+Te2-646,In Pursuit of Tatsumaru,,Semimaru,Woof-woof!,,N,Te2-645,Te2-647
+Te2-647,In Pursuit of Tatsumaru,,Ayame,"You are so tough, Semimaru! Ha-ha!",,N,Te2-646,Te2-648
+Te2-648,In Pursuit of Tatsumaru,,Rikimaru,"Ayame! You guys okay? Come on, let’s get going.",,N,Te2-647,Te2-649
+Te2-649,In Pursuit of Tatsumaru,,,"[Semimaru leads the heroes into the cave. He barks, indicating direction.]",,Y,Te2-648,Te2-650
+Te2-650,In Pursuit of Tatsumaru,,Rikimaru,"So Tatsumaru in this cave? Good boy! Now, Semimaru, you stay here.",,N,Te2-649,Te2-651
+Te2-651,In Pursuit of Tatsumaru,,Semimaru,"Woof, woof!",,N,Te2-650,Te2-652
+Te2-652,In Pursuit of Tatsumaru,,Ayame,I’m going in!,,N,Te2-651,Te2-653
+Te2-653,In Pursuit of Tatsumaru,,,[The heroes leave. Semimaru sadly whines as they go.],,Y,Te2-652,Te2-654
+Te2-654,The Kansen Caverns,,,"[Ayame has to use all her skill, since there are a lot of pitfalls in the cave. She stops deep into the cave, noticing something unusual.]",,Y,Te2-653,Te2-655
+Te2-655,The Kansen Caverns,,Ayame,What kind of ship is that?,,N,Te2-654,Te2-656
+Te2-656,The Kansen Caverns,,Kagami,"Seiryu… It’s almost finished… The most powerful war ship in history! Finally, my dreams becomes real!",,N,Te2-655,Te2-657
+Te2-657,The Kansen Caverns,,Seiryu,A world ruled by a ninja.,,N,Te2-656,Te2-658
+Te2-658,The Kansen Caverns,,Kagami,"Exactly! We no longer be forced to hide in the night like thieves, we will decide how we live. And how we die!",,N,Te2-657,Te2-659
+Te2-659,The Kansen Caverns,,,[One of the ninja soldiers runs up to Kagami.],,Y,Te2-658,Te2-660
+Te2-660,The Kansen Caverns,,Ninja Soldier,Lady Kagami!,,N,Te2-659,Te2-661
+Te2-661,The Kansen Caverns,,Kagami,Stop shouting! I’m talking to Seiryu.,,N,Te2-660,Te2-662
+Te2-662,The Kansen Caverns,,Ninja Soldier,"I’m sorry, Lady Kagami.",,N,Te2-661,Te2-663
+Te2-663,The Kansen Caverns,,Kagami,What do you want?,,N,Te2-662,Te2-664
+Te2-664,The Kansen Caverns,,Ninja Soldier,There is an intruder in the cave. Probably an Azuma Ninja.,,N,Te2-663,Te2-665
+Te2-665,The Kansen Caverns,,Kagami,Great… It's all we need… Listen up! We’re moving up a schedule forward! Prepare to launch the ship immediately! Our first target – Gohda Castle!,,N,Te2-664,Te2-666
+Te2-666,The Kansen Caverns,,Ninja Soldier,"Yes, my Lady.",,N,Te2-665,Te2-667
+Te2-667,The Kansen Caverns,,Kagami,Seiryu… Do you know why we going to destroy Gohda’s Castle?,,N,Te2-666,Te2-668
+Te2-668,The Kansen Caverns,,,[Everyone’s froze in anticipation of her reply.],,Y,Te2-667,Te2-669
+Te2-669,The Kansen Caverns,,Kagami,"Our soul purpose in life has been to serve in the endless war between Toda and Gohda! But now… Toda is gone. Gohda is the only thing standing between us and freedom! If we are ever to cast chains off that’ve shackle our spirits for generations, then Gohda must be destroyed! No matter that the cost! Now come on! It’ time to board the Fire Demon. We stand at the dawn of new era.",,N,Te2-668,Te2-670
+Te2-670,The Kansen Caverns,,,[Kagami and Seiryu leave. We return to our heroes.],,Y,Te2-669,Te2-671
+Te2-671,The Kansen Caverns,,Rikimaru,I’ll want the castle. You stay with the ship!,,N,Te2-670,Te2-672
+Te2-672,The Kansen Caverns,,Ayame,Agreed!,,N,Te2-671,Te2-673
+Te2-673,The Kansen Caverns,,ACT III,SOLITUDE (幽玄 / Mystery],,N,Te2-672,Te2-674
+Te2-675,The Kansen Caverns,,,[Kagami prepares the ship for sailing and heads for Gohda Castle. Arriving she begins to fire the cannons.],,Y,Te2-674,Te2-676
+Te2-676,The Fire Demon,,,"[Ayame sneaks around a huge ship and kills the guards, trying to get on the deck.]",,Y,Te2-675,Te2-677
+Te2-677,The Fire Demon,,Genbu,"Stop, nice little girl! Genbu protects Lady Kagami!",,N,Te2-676,Te2-678
+Te2-678,The Fire Demon,,Ayame,"Oh, Genbu! Look that she’s doing! She’s not worthy of your protection.",,N,Te2-677,Te2-679
+Te2-679,The Fire Demon,,Genbu,"Everybody says “Genbu, you big, dumb oaf” and everybody laughs, but Lady Kagami says “Genbu, you did good.” She treats me like she treats all the other ninjas. I feel warm inside then she talks to me! She’s worthy of Genbu’s protection!",,N,Te2-678,Te2-680
+Te2-680,The Fire Demon,,Ayame,And all the people at Gohda Castle is worthy of my protection!,,N,Te2-679,Te2-681
+Te2-681,The Fire Demon,,Genbu,Then I guess we really fight this time!,,N,Te2-680,Te2-682
+Te2-682,The Fire Demon,,Ayame,Yeah! We really fight this time!,,N,Te2-681,Te2-683
+Te2-683,The Fire Demon,,,[The fight begins. Ayame wins.],,Y,Te2-682,Te2-684
+Te2-684,The Fire Demon,,Genbu,"Sorry, Lady Kagami… Nice girl… what’s your name?",,N,Te2-683,Te2-685
+Te2-685,The Fire Demon,,Ayame,Ayame.,,N,Te2-684,Te2-686
+Te2-686,The Fire Demon,,Genbu,Ayame… what’s a nice name.,,N,Te2-685,Te2-687
+Te2-687,The Fire Demon,,,[He drops one of his clubs and dies there he stands.],,Y,Te2-686,Te2-688
+Te2-688,The Fire Demon,,Ayame,"Goodbye, Genbu the Wise, Lord of the Burning Dawn.",,N,Te2-687,Te2-689
+Te2-689,The Fire Demon,,,[She run to the deck and sees Seiryu.],,Y,Te2-688,Te2-690
+Te2-690,The Fire Demon,,Seiryu,Ayame… Don’t you remember that I told you?,,N,Te2-689,Te2-691
+Te2-691,The Fire Demon,,,[She nods.],,Y,Te2-690,Te2-692
+Te2-692,The Fire Demon,,Seiryu,Then you know… I must kill you.,,N,Te2-691,Te2-693
+Te2-693,The Fire Demon,,Ayame,"Oh, you right! We will fight, but you won’t kill me.",,N,Te2-692,Te2-694
+Te2-694,The Fire Demon,,,"[The fight begins. Ayame wins. Izayoi falls out of the hands of Seiryu. Ayame picks it up and puts it to his throat, but she hesitates and cannot finish him off. Seiryu takes the sword with his hands and pierces himself.]",,Y,Te2-693,Te2-695
+Te2-695,The Fire Demon,,Ayame,"Why, Tatsumaru…? Why?",,N,Te2-694,Te2-696
+Te2-696,The Fire Demon,,Tatsumaru,Unforgivable crimes must punished… the traitor must die… (dies],,N,Te2-695,Te2-697
+Te2-697,The Fire Demon,,,[Rikimaru enters.],,Y,Te2-696,Te2-698
+Te2-698,The Fire Demon,,Rikimaru,Ayame?,,N,Te2-697,Te2-699
+Te2-699,The Fire Demon,,,[She throws him Izayoi. They stand still for a couple of minutes then Rikimaru leaves. Ayame jumps from the ship into the sea.],,Y,Te2-698,Te2-700
+Te2-700,The Fire Demon,,,[Cutscene. Lord Gohda gives order to burn the Fire Demon.],,Y,Te2-699,Te2-701
+Te2-701,The Fire Demon,,Gohda Matsunoshin,Archers! Prepare flaming arrows!,,N,Te2-700,Te2-702
+Te2-702,The Fire Demon,,,"[The archers shoot at the ""Fire Demon"", setting it on fire. The fire reaches for gunpowder, an explosion takes place, and the characters observing it from the shore. Meanwhile, Ayame floating in the sea on a piece of board...]",,Y,Te2-701,Te2-703
+Te2-703,The Fire Demon,,Ayame (thinking),"First my master… now Tatsumaru… Why does everyone I love have to die? I rather face the demons of hell than another second of this… emptiness. My work is done. It's time for Ayame to follow Tatsumaru…  Hm. What a pretty sound… I’ll miss it… and I’ll miss Kiku… and a promise I made… uh, poor baby, she’s counting on me. She must be so lonely right now. And scared. Her mother gone… just like me…  I’m gonna keep my promise! No more crying! I got to be tough now!",(she pulls out a bell) (out loud) ,N,Te2-702,Te2-704
+Te2-704,The Fire Demon,,,[The final cutscene. Ayame sits on top of a mountain at a grave made of stones. Rikimaru approaches her.],,Y,Te2-703,Te2-705
+Te2-705,The Fire Demon,,Rikimaru,"Ayame, you made it!",,N,Te2-704,Te2-706
+Te2-706,The Fire Demon,,Ayame,"I have to become strong, so no one have ever take away anything I care for.",,N,Te2-705,Te2-707
+Te2-707,The Fire Demon,,Rikimaru,I understand.,,N,Te2-706,Te2-708
+Te2-708,The Fire Demon,,,[Rikimaru is about to leave.],,Y,Te2-707,Te2-709
+Te2-709,The Fire Demon,,Ayame,What will you do now?,,N,Te2-708,Te2-710
+Te2-710,The Fire Demon,,Rikimaru,I wish only to serve Lord Gohda.,,N,Te2-709,Te2-711
+Te2-711,The Fire Demon,,,"[Rikimaru leaves, but Ayame catches up with him.]",,Y,Te2-710,Te2-712
+Te2-712,The Fire Demon,,Ayame,Good. I’m going with you to Gohda Castle.,,N,Te2-711,Te2-713
+Te2-713,The Fire Demon,,Rikimaru,I’m glad.,,N,Te2-712,Te2-714
+Te2-714,The Fire Demon,,Ayame,I have someone there worth dying for… and worth living for.,,N,Te2-713,Te2-715
+Te2-715,The Fire Demon,,,[A beautiful seagull flies past the heroes.],,Y,Te2-714,Te2-716
+Te2-716,THE END,,PART 3,TATSUMARU,,N,Te2-715,Te2-717
+Te2-718,THE END,,ACT I,THE RED LOTUS (紅蓮],,N,Te2-717,Te2-719
+Te2-719,THE END,,,"[Ayame, Rikimaru and Tatsumaru walk to their teacher’s house.]",,Y,Te2-718,Te2-720
+Te2-720,THE END,,Ayame, What are you two doing here?,(giggles) ,N,Te2-719,Te2-721
+Te2-721,THE END,,Azuma Shiunsai,"My students! Rebellion are broken out in the house of Gohda. Our honorable Lord Gohda is in danger from his own uncle, sire Motohide. If the Lord we serve, falls to a dishonorable traitor, we the Azuma Ninja, will stand for nothing. Go to Gohda Castle and protect Lord Gohda with your lives. This is the ancestral sword, Izayoi. The spirit of the Azuma Ninja. Tatsumaru, it is yours. Today, you replace me as Master Ninja. May honor guide your hand.",,N,Te2-720,Te2-722
+Te2-722,THE END,,Tatsumaru,Master…,,N,Te2-721,Te2-723
+Te2-723,THE END,,Rikimaru,But…,,N,Te2-722,Te2-724
+Te2-724,THE END,,Ayame,No!,,N,Te2-723,Te2-725
+Te2-725,THE END,,Azuma Shiunsai,"The powerful must know when to pass along their power. As you three graduate to new roles, I also ascend.",,N,Te2-724,Te2-726
+Te2-726,THE END,,Rikimaru,Very well.,,N,Te2-725,Te2-727
+Te2-727,THE END,,Tatsumaru,I obey.,,N,Te2-726,Te2-728
+Te2-728,THE END,,Ayame,"Yes, master.",,N,Te2-727,Te2-729
+Te2-729,THE END,,,"[The scene changes, and we see Lord Gohda's castle on fire. A ninja kills an innocent woman... fire, blood and death everywhere. Barely standing woman is trying to leave the castle, but meets our heroes.]",,Y,Te2-728,Te2-730
+Te2-730,THE END,,Woman,Please! Don’t kill me!,,N,Te2-729,Te2-731
+Te2-731,THE END,,Rikimaru,"It’s okay, we’re here to help.",,N,Te2-730,Te2-732
+Te2-732,THE END,,Woman,Oh thank goodness. His Lordship is still inside; so are Lady Kei and Princess Kiku!,,N,Te2-731,Te2-733
+Te2-733,THE END,,Tatsumaru,"Ayame, find Lady Kei and the Princess. Rikimaru, come with me, we must rescue Lord Gohda.",,N,Te2-732,Te2-734
+Te2-734,THE END,,,"[Next scene. Rikimaru and Tatsumaru run along the wall, but suddenly Tatsumaru notices someone and stops.]",,Y,Te2-733,Te2-735
+Te2-735,THE END,,Tatsumaru,"Wait, Rikimaru. Go find his Lordship. I’ll catch up later.",,N,Te2-734,Te2-736
+Te2-736,A Shadow,,,"[Tatsumaru sneak through burning Gohda Castle killing Motohide’s soldiers. Finally, Tatsumaru overtakes the strange samurai in theotral clothing. He cuts the clothes and we see that it is Kagami.]",,Y,Te2-735,Te2-737
+Te2-737,A Shadow,,Tatsumaru,So… you’re a woman…,,N,Te2-736,Te2-738
+Te2-738,A Shadow,,Kagami,"Very perceptive. And I recognize your sword. So, old man Azuma finally retires…",,N,Te2-737,Te2-739
+Te2-739,A Shadow,,Tatsumaru,Who are you?,,N,Te2-738,Te2-740
+Te2-740,A Shadow,,Kagami,"I’m Lady Kagami, Master of the Nyogetsu Ninjas.",,N,Te2-739,Te2-741
+Te2-741,A Shadow,,Tatsumaru,You lead Lord Toda’s ninjas? Perfect… Today I put an end to the rivalry between our clans.,,N,Te2-740,Te2-742
+Te2-742,A Shadow,,Kagami,Our rivalry will end this day… but it doesn’t need to end in blood.,,N,Te2-741,Te2-743
+Te2-743,A Shadow,,Tatsumaru,What do you mean?,,N,Te2-742,Te2-744
+Te2-744,A Shadow,,Kagami,Our clans are enemies only because Toda and Gohda wanted that way. We divided… and easily controlled…,,N,Te2-743,Te2-745
+Te2-745,A Shadow,,Tatsumaru,What are you talking about?,,N,Te2-744,Te2-746
+Te2-746,A Shadow,,Kagami,Join us! Together our clans will be unstoppable! We can create a new world… a world ruled by the ninja!,,N,Te2-745,Te2-747
+Te2-747,A Shadow,,Tatsumaru,Never! Ninja lives in the shadows!,,N,Te2-746,Te2-748
+Te2-748,A Shadow,,Kagami,Do you really want to live your whole life in the dark?,,N,Te2-747,Te2-749
+Te2-749,A Shadow,,Tatsumaru,Of course! The darkness is my home!,,N,Te2-748,Te2-750
+Te2-750,A Shadow,,Kagami,"Fool! You’re servant, not a warrior. My people follow orders, but they fight for a dream! Freedom! What are you fight for?",,N,Te2-749,Te2-751
+Te2-751,A Shadow,,Tatsumaru,My Lord.,,N,Te2-750,Te2-752
+Te2-752,A Shadow,,Kagami,As you wish… It is the wrong choice… but it is yours. What a waste… Seiryu!,,N,Te2-751,Te2-753
+Te2-753,A Shadow,,Seiryu,"Yes, Lady Kagami!",,N,Te2-752,Te2-754
+Te2-754,A Shadow,,Kagami,"I admire you, Master of the Azuma…. but I cannot have you interfering with my dream! (leaves]",,N,Te2-753,Te2-755
+Te2-755,A Shadow,,Tatsumaru,Wait!,,N,Te2-754,Te2-756
+Te2-756,A Shadow,,Seiryu,"First, you’ll have to get past me! (takes off his mask]",,N,Te2-755,Te2-757
+Te2-757,A Shadow,,,[They fight. Tatsumaru wins and strike the final blow. Seiryu fall of the roof they standing and dies. Tatsumaru goes to Ayame.],,Y,Te2-756,Te2-758
+Te2-758,A Shadow,,Tatsumaru,Ayame…,,N,Te2-757,Te2-759
+Te2-759,A Shadow,,Ayame,Motohide murdered Lady Kei and he kidnapped princess Kiku. I’m going after her!,,N,Te2-758,Te2-760
+Te2-760,A Shadow,,,[She jumps out of the window. Tatsumaru goes ahead and meets Sekiya Naotada.],,Y,Te2-759,Te2-761
+Te2-761,A Shadow,,Sekiya,Halt! Friend or foe?,,N,Te2-760,Te2-762
+Te2-762,A Shadow,,Tatsumaru,Friend. I’m Tatsumaru of the Azuma Ninja.,,N,Te2-761,Te2-763
+Te2-763,A Shadow,,Sekiya,"Oh, well met! Tatsumaru… I didn’t recognize you… we’re grateful for your protection.",,N,Te2-762,Te2-764
+Te2-764,A Shadow,,Tatsumaru,Sire Sekiya… I must inform you that Lady Kei has been murdered by Motohide. We were too slow in reaching the Castle.,,N,Te2-763,Te2-765
+Te2-765,A Shadow,,Sekiya,Ah… Lady Kei… dead?,,N,Te2-764,Te2-766
+Te2-766,A Shadow,,Tatsumaru,And… Princess Kiku has been kidnapped. It was entirely my fault.,,N,Te2-765,Te2-767
+Te2-767,A Shadow,,Sekiya,"No… no… the fault is mine! I… should have been alert to Motohide’s treachery. Oh, the poor child…",,N,Te2-766,Te2-768
+Te2-768,A Shadow,,Tatsumaru,Ayame is chasing the kidnappers.,,N,Te2-767,Te2-769
+Te2-769,A Shadow,,Sekiya,Good. What about Lord Gohda?,,N,Te2-768,Te2-770
+Te2-770,A Shadow,,Tatsumaru,Rikimaru will rescue him.,,N,Te2-769,Te2-771
+Te2-771,A Shadow,,Jubei,Sire Sekiya…,,N,Te2-770,Te2-772
+Te2-772,A Shadow,,Sekiya,"What is it, Jubei?",,N,Te2-771,Te2-773
+Te2-773,A Shadow,,Jubei,Enemy troops are attacking on our border… They bear the crest of Lord Toda…,,N,Te2-772,Te2-774
+Te2-774,A Shadow,,Sekiya,Toda?! What’s not possible… News of the rebellion won’t reach his castle for… uh… Motohide! He betrayed us to that jackal Toda!,,N,Te2-773,Te2-775
+Te2-775,A Shadow,,Tatsumaru,Sire Sekiya… I just killed the Nyogetsu ninja in the castle.,,N,Te2-774,Te2-776
+Te2-776,A Shadow,,Sekiya,What? Toda’s ninjas… are here?!,,N,Te2-775,Te2-777
+Te2-777,A Shadow,,Tatsumaru,"Yes, sire Sekiya.",,N,Te2-776,Te2-778
+Te2-778,A Shadow,,Sekiya,So… Now we know who is behind all this…,,N,Te2-777,Te2-779
+Te2-779,A Shadow,,Tatsumaru,Sire Sekiya… I will bring you the head of Toda Yoshisada!,,N,Te2-778,Te2-780
+Te2-780,A Shadow,,Sekiya,"He will be protected by legions of troops… No, no… the risk is too great.",,N,Te2-779,Te2-781
+Te2-781,A Shadow,,Tatsumaru,The risk is greater if we don’t act. My life is a small price to pay.,,N,Te2-780,Te2-782
+Te2-782,A Shadow,,Sekiya,Very well… but... be careful.,,N,Te2-781,Te2-783
+Te2-783,A Shadow,,,[Next scene. Toda’s War Camp.],,Y,Te2-782,Te2-784
+Te2-784,A Shadow,,Tatsumaru,"Now, where could Toda be hiding?",,N,Te2-783,Te2-785
+Te2-785,The Head of Lord Toda,,,[Tatsumaru sneaks through the camp killing the soldiers. Soon he finds Lord Toda's tent…],,Y,Te2-784,Te2-786
+Te2-786,The Head of Lord Toda,,Soldier,Lord Toda. What have we do to Lord Motohide’s body?,,N,Te2-785,Te2-787
+Te2-787,The Head of Lord Toda,,Lord Toda,Let it rot at where it lies! It have no use anymore. Prepare the troops! In two hours we march at Gohda Castle!,,N,Te2-786,Te2-788
+Te2-788,The Head of Lord Toda,,Soldier,"Yes, sir. (leaves]",,N,Te2-787,Te2-789
+Te2-789,The Head of Lord Toda,,Lord Toda,Finally… No one realizes how hard I work to make this cowardly peasants throw themselves to the enemy’s spears! But the reward for my years of sacrifice comes NOW!  What do you want?,(Tatsumaru enter the tent) ,N,Te2-788,Te2-790
+Te2-790,The Head of Lord Toda,,Tatsumaru,I have come for your head!,,N,Te2-789,Te2-791
+Te2-791,The Head of Lord Toda,,Lord Toda,Gohda sent you! GUARDS! GUARDS!,,N,Te2-790,Te2-792
+Te2-792,The Head of Lord Toda,,,[Two soldiers with bow and spear appears. The fight begins. Tatsumaru defeat Lord Toda.],,Y,Te2-791,Te2-793
+Te2-793,The Head of Lord Toda,,Lord Toda,NO! Not this way! I’m Lord Toda! I cannot die at the hands of a lowly ninja!,,N,Te2-792,Te2-794
+Te2-794,The Head of Lord Toda,,,[Kagami enters the tent.],,Y,Te2-793,Te2-795
+Te2-795,The Head of Lord Toda,,Tatsumaru,You’re too late. Now you’re masterless! What are you doing?!,,N,Te2-794,Te2-796
+Te2-796,The Head of Lord Toda,,,[Kagami decapitates Toda.],,Y,Te2-795,Te2-797
+Te2-797,The Head of Lord Toda,,Tatsumaru,That’s your master!,,N,Te2-796,Te2-798
+Te2-798,The Head of Lord Toda,,Kagami,I am my own master! (leaves with Toda’s head],,N,Te2-797,Te2-799
+Te2-799,The Head of Lord Toda,,Tatsumaru,Wait!,,N,Te2-798,Te2-800
+Te2-800,The Head of Lord Toda,,,[Tatsumaru follows her and they come to the top of a huge cliff. Kagami sets Toda's head down and throws her into the abyss. We hear shouting of soldiers from below and see torches.],,Y,Te2-799,Te2-801
+Te2-801,The Head of Lord Toda,,Kagami, You have just witnessed the birth of the Burning Dawn! Soon you will see the dawn of the new day – the day of the ninja!  You won’t change your mind? I see. Then you must DIE!,(to soldiers) (to Tatsumaru) ,N,Te2-800,Te2-802
+Te2-802,The Head of Lord Toda,,,"[They fight. After that we see the fateful cutscene - Tatsumaru fights Kagami at the top of the cliff. Ayame running to him. Suddenly, part of the rock breaks off. Tatsumaru and Kagami falls into the sea.]",,Y,Te2-801,Te2-803
+Te2-803,The Head of Lord Toda,,Ayame,Tatsumaru!,,N,Te2-802,Te2-804
+Te2-804,The Head of Lord Toda,,,"[Ayame lying on the edge of the rock, looks sadly at the sea. A ribbon from Tatsumaru's clothes is floating on the water.]",,Y,Te2-803,Te2-805
+Te2-805,The Head of Lord Toda,,Tatsumaru,Where… Where am I? I can barely move… Oh…,,N,Te2-804,Te2-806
+Te2-806,The Head of Lord Toda,,,[Kagami drags Tatsumaru out of the water onto the beach.],,Y,Te2-805,Te2-807
+Te2-807,The Head of Lord Toda,,Kagami,"You’ve cost me a lot of trouble, ninja. Though…. You are not displeasing me…",,N,Te2-806,Te2-808
+Te2-808,The Head of Lord Toda,,,"[She draws her sword, but… cat kill him. Instead, she gives him CPR.]",,Y,Te2-807,Te2-809
+Te2-809,The Head of Lord Toda,,Tatsumaru, Who am I?,(coughs) ,N,Te2-808,Te2-810
+Te2-810,The Head of Lord Toda,,Kagami,What?,,N,Te2-809,Te2-811
+Te2-811,The Head of Lord Toda,,Tatsumaru,Please… what’s my name? I can’t remember… (losing consciousness],,N,Te2-810,Te2-812
+Te2-812,The Head of Lord Toda,,Kagami,You don’t fool me with your clever tricks… Get up!,,N,Te2-811,Te2-813
+Te2-813,The Head of Lord Toda,,ACT II,THE SHIFTING SANDS (流砂 / Quicksand],,N,Te2-812,Te2-814
+Te2-815,The Head of Lord Toda,,Kagami,"Honored allies, allow me to introduce you to the newest Lord of the Burning Dawn… Seiryu, the Blue Dragon!",,N,Te2-814,Te2-816
+Te2-816,The Head of Lord Toda,,Genbu,You gonna make HIM a LORD?! He just join!,,N,Te2-815,Te2-817
+Te2-817,The Head of Lord Toda,,Kagami,"Silence! If you doubt his strength or courage, you may fight him…",,N,Te2-816,Te2-818
+Te2-818,The Head of Lord Toda,,Genbu,"No, no… If he okay with Lady Kagami, he okay with Genbu.",,N,Te2-817,Te2-819
+Te2-819,The Head of Lord Toda,,Kagami,Suzaku? Byakko? What do you say?,,N,Te2-818,Te2-820
+Te2-820,The Head of Lord Toda,,Suzaku,I think he’ll prove very useful… against certain enemies…,,N,Te2-819,Te2-821
+Te2-821,The Head of Lord Toda,,Byakko,"Hopefully he’ll be more useful than previous Blue Dragon. Eh, Chiro? (he roars]",,N,Te2-820,Te2-822
+Te2-822,The Head of Lord Toda,,Kagami,I’ve got an important assignment for assembled Lords. I want you to go to one of the frontier towns and capture villagers. I need more laborers to the Fire Demon.  Put on this mask... and close your heart. Remember... the dream must ALWAYS take priority.,(to Seiryu) ,N,Te2-821,Te2-823
+Te2-823,Labour Shortage,,,"[Seiryu sneaks up on the village In the cover of night, knocking out the villagers that guarding it. Later, he returns to the Burning Dawn hideout.]",,Y,Te2-822,Te2-824
+Te2-824,Labour Shortage,,Kagami,Seiryu… you're back. Well done. I've got another job for you. Gohda's Ninja has discovered our secret harbor. You must protect our shipment of slaves. Eliminate anyone who could pose a threat. Hurry.,,N,Te2-823,Te2-825
+Te2-825,Guarding the Secret Harbor,,,"[Seiryu will have to kill many of Lord of the Gohda's guards that came on a ship to protect the island. When Seiryu gets to the ship, he is greeted by an old, decrepit old man in a Samurai armor. The sword trembles in his hand, but his will remains unshaken.]",,Y,Te2-824,Te2-826
+Te2-826,Guarding the Secret Harbor,,Urano Takehito,I'll... I'll fight you. Wait... Wait... Just a minute... My back…,,N,Te2-825,Te2-827
+Te2-827,Guarding the Secret Harbor,,,[Seiryu shows respect and fights him as an equal. He wins.],,Y,Te2-826,Te2-828
+Te2-828,Guarding the Secret Harbor,,Urano Takehito,"Oh, my aching back! (dies]",,N,Te2-827,Te2-829
+Te2-829,Guarding the Secret Harbor,,,"[After that, Seiryu descends into the hold, where he stumbles upon Rikimaru.]",,Y,Te2-828,Te2-830
+Te2-830,Guarding the Secret Harbor,,Rikimaru,Who are you?,,N,Te2-829,Te2-831
+Te2-831,Guarding the Secret Harbor,,,[Seiryu takes out his sword.],,Y,Te2-830,Te2-832
+Te2-832,Guarding the Secret Harbor,,Rikimaru,That blade… It’s Izayoi!,,N,Te2-831,Te2-833
+Te2-833,Guarding the Secret Harbor,,,[Seiryu takes off the mask.],,Y,Te2-832,Te2-834
+Te2-834,Guarding the Secret Harbor,,Rikimaru,Tatsumaru! You’re alive!,,N,Te2-833,Te2-835
+Te2-835,Guarding the Secret Harbor,,Ninja,Who’s Tatsumaru? I am Seiryu the Blue Dragon! One of the four Lords of the Burning Dawn!,,N,Te2-834,Te2-836
+Te2-836,Guarding the Secret Harbor,,,[Seiryu attacks Rikimaru.],,Y,Te2-835,Te2-837
+Te2-837,Guarding the Secret Harbor,,Rikimaru,"Burning Dawn? What are you talking about? You’re Tatsumaru, leader of the Azuma Ninja.",,N,Te2-836,Te2-838
+Te2-838,Guarding the Secret Harbor,,Seiryu,I have no time to talk to a mad man.,,N,Te2-837,Te2-839
+Te2-839,Guarding the Secret Harbor,,Rikimaru,"Tatsumaru! It’s me, Rikimaru!",,N,Te2-838,Te2-840
+Te2-840,Guarding the Secret Harbor,,,[Seiryu jumps and disappears. He returns to the Burning Dawn hideout.],,Y,Te2-839,Te2-841
+Te2-841,Guarding the Secret Harbor,,Kagami,"First the mountain village and now my harbor? May the Gods curse Gohda and those Azuma Ninjas. Well, if he wants to expose my secret harbor, I'll expose his secret quarantine village. Seiryu! We're going to attack Gohda's weak point, his quarantine village near Gohda Castle. We'll teach him a lesson in humiliation.",,N,Te2-840,Te2-842
+Te2-842,No Mercy,,,"[Seiryu kills all the quarantine village guards so Kagami may enter it. On the stairs at the entrance to the village, they find a dying man. He can barely speak.]",,Y,Te2-841,Te2-843
+Te2-843,No Mercy,,Diseased Villager,Please... we're dying anyway. Can't you let us... live out the little time we have left?,,N,Te2-842,Te2-844
+Te2-844,No Mercy,,,"[He's reaching out to Kagami, begging for mercy.]",,Y,Te2-843,Te2-845
+Te2-845,No Mercy,,Kagami," The cries of the weak are so pitiful. I cannot help laughing. Isn't it funny, Seiryu?",(laughs) ,N,Te2-844,Te2-846
+Te2-846,No Mercy,,Seiryu,Is this how you attain your dream?,,N,Te2-845,Te2-847
+Te2-847,No Mercy,,Kagami,Yes. I grow my dream on their rotting corpses. Water it with their blood. I’ll… I’ll…,,N,Te2-846,Te2-848
+Te2-848,No Mercy,,,[She squatters and starts coughing.],,Y,Te2-847,Te2-849
+Te2-849,No Mercy,,Seiryu,"Who are you trying to fool, Kagami?",,N,Te2-848,Te2-850
+Te2-850,No Mercy,,Kagami,I'm not... trying to fool anyone.  I'm happy. I rejoice in this carnage.,(sobs) ,N,Te2-849,Te2-851
+Te2-851,No Mercy,,Seiryu,Then why are there tears in your eyes?,,N,Te2-850,Te2-852
+Te2-852,No Mercy,,Kagami,It's just sweat in my eyes…,,N,Te2-851,Te2-853
+Te2-853,No Mercy,,,[Seiryu approaches and hugs her.],,Y,Te2-852,Te2-854
+Te2-854,No Mercy,,Kagami,What are you doing? Let me go! Let me go!,,N,Te2-853,Te2-855
+Te2-855,No Mercy,,,[She's rushing out of his arms.],,Y,Te2-854,Te2-856
+Te2-856,No Mercy,,Kagami,You have your orders. Go now and burn the Azuma village to the ground. There is no going back. We have to it do this way. I owe it all the ninjas who believe in my dream. I owe it to all those who died following my orders.,,N,Te2-855,Te2-857
+Te2-857,No Mercy,,,[The camera's pulling back. We see that their conversation was eavesdropping by Ayame.],,Y,Te2-856,Te2-858
+Te2-858,No Mercy,,Ayame,"Tatsumaru! It is you! I knew you wasn’t dead, I just knew it… but that are you doing here? There’s an enemies! And who’s that woman? Oh, it's so good to see you!",,N,Te2-857,Te2-859
+Te2-859,No Mercy,,Man,"Look, do I know you?",,N,Te2-858,Te2-860
+Te2-860,No Mercy,,Ayame,Ha… very funny. You big jerk!,,N,Te2-859,Te2-861
+Te2-861,No Mercy,,Man,"No, I never seen you before in my life.",,N,Te2-860,Te2-862
+Te2-862,No Mercy,,Ayame,"What do you mean? It’s Ayame of the Azuma Ninja! Come on, Tatsumaru!",,N,Te2-861,Te2-863
+Te2-863,No Mercy,,Man,"Look, I don’t know any “Tatsumaru”. I’m Seiryu, Lord of the Burning Dawn. Goodbye.",,N,Te2-862,Te2-864
+Te2-864,No Mercy,,Ayame,Wait… Please. Don’t go!,,N,Te2-863,Te2-865
+Te2-865,No Mercy,,,[Three ninjas jump from somewhere above.],,Y,Te2-864,Te2-866
+Te2-866,No Mercy,,Ninja of the Burning Dawn,Lord Seiryu! We’ll deal with this little nuisance.,,N,Te2-865,Te2-867
+Te2-867,No Mercy,,Seiryu,I… very well.,,N,Te2-866,Te2-868
+Te2-868,No Mercy,,,[He leaves.],,Y,Te2-867,Te2-869
+Te2-869,Assault on the Azuma Ninja Village,,,"[The village is on fire. Seiryu kills the remaining defenders. Soon he comes to his teacher's house. Inside, Lord Gohda finishes off one of the Burning Dawn soldiers.]",,Y,Te2-868,Te2-870
+Te2-870,Assault on the Azuma Ninja Village,,Gohda Matsunoshin,You!,,N,Te2-869,Te2-871
+Te2-871,Assault on the Azuma Ninja Village,,,"[He's trying to attack, but Seiryu is knocking out his former lord with one blow.]",,Y,Te2-870,Te2-872
+Te2-872,Assault on the Azuma Ninja Village,,Shiunsai,"Tatsumaru! So, my past has caught up with me. Since I killed your Father. Perhaps it is my karma to die at your hands, Tatsumaru. And… perhaps not. I may be old, but I can still fight.",,N,Te2-871,Te2-873
+Te2-873,Assault on the Azuma Ninja Village,,,"[They're fighting. After winning, Seiryu kills her former teacher with one blow. But... while the teacher's body was falling on the floor covered in blood... he understood something...]",,Y,Te2-872,Te2-874
+Te2-874,Assault on the Azuma Ninja Village,,Tatsumaru,"Who is this old man? Does he really know me? I don't remember him, but... I feel like I just lost someone vitally important to me.",,N,Te2-873,Te2-875
+Te2-875,Assault on the Azuma Ninja Village,,,[Rikimaru enters.],,Y,Te2-874,Te2-876
+Te2-876,Assault on the Azuma Ninja Village,,Rikimaru,Master!,,N,Te2-875,Te2-877
+Te2-877,Assault on the Azuma Ninja Village,,,"[When he arrives at Shiunsai's house, he finds his teacher and Lord Gohda dead, and their killer... Seiryu. Rikimaru takes out a sword. Seiryu takes his own.]",,Y,Te2-876,Te2-878
+Te2-878,Assault on the Azuma Ninja Village,,Rikimaru,Tatsumaru! You’ve betrayed your clan and your family! You will DIE!,,N,Te2-877,Te2-879
+Te2-879,Assault on the Azuma Ninja Village,,,"[They're fighting. In the heat of battle, Seiryu looks back at Shiunsai's body, loses his balance and falls to the floor. Rikimaru brings his sword over him.]",,Y,Te2-878,Te2-880
+Te2-880,Assault on the Azuma Ninja Village,,Rikimaru,Tatsumaru… prepare to DIE!,,N,Te2-879,Te2-881
+Te2-881,Assault on the Azuma Ninja Village,,Shiunsai,What's wrong with you? Do it!,,N,Te2-880,Te2-882
+Te2-882,Assault on the Azuma Ninja Village,,Rikimaru,I... I can't!,,N,Te2-881,Te2-883
+Te2-883,Assault on the Azuma Ninja Village,,,"[Rikimaru swings the sword, but the blow does not reach the target. As Rikimaru hesitates, Seiryu takes out his sword and is about to strike. Rikimaru has every chance to repel the blow, but takes away the weapon and turns away, resulting in a scar on his right eye. We hear a scream from outside of the house and a corpse of old man crushing in, breaking the wall. In the formed opening we see Kagami.]",,Y,Te2-882,Te2-884
+Te2-884,Assault on the Azuma Ninja Village,,Kagami,"Never start a fight you’re not prepared to finish, boy.",,N,Te2-883,Te2-885
+Te2-885,Assault on the Azuma Ninja Village,,Rikimaru,YOU!,,N,Te2-884,Te2-886
+Te2-886,Assault on the Azuma Ninja Village,,Kagami,Seiryu? We’re leaving.,,N,Te2-885,Te2-887
+Te2-887,Assault on the Azuma Ninja Village,,Seiryu,Yes.,,N,Te2-886,Te2-888
+Te2-888,Assault on the Azuma Ninja Village,,Rikimaru,You’re not going anywhere!,,N,Te2-887,Te2-889
+Te2-889,Assault on the Azuma Ninja Village,,,"[Rikimaru tries to attack Kagami, but she easily repels his blow.]",,Y,Te2-888,Te2-890
+Te2-890,Assault on the Azuma Ninja Village,,Kagami,"Your anger betrays you. You cannot conquer me if you cannot conquer your feelings. You didn’t kill Seiryu, so I would spare you. Listen carefully, Rikimaru… A new day is dawning. Conquer your emotions, attain selflessness and then I let you join us.",,N,Te2-889,Te2-891
+Te2-891,Assault on the Azuma Ninja Village,,,"[She run of the house along with Seiryu. Ayame gets in their way, but... Kagami without the slightest effort beats off her swords and, with Seiryu, runs past her. Soon they stop in a forest.]",,Y,Te2-890,Te2-892
+Te2-892,Assault on the Azuma Ninja Village,,Kagami,We can rest here for a minute.,,N,Te2-891,Te2-893
+Te2-893,Assault on the Azuma Ninja Village,,Seiryu,Don't worry about me. I'll be alright.,,N,Te2-892,Te2-894
+Te2-894,Assault on the Azuma Ninja Village,,Kagami,"Why would I worry about you, big lug? All the same. You'd better let me see that wound.",,N,Te2-893,Te2-895
+Te2-895,Assault on the Azuma Ninja Village,,,[She's bandaging his wounds.],,Y,Te2-894,Te2-896
+Te2-896,Assault on the Azuma Ninja Village,,Kagami,Seiryu. Remember what we work for? You only allowed to die that serves me. So don't get yourself killed without my permission.,,N,Te2-895,Te2-897
+Te2-897,Assault on the Azuma Ninja Village,,Seiryu,(laugh],,N,Te2-896,Te2-898
+Te2-898,Assault on the Azuma Ninja Village,,Kagami,And what is so funny?,,N,Te2-897,Te2-899
+Te2-899,Assault on the Azuma Ninja Village,,Seiryu,I'll get to work on that dying in a way that serves you.,,N,Te2-898,Te2-900
+Te2-900,Assault on the Azuma Ninja Village,,Kagami,Make sure you do that. I forbid you to die under any other…,,N,Te2-899,Te2-901
+Te2-901,Assault on the Azuma Ninja Village,,,[Ayame runs in.],,Y,Te2-900,Te2-902
+Te2-902,Assault on the Azuma Ninja Village,,Ayame,Tatsumaru!,,N,Te2-901,Te2-903
+Te2-903,Assault on the Azuma Ninja Village,,Kagami,"What a stubborn little girl. When you arrive in hell, let everyone know Lady Kagami sent you. (draw her sword]",,N,Te2-902,Te2-904
+Te2-904,Assault on the Azuma Ninja Village,,Ayame,"So,you're Kagami! The one with drooling idiot followers! How do you add Tatsumaru to your pack of losers?",,N,Te2-903,Te2-905
+Te2-905,Assault on the Azuma Ninja Village,,Kagami,You insolent brat! I'll skin you alive!  What are you doing?,(Seiryu stops her) ,N,Te2-904,Te2-906
+Te2-906,Assault on the Azuma Ninja Village,,Seiryu,You let her provoke you. Forgot the dream. I will handle her.,,N,Te2-905,Te2-907
+Te2-907,Assault on the Azuma Ninja Village,,Kagami,"No! She’s just a child… She cannot provoke me. She… she… You’re right. I lost control. Shamed myself. You deal with her. But be careful. Remember your wound. Come home to me safely, Seiryu… (leaves]",,N,Te2-906,Te2-908
+Te2-908,Assault on the Azuma Ninja Village,,Ayame,Tatsumaru… Did you kill Master Shiunsai? Tell me it’s not true…,,N,Te2-907,Te2-909
+Te2-909,Assault on the Azuma Ninja Village,,Seiryu,That old man was your teacher?,,N,Te2-908,Te2-910
+Te2-910,Assault on the Azuma Ninja Village,,Ayame,"He was your teacher too… He was like a father to us! Have you really forgot everything? Can’t you remember any of it? All that time we spent together… it wasn’t real? Is that what you saying, Tatsu?",,N,Te2-909,Te2-911
+Te2-911,Assault on the Azuma Ninja Village,,Young Ayame (in Tatsumaru’s head),"When I grow up, I marry you, Tatsu! And we live happily ever after! In a big, beautiful church! Tatsu, Tatsu, Tatsu…",,N,Te2-910,Te2-912
+Te2-912,Assault on the Azuma Ninja Village,,Ayame,Tatsu…,,N,Te2-911,Te2-913
+Te2-913,Assault on the Azuma Ninja Village,,Tatsumaru,Ayame… Your name… is Ayame.,,N,Te2-912,Te2-914
+Te2-914,Assault on the Azuma Ninja Village,,Ayame,Ah! You remember!,,N,Te2-913,Te2-915
+Te2-915,Assault on the Azuma Ninja Village,,,[She runs to him but he attacks her.],,Y,Te2-914,Te2-916
+Te2-916,Assault on the Azuma Ninja Village,,Ayame,Tatsu… maru…,,N,Te2-915,Te2-917
+Te2-917,Assault on the Azuma Ninja Village,,Seiryu,Ayame… you must forget about me. Tatsumaru is dead! There is only Seiryu now!,,N,Te2-916,Te2-918
+Te2-918,Assault on the Azuma Ninja Village,,Ayame,But… you got your memory back… it can be like it was again…,,N,Te2-917,Te2-919
+Te2-919,Assault on the Azuma Ninja Village,,Seiryu,No… it can’t.,,N,Te2-918,Te2-920
+Te2-920,Assault on the Azuma Ninja Village,,Ayame,Why? WHY?,,N,Te2-919,Te2-921
+Te2-921,Assault on the Azuma Ninja Village,,Seiryu,Because that’s the way it is. If we meet again I WILL kill you!,,N,Te2-920,Te2-922
+Te2-922,Assault on the Azuma Ninja Village,,,[He leaves. Rikimaru enters.],,Y,Te2-921,Te2-923
+Te2-923,Assault on the Azuma Ninja Village,,Kagami,"Seiryu, have you taken care of that annoying girl?",,N,Te2-922,Te2-924
+Te2-924,Assault on the Azuma Ninja Village,,Seiryu,Yes. I...,,N,Te2-923,Te2-925
+Te2-925,Assault on the Azuma Ninja Village,,Kagami,What?,,N,Te2-924,Te2-926
+Te2-926,Assault on the Azuma Ninja Village,,Seiryu,Nothing.,,N,Te2-925,Te2-927
+Te2-927,Assault on the Azuma Ninja Village,,,[They walk to the Fire Demon.],,Y,Te2-926,Te2-928
+Te2-928,Assault on the Azuma Ninja Village,,Kagami,"Seiryu… It’s almost finished… The most powerful war ship in history! Finally, my dreams becomes real!",,N,Te2-927,Te2-929
+Te2-929,Assault on the Azuma Ninja Village,,Seiryu,A world ruled by a ninja.,,N,Te2-928,Te2-930
+Te2-930,Assault on the Azuma Ninja Village,,Kagami,"Exactly! We no longer be forced to hide in the night like thieves, we will decide how we live. And how we die!",,N,Te2-929,Te2-931
+Te2-931,Assault on the Azuma Ninja Village,,,[One of the ninja soldiers runs up to Kagami.],,Y,Te2-930,Te2-932
+Te2-932,Assault on the Azuma Ninja Village,,Ninja Soldier,Lady Kagami!,,N,Te2-931,Te2-933
+Te2-933,Assault on the Azuma Ninja Village,,Kagami,Stop shouting! I’m talking to Seiryu.,,N,Te2-932,Te2-934
+Te2-934,Assault on the Azuma Ninja Village,,Ninja Soldier,"I’m sorry, Lady Kagami.",,N,Te2-933,Te2-935
+Te2-935,Assault on the Azuma Ninja Village,,Kagami,What do you want?,,N,Te2-934,Te2-936
+Te2-936,Assault on the Azuma Ninja Village,,Ninja Soldier,There is an intruder in the cave. Probably an Azuma Ninja.,,N,Te2-935,Te2-937
+Te2-937,Assault on the Azuma Ninja Village,,Kagami,Great… It's all we need… Listen up! We’re moving up a schedule forward! Prepare to launch the ship immediately! Our first target – Gohda Castle!,,N,Te2-936,Te2-938
+Te2-938,Assault on the Azuma Ninja Village,,Ninja Soldier,"Yes, my Lady.",,N,Te2-937,Te2-939
+Te2-939,Assault on the Azuma Ninja Village,,Kagami,Seiryu… Do you know why we going to destroy Gohda Castle?,,N,Te2-938,Te2-940
+Te2-940,Assault on the Azuma Ninja Village,,,[Everyone’s froze in anticipation of her reply.],,Y,Te2-939,Te2-941
+Te2-941,Assault on the Azuma Ninja Village,,Kagami,"Our soul purpose in life has been to serve in the endless war between Toda and Gohda! But now… Toda is gone. Gohda is the only thing standing between us and freedom! If we are ever to cast chains off that’ve shackle our spirits for generations, then Gohda must be destroyed! No matter that the cost! Now come on! It’ time to board the Fire Demon. We stand at the dawn of new era.",,N,Te2-940,Te2-942
+Te2-942,Assault on the Azuma Ninja Village,,,[The dock workers are preparing the ship for departure. Kagami orders to shoot from the cannon and pierce the wall of the shelter so that the ship can swim. All bridges are burned. There is no turning back.],,Y,Te2-941,Te2-943
+Te2-943,Assault on the Azuma Ninja Village,,ACT III,Solitude (幽玄 / Mystery],,N,Te2-942,Te2-944
+Te2-945,Assault on the Azuma Ninja Village,,,"[Cutscene: The Fire Demon appears from behind the rocks along with dizel of small ships, colossally inferior to it in size. The ship come closer and starts firing its massive cannons. Meanwhile, Kagami and Seiryu are standing on the observation tower.]",,Y,Te2-944,Te2-946
+Te2-946,Assault on the Azuma Ninja Village,,Kagami,Gohda fights with more courage than I expected… but he cannot defeat the Fire Demon. Gohda Castle will be ours.,,N,Te2-945,Te2-947
+Te2-947,Assault on the Azuma Ninja Village,,Seiryu,Rikimaru and Ayame will be here soon. I will hold them off as long as I can.,,N,Te2-946,Te2-948
+Te2-948,Assault on the Azuma Ninja Village,,Kagami,What was that? Rikimaru? Ayame? How do you know? So... your memory has returned. And why did you come back?,,N,Te2-947,Te2-949
+Te2-949,Assault on the Azuma Ninja Village,,Seiryu,A ninja seeks place to die and through your methods are wrong… this is mine.,,N,Te2-948,Te2-950
+Te2-950,Assault on the Azuma Ninja Village,,Kagami,Why here?,,N,Te2-949,Te2-951
+Te2-951,Assault on the Azuma Ninja Village,,Seiryu,Because your dream is worth dying for.,,N,Te2-950,Te2-952
+Te2-952,Assault on the Azuma Ninja Village,,,[Kagami look shocked. She comes running up and hugs Seiryu behind his back.],,Y,Te2-951,Te2-953
+Te2-953,Assault on the Azuma Ninja Village,,Kagami,...I had no tears before I met you. I never knew joy either. You are my heart.  I love you. If only we’ve met another time… I’ve… This could be different...,(almost whispering) ,N,Te2-952,Te2-954
+Te2-954,Assault on the Azuma Ninja Village,,,[Seiryu turns around and slides his palm over her face.],,Y,Te2-953,Te2-955
+Te2-955,Assault on the Azuma Ninja Village,,Seiryu,Farewell.,,N,Te2-954,Te2-956
+Te2-956,The Final Dawn,,,[Tatsumaru Seiryu Gohda’s soldiers boarding the Fire Demon lithe there’s no tomorrow. It the end he’s destined to face Gohda’s greatest warrior.],,Y,Te2-955,Te2-957
+Te2-957,The Final Dawn,,Tachibana Jubei," Tatsumaru, you're one of the Lords of the Burning Dawn.",(after killing 3 soldiers of the Dawn) ,N,Te2-956,Te2-958
+Te2-958,The Final Dawn,,Seiryu,"Jubei, hello. A mighty samurai dies fighting a mere ninja. It's almost funny.",,N,Te2-957,Te2-959
+Te2-959,The Final Dawn,,Tachibana Jubei,Yes. It would be a ninja. A hired help who stabbed from behind. Let see you fight like a man.,,N,Te2-958,Te2-960
+Te2-960,The Final Dawn,,,"[The battle of a tiger versus a dragon begins. Both opponents are incredibly strong, but Seiryu manages to win. Ayame appears.]",,Y,Te2-959,Te2-961
+Te2-961,The Final Dawn,,Seiryu,Ayame… Don’t you remember that I told you?,,N,Te2-960,Te2-962
+Te2-962,The Final Dawn,,,[She nods.],,Y,Te2-961,Te2-963
+Te2-963,The Final Dawn,,Seiryu,Then you know… I must kill you.,,N,Te2-962,Te2-964
+Te2-964,The Final Dawn,,Ayame,"Oh, you right! We will fight, but you won’t kill me.",,N,Te2-963,Te2-965
+Te2-965,The Final Dawn,,,"[The fight begins. Ayame wins. Izayoi falls out of the hands of Seiryu. Ayame picks it up and puts it to his throat, but she hesitates and cannot finish him off. Seiryu takes the sword with his hands and pierces himself.]",,Y,Te2-964,Te2-966
+Te2-966,The Final Dawn,,Ayame,"Why, Tatsumaru…? Why?",,N,Te2-965,Te2-967
+Te2-967,The Final Dawn,,Tatsumaru,Unforgivable crimes must punished… the traitor must die… (dies],,N,Te2-966,Te2-968
+Te2-968,The Final Dawn,,,[Rikimaru enters.],,Y,Te2-967,Te2-969
+Te2-969,The Final Dawn,,Rikimaru,Ayame?,,N,Te2-968,Te2-970
+Te2-970,The Final Dawn,,,[Cutscene: Barely alive Kagami crawling up to the body of Seiryu.],,Y,Te2-969,Te2-971
+Te2-971,The Final Dawn,,Kagami,Ta… Tatsumaru… Hm… I like the way you name sounds. I wish I had call you Tatsumaru. You kept your promise… you died in a manner that serves me…,,N,Te2-970,Te2-972
+Te2-972,The Final Dawn,,,[Gohda’s archers shot fire arrows at the Fire Demon.],,Y,Te2-971,Te2-973
+Te2-973,The Final Dawn,,Kagami,"Served me in the highest way, but I've failed us. Death has opened my heart... and I see... Oh my love, next time, I will heed my heart. Then, we can truly build a world where ninja will live in the light.",,N,Te2-972,Te2-974
+Te2-974,The Final Dawn,,,"[The Fire Demon explodes and sinking. Next to it, mournfully squawking, a seagull flies by.]",,Y,Te2-973,Te2-975
+Te2-975,SECRET ENDING,,,"[On the next ship, burning like a forest fire, we see Suzaku, who, as it turned out, is still alive. He takes the blindfold off and we realize that it's Onikage from the first game.]",,Y,Te2-974,Te2-976
+Te2-976,SECRET ENDING,,Onikage,"Ha ha. What fun we've had. And I've still got those pesky Azuma Ninjas to torment. Is this enough carnage to satisfy me? NO! No more destruction! More blood! Soon. Soon, the master will return to me. Lord Mei-Oh! I await your return Oh, exalted one!",,N,Te2-975,Te2-977

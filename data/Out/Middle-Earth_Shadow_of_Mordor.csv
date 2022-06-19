@@ -1,0 +1,805 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+MiShofMo-1,,,﻿Galadriel and Sauron,"In the land of Mordor, where the shadow lies…",,N,,MiShofMo-2
+MiShofMo-2,,,Galadriel,"It was here, on the slopes of Mt. Doom, that the dark lord Sauron was defeated by a last alliance of Men and Elves… It is here for two and a half thousand years the Rangers of Gondor stood watch, guarding against a nameless threat they had all but forgotten. And while the strength of Gondor faded, the power and malice of Sauron grew in darkness. He has returned to Mordor. Shadow and flame have fallen on the Black Gate and no mortal man can stand in its path…",,N,MiShofMo-1,MiShofMo-3
+MiShofMo-3,,,,[We see a man with long dark hair in a Ranger uniform with two swords behind his back. It seems he fell into some kind of parallel world.],,Y,MiShofMo-2,MiShofMo-4
+MiShofMo-4,,,Talion,Ioreth! Dirhael!,,N,MiShofMo-3,MiShofMo-5
+MiShofMo-5,,,,"[Suddenly, the world smoothly flows into Talion’s memories. We see him training with his son.]",,Y,MiShofMo-4,MiShofMo-6
+MiShofMo-6,,,Talion,That is a perfect swing for killing chickens.,,N,MiShofMo-5,MiShofMo-7
+MiShofMo-7,,,Dirhael,Wouldn’t want to hurt you.,,N,MiShofMo-6,MiShofMo-8
+MiShofMo-8,,,Talion,"It’ll take a lot more than that. Haha! Dirhael, the mighty chicken killer. Come on, come on. Show your father what you have. You’ll have to hit harder if you want the best your father.",,N,MiShofMo-7,MiShofMo-9
+MiShofMo-9,,,Dirhael,Hard enough?,,N,MiShofMo-8,MiShofMo-10
+MiShofMo-10,,,Talion,"Parry, son. Don’t forget the block.",,N,MiShofMo-9,MiShofMo-11
+MiShofMo-11,,,Dirhael,Perhaps you should not forget to hit.,,N,MiShofMo-10,MiShofMo-12
+MiShofMo-12,,,Talion,"Stay alert, Dirhael. Your enemy will not always be as he appears. Easy son, you’re not a soldier yet.",,N,MiShofMo-11,MiShofMo-13
+MiShofMo-13,,,,[The memory changes dramatically. Talion’s son turns into a bloodthirsty orc.],,Y,MiShofMo-12,MiShofMo-14
+MiShofMo-14,,,Orc,I’ll have your guts!,,N,MiShofMo-13,MiShofMo-15
+MiShofMo-15,,,Talion,Dirhael!,,N,MiShofMo-14,MiShofMo-16
+MiShofMo-16,,,Dirhael,I’m alright! My blade shall rest in your throat!,,N,MiShofMo-15,MiShofMo-17
+MiShofMo-17,,,Talion,"Dirhael, remember your training!",,N,MiShofMo-16,MiShofMo-18
+MiShofMo-18,,,Dirhael,"Father, they charge faster than I can strike!",,N,MiShofMo-17,MiShofMo-19
+MiShofMo-19,,,Talion,"Stand fast, Dirhael!",,N,MiShofMo-18,MiShofMo-20
+MiShofMo-20,,,Dirhael,"Their deaths are far from swift, father!",,N,MiShofMo-19,MiShofMo-21
+MiShofMo-21,,,Talion,"Remember son, lunge deep and cut deeper.",,N,MiShofMo-20,MiShofMo-22
+MiShofMo-22,,,Dirhael,These Orcs are much stronger than any we’ve ever seen.,,N,MiShofMo-21,MiShofMo-23
+MiShofMo-23,,,Talion,"They’re not Orcs, they’re Uruks. They’re far worse and there’s too many. Go find your mother. Go find your mother, keep her safe. I’ll be right behind you, go.",,N,MiShofMo-22,MiShofMo-24
+MiShofMo-24,,,,[The memory smoothly ends. Talion returns to the parallel world.],,Y,MiShofMo-23,MiShofMo-25
+MiShofMo-25,,,Talion,Am I dead?,,N,MiShofMo-24,MiShofMo-26
+MiShofMo-26,,,Elf Ghost,You are banished from death.,,N,MiShofMo-25,MiShofMo-27
+MiShofMo-27,,,,[The sword in Talion’s hand turns into a bouquet of Niphredil. We hear a woman humming and Talion flows into another memory.],,Y,MiShofMo-26,MiShofMo-28
+MiShofMo-28,,,Ioreth,"*singing* On winds and waters may you cross, see mountains white and blue. But on your road, lest not forget the love I have for you.",,N,MiShofMo-27,MiShofMo-29
+MiShofMo-29,,,Talion,"Happy anniversary, my love.",,N,MiShofMo-28,MiShofMo-30
+MiShofMo-30,,,Ioreth,This is beautiful… Where did you find it?,,N,MiShofMo-29,MiShofMo-31
+MiShofMo-31,,,Talion,I still have a few friends left in Gondor.,,N,MiShofMo-30,MiShofMo-32
+MiShofMo-32,,,Ioreth,Did you talk to my father?,,N,MiShofMo-31,MiShofMo-33
+MiShofMo-33,,,Talion,"Yes I did, and nothing has changed. He’s still very stubborn.",,N,MiShofMo-32,MiShofMo-34
+MiShofMo-34,,,Ioreth,I say we go away.,,N,MiShofMo-33,MiShofMo-35
+MiShofMo-35,,,Talion,Dirhael will not come willingly.,,N,MiShofMo-34,MiShofMo-36
+MiShofMo-36,,,Ioreth,There must be a better life than this.,,N,MiShofMo-35,MiShofMo-37
+MiShofMo-37,,,Talion,Not now… but soon.,,N,MiShofMo-36,MiShofMo-38
+MiShofMo-38,,,Ioreth,"I’m just so tired of hiding here, Talion.",,N,MiShofMo-37,MiShofMo-39
+MiShofMo-39,,,,[A moment passes and one memory suddenly jumps into another.],,Y,MiShofMo-38,MiShofMo-40
+MiShofMo-40,,,Talion,"Sh, sh, we must hide now, or we are both dead. Come on.",,N,MiShofMo-39,MiShofMo-41
+MiShofMo-41,,,Ioreth,We should have left when we had the chance.,,N,MiShofMo-40,MiShofMo-42
+MiShofMo-42,,,Talion,"Don’t move. I will clear a path. I am outnumbered, stealth is my only advantage.",,N,MiShofMo-41,MiShofMo-43
+MiShofMo-43,,,,"[He kills all the orcs, but well-armed and armored human commanders take him by surprise.]",,Y,MiShofMo-42,MiShofMo-44
+MiShofMo-44,,,The Tower,"Put the sword down, Ranger.",,N,MiShofMo-43,MiShofMo-45
+MiShofMo-45,,,Ioreth,No! Talion! No!,,N,MiShofMo-44,MiShofMo-46
+MiShofMo-46,,,,"[The Hammer repeatedly beats Talion with a mace, but the Tower stops him.]",,Y,MiShofMo-45,MiShofMo-47
+MiShofMo-47,,,The Tower,The Black Hand wants him alive.,,N,MiShofMo-46,MiShofMo-48
+MiShofMo-48,,,Talion,Ioreth!,,N,MiShofMo-47,MiShofMo-49
+MiShofMo-49,,,The Tower,Take her.,,N,MiShofMo-48,MiShofMo-50
+MiShofMo-50,,,Ioreth,"No! No, let me go! Talion!",,N,MiShofMo-49,MiShofMo-51
+MiShofMo-51,,,,[The Hammer deliberately impales Talion’s palm on the bladed tip of his mace.],,Y,MiShofMo-50,MiShofMo-52
+MiShofMo-52,,,The Hammer,He will live.,,N,MiShofMo-51,MiShofMo-53
+MiShofMo-53,,,,[They are taken outside there we see an already pretty battered Dirhael.],,Y,MiShofMo-52,MiShofMo-54
+MiShofMo-54,,,Dirhael,Father.,,N,MiShofMo-53,MiShofMo-55
+MiShofMo-55,,,Talion,"Dirhael, look at me. I’m right here, son. I’m right here.",,N,MiShofMo-54,MiShofMo-56
+MiShofMo-56,,,The Black Hand,Ghurarmu shirkush’ agh azgushu (A sacriﬁce of blood and bone.],,N,MiShofMo-55,MiShofMo-57
+MiShofMo-57,,,,[He cuts Dirhael’s throat.],,Y,MiShofMo-56,MiShofMo-58
+MiShofMo-58,,,The Black Hand,Zant ya apakurizak  Gul-n’ anakhizak (You will emerge a shadow.],(A bridge for you to follow.) ,N,MiShofMo-57,MiShofMo-59
+MiShofMo-59,,,Talion,Ioreth!,,N,MiShofMo-58,MiShofMo-60
+MiShofMo-60,,,Ioreth,We will be together my love! Soon! Forever!,,N,MiShofMo-59,MiShofMo-61
+MiShofMo-61,,,The Black Hand,Ghurarmu shirkush’ agh azgushu (A sacriﬁce of blood and bone.],,N,MiShofMo-60,MiShofMo-62
+MiShofMo-62,,,,[He cuts Ioreth’s throat.],,Y,MiShofMo-61,MiShofMo-63
+MiShofMo-63,,,The Black Hand,Zant ya apakurizak  Gul-n’ anakhizak  Ghurarmu shirkush’ agh azgushu (A sacrifice of blood and bone.],(A bridge for you to follow.) (You will emerge a shadow.) ,N,MiShofMo-62,MiShofMo-64
+MiShofMo-64,,,,[He cuts Talion’s throat.],,Y,MiShofMo-63,MiShofMo-65
+MiShofMo-65,,,The Black Hand,"Zant ya apakurizak  Gul-n’ anakhizak  Come back to me, Elf Lord.",(A bridge for you to follow.) (You will emerge a shadow.) ,N,MiShofMo-64,MiShofMo-66
+MiShofMo-66,,,,[The memory ends. They’re back in the parallel world.],,Y,MiShofMo-65,MiShofMo-67
+MiShofMo-67,,,Talion,What is this place?,,N,MiShofMo-66,MiShofMo-68
+MiShofMo-68,,,Elf Ghost,See for yourself.,,N,MiShofMo-67,MiShofMo-69
+MiShofMo-69,,,Talion,Mordor…,,N,MiShofMo-68,MiShofMo-70
+MiShofMo-70,,,Elf Ghost,"Now do you believe me, Ranger?",,N,MiShofMo-69,MiShofMo-71
+MiShofMo-71,,,Talion,What has happened to me?,,N,MiShofMo-70,MiShofMo-72
+MiShofMo-72,,,Elf Ghost,You are banished from death. Cast adrift between the world of light and dark. A curse binds us together within the walls of Arda.,,N,MiShofMo-71,MiShofMo-73
+MiShofMo-73,,,Talion,"If what you say is true, then how do we break this curse?",,N,MiShofMo-72,MiShofMo-74
+MiShofMo-74,,,Elf Ghost,We ﬁnd the one who cast it on us. The Black Hand of Sauron.,,N,MiShofMo-73,MiShofMo-75
+MiShofMo-75,,,MIDDLE-EARTH,SHADOW OF MORDOR,,N,MiShofMo-74,MiShofMo-76
+MiShofMo-76,,,,"[Atop a Forge tower. There’s an anvil. The Ghost summons a hammer, studies it.]",,Y,MiShofMo-75,MiShofMo-77
+MiShofMo-77,,,Elf Ghost,This looks familiar.,,N,MiShofMo-76,MiShofMo-78
+MiShofMo-78,,,,"[He strikes the anvil with the hammer, there’s an explosion of light. They jump off the tower and land unharmed]",,Y,MiShofMo-77,MiShofMo-79
+MiShofMo-79,,,Orc,"So we missed one of you at Narchost, eh? An easy mistake to ﬁx!",,N,MiShofMo-78,MiShofMo-80
+MiShofMo-80,,,,"[They kill the orcs, all except one. Talion is about to walk away.]",,Y,MiShofMo-79,MiShofMo-81
+MiShofMo-81,,,Elf Ghost,Go back to him.,,N,MiShofMo-80,MiShofMo-82
+MiShofMo-82,,,,[They Dominate the orc to interrogate him.],,Y,MiShofMo-81,MiShofMo-83
+MiShofMo-83,,,Elf Ghost,What do you know of the Hand of Sauron?,,N,MiShofMo-82,MiShofMo-84
+MiShofMo-84,,,Orc,He is a ﬁend! Made of thin air…,,N,MiShofMo-83,MiShofMo-85
+MiShofMo-85,,,Elf Ghost,What more?,,N,MiShofMo-84,MiShofMo-86
+MiShofMo-86,,,Orc,A slave I had… swears he fought him… I sold him… for a keg of grog… to Gimub the Slaver.,,N,MiShofMo-85,MiShofMo-87
+MiShofMo-87,,,Elf Ghost,That is where we have to go.,,N,MiShofMo-86,MiShofMo-88
+MiShofMo-88,,,Talion,If one can trust an Orc.,,N,MiShofMo-87,MiShofMo-89
+MiShofMo-89,,,Elf Ghost,Trust has nothing to do with it. His thoughts cannot lie.,,N,MiShofMo-88,MiShofMo-90
+MiShofMo-90,,,Talion,The world has changed. Nothing makes sense.,,N,MiShofMo-89,MiShofMo-91
+MiShofMo-91,,,Elf Ghost,Nothing has changed. This is how it will be. The future and the past are linked in darkness.,,N,MiShofMo-90,MiShofMo-92
+MiShofMo-92,,,Talion,I don’t understand why I’m here.,,N,MiShofMo-91,MiShofMo-93
+MiShofMo-93,,,Elf Ghost,And I can’t remember. Let’s go ﬁnd the slaver. His mind may provide answers.,,N,MiShofMo-92,MiShofMo-94
+MiShofMo-94,,,,[],,Y,MiShofMo-93,MiShofMo-95
+MiShofMo-95,,,Talion,Well this doesn’t bode well.,,N,MiShofMo-94,MiShofMo-96
+MiShofMo-96,,,Elf Ghost,Don’t you see? The prisoner created a distraction. Why use your human sight to track the Uruk? I see more than any mortal.,,N,MiShofMo-95,MiShofMo-97
+MiShofMo-97,,,,[],,Y,MiShofMo-96,MiShofMo-98
+MiShofMo-98,,,Elf Ghost,Slay the Orc captain. Cut off the head of the snake and the body will wither.,,N,MiShofMo-97,MiShofMo-99
+MiShofMo-99,,,Talion,Archers. I must take out the eyes of the camp.,,N,MiShofMo-98,MiShofMo-100
+MiShofMo-100,,,,[],,Y,MiShofMo-99,MiShofMo-101
+MiShofMo-101,,,Gimub the Slaver,A pity I have to kill you. You would make a strong slave.,,N,MiShofMo-100,MiShofMo-102
+MiShofMo-102,,,,[],,Y,MiShofMo-101,MiShofMo-103
+MiShofMo-103,,,Talion,So you didn’t die ten years ago.,,N,MiShofMo-102,MiShofMo-104
+MiShofMo-104,,,Man,"I take it you did not come here to arrest me for treason, Captain.",,N,MiShofMo-103,MiShofMo-105
+MiShofMo-105,,,Talion,"You and I are all that remains of that garrison, Hirgon.",,N,MiShofMo-104,MiShofMo-106
+MiShofMo-106,,,Hirgon,Then why did you come here?,,N,MiShofMo-105,MiShofMo-107
+MiShofMo-107,,,Talion,Looking for a slave that fought the Black Hand of Sauron.,,N,MiShofMo-106,MiShofMo-108
+MiShofMo-108,,,Hirgon,More like ran away from him.,,N,MiShofMo-107,MiShofMo-109
+MiShofMo-109,,,Talion,You know this man?,,N,MiShofMo-108,MiShofMo-110
+MiShofMo-110,,,Hirgon,Of course. You’re staring at him.,,N,MiShofMo-109,MiShofMo-111
+MiShofMo-111,,,Talion,Where are the servants of the Dark Lord? Do you even know?,,N,MiShofMo-110,MiShofMo-112
+MiShofMo-112,,,Hirgon,Perhaps.,,N,MiShofMo-111,MiShofMo-113
+MiShofMo-113,,,Talion,This is no time to keep secrets.,,N,MiShofMo-112,MiShofMo-114
+MiShofMo-114,,,Hirgon,"I’ve been stuck here for weeks. Steady… Come to the Outcast Camp, we shall ask my scouts.",,N,MiShofMo-113,MiShofMo-115
+MiShofMo-115,,,Talion,I’ll be there.,,N,MiShofMo-114,MiShofMo-116
+MiShofMo-116,,,,[],,Y,MiShofMo-115,MiShofMo-117
+MiShofMo-117,,,Talion,It’s just another Orc…,,N,MiShofMo-116,MiShofMo-118
+MiShofMo-118,,,Elf Ghost,No. Someone who wants to be seen. We should tread with caution.,,N,MiShofMo-117,MiShofMo-119
+MiShofMo-119,,,Talion,"What sorts of rodent hides in me shadows, I wonder?",,N,MiShofMo-118,MiShofMo-120
+MiShofMo-120,,,Elf Ghost,Something of great power has left its mark on him. I sense it.,,N,MiShofMo-119,MiShofMo-121
+MiShofMo-121,,,Talion,And you feel he has answers?,,N,MiShofMo-120,MiShofMo-122
+MiShofMo-122,,,Elf Ghost,For both of us.,,N,MiShofMo-121,MiShofMo-123
+MiShofMo-123,,,Talion,We should find him then.,,N,MiShofMo-122,MiShofMo-124
+MiShofMo-124,,,Elf Ghost,It shouldn’t be too difﬁcult.,,N,MiShofMo-123,MiShofMo-125
+MiShofMo-125,,,Talion,"These tracks are not quite human, not quite beast.",,N,MiShofMo-124,MiShofMo-126
+MiShofMo-126,,,Elf Ghost,Even more reason to investigate.,,N,MiShofMo-125,MiShofMo-127
+MiShofMo-127,,,,[],,Y,MiShofMo-126,MiShofMo-128
+MiShofMo-128,,,Elf Ghost,"I sense it knows more of me, than I know of myself.",,N,MiShofMo-127,MiShofMo-129
+MiShofMo-129,,,Talion,How could a rodent possibly know of a Wraith?,,N,MiShofMo-128,MiShofMo-130
+MiShofMo-130,,,Elf Ghost,It is somehow connected to me. I feel it.,,N,MiShofMo-129,MiShofMo-131
+MiShofMo-131,,,Talion,Walls are no obstacle for it. The runt’s tracks lead us right into that Caragor cave… There! It’s on the run!,,N,MiShofMo-130,MiShofMo-132
+MiShofMo-132,,,,[],,Y,MiShofMo-131,MiShofMo-133
+MiShofMo-133,,,Talion,What manner of spell is this?,,N,MiShofMo-132,MiShofMo-134
+MiShofMo-134,,,Elf Ghost,"A lost heirloom, Talion.",,N,MiShofMo-133,MiShofMo-135
+MiShofMo-135,,,Talion,You remember?,,N,MiShofMo-134,MiShofMo-136
+MiShofMo-136,,,Elf Ghost,"A few broken images, yes. Though now I wish that I didn’t.",,N,MiShofMo-135,MiShofMo-137
+MiShofMo-137,,,Talion,Your family… was…,,N,MiShofMo-136,MiShofMo-138
+MiShofMo-138,,,Elf Ghost,Perhaps that pain is what connects us.,,N,MiShofMo-137,MiShofMo-139
+MiShofMo-139,,,,[],,Y,MiShofMo-138,MiShofMo-140
+MiShofMo-140,,,Talion,You wretched creature! What do you want?! Quick! It is escaping! Uruk hunters… they must’ve tracked the Caragors here. Your cowardly creature larks around here somewhere.,,N,MiShofMo-139,MiShofMo-141
+MiShofMo-141,,,Gollum,"He will remember. Precious… We will make him.  Yes, yes, yes! We must have it back - We must have it.  Quiet, quiet Precious.",(changes personality) (changes personality) ,N,MiShofMo-140,MiShofMo-142
+MiShofMo-142,,,Talion,"You think you can sneak up on me so easily, eh?!",,N,MiShofMo-141,MiShofMo-143
+MiShofMo-143,,,Gollum,"No! No, don’t hurts us!",,N,MiShofMo-142,MiShofMo-144
+MiShofMo-144,,,Elf Ghost,Ask about the jewel. What does he know of it?,,N,MiShofMo-143,MiShofMo-145
+MiShofMo-145,,,Gollum," Bright Master! Yes, we knows. Bright Master came to us, in our dreams.",(sees Elf Ghost) ,N,MiShofMo-144,MiShofMo-146
+MiShofMo-146,,,Elf Ghost,You… see me…?,,N,MiShofMo-145,MiShofMo-147
+MiShofMo-147,,,,[Gollum bites Talion’s hand.],,Y,MiShofMo-146,MiShofMo-148
+MiShofMo-148,,,Talion,Ah! Filthy creature!,,N,MiShofMo-147,MiShofMo-149
+MiShofMo-149,,,Gollum,"The Precious, it showed us!It showed us treasures of the Bright Master.",,N,MiShofMo-148,MiShofMo-150
+MiShofMo-150,,,Elf Ghost,No more riddles.,,N,MiShofMo-149,MiShofMo-151
+MiShofMo-151,,,Gollum,Yes! We swears! We swears to serve the Bright Master! We takes him to his treasures. Gollum! Gollum!,,N,MiShofMo-150,MiShofMo-152
+MiShofMo-152,,,Talion,I do not trust him.,,N,MiShofMo-151,MiShofMo-153
+MiShofMo-153,,,Elf Ghost,But we need him. Do you wish to know who I am?,,N,MiShofMo-152,MiShofMo-154
+MiShofMo-154,,,,[The scene changes. Talion finds several orcs tied to stakes. All are dead except one.],,Y,MiShofMo-153,MiShofMo-155
+MiShofMo-155,,,Orc,"Ranger! Come close if you want the Black Hand! Those slave scum are pouring poison in your ear. Oh, but you cut these ropes a Ratbag will tell you everything.",,N,MiShofMo-154,MiShofMo-156
+MiShofMo-156,,,Talion,Now what would you know that all these other dead Orcs didn’t?,,N,MiShofMo-155,MiShofMo-157
+MiShofMo-157,,,Ratbag,"Go ahead, ya bastard! Do it! I’ll die and you’ll know nothing.",,N,MiShofMo-156,MiShofMo-158
+MiShofMo-158,,,Talion,Maybe I’ll grant you request… end your miserable life.,,N,MiShofMo-157,MiShofMo-159
+MiShofMo-159,,,Ratbag,"No. NO, no, no, no! I was jesting. Look, those slaves are no match for the Orc army. Their scheme’s as rotten as barrel ﬁsh! But Ratbag can teach you the ways of the Orc… Ratbag can make your plan work!",,N,MiShofMo-158,MiShofMo-160
+MiShofMo-160,,,Talion,We’re going to ﬁnd out what you know.,,N,MiShofMo-159,MiShofMo-161
+MiShofMo-161,,,,[Talion uses his powers to read Ratbag’s mind.],,Y,MiShofMo-160,MiShofMo-162
+MiShofMo-162,,,Ratbag,"Your problem. Ranger, is the Warchiefs. Strong leaders, they are. Now if somethin’ were to happen to them, then they wouldn’t be able to stomp your little insurrection, would they?",,N,MiShofMo-161,MiShofMo-163
+MiShofMo-163,,,Talion,I would hunt them down.,,N,MiShofMo-162,MiShofMo-164
+MiShofMo-164,,,Ratbag,How? They’re not very popular around here. And they know it.,,N,MiShofMo-163,MiShofMo-165
+MiShofMo-165,,,Talion,But you can ﬁnd them?,,N,MiShofMo-164,MiShofMo-166
+MiShofMo-166,,,Ratbag,Oh yes. Ratbag’ll show you the way. You help me. I help you.,,N,MiShofMo-165,MiShofMo-167
+MiShofMo-167,,,Talion,Do not make me regret this deal.,,N,MiShofMo-166,MiShofMo-168
+MiShofMo-168,,,Ratbag,"Marvellous. Now let’s stop fafﬁn’ about, eh. First I need to take care of a certain Captain. And a few Caragors. Come with me, Ranger. You can’t trust them! Those Slaves’ll stab you in the back. At least an Uruk will stab you in the front… Most likely the throat. We have similar goals, Ranger! See, you want to kill the Cap’n and somebody’s got to take his place. Somebody like Ratbag.",,N,MiShofMo-167,MiShofMo-169
+MiShofMo-169,,,Talion,So this Goroth is in charge?,,N,MiShofMo-168,MiShofMo-170
+MiShofMo-170,,,Ratbag,"Of this camp, yea. But he’s no Warchief. They answer directly to The Black Hand. I’ll show them all when I’m in The Black Hand’s inner circle. Becoming a Captain is just the ﬁrst step of Ratbag’s plan to become a Warchief.",,N,MiShofMo-169,MiShofMo-171
+MiShofMo-171,,,Talion,Then prepare to step hard on his neck.,,N,MiShofMo-170,MiShofMo-172
+MiShofMo-172,,,,[They are noticed by one of the orc captains…],,Y,MiShofMo-171,MiShofMo-173
+MiShofMo-173,,,Orc,"How did you get free, scum!",,N,MiShofMo-172,MiShofMo-174
+MiShofMo-174,,,,[Talion defends Ratbag.],,Y,MiShofMo-173,MiShofMo-175
+MiShofMo-175,,,Ratbag,"Well done, Ranger. Now just picture all these corpses as Goroth. Visualize your goals. Goroth’s been out for Ratbag for years. Smug piece of dung that he is. We come to blows as far back as Ratbag can remember… Still, Ratbag never wins. Last time he kicks Ratbag into the Caragor pit. All the others laughed as the Caragor bats Ratbag around like a yarn ball. Oh, that Goroth’s gonna pay… smug piece of dung, he’ll pay… Goroth keeps Caragors… in pens, and rumor has it, he doesn’t like to get too close to ‘em.",,N,MiShofMo-174,MiShofMo-176
+MiShofMo-176,,,Talion,"And let me guess, you think I should open those pens.",,N,MiShofMo-175,MiShofMo-177
+MiShofMo-177,,,Ratbag,Goroth is ALWAYS in there. NEVER leaves. EVER. Wonder where he pees? Oh… that explains the smell!,,N,MiShofMo-176,MiShofMo-178
+MiShofMo-178,,,Talion,Keep out of sight. I’ll see that your Captain gets demoted.,,N,MiShofMo-177,MiShofMo-179
+MiShofMo-179,,,Ratbag,"Splendid plan! You kill, I wait. That’s military genius, that is.",,N,MiShofMo-178,MiShofMo-180
+MiShofMo-180,,,,[Talion overhears two guarding orcs.],,Y,MiShofMo-179,MiShofMo-181
+MiShofMo-181,,,Orc Guard 2,Goroth never comes here. He’s always by the Hunting Camp.,,N,MiShofMo-180,MiShofMo-182
+MiShofMo-182,,,Talion,Goroth’s in the Hunting Camp… so much for him ALWAYS being in the same place. A Captain who fears his own beast.,,N,MiShofMo-181,MiShofMo-183
+MiShofMo-183,,,Elf Ghost,"Fear is a powerful tool, Talion. Let’s put Goroth’s to work.",,N,MiShofMo-182,MiShofMo-184
+MiShofMo-184,,,,[Talion kills Goroth.],,Y,MiShofMo-183,MiShofMo-185
+MiShofMo-185,,,Ratbag,Hey! You two! Hey! Hey! I need you to take a body back to my tent. I’m gonna get me a trophy.,,N,MiShofMo-184,MiShofMo-186
+MiShofMo-186,,,Orc Guard,"Get lost, scum.",,N,MiShofMo-185,MiShofMo-187
+MiShofMo-187,,,Orc Guard 2,We only take orders from Goroth.,,N,MiShofMo-186,MiShofMo-188
+MiShofMo-188,,,Ratbag,"That’s the ﬁlthy corpse I need you to carry. Now, go, go!",,N,MiShofMo-187,MiShofMo-189
+MiShofMo-189,,,Orc Guard,Shut your ﬁsh hole!,,N,MiShofMo-188,MiShofMo-190
+MiShofMo-190,,,,[Ratbag throws Goroth’s ear to their feet.],,Y,MiShofMo-189,MiShofMo-191
+MiShofMo-191,,,Ratbag,"Be respectful, you dunghill worms. Or it’ll be your ear next time! Ratbag is your Captain now.",,N,MiShofMo-190,MiShofMo-192
+MiShofMo-192,,,Orc Guard 2,Let’s go take a gander.,,N,MiShofMo-191,MiShofMo-193
+MiShofMo-193,,,Ratbag,"Yeah. And when you’re done with that, I’ve got more bodies for you to carry. Meet me at the crossroads. An old friend there is about to lose his head.",,N,MiShofMo-192,MiShofMo-194
+MiShofMo-194,,,Talion,"First I’m resurrected by a Wraith, now I’m working with an Orc. What could possibly be next…",,N,MiShofMo-193,MiShofMo-195
+MiShofMo-195,,,Elf Ghost,We must use weapons of our enemy against him. The Orcs hate each other almost as much as they hate us.,,N,MiShofMo-194,MiShofMo-196
+MiShofMo-196,,,,[Back to Ratbag. Apparently he blew everything up in a matter of seconds.],,Y,MiShofMo-195,MiShofMo-197
+MiShofMo-197,,,Ratbag,You call this a duel?,,N,MiShofMo-196,MiShofMo-198
+MiShofMo-198,,,Orc Captain,"No. I call this losing a duel, you glob.",,N,MiShofMo-197,MiShofMo-199
+MiShofMo-199,,,Ratbag,Right here? Is that… Is that good? I’ll just go right here…,,N,MiShofMo-198,MiShofMo-200
+MiShofMo-200,,,Elf Ghost,We’d better hurry. Or he’ll lose his head.,,N,MiShofMo-199,MiShofMo-201
+MiShofMo-201,,,Talion,"Awfully tempting, isn’t it?",,N,MiShofMo-200,MiShofMo-202
+MiShofMo-202,,,Elf Ghost,Blind his many eyes and the beast can’t see you coming.,,N,MiShofMo-201,MiShofMo-203
+MiShofMo-203,,,,[Talion goes to rescue Ratbag.],,Y,MiShofMo-202,MiShofMo-204
+MiShofMo-204,,,Brogg the Twin,These scum are no better than Tarks like you… and I will show everyone here how low that is…,,N,MiShofMo-203,MiShofMo-205
+MiShofMo-205,,,,[Talion kills him.],,Y,MiShofMo-204,MiShofMo-206
+MiShofMo-206,,,Ratbag,"Ranger! Well, now that’s what I call team work, eh?",,N,MiShofMo-205,MiShofMo-207
+MiShofMo-207,,,Talion," Go, before I change my mind.",(cuts him loose) ,N,MiShofMo-206,MiShofMo-208
+MiShofMo-208,,,Ratbag,What about our deal?,,N,MiShofMo-207,MiShofMo-209
+MiShofMo-209,,,Talion,Our deal is over.,,N,MiShofMo-208,MiShofMo-210
+MiShofMo-210,,,Ratbag,"Oh very well then. I just thought that we… right… Wait, wait! Ranger. Watch this! (he cuts Brogg’s ear) Once the Warchief hears of my victory, he’ll make me his personal bodyguard!",,N,MiShofMo-209,MiShofMo-211
+MiShofMo-211,,,Talion,And how does this help me?,,N,MiShofMo-210,MiShofMo-212
+MiShofMo-212,,,Ratbag,"Uh… A backstabbing bodyguard? I’ll take care of one of the Warchiefs for you. And you do the other four on your own… Then we’ll meet at the training camp, right? I’ll make sure the Warchief is there… when you’re ready for him. Whaddya say?",,N,MiShofMo-211,MiShofMo-213
+MiShofMo-213,,,Talion,You make sure you keep your head on your neck this time.,,N,MiShofMo-212,MiShofMo-214
+MiShofMo-214,,,Ratbag,"Yeah right. Well, that’s my plan.",,N,MiShofMo-213,MiShofMo-215
+MiShofMo-215,,,,[He leaves.],,Y,MiShofMo-214,MiShofMo-216
+MiShofMo-216,,,Talion,Orc…  This Ratbag led us up the chain of command in spite of himself.,(to Elf Ghost) ,N,MiShofMo-215,MiShofMo-217
+MiShofMo-217,,,Elf Ghost,He has a gift for failure.,,N,MiShofMo-216,MiShofMo-218
+MiShofMo-218,,,,[In the next scene we see that Elf Ghost was absolutely right… Ratbag failed again. He’s tied up and dangling at the end of a rope],,Y,MiShofMo-217,MiShofMo-219
+MiShofMo-219,,,Ratbag,Hey look. There’s no need to freshen the wounds today. These birds are feeding plenty well as it is.,,N,MiShofMo-218,MiShofMo-220
+MiShofMo-220,,,,[The guard pokes him with a spear.],,Y,MiShofMo-219,MiShofMo-221
+MiShofMo-221,,,Ratbag,"OHH! You bastards! When I am Warchief, these birds will feast on your guts!",,N,MiShofMo-220,MiShofMo-222
+MiShofMo-222,,,,[Talion saves him again.],,Y,MiShofMo-221,MiShofMo-223
+MiShofMo-223,,,Ratbag,Did you see that?! Could you get me down?,,N,MiShofMo-222,MiShofMo-224
+MiShofMo-224,,,,"[Talion cuts the rope and Ratbag falls from high up and lands on a guard’s head, knocking him out.]",,Y,MiShofMo-223,MiShofMo-225
+MiShofMo-225,,,Ratbag,I’m alright! That didn’t hurt at all. Now. I know what yer thinkin’. Ranger. This was not my fault. I go to tell the Chief that I’ve killed his bodyguard. He turns around… Got the exact same face as the dead maggot I just killed… we just killed. Twins! What are the odds of…?!,,N,MiShofMo-224,MiShofMo-226
+MiShofMo-226,,,Talion,Just make sure you show up to take the place of the dead warchief.,,N,MiShofMo-225,MiShofMo-227
+MiShofMo-227,,,Ratbag,"Uh, but the warchief’s not dead.",,N,MiShofMo-226,MiShofMo-228
+MiShofMo-228,,,Talion,I’m going to go kill him!,,N,MiShofMo-227,MiShofMo-229
+MiShofMo-229,,,Ratbag,"Oh, good plan! Uh, I’ll be right behind you.",,N,MiShofMo-228,MiShofMo-230
+MiShofMo-230,,,,"[He searches the body of the guard he just knocked out and finds his dagger. The guard starts to come to, and Ratbag kills the guard with the dagger.]",,Y,MiShofMo-229,MiShofMo-231
+MiShofMo-231,,,Ratbag, It works!,(examining the dagger) ,N,MiShofMo-230,MiShofMo-232
+MiShofMo-232,,,,[Talion finds the stronghold.],,Y,MiShofMo-231,MiShofMo-233
+MiShofMo-233,,,Talion,A training platform. Well we’ll see how the Warchief’s soldiers do in the face of a true foe.,,N,MiShofMo-232,MiShofMo-234
+MiShofMo-234,,,Elf Ghost,Rattle a cage and bring out the beast.,,N,MiShofMo-233,MiShofMo-235
+MiShofMo-235,,,Talion,"If Ratbag is able to tinge the Warchiefs place, it will only be a matter of time before he leads us to The Black Hand.",,N,MiShofMo-234,MiShofMo-236
+MiShofMo-236,,,,[Now it’s time to face Brogg’s twin brother…],,Y,MiShofMo-235,MiShofMo-237
+MiShofMo-237,,,Mogg the Other Twin,The pain of my twin shall echo within you!,,N,MiShofMo-236,MiShofMo-238
+MiShofMo-238,,,,[Talion kills him.],,Y,MiShofMo-237,MiShofMo-239
+MiShofMo-239,,,Ratbag,Finally! Ratbag is Warchief! Ranger! We did it!,,N,MiShofMo-238,MiShofMo-240
+MiShofMo-240,,,Talion,Now honor our arrangement.,,N,MiShofMo-239,MiShofMo-241
+MiShofMo-241,,,Ratbag,"Oh, don’t you worry. Warchief Ratbag’ll take sure nobody gets in the way of your dirty schemes. But Ratbag can’t speak for the other Warchiefs!",,N,MiShofMo-240,MiShofMo-242
+MiShofMo-242,,,Talion,I wouldn’t worry about them.,,N,MiShofMo-241,MiShofMo-243
+MiShofMo-243,,,Ratbag,(trying to cut off Mogg’s ear) Could I borrow your…? I need a sharper blade.,,N,MiShofMo-242,MiShofMo-244
+MiShofMo-244,,,,[Next scene. We see Gollum digging in a bunch of old bones.],,Y,MiShofMo-243,MiShofMo-245
+MiShofMo-245,,,Gollum,Sweet little ratsies… Where does it hide?,,N,MiShofMo-244,MiShofMo-246
+MiShofMo-246,,,Talion,"Desecrate one more body, and your corpse will join them.",,N,MiShofMo-245,MiShofMo-247
+MiShofMo-247,,,Elf Ghost,Show me another treasure. From your dreams.,,N,MiShofMo-246,MiShofMo-248
+MiShofMo-248,,,Gollum,"Yes, we will prove ourselves. Bright Master. We will prove are friends –",,N,MiShofMo-247,MiShofMo-249
+MiShofMo-251,,,,[Talion finds the artifact.],,Y,MiShofMo-250,MiShofMo-252
+MiShofMo-252,,,Talion,*yells*,,N,MiShofMo-251,MiShofMo-253
+MiShofMo-253,,,,[We see a vision.],,Y,MiShofMo-252,MiShofMo-254
+MiShofMo-254,,,Elf,It is so ﬁne gift.,,N,MiShofMo-253,MiShofMo-255
+MiShofMo-255,,,Gollum,What a gift… But where is the Precious?,,N,MiShofMo-254,MiShofMo-256
+MiShofMo-256,,,Talion,You little thief! Come here!,,N,MiShofMo-255,MiShofMo-257
+MiShofMo-257,,,Gollum,Bright Master!,,N,MiShofMo-256,MiShofMo-258
+MiShofMo-258,,,Elf Ghost,Talion! Release him.,,N,MiShofMo-257,MiShofMo-259
+MiShofMo-259,,,Talion,"Why do we chase these dreams? They offer no answers, only more questions!",,N,MiShofMo-258,MiShofMo-260
+MiShofMo-260,,,Elf Ghost,These are not mere dreams. With each vision my power grows stronger.,,N,MiShofMo-259,MiShofMo-261
+MiShofMo-261,,,Gollum,Master looks after us. Ranger should now. Very dangerous here. We waits at the ancient tower for him.,,N,MiShofMo-260,MiShofMo-262
+MiShofMo-262,,,Talion,Ghuls!,,N,MiShofMo-261,MiShofMo-263
+MiShofMo-263,,,,[Talion defeats all the ghuls.],,Y,MiShofMo-262,MiShofMo-264
+MiShofMo-264,,,Talion,"That Halﬂing, Gollum, will betray us to the Black Hand the first chance he gets.",,N,MiShofMo-263,MiShofMo-265
+MiShofMo-265,,,Elf Ghost,He has no love for the Dark Lord. That creature has a part to play in the fate of all Middle-earth. I can feel it.,,N,MiShofMo-264,MiShofMo-266
+MiShofMo-266,,,Talion,"Well, where is he? Your friend is either a liar or a coward.",,N,MiShofMo-265,MiShofMo-267
+MiShofMo-267,,,Elf Ghost,Maybe it was you threatening his life?,,N,MiShofMo-266,MiShofMo-268
+MiShofMo-268,,,Talion,Let’s go ﬁnd your precious treasure.,,N,MiShofMo-267,MiShofMo-269
+MiShofMo-269,,,,[He sees a giant troll like creature.],,Y,MiShofMo-268,MiShofMo-270
+MiShofMo-270,,,Talion,A Graug. I need at least twenty men to bring that beast down.,,N,MiShofMo-269,MiShofMo-271
+MiShofMo-271,,,Elf Ghost,Oh. Then we must ﬁnd another way.,,N,MiShofMo-270,MiShofMo-272
+MiShofMo-272,,,Talion,Charging for the cave’s mouth will only lead us into the Graug’s jaws. A well placed arrow will do the trick here.,,N,MiShofMo-271,MiShofMo-273
+MiShofMo-273,,,,[Talion shoots.],,Y,MiShofMo-272,MiShofMo-274
+MiShofMo-274,,,Elf Ghost,"Impressive, Talion. That should keep the Graug occupied.",,N,MiShofMo-273,MiShofMo-275
+MiShofMo-275,,,,[Talion runs to the cave.],,Y,MiShofMo-274,MiShofMo-276
+MiShofMo-276,,,Talion,The air here is thick in death.,,N,MiShofMo-275,MiShofMo-277
+MiShofMo-277,,,,[He finds an artifact and sees another memory. We see how a man with white hair learns from the elf how to make rings.],,Y,MiShofMo-276,MiShofMo-278
+MiShofMo-278,,,Annatar,"Only you could accomplish such art, Celebrimbor.",,N,MiShofMo-277,MiShofMo-279
+MiShofMo-279,,,Talion,Celebrimbor! Greatest smith of the Second Age. I’d heard the stories but…,,N,MiShofMo-278,MiShofMo-280
+MiShofMo-280,,,Celebrimbor,"I remember my name, now. I shaped the history of Middle-earth, l crafted the Rings of Power.",,N,MiShofMo-279,MiShofMo-281
+MiShofMo-281,,,,[Suddenly a graug rushes into the cave.],,Y,MiShofMo-280,MiShofMo-282
+MiShofMo-282,,,Celebrimbor,"Fly, you fool!",,N,MiShofMo-281,MiShofMo-283
+MiShofMo-283,,,Talion,…and good riddance!,,N,MiShofMo-282,MiShofMo-284
+MiShofMo-284,,,Celebrimbor,I am the one responsible all of this. That’s why Sauron wants me.,,N,MiShofMo-283,MiShofMo-285
+MiShofMo-285,,,Gollum,"No no, Bright Master is good! He looks after us.",,N,MiShofMo-284,MiShofMo-286
+MiShofMo-286,,,Talion,Shut your insolent mouth!,,N,MiShofMo-285,MiShofMo-287
+MiShofMo-287,,,Gollum,Nasty Ranger. He knows nothing of the Bright Master.,,N,MiShofMo-286,MiShofMo-288
+MiShofMo-288,,,Talion,I know of his legend. How Sauron deceived you into making the rings. He tortured both you and your kin.,,N,MiShofMo-287,MiShofMo-289
+MiShofMo-289,,,Gollum,"And the Precious? The master makes it, too? Where is it?",,N,MiShofMo-288,MiShofMo-290
+MiShofMo-290,,,Celebrimbor,I have no memory of any such thing.,,N,MiShofMo-289,MiShofMo-291
+MiShofMo-291,,,Talion,Why would it even matter?,,N,MiShofMo-290,MiShofMo-292
+MiShofMo-292,,,Gollum,"Master must remember! Yes, he must. We… we dig up more treasures… Yes yes yes and then he will take us to it.",,N,MiShofMo-291,MiShofMo-293
+MiShofMo-293,,,Celebrimbor,I grasp at whispers of memory. The Rings of Power.,,N,MiShofMo-292,MiShofMo-294
+MiShofMo-294,,,Talion,Nine to Men - their power became their undoing. They became the Ringwraiths.,,N,MiShofMo-293,MiShofMo-295
+MiShofMo-295,,,Celebrimbor,Yes… the Nazgul.,,N,MiShofMo-294,MiShofMo-296
+MiShofMo-296,,,Talion,But the Nazgul were destroyed.,,N,MiShofMo-295,MiShofMo-297
+MiShofMo-297,,,Celebrimbor,As are many who come in contact with the Rings of Power.,,N,MiShofMo-296,MiShofMo-298
+MiShofMo-298,,,,[Talion go to Hirgon’s base and see many chopped orcs heads.],,Y,MiShofMo-297,MiShofMo-299
+MiShofMo-299,,,Hirgon,Make yourself at home. Talion. We obtained some valuable information from this one… before he lost his head.,,N,MiShofMo-298,MiShofMo-300
+MiShofMo-300,,,Talion,These grunts know nothing. We’re wasting precious time.,,N,MiShofMo-299,MiShofMo-301
+MiShofMo-301,,,Hirgon,Wasting time? We have leamed where they are keeping our blasting powder.,,N,MiShofMo-300,MiShofMo-302
+MiShofMo-302,,,Talion,What need have I of blasting powder?,,N,MiShofMo-301,MiShofMo-303
+MiShofMo-303,,,Hirgon,"It’s all part of the plan, my friend.",,N,MiShofMo-302,MiShofMo-304
+MiShofMo-304,,,Talion,Whatever leads us to the Black Hand is my only concern.,,N,MiShofMo-303,MiShofMo-305
+MiShofMo-305,,,Hirgon,So anxious to ﬁnd the Black Hand. Then by all means. I will take you to him.,,N,MiShofMo-304,MiShofMo-306
+MiShofMo-306,,,,[They go outside.],,Y,MiShofMo-305,MiShofMo-307
+MiShofMo-307,,,Hirgon,"With any luck, the Uruks have yet to discover the secrets of the blasting powder. We will need to free my men to ﬁnd out.",,N,MiShofMo-306,MiShofMo-308
+MiShofMo-308,,,Talion,Do you believe the blasting powder can draw out the Black Hand?,,N,MiShofMo-307,MiShofMo-309
+MiShofMo-309,,,Hirgon,"I prey so. The enemy gathers at Uruk’s Hollow, where many of my men are enslaved. I pray Eryn, too, is there.",,N,MiShofMo-308,MiShofMo-310
+MiShofMo-310,,,Talion,I will handle the Uruks.,,N,MiShofMo-309,MiShofMo-311
+MiShofMo-311,,,Hirgon,Perhaps we can take a more stealthy approach and incapacitate them by using their weakness… grog. Have you ever heard of Hithlas? It’s toxic and is good for one thing poisoning Orcs. Follow me. When I deserted the Black Gate. I fell sick. It was Eryn who nursed me to health.,,N,MiShofMo-310,MiShofMo-312
+MiShofMo-312,,,Talion,Is she the reason you joined the tribesmen?,,N,MiShofMo-311,MiShofMo-313
+MiShofMo-313,,,Hirgon,"Of the many, she is my most cherished. There are only so many camps my wife could have been taken to.",,N,MiShofMo-312,MiShofMo-314
+MiShofMo-314,,,Talion,Do you believe she will be at this one?,,N,MiShofMo-313,MiShofMo-315
+MiShofMo-315,,,Hirgon,My heart says yes.,,N,MiShofMo-314,MiShofMo-316
+MiShofMo-316,,,Talion,"I hope for your sake she is, Hirgon. Where did you acquire this blasting powder?",,N,MiShofMo-315,MiShofMo-317
+MiShofMo-317,,,Hirgon,"Traded for it, with a blustery Dwarf. We took his powder and left him our footprints - pretty fair if you ask me.",,N,MiShofMo-316,MiShofMo-318
+MiShofMo-318,,,Talion,You are proving yourself to be a strong leader… for a deserter.,,N,MiShofMo-317,MiShofMo-319
+MiShofMo-319,,,Hirgon,That is only because I leave the hard work to men like you.,,N,MiShofMo-318,MiShofMo-320
+MiShofMo-320,,,Talion,"In Mordor, even the ﬂowers are of death.",,N,MiShofMo-319,MiShofMo-321
+MiShofMo-321,,,Hirgon,There are far worse things than ﬂowers here. I thought it impossible Sauron would ever return.,,N,MiShofMo-320,MiShofMo-322
+MiShofMo-322,,,Talion,Darkness descend upon Mordor. Soon it will be impossible not to succumb.,,N,MiShofMo-321,MiShofMo-323
+MiShofMo-323,,,Hirgon,"When we realized we couldn’t ﬁght the Orcs we started dressing up like slaves, sneaking into their camps to free the others.",,N,MiShofMo-322,MiShofMo-324
+MiShofMo-324,,,Talion,A bold strategy.,,N,MiShofMo-323,MiShofMo-325
+MiShofMo-325,,,Hirgon,"Not really. Mostly, we’d end up slaves ourselves. At least we came dressed for the part. When I was ﬁrst rescued by the Outcasts, they told me you led the search party for my head.",,N,MiShofMo-324,MiShofMo-326
+MiShofMo-326,,,Talion,I volunteered. Were you caught our fellow Rangers would’ve killed you. I could not let you suffer that fate.,,N,MiShofMo-325,MiShofMo-327
+MiShofMo-327,,,,[Talion finds the herb.],,Y,MiShofMo-326,MiShofMo-328
+MiShofMo-328,,,Hirgon,This should be enough. Now all you have to do is drop it into their grog.,,N,MiShofMo-327,MiShofMo-329
+MiShofMo-329,,,Talion,Will the Orcs not smell the poison?,,N,MiShofMo-328,MiShofMo-330
+MiShofMo-330,,,Hirgon,"No, but if they spot you, I doubt they will drink from it. The Uruks are stationed by the front gates. For the sake of my men, keep to the shadows. I’ll gather my men and wait. We’ll stand ready to seize the blasting powder once the camp is clear. Remember Talion, don’t be seen. These Uruks have killed many slave for far less.",,N,MiShofMo-329,MiShofMo-331
+MiShofMo-331,,,,[Talion poison the grog and all the Uruks dying. He notice a woman behind a keg.],,Y,MiShofMo-330,MiShofMo-332
+MiShofMo-332,,,Talion,Come with me. Come with me. Come on.,,N,MiShofMo-331,MiShofMo-333
+MiShofMo-333,,,,[She trying to escape.],,Y,MiShofMo-332,MiShofMo-334
+MiShofMo-334,,,Hirgon,"Eryn! Eryn. Eryn… it’s me! It’s Hirgon! Oh, my dear.",,N,MiShofMo-333,MiShofMo-335
+MiShofMo-335,,,Eryn,I thought I’d never see you again…,,N,MiShofMo-334,MiShofMo-336
+MiShofMo-336,,,Hirgon,I knew you were alive. I knew it.,,N,MiShofMo-335,MiShofMo-337
+MiShofMo-337,,,,[Talion leaves.],,Y,MiShofMo-336,MiShofMo-338
+MiShofMo-338,,,Celebrimbor,"There will be more battles, Talion, but we will ﬁnd our peace.",,N,MiShofMo-337,MiShofMo-339
+MiShofMo-339,,,,[Talion kills all 4 Warchiefs and return to Hirgon.],,Y,MiShofMo-338,MiShofMo-340
+MiShofMo-340,,,Eryn,You saw what these monsters are capable of. It is madness to stay here!,,N,MiShofMo-339,MiShofMo-341
+MiShofMo-341,,,Hirgon,"Yes, but circumstances have changed. Don’t you see? We have him on our side now.",,N,MiShofMo-340,MiShofMo-342
+MiShofMo-342,,,Eryn,"Why would he want to help us? Weeks ago, he was our enemy.",,N,MiShofMo-341,MiShofMo-343
+MiShofMo-343,,,,[Talion enters.],,Y,MiShofMo-342,MiShofMo-344
+MiShofMo-344,,,Hirgon,Talion! Ready to pick that fight?,,N,MiShofMo-343,MiShofMo-345
+MiShofMo-345,,,Eryn,I’d best take these bandages to the others.,,N,MiShofMo-344,MiShofMo-346
+MiShofMo-346,,,Hirgon,The Orcs are building a monument to honor Sauron. We have enough blasting powder to destroy it.,,N,MiShofMo-345,MiShofMo-347
+MiShofMo-347,,,Talion,Fine. I’ll take it and I’ll ﬁnish this.,,N,MiShofMo-346,MiShofMo-348
+MiShofMo-348,,,Hirgon,Not without me you won’t.,,N,MiShofMo-347,MiShofMo-349
+MiShofMo-349,,,Talion,I thought your only concern was saving your wife.,,N,MiShofMo-348,MiShofMo-350
+MiShofMo-350,,,Hirgon,"So did I. Come on, let’s go before I change my mind. Forgive Eryn’s words. Her heart is with our people. The slaves you helped us free know where the Dark Lord’s monument is most vulnerable. We will strike there. We’ll need to steal a cart of grog from the Uruk. It will make quite the trigger for the blasting powder. Let’s move.",,N,MiShofMo-349,MiShofMo-351
+MiShofMo-351,,,,[Talion kills some ghuls.],,Y,MiShofMo-350,MiShofMo-352
+MiShofMo-352,,,Hirgon,"The Ghuls have turned on the Uruks. Nature’s darkness cannot be tamed. The cart’s up ahead. Be ready, where there’s grog, there’s Uruks.",,N,MiShofMo-351,MiShofMo-353
+MiShofMo-353,,,Talion,"When I’m through, no Uruks will draw breath. You have my word.",,N,MiShofMo-352,MiShofMo-354
+MiShofMo-354,,,,[Talion kills ALL THE URUKS.],,Y,MiShofMo-353,MiShofMo-355
+MiShofMo-355,,,Hirgon,"All clear, men! Excellent, Talion. Now we must ensure our men can push the cart to the monument free from harm. Look, how fast Evil corrodes.",,N,MiShofMo-354,MiShofMo-356
+MiShofMo-356,,,Talion,This decay… Gondor must not fall prey to the shadow.,,N,MiShofMo-355,MiShofMo-357
+MiShofMo-357,,,Hirgon,"Let’s move. The Uruk camp lies before us. Kl"" the l t, so my men can pass. If you need assistance. I’ll be close.",,N,MiShofMo-356,MiShofMo-358
+MiShofMo-358,,,,[They go through the camp.],,Y,MiShofMo-357,MiShofMo-359
+MiShofMo-359,,,Hirgon,"Ranger! Stay close! The Ghuls swarm Durthang. With each bite, they outnumber us even more! My men will protect the cart. Let’s clear the ridge so they may pass. The monument is upon us. A tribute to Darkness built by the blood of my people… I will relish its destruction. Take a long look. That monument will soon fall. There, Ranger, our success depends on your ability to clear the Outpost of Uruk. Only then can my men get into position to destroy the monument.",,N,MiShofMo-358,MiShofMo-360
+MiShofMo-360,,,Talion,The Uruks numbers dwindle now that their Warchiefs have fallen by my hand.,,N,MiShofMo-359,MiShofMo-361
+MiShofMo-361,,,,[Talion kill all the orcs.],,Y,MiShofMo-360,MiShofMo-362
+MiShofMo-362,,,Hirgon,Everyone! To the monument!,,N,MiShofMo-361,MiShofMo-363
+MiShofMo-363,,,Talion,"I’ll handle the Uruks, you handle the cart with the explosives!",,N,MiShofMo-362,MiShofMo-364
+MiShofMo-364,,,Hirgon’s Man 1,Protect us. Or our next step will be our last!,,N,MiShofMo-363,MiShofMo-365
+MiShofMo-365,,,Hirgon’s Man 2,Arrows… incoming!,,N,MiShofMo-364,MiShofMo-366
+MiShofMo-366,,,Celebrimbor,"Mortal pain harms us not, we carry one far greater.",,N,MiShofMo-365,MiShofMo-367
+MiShofMo-367,,,,[The monument finally destroyed. Talion and Hirgon looking at their work.],,Y,MiShofMo-366,MiShofMo-368
+MiShofMo-368,,,Talion,You have sealed their doom.,,N,MiShofMo-367,MiShofMo-369
+MiShofMo-369,,,Hirgon,My people believe they have just claimed their freedom.,,N,MiShofMo-368,MiShofMo-370
+MiShofMo-370,,,Talion,Is that what you told them?,,N,MiShofMo-369,MiShofMo-371
+MiShofMo-371,,,Hirgon,Men need hope. I just gave them what they asked to?,,N,MiShofMo-370,MiShofMo-372
+MiShofMo-372,,,Talion,Then your men need their leader.,,N,MiShofMo-371,MiShofMo-373
+MiShofMo-373,,,,[In the infirmary.],,Y,MiShofMo-372,MiShofMo-374
+MiShofMo-374,,,Hirgon,"Hold, brother.",,N,MiShofMo-373,MiShofMo-375
+MiShofMo-375,,,Hirgon’s Man,He wants… the Gravewalker.,,N,MiShofMo-374,MiShofMo-376
+MiShofMo-376,,,Talion,The Black Hand has come?,,N,MiShofMo-375,MiShofMo-377
+MiShofMo-377,,,Hirgon,One of his minions. He was sent here to hunt us down. Let me gather my men.,,N,MiShofMo-376,MiShofMo-378
+MiShofMo-378,,,Talion,"The servants of Sauron are foes beyond any of you. Get your people out of Mordor tonight, or you’ll all be dead by dawn.",,N,MiShofMo-377,MiShofMo-379
+MiShofMo-379,,,Hirgon,"There… there is a hidden tunnel to the Black Gate. Eryn, it’s time. Goodbye, my friend.",,N,MiShofMo-378,MiShofMo-380
+MiShofMo-380,,,,[Next scene.],,Y,MiShofMo-379,MiShofMo-381
+MiShofMo-381,,,Commander,So the local Warchiefs did nothing to prevent this sacrilege?,,N,MiShofMo-380,MiShofMo-382
+MiShofMo-382,,,Ratbag,"They all parish in battle, my lord…All except me! Warchief Ratbag!",,N,MiShofMo-381,MiShofMo-383
+MiShofMo-383,,,Commander,"Fortunately, you are still alive.",,N,MiShofMo-382,MiShofMo-384
+MiShofMo-384,,,,[He hits him with his mace.],,Y,MiShofMo-383,MiShofMo-385
+MiShofMo-385,,,Commander,"Now, bring me the head of this… Gravewalker.",,N,MiShofMo-384,MiShofMo-386
+MiShofMo-386,,,Talion,Claim the head yourself.,,N,MiShofMo-385,MiShofMo-387
+MiShofMo-387,,,Commander,"The Ranger from the Black Gate! Where was your bravery, when we bled your wife and gutted your son?",,N,MiShofMo-386,MiShofMo-388
+MiShofMo-388,,,,[Talion defeat the Commander],,Y,MiShofMo-387,MiShofMo-389
+MiShofMo-389,,,Commander,"How does your vengeance taste, Talion? Is not the Darkness sweet?",,N,MiShofMo-388,MiShofMo-390
+MiShofMo-390,,,,[Talion kills him.],,Y,MiShofMo-389,MiShofMo-391
+MiShofMo-391,,,Celebrimbor,You acted too hastily. There’s much we could have learned.,,N,MiShofMo-390,MiShofMo-392
+MiShofMo-392,,,Talion,He slaughtered my entire family before my very eyes. What would you have done?,,N,MiShofMo-391,MiShofMo-393
+MiShofMo-393,,,Elf Woman,"Do you speak with the living, or only with the dead?",,N,MiShofMo-392,MiShofMo-394
+MiShofMo-394,,,Talion,Who are you?,,N,MiShofMo-393,MiShofMo-395
+MiShofMo-395,,,Elf Woman,"My name is Lithariel, from the Sea of Numen. My mother said you would be here. And here you are.",,N,MiShofMo-394,MiShofMo-396
+MiShofMo-396,,,Talion,"Well, Lithariel from the Sea of Numen, you should have stayed where you were. There’s nothing here but death.",,N,MiShofMo-395,MiShofMo-397
+MiShofMo-397,,,Lithariel,"Lady Marwen, Queen of the Shore, wishes an audience with you. She has seen visions of your misfortune.",,N,MiShofMo-396,MiShofMo-398
+MiShofMo-398,,,Talion,A queen what sees visions?,,N,MiShofMo-397,MiShofMo-399
+MiShofMo-399,,,Lithariel,Visions of the return of the great Celebrimbor. She wishes to make him an offering.,,N,MiShofMo-398,MiShofMo-400
+MiShofMo-400,,,Talion,And what is this offering?,,N,MiShofMo-399,MiShofMo-401
+MiShofMo-401,,,Lithariel,That is all I know. I must gather provisions. The return to Numen is long and treacherous. My camp is close by. It will be my honor to escort you.,,N,MiShofMo-400,MiShofMo-402
+MiShofMo-402,,,Celebrimbor,We have defeated the Hammer of Sauron. But the Black Hand and the Tower remain. And their master.,,N,MiShofMo-401,MiShofMo-403
+MiShofMo-403,,,Lithariel,The smell of fresh meat always attracts the Scavengers.,,N,MiShofMo-402,MiShofMo-404
+MiShofMo-404,,,Talion,And they end to travel in packs. We should leave. Now.,,N,MiShofMo-403,MiShofMo-405
+MiShofMo-405,,,Lithariel,The queen will be pleased to see you.,,N,MiShofMo-404,MiShofMo-406
+MiShofMo-406,,,,[They journey to the Numen.],,Y,MiShofMo-405,MiShofMo-407
+MiShofMo-407,,,Lithariel,We are here. Lady Marwen. Queen of the Shore. Mother…,,N,MiShofMo-406,MiShofMo-408
+MiShofMo-408,,,Lady Marwen,The fallen Ranger from the Black Gate. Come closer.,,N,MiShofMo-407,MiShofMo-409
+MiShofMo-409,,,Talion,You daughter claims you have something for me.,,N,MiShofMo-408,MiShofMo-410
+MiShofMo-410,,,Lady Marwen,"Not for you, Talion. The hour grows late. Very soon the Dark Lord and his army will march all over Mordor. But… A great power clan be awakened to prevent it.",,N,MiShofMo-409,MiShofMo-411
+MiShofMo-411,,,Talion,Is that why I’m here?,,N,MiShofMo-410,MiShofMo-412
+MiShofMo-412,,,Lady Marwen,Breach into Morgoth’s Scar. Take the Elven craftwork from the Ghuls. And find… the Dwarf.,,N,MiShofMo-411,MiShofMo-413
+MiShofMo-413,,,,[Lady Marwen almost loses her consciousness.],,Y,MiShofMo-412,MiShofMo-414
+MiShofMo-414,,,Lithariel,"Stay strong, Mother.",,N,MiShofMo-413,MiShofMo-415
+MiShofMo-415,,,Talion,What is your mother’s afﬂiction?,,N,MiShofMo-414,MiShofMo-416
+MiShofMo-416,,,Lithariel,No one knows. She worsened after her travels.,,N,MiShofMo-415,MiShofMo-417
+MiShofMo-417,,,Talion,Is there not medicine?,,N,MiShofMo-416,MiShofMo-418
+MiShofMo-418,,,Lithariel,There was. But our camp was overrun.,,N,MiShofMo-417,MiShofMo-419
+MiShofMo-419,,,,[Next scene. Mountains.],,Y,MiShofMo-418,MiShofMo-420
+MiShofMo-420,,,Talion,I need to ﬁnd the way to Morgoth’s Scar. There’s a good chance we can pick up the Ghuls’ trail at that ransacked caravan we passed earlier by the ravine.,,N,MiShofMo-419,MiShofMo-421
+MiShofMo-421,,,Talion,How does the Queen know of your past?,,N,MiShofMo-420,MiShofMo-422
+MiShofMo-422,,,Calebrimbor,Ancient knowledge lays unseen by all but spirits. She can see into both worlds.,,N,MiShofMo-421,MiShofMo-423
+MiShofMo-423,,,Talion,Then perhaps she will lead us to what we seek. So many dead Uruks. I must thank the Ghuls before I slaughter them.,,N,MiShofMo-422,MiShofMo-424
+MiShofMo-424,,,Calebrimbor,"Ghuls are scavengers. They take all, but leave one thing behind.",,N,MiShofMo-423,MiShofMo-425
+MiShofMo-425,,,Talion,I must locate the Ghul’s trade. There’s our trail!,,N,MiShofMo-424,MiShofMo-426
+MiShofMo-426,,,Calebrimbor,This hollow bleeds with death.,,N,MiShofMo-425,MiShofMo-427
+MiShofMo-427,,,Talion,Then this must be the Morgoth’s Scar.,,N,MiShofMo-426,MiShofMo-428
+MiShofMo-428,,,,[They find another artifact – hammer.],,Y,MiShofMo-427,MiShofMo-429
+MiShofMo-429,,,Calebrimbor,Made by the Dark Lord himself. And still covered in my family’s blood.,,N,MiShofMo-428,MiShofMo-430
+MiShofMo-430,,,,[Talion sees another vision from Calebrimbor’s past.],,Y,MiShofMo-429,MiShofMo-431
+MiShofMo-431,,,Galadriel,We are betrayed. Its power blazes like a beacon and will bring ruin to all Middle-earth.,,N,MiShofMo-430,MiShofMo-432
+MiShofMo-432,,,,[The vision ends. Talion gets to himself and see strange monster.],,Y,MiShofMo-431,MiShofMo-433
+MiShofMo-433,,,Talion,"By Gandor, what is that creature?!",,N,MiShofMo-432,MiShofMo-434
+MiShofMo-434,,,,[He kills the Ghul Matron.],,Y,MiShofMo-433,MiShofMo-435
+MiShofMo-435,,,Talion,The storm has passed.,,N,MiShofMo-434,MiShofMo-436
+MiShofMo-436,,,Calebrimbor,The danger has not.,,N,MiShofMo-435,MiShofMo-437
+MiShofMo-437,,,Talion,We must escape this darkness!,,N,MiShofMo-436,MiShofMo-438
+MiShofMo-438,,,Calebrimbor,"Ranger, take cover!",,N,MiShofMo-437,MiShofMo-439
+MiShofMo-439,,,,[Talion escapes the cave.],,Y,MiShofMo-438,MiShofMo-440
+MiShofMo-440,,,Dwarf,"Pity to end your military career inside the belly of a Ghul, eh? I’m Torvin, the beast hunter. And I bet ten pints you just nabbed the treasure I was after.",,N,MiShofMo-439,MiShofMo-441
+MiShofMo-441,,,Talion,"Now, I am grateful for your assistance, but it does not grant you proprietary rights.",,N,MiShofMo-440,MiShofMo-442
+MiShofMo-442,,,Dwarf,Keep it. I just found something a lot more valuable.,,N,MiShofMo-441,MiShofMo-443
+MiShofMo-443,,,Talion,And what would that be?,,N,MiShofMo-442,MiShofMo-444
+MiShofMo-444,,,Dwarf,My new hunting partner!,,N,MiShofMo-443,MiShofMo-445
+MiShofMo-445,,,Talion,"What you hunt does not interest me, Master Dwarf.",,N,MiShofMo-444,MiShofMo-446
+MiShofMo-446,,,Dwarf,"Even if it leads you to the chisel that belongs to that hammer? Every creature’s got its lure, eh? Yours just happens to be, uh, very old. Well, if the thrill of the hunt takes your fancy, my camp’s not far.",,N,MiShofMo-445,MiShofMo-447
+MiShofMo-447,,,Talion," Find the Dwarf. What are your vision, Celebrimbor?",(to Calebrimbor) ,N,MiShofMo-446,MiShofMo-448
+MiShofMo-448,,,Calebrimbor,"I used all that he had taught me, and forged the three in secret. Water, Air and Fire.",,N,MiShofMo-447,MiShofMo-449
+MiShofMo-449,,,,[Talion help kill a beast for Dwarf.],,Y,MiShofMo-448,MiShofMo-450
+MiShofMo-450,,,Dwarf,"She didn’t see me. She didn’t hear me. It was a clean kill. And none of her is gonna go to waste. What’s your name, Ranger?",,N,MiShofMo-449,MiShofMo-451
+MiShofMo-451,,,Talion,Talion.,,N,MiShofMo-450,MiShofMo-452
+MiShofMo-452,,,Dwarf,"What were you, a lieutenant?",,N,MiShofMo-451,MiShofMo-453
+MiShofMo-453,,,Talion,"No, actually. I was a Captain.",,N,MiShofMo-452,MiShofMo-454
+MiShofMo-454,,,Dwarf,"Oh, my mistake. We have a Captain in our midst. Well, better look sharp, eh? Captain’s comin’, better sharpen the swords, eh, and make sure our boots are nice and shiny. So tell me, Captain, have you ever hunted a Graug?",,N,MiShofMo-453,MiShofMo-455
+MiShofMo-455,,,Talion,A Graug has what you promised me?,,N,MiShofMo-454,MiShofMo-456
+MiShofMo-456,,,Dwarf,Aye. Not just any Graug. The largest one I ever came across. We must prepare.,,N,MiShofMo-455,MiShofMo-457
+MiShofMo-457,,,Talion,I should do just ﬁne. I’ve been trained very well.,,N,MiShofMo-456,MiShofMo-458
+MiShofMo-458,,,Dwarf,"My dog Silver was trained very well. That was before she got eaten by a Warg! The hunt is not about rules, my Cap’n. We’re not going to line up and have someone play with our lives. It’s about instinct, and it’s about guts. Which as you can see, I know a thing or two about. You want basics on the hunt. Follow me. The hunt is its own beast, one you must learn to tame. First lesson of Caragor hunting, do not die.",,N,MiShofMo-457,MiShofMo-459
+MiShofMo-459,,,Talion,What do we need them for?,,N,MiShofMo-458,MiShofMo-460
+MiShofMo-460,,,Dwarf,"We ride ‘em! A worthy mount for our dangerous hunt! These beasts will not be impressed by your rank. All ﬂesh tastes the same to them. Once you go on the hunt, Cap’n, you’ll come out a changed man. Hopefully for the better, but you never know. When I was hunting Wargs, I picked up their was quickly. But Caragors! Those bastards are a tougher breed. Took me nearly a year to ﬁgure them out. Caragors… Buggers hate water. I once tried to ride one through a river and she hightailed up a cliffside with me on its back! Amazing what they’ll do to avoid a good cleaning, eh? The hunt is my mistress. Beautiful, thrilling, infectious… And she doesn’t nag, like my wife. You haven’t lived until you’ve been on the hunt, Cap’n… The very air smells different.., like triumph. Ranger, over here!",,N,MiShofMo-459,MiShofMo-461
+MiShofMo-461,,,Talion,That one over there looks quite aggressive.,,N,MiShofMo-460,MiShofMo-462
+MiShofMo-462,,,Dwarf,Don’t even try creeping up on a Caragor. It’ll catch your scent a mile away.,,N,MiShofMo-461,MiShofMo-463
+MiShofMo-463,,,Talion,What do you propose then?,,N,MiShofMo-462,MiShofMo-464
+MiShofMo-464,,,Dwarf,"Why’nt you hop in and introduce yourself? Ask it for a ride. When a Caragor charges, you have have two options. Knock the bastard down, or eat dirt. Hold tight! Become one with the beast! That’s about the same time it took me to tame one. You might be a natural, Cap’n.",,N,MiShofMo-463,MiShofMo-465
+MiShofMo-465,,,Dwarf,"You didn’t fare too bad back there. Where’d you get your training, Cap’n?",,N,MiShofMo-464,MiShofMo-466
+MiShofMo-466,,,Talion,I hailed from the Black Gate.,,N,MiShofMo-465,MiShofMo-467
+MiShofMo-467,,,Dwarf,"The Black Gate… Nice place? Sounds depressing. Let’s ﬁnd some Uruks. Now that you tamed the beast, let’s see if it’ll ﬁght for you. Numen is infested with these vermin. Care to double down, Cap’n? You see now. Cap’n? Even the ﬁercest beast can be used for good.",,N,MiShofMo-466,MiShofMo-468
+MiShofMo-468,,,Talion,"You been hunting in Numen for long, Dwarf?",,N,MiShofMo-467,MiShofMo-469
+MiShofMo-469,,,Dwarf,For years and years. Land used to be more lush. Now a doom slowly sweeps over it…,,N,MiShofMo-468,MiShofMo-470
+MiShofMo-470,,,Talion,Like much of Mordor.,,N,MiShofMo-469,MiShofMo-471
+MiShofMo-471,,,Dwarf,"Yes, though the Doom does add spice to the hunt! Sure you can ride a Caragor, but can you shoot from one? You take ‘em up high! Leave the ground Orcs to me.",,N,MiShofMo-470,MiShofMo-472
+MiShofMo-472,,,Orc,Knock off the Dwarf! He’ll have farther to fall!,,N,MiShofMo-471,MiShofMo-473
+MiShofMo-473,,,Dwarf," The world was young, the mountains green; No stain yet on the Moon was seen. No words were laid on stream or stone; When Durin woke and walked alone. He named the nameless hills and dells; He drank from yet untasted wells. He stooped and looked in Mirrormere; And saw a crown of stars appear.  Above the shadows of his head. That ﬁre better - set my beard alight!",(singing) (humming) ,N,MiShofMo-472,MiShofMo-474
+MiShofMo-474,,,,[They kill all the orcs.],,Y,MiShofMo-473,MiShofMo-475
+MiShofMo-475,,,Dwarf,"Not bad, Cap’n… you’ve got the basics down. Now let’s take on a fresh batch. We’ll ﬁnd another camp. Put you to a ﬁnal test. Fight ‘em however you like.",,N,MiShofMo-474,MiShofMo-476
+MiShofMo-476,,,Talion,Running short on lessons?,,N,MiShofMo-475,MiShofMo-477
+MiShofMo-477,,,Dwarf,"Running long on lip? You need to think on your feet. When we face the Graug, can’t always look to me for help. The hunt is about discipline, training yourself to see the perfect moment, rather than being told it. I once tracked a Great Eagle back to his nest. I decided to let them be, even before they tossed me to the rocks below. Time for blood! Attack! I swing at one but another’s already on me! Something wrong with your blade? You missed one! Stop him before he gets reinforcements!",,N,MiShofMo-476,MiShofMo-478
+MiShofMo-478,,,Talion,Torvin is too quiet… something must be wrong.,,N,MiShofMo-477,MiShofMo-479
+MiShofMo-479,,,Calebrimbor,"Go to him, Talion.",,N,MiShofMo-478,MiShofMo-480
+MiShofMo-480,,,,[He finds the Dwarf surrounded by orcs.],,Y,MiShofMo-479,MiShofMo-481
+MiShofMo-481,,,Talion,Torvin needs help.,,N,MiShofMo-480,MiShofMo-482
+MiShofMo-482,,,Torvin,And that’s the thrill of the hunt! Just so you know. I had him…,,N,MiShofMo-481,MiShofMo-483
+MiShofMo-483,,,Talion,What does riding Caragors have to do with killing Graugs?,,N,MiShofMo-482,MiShofMo-484
+MiShofMo-484,,,Torvin,"All these questions, Cap’n! I thought you were supposed to follow orders!",,N,MiShofMo-483,MiShofMo-485
+MiShofMo-485,,,Talion,"You are testing my patience, Torvin.",,N,MiShofMo-484,MiShofMo-486
+MiShofMo-486,,,Torvin,"Pay attention, and learn to respect the beast. You’re gonna need size and strength to ﬁght the mighty Graug. Remember! On the hunt respect is earned. Who knows? Maybe it will even call you sir, eh? Hahaha!",,N,MiShofMo-485,MiShofMo-487
+MiShofMo-487,,,Talion, This Dwarf is far from home.,(to himself) ,N,MiShofMo-486,MiShofMo-488
+MiShofMo-488,,,Calebrimbor,Not all those who wander are lost.,,N,MiShofMo-487,MiShofMo-489
+MiShofMo-489,,,Torvin,Hope you’re not put off by my wee scars.,,N,MiShofMo-488,MiShofMo-490
+MiShofMo-490,,,Talion,"No, not at all. I actually have a few of my own.",,N,MiShofMo-489,MiShofMo-491
+MiShofMo-491,,,Torvin,"I’ll bet. What type of battle scars’ did you get from the Black Gate, eh? Splinters? Or did you scar yer voice telling your soldiers to held into battle?",,N,MiShofMo-490,MiShofMo-492
+MiShofMo-492,,,Talion,Tread lightly. My scars run deep.,,N,MiShofMo-491,MiShofMo-493
+MiShofMo-493,,,Torvin,"The mighty Graug, he gave me these. And also took my huntin’ partner.",,N,MiShofMo-492,MiShofMo-494
+MiShofMo-494,,,Talion,So what now?,,N,MiShofMo-493,MiShofMo-495
+MiShofMo-495,,,Torvin,"Well another lesson for you, my Cap’n. Maybe you’ll even came out of this one unscarred.",,N,MiShofMo-494,MiShofMo-496
+MiShofMo-496,,,Talion,So what backward lesson do you have planned this time? Shooting Crebain to prepare us for the Mighty Graug?,,N,MiShofMo-495,MiShofMo-497
+MiShofMo-497,,,Torvin,"You wanna hunt Graig? Then so you shall.., but not just any Graug. This is a rare one. It is territorial and strong enough to claim land as its own. And you and me… we’re trespassing. Tell me, Cap’n, you ever slay a Graug before?",,N,MiShofMo-496,MiShofMo-498
+MiShofMo-498,,,Talion,Today will be the ﬁrst of many.,,N,MiShofMo-497,MiShofMo-499
+MiShofMo-499,,,Torvin,"Now you’re talking like a hunter! I’ve got a feeling in my gut that you may survive this, Cap’n.",,N,MiShofMo-498,MiShofMo-500
+MiShofMo-500,,,Talion,Since that’s the largest part of you. I like those odds. So I assume you have a plan to kill this Graug?,,N,MiShofMo-499,MiShofMo-501
+MiShofMo-501,,,Torvin,"I do, Cap’n. And since you’re so good at taking orders, I’ll tell ya how step by step. Step one: When he’s crunchin’ on an Uruk, sneak up behind the giant beast and bleed the bastard’s ankle.",,N,MiShofMo-500,MiShofMo-502
+MiShofMo-502,,,Talion,Why not his throat?,,N,MiShofMo-501,MiShofMo-503
+MiShofMo-503,,,Torvin,There’s one place Graug’s aren’t covered in spiky scales. They don’t call a weakness a Graug’s heel for nothing.,,N,MiShofMo-502,MiShofMo-504
+MiShofMo-504,,,Talion,You want me to sidle up to this beast?,,N,MiShofMo-503,MiShofMo-505
+MiShofMo-505,,,Torvin,"If you can manage it without being crushed, yes. There it goes! What a ﬁne ﬁne specimen!",,N,MiShofMo-504,MiShofMo-506
+MiShofMo-506,,,Talion,And it’ll meet a ﬁne end.,,N,MiShofMo-505,MiShofMo-507
+MiShofMo-507,,,,[Talion pierce Graug’s heel.],,Y,MiShofMo-506,MiShofMo-508
+MiShofMo-508,,,Torvin,"Step two, Cap’n, the blood’ll attract Caragors. Jump on one before she lumps on you. Your speed’ll now match the Graug’s. Get ‘er to chase you. I’ll be waiting.",,N,MiShofMo-507,MiShofMo-509
+MiShofMo-509,,,Talion,That’ll be quite a ride. I need a Caragor for speed.,,N,MiShofMo-508,MiShofMo-510
+MiShofMo-510,,,Torvin,"Step Three, I’ll distract him using my wily charms, while you, Cap’n, shoot him in the head.",,N,MiShofMo-509,MiShofMo-511
+MiShofMo-511,,,Talion,Sounds easy enough…,,N,MiShofMo-510,MiShofMo-512
+MiShofMo-512,,,Torvin,"Ride her, Cap’n!  Hey you! I’ve slain bigger Graugs when I was a wee boy and my beard was only three inches long! Over here! Look over here! Nothing like Dwarf for dessert! We’re a sweet little morsel. If you can get me in your mouth before I drop you with my hammer!",(to Graug) ,N,MiShofMo-511,MiShofMo-513
+MiShofMo-513,,,,[After successful distraction.],,Y,MiShofMo-512,MiShofMo-514
+MiShofMo-514,,,Torvin,Step three! Shoot it in the head!,,N,MiShofMo-513,MiShofMo-515
+MiShofMo-515,,,Talion,What’s Step Four?,,N,MiShofMo-514,MiShofMo-516
+MiShofMo-516,,,Torvin,There is no Step Four! It should be dead. You must’ve done It wrong!,,N,MiShofMo-515,MiShofMo-517
+MiShofMo-517,,,Talion,I’m following YOUR orders-!,,N,MiShofMo-516,MiShofMo-518
+MiShofMo-519,,,Talion,I have an idea…,,N,MiShofMo-518,MiShofMo-520
+MiShofMo-520,,,Torvin,What Are yon doing? You can’t ride a Graug!,,N,MiShofMo-519,MiShofMo-521
+MiShofMo-521,,,,[Talion fights and brands the Graug.],,Y,MiShofMo-520,MiShofMo-522
+MiShofMo-522,,,Torvin,Now THAT’S a hunter!,,N,MiShofMo-521,MiShofMo-523
+MiShofMo-523,,,,[Some orcs finds them.],,Y,MiShofMo-522,MiShofMo-524
+MiShofMo-524,,,Torvin,Bah! An Orc Hunting Party. Hunters in name only… Look at him go! Gotta admit. I’m a wee bit jealous.,,N,MiShofMo-523,MiShofMo-525
+MiShofMo-525,,,,[Talion crushes them using the Graug.],,Y,MiShofMo-524,MiShofMo-526
+MiShofMo-526,,,Talion,Your life ends with the sting of my blade.,,N,MiShofMo-525,MiShofMo-527
+MiShofMo-527,,,,[Talion kills the Graug.],,Y,MiShofMo-526,MiShofMo-528
+MiShofMo-528,,,Torvin,"Well, must say, it’s a bit unusual to ride a Graug…",,N,MiShofMo-527,MiShofMo-529
+MiShofMo-529,,,Talion,"Nothing like a little improvising, eh?",,N,MiShofMo-528,MiShofMo-530
+MiShofMo-530,,,Torvin,"Alright, Captain. That’s it. You showed instinct, gumption, and respect. The training’s over. You’ve got guts. Let’s go spill some, eh?",,N,MiShofMo-529,MiShofMo-531
+MiShofMo-531,,,Talion,The darkness of Mordor doesn’t seem to touch that Dwarf.,,N,MiShofMo-530,MiShofMo-532
+MiShofMo-532,,,Calebrimbor,The seven rings of power did not turn the Dwarf Kings to Wraiths as the nine rings did to Men. They are as stubborn as stone and cannot be dominated by evil. That is why Sauron has sworn to destroy them.,,N,MiShofMo-531,MiShofMo-533
+MiShofMo-533,,,Talion,Torvin?,,N,MiShofMo-532,MiShofMo-534
+MiShofMo-534,,,Torvin,"Heads up, Captain! Ahaha! Time to go hunting! A deadly hunter needs a deadly mount! Careful, this one’s ready for lunch! Time for the hunt of a lifetime. However short that is.",,N,MiShofMo-533,MiShofMo-535
+MiShofMo-535,,,Talion,I assume you know the path?,,N,MiShofMo-534,MiShofMo-536
+MiShofMo-536,,,Torvin,"The real question is: are you ready to travel it? Whatever happens during the hunt, think: what would Torvin do. Actually, that’s a good lesson for you to follow always. I pray your training sticks… Or else you’ll stick to the wall, once Mighty Graug hurls you there.",,N,MiShofMo-535,MiShofMo-537
+MiShofMo-537,,,Talion,I’m ready to ﬁt the Gratis.,,N,MiShofMo-536,MiShofMo-538
+MiShofMo-538,,,Torvin,"And that’s just what you’d do. Fight. No art, no ﬁnesse. The hunt isn’t about swinging and slashing, It’s bigger than that!",,N,MiShofMo-537,MiShofMo-539
+MiShofMo-539,,,Talion,"From your perspective, Dwarf, everything is bigger.",,N,MiShofMo-538,MiShofMo-540
+MiShofMo-540,,,Torvin,"Yes, this Graug is very VERY big. Oh… Wait… You’re mocking me. Graugs are one of the oldest specimen in Mordor.., and the deadliest by far. It’s been a long time since I faced this Graug. Let us hope time wasn’t as gentle to him as it was to me. My old partner and I once tracked a Graug from Mount Dolmed to Nogrod. We ﬁnally slayed it and got stuck under his leg for two days! Those were fun times. Last time I saw the beast was when my old partner and I tracked It into its dwelling.",,N,MiShofMo-539,MiShofMo-541
+MiShofMo-541,,,Talion,How did yen get out alive?,,N,MiShofMo-540,MiShofMo-542
+MiShofMo-542,,,Torvin,"Luck. The Graug knocked me senseless. When I came to, it had ended my partner. Facing that creature alone was a death sentence. I’ve been hunting this Graug for almost a decade. That’s a lot of years of dedication to one beast.",,N,MiShofMo-541,MiShofMo-543
+MiShofMo-543,,,Talion,Dedication? Or a sign you preach better than you hunt.,,N,MiShofMo-542,MiShofMo-544
+MiShofMo-544,,,Torvin,"That’s funny, Cap’n. I’ll be sure to laugh when the beast eats you alive. The Mighty Graug will be my legacy. Dwarf will tell tales of Torvin the Hunter for generations. And I’ll have ‘em throw your name in there somewhere.",,N,MiShofMo-543,MiShofMo-545
+MiShofMo-545,,,,[They find The Mighty Graug’s cave.],,Y,MiShofMo-544,MiShofMo-546
+MiShofMo-546,,,Torvin,Whoa… The Caragors are too quiet. I don’t think the Graug is home.,,N,MiShofMo-545,MiShofMo-547
+MiShofMo-547,,,Talion,Then we go in and we wait.,,N,MiShofMo-546,MiShofMo-548
+MiShofMo-548,,,Torvin,An ambush. How military. I like it.,,N,MiShofMo-547,MiShofMo-549
+MiShofMo-549,,,,[They go deeper into the cave.],,Y,MiShofMo-548,MiShofMo-550
+MiShofMo-550,,,Torvin,It’s an axe. It’s just as sharp as the day our father made it.,,N,MiShofMo-549,MiShofMo-551
+MiShofMo-551,,,,[Talion finds another artifact and sees a new vision. Sauron tortures Calebrimbor in the depths of Orodruin. In the end he gives up.],,Y,MiShofMo-550,MiShofMo-552
+MiShofMo-552,,,Calebrimbor,…agh burzum-ishi krimpatul.,,N,MiShofMo-551,MiShofMo-553
+MiShofMo-553,,,,"[When Talion regains consciousness, he sees that Torvin is already battling Mighty Graug.]",,Y,MiShofMo-552,MiShofMo-554
+MiShofMo-554,,,Torvin,"Aye, that’s right! Remember me!? Come on, Cap’n, what’re you waiting for? A direct order?",,N,MiShofMo-553,MiShofMo-555
+MiShofMo-555,,,Calebrimbor,The Naug has fallen. History repeats itself.,,N,MiShofMo-554,MiShofMo-556
+MiShofMo-556,,,Talion,Let’s just do as Torvin said. Rule number one… Nevermind. We improvise! It’s too strong - I must attack from afar.,,N,MiShofMo-555,MiShofMo-557
+MiShofMo-557,,,,[He along with Torvin kill the Mighty Graug.],,Y,MiShofMo-556,MiShofMo-558
+MiShofMo-558,,,Torvin,"Die, ya rancid bastard!",,N,MiShofMo-557,MiShofMo-559
+MiShofMo-559,,,Talion,I think he’s dead.,,N,MiShofMo-558,MiShofMo-560
+MiShofMo-560,,,Torvin,"Haha. Now that’s what I call beast hunting, eh!",,N,MiShofMo-559,MiShofMo-561
+MiShofMo-561,,,Talion,"Indeed, indeed.",,N,MiShofMo-560,MiShofMo-562
+MiShofMo-562,,,Torvin,Next time. I’m not going to let you have all the fun.,,N,MiShofMo-561,MiShofMo-563
+MiShofMo-563,,,Talion,"Oh, no, no. This is the last time. I have other prey to pursue.",,N,MiShofMo-562,MiShofMo-564
+MiShofMo-564,,,Torvin,"Well, you’ll need help on your journey… So what’d ya say we put some…",,N,MiShofMo-563,MiShofMo-565
+MiShofMo-565,,,Talion,"No, no, no. Torvin, l have to do this on my own.",,N,MiShofMo-564,MiShofMo-566
+MiShofMo-566,,,Torvin,"If you survive, come to the Blue Mountains, eh? I have lots of friends and we’ll drink until the kegs run dry!",,N,MiShofMo-565,MiShofMo-567
+MiShofMo-567,,,Talion,I’ve seen how much a Dwarf can drink! I do hope our paths cross again.,,N,MiShofMo-566,MiShofMo-568
+MiShofMo-568,,,Torvin,"Right…  Now, how do I get you out of here? Hahaha!",(to the dead Graug) ,N,MiShofMo-567,MiShofMo-569
+MiShofMo-569,,,Talion, I hope that Torvin ﬁnds his way home now that his hunt is over.,(to himself) ,N,MiShofMo-568,MiShofMo-570
+MiShofMo-570,,,Calebrimbor,"If he does, then he will ﬁnd his home is not as he left it.",,N,MiShofMo-569,MiShofMo-571
+MiShofMo-571,,,,[Talion goes to Lady Marwen’s home.],,Y,MiShofMo-570,MiShofMo-572
+MiShofMo-572,,,Talion, Here.,(gives her a cup of water) ,N,MiShofMo-571,MiShofMo-573
+MiShofMo-573,,,Lady Marwen,Thank you.,,N,MiShofMo-572,MiShofMo-574
+MiShofMo-574,,,Talion,I found the mithril hammer. Can your flames show me why my soul was denied death?,,N,MiShofMo-573,MiShofMo-575
+MiShofMo-575,,,Lady Marwen,"You, you are the victim of blood sacriﬁce.",,N,MiShofMo-574,MiShofMo-576
+MiShofMo-576,,,Talion,Can the curse be broken?,,N,MiShofMo-575,MiShofMo-577
+MiShofMo-577,,,Lady Marwen,Destroy the Back Hand and his followers and claim Mordor.,,N,MiShofMo-576,MiShofMo-578
+MiShofMo-578,,,Talion,No men of Gondor will come to my aid.,,N,MiShofMo-577,MiShofMo-579
+MiShofMo-579,,,Lady Marwen,"You don’t need them. Your power begets followers, willing or otherwise.",,N,MiShofMo-578,MiShofMo-580
+MiShofMo-580,,,Calebrimbor,An Orc army.,,N,MiShofMo-579,MiShofMo-581
+MiShofMo-581,,,Talion,How? How do I do this?,,N,MiShofMo-580,MiShofMo-582
+MiShofMo-582,,,Lady Marwen,"Your answers are in the fortress nearby, but what you seek may not be there for much longer.",,N,MiShofMo-581,MiShofMo-583
+MiShofMo-583,,,,[Talion goes to search that fortress.],,Y,MiShofMo-582,MiShofMo-584
+MiShofMo-584,,,Calebrimbor,Marwen’s decree was speed. The future mu t be met.,,N,MiShofMo-583,MiShofMo-585
+MiShofMo-585,,,,[At Orcs camp Talion finds some prisoners.],,Y,MiShofMo-584,MiShofMo-586
+MiShofMo-586,,,Calebrimbor,It is not them that we seek but what they carry.,,N,MiShofMo-585,MiShofMo-587
+MiShofMo-587,,,Talion,I will save them nonetheless.,,N,MiShofMo-586,MiShofMo-588
+MiShofMo-588,,,Calebrimbor,Don’t be blinded by your emotions. The Queen told us our answers to building an Orc army lie within this fortress. If we brand those archers. We can build but army and save these men at the same time.,,N,MiShofMo-587,MiShofMo-589
+MiShofMo-589,,,,[Talion begin to brand orc archers.],,Y,MiShofMo-588,MiShofMo-590
+MiShofMo-590,,,Calebrimbor,Your will is mine!,,N,MiShofMo-589,MiShofMo-591
+MiShofMo-591,,,Orc Archer,"It’s yours, Master.",,N,MiShofMo-590,MiShofMo-592
+MiShofMo-592,,,Calebrimbor,You were made to be by terror!,,N,MiShofMo-591,MiShofMo-593
+MiShofMo-593,,,Calebrimbor,Witness the ﬂame and be led to your redemption!,,N,MiShofMo-592,MiShofMo-594
+MiShofMo-594,,,,[Talion kill all the Orcs.],,Y,MiShofMo-593,MiShofMo-595
+MiShofMo-595,,,Prisoner 1,Did the Lady the Shore send you to our aid?,,N,MiShofMo-594,MiShofMo-596
+MiShofMo-596,,,Prisoner 2,"The Queen warned us to wait until the end of the battle, then the Orcs spotted us…",,N,MiShofMo-595,MiShofMo-597
+MiShofMo-597,,,Prisoner 1,I told you! Her visions always come to pass!,,N,MiShofMo-596,MiShofMo-598
+MiShofMo-598,,,Prisoner 2,"Yes, but I told you not to…",,N,MiShofMo-597,MiShofMo-599
+MiShofMo-599,,,Talion,Do you have something for me?,,N,MiShofMo-598,MiShofMo-600
+MiShofMo-600,,,Prisoner 1,Queen Marwen sent us to ﬁnd this…,,N,MiShofMo-599,MiShofMo-601
+MiShofMo-601,,,,[The prisoner hands Talion Celebrimbor’s hoop. He is visited again by a vision. Talion sees how Celebrimbor defended his family from the hordes of orcs who attacked his house.],,Y,MiShofMo-600,MiShofMo-602
+MiShofMo-602,,,Sauron,Take him to Mordor.,,N,MiShofMo-601,MiShofMo-603
+MiShofMo-603,,,Talion,It is one thing to kill these Uruk. It is another to make them our followers.,,N,MiShofMo-602,MiShofMo-604
+MiShofMo-604,,,Calebrimbor,It is a gift. We can use the weapon of the enemy against him.,,N,MiShofMo-603,MiShofMo-605
+MiShofMo-605,,,,[Talion returns to Lady Marwen’s home.],,Y,MiShofMo-604,MiShofMo-606
+MiShofMo-606,,,Talion,Lady Marwen!,,N,MiShofMo-605,MiShofMo-607
+MiShofMo-607,,,Lady Marwen (in Saruman’s voice),Why have you returned? You are not done yet.,,N,MiShofMo-606,MiShofMo-608
+MiShofMo-608,,,Talion,How did you know where to ﬁnd this?,,N,MiShofMo-607,MiShofMo-609
+MiShofMo-609,,,Lady Marwen,He has shown me.,,N,MiShofMo-608,MiShofMo-610
+MiShofMo-610,,,Talion,You haven’t told me what you want in return.,,N,MiShofMo-609,MiShofMo-611
+MiShofMo-611,,,Lady Marwen,Only that you learn what you are truly capable of. Find an Orc leader. Make him a Warchief. And all his soldiers will be yours.,,N,MiShofMo-610,MiShofMo-612
+MiShofMo-612,,,Talion,Where am I to lead this army of mine?,,N,MiShofMo-611,MiShofMo-613
+MiShofMo-613,,,Lady Marwen,"Bring them to me, and I will show you.",,N,MiShofMo-612,MiShofMo-614
+MiShofMo-614,,,,[Outside.],,Y,MiShofMo-613,MiShofMo-615
+MiShofMo-615,,,Talion,Marwen said to bring her an army.,,N,MiShofMo-614,MiShofMo-616
+MiShofMo-616,,,Calebrimbor,"We shall not build an army, we shall command one!",,N,MiShofMo-615,MiShofMo-617
+MiShofMo-617,,,Talion,We’ll need to ﬁnd an Uruk Captain to dominate and make our own.,,N,MiShofMo-616,MiShofMo-618
+MiShofMo-618,,,Calebrimbor,There is a Slaver near here named Grublik. We will make him serve our cause.,,N,MiShofMo-617,MiShofMo-619
+MiShofMo-619,,,,[Talinon finds and enslave the Uruk.],,Y,MiShofMo-618,MiShofMo-620
+MiShofMo-620,,,Calebrimbor,"You will obey! It is done, he’s ours.",,N,MiShofMo-619,MiShofMo-621
+MiShofMo-621,,,Talion,We must now make his Captain a bodyguard if he is ever to be a Warchief.,,N,MiShofMo-620,MiShofMo-622
+MiShofMo-622,,,Calebrimbor,It is from ﬁrst strike of thunder that is soon born a storm.,,N,MiShofMo-621,MiShofMo-623
+MiShofMo-623,,,Grublik, Bow to your new Captain!,(to Orcs) ,N,MiShofMo-622,MiShofMo-624
+MiShofMo-624,,,Orc,Go away! I serve another!,,N,MiShofMo-623,MiShofMo-625
+MiShofMo-625,,,Calebrimbor,I must help Grublik eliminate all those who challenge him.,,N,MiShofMo-624,MiShofMo-626
+MiShofMo-626,,,,[Talion kills the opposition.],,Y,MiShofMo-625,MiShofMo-627
+MiShofMo-627,,,Orc,I conquered the weak! Now join me in victory! Any who oppose me will pa with their blood! To red swords!,,N,MiShofMo-626,MiShofMo-628
+MiShofMo-628,,,Calebrimbor,The Warchief has chosen our Captain.,,N,MiShofMo-627,MiShofMo-629
+MiShofMo-629,,,Talion,Then he has chosen death. A greater vantage will ready us for this battle. It sickens me. I lost my family to this evil.,,N,MiShofMo-628,MiShofMo-630
+MiShofMo-630,,,Calebrimbor,Exact retribution by turning that evil against itself.,,N,MiShofMo-629,MiShofMo-631
+MiShofMo-631,,,Talion,The Queen is right. We are worse to use mm ruthlessness against them.,,N,MiShofMo-630,MiShofMo-632
+MiShofMo-632,,,Calebrimbor,Our pawn is in place. We are ready For our ﬁnal move.,,N,MiShofMo-631,MiShofMo-633
+MiShofMo-633,,,Tarz the Knife,You’re outnumbered… easy pickings!,,N,MiShofMo-632,MiShofMo-634
+MiShofMo-634,,,,[Talion defeats him.],,Y,MiShofMo-633,MiShofMo-635
+MiShofMo-635,,,Tarz the Knife,This is what I get for not listening to my better instincts.,,N,MiShofMo-634,MiShofMo-636
+MiShofMo-636,,,Grublik, I fight for the Dark Lord and you shall fight for me! This is thy dominion! I am the strongest Warchief in all of Mordor! I shall lead my army over a ﬁeld of broken skulls! Come stand behind me or let my blade meet your neck.,(to Orcs) ,N,MiShofMo-635,MiShofMo-637
+MiShofMo-637,,,Talion,Queen Marwen’s plan has given us great strength.,,N,MiShofMo-636,MiShofMo-638
+MiShofMo-638,,,Calebrimbor,"Strength should not be squandered, but wielded. The Queen will show us how.",,N,MiShofMo-637,MiShofMo-639
+MiShofMo-639,,,Talion,Marwen’s strategy yields great results. An army of our own to face Darkness head on.,,N,MiShofMo-638,MiShofMo-640
+MiShofMo-640,,,Calebrimbor,"A mirror looking upon itself, ready to be cracked.",,N,MiShofMo-639,MiShofMo-641
+MiShofMo-641,,,Talion,"We should return to Marwen, she will have more for us.",,N,MiShofMo-640,MiShofMo-642
+MiShofMo-642,,,,[Talion returns to Lady Marwen’s home.],,Y,MiShofMo-641,MiShofMo-643
+MiShofMo-643,,,Lady Marwen (in Saruman’s voice),"Do not resist me, Celebrimbor. Together we can be invincible. The Dark Lord Sauron is still weak. Our army can destroy him.",,N,MiShofMo-642,MiShofMo-644
+MiShofMo-644,,,Lithariel,Mother!,,N,MiShofMo-643,MiShofMo-645
+MiShofMo-645,,,Talion,Break the staff!,,N,MiShofMo-644,MiShofMo-646
+MiShofMo-646,,,,[Lithariel breaks the stuff and banish the Dark Hand. Lady Marwen is getting younger and a blush appears on her face yet again.],,Y,MiShofMo-645,MiShofMo-647
+MiShofMo-647,,,Lithariel,Mother! Are you alright?,,N,MiShofMo-646,MiShofMo-648
+MiShofMo-648,,,Lady Marwen,"I am. I am now that I can ﬁnally see you, my child.",,N,MiShofMo-647,MiShofMo-649
+MiShofMo-649,,,Talion,Your mother has been under the spell of a very powerful wizard.,,N,MiShofMo-648,MiShofMo-650
+MiShofMo-650,,,Lady Marwen,Talion. I am sorry. Saruman brought you here against my will. I went to him for help. I ended up being a prisoner within my own body.,,N,MiShofMo-649,MiShofMo-651
+MiShofMo-651,,,Talion,"What have you seen, in your visions?",,N,MiShofMo-650,MiShofMo-652
+MiShofMo-652,,,Lady Marwen,"I have seen Sauron’s servants. The Tower and The Black Hand. They bring much suffering. If you wish to know where they are, they are across the Sea of Numen.",,N,MiShofMo-651,MiShofMo-653
+MiShofMo-653,,,Talion,"Their forces, how strong?",,N,MiShofMo-652,MiShofMo-654
+MiShofMo-654,,,Lady Marwen,Strong enough to defeat us all.,,N,MiShofMo-653,MiShofMo-655
+MiShofMo-655,,,Talion,Then we truly will need an army.,,N,MiShofMo-654,MiShofMo-656
+MiShofMo-656,,,Lithariel,"Illness till plagues you. Rest, Mother. I will make preparations for our journey out of Mordor.",,N,MiShofMo-655,MiShofMo-657
+MiShofMo-657,,,Talion,Saruman is one of the Istari. With the power of the Ring he could’ve built a great army to challenge the Dark Lord.,,N,MiShofMo-656,MiShofMo-658
+MiShofMo-658,,,Calebrimbor,And that’s what we must do. Though one garrison does not an army make.,,N,MiShofMo-657,MiShofMo-659
+MiShofMo-659,,,Talion,"Yes, we just dominate more Warchiefs for a true army.",,N,MiShofMo-658,MiShofMo-660
+MiShofMo-660,,,,[Next scene. Lithariel talks with some soldiers.],,Y,MiShofMo-659,MiShofMo-661
+MiShofMo-661,,,Lithariel,I don’t care of the risks.It’s for the well-being of the Queen.,,N,MiShofMo-660,MiShofMo-662
+MiShofMo-662,,,Soldier 1,"My lady, this does not seem…",,N,MiShofMo-661,MiShofMo-663
+MiShofMo-663,,,Talion,Attacking the camp would be ill-advised.,,N,MiShofMo-662,MiShofMo-664
+MiShofMo-664,,,Lithariel,"He’s on our side. I have no choice. Talion, I need my mother’s elixir.",,N,MiShofMo-663,MiShofMo-665
+MiShofMo-665,,,Soldier 2,Even the stranger says this is a fool’s errand!,,N,MiShofMo-664,MiShofMo-666
+MiShofMo-666,,,Calebrimbor,I know who she reminds you of Talion. She is of this world. You are not.,,N,MiShofMo-665,MiShofMo-667
+MiShofMo-667,,,Lithariel,Enough! We attack as planned.,,N,MiShofMo-666,MiShofMo-668
+MiShofMo-668,,,Talion,I will take care of the Orcs.,,N,MiShofMo-667,MiShofMo-669
+MiShofMo-669,,,Soldier 1,"We could follow behind, unseen.",,N,MiShofMo-668,MiShofMo-670
+MiShofMo-670,,,Lithariel,We get the medicine and we leave.,,N,MiShofMo-669,MiShofMo-671
+MiShofMo-671,,,Talion,The White Wizard has taken his toll on the queen. Only in stealth can we clear a path so Lithariel and her men ma ﬁnd the elixir.,,N,MiShofMo-670,MiShofMo-672
+MiShofMo-672,,,Calebrimbor,Emotion fogs your way. Risk without reward is recklessness.,,N,MiShofMo-671,MiShofMo-673
+MiShofMo-673,,,Talion,This medicine will clear the Queen’s mind and lead to answers of your past.,,N,MiShofMo-672,MiShofMo-674
+MiShofMo-674,,,Calebrimbor,Then may truth justify our alliance with these people.,,N,MiShofMo-673,MiShofMo-675
+MiShofMo-675,,,Talion,Did you ﬁnd what you needed?,,N,MiShofMo-674,MiShofMo-676
+MiShofMo-676,,,Lithariel,Yes. Take this to the Queen. Immediately.,,N,MiShofMo-675,MiShofMo-677
+MiShofMo-677,,,Calebrimbor,I doubt any medicine from Men will cure her Queen.,,N,MiShofMo-676,MiShofMo-678
+MiShofMo-678,,,Talion,Let’s hope that it heals your mother.,,N,MiShofMo-677,MiShofMo-679
+MiShofMo-679,,,Lithariel,We found this message. Orc leaders plan a gathering by the ﬁshing village. We can prepare an ambush. I owe you a great thanks.,,N,MiShofMo-678,MiShofMo-680
+MiShofMo-680,,,Talion,I’m glad to be of assistance.,,N,MiShofMo-679,MiShofMo-681
+MiShofMo-681,,,Lithariel,We’re lucky to have you.,,N,MiShofMo-680,MiShofMo-682
+MiShofMo-682,,,Calebrimbor,"These are not your people, Talion. Remember your wife and son.",,N,MiShofMo-681,MiShofMo-683
+MiShofMo-683,,,Talion,"Well, I mustn’t keep you.",,N,MiShofMo-682,MiShofMo-684
+MiShofMo-684,,,Lithariel,"Yes, every moment is precious.",,N,MiShofMo-683,MiShofMo-685
+MiShofMo-685,,,Talion,Lithariel’s strength shies through her leadership.,,N,MiShofMo-684,MiShofMo-686
+MiShofMo-686,,,Calebrimbor,It’s reﬂected in the eyes of her people with respect rather than fear.,,N,MiShofMo-685,MiShofMo-687
+MiShofMo-687,,,,[Next scene. Lithariel caught by orcs.],,Y,MiShofMo-686,MiShofMo-688
+MiShofMo-688,,,The Tower,"Such a shame. If you truly know nothing, then you’re of no use to me. When you’re done with her, hang her high. Make sure the Gravewalker can ﬁnd her.",,N,MiShofMo-687,MiShofMo-689
+MiShofMo-689,,,Orc (to Lithariel),"You aren’t going anywhere, slag. Tell us where he’s hiding and we’ll kill you quick.",,N,MiShofMo-688,MiShofMo-690
+MiShofMo-690,,,,[Lithariel trying to escape and kill 2 orcs.],,Y,MiShofMo-689,MiShofMo-691
+MiShofMo-691,,,Orc 2 (to Lithariel),Now we kill you slowly. Just how I like it.,,N,MiShofMo-690,MiShofMo-692
+MiShofMo-692,,,Lithariel,*screams*,,N,MiShofMo-691,MiShofMo-693
+MiShofMo-693,,,Talion,That scream was Lithariel’s. We must ﬁnd her quickly.,,N,MiShofMo-692,MiShofMo-694
+MiShofMo-694,,,Calebrimbor,"Stay quiet, emotion will add weight to your step.",,N,MiShofMo-693,MiShofMo-695
+MiShofMo-695,,,Orc 3 (to Lithariel),"Maybe if we make her bleed a little, she’ll tart talking. Down on her knees. Spit out the truth before I make you spit out your lung. Where is the Gravewalker?",,N,MiShofMo-694,MiShofMo-696
+MiShofMo-696,,,,[Talion saves Lithariel.],,Y,MiShofMo-695,MiShofMo-697
+MiShofMo-697,,,Lithariel,"They forced me to watch as they killed my men, one after another.",,N,MiShofMo-696,MiShofMo-698
+MiShofMo-698,,,Talion,I know what you feel… We must hurry. The Uruks rally when their brethren fall.,,N,MiShofMo-697,MiShofMo-699
+MiShofMo-699,,,Lithariel,So will my tribe.,,N,MiShofMo-698,MiShofMo-700
+MiShofMo-700,,,Talion,Plan your vengeance once we have escaped.,,N,MiShofMo-699,MiShofMo-701
+MiShofMo-701,,,Lithariel,I don’t seek vengeance. I ﬁght because it would be wrong not to. Talion. I can no longer draw my sword.,,N,MiShofMo-700,MiShofMo-702
+MiShofMo-702,,,Talion,Then I will do so in your stead.,,N,MiShofMo-701,MiShofMo-703
+MiShofMo-703,,,Lithariel,"I am but a handicap to you, Talion.",,N,MiShofMo-702,MiShofMo-704
+MiShofMo-704,,,Talion,You are hurt because of me. I am the handicap to you. You have the warrior spirit. I’ve never met a ﬁghter with such vigor for battle.,,N,MiShofMo-703,MiShofMo-705
+MiShofMo-705,,,Lithariel,"I have no choice. In the face of Darkness, it is our duty to bring Light.",,N,MiShofMo-704,MiShofMo-706
+MiShofMo-706,,,Talion,Steady. I’m here.,,N,MiShofMo-705,MiShofMo-707
+MiShofMo-707,,,Lithariel,"Let’s make haste. My leg is broken, not my spirit. The Tower of Sauron interrogated me on your whereabouts, but I did not betray you.",,N,MiShofMo-706,MiShofMo-708
+MiShofMo-708,,,Talion,Then you have ’proven my faith.,,N,MiShofMo-707,MiShofMo-709
+MiShofMo-709,,,Lithariel,As you now prove mine.,,N,MiShofMo-708,MiShofMo-710
+MiShofMo-710,,,Talion,"Here, rest here.",,N,MiShofMo-709,MiShofMo-711
+MiShofMo-711,,,Lithariel,Why are you doing this?,,N,MiShofMo-710,MiShofMo-712
+MiShofMo-712,,,Talion,To stop the bleeding.,,N,MiShofMo-711,MiShofMo-713
+MiShofMo-713,,,Lithariel,No. My did you come back to save me?,,N,MiShofMo-712,MiShofMo-714
+MiShofMo-714,,,Talion,"I had a family once. A wife, and a son. And I buried them along with everyone I even knew.",,N,MiShofMo-713,MiShofMo-715
+MiShofMo-715,,,Lithariel,Stay with us. My mother can help you.,,N,MiShofMo-714,MiShofMo-716
+MiShofMo-716,,,Talion,I can’t. I don’t belong here.,,N,MiShofMo-715,MiShofMo-717
+MiShofMo-717,,,Lithariel,You will be a champion to my people.,,N,MiShofMo-716,MiShofMo-718
+MiShofMo-718,,,Soldier in the distance,Over there!,,N,MiShofMo-717,MiShofMo-719
+MiShofMo-719,,,Talion,Can you walk on your own?,,N,MiShofMo-718,MiShofMo-720
+MiShofMo-720,,,Lithariel,Is that your answer?,,N,MiShofMo-719,MiShofMo-721
+MiShofMo-721,,,Soldier,My lady!,,N,MiShofMo-720,MiShofMo-722
+MiShofMo-722,,,Talion,Help her.,,N,MiShofMo-721,MiShofMo-723
+MiShofMo-723,,,Soldier,You’re hurt. Let me help.,,N,MiShofMo-722,MiShofMo-724
+MiShofMo-724,,,Talion,"You need to leave this place immediately, it’s not safe.",,N,MiShofMo-723,MiShofMo-725
+MiShofMo-725,,,Lithariel,"Thank you, Ranger.",,N,MiShofMo-724,MiShofMo-726
+MiShofMo-726,,,Talion,Lithariel and her men will not survive Mordor. They must leave or perish. The Black Hand will suffer for this.,,N,MiShofMo-725,MiShofMo-727
+MiShofMo-727,,,,[Next scene. Lady Marwen speaks to some seawolf.],,Y,MiShofMo-726,MiShofMo-728
+MiShofMo-728,,,Lady Marwen,"We wish thank you for coming to our aid, Captain.",,N,MiShofMo-727,MiShofMo-729
+MiShofMo-729,,,Captain,"Aye! Never realized my smuggling could be so appreciated by the queen, my lady.",,N,MiShofMo-728,MiShofMo-730
+MiShofMo-730,,,Lithariel,They’re here.,,N,MiShofMo-729,MiShofMo-731
+MiShofMo-731,,,,[We see Talion and his army.],,Y,MiShofMo-730,MiShofMo-732
+MiShofMo-732,,,Captain,"Orcs… Oh, they make bad passengers. But I’ve carried worse. Keep that plank level. Oi! Touch nothing!",,N,MiShofMo-731,MiShofMo-733
+MiShofMo-733,,,Talion,"Queen Marwen, it’s good to see you in better health.",,N,MiShofMo-732,MiShofMo-734
+MiShofMo-734,,,Lady Marwen,The boats are ready. The skippers have been briefed on your destination.,,N,MiShofMo-733,MiShofMo-735
+MiShofMo-735,,,Talion,Good.,,N,MiShofMo-734,MiShofMo-736
+MiShofMo-736,,,Lithariel,How long will those Orcs obey you?,,N,MiShofMo-735,MiShofMo-737
+MiShofMo-737,,,Talion,"Well, I should think as long as I like. I’m in your debt.",,N,MiShofMo-736,MiShofMo-738
+MiShofMo-738,,,Lady Marwen,"We owe you our lives, Talion.",,N,MiShofMo-737,MiShofMo-739
+MiShofMo-739,,,Lithariel,Just put an end to this madness.,,N,MiShofMo-738,MiShofMo-740
+MiShofMo-740,,,Talion,My lady.,,N,MiShofMo-739,MiShofMo-741
+MiShofMo-741,,,,[They sail the Sea of Numen to fight the Black Hand.],,Y,MiShofMo-740,MiShofMo-742
+MiShofMo-742,,,Dharg the Shield,I see in the future the shadow that will cover the Middle-earth. The Gravewalker is a tiny ﬂame. We are the poison sea. We will spill misery out across Mordor. We will wash away the light!!!,,N,MiShofMo-741,MiShofMo-743
+MiShofMo-743,,,Talion,Drown the air with Uruk cries and the earth with Uruk blood!,,N,MiShofMo-742,MiShofMo-744
+MiShofMo-744,,,,[Talion defeat Dharg and his army.],,Y,MiShofMo-743,MiShofMo-745
+MiShofMo-745,,,Dharg the Shield,Cursed Tark… Can’t you see we’ve already won.,,N,MiShofMo-744,MiShofMo-746
+MiShofMo-746,,,Talion,We are at the ﬁnal reﬁning; the fortress of the Black Hand.,,N,MiShofMo-745,MiShofMo-747
+MiShofMo-747,,,Voice,I wasn’t expecting you. I hope my soldiers give you a warm welcome.,,N,MiShofMo-746,MiShofMo-748
+MiShofMo-748,,,Talion,Where are you? Show yourself!,,N,MiShofMo-747,MiShofMo-749
+MiShofMo-749,,,Calebrimbor,This is the work of the Tower.,,N,MiShofMo-748,MiShofMo-750
+MiShofMo-750,,,The Tower,The Black Hand went looking for you. But it will give me gre t pleasure to take you myself. Bow to me. And I will deliver you to the Dark Lord unspoilt.,,N,MiShofMo-749,MiShofMo-751
+MiShofMo-751,,,Calebrimbor,We bow to no one.,,N,MiShofMo-750,MiShofMo-752
+MiShofMo-752,,,The Tower,"The Dark Lord forgives you, Calebrimbor. Return to him and cast off this human corpse.",,N,MiShofMo-751,MiShofMo-753
+MiShofMo-753,,,Talion,Stand up and ﬁght!,,N,MiShofMo-752,MiShofMo-754
+MiShofMo-754,,,The Tower,There’s no need. Ranger. Calebrimbor is your curse. He chose you.,,N,MiShofMo-753,MiShofMo-755
+MiShofMo-755,,,Calebrimbor,Silence!,,N,MiShofMo-754,MiShofMo-756
+MiShofMo-756,,,The Tower,"And he can release you at any time. Yes that’s all you are, Ranger. A vessel for the Ring-maker.",,N,MiShofMo-755,MiShofMo-757
+MiShofMo-757,,,,[Talion still wants to fight.],,Y,MiShofMo-756,MiShofMo-758
+MiShofMo-758,,,The Tower,As you wish.,,N,MiShofMo-757,MiShofMo-759
+MiShofMo-759,,,The Tower,"What joy it is to ﬁght such weakness, such pain, such a broken mind. What do you still ﬁght for? If only to avoid the mirror of what you have become. You seek vengeance for us, we seek it against you! You have walked through the grave many times. I shall make you walk through the grave again and again until you know that it is your place to stay there and never return. You think you can defeat the Great Evil, but you could not even rid your body of the Wraith.",,N,MiShofMo-758,MiShofMo-760
+MiShofMo-760,,,Dirhael’s Voice,"I am not worth your vengeance, father. Why do you ﬁght?",,N,MiShofMo-759,MiShofMo-761
+MiShofMo-761,,,Ioreth’s Voice,"We will be together soon.., forever.",,N,MiShofMo-760,MiShofMo-762
+MiShofMo-762,,,The Tower,"You’ll never see your family again. Your body is strong, but your thoughts are broken. And I will shatter your pain into a thousand pieces and make you swallow every shard of your agony and loss. How can you purge darkness in this land when you can not even purge darkness inside your very heart? Mother cries for you.., tears of joy because we’re rid of you!",,N,MiShofMo-761,MiShofMo-763
+MiShofMo-763,,,,[Talion kills the Tower and speaks to Celebrimbor.],,Y,MiShofMo-762,MiShofMo-764
+MiShofMo-764,,,Talion,You said we were cursed. You deceived me.,,N,MiShofMo-763,MiShofMo-765
+MiShofMo-765,,,Calebrimbor,It was Sauron’s doing.,,N,MiShofMo-764,MiShofMo-766
+MiShofMo-766,,,Talion,This was YOUR doing! I should have died with my family.,,N,MiShofMo-765,MiShofMo-767
+MiShofMo-767,,,Calebrimbor,I thought you wanted revenge. I can leave you. But there is only one way to close the circle. The Black Hand remains.,,N,MiShofMo-766,MiShofMo-768
+MiShofMo-768,,,Talion,Not for long.,,N,MiShofMo-767,MiShofMo-769
+MiShofMo-769,,,,[Talion returns to Numen.],,Y,MiShofMo-768,MiShofMo-770
+MiShofMo-770,,,Talion,Nurn is in ﬂames. We must return to Queen Marwen.,,N,MiShofMo-769,MiShofMo-771
+MiShofMo-771,,,Calebrimbor,The Black Hand has been here. I can feel it.,,N,MiShofMo-770,MiShofMo-772
+MiShofMo-772,,,Talion,Lithariel!,,N,MiShofMo-771,MiShofMo-773
+MiShofMo-773,,,Dirhael’s Voice,"I am not worth your vengeance, father. Why do you ﬁght?",,N,MiShofMo-772,MiShofMo-774
+MiShofMo-774,,,Ioreth’s Voice,"We will be together soon.., forever…",,N,MiShofMo-773,MiShofMo-775
+MiShofMo-775,,,The Black Hand,"Soon, Celebrimbor. Soon.",,N,MiShofMo-774,MiShofMo-776
+MiShofMo-776,,,Gollum,"Nasty beasts, they wants this… (he shows Talion Calebrimbor’s hoop) But we took it from them.",,N,MiShofMo-775,MiShofMo-777
+MiShofMo-777,,,,[Talion sees another vision.],,Y,MiShofMo-776,MiShofMo-778
+MiShofMo-778,,,Calebrimbor,"Ash nazg durbatuluk, ash nazg gimbatul, ash nazg thrakatuluk, agh burzum-ishi krimpatul.",,N,MiShofMo-777,MiShofMo-779
+MiShofMo-779,,,,[Celebrimbor helps Sauron make the Ring and taking advantage of the moment steals it from him and runs away. The vision ended.],,Y,MiShofMo-778,MiShofMo-780
+MiShofMo-780,,,Gollum,"The Precious! They must have it. Filthy, tricksy thieves.  Thief!",(to Celebrimbor) ,N,MiShofMo-779,MiShofMo-781
+MiShofMo-781,,,Calebrimbor,Thief? It was mine to keep!,,N,MiShofMo-780,MiShofMo-782
+MiShofMo-782,,,Gollum,Where do they hides it. Where?!,,N,MiShofMo-781,MiShofMo-783
+MiShofMo-783,,,Talion,Be gone.,,N,MiShofMo-782,MiShofMo-784
+MiShofMo-784,,,Gollum,The Precious is ours! Ours!,,N,MiShofMo-783,MiShofMo-785
+MiShofMo-785,,,,[He leaves.],,Y,MiShofMo-784,MiShofMo-786
+MiShofMo-786,,,Calebrimbor,Sauron knows we’re here.,,N,MiShofMo-785,MiShofMo-787
+MiShofMo-787,,,Talion,Let’s not keep him waiting.,,N,MiShofMo-786,MiShofMo-788
+MiShofMo-788,,,,[It’s time for the final battle with the Black Hand’s army.],,Y,MiShofMo-787,MiShofMo-789
+MiShofMo-789,,,Talion,Feel the true power of the Gravewalker!,,N,MiShofMo-788,MiShofMo-790
+MiShofMo-790,,,First Talon of the Hand,"You’re too late. Ranger! Barad-Dur is rebuilt! Mount Doom is aﬂame! The fall of Man is here, and Sauron will conquer all!",,N,MiShofMo-789,MiShofMo-791
+MiShofMo-791,,,Second Talon of the Hand,The Dark Lord will be triumphant. The age of the Uruk is at hand!,,N,MiShofMo-790,MiShofMo-792
+MiShofMo-792,,,Calebrimbor,"This will ﬁnish as it started, with shadow and ﬂame falling on the Black Gate. The Hammer and the Tower are dead. Sauron is still weak. Without the power of the One Ring or the Ring-maker he cannot take form. He will be trapped within Mordor. No more than an eye of ﬂame bound to his Dark Tower.",,N,MiShofMo-791,MiShofMo-793
+MiShofMo-793,,,Talion,"And at last I can die, and none will avenge me.",,N,MiShofMo-792,MiShofMo-794
+MiShofMo-794,,,,[It’s tome to face the Dark Hand.],,Y,MiShofMo-793,MiShofMo-795
+MiShofMo-795,,,The Black Hand,"I have a gift for you, Celebrimbor.",,N,MiShofMo-794,MiShofMo-796
+MiShofMo-796,,,,[He throws Talion an artifact. He sees another vision with massive battle – Celebrimbor and his army versus Sauron with army of orcs. Celebrimbor defeats Sauron but the Ring betrays him and crawls off his finger. Sauron grabs him and imprisons Celebrimbor in a tower where he tortures and kills him with his family.],,Y,MiShofMo-795,MiShofMo-797
+MiShofMo-797,,,The Black Hand,"The Dark Lord gave you a second chance. To stand by his side. Now, I give you no choice. We shall be sealed together in death!",,N,MiShofMo-796,MiShofMo-798
+MiShofMo-798,,,Talion,So be it.,,N,MiShofMo-797,MiShofMo-799
+MiShofMo-799,,,,[The Black Hand cuts his own throat.],,Y,MiShofMo-798,MiShofMo-800
+MiShofMo-800,,,The Black Hand,"Return to me, Ringmaker.",,N,MiShofMo-799,MiShofMo-801
+MiShofMo-801,,,,"[Celebrimbor’s spirit leaves Talion, who falls on the ground and slowly dies. The Black Hand gets into some of Sauron’s armor and attacks Talion.]",,Y,MiShofMo-800,MiShofMo-802
+MiShofMo-802,,,Calebrimbor,"Strike now, Talion. I cannot hold him for much longer…",,N,MiShofMo-801,MiShofMo-803
+MiShofMo-803,,,Ioreth’s Voice,"Talion, my heart. We will be together soon. Forever.",,N,MiShofMo-802,MiShofMo-804
+MiShofMo-804,,,Calebrimbor,The Black Hand of Sauron is dead. The Hither Shore is calling us. This is no longer our battle. I tried ﬁghting him. It can’t be done.,,N,MiShofMo-803,MiShofMo-805
+MiShofMo-805,,,Talion,Could you really rest for all of eternity knowing that you had the chance to stop him but did nothing?,,N,MiShofMo-804,MiShofMo-806
+MiShofMo-806,,,,[He looks at Orodruin.],,Y,MiShofMo-805,
+MiShofMo-807,,,Talion,The time has come for a new Ring.,,N,MiShofMo-806,MiShofMo-808

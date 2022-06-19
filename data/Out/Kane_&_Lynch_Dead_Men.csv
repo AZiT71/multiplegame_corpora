@@ -1,0 +1,832 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+Ka&LyDeMe-2,,,Lynch,Mr. Kane... wake up... Mr. Kane!,,N,Ka&LyDeMe-1,Ka&LyDeMe-3
+Ka&LyDeMe-3,,,Kane,What?,,N,Ka&LyDeMe-2,Ka&LyDeMe-4
+Ka&LyDeMe-4,,,Lynch,I need you to cover your head.,,N,Ka&LyDeMe-3,Ka&LyDeMe-5
+Ka&LyDeMe-5,,,Kane,What did you say?,,N,Ka&LyDeMe-4,Ka&LyDeMe-6
+Ka&LyDeMe-6,,,Lynch,Just cover your head NOW!,,N,Ka&LyDeMe-5,Ka&LyDeMe-7
+Ka&LyDeMe-7,,,,"[The van rolls over. While Kane lies unconscious vaguely watching what is happening, Lynch deals with the police.]",,Y,Ka&LyDeMe-6,Ka&LyDeMe-8
+Ka&LyDeMe-8,,,Police,You are surrounded. Now come out here with your hands up...,,N,Ka&LyDeMe-7,Ka&LyDeMe-9
+Ka&LyDeMe-9,,,Lynch, Hold out your fucking cuffs!,(to Kane) ,N,Ka&LyDeMe-8,Ka&LyDeMe-10
+Ka&LyDeMe-10,,,,[He breaks the handcuffs on Kane with a rifle shot.],,Y,Ka&LyDeMe-9,Ka&LyDeMe-11
+Ka&LyDeMe-11,,,Lynch, Get on your feet! Follow me! We’ll cover you.,(to Kane) ,N,Ka&LyDeMe-10,Ka&LyDeMe-12
+Ka&LyDeMe-12,,,,[The police and Lynch's accomplices shooting and running around here and there.],,Y,Ka&LyDeMe-11,Ka&LyDeMe-13
+Ka&LyDeMe-13,,,Lynch, Follow me. Into the Alley! Over here! This way! You ok? You got shook up pretty bad...,(to Kane) ,N,Ka&LyDeMe-12,Ka&LyDeMe-14
+Ka&LyDeMe-14,,,Kane,What the fuck is going on?,,N,Ka&LyDeMe-13,Ka&LyDeMe-15
+Ka&LyDeMe-15,,,Masked man,I strongly advise you to do as you're fuckin' told!,,N,Ka&LyDeMe-14,Ka&LyDeMe-16
+Ka&LyDeMe-16,,,Kane,Who the fuck are you to talk to me like that??,,N,Ka&LyDeMe-15,Ka&LyDeMe-17
+Ka&LyDeMe-17,,,Masked man,Your glory days are long gone - old-timer... And stop feeling sorry for yourself!,,N,Ka&LyDeMe-16,Ka&LyDeMe-18
+Ka&LyDeMe-18,,,Masked man 2,The truck is down - we'll need another way out.,,N,Ka&LyDeMe-17,Ka&LyDeMe-19
+Ka&LyDeMe-19,,,Masked man,Shit! We have a problem – we need a new pickup.,,N,Ka&LyDeMe-18,Ka&LyDeMe-20
+Ka&LyDeMe-20,,,Masked man 2,Got it. We’re heading north. They’ll extract us near the airport. And I don’t want any trouble from you two. NOW MOVE!,,N,Ka&LyDeMe-19,Ka&LyDeMe-21
+Ka&LyDeMe-21,,,Masked man,They already got a chopper up.,,N,Ka&LyDeMe-20,Ka&LyDeMe-22
+Ka&LyDeMe-22,,,Masked man 2,Get some smoke out - We need cover!,,N,Ka&LyDeMe-21,Ka&LyDeMe-23
+Ka&LyDeMe-23,HANDS BEHIND YOUR BACK,,Masked man,We gotta find cover! We’re sitting ducks here! Move on!,,N,Ka&LyDeMe-22,Ka&LyDeMe-24
+Ka&LyDeMe-24,HANDS BEHIND YOUR BACK,,Masked man 2,Use smoke as cover!,,N,Ka&LyDeMe-23,Ka&LyDeMe-25
+Ka&LyDeMe-25,HANDS BEHIND YOUR BACK,,Masked man,Mr. Kane! Get inside NOW!,,N,Ka&LyDeMe-24,Ka&LyDeMe-26
+Ka&LyDeMe-26,HANDS BEHIND YOUR BACK,,Masked man 2,Return fire!,,N,Ka&LyDeMe-25,Ka&LyDeMe-27
+Ka&LyDeMe-27,HANDS BEHIND YOUR BACK,,Masked man,"If we stay here, we'll die!",,N,Ka&LyDeMe-26,Ka&LyDeMe-28
+Ka&LyDeMe-28,HANDS BEHIND YOUR BACK,,Kane,You smell that? Smells like gasoline!,,N,Ka&LyDeMe-27,Ka&LyDeMe-29
+Ka&LyDeMe-29,HANDS BEHIND YOUR BACK,,,[They burn out the police cars with the policemen.],,Y,Ka&LyDeMe-28,Ka&LyDeMe-30
+Ka&LyDeMe-30,HANDS BEHIND YOUR BACK,,Masked man,Through the hole... Let's move! Move out! Go! Go! Move it!,,N,Ka&LyDeMe-29,Ka&LyDeMe-31
+Ka&LyDeMe-31,HANDS BEHIND YOUR BACK,,,[One of masked men throws a smoke grenade.],,Y,Ka&LyDeMe-30,Ka&LyDeMe-32
+Ka&LyDeMe-32,HANDS BEHIND YOUR BACK,,Masked man 2,Fire in the hole! That should keep 'em off our back.,,N,Ka&LyDeMe-31,Ka&LyDeMe-33
+Ka&LyDeMe-33,KEEP SHOOTING AND STAY CALM,,Masked man 2,CLEAR!,,N,Ka&LyDeMe-32,Ka&LyDeMe-34
+Ka&LyDeMe-34,KEEP SHOOTING AND STAY CALM,,Masked man,"Yeah, we're near the airport. Yeah, yeah, I see it... we'll be right there. They'll pick us up at the donut shop!",,N,Ka&LyDeMe-33,Ka&LyDeMe-35
+Ka&LyDeMe-35,KEEP SHOOTING AND STAY CALM,,Masked man 2,The door is locked!,,N,Ka&LyDeMe-34,Ka&LyDeMe-36
+Ka&LyDeMe-36,KEEP SHOOTING AND STAY CALM,,,[The police shoots him through the door.],,Y,Ka&LyDeMe-35,Ka&LyDeMe-37
+Ka&LyDeMe-37,KEEP SHOOTING AND STAY CALM,,Masked man,How many of them are there?!,,N,Ka&LyDeMe-36,Ka&LyDeMe-38
+Ka&LyDeMe-38,KEEP SHOOTING AND STAY CALM,,Masked man 2,Shit!,,N,Ka&LyDeMe-37,Ka&LyDeMe-39
+Ka&LyDeMe-39,KEEP SHOOTING AND STAY CALM,,Masked man,Shit! Get DOWN! GET DOWN! Return fire!,,N,Ka&LyDeMe-38,Ka&LyDeMe-40
+Ka&LyDeMe-40,KEEP SHOOTING AND STAY CALM,,Masked man 2,Shit! We gotta get out of here! Shit... Here we go again.,,N,Ka&LyDeMe-39,Ka&LyDeMe-41
+Ka&LyDeMe-41,KEEP SHOOTING AND STAY CALM,,Masked man,The doors open!! No good here -we need to move NOW! Choppers should be off our back! No ﬂy zone this close to the airstrip. Not far to go - now move! And shoot anything blue that fucking moves! Head for the donut shop now! GO! GO! GO!  WHERE THE HELL ARE YOU?! ...Yes… We can hold it… JUST FUCKlNG GET HERE. They’re only 2 klicks away. The pickup is on the way!,(on the phone) ,N,Ka&LyDeMe-40,Ka&LyDeMe-42
+Ka&LyDeMe-42,KEEP SHOOTING AND STAY CALM,,Masked man 2,So where the hell are they?!,,N,Ka&LyDeMe-41,Ka&LyDeMe-43
+Ka&LyDeMe-43,KEEP SHOOTING AND STAY CALM,,Masked man,Just shut up and hold your position. They'll be here! There they are. I see them! Kane. WE ARE LEAVING! Get ready! 3… 2… 1! Go! Go! Let's go! Let's go!,,N,Ka&LyDeMe-42,Ka&LyDeMe-44
+Ka&LyDeMe-44,KEEP SHOOTING AND STAY CALM,,Kane,Where are we going?!,,N,Ka&LyDeMe-43,Ka&LyDeMe-45
+Ka&LyDeMe-45,KEEP SHOOTING AND STAY CALM,,Masked man,I think you know. Cover their fucking heads!,,N,Ka&LyDeMe-44,Ka&LyDeMe-46
+Ka&LyDeMe-46,KEEP SHOOTING AND STAY CALM,,Lynch,Hey! Get your hands off me!,,N,Ka&LyDeMe-45,Ka&LyDeMe-47
+Ka&LyDeMe-47,KEEP SHOOTING AND STAY CALM,,Masked man,"Relax Lynch, you'll be fine.",,N,Ka&LyDeMe-46,Ka&LyDeMe-48
+Ka&LyDeMe-48,KEEP SHOOTING AND STAY CALM,,Lynch,This was not part of the deal!,,N,Ka&LyDeMe-47,Ka&LyDeMe-49
+Ka&LyDeMe-49,KEEP SHOOTING AND STAY CALM,,Masked man,"What deal? Fuck it then, just stay calm.",,N,Ka&LyDeMe-48,Ka&LyDeMe-50
+Ka&LyDeMe-50,KEEP SHOOTING AND STAY CALM,,Masked man 2,That's more like it.,,N,Ka&LyDeMe-49,Ka&LyDeMe-51
+Ka&LyDeMe-51,KEEP SHOOTING AND STAY CALM,,,[Kane is brought to a parking lot and taken out of the van with a bag on his head.],,Y,Ka&LyDeMe-50,Ka&LyDeMe-52
+Ka&LyDeMe-52,KEEP SHOOTING AND STAY CALM,,Masked man,Get them out of here.,,N,Ka&LyDeMe-51,Ka&LyDeMe-53
+Ka&LyDeMe-53,KEEP SHOOTING AND STAY CALM,,Masked man 2,We've got a small surprise for you.,,N,Ka&LyDeMe-52,Ka&LyDeMe-54
+Ka&LyDeMe-54,KEEP SHOOTING AND STAY CALM,,Man with scars,Kane. I've been dreaming of this moment for 4 years.,,N,Ka&LyDeMe-53,Ka&LyDeMe-55
+Ka&LyDeMe-55,KEEP SHOOTING AND STAY CALM,,Kane,I thought you were all dead...,,N,Ka&LyDeMe-54,Ka&LyDeMe-56
+Ka&LyDeMe-56,KEEP SHOOTING AND STAY CALM,,Man with scars,I should fucking cut you up right here and now...,,N,Ka&LyDeMe-55,Ka&LyDeMe-57
+Ka&LyDeMe-57,KEEP SHOOTING AND STAY CALM,,Kane,"Well, why don't you?",,N,Ka&LyDeMe-56,Ka&LyDeMe-58
+Ka&LyDeMe-58,KEEP SHOOTING AND STAY CALM,,Man with beard,"Oh, rest assured that we will... You betrayed us Kane. You left us behind and you ran with it all.",,N,Ka&LyDeMe-57,Ka&LyDeMe-59
+Ka&LyDeMe-59,KEEP SHOOTING AND STAY CALM,,Kane,The fuck I did.,,N,Ka&LyDeMe-58,Ka&LyDeMe-60
+Ka&LyDeMe-60,KEEP SHOOTING AND STAY CALM,,,[The man with scars hits him in the leg.],,Y,Ka&LyDeMe-59,Ka&LyDeMe-61
+Ka&LyDeMe-61,KEEP SHOOTING AND STAY CALM,,Man with beard,"Kane, we don't have time for this. We have both your wife and your daughter.",,N,Ka&LyDeMe-60,Ka&LyDeMe-62
+Ka&LyDeMe-62,KEEP SHOOTING AND STAY CALM,,Kane,You've got what? I don't believe you... I wanna talk to them!,,N,Ka&LyDeMe-61,Ka&LyDeMe-63
+Ka&LyDeMe-63,KEEP SHOOTING AND STAY CALM,,Man with beard,"Shut up! I tell YOU what to do! You know I have to kill you, but I'm offering you a chance. Bring it all back and I'll let them go.",,N,Ka&LyDeMe-62,Ka&LyDeMe-64
+Ka&LyDeMe-64,KEEP SHOOTING AND STAY CALM,,Kane,Carlos?,,N,Ka&LyDeMe-63,Ka&LyDeMe-65
+Ka&LyDeMe-65,KEEP SHOOTING AND STAY CALM,,Carlos,"I'm sorry Kane, but you know we can't bend the rules.",,N,Ka&LyDeMe-64,Ka&LyDeMe-66
+Ka&LyDeMe-66,KEEP SHOOTING AND STAY CALM,,Man with beard,I treated you like a son... You have 3 weeks. No more.,,N,Ka&LyDeMe-65,Ka&LyDeMe-67
+Ka&LyDeMe-67,KEEP SHOOTING AND STAY CALM,,Man with scars," You know what to do. The car is over there, it should have everything you need. (he gave him a cell phone]",(to Lynch) ,N,Ka&LyDeMe-66,Ka&LyDeMe-68
+Ka&LyDeMe-68,KEEP SHOOTING AND STAY CALM,,Lynch, Name's Lynch.,(to Kane) ,N,Ka&LyDeMe-67,Ka&LyDeMe-69
+Ka&LyDeMe-69,KEEP SHOOTING AND STAY CALM,,Kane,What's the phone for?,,N,Ka&LyDeMe-68,Ka&LyDeMe-70
+Ka&LyDeMe-70,KEEP SHOOTING AND STAY CALM,,Lynch,I'll be reporting back to them every morning and night,,N,Ka&LyDeMe-69,Ka&LyDeMe-71
+Ka&LyDeMe-71,KEEP SHOOTING AND STAY CALM,,Kane,"Great, a lurking watchdog...",,N,Ka&LyDeMe-70,Ka&LyDeMe-72
+Ka&LyDeMe-72,KEEP SHOOTING AND STAY CALM,,Lynch,"If I don't call them back with good news, they'll start with your wife.",,N,Ka&LyDeMe-71,Ka&LyDeMe-73
+Ka&LyDeMe-73,KEEP SHOOTING AND STAY CALM,,Kane,Not as long as you do exactly as I say. Let’s see what they left us in the car.,,N,Ka&LyDeMe-72,Ka&LyDeMe-74
+Ka&LyDeMe-74,KEEP SHOOTING AND STAY CALM,,,[He inspects the trunk of the car.],,Y,Ka&LyDeMe-73,Ka&LyDeMe-75
+Ka&LyDeMe-75,KEEP SHOOTING AND STAY CALM,,Kane,"This should be all we need for now. Take this, it's an earpiece. Don't ever take it out.  Not so fast, this one is for you.",(Lynch takes a gun from the trunk) ,N,Ka&LyDeMe-74,Ka&LyDeMe-76
+Ka&LyDeMe-76,KEEP SHOOTING AND STAY CALM,,,[They take some practice.],,Y,Ka&LyDeMe-75,Ka&LyDeMe-77
+Ka&LyDeMe-77,KEEP SHOOTING AND STAY CALM,,Kane,"Shit, and I have to keep this idiot alive! Listen. You won't survive long like that.",,N,Ka&LyDeMe-76,Ka&LyDeMe-78
+Ka&LyDeMe-78,KEEP SHOOTING AND STAY CALM,,Lynch,What do you mean? Did you see that shot?,,N,Ka&LyDeMe-77,Ka&LyDeMe-79
+Ka&LyDeMe-79,KEEP SHOOTING AND STAY CALM,,Kane,It's not yours shoot. I m sure it's great. It's about you not getting shot. I need you alive so you can keep making those phone calls. Just do as I do and try to keep as close to your cover as possible.,,N,Ka&LyDeMe-78,Ka&LyDeMe-80
+Ka&LyDeMe-80,KEEP SHOOTING AND STAY CALM,,Lynch,So what’s the plan?,,N,Ka&LyDeMe-79,Ka&LyDeMe-81
+Ka&LyDeMe-81,KEEP SHOOTING AND STAY CALM,,Kane,I'm gonna pick it up tomorrow and give it back to The7.,,N,Ka&LyDeMe-80,Ka&LyDeMe-82
+Ka&LyDeMe-82,KEEP SHOOTING AND STAY CALM,,Lynch,Just like that? So you DO know where it is?,,N,Ka&LyDeMe-81,Ka&LyDeMe-83
+Ka&LyDeMe-83,KEEP SHOOTING AND STAY CALM,,Kane,Just back off.,,N,Ka&LyDeMe-82,Ka&LyDeMe-84
+Ka&LyDeMe-84,KEEP SHOOTING AND STAY CALM,,Lynch,What exactly did you steal?,,N,Ka&LyDeMe-83,Ka&LyDeMe-85
+Ka&LyDeMe-85,KEEP SHOOTING AND STAY CALM,,Kane,I didn't steal anything! I thought they were dead.,,N,Ka&LyDeMe-84,Ka&LyDeMe-86
+Ka&LyDeMe-86,KEEP SHOOTING AND STAY CALM,,Lynch,Ok. Ok... None of my business anyway.,,N,Ka&LyDeMe-85,Ka&LyDeMe-87
+Ka&LyDeMe-87,KEEP SHOOTING AND STAY CALM,,Kane,Exactly... Now get over to that scaffolding.,,N,Ka&LyDeMe-86,Ka&LyDeMe-88
+Ka&LyDeMe-88,KEEP SHOOTING AND STAY CALM,,Lynch,What for?,,N,Ka&LyDeMe-87,Ka&LyDeMe-89
+Ka&LyDeMe-89,KEEP SHOOTING AND STAY CALM,,Kane,Just do exactly as I say.,,N,Ka&LyDeMe-88,Ka&LyDeMe-90
+Ka&LyDeMe-90,KEEP SHOOTING AND STAY CALM,,,[They go to the scaffolding.],,Y,Ka&LyDeMe-89,Ka&LyDeMe-91
+Ka&LyDeMe-91,KEEP SHOOTING AND STAY CALM,,Kane,Pick up the rope. I'll show you how to rappel.,,N,Ka&LyDeMe-90,Ka&LyDeMe-92
+Ka&LyDeMe-92,KEEP SHOOTING AND STAY CALM,,Lynch,I fucking hate heights.,,N,Ka&LyDeMe-91,Ka&LyDeMe-93
+Ka&LyDeMe-93,KEEP SHOOTING AND STAY CALM,,,[Lynch takes out a medicine bottle and swallows a few pills.],,Y,Ka&LyDeMe-92,Ka&LyDeMe-94
+Ka&LyDeMe-94,KEEP SHOOTING AND STAY CALM,,Kane,What are they for?,,N,Ka&LyDeMe-93,Ka&LyDeMe-95
+Ka&LyDeMe-95,KEEP SHOOTING AND STAY CALM,,Lynch,"Nothing serious, it’s just for my stomach. Been taking them since forever. It’s...",,N,Ka&LyDeMe-94,Ka&LyDeMe-96
+Ka&LyDeMe-96,KEEP SHOOTING AND STAY CALM,,Kane,Just pick up the damn rope. Fuck!,,N,Ka&LyDeMe-95,Ka&LyDeMe-97
+Ka&LyDeMe-97,KEEP SHOOTING AND STAY CALM,,Lynch,"Ah, shit! Where did they come from?",,N,Ka&LyDeMe-96,Ka&LyDeMe-98
+Ka&LyDeMe-98,KEEP SHOOTING AND STAY CALM,,Kane,"Fuck, they must've heard the shots. Let's get down to the exit.",,N,Ka&LyDeMe-97,Ka&LyDeMe-99
+Ka&LyDeMe-99,KEEP SHOOTING AND STAY CALM,,Lynch,"Fuck, just what we need. Still wanna rappel down?",,N,Ka&LyDeMe-98,Ka&LyDeMe-100
+Ka&LyDeMe-100,KEEP SHOOTING AND STAY CALM,,Kane,Of course not. We take the stairs.,,N,Ka&LyDeMe-99,Ka&LyDeMe-101
+Ka&LyDeMe-101,I FUCKING HATE HEIGHTS,,,[They leave the parking and go to the city.],,Y,Ka&LyDeMe-100,Ka&LyDeMe-102
+Ka&LyDeMe-102,I FUCKING HATE HEIGHTS,,Lynch,You still haven't answered me. What are we gonna do?,,N,Ka&LyDeMe-101,Ka&LyDeMe-103
+Ka&LyDeMe-103,I FUCKING HATE HEIGHTS,,Kane,We just pick it up and give it to them. I know where it is.,,N,Ka&LyDeMe-102,Ka&LyDeMe-104
+Ka&LyDeMe-104,I FUCKING HATE HEIGHTS,,Lynch,So you stole it and tucked it away.,,N,Ka&LyDeMe-103,Ka&LyDeMe-105
+Ka&LyDeMe-105,I FUCKING HATE HEIGHTS,,Kane,The fuck I did! I've never even touched it. I just happen to know who took it and which bank he stashed it in. Is that so fucking hard to believe?,,N,Ka&LyDeMe-104,Ka&LyDeMe-106
+Ka&LyDeMe-106,I FUCKING HATE HEIGHTS,,Lynch,It's in a bank? Fuck! I don't know how to rob a bank.,,N,Ka&LyDeMe-105,Ka&LyDeMe-107
+Ka&LyDeMe-107,I FUCKING HATE HEIGHTS,,Kane,"Well, I do. And if you just shut up about The7 and everything and let me handle it, I know a good vaultbreaker who'll help us out.",,N,Ka&LyDeMe-106,Ka&LyDeMe-108
+Ka&LyDeMe-108,I FUCKING HATE HEIGHTS,,Lynch,What's keeping them?,,N,Ka&LyDeMe-107,Ka&LyDeMe-109
+Ka&LyDeMe-109,I FUCKING HATE HEIGHTS,,Kane,Don't worry. He's never late. Here they are. Let's go.,,N,Ka&LyDeMe-108,Ka&LyDeMe-110
+Ka&LyDeMe-110,I FUCKING HATE HEIGHTS,,Lynch,Right on time.,,N,Ka&LyDeMe-109,Ka&LyDeMe-111
+Ka&LyDeMe-111,I FUCKING HATE HEIGHTS,,,"[They approach the truck, from which an old man comes out.]",,Y,Ka&LyDeMe-110,Ka&LyDeMe-112
+Ka&LyDeMe-112,I FUCKING HATE HEIGHTS,,Kane,Hey. I'm glad you could make it.,,N,Ka&LyDeMe-111,Ka&LyDeMe-113
+Ka&LyDeMe-113,I FUCKING HATE HEIGHTS,,Old man,It's my pleasure. Never thought I'd see you again.,,N,Ka&LyDeMe-112,Ka&LyDeMe-114
+Ka&LyDeMe-114,I FUCKING HATE HEIGHTS,,Kane,Neither did I. Who's the driver?,,N,Ka&LyDeMe-113,Ka&LyDeMe-115
+Ka&LyDeMe-115,I FUCKING HATE HEIGHTS,,Old man,"He's cool, don't worry.",,N,Ka&LyDeMe-114,Ka&LyDeMe-116
+Ka&LyDeMe-116,I FUCKING HATE HEIGHTS,,Kane,"Ok, so we're clear on the plan?",,N,Ka&LyDeMe-115,Ka&LyDeMe-117
+Ka&LyDeMe-117,I FUCKING HATE HEIGHTS,,Old man,"Sure, risky but doable. We'll get in there, quietly past the outside guards. Then you put the fentanyl gas in the vents up there, knocking out the lobby and securing us lots of hostages in case things get hot. Rappel to the loading bay. Fight to the vault. I open it. We exit through the front doors where Driver will be waiting for us.",,N,Ka&LyDeMe-116,Ka&LyDeMe-118
+Ka&LyDeMe-118,JUST LOOKING FOR MY CAR,,,"[Kane goes to the back of the bank, stunning the guards along the way.]",,Y,Ka&LyDeMe-117,Ka&LyDeMe-119
+Ka&LyDeMe-119,JUST LOOKING FOR MY CAR,,Guard,Hey you! What are you doing here?,,N,Ka&LyDeMe-118,Ka&LyDeMe-120
+Ka&LyDeMe-120,JUST LOOKING FOR MY CAR,,Kane,Let's get the hoods on. Ready?,,N,Ka&LyDeMe-119,Ka&LyDeMe-121
+Ka&LyDeMe-121,JUST LOOKING FOR MY CAR,,Old man,We got company.,,N,Ka&LyDeMe-120,Ka&LyDeMe-122
+Ka&LyDeMe-122,JUST LOOKING FOR MY CAR,,Kane,All clear.,,N,Ka&LyDeMe-121,Ka&LyDeMe-123
+Ka&LyDeMe-123,JUST LOOKING FOR MY CAR,,Guard,What the fuck? Intruders! GET THEM!,,N,Ka&LyDeMe-122,Ka&LyDeMe-124
+Ka&LyDeMe-124,JUST LOOKING FOR MY CAR,,Kane, Just keep me covered.,(to Lynch) ,N,Ka&LyDeMe-123,Ka&LyDeMe-125
+Ka&LyDeMe-125,JUST LOOKING FOR MY CAR,,Lynch,Long enough.,,N,Ka&LyDeMe-124,Ka&LyDeMe-126
+Ka&LyDeMe-126,JUST LOOKING FOR MY CAR,,Kane,"Lynch, secure the lobby.",,N,Ka&LyDeMe-125,Ka&LyDeMe-127
+Ka&LyDeMe-127,JUST LOOKING FOR MY CAR,,Lynch,Fuck no! I’m coming with you!,,N,Ka&LyDeMe-126,Ka&LyDeMe-128
+Ka&LyDeMe-128,JUST LOOKING FOR MY CAR,,Kane,Just do it! And keep things quiet until we get back.,,N,Ka&LyDeMe-127,Ka&LyDeMe-129
+Ka&LyDeMe-129,JUST LOOKING FOR MY CAR,,Old man,Do as Kane says!!! We need all the hostages. Hey! I need to keep an eye on you.,,N,Ka&LyDeMe-128,Ka&LyDeMe-130
+Ka&LyDeMe-130,JUST LOOKING FOR MY CAR,,Kane,"Don't worry, we'll be up there soon.",,N,Ka&LyDeMe-129,Ka&LyDeMe-131
+Ka&LyDeMe-131,JUST LOOKING FOR MY CAR,,Lynch,They're not gonna like this.,,N,Ka&LyDeMe-130,Ka&LyDeMe-132
+Ka&LyDeMe-132,WE NEED ALL THE HOSTAGES,,,[Kane and the old man get to the safe. The old man begins to open it.],,Y,Ka&LyDeMe-131,Ka&LyDeMe-133
+Ka&LyDeMe-133,WE NEED ALL THE HOSTAGES,,Kane,Your hands are shaking... thought you sobered up.,,N,Ka&LyDeMe-132,Ka&LyDeMe-134
+Ka&LyDeMe-134,WE NEED ALL THE HOSTAGES,,Old man,I did. But that shit never really leaves you. Keep 'em all my back!,,N,Ka&LyDeMe-133,Ka&LyDeMe-135
+Ka&LyDeMe-135,WE NEED ALL THE HOSTAGES,,Old man,Got the first one. 5 to go!,,N,Ka&LyDeMe-134,Ka&LyDeMe-136
+Ka&LyDeMe-136,WE NEED ALL THE HOSTAGES,,Old man,2 down! Still got 4 left! Got it!,,N,Ka&LyDeMe-135,Ka&LyDeMe-137
+Ka&LyDeMe-138,WE NEED ALL THE HOSTAGES,,Old man,Ok. Which locker? You got a key code? You're stealing your own shit?,,N,Ka&LyDeMe-137,Ka&LyDeMe-139
+Ka&LyDeMe-139,WE NEED ALL THE HOSTAGES,,Kane,Not your concern.,,N,Ka&LyDeMe-138,Ka&LyDeMe-140
+Ka&LyDeMe-140,WE NEED ALL THE HOSTAGES,,Old man,Not my concern... Not my fucking concern?!,,N,Ka&LyDeMe-139,Ka&LyDeMe-141
+Ka&LyDeMe-141,WE NEED ALL THE HOSTAGES,,Kane, Shit. It must be here...,(checking 2nd locker) ,N,Ka&LyDeMe-140,Ka&LyDeMe-142
+Ka&LyDeMe-142,WE NEED ALL THE HOSTAGES,,Old man,This is bullshit!,,N,Ka&LyDeMe-141,Ka&LyDeMe-143
+Ka&LyDeMe-143,WE NEED ALL THE HOSTAGES,,Kane,"We gotta open them, open them all.",,N,Ka&LyDeMe-142,Ka&LyDeMe-144
+Ka&LyDeMe-144,WE NEED ALL THE HOSTAGES,,Old man,Look. I've always trusted you!,,N,Ka&LyDeMe-143,Ka&LyDeMe-145
+Ka&LyDeMe-145,WE NEED ALL THE HOSTAGES,,Kane, Then don't lucking question me! Just blow ALL of them!,(pushing him against the wall) ,N,Ka&LyDeMe-144,Ka&LyDeMe-146
+Ka&LyDeMe-146,WE NEED ALL THE HOSTAGES,,Old man,"Ok. Ok, you fucking prick. But after this, you and I are done.",,N,Ka&LyDeMe-145,Ka&LyDeMe-147
+Ka&LyDeMe-147,WE NEED ALL THE HOSTAGES,,Kane,Lynch! What’s going on up there?,,N,Ka&LyDeMe-146,Ka&LyDeMe-148
+Ka&LyDeMe-148,WE NEED ALL THE HOSTAGES,,Lynch,What?!,,N,Ka&LyDeMe-147,Ka&LyDeMe-149
+Ka&LyDeMe-149,WE NEED ALL THE HOSTAGES,,Kane,Are there more cops?,,N,Ka&LyDeMe-148,Ka&LyDeMe-150
+Ka&LyDeMe-150,WE NEED ALL THE HOSTAGES,,Lynch,It’s so hot in this Goddamn gas mask… I got it under control.,,N,Ka&LyDeMe-149,Ka&LyDeMe-151
+Ka&LyDeMe-151,WE NEED ALL THE HOSTAGES,,Old man,We're done! Shit is gonna blow in 10 seconds - NOW RUN!,,N,Ka&LyDeMe-150,Ka&LyDeMe-152
+Ka&LyDeMe-152,WE NEED ALL THE HOSTAGES,,Kane,Dammit! Shit! Shit! Fuck! That old fucker took it!,,N,Ka&LyDeMe-151,Ka&LyDeMe-153
+Ka&LyDeMe-153,WE NEED ALL THE HOSTAGES,,Old man,Have you checked all of them?,,N,Ka&LyDeMe-152,Ka&LyDeMe-154
+Ka&LyDeMe-154,WE NEED ALL THE HOSTAGES,,Lynch,"Hey, what's happening down there?",,N,Ka&LyDeMe-153,Ka&LyDeMe-155
+Ka&LyDeMe-155,WE NEED ALL THE HOSTAGES,,Kane,"Oh, everything's cool, Lynch. We are done down here. Let’s go.",,N,Ka&LyDeMe-154,Ka&LyDeMe-156
+Ka&LyDeMe-156,WE NEED ALL THE HOSTAGES,,Lynch," GET DOWN YOU FUCKS! Fuck... Get away from me… Where the luck did you come from? Trying to sneak up on me, are you? You stupid fuck. I've already killed you twice.",(to the hostages) ,N,Ka&LyDeMe-155,Ka&LyDeMe-157
+Ka&LyDeMe-157,WE NEED ALL THE HOSTAGES,,,"[Kane walks over to the place where Lynch was supposed to keep the hostages, but finds there only a shitload of corpses.]",,Y,Ka&LyDeMe-156,Ka&LyDeMe-158
+Ka&LyDeMe-158,WE NEED ALL THE HOSTAGES,,Lynch,You want some?! I'll fucking give you some! Bitch! Fuck... Get away from me... Why do you keep doing that? You stupid fuck. What are you looking at?! Is that all you got?! Stop!! You're only taking it. Fake this!! Understood?! What are you?! A,,N,Ka&LyDeMe-157,Ka&LyDeMe-159
+Ka&LyDeMe-159,WE NEED ALL THE HOSTAGES,,Old man,Jesus fucking Christ! He killed the hostages. How fucked is that?!,,N,Ka&LyDeMe-158,Ka&LyDeMe-160
+Ka&LyDeMe-160,WE NEED ALL THE HOSTAGES,,Kane,LYNCH – STOP! That are you doing?!,,N,Ka&LyDeMe-159,Ka&LyDeMe-161
+Ka&LyDeMe-161,WE NEED ALL THE HOSTAGES,,Lunch,WHAT? Where the fuck have you been?,,N,Ka&LyDeMe-160,Ka&LyDeMe-162
+Ka&LyDeMe-162,THE OLD FUCKER TOOK IT,,,[Lynch continues to randomly kill hostages.],,Y,Ka&LyDeMe-161,Ka&LyDeMe-163
+Ka&LyDeMe-163,THE OLD FUCKER TOOK IT,,Kane,Hey! Stop killing hostages!,,N,Ka&LyDeMe-162,Ka&LyDeMe-164
+Ka&LyDeMe-164,THE OLD FUCKER TOOK IT,,Lynch,I’m not!,,N,Ka&LyDeMe-163,Ka&LyDeMe-165
+Ka&LyDeMe-165,THE OLD FUCKER TOOK IT,,Kane,Snap out of it Lynch!,,N,Ka&LyDeMe-164,Ka&LyDeMe-166
+Ka&LyDeMe-166,THE OLD FUCKER TOOK IT,,Lynch,Snap out of it? What the fuck is that supposed to man?,,N,Ka&LyDeMe-165,Ka&LyDeMe-167
+Ka&LyDeMe-167,THE OLD FUCKER TOOK IT,,Kane,We gotta get out of here... Driver. What's the situation outside?,,N,Ka&LyDeMe-166,Ka&LyDeMe-168
+Ka&LyDeMe-168,THE OLD FUCKER TOOK IT,,Driver,"Well, it’s bad. Snipers everywhere and the cops have pretty much sealed off the whole area.",,N,Ka&LyDeMe-167,Ka&LyDeMe-169
+Ka&LyDeMe-169,THE OLD FUCKER TOOK IT,,Kane,"If we clear the way, can you pick us up?",,N,Ka&LyDeMe-168,Ka&LyDeMe-170
+Ka&LyDeMe-170,THE OLD FUCKER TOOK IT,,Driver,"Well worth a try, just remember, the meter is running.",,N,Ka&LyDeMe-169,Ka&LyDeMe-171
+Ka&LyDeMe-171,THE OLD FUCKER TOOK IT,,Police,I repeat! Surrender your weapons and come out with your hands up... We have the place surrounded.,,N,Ka&LyDeMe-170,Ka&LyDeMe-172
+Ka&LyDeMe-172,THE OLD FUCKER TOOK IT,,Lynch,Get down! I'll shoot the rest of you motherfuckers if you I up something stupid!,,N,Ka&LyDeMe-171,Ka&LyDeMe-173
+Ka&LyDeMe-173,THE OLD FUCKER TOOK IT,,Kane,Still got the bag with grenades?,,N,Ka&LyDeMe-172,Ka&LyDeMe-174
+Ka&LyDeMe-174,THE OLD FUCKER TOOK IT,,Lynch,"Sure, over there.",,N,Ka&LyDeMe-173,Ka&LyDeMe-175
+Ka&LyDeMe-175,THE OLD FUCKER TOOK IT,,Lynch,It's teargas!,,N,Ka&LyDeMe-174,Ka&LyDeMe-176
+Ka&LyDeMe-176,THE OLD FUCKER TOOK IT,,Kane,Throw them back out! Get away from the entrance!,,N,Ka&LyDeMe-175,Ka&LyDeMe-177
+Ka&LyDeMe-177,THE OLD FUCKER TOOK IT,,,"[Finally, the Driver manages to fit his van to the entrance to the bank.]",,Y,Ka&LyDeMe-176,Ka&LyDeMe-178
+Ka&LyDeMe-178,THE OLD FUCKER TOOK IT,,Kane, Get in!,(to Lynch) ,N,Ka&LyDeMe-177,Ka&LyDeMe-179
+Ka&LyDeMe-179,THE OLD FUCKER TOOK IT,,Lynch,That was great! We got away!,,N,Ka&LyDeMe-178,Ka&LyDeMe-180
+Ka&LyDeMe-180,THE OLD FUCKER TOOK IT,,Kane,Great? What the fuck happened back there?!,,N,Ka&LyDeMe-179,Ka&LyDeMe-181
+Ka&LyDeMe-181,THE OLD FUCKER TOOK IT,,Lynch,I... I told you! The gas mask was hot and...,,N,Ka&LyDeMe-180,Ka&LyDeMe-182
+Ka&LyDeMe-182,THE OLD FUCKER TOOK IT,,Kane,So you kill everyone?!,,N,Ka&LyDeMe-181,Ka&LyDeMe-183
+Ka&LyDeMe-183,THE OLD FUCKER TOOK IT,,Lynch,"Listen! It was really warm. I couldn't see. And the police were everywhere... I'm telling you, they were swarming!",,N,Ka&LyDeMe-182,Ka&LyDeMe-184
+Ka&LyDeMe-184,THE OLD FUCKER TOOK IT,,Kane,But why did you kill the hostages?!,,N,Ka&LyDeMe-183,Ka&LyDeMe-185
+Ka&LyDeMe-185,THE OLD FUCKER TOOK IT,,Lynch,Why? What do you mean? They were waking up. They wouldn't stay still... I just tried to stop them.,,N,Ka&LyDeMe-184,Ka&LyDeMe-186
+Ka&LyDeMe-186,THE OLD FUCKER TOOK IT,,Kane,Don't fucking talk to me. You just get your shit together. You hear me?!,,N,Ka&LyDeMe-185,Ka&LyDeMe-187
+Ka&LyDeMe-187,THE OLD FUCKER TOOK IT,,Lynch,But at least we got away.,,N,Ka&LyDeMe-186,Ka&LyDeMe-188
+Ka&LyDeMe-188,THE OLD FUCKER TOOK IT,,Kane,Nobody gets away with what you just did…,,N,Ka&LyDeMe-187,Ka&LyDeMe-189
+Ka&LyDeMe-189,THE OLD FUCKER TOOK IT,,Driver,FUCK! When you ladies are done chatting…,,N,Ka&LyDeMe-188,Ka&LyDeMe-190
+Ka&LyDeMe-190,THE OLD FUCKER TOOK IT,,,[The police are chasing the van.],,Y,Ka&LyDeMe-189,Ka&LyDeMe-191
+Ka&LyDeMe-191,THE OLD FUCKER TOOK IT,,Kane,You just step on it!,,N,Ka&LyDeMe-190,Ka&LyDeMe-192
+Ka&LyDeMe-192,THE OLD FUCKER TOOK IT,,Driver,As long as you keep them off our backs!,,N,Ka&LyDeMe-191,Ka&LyDeMe-193
+Ka&LyDeMe-193,THE OLD FUCKER TOOK IT,,Lynch,I would if this van wasn't swerving so GODDAMN MUCH!,,N,Ka&LyDeMe-192,Ka&LyDeMe-194
+Ka&LyDeMe-194,THE OLD FUCKER TOOK IT,,Driver,"You wanna drive, you fucking shit?",,N,Ka&LyDeMe-193,Ka&LyDeMe-195
+Ka&LyDeMe-195,THE OLD FUCKER TOOK IT,,Kane,Both of you! Shut up and focus!  What are you doing? Get up here and help!,(to Lynch) ,N,Ka&LyDeMe-194,Ka&LyDeMe-196
+Ka&LyDeMe-196,THE OLD FUCKER TOOK IT,,Lynch,I can’t...,,N,Ka&LyDeMe-195,Ka&LyDeMe-197
+Ka&LyDeMe-197,THE OLD FUCKER TOOK IT,,Kane,What? Now you suddenly can’t kill the cops??,,N,Ka&LyDeMe-196,Ka&LyDeMe-198
+Ka&LyDeMe-198,THE OLD FUCKER TOOK IT,,Lynch,I can't... I mean… fuck what happened back there?,,N,Ka&LyDeMe-197,Ka&LyDeMe-199
+Ka&LyDeMe-199,THE OLD FUCKER TOOK IT,,Kane,You don't remember?,,N,Ka&LyDeMe-198,Ka&LyDeMe-200
+Ka&LyDeMe-200,THE OLD FUCKER TOOK IT,,Lynch,Oh shit! Oh shit!Oh shit! Why do I always fuck up...,,N,Ka&LyDeMe-199,Ka&LyDeMe-201
+Ka&LyDeMe-201,THE OLD FUCKER TOOK IT,,Kane,Lynch! I need your help here! Snap the fuck out of it!,,N,Ka&LyDeMe-200,Ka&LyDeMe-202
+Ka&LyDeMe-202,THE OLD FUCKER TOOK IT,,Lynch,How many did I kill?,,N,Ka&LyDeMe-201,Ka&LyDeMe-203
+Ka&LyDeMe-203,THE OLD FUCKER TOOK IT,,Kane,More than you wanna know.,,N,Ka&LyDeMe-202,Ka&LyDeMe-204
+Ka&LyDeMe-204,THE OLD FUCKER TOOK IT,,Lynch,Damn it! I black out sometimes. I get violent and it’s so fucking horrible afterwards. I thought I could control it. I can! I can! I just need a few more of these.,,N,Ka&LyDeMe-203,Ka&LyDeMe-205
+Ka&LyDeMe-205,THE OLD FUCKER TOOK IT,,Kane,Those ain’t exactly ulcer pills are they?,,N,Ka&LyDeMe-204,Ka&LyDeMe-206
+Ka&LyDeMe-206,THE OLD FUCKER TOOK IT,,Driver,Hang on! They blocked the tunnel! You gotta clear the way or we're fucked!,,N,Ka&LyDeMe-205,Ka&LyDeMe-207
+Ka&LyDeMe-207,CLEAR THE WAY OR WE'RE FUCKED,,Driver,"Alright. We better get this shit done quick, I want the fuck out of here!",,N,Ka&LyDeMe-206,Ka&LyDeMe-208
+Ka&LyDeMe-208,CLEAR THE WAY OR WE'RE FUCKED,,Lynch,I need some cover here.,,N,Ka&LyDeMe-207,Ka&LyDeMe-209
+Ka&LyDeMe-209,CLEAR THE WAY OR WE'RE FUCKED,,Kane,Ok. Let's get the van forward. Get back in the van!,,N,Ka&LyDeMe-208,Ka&LyDeMe-210
+Ka&LyDeMe-210,LIKE YOU’RE A SAINT,,Kane, So what’s the deal? You just get violent now and then?,(to Lynch) ,N,Ka&LyDeMe-209,Ka&LyDeMe-211
+Ka&LyDeMe-211,LIKE YOU’RE A SAINT,,Lynch,It's a little more complicated than that.,,N,Ka&LyDeMe-210,Ka&LyDeMe-212
+Ka&LyDeMe-212,LIKE YOU’RE A SAINT,,Kane,No shit.,,N,Ka&LyDeMe-211,Ka&LyDeMe-213
+Ka&LyDeMe-213,LIKE YOU’RE A SAINT,,Lynch,"I get black outs. Lose control - I don't know, sometimes it just clicks.",,N,Ka&LyDeMe-212,Ka&LyDeMe-214
+Ka&LyDeMe-214,LIKE YOU’RE A SAINT,,Kane,Jesus Christ.,,N,Ka&LyDeMe-213,Ka&LyDeMe-215
+Ka&LyDeMe-215,LIKE YOU’RE A SAINT,,Lynch,What do you care?! We got what The7 want. Let's just get it back to them.,,N,Ka&LyDeMe-214,Ka&LyDeMe-216
+Ka&LyDeMe-216,LIKE YOU’RE A SAINT,,Kane,It wasn't all there...,,N,Ka&LyDeMe-215,Ka&LyDeMe-217
+Ka&LyDeMe-217,LIKE YOU’RE A SAINT,,Lynch,You gotta be shittin' me...,,N,Ka&LyDeMe-216,Ka&LyDeMe-218
+Ka&LyDeMe-218,LIKE YOU’RE A SAINT,,Kane,"Driver, can you get as off the road?",,N,Ka&LyDeMe-217,Ka&LyDeMe-219
+Ka&LyDeMe-219,LIKE YOU’RE A SAINT,,Driver,I’m trying!,,N,Ka&LyDeMe-218,Ka&LyDeMe-220
+Ka&LyDeMe-220,LIKE YOU’RE A SAINT,,Lynch,I can't believe we didn't get it all. The7 ain't gonna like this.,,N,Ka&LyDeMe-219,Ka&LyDeMe-221
+Ka&LyDeMe-221,LIKE YOU’RE A SAINT,,Kane,Just tell them that I'm getting their stuff. I know I can get the last briefcase.,,N,Ka&LyDeMe-220,Ka&LyDeMe-222
+Ka&LyDeMe-222,LIKE YOU’RE A SAINT,,Driver,"OK, there’s a subway up a head. HANG ON!",,N,Ka&LyDeMe-221,Ka&LyDeMe-223
+Ka&LyDeMe-223,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,Shit it’s leaking gas! We gotta move! What about the others?,,N,Ka&LyDeMe-222,Ka&LyDeMe-224
+Ka&LyDeMe-224,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,Leave ‘em! Nothing we can do!,,N,Ka&LyDeMe-223,Ka&LyDeMe-225
+Ka&LyDeMe-225,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,Get down to the tracks!,,N,Ka&LyDeMe-224,Ka&LyDeMe-226
+Ka&LyDeMe-226,LEAVE ‘EM! NOTHING WE CAN DO,,,[They descend to the stations. There they are overtaken by the police.],,Y,Ka&LyDeMe-225,Ka&LyDeMe-227
+Ka&LyDeMe-227,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,Here it comes! Get ready!,,N,Ka&LyDeMe-226,Ka&LyDeMe-228
+Ka&LyDeMe-228,LEAVE ‘EM! NOTHING WE CAN DO,,,[The train is coming.],,Y,Ka&LyDeMe-227,Ka&LyDeMe-229
+Ka&LyDeMe-229,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,About fucking time.,,N,Ka&LyDeMe-228,Ka&LyDeMe-230
+Ka&LyDeMe-230,LEAVE ‘EM! NOTHING WE CAN DO,,,[They get in it and leave.],,Y,Ka&LyDeMe-229,Ka&LyDeMe-231
+Ka&LyDeMe-231,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,So you know how to at the rest? I fucking hope it's a better plan than the last one.,,N,Ka&LyDeMe-230,Ka&LyDeMe-232
+Ka&LyDeMe-232,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,I don't have a plan yet. But I know a girl that might help us get the briefcase.,,N,Ka&LyDeMe-231,Ka&LyDeMe-233
+Ka&LyDeMe-233,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,"Yeah, and what if she won't?",,N,Ka&LyDeMe-232,Ka&LyDeMe-234
+Ka&LyDeMe-234,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,Then you'll just have to make her. I'll get us both passports.,,N,Ka&LyDeMe-233,Ka&LyDeMe-235
+Ka&LyDeMe-235,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,Passports? What the fuck for??,,N,Ka&LyDeMe-234,Ka&LyDeMe-236
+Ka&LyDeMe-236,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,‘Cause she runs a club in Tokyo. You'll hate it.,,N,Ka&LyDeMe-235,Ka&LyDeMe-237
+Ka&LyDeMe-237,LEAVE ‘EM! NOTHING WE CAN DO,,,[They arrive in Tokyo.],,Y,Ka&LyDeMe-236,Ka&LyDeMe-238
+Ka&LyDeMe-238,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,"We could've gone to the hotel first. 12 hours on a fuckin' plane, my neck is killing me!",,N,Ka&LyDeMe-237,Ka&LyDeMe-239
+Ka&LyDeMe-239,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,"Stop bitching, we still got a long night ahead of us.",,N,Ka&LyDeMe-238,Ka&LyDeMe-240
+Ka&LyDeMe-240,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,"Bitching? I'm not bitching. I just hate being ignored. Could you at least tell me why you think she can get the briefcase, or you don't know?",,N,Ka&LyDeMe-239,Ka&LyDeMe-241
+Ka&LyDeMe-241,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,Just do as I say and we'll get it. Keep it down!,,N,Ka&LyDeMe-240,Ka&LyDeMe-242
+Ka&LyDeMe-242,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,Hey! You still answer to me you arrogant fuck!  Relax. I got nothin'.,(to the bouncer) ,N,Ka&LyDeMe-241,Ka&LyDeMe-243
+Ka&LyDeMe-243,LEAVE ‘EM! NOTHING WE CAN DO,,,[In the club.],,Y,Ka&LyDeMe-242,Ka&LyDeMe-244
+Ka&LyDeMe-244,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,"You're right. I already hate this place. All these rich, spoiled brats…",,N,Ka&LyDeMe-243,Ka&LyDeMe-245
+Ka&LyDeMe-245,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,"Her office down the back. Just do your best to blend in. If she finds out I'm here, it’s gonna be hell getting to her.",,N,Ka&LyDeMe-244,Ka&LyDeMe-246
+Ka&LyDeMe-246,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,She won't even see you? That’s just great.,,N,Ka&LyDeMe-245,Ka&LyDeMe-247
+Ka&LyDeMe-247,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,"Look. Lynch, we've been through this conversation over and over again. Just stick to the plan.",,N,Ka&LyDeMe-246,Ka&LyDeMe-248
+Ka&LyDeMe-248,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,This place is stressing me out.,,N,Ka&LyDeMe-247,Ka&LyDeMe-249
+Ka&LyDeMe-249,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,Then take your pills!,,N,Ka&LyDeMe-248,Ka&LyDeMe-250
+Ka&LyDeMe-250,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,Took the last one on that damn plane. Hate flying. Fuck! I hate people sweating on me... Where’s her office?,,N,Ka&LyDeMe-249,Ka&LyDeMe-251
+Ka&LyDeMe-251,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,Up the stairs. Now shut up.,,N,Ka&LyDeMe-250,Ka&LyDeMe-252
+Ka&LyDeMe-252,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,Oh you’re so fucking full of yourself.,,N,Ka&LyDeMe-251,Ka&LyDeMe-253
+Ka&LyDeMe-253,LEAVE ‘EM! NOTHING WE CAN DO,,Bouncer, Hey! No access.,(to Kane) ,N,Ka&LyDeMe-252,Ka&LyDeMe-254
+Ka&LyDeMe-254,LEAVE ‘EM! NOTHING WE CAN DO,,,[He quietly kills him.],,Y,Ka&LyDeMe-253,Ka&LyDeMe-255
+Ka&LyDeMe-255,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,Shit! Be careful!,,N,Ka&LyDeMe-254,Ka&LyDeMe-256
+Ka&LyDeMe-256,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,I don't think anybody noticed.,,N,Ka&LyDeMe-255,Ka&LyDeMe-257
+Ka&LyDeMe-257,LEAVE ‘EM! NOTHING WE CAN DO,,Club owner,Kane! What are you doing here?,,N,Ka&LyDeMe-256,Ka&LyDeMe-258
+Ka&LyDeMe-258,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,"Please, take it easy.",,N,Ka&LyDeMe-257,Ka&LyDeMe-259
+Ka&LyDeMe-259,LEAVE ‘EM! NOTHING WE CAN DO,,Club owner,I'm surprised to see you. Did my security let you in?,,N,Ka&LyDeMe-258,Ka&LyDeMe-260
+Ka&LyDeMe-260,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,I let myself in.,,N,Ka&LyDeMe-259,Ka&LyDeMe-261
+Ka&LyDeMe-261,LEAVE ‘EM! NOTHING WE CAN DO,,Club owner,Does my father know you're here?,,N,Ka&LyDeMe-260,Ka&LyDeMe-262
+Ka&LyDeMe-262,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,I'm pretty sure he doesn't.,,N,Ka&LyDeMe-261,Ka&LyDeMe-263
+Ka&LyDeMe-263,LEAVE ‘EM! NOTHING WE CAN DO,,Club owner,"So, what made you come crawling back?",,N,Ka&LyDeMe-262,Ka&LyDeMe-264
+Ka&LyDeMe-264,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,Yoko. I need your help here.,,N,Ka&LyDeMe-263,Ka&LyDeMe-265
+Ka&LyDeMe-265,LEAVE ‘EM! NOTHING WE CAN DO,,Yoko,And why would I help you?  You wouldn't.,(she sees Lynch) ,N,Ka&LyDeMe-264,Ka&LyDeMe-266
+Ka&LyDeMe-266,LEAVE ‘EM! NOTHING WE CAN DO,,,[Lynch hits her in the face couple of times.],,Y,Ka&LyDeMe-265,Ka&LyDeMe-267
+Ka&LyDeMe-267,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,That’s enough.,,N,Ka&LyDeMe-266,Ka&LyDeMe-268
+Ka&LyDeMe-268,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,"Whoa, she's all limp! I didn't even hit her that hard.",,N,Ka&LyDeMe-267,Ka&LyDeMe-269
+Ka&LyDeMe-269,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,It just makes our job easier.,,N,Ka&LyDeMe-268,Ka&LyDeMe-270
+Ka&LyDeMe-270,LEAVE ‘EM! NOTHING WE CAN DO,,,[He throws Lynch a roll of duct tape.],,Y,Ka&LyDeMe-269,Ka&LyDeMe-271
+Ka&LyDeMe-271,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,What's this shit?,,N,Ka&LyDeMe-270,Ka&LyDeMe-272
+Ka&LyDeMe-272,LEAVE ‘EM! NOTHING WE CAN DO,,Kane,"Just business, Lynch. Her father has the briefcase.",,N,Ka&LyDeMe-271,Ka&LyDeMe-273
+Ka&LyDeMe-273,LEAVE ‘EM! NOTHING WE CAN DO,,Lynch,For Christ sake. You just got your own daughter kidnapped.,,N,Ka&LyDeMe-272,Ka&LyDeMe-274
+Ka&LyDeMe-274,JUST DOING WHAT IT TAKES,,Lynch,You had this all planned. You fucking psycho.,,N,Ka&LyDeMe-273,Ka&LyDeMe-275
+Ka&LyDeMe-275,JUST DOING WHAT IT TAKES,,Kane,Let's just get her out of here.,,N,Ka&LyDeMe-274,Ka&LyDeMe-276
+Ka&LyDeMe-276,JUST DOING WHAT IT TAKES,,Lynch,Just make sure I don't get shot.,,N,Ka&LyDeMe-275,Ka&LyDeMe-277
+Ka&LyDeMe-277,JUST DOING WHAT IT TAKES,,,[They go through the club shooting guards. Lynch carries Yoko.],,Y,Ka&LyDeMe-276,Ka&LyDeMe-278
+Ka&LyDeMe-278,JUST DOING WHAT IT TAKES,,Lynch,"Beating up and kidnapping women. You must think you are a big man, you cold son of a bitch.",,N,Ka&LyDeMe-277,Ka&LyDeMe-279
+Ka&LyDeMe-279,JUST DOING WHAT IT TAKES,,Kane,Lynch! Get over here... I've found the fire exit.,,N,Ka&LyDeMe-278,Ka&LyDeMe-280
+Ka&LyDeMe-280,JUST DOING WHAT IT TAKES,,Lynch,Nnng...,,N,Ka&LyDeMe-279,Ka&LyDeMe-281
+Ka&LyDeMe-281,JUST DOING WHAT IT TAKES,,Yoko,Do you know who I am?!,,N,Ka&LyDeMe-280,Ka&LyDeMe-282
+Ka&LyDeMe-282,JUST DOING WHAT IT TAKES,,Kane,Shut her the fuck up!,,N,Ka&LyDeMe-281,Ka&LyDeMe-283
+Ka&LyDeMe-283,JUST DOING WHAT IT TAKES,,Lynch,Where is the Goddamn duct tape?,,N,Ka&LyDeMe-282,Ka&LyDeMe-284
+Ka&LyDeMe-284,JUST DOING WHAT IT TAKES,,Yoko,I'm Retomoto's daughter you fuck head.,,N,Ka&LyDeMe-283,Ka&LyDeMe-285
+Ka&LyDeMe-285,JUST DOING WHAT IT TAKES,,,[She hits him in the balls.],,Y,Ka&LyDeMe-284,Ka&LyDeMe-286
+Ka&LyDeMe-286,JUST DOING WHAT IT TAKES,,Lynch,Arrgg. Fuck.,,N,Ka&LyDeMe-285,Ka&LyDeMe-287
+Ka&LyDeMe-287,WE’RE DEAD MEN,,Kane,We have to get to her!,,N,Ka&LyDeMe-286,Ka&LyDeMe-288
+Ka&LyDeMe-288,WE’RE DEAD MEN,,Lynch,Retomoto?! What have you made me do?! Why didn't you tell me who she is?,,N,Ka&LyDeMe-287,Ka&LyDeMe-289
+Ka&LyDeMe-289,WE’RE DEAD MEN,,Kane,Because you would ﬂake out if you'd known.,,N,Ka&LyDeMe-288,Ka&LyDeMe-290
+Ka&LyDeMe-290,WE’RE DEAD MEN,,Lynch,Flake?! I wouldn't have done it if I knew.,,N,Ka&LyDeMe-289,Ka&LyDeMe-291
+Ka&LyDeMe-291,WE’RE DEAD MEN,,Kane,Just get a grip. We have to get hold of her. Fuck! The windows.,,N,Ka&LyDeMe-290,Ka&LyDeMe-292
+Ka&LyDeMe-292,WE’RE DEAD MEN,,Lynch,She’s not that stupid.,,N,Ka&LyDeMe-291,Ka&LyDeMe-293
+Ka&LyDeMe-293,WE’RE DEAD MEN,,Kane,Pick her up!,,N,Ka&LyDeMe-292,Ka&LyDeMe-294
+Ka&LyDeMe-294,WE’RE DEAD MEN,,Lynch,Why can't you carry her!,,N,Ka&LyDeMe-293,Ka&LyDeMe-295
+Ka&LyDeMe-295,SHE’S NOT THAT STUPID,,Kane," Yeah, it's me… Are you ready?",(to microphone) ,N,Ka&LyDeMe-294,Ka&LyDeMe-296
+Ka&LyDeMe-296,SHE’S NOT THAT STUPID,,Lynch,Who the hell are you talking to?,,N,Ka&LyDeMe-295,Ka&LyDeMe-297
+Ka&LyDeMe-297,SHE’S NOT THAT STUPID,,Kane,Our backup. We'll be down shortly. Everything is fine.,,N,Ka&LyDeMe-296,Ka&LyDeMe-298
+Ka&LyDeMe-298,SHE’S NOT THAT STUPID,,Lynch,You mean we have backup?! Why didn't we bring ‘em?,,N,Ka&LyDeMe-297,Ka&LyDeMe-299
+Ka&LyDeMe-299,SHE’S NOT THAT STUPID,,Kane,Because they can't know who she is. We need them for the exchange. Stay still!,,N,Ka&LyDeMe-298,Ka&LyDeMe-300
+Ka&LyDeMe-300,SHE’S NOT THAT STUPID,,,[He pulls out a phone and dials a number.],,Y,Ka&LyDeMe-299,Ka&LyDeMe-301
+Ka&LyDeMe-301,SHE’S NOT THAT STUPID,,Kane,"Mr. Retomoto. This is Kane... I know... I'm sorry, but I need my briefcase hack... Ungag her. I'll let your daughter explain.",,N,Ka&LyDeMe-300,Ka&LyDeMe-302
+Ka&LyDeMe-302,SHE’S NOT THAT STUPID,,Yoko,The fucking bastard kidnapped me. Whatever happens don't let him get away with...,,N,Ka&LyDeMe-301,Ka&LyDeMe-303
+Ka&LyDeMe-303,SHE’S NOT THAT STUPID,,Kane,"I know how you feel but I don't have a choice either... 2 hours. The Nan Lu intersection, by the pagoda. We can still make this work.",,N,Ka&LyDeMe-302,Ka&LyDeMe-304
+Ka&LyDeMe-304,SHE’S NOT THAT STUPID,,Lynch,I have to give you that. You got some balls.,,N,Ka&LyDeMe-303,Ka&LyDeMe-305
+Ka&LyDeMe-305,SHE’S NOT THAT STUPID,,Kane,What?,,N,Ka&LyDeMe-304,Ka&LyDeMe-306
+Ka&LyDeMe-306,SHE’S NOT THAT STUPID,,Lynch,Dealing with Retomoto... hanging with his daughter and all. Did you bang her?,,N,Ka&LyDeMe-305,Ka&LyDeMe-307
+Ka&LyDeMe-307,SHE’S NOT THAT STUPID,,Kane,Fuck you! We all make mistakes and so what.,,N,Ka&LyDeMe-306,Ka&LyDeMe-308
+Ka&LyDeMe-308,SHE’S NOT THAT STUPID,,Lynch,Nothing.,,N,Ka&LyDeMe-307,Ka&LyDeMe-309
+Ka&LyDeMe-309,SHE’S NOT THAT STUPID,,Kane,Then just back off. I'm a little fucking edgy. All right?,,N,Ka&LyDeMe-308,Ka&LyDeMe-310
+Ka&LyDeMe-310,SHE’S NOT THAT STUPID,,,"[The next scene. Lynch, Yoko and Kane, along with several of his men, stand on the bridge and watch the pagoda where the meeting with Retomoto should take place.]",,Y,Ka&LyDeMe-309,Ka&LyDeMe-311
+Ka&LyDeMe-311,SHE’S NOT THAT STUPID,,Kane,You ok?,,N,Ka&LyDeMe-310,Ka&LyDeMe-312
+Ka&LyDeMe-312,SHE’S NOT THAT STUPID,,Lynch,"Yeah, yeah. Let's just get this over with. Is he there yet? I can't see him...",,N,Ka&LyDeMe-311,Ka&LyDeMe-313
+Ka&LyDeMe-313,SHE’S NOT THAT STUPID,,Kane,He's there all right. Time to move. You stay here and don't do anything unless I ask you to. You'll be fine.,,N,Ka&LyDeMe-312,Ka&LyDeMe-314
+Ka&LyDeMe-314,SHE’S NOT THAT STUPID,,Lynch,"Sure, sure. We'll be fine up here.  You and me, right?",(to Yoko) ,N,Ka&LyDeMe-313,Ka&LyDeMe-315
+Ka&LyDeMe-315,SHE’S NOT THAT STUPID,,Lynch," Kane, can you see anything yet? I can't see shit.",(via radio) ,N,Ka&LyDeMe-314,Ka&LyDeMe-316
+Ka&LyDeMe-316,SHE’S NOT THAT STUPID,,Kane,"Not much, it's pretty dark. Just keep looking.",,N,Ka&LyDeMe-315,Ka&LyDeMe-317
+Ka&LyDeMe-317,SHE’S NOT THAT STUPID,,Lynch,"Yeah. Yeah. I'll, keep looking.",,N,Ka&LyDeMe-316,Ka&LyDeMe-318
+Ka&LyDeMe-318,SHE’S NOT THAT STUPID,,Kane,"And keep calm, Lynch.",,N,Ka&LyDeMe-317,Ka&LyDeMe-319
+Ka&LyDeMe-319,SHE’S NOT THAT STUPID,,Lynch,What the fuck do you mean by that? I am calm.,,N,Ka&LyDeMe-318,Ka&LyDeMe-320
+Ka&LyDeMe-320,SHE’S NOT THAT STUPID,,Kane, Stay here. I'll do the talking.,(to his men) ,N,Ka&LyDeMe-319,Ka&LyDeMe-321
+Ka&LyDeMe-321,SHE’S NOT THAT STUPID,,Lynch,What the hell is going on down here?,,N,Ka&LyDeMe-320,Ka&LyDeMe-322
+Ka&LyDeMe-322,SHE’S NOT THAT STUPID,,Kane,It's alright...,,N,Ka&LyDeMe-321,Ka&LyDeMe-323
+Ka&LyDeMe-323,SHE’S NOT THAT STUPID,,Lynch,"No, this is not cool. Fuck! If there is no one down there... Where are they?",,N,Ka&LyDeMe-322,Ka&LyDeMe-324
+Ka&LyDeMe-325,SHE’S NOT THAT STUPID,,,[Kane walks up to the pagoda and finds a ringing phone. He picks it up.],,Y,Ka&LyDeMe-324,Ka&LyDeMe-326
+Ka&LyDeMe-326,SHE’S NOT THAT STUPID,,Kane,Retomoto... I was hoping to see you in person.,,N,Ka&LyDeMe-325,Ka&LyDeMe-327
+Ka&LyDeMe-327,SHE’S NOT THAT STUPID,,Retomoto,Mr. Kane. I don't have the patience for your blackmail.,,N,Ka&LyDeMe-326,Ka&LyDeMe-328
+Ka&LyDeMe-328,SHE’S NOT THAT STUPID,,Kane,You don't have a choice. You know I'll kill her.,,N,Ka&LyDeMe-327,Ka&LyDeMe-329
+Ka&LyDeMe-329,SHE’S NOT THAT STUPID,,Retomoto,I do. But if we took the time to sit down and find a solution...,,N,Ka&LyDeMe-328,Ka&LyDeMe-330
+Ka&LyDeMe-330,SHE’S NOT THAT STUPID,,Kane,I don't have time.,,N,Ka&LyDeMe-329,Ka&LyDeMe-331
+Ka&LyDeMe-331,SHE’S NOT THAT STUPID,,Retomoto,Kane. Relax. I'm aware of what happened between you and The7. I know about your daughter too.,,N,Ka&LyDeMe-330,Ka&LyDeMe-332
+Ka&LyDeMe-332,SHE’S NOT THAT STUPID,,Kane,I'm listening...,,N,Ka&LyDeMe-331,Ka&LyDeMe-333
+Ka&LyDeMe-333,SHE’S NOT THAT STUPID,,Lynch,What’s going on down there?,,N,Ka&LyDeMe-332,Ka&LyDeMe-334
+Ka&LyDeMe-334,SHE’S NOT THAT STUPID,,Kane,Lynch! Keep quiet.,,N,Ka&LyDeMe-333,Ka&LyDeMe-335
+Ka&LyDeMe-335,SHE’S NOT THAT STUPID,,Retomoto,You may find it hard to trust me. But there is a way we can solve this.,,N,Ka&LyDeMe-334,Ka&LyDeMe-336
+Ka&LyDeMe-336,SHE’S NOT THAT STUPID,,Kane,What’s on your mind?,,N,Ka&LyDeMe-335,Ka&LyDeMe-337
+Ka&LyDeMe-337,SHE’S NOT THAT STUPID,,Lynch,Don't fucking negotiate! Just get the damn briefcase!,,N,Ka&LyDeMe-336,Ka&LyDeMe-338
+Ka&LyDeMe-338,SHE’S NOT THAT STUPID,,Retomoto,"Kane, we've done business before. I think in this case we have some common interests. We both stand to gain, if we get rid of The7.",,N,Ka&LyDeMe-337,Ka&LyDeMe-339
+Ka&LyDeMe-339,SHE’S NOT THAT STUPID,,Lynch,I'm serious! Just do as I tell you and don't fuck around...,,N,Ka&LyDeMe-338,Ka&LyDeMe-340
+Ka&LyDeMe-340,SHE’S NOT THAT STUPID,,Kane,"Lynch, shut up!",,N,Ka&LyDeMe-339,Ka&LyDeMe-341
+Ka&LyDeMe-341,SHE’S NOT THAT STUPID,,Retomoto,Is there a problem?,,N,Ka&LyDeMe-340,Ka&LyDeMe-342
+Ka&LyDeMe-342,SHE’S NOT THAT STUPID,,Kane,No. No problem. Just give me a sec. Lynch! Calm the fuck down!,,N,Ka&LyDeMe-341,Ka&LyDeMe-343
+Ka&LyDeMe-343,SHE’S NOT THAT STUPID,,Lynch,"Stand still, you bitch! What the fuck you bi… Damn girl just won't stay still... Stay down!",,N,Ka&LyDeMe-342,Ka&LyDeMe-344
+Ka&LyDeMe-344,SHE’S NOT THAT STUPID,,,[A shot is heard.],,Y,Ka&LyDeMe-343,Ka&LyDeMe-345
+Ka&LyDeMe-345,SHE’S NOT THAT STUPID,,Kane,LYNCH! Retomoto! Don't…,,N,Ka&LyDeMe-344,Ka&LyDeMe-346
+Ka&LyDeMe-346,SHE’S NOT THAT STUPID,,,[Retomoto’s men begin to attack the pagoda from all sides.],,Y,Ka&LyDeMe-345,Ka&LyDeMe-347
+Ka&LyDeMe-347,SHE’S NOT THAT STUPID,,Kane,Lynch! There are snipers everywhere. I need you to handle it for me! Grab the rifle. Can't you see him? Next to the van. 2 o'clock.,,N,Ka&LyDeMe-346,Ka&LyDeMe-348
+Ka&LyDeMe-348,SHE’S NOT THAT STUPID,,Lynch,I got him. I think we got 'em all.,,N,Ka&LyDeMe-347,Ka&LyDeMe-349
+Ka&LyDeMe-349,SHE’S NOT THAT STUPID,,Kane,"Are you sure she's dead, Lynch?",,N,Ka&LyDeMe-348,Ka&LyDeMe-350
+Ka&LyDeMe-350,SHE’S NOT THAT STUPID,,Lynch,Could you calm down! I just saved you from snipers.,,N,Ka&LyDeMe-349,Ka&LyDeMe-351
+Ka&LyDeMe-351,I WAS AIMING FOR HER LEGS,,,[Kane and his men are trying to leave the pagoda and get to the bridge.],,Y,Ka&LyDeMe-350,Ka&LyDeMe-352
+Ka&LyDeMe-352,I WAS AIMING FOR HER LEGS,,Kane,What happened up here?,,N,Ka&LyDeMe-351,Ka&LyDeMe-353
+Ka&LyDeMe-353,I WAS AIMING FOR HER LEGS,,Lynch,Shit! I just tried to stop her.,,N,Ka&LyDeMe-352,Ka&LyDeMe-354
+Ka&LyDeMe-354,I WAS AIMING FOR HER LEGS,,Kane,Is she dead?,,N,Ka&LyDeMe-353,Ka&LyDeMe-355
+Ka&LyDeMe-355,I WAS AIMING FOR HER LEGS,,Lynch,I don't know. Guess so. I was aiming for her legs...,,N,Ka&LyDeMe-354,Ka&LyDeMe-356
+Ka&LyDeMe-356,I WAS AIMING FOR HER LEGS,,Kane,Ah fuck! You fucking idiot! I can't believe you.... What the fuck is the matter with you?,,N,Ka&LyDeMe-355,Ka&LyDeMe-357
+Ka&LyDeMe-357,IT’S NOT MY FAULT,,,[On the bridge.],,Y,Ka&LyDeMe-356,Ka&LyDeMe-358
+Ka&LyDeMe-358,IT’S NOT MY FAULT,,Kane,"You just can't do anything right, can you!",,N,Ka&LyDeMe-357,Ka&LyDeMe-359
+Ka&LyDeMe-359,IT’S NOT MY FAULT,,Lynch,It’s not my fault!,,N,Ka&LyDeMe-358,Ka&LyDeMe-360
+Ka&LyDeMe-360,IT’S NOT MY FAULT,,Kane,What are you saying?,,N,Ka&LyDeMe-359,Ka&LyDeMe-361
+Ka&LyDeMe-361,IT’S NOT MY FAULT,,Lynch,"Things were cool, 'till you started your own agenda, making deals and all that.",,N,Ka&LyDeMe-360,Ka&LyDeMe-362
+Ka&LyDeMe-362,IT’S NOT MY FAULT,,Kane,"I was negotiating, you twisted fuck!",,N,Ka&LyDeMe-361,Ka&LyDeMe-363
+Ka&LyDeMe-363,IT’S NOT MY FAULT,,Lynch,"Sure you were. You were a traitor once, why should that change?",,N,Ka&LyDeMe-362,Ka&LyDeMe-364
+Ka&LyDeMe-364,IT’S NOT MY FAULT,,Kane,I should shoot you right here and now!,,N,Ka&LyDeMe-363,Ka&LyDeMe-365
+Ka&LyDeMe-365,IT’S NOT MY FAULT,,Lynch,Relax. We can still catch up with them and get the briefcase!,,N,Ka&LyDeMe-364,Ka&LyDeMe-366
+Ka&LyDeMe-366,IT’S NOT MY FAULT,,Kane,Don't you understand? It's gone. We are out of time.,,N,Ka&LyDeMe-365,Ka&LyDeMe-367
+Ka&LyDeMe-367,IT’S NOT MY FAULT,,Lynch,You fucking quitter!,,N,Ka&LyDeMe-366,Ka&LyDeMe-368
+Ka&LyDeMe-368,IT’S NOT MY FAULT,,Kane,Call me what you want.,,N,Ka&LyDeMe-367,Ka&LyDeMe-369
+Ka&LyDeMe-369,IT’S NOT MY FAULT,,,[They get in the car.],,Y,Ka&LyDeMe-368,Ka&LyDeMe-370
+Ka&LyDeMe-370,IT’S NOT MY FAULT,,Kane,Call The7. Tell them I'm coming. Tell them I got what they want. I’ll have to take my chances.,,N,Ka&LyDeMe-369,Ka&LyDeMe-371
+Ka&LyDeMe-371,IT’S NOT MY FAULT,,Lynch,"Yeah, sure. Good luck with that.",,N,Ka&LyDeMe-370,Ka&LyDeMe-372
+Ka&LyDeMe-372,IT’S NOT MY FAULT,,Kane,They have my family. I can't run.,,N,Ka&LyDeMe-371,Ka&LyDeMe-373
+Ka&LyDeMe-373,IT’S NOT MY FAULT,,Lynch,"I'll make sure you don't. Soon as I hand you over, my job is done. I don't need no trouble.",,N,Ka&LyDeMe-372,Ka&LyDeMe-374
+Ka&LyDeMe-374,IT’S NOT MY FAULT,,Kane,"You just don't get it, do you?! You're as dead as I am.",,N,Ka&LyDeMe-373,Ka&LyDeMe-375
+Ka&LyDeMe-375,IT’S NOT MY FAULT,,Lynch,"I don't think so, buddy.",,N,Ka&LyDeMe-374,Ka&LyDeMe-376
+Ka&LyDeMe-376,IT’S NOT MY FAULT,,Kane,And what is that supposed to mean?,,N,Ka&LyDeMe-375,Ka&LyDeMe-377
+Ka&LyDeMe-377,IT’S NOT MY FAULT,,Lynch,I have a deal with them.,,N,Ka&LyDeMe-376,Ka&LyDeMe-378
+Ka&LyDeMe-378,IT’S NOT MY FAULT,,Kane,"Yeah, right.",,N,Ka&LyDeMe-377,Ka&LyDeMe-379
+Ka&LyDeMe-379,IT’S NOT MY FAULT,,,"[In the next scene, we make a small leap in time. Kane tried his luck in the fight against the seven and lost. He and Lynch were brought at an abandoned construction site.]",,Y,Ka&LyDeMe-378,Ka&LyDeMe-380
+Ka&LyDeMe-380,IT’S NOT MY FAULT,,Man,You fucking lying traitors. You promised.,,N,Ka&LyDeMe-379,Ka&LyDeMe-381
+Ka&LyDeMe-381,IT’S NOT MY FAULT,,,[He hits Lynch with his rifle. He loses consciousness and we hear voices in his head for a while.],,Y,Ka&LyDeMe-380,Ka&LyDeMe-382
+Ka&LyDeMe-382,IT’S NOT MY FAULT,,Voice 1,"You can become one of us, Lynch. All you have to do is watch his every move...",,N,Ka&LyDeMe-381,Ka&LyDeMe-383
+Ka&LyDeMe-383,IT’S NOT MY FAULT,,Voice 2,"...and when he is dead, you get his seat.",,N,Ka&LyDeMe-382,Ka&LyDeMe-384
+Ka&LyDeMe-384,IT’S NOT MY FAULT,,Woman’s Voice,I hate this! It's ruining our lives!,,N,Ka&LyDeMe-383,Ka&LyDeMe-385
+Ka&LyDeMe-385,IT’S NOT MY FAULT,,Lynch,"But Annie, I'm getting better! These pills seem to be working much better. Annie, I'm home... Annie? Where are... Annie? Honey wake up. Honey? Honey, wake up. Oh God no. No God don't do this to me, Goddamn you God... No! No...",,N,Ka&LyDeMe-384,Ka&LyDeMe-386
+Ka&LyDeMe-387,IT’S NOT MY FAULT,,,[Lynch comes to his senses.],,Y,Ka&LyDeMe-386,Ka&LyDeMe-388
+Ka&LyDeMe-388,IT’S NOT MY FAULT,,Man with scars,"Sure you did! Hey, don't get me wrong Kane, I'm tucking thrilled it turned out this way.",,N,Ka&LyDeMe-387,Ka&LyDeMe-389
+Ka&LyDeMe-389,IT’S NOT MY FAULT,,Kane,I just need a little more time. You don't have to involve my family. They don't even know me.,,N,Ka&LyDeMe-388,Ka&LyDeMe-390
+Ka&LyDeMe-390,IT’S NOT MY FAULT,,Man with beard,"Kane, stop. I can't listen to your pathetic excuses anymore. You failed. That's all there is to it.",,N,Ka&LyDeMe-389,Ka&LyDeMe-391
+Ka&LyDeMe-391,IT’S NOT MY FAULT,,Kane,"Carlos, help me here.",,N,Ka&LyDeMe-390,Ka&LyDeMe-392
+Ka&LyDeMe-392,IT’S NOT MY FAULT,,Carlos,There is nothing I can do for them.,,N,Ka&LyDeMe-391,Ka&LyDeMe-393
+Ka&LyDeMe-393,IT’S NOT MY FAULT,,Kane,That's a fucking lie.,,N,Ka&LyDeMe-392,Ka&LyDeMe-394
+Ka&LyDeMe-394,IT’S NOT MY FAULT,,Carlos,I'll see to it that they get buried somewhere nice. Goodbye old friend.,,N,Ka&LyDeMe-393,Ka&LyDeMe-395
+Ka&LyDeMe-395,IT’S NOT MY FAULT,,Kane,Wait... you're leaving?,,N,Ka&LyDeMe-394,Ka&LyDeMe-396
+Ka&LyDeMe-396,IT’S NOT MY FAULT,,Carlos,We are flying to Havana tonight. It has already begun. Mute will take it from here. Your family will be here in an hour.,,N,Ka&LyDeMe-395,Ka&LyDeMe-397
+Ka&LyDeMe-397,IT’S NOT MY FAULT,,Kane,Do I get to talk to them?,,N,Ka&LyDeMe-396,Ka&LyDeMe-398
+Ka&LyDeMe-398,IT’S NOT MY FAULT,,Carlos,Of course you do.,,N,Ka&LyDeMe-397,Ka&LyDeMe-399
+Ka&LyDeMe-399,IT’S NOT MY FAULT,,Lynch,Like you can fucking believe that...,,N,Ka&LyDeMe-398,Ka&LyDeMe-400
+Ka&LyDeMe-400,IT’S NOT MY FAULT,,Man with scars, Fucking bum!,(to Lynch) ,N,Ka&LyDeMe-399,Ka&LyDeMe-401
+Ka&LyDeMe-401,IT’S NOT MY FAULT,,,"[He hits his with his leg. Lynch loses consciousness again and when he wakes up, Kane’s family has already been brought.]",,Y,Ka&LyDeMe-400,Ka&LyDeMe-402
+Ka&LyDeMe-402,IT’S NOT MY FAULT,,Kane’s Wife,"Easy now Jenny, it's gonna be alright. Just stay close to me.",,N,Ka&LyDeMe-401,Ka&LyDeMe-403
+Ka&LyDeMe-403,IT’S NOT MY FAULT,,Kane,"Jenny, don't cry. Please.",,N,Ka&LyDeMe-402,Ka&LyDeMe-404
+Ka&LyDeMe-404,IT’S NOT MY FAULT,,Man,Get on your knees.,,N,Ka&LyDeMe-403,Ka&LyDeMe-405
+Ka&LyDeMe-405,IT’S NOT MY FAULT,,Kane,Wait! Wait. I have to speak to them.,,N,Ka&LyDeMe-404,Ka&LyDeMe-406
+Ka&LyDeMe-406,IT’S NOT MY FAULT,,Kane’s Wife,"I should have known it was you. You pathetic, selfish little shit. How could you do this to us?! We just got our lives back on track.",,N,Ka&LyDeMe-405,Ka&LyDeMe-407
+Ka&LyDeMe-407,IT’S NOT MY FAULT,,Kane,"I'm sorry. I never thought they'd find you. It's gonna be ok. Trust me. Jenny please, look at me, Baby. I wrote you a letter...",,N,Ka&LyDeMe-406,Ka&LyDeMe-408
+Ka&LyDeMe-408,IT’S NOT MY FAULT,,Kane’s Wife,Trust you! Why couldn't you just stay dead!,,N,Ka&LyDeMe-407,Ka&LyDeMe-409
+Ka&LyDeMe-409,IT’S NOT MY FAULT,,Kane,No wait! Let me talk to them!,,N,Ka&LyDeMe-408,Ka&LyDeMe-410
+Ka&LyDeMe-410,IT’S NOT MY FAULT,,,"[The man shoots Kane's wife in the head. Seeing this, Lynch blacks out again.]",,Y,Ka&LyDeMe-409,Ka&LyDeMe-411
+Ka&LyDeMe-411,IT’S NOT MY FAULT,,Lynch,You fucking liars! Kane! Get up and fight!,,N,Ka&LyDeMe-410,Ka&LyDeMe-412
+Ka&LyDeMe-412,IT’S NOT MY FAULT,,,"[A bloody fight begins. In the end, Kane smashes Mute with a shovel.]",,Y,Ka&LyDeMe-411,Ka&LyDeMe-413
+Ka&LyDeMe-413,IT’S NOT MY FAULT,,Kane,You should have let me talk to them! YOU SHOULD… HAVE LET… ME TALK TO THEM,,N,Ka&LyDeMe-412,Ka&LyDeMe-414
+Ka&LyDeMe-414,IT’S NOT MY FAULT,,Lynch,"Oh shit, there's more of them.",,N,Ka&LyDeMe-413,Ka&LyDeMe-415
+Ka&LyDeMe-415,IT’S NOT MY FAULT,,Kane,Jenny! Keep your head down! It's not over yet. I'm sorry. I'll fix it.,,N,Ka&LyDeMe-414,Ka&LyDeMe-416
+Ka&LyDeMe-416,IT’S NOT MY FAULT,,,[Kane picks up a gun and shoots the remaining thugs.],,Y,Ka&LyDeMe-415,Ka&LyDeMe-417
+Ka&LyDeMe-417,YOU CAN’T STAY WITH ME,,Lynch,The rest are running away.,,N,Ka&LyDeMe-416,Ka&LyDeMe-418
+Ka&LyDeMe-418,YOU CAN’T STAY WITH ME,,Kane,"Yeah, but you never know. Cover me. I need to talk to my daughter.",,N,Ka&LyDeMe-417,Ka&LyDeMe-419
+Ka&LyDeMe-419,YOU CAN’T STAY WITH ME,,Kane, Are you hurt? Look at me! Are you ok? I promise no one will hurt you. Let me see your face.,(to his daughter) ,N,Ka&LyDeMe-418,Ka&LyDeMe-420
+Ka&LyDeMe-420,YOU CAN’T STAY WITH ME,,Lynch,Huh?,,N,Ka&LyDeMe-419,Ka&LyDeMe-421
+Ka&LyDeMe-421,YOU CAN’T STAY WITH ME,,Kane,It's gonna be fine. Please. I won't let anyone do anything to you. I swear.,,N,Ka&LyDeMe-420,Ka&LyDeMe-422
+Ka&LyDeMe-422,YOU CAN’T STAY WITH ME,,Lynch,Kane?,,N,Ka&LyDeMe-421,Ka&LyDeMe-423
+Ka&LyDeMe-423,YOU CAN’T STAY WITH ME,,Kane,What happened back then... I wrote you a letter.,,N,Ka&LyDeMe-422,Ka&LyDeMe-424
+Ka&LyDeMe-424,YOU CAN’T STAY WITH ME,,Lynch,Kane!,,N,Ka&LyDeMe-423,Ka&LyDeMe-425
+Ka&LyDeMe-425,YOU CAN’T STAY WITH ME,,Kane,What?,,N,Ka&LyDeMe-424,Ka&LyDeMe-426
+Ka&LyDeMe-426,YOU CAN’T STAY WITH ME,,Lynch,Listen!,,N,Ka&LyDeMe-425,Ka&LyDeMe-427
+Ka&LyDeMe-427,YOU CAN’T STAY WITH ME,,Kane," Please, you can't stay with me. It's too dangerous. Just run!",(to his daughter) ,N,Ka&LyDeMe-426,Ka&LyDeMe-428
+Ka&LyDeMe-428,YOU CAN’T STAY WITH ME,,,[Enormous truck arrives.],,Y,Ka&LyDeMe-427,Ka&LyDeMe-429
+Ka&LyDeMe-429,YOU CAN’T STAY WITH ME,,Kane,Jenny! GO NOW!,,N,Ka&LyDeMe-428,Ka&LyDeMe-430
+Ka&LyDeMe-430,YOU CAN’T STAY WITH ME,,Lynch,Sure that was a good idea? Sending her off like that?,,N,Ka&LyDeMe-429,Ka&LyDeMe-431
+Ka&LyDeMe-431,YOU CAN’T STAY WITH ME,,Kane,"I didn't have a choice, did I?",,N,Ka&LyDeMe-430,Ka&LyDeMe-432
+Ka&LyDeMe-432,YOU CAN’T STAY WITH ME,,Lynch,"Well, I don't know.",,N,Ka&LyDeMe-431,Ka&LyDeMe-433
+Ka&LyDeMe-433,YOU CAN’T STAY WITH ME,,Kane,"Listen, I gotta do some things that she shouldn't see, so you just shut up and help me carry my wife.",,N,Ka&LyDeMe-432,Ka&LyDeMe-434
+Ka&LyDeMe-434,YOU CAN’T STAY WITH ME,,,[They bury Kane's wife on the construction site.],,Y,Ka&LyDeMe-433,Ka&LyDeMe-435
+Ka&LyDeMe-435,YOU CAN’T STAY WITH ME,,Kane," I'm so sorry... I'm so sorry it ended like this and I'm sorry I couldn't just die. But I swear, I'll find them all before they find Jenny. I'll kill them all before they even look at her.",(to his wife) ,N,Ka&LyDeMe-434,Ka&LyDeMe-436
+Ka&LyDeMe-436,YOU CAN’T STAY WITH ME,,Lynch,What's that?,,N,Ka&LyDeMe-435,Ka&LyDeMe-437
+Ka&LyDeMe-437,YOU CAN’T STAY WITH ME,,Kane,A list... of dead men like me. Disowned and ruined by The7. They want revenge and nobody else is coming with me.,,N,Ka&LyDeMe-436,Ka&LyDeMe-438
+Ka&LyDeMe-438,YOU CAN’T STAY WITH ME,,Lynch,I should be on that list too.,,N,Ka&LyDeMe-437,Ka&LyDeMe-439
+Ka&LyDeMe-439,YOU CAN’T STAY WITH ME,,Kane,"The fuck you should. You don't want revenge, you just wanna stay alive.",,N,Ka&LyDeMe-438,Ka&LyDeMe-440
+Ka&LyDeMe-440,YOU CAN’T STAY WITH ME,,Lynch,You self centered shit. I'm not leaving you out of my sight until The7 and Retomoto are dead.,,N,Ka&LyDeMe-439,Ka&LyDeMe-441
+Ka&LyDeMe-441,YOU CAN’T STAY WITH ME,,Kane,Well I don't know it I want any...,,N,Ka&LyDeMe-440,Ka&LyDeMe-442
+Ka&LyDeMe-442,YOU CAN’T STAY WITH ME,,Lynch,"Deal with it! Listen, my wife was murdered 5 years ago. Back then I didn't do shit about it. I'm not gonna make the same mistake again. I wanna kill them as much as you do.",,N,Ka&LyDeMe-441,Ka&LyDeMe-443
+Ka&LyDeMe-443,YOU CAN’T STAY WITH ME,,Kane,"Your choice. Get in, the men we need are only an hour away.",,N,Ka&LyDeMe-442,Ka&LyDeMe-444
+Ka&LyDeMe-444,YOU CAN’T STAY WITH ME,,,[They sit in an enormous truck and drive away.],,Y,Ka&LyDeMe-443,Ka&LyDeMe-445
+Ka&LyDeMe-445,YOU CAN’T STAY WITH ME,,Lynch,You know where they are?,,N,Ka&LyDeMe-444,Ka&LyDeMe-446
+Ka&LyDeMe-446,YOU CAN’T STAY WITH ME,,Kane,"Some. We killed most of them, some we can't find. But there's a whole crew in a prison not too far from here.",,N,Ka&LyDeMe-445,Ka&LyDeMe-447
+Ka&LyDeMe-447,YOU CAN’T STAY WITH ME,,Lynch,What?! You wanna do a breakout? We fucking just got out of prison.,,N,Ka&LyDeMe-446,Ka&LyDeMe-448
+Ka&LyDeMe-448,YOU CAN’T STAY WITH ME,,Kane,Hey. Do you wanna come or not? These guys are all in one cellblock. It's gonna be quick.,,N,Ka&LyDeMe-447,Ka&LyDeMe-449
+Ka&LyDeMe-449,YOU CAN’T STAY WITH ME,,Lynch,"Ah, I don't like this. I need more pills.",,N,Ka&LyDeMe-448,Ka&LyDeMe-450
+Ka&LyDeMe-450,YOU CAN’T STAY WITH ME,,Kane,You're not gonna be needin' 'em too much longer.,,N,Ka&LyDeMe-449,Ka&LyDeMe-451
+Ka&LyDeMe-451,YOU CAN’T STAY WITH ME,,,"[Having sped up, they break through the prison wall.]",,Y,Ka&LyDeMe-450,Ka&LyDeMe-452
+Ka&LyDeMe-452,YOU CAN’T STAY WITH ME,,Kane,No going back now.,,N,Ka&LyDeMe-451,Ka&LyDeMe-453
+Ka&LyDeMe-453,YOU CAN’T STAY WITH ME,,Lynch,Let's just fucking do it!,,N,Ka&LyDeMe-452,Ka&LyDeMe-454
+Ka&LyDeMe-454,YOU CAN’T STAY WITH ME,,,[A shootout with the prison guards begins.],,Y,Ka&LyDeMe-453,Ka&LyDeMe-455
+Ka&LyDeMe-455,YOU CAN’T STAY WITH ME,,Kane,Shoot the glass!!!,,N,Ka&LyDeMe-454,Ka&LyDeMe-456
+Ka&LyDeMe-456,YOU CAN’T STAY WITH ME,,Lynch,"Ha, ha, ha. Always wanted to do this.",,N,Ka&LyDeMe-455,Ka&LyDeMe-457
+Ka&LyDeMe-457,NO GOING BACK NOW,,Kane,"Watch out, snipers in the tower! We gotta get to the Control room to open the doors. Now move!",,N,Ka&LyDeMe-456,Ka&LyDeMe-458
+Ka&LyDeMe-458,NO GOING BACK NOW,,,[They find the control room.],,Y,Ka&LyDeMe-457,Ka&LyDeMe-459
+Ka&LyDeMe-459,NO GOING BACK NOW,,Kane,"Thapa, Rific, Shelley, Grimley, Madsen. Thapa, Rific, Shelley... Grimley, Madsen. Shit! They should all be here!",,N,Ka&LyDeMe-458,Ka&LyDeMe-460
+Ka&LyDeMe-460,NO GOING BACK NOW,,Lynch,What's wrong?,,N,Ka&LyDeMe-459,Ka&LyDeMe-461
+Ka&LyDeMe-461,NO GOING BACK NOW,,Kane,Ok. Rific's here. That’s good.  Rific! Get on your feet!,(in the microphone) ,N,Ka&LyDeMe-460,Ka&LyDeMe-462
+Ka&LyDeMe-462,NO GOING BACK NOW,,Lynch,"What, there's only one guy here? Where the hell are the others?",,N,Ka&LyDeMe-461,Ka&LyDeMe-463
+Ka&LyDeMe-463,NO GOING BACK NOW,,Kane,Rific must know.,,N,Ka&LyDeMe-462,Ka&LyDeMe-464
+Ka&LyDeMe-464,NO GOING BACK NOW,,Lynch,Fucking hope so. Let's find out.,,N,Ka&LyDeMe-463,Ka&LyDeMe-465
+Ka&LyDeMe-465,NO GOING BACK NOW,,Rific,Kane... Thought I recognized your voice. Never thought you'd break in here just to kill me.,,N,Ka&LyDeMe-464,Ka&LyDeMe-466
+Ka&LyDeMe-466,NO GOING BACK NOW,,Kane,"Rific, don't flatter yourself. I'm only here because The7 wants me dead and you've no fucking choice but to help me kill them before that happens.",,N,Ka&LyDeMe-465,Ka&LyDeMe-467
+Ka&LyDeMe-467,NO GOING BACK NOW,,Rific,"The7 wants you dead? Ah. I love the irony of this, you fucking idiot.",,N,Ka&LyDeMe-466,Ka&LyDeMe-468
+Ka&LyDeMe-468,NO GOING BACK NOW,,Kane,"Do you wanna come, or not?",,N,Ka&LyDeMe-467,Ka&LyDeMe-469
+Ka&LyDeMe-469,NO GOING BACK NOW,,Rific,I don't know.,,N,Ka&LyDeMe-468,Ka&LyDeMe-470
+Ka&LyDeMe-470,NO GOING BACK NOW,,Kane,"You'll be paid, you greedy bastard. Just get out here and fight.",,N,Ka&LyDeMe-469,Ka&LyDeMe-471
+Ka&LyDeMe-472,NO GOING BACK NOW,,Kane,Where are the others? I need your entire team.,,N,Ka&LyDeMe-471,Ka&LyDeMe-473
+Ka&LyDeMe-473,NO GOING BACK NOW,,Rific,Grimley and Madsen got fried last year!,,N,Ka&LyDeMe-472,Ka&LyDeMe-474
+Ka&LyDeMe-474,NO GOING BACK NOW,,Kane,Fuck.,,N,Ka&LyDeMe-473,Ka&LyDeMe-475
+Ka&LyDeMe-475,NO GOING BACK NOW,,Rific,But Thapa is doing laundry work and Shelly has transferred to block B.,,N,Ka&LyDeMe-474,Ka&LyDeMe-476
+Ka&LyDeMe-476,NO GOING BACK NOW,,Lynch,"This wasn't the plan, Kane.",,N,Ka&LyDeMe-475,Ka&LyDeMe-477
+Ka&LyDeMe-477,NO GOING BACK NOW,,Kane,Shut up! We'll just take what we can get.,,N,Ka&LyDeMe-476,Ka&LyDeMe-478
+Ka&LyDeMe-478,NO GOING BACK NOW,,Rific, Follow the orange line. It leads to the laundry room!,(to Kane) ,N,Ka&LyDeMe-477,Ka&LyDeMe-479
+Ka&LyDeMe-479,NO GOING BACK NOW,,,[Kane finds the laundry.],,Y,Ka&LyDeMe-478,Ka&LyDeMe-480
+Ka&LyDeMe-480,NO GOING BACK NOW,,Thapa,"Kane, back off! Just because I'm not armed, doesn't mean I can't kill you.",,N,Ka&LyDeMe-479,Ka&LyDeMe-481
+Ka&LyDeMe-481,NO GOING BACK NOW,,Prisoner,"Are you gonna get us out of here, or what?",,N,Ka&LyDeMe-480,Ka&LyDeMe-482
+Ka&LyDeMe-482,NO GOING BACK NOW,,Lynch,"Up against the wall, punks!",,N,Ka&LyDeMe-481,Ka&LyDeMe-483
+Ka&LyDeMe-483,NO GOING BACK NOW,,Kane,"Thapa, this is not a time to bear a grudge. I need your help.",,N,Ka&LyDeMe-482,Ka&LyDeMe-484
+Ka&LyDeMe-484,NO GOING BACK NOW,,Thapa,Me helping you?! You assholes RUINED MY LIFE.,,N,Ka&LyDeMe-483,Ka&LyDeMe-485
+Ka&LyDeMe-485,NO GOING BACK NOW,,Kane,I'm not a member of The7 anymore. Follow me... And take this.,,N,Ka&LyDeMe-484,Ka&LyDeMe-486
+Ka&LyDeMe-486,NO GOING BACK NOW,,,[He gave him a rifle.],,Y,Ka&LyDeMe-485,Ka&LyDeMe-487
+Ka&LyDeMe-487,NO GOING BACK NOW,,Thapa,You're not?,,N,Ka&LyDeMe-486,Ka&LyDeMe-488
+Ka&LyDeMe-488,TO BEAR A GRUDGE,,Rific,"The one eyed fucker got himself expelled, huh. Isn't that just great?",,N,Ka&LyDeMe-487,Ka&LyDeMe-489
+Ka&LyDeMe-489,TO BEAR A GRUDGE,,Thapa,No shit!,,N,Ka&LyDeMe-488,Ka&LyDeMe-490
+Ka&LyDeMe-490,TO BEAR A GRUDGE,,Rific,"Yeah, we're picking up Shelly too!",,N,Ka&LyDeMe-489,Ka&LyDeMe-491
+Ka&LyDeMe-491,TO BEAR A GRUDGE,,Thapa,We are?,,N,Ka&LyDeMe-490,Ka&LyDeMe-492
+Ka&LyDeMe-493,TO BEAR A GRUDGE,,Shelly,Kane! Over here! There you are. Kane. I hope you can forgive me for what I have done.,,N,Ka&LyDeMe-492,Ka&LyDeMe-494
+Ka&LyDeMe-494,TO BEAR A GRUDGE,,Kane,"I don't give a fuck, Shelly. I need to get you out.",,N,Ka&LyDeMe-493,Ka&LyDeMe-495
+Ka&LyDeMe-495,TO BEAR A GRUDGE,,Shelly,"Out? Ah, he must have sent you here to....",,N,Ka&LyDeMe-494,Ka&LyDeMe-496
+Ka&LyDeMe-496,TO BEAR A GRUDGE,,Kane,"Spare me your God talk, we don't have time. How do I lift the lockdown?",,N,Ka&LyDeMe-495,Ka&LyDeMe-497
+Ka&LyDeMe-497,TO BEAR A GRUDGE,,Shelly,You gotta get all the way up in the control room.,,N,Ka&LyDeMe-496,Ka&LyDeMe-498
+Ka&LyDeMe-498,TO BEAR A GRUDGE,,Kane,"Alright, good. We'll be back to you.",,N,Ka&LyDeMe-497,Ka&LyDeMe-499
+Ka&LyDeMe-499,TO BEAR A GRUDGE,,Rific,And now you're taking a fucking weapon? What happened to finding God and all that?,,N,Ka&LyDeMe-498,Ka&LyDeMe-500
+Ka&LyDeMe-500,TO BEAR A GRUDGE,,Thapa,Just a death row things I guess.,,N,Ka&LyDeMe-499,Ka&LyDeMe-501
+Ka&LyDeMe-501,TO BEAR A GRUDGE,,Rific,You're full of shit.,,N,Ka&LyDeMe-500,Ka&LyDeMe-502
+Ka&LyDeMe-502,TO BEAR A GRUDGE,,Thapa,"Yeah, maybe, just get a move on, okay. I want out.",,N,Ka&LyDeMe-501,Ka&LyDeMe-503
+Ka&LyDeMe-503,TO BEAR A GRUDGE,,Kane,I need everybody on here now! Need all the distraction we can get.,,N,Ka&LyDeMe-502,Ka&LyDeMe-504
+Ka&LyDeMe-504,TO BEAR A GRUDGE,,Prisoner,What the fuck? You're letting them all out?,,N,Ka&LyDeMe-503,Ka&LyDeMe-505
+Ka&LyDeMe-505,TO BEAR A GRUDGE,,Rific,Sounds like they're getting slaughtered down there.,,N,Ka&LyDeMe-504,Ka&LyDeMe-506
+Ka&LyDeMe-506,I CAN’T REMEMBER SHIT,,Shelly,"Hey, I see you! Down here!",,N,Ka&LyDeMe-505,Ka&LyDeMe-507
+Ka&LyDeMe-507,I CAN’T REMEMBER SHIT,,Rific,That’s Shelly. He's still alive.,,N,Ka&LyDeMe-506,Ka&LyDeMe-508
+Ka&LyDeMe-508,I CAN’T REMEMBER SHIT,,Kane,Can you get out?,,N,Ka&LyDeMe-507,Ka&LyDeMe-509
+Ka&LyDeMe-509,I CAN’T REMEMBER SHIT,,Shelly,No. It only opened to the yard. You'll have to open the last gates from the tower.,,N,Ka&LyDeMe-508,Ka&LyDeMe-510
+Ka&LyDeMe-510,I CAN’T REMEMBER SHIT,,Kane,What tower?,,N,Ka&LyDeMe-509,Ka&LyDeMe-511
+Ka&LyDeMe-511,I CAN’T REMEMBER SHIT,,Shelly,Just fucking go on. You can't miss it. Kane? You know I won’t work with Lynch.,,N,Ka&LyDeMe-510,Ka&LyDeMe-512
+Ka&LyDeMe-512,I CAN’T REMEMBER SHIT,,Kane,You know Lynch?,,N,Ka&LyDeMe-511,Ka&LyDeMe-513
+Ka&LyDeMe-513,I CAN’T REMEMBER SHIT,,Shelly,I know of him. He killed his wife. Did a real nasty job of it too.,,N,Ka&LyDeMe-512,Ka&LyDeMe-514
+Ka&LyDeMe-514,I CAN’T REMEMBER SHIT,,Kane,"Wait a second, you killed your wife?!",,N,Ka&LyDeMe-513,Ka&LyDeMe-515
+Ka&LyDeMe-515,I CAN’T REMEMBER SHIT,,Lynch,This isn't the time for talking and fuck your preacher boy! You don't know shit!,,N,Ka&LyDeMe-514,Ka&LyDeMe-516
+Ka&LyDeMe-516,I CAN’T REMEMBER SHIT,,Kane,If I’d known that you killed your wife.,,N,Ka&LyDeMe-515,Ka&LyDeMe-517
+Ka&LyDeMe-517,I CAN’T REMEMBER SHIT,,Lynch,Then what?,,N,Ka&LyDeMe-516,Ka&LyDeMe-518
+Ka&LyDeMe-518,I CAN’T REMEMBER SHIT,,Kane,I wouldn't have fucking brought you along.,,N,Ka&LyDeMe-517,Ka&LyDeMe-519
+Ka&LyDeMe-519,I CAN’T REMEMBER SHIT,,Lynch,Hey. I really don't think I killed her.,,N,Ka&LyDeMe-518,Ka&LyDeMe-520
+Ka&LyDeMe-520,I CAN’T REMEMBER SHIT,,Kane,You don't THINK you killed her? What the fuck is that supposed to mean? They're fucking crazy!,,N,Ka&LyDeMe-519,Ka&LyDeMe-521
+Ka&LyDeMe-521,I CAN’T REMEMBER SHIT,,Lynch,"It means I can't remember shit from that night. But I'm probably not responsible for my wife's death, that’s more than you can say, right? Thought so… So leave it.",,N,Ka&LyDeMe-520,Ka&LyDeMe-522
+Ka&LyDeMe-522,I CAN’T REMEMBER SHIT,,Rific,Oh fuck! We’re dead!,,N,Ka&LyDeMe-521,Ka&LyDeMe-523
+Ka&LyDeMe-523,I CAN’T REMEMBER SHIT,,Thapa,Fuck! The stairs are burning! We have to rappel down.,,N,Ka&LyDeMe-522,Ka&LyDeMe-524
+Ka&LyDeMe-524,I CAN’T REMEMBER SHIT,,Shelly,"Kane look, I appreciate this, but keep Lynch away from me. I don't work with psychos.",,N,Ka&LyDeMe-523,Ka&LyDeMe-525
+Ka&LyDeMe-525,I CAN’T REMEMBER SHIT,,Kane,You fucking work with who ever I tell you to.,,N,Ka&LyDeMe-524,Ka&LyDeMe-526
+Ka&LyDeMe-526,I CAN’T REMEMBER SHIT,,Shelly,It's not right! It's not worth it.,,N,Ka&LyDeMe-525,Ka&LyDeMe-527
+Ka&LyDeMe-527,I CAN’T REMEMBER SHIT,,Kane,"Look, I know how rich you're gonna get. And I'm telling you, it's worth it.",,N,Ka&LyDeMe-526,Ka&LyDeMe-528
+Ka&LyDeMe-528,I CAN’T REMEMBER SHIT,,Shelly,Fuck it then.,,N,Ka&LyDeMe-527,Ka&LyDeMe-529
+Ka&LyDeMe-529,I CAN’T REMEMBER SHIT,,Lynch,Like you're a fucking saint...,,N,Ka&LyDeMe-528,Ka&LyDeMe-530
+Ka&LyDeMe-530,I CAN’T REMEMBER SHIT,,Kane,Knock it off!,,N,Ka&LyDeMe-529,Ka&LyDeMe-531
+Ka&LyDeMe-531,I CAN’T REMEMBER SHIT,,Lynch,We'll need a fucking tank to get out of here!,,N,Ka&LyDeMe-530,Ka&LyDeMe-532
+Ka&LyDeMe-532,I CAN’T REMEMBER SHIT,,Kane,Get in the prison transport. It's armored.,,N,Ka&LyDeMe-531,Ka&LyDeMe-533
+Ka&LyDeMe-533,I CAN’T REMEMBER SHIT,,,[They leave the prison in the prison’s truck.],,Y,Ka&LyDeMe-532,Ka&LyDeMe-534
+Ka&LyDeMe-534,I CAN’T REMEMBER SHIT,,Rific,"Fuck, that was close. I can't fucking wait to get back at The7.",,N,Ka&LyDeMe-533,Ka&LyDeMe-535
+Ka&LyDeMe-535,I CAN’T REMEMBER SHIT,,Kane,We’re going for Retomoto first.,,N,Ka&LyDeMe-534,Ka&LyDeMe-536
+Ka&LyDeMe-536,I CAN’T REMEMBER SHIT,,Rific,We're what?,,N,Ka&LyDeMe-535,Ka&LyDeMe-537
+Ka&LyDeMe-537,I CAN’T REMEMBER SHIT,,Kane," After what you did to Yoko, he'll be looking for Jenny with everything he's got.",(to Lynch) ,N,Ka&LyDeMe-536,Ka&LyDeMe-538
+Ka&LyDeMe-538,I CAN’T REMEMBER SHIT,,Lynch,You can't continue to blame me for that! It wasn't entirely my fault!,,N,Ka&LyDeMe-537,Ka&LyDeMe-539
+Ka&LyDeMe-539,I CAN’T REMEMBER SHIT,,Kane,"Just forget it Lynch. Besides, I want my briefcase back.",,N,Ka&LyDeMe-538,Ka&LyDeMe-540
+Ka&LyDeMe-540,I CAN’T REMEMBER SHIT,,Shelly,I can't believe we're going back. I can't fucking believe it.,,N,Ka&LyDeMe-539,Ka&LyDeMe-541
+Ka&LyDeMe-541,I CAN’T REMEMBER SHIT,,,[Next scene. Kane and his team are standing on the roof of a building in Japan. They are wearing a hoodie.],,Y,Ka&LyDeMe-540,Ka&LyDeMe-542
+Ka&LyDeMe-542,I CAN’T REMEMBER SHIT,,Kane,Get a move on – we're almost at the top now.,,N,Ka&LyDeMe-541,Ka&LyDeMe-543
+Ka&LyDeMe-543,I CAN’T REMEMBER SHIT,,Rific,"These clothes suck. I mean, I just got out of prison...",,N,Ka&LyDeMe-542,Ka&LyDeMe-544
+Ka&LyDeMe-544,I CAN’T REMEMBER SHIT,,Kane,"They got your ass all the way up here, didn't they? Now keep it down, we still have to make it across the roof.",,N,Ka&LyDeMe-543,Ka&LyDeMe-545
+Ka&LyDeMe-545,I CAN’T REMEMBER SHIT,,,[They kill the helicopter pilot and his guards.],,Y,Ka&LyDeMe-544,Ka&LyDeMe-546
+Ka&LyDeMe-546,I CAN’T REMEMBER SHIT,,Kane,Ok. Listen. I rappel down first - plant the bomb on the window. When it blows - you hit that room with everything you got.,,N,Ka&LyDeMe-545,Ka&LyDeMe-547
+Ka&LyDeMe-547,I CAN’T REMEMBER SHIT,,Everyone,Got it.,,N,Ka&LyDeMe-546,Ka&LyDeMe-548
+Ka&LyDeMe-548,I REALLY DON’T LIKE HEIGHTS,,Lynch,Fuck I hate heights. I can't believe we’re going through with this.,,N,Ka&LyDeMe-547,Ka&LyDeMe-549
+Ka&LyDeMe-549,I REALLY DON’T LIKE HEIGHTS,,,[Kane rappels down.],,Y,Ka&LyDeMe-548,Ka&LyDeMe-550
+Ka&LyDeMe-550,I REALLY DON’T LIKE HEIGHTS,,Kane,Lynch. The briefcase is there! And Retomoto won't even see us before he's dead.,,N,Ka&LyDeMe-549,Ka&LyDeMe-551
+Ka&LyDeMe-551,I REALLY DON’T LIKE HEIGHTS,,Lynch,Mmm... If you say so.,,N,Ka&LyDeMe-550,Ka&LyDeMe-552
+Ka&LyDeMe-552,I REALLY DON’T LIKE HEIGHTS,,Kane,"You have 7 sec, 6 sec, 5 sec, 4 sec, 2 sec, 1 sec, NOW!",,N,Ka&LyDeMe-551,Ka&LyDeMe-553
+Ka&LyDeMe-553,I REALLY DON’T LIKE HEIGHTS,,Rific,Let' em all!,,N,Ka&LyDeMe-552,Ka&LyDeMe-554
+Ka&LyDeMe-554,I REALLY DON’T LIKE HEIGHTS,,,"[Going down to the meeting room, Kane smashes the glass with explosives and the whole team starts firing at the people inside.]",,Y,Ka&LyDeMe-553,Ka&LyDeMe-555
+Ka&LyDeMe-555,I REALLY DON’T LIKE HEIGHTS,,Kane,Secure the room while I get the briefcase.,,N,Ka&LyDeMe-554,Ka&LyDeMe-556
+Ka&LyDeMe-556,I REALLY DON’T LIKE HEIGHTS,,Kane, I owed you this for a long time. And I pay my debts. To the penny.,(whispering to dead Retomoto) ,N,Ka&LyDeMe-555,Ka&LyDeMe-557
+Ka&LyDeMe-557,I REALLY DON’T LIKE HEIGHTS,,Lynch,Come on. You're the one talking about keeping momentum and shit.,,N,Ka&LyDeMe-556,Ka&LyDeMe-558
+Ka&LyDeMe-558,I REALLY DON’T LIKE HEIGHTS,,Kane,Some things just shouldn't be rushed.,,N,Ka&LyDeMe-557,Ka&LyDeMe-559
+Ka&LyDeMe-559,I REALLY DON’T LIKE HEIGHTS,,Lynch,That the fuck was that for.,,N,Ka&LyDeMe-558,Ka&LyDeMe-560
+Ka&LyDeMe-560,I REALLY DON’T LIKE HEIGHTS,,Kane,Nothing. Let's just get down to the elevators and get the hell out of here.,,N,Ka&LyDeMe-559,Ka&LyDeMe-561
+Ka&LyDeMe-561,I REALLY DON’T LIKE HEIGHTS,,,[The door to the office break out. Kane and his crew are fighting to make their way to the elevator.],,Y,Ka&LyDeMe-560,Ka&LyDeMe-562
+Ka&LyDeMe-562,I REALLY DON’T LIKE HEIGHTS,,Rific,Shit! - They just keep comin'!,,N,Ka&LyDeMe-561,Ka&LyDeMe-563
+Ka&LyDeMe-563,I REALLY DON’T LIKE HEIGHTS,,,[In the elevator...],,Y,Ka&LyDeMe-562,Ka&LyDeMe-564
+Ka&LyDeMe-564,I REALLY DON’T LIKE HEIGHTS,,Lynch,What was that shit you did to Retomoto?,,N,Ka&LyDeMe-563,Ka&LyDeMe-565
+Ka&LyDeMe-565,I REALLY DON’T LIKE HEIGHTS,,Kane,Nothing to do with you.,,N,Ka&LyDeMe-564,Ka&LyDeMe-566
+Ka&LyDeMe-566,I REALLY DON’T LIKE HEIGHTS,,Lynch,"As long as you're not losing it. Get these suits on, all of you!",,N,Ka&LyDeMe-565,Ka&LyDeMe-567
+Ka&LyDeMe-567,I REALLY DON’T LIKE HEIGHTS,,Shelly,"Who made you the boss, wife killer?",,N,Ka&LyDeMe-566,Ka&LyDeMe-568
+Ka&LyDeMe-568,I REALLY DON’T LIKE HEIGHTS,,Kane,"C'mon, Shelly, this isn't the time.",,N,Ka&LyDeMe-567,Ka&LyDeMe-569
+Ka&LyDeMe-569,I REALLY DON’T LIKE HEIGHTS,,Lynch,"Yeah, just suit up.",,N,Ka&LyDeMe-568,Ka&LyDeMe-570
+Ka&LyDeMe-570,I REALLY DON’T LIKE HEIGHTS,,Kane,Just keep it cool...,,N,Ka&LyDeMe-569,Ka&LyDeMe-571
+Ka&LyDeMe-571,I REALLY DON’T LIKE HEIGHTS,,Policeman," Please Gentlemen, abandon the building. We have a minor issue on the top floor.",(speaking Japanese) ,N,Ka&LyDeMe-570,Ka&LyDeMe-572
+Ka&LyDeMe-572,I REALLY DON’T LIKE HEIGHTS,,Kane,We are gonna be fine. We just need to get out to the car... we're almost there.,,N,Ka&LyDeMe-571,Ka&LyDeMe-573
+Ka&LyDeMe-573,I REALLY DON’T LIKE HEIGHTS,,,[A shootout begins.],,Y,Ka&LyDeMe-572,Ka&LyDeMe-574
+Ka&LyDeMe-574,I REALLY DON’T LIKE HEIGHTS,,Kane, Driver. Where the hell are you?!,(on the phone) ,N,Ka&LyDeMe-573,Ka&LyDeMe-575
+Ka&LyDeMe-575,I REALLY DON’T LIKE HEIGHTS,,Driver,"Sorry Kane, there are fucking cops everywhere. Look, just continue down the street, there’s an overpass. I'll meet you there.",,N,Ka&LyDeMe-574,Ka&LyDeMe-576
+Ka&LyDeMe-576,I REALLY DON’T LIKE HEIGHTS,,Kane,We'll try.,,N,Ka&LyDeMe-575,Ka&LyDeMe-577
+Ka&LyDeMe-577,I REALLY DON’T LIKE HEIGHTS,,Lynch,There they are! You fuckers! Don't be so fucking QUIET!!!,,N,Ka&LyDeMe-576,Ka&LyDeMe-578
+Ka&LyDeMe-578,I REALLY DON’T LIKE HEIGHTS,,,[Lynch shoots at passersby.],,Y,Ka&LyDeMe-577,Ka&LyDeMe-579
+Ka&LyDeMe-579,I REALLY DON’T LIKE HEIGHTS,,Kane,Lynch! Cut it out! They're no threat.,,N,Ka&LyDeMe-578,Ka&LyDeMe-580
+Ka&LyDeMe-580,I REALLY DON’T LIKE HEIGHTS,,Rific,"Lynch! Relax, just take a deep breath. You're going to be ok.",,N,Ka&LyDeMe-579,Ka&LyDeMe-581
+Ka&LyDeMe-581,I REALLY DON’T LIKE HEIGHTS,,Lynch,Don't fucking patronize me!,,N,Ka&LyDeMe-580,Ka&LyDeMe-582
+Ka&LyDeMe-582,I REALLY DON’T LIKE HEIGHTS,,Driver,Kane. Where the hell are you?! C'mon! You've gotta hurry!,,N,Ka&LyDeMe-581,Ka&LyDeMe-583
+Ka&LyDeMe-583,I REALLY DON’T LIKE HEIGHTS,,,[They get in the van.],,Y,Ka&LyDeMe-582,Ka&LyDeMe-584
+Ka&LyDeMe-584,I REALLY DON’T LIKE HEIGHTS,,Lynch,"So, we're good?",,N,Ka&LyDeMe-583,Ka&LyDeMe-585
+Ka&LyDeMe-585,I REALLY DON’T LIKE HEIGHTS,,Kane,Very good… Now we can get to The7. They're in Havana.,,N,Ka&LyDeMe-584,Ka&LyDeMe-586
+Ka&LyDeMe-586,I REALLY DON’T LIKE HEIGHTS,,Lynch,But isn't there a civil war?,,N,Ka&LyDeMe-585,Ka&LyDeMe-587
+Ka&LyDeMe-587,I REALLY DON’T LIKE HEIGHTS,,Kane,"Well, It's their specialty to overthrow governments, Lynch, that's what they do. Havana is their retirement job.",,N,Ka&LyDeMe-586,Ka&LyDeMe-588
+Ka&LyDeMe-588,I REALLY DON’T LIKE HEIGHTS,,Lynch,Why the hell would they wanna retire?,,N,Ka&LyDeMe-587,Ka&LyDeMe-589
+Ka&LyDeMe-589,I REALLY DON’T LIKE HEIGHTS,,Kane,"Everybody retires, look at us! We're way over the hill for this business.",,N,Ka&LyDeMe-588,Ka&LyDeMe-590
+Ka&LyDeMe-590,I REALLY DON’T LIKE HEIGHTS,,Lynch,I'm not.,,N,Ka&LyDeMe-589,Ka&LyDeMe-591
+Ka&LyDeMe-591,I REALLY DON’T LIKE HEIGHTS,,Kane,"Fine, you're not, but The7 definitely are. And they need a place to hide out from all the shit they've done.",,N,Ka&LyDeMe-590,Ka&LyDeMe-592
+Ka&LyDeMe-592,I REALLY DON’T LIKE HEIGHTS,,Lynch,Hmm. My wife always wanted to go to Havana. She said it was pretty.,,N,Ka&LyDeMe-591,Ka&LyDeMe-593
+Ka&LyDeMe-593,I REALLY DON’T LIKE HEIGHTS,,Kane,"Believe me, it's not.",,N,Ka&LyDeMe-592,Ka&LyDeMe-594
+Ka&LyDeMe-594,I REALLY DON’T LIKE HEIGHTS,,,[The next scene throws us in the midst of the battle. All gang members wear military armor.],,Y,Ka&LyDeMe-593,Ka&LyDeMe-595
+Ka&LyDeMe-595,I REALLY DON’T LIKE HEIGHTS,,Lynch,Oh Fuck! Oh Fuck! Oh Fuck! My ears are bleeding! I can't take any more of this shit!,,N,Ka&LyDeMe-594,Ka&LyDeMe-596
+Ka&LyDeMe-596,I REALLY DON’T LIKE HEIGHTS,,Kane,Just get on your feet! We're moving in NOW!,,N,Ka&LyDeMe-595,Ka&LyDeMe-597
+Ka&LyDeMe-597,I REALLY DON’T LIKE HEIGHTS,,Lynch,"Now?!You're going to get as all killed, you idiot.",,N,Ka&LyDeMe-596,Ka&LyDeMe-598
+Ka&LyDeMe-598,I REALLY DON’T LIKE HEIGHTS,,Kane,I don't give a shit. As long as we get The7. Alright! We’re nearly there! The reinforcements are waiting for us just behind the Church.,,N,Ka&LyDeMe-597,Ka&LyDeMe-599
+Ka&LyDeMe-599,I REALLY DON’T LIKE HEIGHTS,,Rific,"Kane, we need a break.",,N,Ka&LyDeMe-598,Ka&LyDeMe-600
+Ka&LyDeMe-600,I REALLY DON’T LIKE HEIGHTS,,Kane,"Well, you can't have one. I promise, today we kill The7. And today you get your reward.",,N,Ka&LyDeMe-599,Ka&LyDeMe-601
+Ka&LyDeMe-601,I REALLY DON’T LIKE HEIGHTS,,Shelly,"Thapa, he's right. We're gonna die if we stay.",,N,Ka&LyDeMe-600,Ka&LyDeMe-602
+Ka&LyDeMe-602,I REALLY DON’T LIKE HEIGHTS,,Kane,MORTAR! Let's move.,,N,Ka&LyDeMe-601,Ka&LyDeMe-603
+Ka&LyDeMe-603,I REALLY DON’T LIKE HEIGHTS,,Kane,Got here as fast as we could. How many of you are left?,,N,Ka&LyDeMe-602,Ka&LyDeMe-604
+Ka&LyDeMe-604,I REALLY DON’T LIKE HEIGHTS,,Commander,Plenty. We're ready.,,N,Ka&LyDeMe-603,Ka&LyDeMe-605
+Ka&LyDeMe-605,I REALLY DON’T LIKE HEIGHTS,,Kane,Now let's move!,,N,Ka&LyDeMe-604,Ka&LyDeMe-606
+Ka&LyDeMe-606,I REALLY DON’T LIKE HEIGHTS,,Commander,"Shit, we can't afford lose men at this rate.",,N,Ka&LyDeMe-605,Ka&LyDeMe-607
+Ka&LyDeMe-607,I REALLY DON’T LIKE HEIGHTS,,Kane,"Ok, listen to me. Lynch and I will try to get to the roof and see what we can do.",,N,Ka&LyDeMe-606,Ka&LyDeMe-608
+Ka&LyDeMe-608,I REALLY DON’T LIKE HEIGHTS,,Rific,That's fucking more like it! Do some of your own dirty work for a change.,,N,Ka&LyDeMe-607,Ka&LyDeMe-609
+Ka&LyDeMe-609,I REALLY DON’T LIKE HEIGHTS,,Kane,"The rest of you, round up all the reinforcements you can and be ready to attack on my toe.",,N,Ka&LyDeMe-608,Ka&LyDeMe-610
+Ka&LyDeMe-610,I REALLY DON’T LIKE HEIGHTS,,Lynch,You're getting them all killed. You know that.,,N,Ka&LyDeMe-609,Ka&LyDeMe-611
+Ka&LyDeMe-611,I REALLY DON’T LIKE HEIGHTS,,Kane,"I don't give a shit. If the men die, they fucking die. I just want to see my daughter again.",,N,Ka&LyDeMe-610,Ka&LyDeMe-612
+Ka&LyDeMe-612,I REALLY DON’T LIKE HEIGHTS,,Lynch,"You know what, you cold piece of shit? I'm beginning to think you did leave The7 to burn in Venezuela.",,N,Ka&LyDeMe-611,Ka&LyDeMe-613
+Ka&LyDeMe-613,I REALLY DON’T LIKE HEIGHTS,,Kane,Just keep up Lynch.,,N,Ka&LyDeMe-612,Ka&LyDeMe-614
+Ka&LyDeMe-614,I REALLY DON’T LIKE HEIGHTS,,Lynch,"OK. You lead the way, you're so fucking smart.",,N,Ka&LyDeMe-613,Ka&LyDeMe-615
+Ka&LyDeMe-615,I REALLY DON’T LIKE HEIGHTS,,Kane,"Don't worry, Lynch. I will.",,N,Ka&LyDeMe-614,Ka&LyDeMe-616
+Ka&LyDeMe-616,STEADY YOUR AIM,,Kane,"Doesn't look too bad, Rific. Don't think that there's more than a few BTRs.",,N,Ka&LyDeMe-615,Ka&LyDeMe-617
+Ka&LyDeMe-617,STEADY YOUR AIM,,Rific,Just get rid of them! We're ready down here. Lots of good men joining us. It’s looking good.,,N,Ka&LyDeMe-616,Ka&LyDeMe-618
+Ka&LyDeMe-618,STEADY YOUR AIM,,Lynch,We fucking did it!,,N,Ka&LyDeMe-617,Ka&LyDeMe-619
+Ka&LyDeMe-619,STEADY YOUR AIM,,Kane,Rific. We got them. Are you ready?,,N,Ka&LyDeMe-618,Ka&LyDeMe-620
+Ka&LyDeMe-620,STEADY YOUR AIM,,Rific,Sure. Sure we are.,,N,Ka&LyDeMe-619,Ka&LyDeMe-621
+Ka&LyDeMe-621,STEADY YOUR AIM,,,[Helicopter fly by.],,Y,Ka&LyDeMe-620,Ka&LyDeMe-622
+Ka&LyDeMe-622,STEADY YOUR AIM,,Kane,Fuck!,,N,Ka&LyDeMe-621,Ka&LyDeMe-623
+Ka&LyDeMe-623,STEADY YOUR AIM,,Rific,Wow! What the fuck was that?,,N,Ka&LyDeMe-622,Ka&LyDeMe-624
+Ka&LyDeMe-624,STEADY YOUR AIM,,Kane,"Just stay put, Rific.",,N,Ka&LyDeMe-623,Ka&LyDeMe-625
+Ka&LyDeMe-625,STEADY YOUR AIM,,Rific,We got it.,,N,Ka&LyDeMe-624,Ka&LyDeMe-626
+Ka&LyDeMe-626,STEADY YOUR AIM,,Kane,"Rific, get everybody out! Now!",,N,Ka&LyDeMe-625,Ka&LyDeMe-627
+Ka&LyDeMe-627,STEADY YOUR AIM,,Rific,"Thapa, Shelly. Let's Go! Kane, keep us covered.",,N,Ka&LyDeMe-626,Ka&LyDeMe-628
+Ka&LyDeMe-628,STEADY YOUR AIM,,Kane,Now is our chance. Let's move in.,,N,Ka&LyDeMe-627,Ka&LyDeMe-629
+Ka&LyDeMe-629,STEADY YOUR AIM,,Rific,Over there... let's rappel down.,,N,Ka&LyDeMe-628,Ka&LyDeMe-630
+Ka&LyDeMe-630,STEADY YOUR AIM,,Kane,Spread out! Spread out! Our only way is through file side entrance! Lynch and I are going in this way. I need the rest of you to secure the other entrances. No one gets out alive.,,N,Ka&LyDeMe-629,Ka&LyDeMe-631
+Ka&LyDeMe-631,STEADY YOUR AIM,,Lynch,Shit... where the hell are Carlos and the brothers?,,N,Ka&LyDeMe-630,Ka&LyDeMe-632
+Ka&LyDeMe-632,STEADY YOUR AIM,,Shelly,Fuck The7! Where's the stash?!,,N,Ka&LyDeMe-631,Ka&LyDeMe-633
+Ka&LyDeMe-633,STEADY YOUR AIM,,Kane,They should be here. They should all have been here!!,,N,Ka&LyDeMe-632,Ka&LyDeMe-634
+Ka&LyDeMe-634,STEADY YOUR AIM,,Shelly,I asked you a question!!,,N,Ka&LyDeMe-633,Ka&LyDeMe-635
+Ka&LyDeMe-635,STEADY YOUR AIM,,Carlos,There is nothing here.,,N,Ka&LyDeMe-634,Ka&LyDeMe-636
+Ka&LyDeMe-636,STEADY YOUR AIM,,Kane,Carlos.,,N,Ka&LyDeMe-635,Ka&LyDeMe-637
+Ka&LyDeMe-637,STEADY YOUR AIM,,Carlos,The brothers took it all. They knew we were losing and they ran.,,N,Ka&LyDeMe-636,Ka&LyDeMe-638
+Ka&LyDeMe-638,STEADY YOUR AIM,,Shelly,What do you mean there is nothing here?!,,N,Ka&LyDeMe-637,Ka&LyDeMe-639
+Ka&LyDeMe-639,STEADY YOUR AIM,,Kane,Shut the fuck up. Get him down here now!  Carlos. I'm only gonna ask you this once. Tell me where the brothers are. I need to find them.,(grabs Carlos) ,N,Ka&LyDeMe-638,Ka&LyDeMe-640
+Ka&LyDeMe-640,STEADY YOUR AIM,,Carlos,They just ran. But I can lead you to them. Fucking backstabbing traitors! Didn't even try to get the rest of us out.,,N,Ka&LyDeMe-639,Ka&LyDeMe-641
+Ka&LyDeMe-641,STEADY YOUR AIM,,Lynch,Just do it.,,N,Ka&LyDeMe-640,Ka&LyDeMe-642
+Ka&LyDeMe-642,STEADY YOUR AIM,,Kane,How fast can you get me to them?,,N,Ka&LyDeMe-641,Ka&LyDeMe-643
+Ka&LyDeMe-643,STEADY YOUR AIM,,Carlos,3 days.,,N,Ka&LyDeMe-642,Ka&LyDeMe-644
+Ka&LyDeMe-644,STEADY YOUR AIM,,Lynch,This is stupid. You can't trust him.,,N,Ka&LyDeMe-643,Ka&LyDeMe-645
+Ka&LyDeMe-645,STEADY YOUR AIM,,Kane,"Well, what the fuck! I don't have a choice.",,N,Ka&LyDeMe-644,Ka&LyDeMe-646
+Ka&LyDeMe-646,STEADY YOUR AIM,,Thapa,"Kane, I can't trust you anymore. You're on your fucking own. I'm done fighting for nothing.",,N,Ka&LyDeMe-645,Ka&LyDeMe-647
+Ka&LyDeMe-647,STEADY YOUR AIM,,Lynch,How can you trust him?,,N,Ka&LyDeMe-646,Ka&LyDeMe-648
+Ka&LyDeMe-648,STEADY YOUR AIM,,Kane,He has always been my friend.,,N,Ka&LyDeMe-647,Ka&LyDeMe-649
+Ka&LyDeMe-649,STEADY YOUR AIM,,Lynch,"Yeah, right... You know the rules, Kane! Remember? Or have you taken too many bumps on your fucking head?",,N,Ka&LyDeMe-648,Ka&LyDeMe-650
+Ka&LyDeMe-650,STEADY YOUR AIM,,Kane,"Look! He knows where the brothers are, end of story.",,N,Ka&LyDeMe-649,Ka&LyDeMe-651
+Ka&LyDeMe-651,STEADY YOUR AIM,,Lynch,"I think you're losing your focus, old man. And so did Thapa.",,N,Ka&LyDeMe-650,Ka&LyDeMe-652
+Ka&LyDeMe-652,STEADY YOUR AIM,,Thapa,I don't give a shit about Thapa. He's so fucking greedy we're probably better off without him.,,N,Ka&LyDeMe-651,Ka&LyDeMe-653
+Ka&LyDeMe-653,STEADY YOUR AIM,,,[Next scene. The Jungle.],,Y,Ka&LyDeMe-652,Ka&LyDeMe-654
+Ka&LyDeMe-654,STEADY YOUR AIM,,Lynch,Shit. I hate all this walking.,,N,Ka&LyDeMe-653,Ka&LyDeMe-655
+Ka&LyDeMe-655,STEADY YOUR AIM,,Kane,Carlos says this is the safest way in.,,N,Ka&LyDeMe-654,Ka&LyDeMe-656
+Ka&LyDeMe-656,STEADY YOUR AIM,,Lynch,What?! We‘re taking orders from that prick now?,,N,Ka&LyDeMe-655,Ka&LyDeMe-657
+Ka&LyDeMe-657,STEADY YOUR AIM,,,[They go through the jungle.],,Y,Ka&LyDeMe-656,Ka&LyDeMe-658
+Ka&LyDeMe-658,STEADY YOUR AIM,,Kane,So this is it?,,N,Ka&LyDeMe-657,Ka&LyDeMe-659
+Ka&LyDeMe-659,STEADY YOUR AIM,,Carlos,Yeah. You see the hacienda up at the end? That's where the brothers stay.,,N,Ka&LyDeMe-658,Ka&LyDeMe-660
+Ka&LyDeMe-660,STEADY YOUR AIM,,Kane,Looks more like a boot camp to me.,,N,Ka&LyDeMe-659,Ka&LyDeMe-661
+Ka&LyDeMe-661,STEADY YOUR AIM,,Carlos,Well. You know how they are.,,N,Ka&LyDeMe-660,Ka&LyDeMe-662
+Ka&LyDeMe-662,STEADY YOUR AIM,,Kane,Big airfield... trafficking from here too?,,N,Ka&LyDeMe-661,Ka&LyDeMe-663
+Ka&LyDeMe-663,STEADY YOUR AIM,,Carlos,"Of course, but very low key.",,N,Ka&LyDeMe-662,Ka&LyDeMe-664
+Ka&LyDeMe-664,STEADY YOUR AIM,,Kane,No radios?,,N,Ka&LyDeMe-663,Ka&LyDeMe-665
+Ka&LyDeMe-665,STEADY YOUR AIM,,Carlos,"No, none at all. Only Alarm flares to worry about. If we can get in the valley without any going off, we'll have a chance to get to the brothers.",,N,Ka&LyDeMe-664,Ka&LyDeMe-666
+Ka&LyDeMe-666,STEADY YOUR AIM,,Shelly,"All very nice, but where is our payment in all this? We're not leaving empty handed again.",,N,Ka&LyDeMe-665,Ka&LyDeMe-667
+Ka&LyDeMe-667,STEADY YOUR AIM,,Carlos,There’s tons of heroin in the village. You can pick up as much as you can. Just help us into the valley and make sure to secure the airstrip. Quick! Get them before they fire off any ﬂares.,,N,Ka&LyDeMe-666,Ka&LyDeMe-668
+Ka&LyDeMe-668,STEADY YOUR AIM,,Shelly,It hit the cliff!,,N,Ka&LyDeMe-667,Ka&LyDeMe-669
+Ka&LyDeMe-669,STEADY YOUR AIM,,Carlos,"We got lucky with that one. Just be careful when we get to the poppy fields. Great, the bridge is up.",,N,Ka&LyDeMe-668,Ka&LyDeMe-670
+Ka&LyDeMe-670,STEADY YOUR AIM,,Carlos,Don't worry. This gorge is the only plate we can rappel in to the valley.,,N,Ka&LyDeMe-669,Ka&LyDeMe-671
+Ka&LyDeMe-671,STEADY YOUR AIM,,Kane,I need you to come over here.,,N,Ka&LyDeMe-670,Ka&LyDeMe-672
+Ka&LyDeMe-672,STEADY YOUR AIM,,Carlos,We’ll have to take them by surprise. We can't let them get away. The Hacienda is too close. Don't let the jeep get away! We need to kill them all! Quiet. They should be on the other side.,,N,Ka&LyDeMe-671,Ka&LyDeMe-673
+Ka&LyDeMe-673,STEADY YOUR AIM,,Shelly,Who?,,N,Ka&LyDeMe-672,Ka&LyDeMe-674
+Ka&LyDeMe-674,STEADY YOUR AIM,,Lynch,Yeah. What the fuck are you talking about?,,N,Ka&LyDeMe-673,Ka&LyDeMe-675
+Ka&LyDeMe-675,STEADY YOUR AIM,,Kane,Calm down. Carlos contacted some friends before we left. They should be waiting torus on the other side.,,N,Ka&LyDeMe-674,Ka&LyDeMe-676
+Ka&LyDeMe-676,STEADY YOUR AIM,,Lynch,"I bet they are. Kane, are you stupid?",,N,Ka&LyDeMe-675,Ka&LyDeMe-677
+Ka&LyDeMe-677,STEADY YOUR AIM,,Kane,Lynch! These men are loyal to both Carlos and me.,,N,Ka&LyDeMe-676,Ka&LyDeMe-678
+Ka&LyDeMe-678,STEADY YOUR AIM,,Lynch,Loyal? Is that even a real word to you?,,N,Ka&LyDeMe-677,Ka&LyDeMe-679
+Ka&LyDeMe-679,STEADY YOUR AIM,,Carlos,"Lynch. You don't know what you're talking about, so shut up. We need all the help we can get.",,N,Ka&LyDeMe-678,Ka&LyDeMe-680
+Ka&LyDeMe-680,STEADY YOUR AIM,,Lynch,What... You're just sending them away?,,N,Ka&LyDeMe-679,Ka&LyDeMe-681
+Ka&LyDeMe-681,STEADY YOUR AIM,,Carlos,"We need them to go and secure the airfield. We don't want the brothers to slip away, and I think we have a better chance of getting close on our own.",,N,Ka&LyDeMe-680,Ka&LyDeMe-682
+Ka&LyDeMe-682,STEADY YOUR AIM,,Lynch,You want to take the Hacienda? Just us??,,N,Ka&LyDeMe-681,Ka&LyDeMe-683
+Ka&LyDeMe-683,STEADY YOUR AIM,,Carlos,And a few backups.,,N,Ka&LyDeMe-682,Ka&LyDeMe-684
+Ka&LyDeMe-684,STEADY YOUR AIM,,Lynch,That's suicide.,,N,Ka&LyDeMe-683,Ka&LyDeMe-685
+Ka&LyDeMe-685,STEADY YOUR AIM,,Carlos,We won't go head on. We'll create a diversion and slip in.,,N,Ka&LyDeMe-684,Ka&LyDeMe-686
+Ka&LyDeMe-686,STEADY YOUR AIM,,Lynch,A diversion.,,N,Ka&LyDeMe-685,Ka&LyDeMe-687
+Ka&LyDeMe-687,STEADY YOUR AIM,,Carlos,Call it what you want.,,N,Ka&LyDeMe-686,Ka&LyDeMe-688
+Ka&LyDeMe-688,STEADY YOUR AIM,,Lynch,Now where did that fucker go?,,N,Ka&LyDeMe-687,Ka&LyDeMe-689
+Ka&LyDeMe-689,STEADY YOUR AIM,,Kane,He'll be back.,,N,Ka&LyDeMe-688,Ka&LyDeMe-690
+Ka&LyDeMe-690,STEADY YOUR AIM,,Lynch,You don't know that. It's been 15 minutes now.,,N,Ka&LyDeMe-689,Ka&LyDeMe-691
+Ka&LyDeMe-691,STEADY YOUR AIM,,Carlos,I found it.,,N,Ka&LyDeMe-690,Ka&LyDeMe-692
+Ka&LyDeMe-692,STEADY YOUR AIM,,Lynch,Whoa! Keep that thing away from me!,,N,Ka&LyDeMe-691,Ka&LyDeMe-693
+Ka&LyDeMe-693,STEADY YOUR AIM,,Carlos,"Relax. As long as it doesn't receive any bumps, you'll be ok. We'll place it on the main gate and blow it from a distance.",,N,Ka&LyDeMe-692,Ka&LyDeMe-694
+Ka&LyDeMe-694,STEADY YOUR AIM,,Lynch,And then what?,,N,Ka&LyDeMe-693,Ka&LyDeMe-695
+Ka&LyDeMe-695,STEADY YOUR AIM,,Carlos,Then we'll follow the ridge to the back. Is that so fucking hard to understand?,,N,Ka&LyDeMe-694,Ka&LyDeMe-696
+Ka&LyDeMe-696,STEADY YOUR AIM,,Lynch,"Don't patronize me, Carlos.",,N,Ka&LyDeMe-695,Ka&LyDeMe-697
+Ka&LyDeMe-697,STEADY YOUR AIM,,Carlos,This track leads to the main gate. It's the safest approach.,,N,Ka&LyDeMe-696,Ka&LyDeMe-698
+Ka&LyDeMe-699,STEADY YOUR AIM,,Carlos,"Good. Lynch, we will cover you from up here. You rappel down and plant the bomb on the gate.",,N,Ka&LyDeMe-698,Ka&LyDeMe-700
+Ka&LyDeMe-700,STEADY YOUR AIM,,Lynch,What? The hell I won't. You go.,,N,Ka&LyDeMe-699,Ka&LyDeMe-701
+Ka&LyDeMe-701,STEADY YOUR AIM,,Carlos,"Christ! Listen, I'm a much better shot than you are.",,N,Ka&LyDeMe-700,Ka&LyDeMe-702
+Ka&LyDeMe-702,STEADY YOUR AIM,,Lynch,Either you go yourself or I'll fucking kill you now!,,N,Ka&LyDeMe-701,Ka&LyDeMe-703
+Ka&LyDeMe-703,STEADY YOUR AIM,,Carlos,Easy crazy boy.,,N,Ka&LyDeMe-702,Ka&LyDeMe-704
+Ka&LyDeMe-704,STEADY YOUR AIM,,Kane,Carlos. We'll cover you.,,N,Ka&LyDeMe-703,Ka&LyDeMe-705
+Ka&LyDeMe-705,STEADY YOUR AIM,,Carlos,"Ok, I’ll do It. Why the hell dill we bring him?",,N,Ka&LyDeMe-704,Ka&LyDeMe-706
+Ka&LyDeMe-706,STEADY YOUR AIM,,Lynch,Just get a move on. Carlos.,,N,Ka&LyDeMe-705,Ka&LyDeMe-707
+Ka&LyDeMe-707,STEADY YOUR AIM,,Kane,Lynch! I'm only sending Carlos because I know you would fuck up.,,N,Ka&LyDeMe-706,Ka&LyDeMe-708
+Ka&LyDeMe-708,STEADY YOUR AIM,,Lynch,Whatever. As long as it’s not me crawling around with that mine.,,N,Ka&LyDeMe-707,Ka&LyDeMe-709
+Ka&LyDeMe-709,STEADY YOUR AIM,,Kane,Move!,,N,Ka&LyDeMe-708,Ka&LyDeMe-710
+Ka&LyDeMe-710,STEADY YOUR AIM,,Carlos,Just give me a second.,,N,Ka&LyDeMe-709,Ka&LyDeMe-711
+Ka&LyDeMe-711,STEADY YOUR AIM,,Kane,"Ok, good.",,N,Ka&LyDeMe-710,Ka&LyDeMe-712
+Ka&LyDeMe-712,STEADY YOUR AIM,,Carlos,Soy yo Carlos.,,N,Ka&LyDeMe-711,Ka&LyDeMe-713
+Ka&LyDeMe-713,STEADY YOUR AIM,,Kane,Carlos? You with me?,,N,Ka&LyDeMe-712,Ka&LyDeMe-714
+Ka&LyDeMe-714,STEADY YOUR AIM,,Lynch,Fuck! I told you. Didn't I?,,N,Ka&LyDeMe-713,Ka&LyDeMe-715
+Ka&LyDeMe-715,STEADY YOUR AIM,,Kane,Carlos! What's happening?,,N,Ka&LyDeMe-714,Ka&LyDeMe-716
+Ka&LyDeMe-716,STEADY YOUR AIM,,Lynch,That fucking traitor...,,N,Ka&LyDeMe-715,Ka&LyDeMe-717
+Ka&LyDeMe-717,STEADY YOUR AIM,,Kane,We have to move fast.,,N,Ka&LyDeMe-716,Ka&LyDeMe-718
+Ka&LyDeMe-718,STEADY YOUR AIM,,Lynch,"You idiot. You just won't accept it, will you. You shouldn't have trusted him.",,N,Ka&LyDeMe-717,Ka&LyDeMe-719
+Ka&LyDeMe-719,STEADY YOUR AIM,,Kane,I said let's move!,,N,Ka&LyDeMe-718,Ka&LyDeMe-720
+Ka&LyDeMe-720,STEADY YOUR AIM,,Shelly,I'll bet they're waiting to us.,,N,Ka&LyDeMe-719,Ka&LyDeMe-721
+Ka&LyDeMe-721,STEADY YOUR AIM,,Radio,It's Carlos. How the hell did he get out of Havana?,,N,Ka&LyDeMe-720,Ka&LyDeMe-722
+Ka&LyDeMe-722,STEADY YOUR AIM,,Radio,You're lucky I'm here...,,N,Ka&LyDeMe-721,Ka&LyDeMe-723
+Ka&LyDeMe-723,STEADY YOUR AIM,,Lynch,"Wait, wait, hold on. What are they saying?",,N,Ka&LyDeMe-722,Ka&LyDeMe-724
+Ka&LyDeMe-724,STEADY YOUR AIM,,Radio,You see what I said? Kane is probably here as well. When are you finally gonna listen to me?,,N,Ka&LyDeMe-723,Ka&LyDeMe-725
+Ka&LyDeMe-725,STEADY YOUR AIM,,Radio,Trae a Jenny aqui arriba. AHORA!,,N,Ka&LyDeMe-724,Ka&LyDeMe-726
+Ka&LyDeMe-726,STEADY YOUR AIM,,Lynch,"Wait, wait, wait, wait. Did he just say Jenny?",,N,Ka&LyDeMe-725,Ka&LyDeMe-727
+Ka&LyDeMe-727,STEADY YOUR AIM,,Radio,"Asegurate que la chica este arreglada, queremos que Kane la retonozca si nos atata.",,N,Ka&LyDeMe-726,Ka&LyDeMe-728
+Ka&LyDeMe-728,STEADY YOUR AIM,,Kane,Fuck! They found her! I'm gonna rip their heads off.,,N,Ka&LyDeMe-727,Ka&LyDeMe-729
+Ka&LyDeMe-729,STEADY YOUR AIM,,Lynch,I told you it was a bad idea to send her out like that.,,N,Ka&LyDeMe-728,Ka&LyDeMe-730
+Ka&LyDeMe-730,STEADY YOUR AIM,,Kane,Lynch! Don't fucking go there!,,N,Ka&LyDeMe-729,Ka&LyDeMe-731
+Ka&LyDeMe-731,STEADY YOUR AIM,,,[Kane and Lynch go the hacienda.],,Y,Ka&LyDeMe-730,Ka&LyDeMe-732
+Ka&LyDeMe-732,STEADY YOUR AIM,,Radio,"Sorry old friend. I'll miss you, but you shouldn't have listened to Kane.",,N,Ka&LyDeMe-731,Ka&LyDeMe-733
+Ka&LyDeMe-733,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lynch,Fuck. What was that?,,N,Ka&LyDeMe-732,Ka&LyDeMe-734
+Ka&LyDeMe-734,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,Carlos... They just shot Carlos.,,N,Ka&LyDeMe-733,Ka&LyDeMe-735
+Ka&LyDeMe-735,YOU SHOULDN'T HAVE LISTENED TO KANE,,,[They find Kane’s daughter.],,Y,Ka&LyDeMe-734,Ka&LyDeMe-736
+Ka&LyDeMe-736,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,"Jenny? Jenny, are you hurt?",,N,Ka&LyDeMe-735,Ka&LyDeMe-737
+Ka&LyDeMe-737,YOU SHOULDN'T HAVE LISTENED TO KANE,,Thapa,Step back. One more false move and I’ll kill you.,,N,Ka&LyDeMe-736,Ka&LyDeMe-738
+Ka&LyDeMe-738,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,Just let her go.,,N,Ka&LyDeMe-737,Ka&LyDeMe-739
+Ka&LyDeMe-739,YOU SHOULDN'T HAVE LISTENED TO KANE,,Man with beard,"Kane, what's wrong with you? Look what you're putting your little girl through. And your old friend Carlos.",,N,Ka&LyDeMe-738,Ka&LyDeMe-740
+Ka&LyDeMe-740,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,Leave her alone!,,N,Ka&LyDeMe-739,Ka&LyDeMe-741
+Ka&LyDeMe-741,YOU SHOULDN'T HAVE LISTENED TO KANE,,Thapa,Leave her alone? Do you hear that? That's Kane's favorite solution.,,N,Ka&LyDeMe-740,Ka&LyDeMe-742
+Ka&LyDeMe-742,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lynch, Kane. The mine.,(whispers) ,N,Ka&LyDeMe-741,Ka&LyDeMe-743
+Ka&LyDeMe-743,YOU SHOULDN'T HAVE LISTENED TO KANE,,,[Kane shoots it.],,Y,Ka&LyDeMe-742,Ka&LyDeMe-744
+Ka&LyDeMe-744,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,Jenny! That little fuck took her!,,N,Ka&LyDeMe-743,Ka&LyDeMe-745
+Ka&LyDeMe-745,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lynch,Take cover! We’ll get her back.,,N,Ka&LyDeMe-744,Ka&LyDeMe-746
+Ka&LyDeMe-746,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,He's getting away!,,N,Ka&LyDeMe-745,Ka&LyDeMe-747
+Ka&LyDeMe-747,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lynch,Kane! He won't get far! Shelly and Rific got the airfield.,,N,Ka&LyDeMe-746,Ka&LyDeMe-748
+Ka&LyDeMe-748,YOU SHOULDN'T HAVE LISTENED TO KANE,,Shelly, C’mon! They're heading for the airfield. Get in now!,(on a jeep) ,N,Ka&LyDeMe-747,Ka&LyDeMe-749
+Ka&LyDeMe-749,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lynch,Where the fuck did you come from?,,N,Ka&LyDeMe-748,Ka&LyDeMe-750
+Ka&LyDeMe-750,YOU SHOULDN'T HAVE LISTENED TO KANE,,,[Kane gets in the jeep.],,Y,Ka&LyDeMe-749,Ka&LyDeMe-751
+Ka&LyDeMe-751,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lynch,We've been trying to contact you for 30 minutes now. The others got ambushed in the village. It's all fucked. Listen! (we hear the shootout on the radio],,N,Ka&LyDeMe-750,Ka&LyDeMe-752
+Ka&LyDeMe-752,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,I don't give a fuck about the men! He's got my daughter and a fucking plane waiting for him! Just shut that thing off and drive!,,N,Ka&LyDeMe-751,Ka&LyDeMe-753
+Ka&LyDeMe-753,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lynch,Kane! We can't leave them to die!,,N,Ka&LyDeMe-752,Ka&LyDeMe-754
+Ka&LyDeMe-754,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,"Look, without his brother around, that scumbag could do anything to her.",,N,Ka&LyDeMe-753,Ka&LyDeMe-755
+Ka&LyDeMe-755,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lynch,Shelly! Rific! Can you hear me? We're on our way. It's fucked. They can't hear us. No. I think some of it is slipping through.,,N,Ka&LyDeMe-754,Ka&LyDeMe-756
+Ka&LyDeMe-756,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,Shut up! I think I see them!,,N,Ka&LyDeMe-755,Ka&LyDeMe-757
+Ka&LyDeMe-757,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lynch,Is Jenny there?,,N,Ka&LyDeMe-756,Ka&LyDeMe-758
+Ka&LyDeMe-758,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,She has to be!,,N,Ka&LyDeMe-757,Ka&LyDeMe-759
+Ka&LyDeMe-759,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lynch,This is it. It's straight ahead. Shit. They closed the gates.,,N,Ka&LyDeMe-758,Ka&LyDeMe-760
+Ka&LyDeMe-760,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,Let's just get off and fight our way in.,,N,Ka&LyDeMe-759,Ka&LyDeMe-761
+Ka&LyDeMe-761,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lunch,No wait! We can get around the fence.,,N,Ka&LyDeMe-760,Ka&LyDeMe-762
+Ka&LyDeMe-762,YOU SHOULDN'T HAVE LISTENED TO KANE,,Kane,Get a fucking move on!,,N,Ka&LyDeMe-761,Ka&LyDeMe-763
+Ka&LyDeMe-763,YOU SHOULDN'T HAVE LISTENED TO KANE,,Lunch,There's more on the right! There's mare on the left! There's more on the right!,,N,Ka&LyDeMe-762,Ka&LyDeMe-764
+Ka&LyDeMe-764,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,,[Kane and Lynch chasing the plane with Jenny on board...],,Y,Ka&LyDeMe-763,Ka&LyDeMe-765
+Ka&LyDeMe-765,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Get a move on! Faster! She's on that plane. Don't you get it?!,,N,Ka&LyDeMe-764,Ka&LyDeMe-766
+Ka&LyDeMe-766,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,Relax I’m trying. I can't go any faster! We're nearly there! Here we got! Shoot out the engines. Keep an eye on the towers! Just shoot the engines!,,N,Ka&LyDeMe-765,Ka&LyDeMe-767
+Ka&LyDeMe-767,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Faster!! It's taking off!,,N,Ka&LyDeMe-766,Ka&LyDeMe-768
+Ka&LyDeMe-768,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lunch,Alright! Get the other one! It's stopping!,,N,Ka&LyDeMe-767,Ka&LyDeMe-769
+Ka&LyDeMe-769,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Let's tucking finish this.,,N,Ka&LyDeMe-768,Ka&LyDeMe-770
+Ka&LyDeMe-770,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,,[Kane gets out of the jeep.],,Y,Ka&LyDeMe-769,Ka&LyDeMe-771
+Ka&LyDeMe-772,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,You stay here. I'm gonna kill him myself. Jenny!,,N,Ka&LyDeMe-771,Ka&LyDeMe-773
+Ka&LyDeMe-773,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,Kane! Don’t you get it? She doesn’t wanna be saved by you.,,N,Ka&LyDeMe-772,Ka&LyDeMe-774
+Ka&LyDeMe-774,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,"Jenny! I'm coming to get you. Jenny! Just hang in there! It'll be over soon! Jenny? Jenny. I'm here now. Are you alright? Baby, let me hold you...",,N,Ka&LyDeMe-773,Ka&LyDeMe-775
+Ka&LyDeMe-775,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Jenny," Get the fuck away from me, you murderer!",(pointing a gun at him) ,N,Ka&LyDeMe-774,Ka&LyDeMe-776
+Ka&LyDeMe-776,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,What? But why...,,N,Ka&LyDeMe-775,Ka&LyDeMe-777
+Ka&LyDeMe-777,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Jenny,I said get the fuck away.,,N,Ka&LyDeMe-776,Ka&LyDeMe-778
+Ka&LyDeMe-778,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Jenny. I'm your father.,,N,Ka&LyDeMe-777,Ka&LyDeMe-779
+Ka&LyDeMe-779,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Jenny,Shut up! I should fucking kill you! You abandoned us...,,N,Ka&LyDeMe-778,Ka&LyDeMe-780
+Ka&LyDeMe-780,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,"Honey. I'm sorry, I...",,N,Ka&LyDeMe-779,Ka&LyDeMe-781
+Ka&LyDeMe-781,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Jenny,For 14 years! Until we get dragged from bed and mom gets shot because of some shit you have done.,,N,Ka&LyDeMe-780,Ka&LyDeMe-782
+Ka&LyDeMe-782,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Where did you go?,,N,Ka&LyDeMe-781,Ka&LyDeMe-783
+Ka&LyDeMe-783,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Jenny,"The police of course. They told me you were a murderer, running from death row! Then the brothers found me and told me what you did to them.",,N,Ka&LyDeMe-782,Ka&LyDeMe-784
+Ka&LyDeMe-784,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,"Jenny, these men...",,N,Ka&LyDeMe-783,Ka&LyDeMe-785
+Ka&LyDeMe-785,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Jenny,You fucking traitor! Why couldn't you just die...,,N,Ka&LyDeMe-784,Ka&LyDeMe-786
+Ka&LyDeMe-786,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,"I will... But first I'm getting you out of here, if you hate me or not. You understand? But we have to move fast.",,N,Ka&LyDeMe-785,Ka&LyDeMe-787
+Ka&LyDeMe-787,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,,[Kane lead Jenny out of the plane.],,Y,Ka&LyDeMe-786,Ka&LyDeMe-788
+Ka&LyDeMe-788,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Just stay close to me. It will all be over soon. Careful. We'll be gone soon. Just a little longer. Can you make it?,,N,Ka&LyDeMe-787,Ka&LyDeMe-789
+Ka&LyDeMe-789,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Jenny,"I don't have a fucking choice, do I?",,N,Ka&LyDeMe-788,Ka&LyDeMe-790
+Ka&LyDeMe-790,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,Hang in there! We're close!! How many of you are left? I repeat. How many of you are left? Come in...,,N,Ka&LyDeMe-789,Ka&LyDeMe-791
+Ka&LyDeMe-791,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,"They can't hear you, Lynch. Let's just get to the chopper.",,N,Ka&LyDeMe-790,Ka&LyDeMe-792
+Ka&LyDeMe-792,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,But what about the men? We can't just ﬂy out.,,N,Ka&LyDeMe-791,Ka&LyDeMe-793
+Ka&LyDeMe-793,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Jenny. Follow me.  I swore I'd kill them all... I swore I’d fix this... I could get her out now. I don't owe them shit! They all knew the risk. But I'll have to let them burn. Not in front of her.,(to himself) ,N,Ka&LyDeMe-792,Ka&LyDeMe-794
+Ka&LyDeMe-794,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,Kane!! Kane. What's it gonna be?,,N,Ka&LyDeMe-793,Ka&LyDeMe-795
+Ka&LyDeMe-795,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Fuck it.,,N,Ka&LyDeMe-794,Ka&LyDeMe-796
+Ka&LyDeMe-796,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,,"[At this point, we are offered a choice - to fly away by helicopter or save Kane’s team. They go to the village.]",,Y,Ka&LyDeMe-795,Ka&LyDeMe-797
+Ka&LyDeMe-797,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Jenny! This way.,,N,Ka&LyDeMe-796,Ka&LyDeMe-798
+Ka&LyDeMe-798,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,What? You want to bring her along?,,N,Ka&LyDeMe-797,Ka&LyDeMe-799
+Ka&LyDeMe-799,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,"She stays with me, Jenny. I promise everything will be ok.",,N,Ka&LyDeMe-798,Ka&LyDeMe-800
+Ka&LyDeMe-800,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,I fucking hope you know what you're doing.,,N,Ka&LyDeMe-799,Ka&LyDeMe-801
+Ka&LyDeMe-801,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Lynch. I don't leave people to burn. Not anymore.,,N,Ka&LyDeMe-800,Ka&LyDeMe-802
+Ka&LyDeMe-802,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Rific, Kane? Lynch? Carlos? This is Rific.,(through the radio) ,N,Ka&LyDeMe-801,Ka&LyDeMe-803
+Ka&LyDeMe-803,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,"Rific, I'm coming to get you out. Who's with you?",,N,Ka&LyDeMe-802,Ka&LyDeMe-804
+Ka&LyDeMe-804,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,"Kane, it's no use. They can't hear you.",,N,Ka&LyDeMe-803,Ka&LyDeMe-805
+Ka&LyDeMe-805,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Rific, Kane! This is Rific. We're burning down here. They can't hear us. Fuck. I can't believe we didn't see this shit coming. He's going to let us burn. Kane! We need you down here now!,(through the radio) ,N,Ka&LyDeMe-804,Ka&LyDeMe-806
+Ka&LyDeMe-806,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Shelly," The fucker isn't coming back. Kane, you fucking traitor! You're not getting away with this! You piece of shit.",(through the radio) ,N,Ka&LyDeMe-805,Ka&LyDeMe-807
+Ka&LyDeMe-807,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Jenny. Stay close to me. We have to get them out.,,N,Ka&LyDeMe-806,Ka&LyDeMe-808
+Ka&LyDeMe-808,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,"Kane, this is seriously wrong.",,N,Ka&LyDeMe-807,Ka&LyDeMe-809
+Ka&LyDeMe-809,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,"Shut up. I'm gonna fix this. She'll be fine. Just stay close to me. Don't attract attention, but shoot to kill if you have to.",,N,Ka&LyDeMe-808,Ka&LyDeMe-810
+Ka&LyDeMe-810,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Rific," Kane!! We're firing off alarm ﬂares now. It you can hear me, get us out. We're trapped in the church on the hill.",(through the radio) ,N,Ka&LyDeMe-809,Ka&LyDeMe-811
+Ka&LyDeMe-811,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Shelly, Fuck Kane. He ran with it all. The son of a bitch.,(through the radio) ,N,Ka&LyDeMe-810,Ka&LyDeMe-812
+Ka&LyDeMe-812,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,Look! The ﬂare! Careful!! He's hit. Get some help over there.,,N,Ka&LyDeMe-811,Ka&LyDeMe-813
+Ka&LyDeMe-813,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,I know. But we can't just rush into this.,,N,Ka&LyDeMe-812,Ka&LyDeMe-814
+Ka&LyDeMe-814,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,You think we can get up those stairs? What a fucking lousy way to die. I'm gonna miss you. Fuck. There's only Shelly left. We don't wanna give her more than one of those. She's too small.,,N,Ka&LyDeMe-813,Ka&LyDeMe-815
+Ka&LyDeMe-815,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Jenny,Fuck! I'm bleeding. Fuck! You got me shot!,,N,Ka&LyDeMe-814,Ka&LyDeMe-816
+Ka&LyDeMe-816,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,Don't worry. You'll be fine.,,N,Ka&LyDeMe-815,Ka&LyDeMe-817
+Ka&LyDeMe-817,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Jenny,Fine? Fuck you! I'm gonna bleed to death. We'll never get away from here.,,N,Ka&LyDeMe-816,Ka&LyDeMe-818
+Ka&LyDeMe-818,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,,[They find the church.],,Y,Ka&LyDeMe-817,Ka&LyDeMe-819
+Ka&LyDeMe-819,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane, Don't shoot! It's me!,(to Shelly) ,N,Ka&LyDeMe-818,Ka&LyDeMe-820
+Ka&LyDeMe-820,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Shelly,Kane? Where the fuck have you been?,,N,Ka&LyDeMe-819,Ka&LyDeMe-821
+Ka&LyDeMe-821,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,We lost your signal. We didn't know.,,N,Ka&LyDeMe-820,Ka&LyDeMe-822
+Ka&LyDeMe-822,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch, Easy now. It's just a minor wound.,(to Jenny) ,N,Ka&LyDeMe-821,Ka&LyDeMe-823
+Ka&LyDeMe-823,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Shelly,"You didn't know? Kane. I heard you “I don't give a FUCK about the men. Just shut that thing off and drive"".",,N,Ka&LyDeMe-822,Ka&LyDeMe-824
+Ka&LyDeMe-824,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane, Don't panic. Just stay close to me. I'll make sure it doesn't happen again.  Shelly. I had to get my daughter.,(to Jenny) (to Shelly) ,N,Ka&LyDeMe-823,Ka&LyDeMe-825
+Ka&LyDeMe-825,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Doesn't matter. You're gonna die here too.,,N,Ka&LyDeMe-824,Ka&LyDeMe-826
+Ka&LyDeMe-826,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,"We got here, didn't we? So you show some fucking gratitude.",,N,Ka&LyDeMe-825,Ka&LyDeMe-827
+Ka&LyDeMe-827,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Shelly,"You idiot! We're fucking trapped here, for fuck's sake!! Stay trapped then. There's some boats at the pier. We’ll never get away from here.",,N,Ka&LyDeMe-826,Ka&LyDeMe-828
+Ka&LyDeMe-828,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,,[They fight their way out.],,Y,Ka&LyDeMe-827,Ka&LyDeMe-829
+Ka&LyDeMe-829,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,Come on. The pier’s burning. We have to hurry. Kane! I think Jenny is in trouble...,,N,Ka&LyDeMe-828,Ka&LyDeMe-830
+Ka&LyDeMe-830,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,Jenny… Are you ok? Oh Goddammit. She's slipping away. I'll have to carry her. She can't be dead.,,N,Ka&LyDeMe-829,Ka&LyDeMe-831
+Ka&LyDeMe-831,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,Kane. She's dead.,,N,Ka&LyDeMe-830,Ka&LyDeMe-832
+Ka&LyDeMe-832,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,SHUT UP!! SHE'S NOT DEAD! I JUST TOLD YOU.,,N,Ka&LyDeMe-831,Ka&LyDeMe-833
+Ka&LyDeMe-833,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,Fuck you Kane. I owe you nothing. That fucking boat's mine!,,N,Ka&LyDeMe-832,Ka&LyDeMe-834
+Ka&LyDeMe-834,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Shelly,"Kane, she's dead, for fuck's sake.",,N,Ka&LyDeMe-833,Ka&LyDeMe-835
+Ka&LyDeMe-835,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,You just stay here or I'll kill you.,,N,Ka&LyDeMe-834,Ka&LyDeMe-836
+Ka&LyDeMe-836,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,,[They make it to the boat.],,Y,Ka&LyDeMe-835,Ka&LyDeMe-837
+Ka&LyDeMe-837,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,"She'll be OK, Lynch. We got her out. I know she's gonna be OK.",,N,Ka&LyDeMe-836,Ka&LyDeMe-838
+Ka&LyDeMe-838,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Lynch,"Fuck you, Kane!  You should have taken that chopper. It was her only chance, just deal with it. You didn't even fucking know her.",(got shot) ,N,Ka&LyDeMe-837,Ka&LyDeMe-839
+Ka&LyDeMe-839,YOU SHOULDN'T HAVE LISTENED TO KANE,I CAN’T GO ANY FASTER!,Kane,"Jenny. Listen. I wrote you a letter. I have it here somewhere. It isn't finished. I wanted to send it to you, but there wasn't time. I know I should have written it earlier…",,N,Ka&LyDeMe-838,Ka&LyDeMe-840

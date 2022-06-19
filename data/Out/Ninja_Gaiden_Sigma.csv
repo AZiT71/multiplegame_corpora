@@ -1,0 +1,212 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+NiGaSi-2,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-1,NiGaSi-3
+NiGaSi-3,﻿CHAPTER 1: THE WAY OF THE NINJA,,Ryu (looking at corpse),This Ninja had gaping holes in his defenses... He never would have been able to survive this world anyway.,,N,NiGaSi-2,NiGaSi-4
+NiGaSi-4,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-3,NiGaSi-5
+NiGaSi-5,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[The door to a sacred altar used to worship local deities. There doesn't seem to be any way to open it at this time.],,Y,NiGaSi-4,NiGaSi-6
+NiGaSi-6,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-5,NiGaSi-7
+NiGaSi-7,﻿CHAPTER 1: THE WAY OF THE NINJA,,Tip from Ayane,"A Ninja must be able to find his way even when his path is blocked. When facing an obstacle, jump towards it and run vertically up its side until you can grab its upper edge. Move to the left or right and climb up or drop down.",,N,NiGaSi-6,NiGaSi-8
+NiGaSi-8,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-7,NiGaSi-9
+NiGaSi-9,﻿CHAPTER 1: THE WAY OF THE NINJA,,Tip from Ayane,Use the R3 button to enter first-person camera mode. A ninja must always be aware of his environment.,,N,NiGaSi-8,NiGaSi-10
+NiGaSi-10,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-9,NiGaSi-11
+NiGaSi-11,﻿CHAPTER 1: THE WAY OF THE NINJA,,Tip from Ayane,"Don't underestimate the agility that your training has given you. Feats such as running along walls should be simple for you to perform. If you cannot reach your destination with a single leap, make use of the surrounding walls.",,N,NiGaSi-10,NiGaSi-12
+NiGaSi-12,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-11,NiGaSi-13
+NiGaSi-13,﻿CHAPTER 1: THE WAY OF THE NINJA,,Tip from Ayane,One of your most useful techniques is the Flying Bird Flip. Jump towards a wall and run up it. then jump off again. This allows you to travel to areas that may first seem unreachable. Repeat the Flying Bird Flip to climb certain shafts and passages.,,N,NiGaSi-12,NiGaSi-14
+NiGaSi-14,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-13,NiGaSi-15
+NiGaSi-15,﻿CHAPTER 1: THE WAY OF THE NINJA,,Tip from Ayane,Some ledges or platforms above you can be reached simply by jumping towards them and running straight up. A Ninja must know the appropriate technique to use in every situation. Remember that unnecessary acrobatics may backfire on you.,,N,NiGaSi-14,NiGaSi-16
+NiGaSi-16,﻿CHAPTER 1: THE WAY OF THE NINJA,,Tip from Ayane,Deflect your opponents’ attacks by holding down the block button. You will not live long without a good defense.,,N,NiGaSi-15,NiGaSi-17
+NiGaSi-17,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-16,NiGaSi-18
+NiGaSi-18,﻿CHAPTER 1: THE WAY OF THE NINJA,,,"[A suit of armor of the type that is often used for ceremonies, it is not something that a Ninja would wear. A part of its faceplate is missing. It appears to be holding something...]",,Y,NiGaSi-17,NiGaSi-19
+NiGaSi-19,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-18,NiGaSi-20
+NiGaSi-20,﻿CHAPTER 1: THE WAY OF THE NINJA,,Tip from Ayane,"Use right and left on the directional button to select an item, and press down to use it. You may heal you wounds without taking your mind off of your task.",,N,NiGaSi-19,NiGaSi-21
+NiGaSi-21,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-20,NiGaSi-22
+NiGaSi-22,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[There is a message engraved on the tablet in the dragon's mouth],,Y,NiGaSi-21,NiGaSi-23
+NiGaSi-24,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-23,NiGaSi-25
+NiGaSi-25,﻿CHAPTER 1: THE WAY OF THE NINJA,,Tip from Ayane,"While in a blocking stance, tilt the left stick to roll your body. This is called the Reverse Wind technique. With it you can avoid even the most fierce of enemy attacks.",,N,NiGaSi-24,NiGaSi-26
+NiGaSi-26,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-25,NiGaSi-27
+NiGaSi-27,﻿CHAPTER 1: THE WAY OF THE NINJA,,???,I see you have made it this far.,,N,NiGaSi-26,NiGaSi-28
+NiGaSi-28,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[After battle],,Y,NiGaSi-27,NiGaSi-29
+NiGaSi-29,﻿CHAPTER 1: THE WAY OF THE NINJA,,???,The Dragon Sword... so уоur father is still In the sacred wilderness.,,N,NiGaSi-28,NiGaSi-30
+NiGaSi-30,﻿CHAPTER 1: THE WAY OF THE NINJA,,Ryu,Yes. He has entrusted me with the sword while he continues his training. He never seems satisfied with the power he wields.,,N,NiGaSi-29,NiGaSi-31
+NiGaSi-31,﻿CHAPTER 1: THE WAY OF THE NINJA,,???,"Someday you will come to understand the pursuit power. Perhaps beginning with your training here. And what of the sister blade, the Dark Dragon? Has he left you in charge of protecting it as well?",,N,NiGaSi-30,NiGaSi-32
+NiGaSi-32,﻿CHAPTER 1: THE WAY OF THE NINJA,,Ryu,It remains in the village under the protection of my father’s clan. They will ensure that the sword remains untouched... Its dark power sealed.,,N,NiGaSi-31,NiGaSi-33
+NiGaSi-33,﻿CHAPTER 1: THE WAY OF THE NINJA,,???,"It is shame that such a sword must go untouched. Such power unused... Alas, I am not of the Dragon Lineage. The sword is not of my concern.",,N,NiGaSi-32,NiGaSi-34
+NiGaSi-34,﻿CHAPTER 1: THE WAY OF THE NINJA,,Ayane,Master Murai! The Hayabusa village...! Master Ryu...,,N,NiGaSi-33,NiGaSi-35
+NiGaSi-35,﻿CHAPTER 1: THE WAY OF THE NINJA,,,[GAMEPLAY],,Y,NiGaSi-34,NiGaSi-36
+NiGaSi-37,CHAPTER 2: THE HAYABUSA VILLAGE,,,[Letter from Murai],,Y,NiGaSi-36,NiGaSi-38
+NiGaSi-39,CHAPTER 2: THE HAYABUSA VILLAGE,,Tip from Ayane,"When entering water, continue to hold the left stick. You will run on the surface. You must perfect this skill. If you let go of the left stick you will fall in the water.",,N,NiGaSi-38,NiGaSi-40
+NiGaSi-40,CHAPTER 2: THE HAYABUSA VILLAGE,,,[GAMEPLAY],,Y,NiGaSi-39,NiGaSi-41
+NiGaSi-41,CHAPTER 2: THE HAYABUSA VILLAGE,,Ayane,A dark samurai... Clad in black armor... Master Ryu... Do not attempt to fight it...,,N,NiGaSi-40,NiGaSi-42
+NiGaSi-42,CHAPTER 2: THE HAYABUSA VILLAGE,,,[GAMEPLAY],,Y,NiGaSi-41,NiGaSi-43
+NiGaSi-43,CHAPTER 2: THE HAYABUSA VILLAGE,,,"[A statue of the diligent old man Muramasa, a legendary blacksmith. There are folk tales of people who have approached the statue and walked away with various items and weapons...]",,Y,NiGaSi-42,NiGaSi-44
+NiGaSi-44,CHAPTER 2: THE HAYABUSA VILLAGE,,,[GAMEPLAY],,Y,NiGaSi-43,NiGaSi-45
+NiGaSi-45,CHAPTER 2: THE HAYABUSA VILLAGE,,Murai,"My network of Ninja have uncovered the reason for the attack. The samurai who burned the village was Doku, Lord of the Greater Fiends of the Vigoor Empire. It appears as though the Vigoor Emperor seeks the power of the Dark Dragon Blade.",,N,NiGaSi-44,NiGaSi-46
+NiGaSi-46,CHAPTER 2: THE HAYABUSA VILLAGE,,Ryu,Doku...,,N,NiGaSi-45,NiGaSi-47
+NiGaSi-47,CHAPTER 3: SKIES OF VENGEANCE,,"“The Hayabusa Village has burned, and the Dark Dragon Blade is gone. Ryu has stowed aboard an Airship headed for the Vigoor Empire. His goal",vengeance...”,,N,NiGaSi-46,NiGaSi-48
+NiGaSi-48,CHAPTER 3: SKIES OF VENGEANCE,,Ayane,The Holy Vigoor Empire... a strange dictatorship veiled in secrecy. Its exclusionist foreign policy makes for very few ways to enter the country. One of the only remaining routes is by airship to the capital city of Tairon.,,N,NiGaSi-47,NiGaSi-49
+NiGaSi-49,CHAPTER 3: SKIES OF VENGEANCE,,Radio,"We’ve received reports of a hostile malefactor crossing the Vigoor border. A search will be conducted immediately. Maintain course and velocity. I repeat, maintain current course and velocity.",,N,NiGaSi-48,NiGaSi-50
+NiGaSi-50,CHAPTER 3: SKIES OF VENGEANCE,,,[TECHNIQUE SCROLLS],,Y,NiGaSi-49,NiGaSi-51
+NiGaSi-54,-IZUNA DROP,,Tip from Ayane,"You must strengthen your weapon. Awaken its Inner power to a greater level, and you will be able to perform devastating new techniques.",,N,NiGaSi-53,NiGaSi-55
+NiGaSi-55,-IZUNA DROP,,Tip from Ayane,"When casting Ninpo, shake the controller. The force of this will add to the strength of your Ninpo attacks.",,N,NiGaSi-54,NiGaSi-56
+NiGaSi-56,-IZUNA DROP,,,[A report from a junior officer lies on the captain's desk],,Y,NiGaSi-55,NiGaSi-57
+NiGaSi-60,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Ayane,"You must go now to Han’s Bar. You should be able to spot it easily due to its garish neon sign. Han's Bar is a well-known watering hole, as well as the center of Vigoor’s underground intelligence. There you may find clues about Doku’s whereabouts.",,N,NiGaSi-59,NiGaSi-61
+NiGaSi-61,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Tip from Ayane,"When in doubt, look to the color blue for the path.",,N,NiGaSi-60,NiGaSi-62
+NiGaSi-63,CHAPTER 4: IMPERIAL CITY INFILTRATION,,,[The History of Vigoor I],,Y,NiGaSi-62,NiGaSi-64
+NiGaSi-65,CHAPTER 4: IMPERIAL CITY INFILTRATION,,,[The History of Vigoor II],,Y,NiGaSi-64,NiGaSi-66
+NiGaSi-67,CHAPTER 4: IMPERIAL CITY INFILTRATION,,,[The History of Vigoor III],,Y,NiGaSi-66,NiGaSi-68
+NiGaSi-69,CHAPTER 4: IMPERIAL CITY INFILTRATION,,,[The History of Vigoor IV],,Y,NiGaSi-68,NiGaSi-70
+NiGaSi-71,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Soldier on motorcycle,Do you have a ticket for the party?,,N,NiGaSi-70,NiGaSi-72
+NiGaSi-72,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Rachel,"I'm Rachel, hunter and slayer of Fiends. So that was a Fiend. You don't see them much nowadays... It’s hard to believe they were ever human, isn't it?",,N,NiGaSi-71,NiGaSi-73
+NiGaSi-73,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Ryu,Human?,,N,NiGaSi-72,NiGaSi-74
+NiGaSi-74,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Rachel,"Anyone with susceptibility to the curse, whether they are a saint or a sinner, can succumb to it and become a Fiend.",,N,NiGaSi-73,NiGaSi-75
+NiGaSi-75,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Ryu,So what does that make you?,,N,NiGaSi-74,NiGaSi-76
+NiGaSi-76,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Rachel,Complex. And you?,,N,NiGaSi-75,NiGaSi-77
+NiGaSi-77,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Ryu,I'm looking for a Greater Fiend named Doku. Do you know him?,,N,NiGaSi-76,NiGaSi-78
+NiGaSi-78,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Rachel,Why are you looking for him?,,N,NiGaSi-77,NiGaSi-79
+NiGaSi-79,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Ryu,I’m going to kill him.,,N,NiGaSi-78,NiGaSi-80
+NiGaSi-80,CHAPTER 4: IMPERIAL CITY INFILTRATION,,Rachel,You have no idea what you're up against do you? If he could be killed I would have done it myself long ago. He was the one that took my sister from me.  It’s gonna be a busy night.,(hears something) ,N,NiGaSi-79,NiGaSi-81
+NiGaSi-81,CHAPTER 4: IMPERIAL CITY INFILTRATION,,???,"You seem to have quite a way with the ladies, my friend. Don’t mind me, I’m just passing by. By the way, Good luck with that Doku guy. Sounds like you're going to need it. Oh, and I know Rachel quite well. She'll be just fine.",,N,NiGaSi-80,NiGaSi-82
+NiGaSi-83,CHAPTER 5: THE FIEND HUNTER,,,[GAMEPLAY],,Y,NiGaSi-82,NiGaSi-84
+NiGaSi-84,CHAPTER 5: THE FIEND HUNTER,,Rachel,"In an age when chaos ruled all, the bloodlines of all the Ancient Tribes were mixed, and their traits were passed on to the Fiends. Then there were the twin Fiend sisters: Nicchae, Fiend of Destruction, and Ishtaros, Fiend of Creation. The bloodline they began invited the Awakening of an entire new race of Fiends. Those who have Awakened to become Fiends may only find freedom in death. Only in death...",,N,NiGaSi-83,NiGaSi-85
+NiGaSi-85,CHAPTER 5: THE FIEND HUNTER,,,[GAMEPLAY],,Y,NiGaSi-84,NiGaSi-86
+NiGaSi-86,CHAPTER 6: THE CITY OF FIENDS,,“Tairon Is full of mysteries,"strange creatures called Fiends and Rachel the Fiend Hunter. However, Ryu still has no clues to the whereabouts of Doku...”",,N,NiGaSi-85,NiGaSi-87
+NiGaSi-87,CHAPTER 6: THE CITY OF FIENDS,,,[GAMEPLAY],,Y,NiGaSi-86,NiGaSi-88
+NiGaSi-88,CHAPTER 6: THE CITY OF FIENDS,,Tip from Ayane,"If you wish to follow Doku, first investigate the Monastery. It is located in the Dworku district across the drawbridge.",,N,NiGaSi-87,NiGaSi-89
+NiGaSi-89,CHAPTER 6: THE CITY OF FIENDS,,,"[The Emperor, Lord of All Creation]",,Y,NiGaSi-88,NiGaSi-90
+NiGaSi-91,CHAPTER 6: THE CITY OF FIENDS,,,[GAMEPLAY],,Y,NiGaSi-90,NiGaSi-92
+NiGaSi-92,CHAPTER 6: THE CITY OF FIENDS,,Tip from Ayane,"I have brought a legendary weapon to Tairon, a weapon known only by a select few. I have hidden It in a dark alley, in a location where only a Ninja will be able to reach it. I suggest that you find it and make use of it.",,N,NiGaSi-91,NiGaSi-93
+NiGaSi-93,CHAPTER 6: THE CITY OF FIENDS,,,[GAMEPLAY],,Y,NiGaSi-92,NiGaSi-94
+NiGaSi-94,CHAPTER 6: THE CITY OF FIENDS,,Tip from Ayane,"Run along the wall, jump to another wall, and keep running to reach higher areas. This is the continuous wall running technique. Practice until yоu have perfected it.",,N,NiGaSi-93,NiGaSi-95
+NiGaSi-95,CHAPTER 6: THE CITY OF FIENDS,,,[GAMEPLAY],,Y,NiGaSi-94,NiGaSi-96
+NiGaSi-96,CHAPTER 6: THE CITY OF FIENDS,,Rachel,Not bad. So what exactly are you? You’re much more powerful than just a human.,,N,NiGaSi-95,NiGaSi-97
+NiGaSi-97,CHAPTER 6: THE CITY OF FIENDS,,Ryu,"My strength comes from training, not from some curse in my blood.",,N,NiGaSi-96,NiGaSi-98
+NiGaSi-98,CHAPTER 6: THE CITY OF FIENDS,,Rachel,Are you so sure of that? I was convinced once that my blood was pure... but then I saw what my pure blood was capable of. I watched as my twin sister was cursed and twisted into a Greater Fiend. Now I know the path I walk is narrow.,,N,NiGaSi-97,NiGaSi-99
+NiGaSi-99,CHAPTER 6: THE CITY OF FIENDS,,Ryu,Doku.,,N,NiGaSi-98,NiGaSi-100
+NiGaSi-100,CHAPTER 6: THE CITY OF FIENDS,,Rachel,"Не led her down the path of evil, and she succumbed. Fiends are pitiful beings, destined to live forever, slaves to the forces of evil. And there is only one way to release them...",,N,NiGaSi-99,NiGaSi-101
+NiGaSi-101,CHAPTER 6: THE CITY OF FIENDS,,Ryu,...to kill them.,,N,NiGaSi-100,NiGaSi-102
+NiGaSi-102,CHAPTER 6: THE CITY OF FIENDS,,Rachel,"That’s why I became a Hunter, to kill my sister, to kill Alma. Beneath this monastery, there is...",,N,NiGaSi-101,NiGaSi-103
+NiGaSi-103,CHAPTER 6: THE CITY OF FIENDS,,,[GAMEPLAY],,Y,NiGaSi-102,NiGaSi-104
+NiGaSi-104,CHAPTER 6: THE CITY OF FIENDS,,Ryu,Was that a Fiend as well?,,N,NiGaSi-103,NiGaSi-105
+NiGaSi-105,CHAPTER 6: THE CITY OF FIENDS,,Rachel,I’ve never seen one like that before... something’s strange... there’s so many of them...,,N,NiGaSi-104,NiGaSi-106
+NiGaSi-106,CHAPTER 6: THE CITY OF FIENDS,,Ryu,Ayane. Running errands for Murai again. I see.,,N,NiGaSi-105,NiGaSi-107
+NiGaSi-107,CHAPTER 6: THE CITY OF FIENDS,,Ayane,"The boldness of the Fiends is the work of the Dark Dragon. It is a cursed blade, bestowing an unfathomable strength on those wicked enough to wield it. As we speak, its power is growing.",,N,NiGaSi-106,NiGaSi-108
+NiGaSi-108,CHAPTER 6: THE CITY OF FIENDS,,Rachel,That would explain the stirring in my blood...,,N,NiGaSi-107,NiGaSi-109
+NiGaSi-109,CHAPTER 6: THE CITY OF FIENDS,,Ayane,"Blood. It dominates all humankind, assisted by the power of the Fiends.",,N,NiGaSi-108,NiGaSi-110
+NiGaSi-110,CHAPTER 6: THE CITY OF FIENDS,,Ryu,"Ayane, take care of Rachel.",,N,NiGaSi-109,NiGaSi-111
+NiGaSi-111,CHAPTER 6: THE CITY OF FIENDS,,Ayane,Understood.,,N,NiGaSi-110,NiGaSi-112
+NiGaSi-112,CHAPTER 6: THE CITY OF FIENDS,,Rachel,Ryu! I’ve heard there is a hidden path under the Monastery that leads to the Emperor’s Palace! Doku will also be there...,,N,NiGaSi-111,NiGaSi-113
+NiGaSi-113,CHAPTER 6: THE CITY OF FIENDS,,Emperor,Gamov... so the Dark Dragon grows in power with each killing.,,N,NiGaSi-112,NiGaSi-114
+NiGaSi-114,CHAPTER 6: THE CITY OF FIENDS,,Gamov,"Of that there is no doubt, My Excellency.",,N,NiGaSi-113,NiGaSi-115
+NiGaSi-115,CHAPTER 6: THE CITY OF FIENDS,,Emperor,Then I have arrived just in time.,,N,NiGaSi-114,NiGaSi-116
+NiGaSi-116,CHAPTER 6: THE CITY OF FIENDS,,Gamov,Yes. My Excellency. As always provide you with only the most reliable information.,,N,NiGaSi-115,NiGaSi-117
+NiGaSi-117,CHAPTER 6: THE CITY OF FIENDS,,Emperor,The Blade grows stronger and faster than I had expected.,,N,NiGaSi-116,NiGaSi-118
+NiGaSi-119,CHAPTER 7: THE MONASTERY,,,[GAMEPLAY],,Y,NiGaSi-118,NiGaSi-120
+NiGaSi-120,CHAPTER 7: THE MONASTERY,,,[THE DIARY OF THE INCREDIBLY DUMB MONK],,Y,NiGaSi-119,NiGaSi-121
+NiGaSi-122,CHAPTER 7: THE MONASTERY,,A diary written by a monk,"""It is the 27TH day of the 12TH month, I have received the Book of the Eons as a birthday gift from His Majesty the Emperor. It is a great honor. I shall place it in the safe that no one will take it."" At the end of the entry, there are notes reading LEFT, RIGHT, RIGHT, LEFT.",,N,NiGaSi-121,NiGaSi-123
+NiGaSi-124,CHAPTER 7: THE MONASTERY,,On the last page there is a hastily scribbled message,"""I cannot believe it. Someone has opened the safe. The Book of the Eons I had received from the Emperor himself was stolen. In order to prevent this from ever happening again, I shall change the combination. The date of my daughter's birthday should suffice."" At the end of the message, there are notes reading RIGHT, LEFT, RIGHT, LEFT. A message was found on one of the previous pages: ""It is the 14TH day of the 10TH month, my beloved daughter's birthday. I remember her birth as if it were yesterday. What a glorious event that was!""",,N,NiGaSi-123,NiGaSi-125
+NiGaSi-126,CHAPTER 7: THE MONASTERY,,On the last page there is yet another scribbled note,"""My safe has been tampered with again! I have no choice but to change the number once again; this time I shall use my granddaughter's birthday. December 23RD, yes, I think that's right. No one will break into my safe again!"" At the end of the entry, there are noted reading LEFT, LEFT, RIGHT, LEFT.",,N,NiGaSi-125,NiGaSi-127
+NiGaSi-128,CHAPTER 7: THE MONASTERY,,"On the last page, there a faint barely readable entry","""That safe is worth about as much as a dog turd.""",,N,NiGaSi-127,NiGaSi-129
+NiGaSi-129,CHAPTER 7: THE MONASTERY,,,[GAMEPLAY],,Y,NiGaSi-128,NiGaSi-130
+NiGaSi-130,CHAPTER 7: THE MONASTERY,,Ryu,Chilly air can bу left from below. Could this be related to the underground passage that Rachel spoke about?,,N,NiGaSi-129,NiGaSi-131
+NiGaSi-131,CHAPTER 7: THE MONASTERY,,,[GAMEPLAY],,Y,NiGaSi-130,NiGaSi-132
+NiGaSi-132,CHAPTER 7: THE MONASTERY,,,[A giant switch is embedded in the floor of the shaft. A strong impact with a weapon should be able to depress it.],,Y,NiGaSi-131,NiGaSi-133
+NiGaSi-133,"CHAPTER 8: ALMA, GREATER FIEND",,“Rachel continues searching for her sister in Vigoor’s capital. She is suddenly confronted by an inhuman form,Alma the Greater Fiend finally makes her appearance...”,,N,NiGaSi-132,NiGaSi-134
+NiGaSi-134,"CHAPTER 8: ALMA, GREATER FIEND",,,[SUKE’S DIARY],,Y,NiGaSi-133,NiGaSi-135
+NiGaSi-139,February 7th,,,[GAMEPLAY],,Y,NiGaSi-138,NiGaSi-140
+NiGaSi-140,February 7th,,Gamov,So strong! So beautiful! How wonderful both of you sisters are!,,N,NiGaSi-139,NiGaSi-141
+NiGaSi-141,February 7th,,Rachel,Gamov!,,N,NiGaSi-140,NiGaSi-142
+NiGaSi-142,February 7th,,Gamov,Oh yes... The older one has quite a temper. Alma is such a nice and innocent girl. Lord Doku seems to be quite pleased with her.,,N,NiGaSi-141,NiGaSi-143
+NiGaSi-143,February 7th,,Rachel,You bastard!,,N,NiGaSi-142,NiGaSi-144
+NiGaSi-144,February 7th,,Gamov,"It seems my evaluation was correct, as always.",,N,NiGaSi-143,NiGaSi-145
+NiGaSi-145,February 7th,,,[GAMEPLAY],,Y,NiGaSi-144,NiGaSi-146
+NiGaSi-146,February 7th,,Rachel,Alma!,,N,NiGaSi-145,NiGaSi-147
+NiGaSi-148,CHAPTER 9: HIDDEN UNDERGROUND,,,[GAMEPLAY],,Y,NiGaSi-147,NiGaSi-149
+NiGaSi-149,CHAPTER 9: HIDDEN UNDERGROUND,,Tip from Ayane,"When underwater, pay close attention to the breath gauge. If you run out of breath your strength will soon be sapped.",,N,NiGaSi-148,NiGaSi-150
+NiGaSi-150,CHAPTER 9: HIDDEN UNDERGROUND,,,[TARO'S DIARY],,Y,NiGaSi-149,NiGaSi-151
+NiGaSi-154,February 8,,,[GAMEPLAY],,Y,NiGaSi-153,NiGaSi-155
+NiGaSi-155,February 8,,Tip from Ayane,The place reeks with stench of a powerful Fiend. Do not let it overcome you... and be careful.,,N,NiGaSi-154,NiGaSi-156
+NiGaSi-156,February 8,,,[GAMEPLAY],,Y,NiGaSi-155,NiGaSi-157
+NiGaSi-157,February 8,,Rachel,I couldn't do it... I can't kill my own sister...,,N,NiGaSi-156,NiGaSi-158
+NiGaSi-158,February 8,,Radio,Internal Affairs National Security Forces:The Dworku Monastery has been attacked and has suffered extreme damage. Request full alert throughout Tairon. The dispatch order has been received from Tairon High Command. This is a Code Orange situation. Set up a curfew for all civilians. Request available information on the target. No new information at this time.,,N,NiGaSi-157,NiGaSi-159
+NiGaSi-159,February 8,,Ryu,"So, the Greater Fiends have a soul, don’t they?",,N,NiGaSi-158,NiGaSi-160
+NiGaSi-160,February 8,,Rachel,Yes...,,N,NiGaSi-159,NiGaSi-161
+NiGaSi-161,February 8,,Rachel,"They are the ones who retain a spirit even after becoming Fiends. There are only 3 of them: Doku, my sister and another who guards the Emperor.",,N,NiGaSi-160,NiGaSi-162
+NiGaSi-162,February 8,,Ryu,It's not safe for you to be around me. You should go now.,,N,NiGaSi-161,NiGaSi-163
+NiGaSi-163,February 8,,The Dark Samurai,"Aah, Rachel. I should kill you now for the pain you have inflicted on Alma, but instead I shall use you to make her even stronger. It will be your blood. The cursed blood of a twin sister, that shall serve to awaken Alma. It is a shame such a fine specimen has to go to waste... you might have become more powerful than even Alma... but no longer...",,N,NiGaSi-162,NiGaSi-164
+NiGaSi-165,CHAPTER 10: TAIRON UNDER ALERT ,,Tip from Ayane,"Tairon is now under alert. You are completely surrounded and the situation is grave, but you should bo able to disrupt the military's organization by attacking the Radio Control Tower next to the Military Supply Base. To reach the Supply Base, you must first cross the drawbridge. That is where your path should lead you.",,N,NiGaSi-164,NiGaSi-166
+NiGaSi-167,CHAPTER 11: THE MILITARY SUPPLY BASE ,,Tip from Ayane,The military’s communications are down and their organization is in shambles. Now is the time to escape the base. Resistance around the train turntable is low and it is the perfect time to steal a train. The rail runs through the Dworku district!,,N,NiGaSi-166,NiGaSi-168
+NiGaSi-168,CHAPTER 11: THE MILITARY SUPPLY BASE ,,Tip from Ayane,Your path lies this way.,,N,NiGaSi-167,NiGaSi-169
+NiGaSi-170,CHAPTER 12: THE AQUADUCT,,Tip from Ayane,"You will soon come to the end of this underground maze. From this point on, carelessness brings only death.",,N,NiGaSi-169,NiGaSi-171
+NiGaSi-172,CHAPTER 13: THE PATH TO ZARKHAN,,Doku,"Aaa, the failed protector of the Dark Dragon. Must I take your life yet again?",,N,NiGaSi-171,NiGaSi-173
+NiGaSi-173,CHAPTER 13: THE PATH TO ZARKHAN,,,[SABU'S DIARY],,Y,NiGaSi-172,NiGaSi-174
+NiGaSi-176,January 25,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-175,NiGaSi-177
+NiGaSi-177,January 25,I think I might not be cut out to be a Ninja...,Ryu,Where is the Dark Dragon!,,N,NiGaSi-176,NiGaSi-178
+NiGaSi-178,January 25,I think I might not be cut out to be a Ninja...,Doku,"It Is in the hands of the Holy Vigoor Emperor, your true master. You see, young Ryu, you are not so different from us. Those of the Dragon Lineage like yourself draw their blood from the same Ancient Deities as the Fiends. You most of all should know that your true place is at the Emperor's side. My hatred will not so easily defeated! I will bring about the Awakening! Pitiful woman... your sister must be quite precious to you...",,N,NiGaSi-177,NiGaSi-179
+NiGaSi-179,January 25,I think I might not be cut out to be a Ninja...,Rachel,The Fiendish... Awakening...,,N,NiGaSi-178,NiGaSi-180
+NiGaSi-181,CHAPTER 14: THE ANCIENT TWIN DEITIES,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-180,NiGaSi-182
+NiGaSi-182,CHAPTER 14: THE ANCIENT TWIN DEITIES,I think I might not be cut out to be a Ninja...,,[The surface of the pedestal contains a depression. It looks like was meant to display a tablet of some sort.],,Y,NiGaSi-181,NiGaSi-183
+NiGaSi-183,CHAPTER 14: THE ANCIENT TWIN DEITIES,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-182,NiGaSi-184
+NiGaSi-185,CHAPTER 15: THE CAVERNS,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-184,NiGaSi-186
+NiGaSi-186,CHAPTER 15: THE CAVERNS,I think I might not be cut out to be a Ninja...,,"[The Corpse of a Ninja, killed before he was complete his mission. He holding something... (Saru’s Diary)]",,Y,NiGaSi-185,NiGaSi-187
+NiGaSi-187,CHAPTER 15: THE CAVERNS,I think I might not be cut out to be a Ninja...,,[SARU'S DIARY],,Y,NiGaSi-186,NiGaSi-188
+NiGaSi-191,February 12,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-190,NiGaSi-192
+NiGaSi-194,February 12,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-193,NiGaSi-195
+NiGaSi-196,February 12,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-195,NiGaSi-197
+NiGaSi-197,February 12,I think I might not be cut out to be a Ninja...,,[The mold on the other side of the wall has been filled with molten iron.],,Y,NiGaSi-196,NiGaSi-198
+NiGaSi-198,February 12,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-197,NiGaSi-199
+NiGaSi-199,CHAPTER 16: THE FIENDISH AWAKENING,I think I might not be cut out to be a Ninja...,“All events thus far have lead up to one place,the depths of the Palace of Zarkhan. Will Ryu be able to discover the path inside?”,,N,NiGaSi-198,NiGaSi-200
+NiGaSi-200,CHAPTER 16: THE FIENDISH AWAKENING,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-199,NiGaSi-201
+NiGaSi-201,CHAPTER 16: THE FIENDISH AWAKENING,I think I might not be cut out to be a Ninja...,,"[The corpse of a Ninja, killed before he was able to complite his mission. He holding something... (San's Diary)]",,Y,NiGaSi-200,NiGaSi-202
+NiGaSi-202,CHAPTER 16: THE FIENDISH AWAKENING,I think I might not be cut out to be a Ninja...,,[SAN'S DIARY],,Y,NiGaSi-201,NiGaSi-203
+NiGaSi-203,January 30,I think I might not be cut out to be a Ninja...,"I have gathered some new information. According to the ancient legends of this place, ""he who offers the lost stone tablet to the Twin Serpents may gain entrance to Zarkhan."" The tablet, now apparently split into three pieces, is said to have been scattered throughout Vigoor. I was able to learn the locations of the pieces",One is at the Twin Serpents Plaza in Tairon. One is in the Archive on the Monastery. One is near the Stone Circle in the Magma Cavern. I must gather the fragments and then begin my approach to Zarkhan.,,N,NiGaSi-202,NiGaSi-204
+NiGaSi-205,February 5,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-204,NiGaSi-206
+NiGaSi-206,February 5,I think I might not be cut out to be a Ninja...,Emperior,There is Ryu?,,N,NiGaSi-205,NiGaSi-207
+NiGaSi-207,February 5,I think I might not be cut out to be a Ninja...,Gamov,"He's wandering around here somewhere, My Excellency. Who knows what he's up to...",,N,NiGaSi-206,NiGaSi-208
+NiGaSi-208,February 5,I think I might not be cut out to be a Ninja...,Emperior,And the Dark Dragon?,,N,NiGaSi-207,NiGaSi-209
+NiGaSi-209,February 5,I think I might not be cut out to be a Ninja...,Gamov,"To put it simply, it seems that the Dark Dragon, now free of its seal, is gradually absorbing the chaos of the battlefield and becoming a truly evil blade. It is not surprising that we did not know its true capacity, as the Ancients were so careful to conceal it. Now it is a weapon of extraordinary power, the likes of which have never been seen throughout human history. Whoever posses it...",,N,NiGaSi-208,NiGaSi-210
+NiGaSi-210,February 5,I think I might not be cut out to be a Ninja...,Emperior,Do I sense greed in your voice?,,N,NiGaSi-209,NiGaSi-211
+NiGaSi-211,February 5,I think I might not be cut out to be a Ninja...,Gamov,"Of course not, Excellency.",,N,NiGaSi-210,NiGaSi-212
+NiGaSi-212,February 5,I think I might not be cut out to be a Ninja...,Emperior,"Good, that is wise. You will be rewarded handsomely, I assure you.",,N,NiGaSi-211,NiGaSi-213
+NiGaSi-213,February 5,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-212,NiGaSi-214
+NiGaSi-214,February 5,I think I might not be cut out to be a Ninja...,,[The message engraved on the tablet is now complete],,Y,NiGaSi-213,NiGaSi-215
+NiGaSi-216,February 5,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-215,NiGaSi-217
+NiGaSi-217,February 5,I think I might not be cut out to be a Ninja...,Doku's Spirit,"Alma... with your own flesh and blood as sacrifice, receive now the Awakening! Now, the time of the Awakening is truly at hand!",,N,NiGaSi-216,NiGaSi-218
+NiGaSi-218,February 5,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-217,NiGaSi-219
+NiGaSi-219,February 5,I think I might not be cut out to be a Ninja...,Rachel,Al.. ma..,,N,NiGaSi-218,NiGaSi-220
+NiGaSi-220,February 5,I think I might not be cut out to be a Ninja...,Doku's Spirit,This is not over.,,N,NiGaSi-219,NiGaSi-221
+NiGaSi-222,CHAPTER 17: VENGEFUL SPIRIT,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-221,NiGaSi-223
+NiGaSi-223,CHAPTER 17: VENGEFUL SPIRIT,I think I might not be cut out to be a Ninja...,Marbus,"Welcome to the hellish depth of the Fiend Realm. The question is: ""Can you defeat me?""",,N,NiGaSi-222,NiGaSi-224
+NiGaSi-224,CHAPTER 17: VENGEFUL SPIRIT,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-223,NiGaSi-225
+NiGaSi-225,CHAPTER 17: VENGEFUL SPIRIT,I think I might not be cut out to be a Ninja...,Tip from Ayane,Ancient fish like a shrouded phantoms: you must harness the fury of your Flail to destroy them. Just remember to keep you wits about you.,,N,NiGaSi-224,NiGaSi-226
+NiGaSi-226,CHAPTER 17: VENGEFUL SPIRIT,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-225,NiGaSi-227
+NiGaSi-227,CHAPTER 17: VENGEFUL SPIRIT,I think I might not be cut out to be a Ninja...,,"[The corpse of a Ninja, killed before he was able to complete his mission. He is holding something... (Gen's Diary)]",,Y,NiGaSi-226,NiGaSi-228
+NiGaSi-228,CHAPTER 17: VENGEFUL SPIRIT,I think I might not be cut out to be a Ninja...,,[GEN'S DIARY],,Y,NiGaSi-227,NiGaSi-229
+NiGaSi-232,February 29,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-231,NiGaSi-233
+NiGaSi-233,February 29,I think I might not be cut out to be a Ninja...,Doku's Spirit,Receive the curse. Become a Fiend...,,N,NiGaSi-232,NiGaSi-234
+NiGaSi-235,CHAPTER 18: THE CORE,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-234,NiGaSi-236
+NiGaSi-236,CHAPTER 18: THE CORE,I think I might not be cut out to be a Ninja...,Ninja,"So... you are... Ryu Hayabusa... Over the corpses of my Black Spider Clan brethren, I was able to make it this close to the Core. But I can not go on. Though it dishonors me, I give you this... Go to the Core. You must reclaim Vigoor. The equilibrium is collapsing... Master, I have failed... Forgive me...",,N,NiGaSi-235,NiGaSi-237
+NiGaSi-237,CHAPTER 18: THE CORE,I think I might not be cut out to be a Ninja...,,[This Ninja looks like he has survived many battles. Who could have injured such a man so badly... He holding something... (Dai's Diary)],,Y,NiGaSi-236,NiGaSi-238
+NiGaSi-238,CHAPTER 18: THE CORE,I think I might not be cut out to be a Ninja...,,[DAI'S DIARY],,Y,NiGaSi-237,NiGaSi-239
+NiGaSi-242,February 29,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-241,NiGaSi-243
+NiGaSi-243,February 29,I think I might not be cut out to be a Ninja...,Ayane,What will he discover at the end of his journey? Appeasement for his vengeful heart? Or something else... The true battle is only just beginning...,,N,NiGaSi-242,NiGaSi-244
+NiGaSi-244,February 29,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-243,NiGaSi-245
+NiGaSi-245,February 29,I think I might not be cut out to be a Ninja...,Marbus,"My servants, return from the Underworld, and take care of this puny insect once and for all!",,N,NiGaSi-244,NiGaSi-246
+NiGaSi-246,February 29,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-245,NiGaSi-247
+NiGaSi-247,February 29,I think I might not be cut out to be a Ninja...,Marbus,You're as weak as I thought.,,N,NiGaSi-246,NiGaSi-248
+NiGaSi-248,February 29,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-247,NiGaSi-249
+NiGaSi-249,February 29,I think I might not be cut out to be a Ninja...,Marbus,How do you like this?,,N,NiGaSi-248,NiGaSi-250
+NiGaSi-250,February 29,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-249,NiGaSi-251
+NiGaSi-251,February 29,I think I might not be cut out to be a Ninja...,Marbus,"That's it, it's time for me to take you on personally!",,N,NiGaSi-250,NiGaSi-252
+NiGaSi-252,February 29,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-251,NiGaSi-253
+NiGaSi-253,February 29,I think I might not be cut out to be a Ninja...,Emperor,"Enough of this, your insignificant life ends here.",,N,NiGaSi-252,NiGaSi-254
+NiGaSi-254,February 29,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-253,NiGaSi-255
+NiGaSi-256,CHAPTER 19: THE DARK DRAGON BLADE,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-255,NiGaSi-257
+NiGaSi-257,CHAPTER 19: THE DARK DRAGON BLADE,I think I might not be cut out to be a Ninja...,Rachel,Ryu! Ryu!,,N,NiGaSi-256,NiGaSi-258
+NiGaSi-258,CHAPTER 19: THE DARK DRAGON BLADE,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-257,NiGaSi-259
+NiGaSi-259,CHAPTER 19: THE DARK DRAGON BLADE,I think I might not be cut out to be a Ninja...,Emperor,"Ryu, I expected nothing less! However, the power of the Dark Dragon is wasted on you!",,N,NiGaSi-258,NiGaSi-260
+NiGaSi-260,CHAPTER 19: THE DARK DRAGON BLADE,I think I might not be cut out to be a Ninja...,Gamov,Don't you see? The Dark Dragon is now truly an evil blade. His Excellency the Dark Disciple has been waiting for this very moment!,,N,NiGaSi-259,NiGaSi-261
+NiGaSi-261,CHAPTER 19: THE DARK DRAGON BLADE,I think I might not be cut out to be a Ninja...,Emperor,"You've done well, Gamov.",,N,NiGaSi-260,NiGaSi-262
+NiGaSi-262,CHAPTER 19: THE DARK DRAGON BLADE,I think I might not be cut out to be a Ninja...,Ryu,Murai.,,N,NiGaSi-261,NiGaSi-263
+NiGaSi-263,CHAPTER 19: THE DARK DRAGON BLADE,I think I might not be cut out to be a Ninja...,Murai,"The Dark Dragon is mine! No objection, I presume...",,N,NiGaSi-262,NiGaSi-264
+NiGaSi-264,CHAPTER 19: THE DARK DRAGON BLADE,I think I might not be cut out to be a Ninja...,,[GAMEPLAY],,Y,NiGaSi-263,NiGaSi-265
+NiGaSi-265,CHAPTER 19: THE DARK DRAGON BLADE,I think I might not be cut out to be a Ninja...,Rachel,Ryu...,,N,NiGaSi-264,NiGaSi-266
+NiGaSi-266,CHAPTER 19: THE DARK DRAGON BLADE,I think I might not be cut out to be a Ninja...,Ryu,It's over...,,N,NiGaSi-265,NiGaSi-267

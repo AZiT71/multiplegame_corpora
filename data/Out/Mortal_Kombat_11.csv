@@ -1,0 +1,1241 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+MoKo11-1,,,﻿Sonya Blade,"As you were. For twenty-five years, the Special Forces have been Earthrealm’s sword and shield. We’ve pushed back Shao Kahn. Defeated Shinnok. Yet none of our Victories have come without cost. Recently, Commander Jackson Briggs was honorably discharged. His wounds, both physical and psychological, left him no longer fit to serve. We honor Jacqui’s father, and we honor his sacrifice, by doing what he would do -- tirelessly defend Earthrealm. Sergeant Cage, step forward. Your leadership and warfighting ability have earned you promotion to Commander. But there are no family favors here. By Special Forces tradition, you have to pass one last test.",,N,,MoKo11-2
+MoKo11-2,,,Cassie Cage,"I need to kick the CO’s ass, ma’am. Your ass, ma'am.",,N,MoKo11-1,MoKo11-3
+MoKo11-3,,,Sonya Blade,"All right then, Sergeant. Let’s see if you can take me.",,N,MoKo11-2,MoKo11-4
+MoKo11-4,,,,[CASSIE CAGE VS SONYA BLADE],,Y,MoKo11-3,MoKo11-5
+MoKo11-5,,,Cassie Cage,"Commander Cage, reporting for duty.",,N,MoKo11-4,MoKo11-6
+MoKo11-6,,,Sonya Blade,"Congratulations, Commander.",,N,MoKo11-5,MoKo11-7
+MoKo11-7,,,,[Johnny Cage approaches. He hugs Cassie.],,Y,MoKo11-6,MoKo11-8
+MoKo11-8,,,Cassie Cage,"C’mon, dad. You really have to go?",,N,MoKo11-7,MoKo11-9
+MoKo11-9,,,Johnny Cage,"You’ve got your duty, ‘Commander’. I’ve got mine.",,N,MoKo11-8,MoKo11-10
+MoKo11-10,,,Sonya Blade,Starring in yet another Ninja Mime sequel isn’t what I’d call duty.,,N,MoKo11-9,MoKo11-11
+MoKo11-11,,,Johnny Cage,I need to provide for you in the manner to which you've become accustomed.,,N,MoKo11-10,MoKo11-12
+MoKo11-12,,,,[They kiss.],,Y,MoKo11-11,MoKo11-13
+MoKo11-13,,,Cassie Cage,Geez guys. I’m right here.,,N,MoKo11-12,MoKo11-14
+MoKo11-14,,,,[Suddenly Evil Raiden appears.],,Y,MoKo11-13,MoKo11-15
+MoKo11-15,,,Evil Raiden,General Blade. Cassandra Cage.,,N,MoKo11-14,MoKo11-16
+MoKo11-16,,,Cassie Cage,What is it Raiden?,,N,MoKo11-15,MoKo11-17
+MoKo11-17,,,Evil Raiden,The Netherrealm.,,N,MoKo11-16,MoKo11-18
+MoKo11-18,,,,[They go to the headquarters.],,Y,MoKo11-17,MoKo11-19
+MoKo11-19,,,Cassie Cage,We should open a dialogue. Maybe there’s an explanation. Liu Kang and Kitana were friends once.,,N,MoKo11-18,MoKo11-20
+MoKo11-20,,,Evil Raiden,They are irreparably polluted by Shinnok’s evil. They are no longer the champions we once knew We must strike them preemptively.,,N,MoKo11-19,MoKo11-21
+MoKo11-21,,,Sonya Blade,It's about time we brought the fight to them. What’s the target?,,N,MoKo11-20,MoKo11-22
+MoKo11-22,,,Evil Raiden,"Burned deep beneath Liu Kang and Kitana’s castle is the Cathedral of Shinnok, the seat of their power. Destroy it and their undead army will fall, removing its threat to Earthrealm.",,N,MoKo11-21,MoKo11-23
+MoKo11-23,,,Cassie Cage,Aren't your powers weaker in the Netherrealm?,,N,MoKo11-22,MoKo11-24
+MoKo11-24,,,Evil Raiden,Yes. But I will have sufficient strength to occupy the undead army.,,N,MoKo11-23,MoKo11-25
+MoKo11-25,,,Sonya Blade,That'll buy us enough time to infiltrate the Cathedral. Destroy it from the inside.,,N,MoKo11-24,MoKo11-26
+MoKo11-26,,,Cassie Cage,"We get pinned down in there, there’s no way out.",,N,MoKo11-25,MoKo11-27
+MoKo11-27,,,Evil Raiden,"To ensure Earthrealm's survival, we must all be willing to sacrifice.",,N,MoKo11-26,MoKo11-28
+MoKo11-28,,,Johnny Cage,"Y'know it's been two years too much of your grim and gritty makeover, droning on about sacrifice. You don’t have a family to lose.",,N,MoKo11-27,MoKo11-29
+MoKo11-29,,,Evil Raiden,"I know loss, Johnny Cage.",,N,MoKo11-28,MoKo11-30
+MoKo11-30,,,Sonya Blade,"Raiden’s right, Johnny. We're not ready for another war. We’ve got to take out Netherrealm’s army now, before Liu Kang can bring it here.",,N,MoKo11-29,MoKo11-31
+MoKo11-31,,,,"[Evil Raiden teleports Sonya, Cassie and her army to battle against armies of demons.]",,Y,MoKo11-30,MoKo11-32
+MoKo11-32,,,Cassie Cage,We’re in position. Hope Raiden’s planned one helluva diversion.,,N,MoKo11-31,MoKo11-33
+MoKo11-33,,,Evil Raiden,Withdraw! Or feel the wrath of Earthrealm’s Protector!,,N,MoKo11-32,MoKo11-34
+MoKo11-34,,,,"[He uses Shinnok’s amulet and destroys several creatures. Meanwhile, resurrected Liu Kang and Kitana are watching the battle from a tower nearby. They sent reinforcements – Kabal and Jade along with fresh demons meat to beat.]",,Y,MoKo11-33,MoKo11-35
+MoKo11-35,,,Jade," Should Raiden get this far, eliminate him.",(to Kabal) ,N,MoKo11-34,MoKo11-36
+MoKo11-36,,,Cassie Cage,That burn victim's Kabal? Wasn’t he Kano’s goon back in the day?,,N,MoKo11-35,MoKo11-37
+MoKo11-37,,,Sonya Blade,Don’t let the scars fool you. He’s fast. Take out him and Jade. I’ll go downstairs and set the C4.,,N,MoKo11-36,MoKo11-38
+MoKo11-38,,,Cassie Cage,Roger that.,,N,MoKo11-37,MoKo11-39
+MoKo11-39,,,,"[They begin a massive attack on the tower. Surprisingly soldiers using the battle formation and tactics, so they don’t die very often. Rain enters the battle, fast as the wind. He kills one of the soldiers.]",,Y,MoKo11-38,MoKo11-40
+MoKo11-40,,,Sonya Blade,Move! Charges on every column!,,N,MoKo11-39,MoKo11-41
+MoKo11-41,,,Kabal (to Cassie),You're a dead ringer for your mother.,,N,MoKo11-40,MoKo11-42
+MoKo11-42,,,Cassie Cage,"I'll kick your ass on her behalf, Kabal.",,N,MoKo11-41,MoKo11-43
+MoKo11-43,,,,[CASSIE CAGE VS KABAL],,Y,MoKo11-42,MoKo11-44
+MoKo11-44,,,Cassie Cage,"You lose as fast as you run. Jacqui, where's Jade?",,N,MoKo11-43,MoKo11-45
+MoKo11-45,,,Jacqui Briggs,"She bailed. Getting help, I'm sure.",,N,MoKo11-44,MoKo11-46
+MoKo11-46,,,Cassie Cage,"General, how we doing?",,N,MoKo11-45,MoKo11-47
+MoKo11-47,,,Sonya Blade,Need ten minutes. The support columns are further apart than expected.,,N,MoKo11-46,MoKo11-48
+MoKo11-48,,,Cassie Cage,You need help?,,N,MoKo11-47,MoKo11-49
+MoKo11-49,,,Sonya Blade,Negative. Just watch our back.,,N,MoKo11-48,MoKo11-50
+MoKo11-50,,,Jacqui Briggs,Ten more minutes? We needed to be tail-lights in five.,,N,MoKo11-49,MoKo11-51
+MoKo11-51,,,,[They hear a scream coming from somewhere above.],,Y,MoKo11-50,MoKo11-52
+MoKo11-52,,,Cassie Cage,"Well we’re in the shit now. We have extra C4, yeah?",,N,MoKo11-51,MoKo11-53
+MoKo11-53,,,Jacqui Briggs,Yeah. Why?,,N,MoKo11-52,MoKo11-54
+MoKo11-54,,,Cassie Cage,Let's buy ourselves time.,,N,MoKo11-53,MoKo11-55
+MoKo11-55,,,,"[Meanwhile, the Evil Raiden is battling hordes of demons outside. Jade walks up to the resurrected Kitana and Liu Kang.]",,Y,MoKo11-54,MoKo11-56
+MoKo11-56,,,Jade,Emperor! Empress! Earthrealmers have captured the Bone Temple!,,N,MoKo11-55,MoKo11-57
+MoKo11-57,,,Resurrected Kitana,But Raiden --,,N,MoKo11-56,MoKo11-58
+MoKo11-58,,,Resurrected Liu Kang,He's the diversion!,,N,MoKo11-57,MoKo11-59
+MoKo11-59,,,,[Cassie sets the C4.],,Y,MoKo11-58,MoKo11-60
+MoKo11-60,,,Cassie Cage,Lock and load.,,N,MoKo11-59,MoKo11-61
+MoKo11-61,,,Sonya Blade,What's going on up there?!,,N,MoKo11-60,MoKo11-62
+MoKo11-62,,,Cassie Cage,"Watching your back, General.",,N,MoKo11-61,MoKo11-63
+MoKo11-63,,,,[Kitana attacks Cassie.],,Y,MoKo11-62,MoKo11-64
+MoKo11-64,,,Cassie Cage,"Kitana. ""Empress"" of the dead.",,N,MoKo11-63,MoKo11-65
+MoKo11-65,,,Resurrected Kitana,I've not forgotten our last encounter at the Sky Temple.,,N,MoKo11-64,MoKo11-66
+MoKo11-66,,,Cassie Cage,How are your scars healing?,,N,MoKo11-65,MoKo11-67
+MoKo11-67,,,,[CASSIE CAGE VS KITANA],,Y,MoKo11-66,MoKo11-68
+MoKo11-68,,,Sonya Blade,"Move! Move, move, move!",,N,MoKo11-67,MoKo11-69
+MoKo11-69,,,,"[Sonya is trying to lead her soldiers, but Liu Kang gets in the way. He destroys the passage, burying the soldiers and Sonya under the rubble.]",,Y,MoKo11-68,MoKo11-70
+MoKo11-70,,,Cassie Cage,General? General!!,,N,MoKo11-69,MoKo11-71
+MoKo11-71,,,Resurrected Liu Kang,"She's trapped, Cassandra Cage.",,N,MoKo11-70,MoKo11-72
+MoKo11-72,,,Cassie Cage,"How “The Chosen One” has fallen. Raiden's right. Whatever Shinnok did to you, you’re a lost cause.",,N,MoKo11-71,MoKo11-73
+MoKo11-73,,,,[CASSIE CAGE VS RESURRECTED LIU KANG],,Y,MoKo11-72,MoKo11-74
+MoKo11-74,,,Cassie Cage,"Fuck. You. General, can you hear me?! General? Mom?",,N,MoKo11-73,MoKo11-75
+MoKo11-75,,,Sonya Blade,"I’m here, Cass.",,N,MoKo11-74,MoKo11-76
+MoKo11-76,,,Cassie Cage,Hang tight. We’ll get you guys out.,,N,MoKo11-75,MoKo11-77
+MoKo11-77,,,Sonya Blade,"They’re gone, Cass. And I'm not gonna make it.",,N,MoKo11-76,MoKo11-78
+MoKo11-78,,,Cassie Cage,What? I'm not leaving you behind!,,N,MoKo11-77,MoKo11-79
+MoKo11-79,,,Sonya Blade,Get your team home. That’s an order. Your duty. Mine's to finish the mission.,,N,MoKo11-78,MoKo11-80
+MoKo11-80,,,Cassie Cage,"Mom, no! We can save you!",,N,MoKo11-79,MoKo11-81
+MoKo11-81,,,Sonya Blade,"I love you, Cass. Give your dad a kiss for me.",,N,MoKo11-80,MoKo11-82
+MoKo11-82,,,Cassie Cage,"Mom, no don't -- Mom? Mom!",,N,MoKo11-81,MoKo11-83
+MoKo11-83,,,,[Sonya squeezes the trigger.],,Y,MoKo11-82,MoKo11-84
+MoKo11-84,,,Jacqui Briggs,She’s started the detonation sequence!,,N,MoKo11-83,MoKo11-85
+MoKo11-85,,,Cassie Cage,"Override it, Jacqui!",,N,MoKo11-84,MoKo11-86
+MoKo11-86,,,Jacqui Briggs,There is no override! Commander! Our orders are to leave.,,N,MoKo11-85,MoKo11-87
+MoKo11-87,,,,[The army of demons appears.],,Y,MoKo11-86,MoKo11-88
+MoKo11-88,,,Cassie Cage,"C'mon, move it!",,N,MoKo11-87,MoKo11-89
+MoKo11-89,,,,[The heroes start to run. They leave the temple.],,Y,MoKo11-88,MoKo11-90
+MoKo11-90,,,Evil Raiden,Your mother died a warrior's death. May we all be so fortunate.,,N,MoKo11-89,MoKo11-91
+MoKo11-91,,,Jacqui Briggs,You did not just say that.,,N,MoKo11-90,MoKo11-92
+MoKo11-92,,,,[Cassie hears a familiar voice...],,Y,MoKo11-91,MoKo11-93
+MoKo11-93,,,Johnny Cage,Thank God you're back. How did the mission – No…,,N,MoKo11-92,MoKo11-94
+MoKo11-94,,,,[He hugs Cassie. Meanwhile...],,Y,MoKo11-93,MoKo11-95
+MoKo11-95,,,Resurrected Liu Kang,"Without the Cathedral’s power, we stand alone. We are vulnerable.",,N,MoKo11-94,MoKo11-96
+MoKo11-96,,,,[A woman from prologue appears.],,Y,MoKo11-95,MoKo11-97
+MoKo11-97,,,Resurrected Kitana,"Who are you? One of Raiden's Elder Gods, here to taunt us?",,N,MoKo11-96,MoKo11-98
+MoKo11-98,,,Woman,"No, Kitana. I am much more. Behold!",,N,MoKo11-97,MoKo11-99
+MoKo11-99,,,,"[She restores the tower, destroyed by the explosion. Sonya died in vain.]",,Y,MoKo11-98,MoKo11-100
+MoKo11-100,,,Resurrected Kitana,What power is this?!,,N,MoKo11-99,MoKo11-101
+MoKo11-101,,,Woman,"I am Kronika, Keeper of Time The Sands of Time guide the destiny of the realms and every soul therein. I have carefully crafted them to keep the realms in balance. But my work's perfection has been irreversibly taunted by Raiden’s actions. The two of you have felt that pain most acutely.",,N,MoKo11-100,MoKo11-102
+MoKo11-102,,,Resurrected Liu Kang,"What can be done? The past is the past, is it not?",,N,MoKo11-101,MoKo11-103
+MoKo11-103,,,Kronika,"It need not be. I intend to wind time back to its beginning and restart history. But even with my vast power, I cannot create this New Era alone.",,N,MoKo11-102,MoKo11-104
+MoKo11-104,,,Resurrected Kitana,How will this New Era be different?,,N,MoKo11-103,MoKo11-105
+MoKo11-105,,,Kronika,"In many ways. But most importantly, there will be no Raiden.",,N,MoKo11-104,MoKo11-106
+MoKo11-106,,,Resurrected Liu Kang,How do we begin?,,N,MoKo11-105,MoKo11-107
+MoKo11-107,TIMEQUAKE / KOTAL KAHN,,,[The guard brings someone in chains to Kotal’s feet.],,Y,MoKo11-106,MoKo11-108
+MoKo11-108,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,"For years you escaped my justice. Sucked dry the bounty of Outworld’s people. Today, your debt is paid.",,N,MoKo11-107,MoKo11-109
+MoKo11-109,TIMEQUAKE / KOTAL KAHN,,Prisoner,"Kill me, Kotal, and you lose profit.",,N,MoKo11-108,MoKo11-110
+MoKo11-110,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,You mistake me for Shao Kahn. I do not inflict bandits upon the poor.,,N,MoKo11-109,MoKo11-111
+MoKo11-111,TIMEQUAKE / KOTAL KAHN,,Prisoner,Shao Kahn approved! His word was law!,,N,MoKo11-110,MoKo11-112
+MoKo11-112,TIMEQUAKE / KOTAL KAHN,,,[One of the servants brings Kotal his sword.],,Y,MoKo11-111,MoKo11-113
+MoKo11-113,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn," Your master is dead, so is his “law”. Never again will Outworld suffer from his corruption.",,N,MoKo11-112,MoKo11-114
+MoKo11-114,TIMEQUAKE / KOTAL KAHN,,,[he raises his sword but an earthquake happens. And as we learn its happened everywhere. The Sands of Time bring the younger versions of many Mortal Kombat characters straight from original games.],,Y,MoKo11-113,MoKo11-115
+MoKo11-115,TIMEQUAKE / KOTAL KAHN,,Evil Raiden,By the Elder Gods!,,N,MoKo11-114,MoKo11-116
+MoKo11-116,TIMEQUAKE / KOTAL KAHN,,,"[He disappears. Only Shinnok’s amulet drops on the floor. The prisoners realize themselves. The Sands of Time bring Skarlet, Erron Black, Baraka, original bald Kano and the ruler of the Netherrealm itself – Shao Kahn. On the other side appears Kitana, Liu Kang, Kung Lao, Jade and Raiden.]",,Y,MoKo11-115,MoKo11-117
+MoKo11-117,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,Raiden? Shao Kahn?,,N,MoKo11-116,MoKo11-118
+MoKo11-118,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,General Kotal?,,N,MoKo11-117,MoKo11-119
+MoKo11-119,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,Kotal Kahn.,,N,MoKo11-118,MoKo11-120
+MoKo11-120,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,Kahn? Pathetic fool. You pretend to my throne!,,N,MoKo11-119,MoKo11-121
+MoKo11-121,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,"It is mine, by right and deed. You were killed, long ago. As was your repugnant spawn, Mileena.",,N,MoKo11-120,MoKo11-122
+MoKo11-122,TIMEQUAKE / KOTAL KAHN,,Raiden,We were at the Mortal Kombat tournament. Kung Lao had just defeated Shang Tsung and Quan Chi.,,N,MoKo11-121,MoKo11-123
+MoKo11-123,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,We are decades beyond those events.,,N,MoKo11-122,MoKo11-124
+MoKo11-124,TIMEQUAKE / KOTAL KAHN,,Raiden,"For us, they happened only moments ago.",,N,MoKo11-123,MoKo11-125
+MoKo11-125,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,"What game are you playing, Raiden? What magic powers this delusion?",,N,MoKo11-124,MoKo11-126
+MoKo11-126,TIMEQUAKE / KOTAL KAHN,,Raiden,"If it is a delusion, it is one we all share. Is it possible that the past and future are colliding?",,N,MoKo11-125,MoKo11-127
+MoKo11-127,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,"Kitana, Baraka, Skarlet, all Outworld champions long since gone. If you have all returned, has...?",,N,MoKo11-126,MoKo11-128
+MoKo11-128,TIMEQUAKE / KOTAL KAHN,,Jade,"I am here, Kotal.",,N,MoKo11-127,MoKo11-129
+MoKo11-129,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,Jade.,,N,MoKo11-128,MoKo11-130
+MoKo11-130,TIMEQUAKE / KOTAL KAHN,,,[Shao Kahn pushes Jade behind.],,Y,MoKo11-129,MoKo11-131
+MoKo11-131,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,"Osh-Tekk custom requires all refugees be offered assistance. I offer it to you, Shao Kahn --",,N,MoKo11-130,MoKo11-132
+MoKo11-132,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,I am no refugee! I am Kahn of Outworld. Vacate my throne. Or I'll soak these sands with your blood!,,N,MoKo11-131,MoKo11-133
+MoKo11-133,TIMEQUAKE / KOTAL KAHN,,,[They have a fight.],,Y,MoKo11-132,MoKo11-134
+MoKo11-134,TIMEQUAKE / KOTAL KAHN,,Liu Kang,Lord Raiden? What do we do?,,N,MoKo11-133,MoKo11-135
+MoKo11-135,TIMEQUAKE / KOTAL KAHN,,Raiden,I have not met Kotal. But he is reputed to be a man of honor.,,N,MoKo11-134,MoKo11-136
+MoKo11-136,TIMEQUAKE / KOTAL KAHN,,Jade,It’s true. I know him well.,,N,MoKo11-135,MoKo11-137
+MoKo11-137,TIMEQUAKE / KOTAL KAHN,,Raiden,Then we must navigate this crisis by aiding him.,,N,MoKo11-136,MoKo11-138
+MoKo11-138,TIMEQUAKE / KOTAL KAHN,,Baraka,"Stupid Osh-Tekk. Destroying your future, crossing Shao Kahn.",,N,MoKo11-137,MoKo11-139
+MoKo11-139,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,"It is you with no future, Baraka. Your Tarkatans are dead.",,N,MoKo11-138,MoKo11-140
+MoKo11-140,TIMEQUAKE / KOTAL KAHN,,Baraka,Impossible!,,N,MoKo11-139,MoKo11-141
+MoKo11-141,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,"They allied with Mileena against me. Persist, and you will die again.",,N,MoKo11-140,MoKo11-142
+MoKo11-142,TIMEQUAKE / KOTAL KAHN,,,[KOTAL KAHN VS BARAKA],,Y,MoKo11-141,MoKo11-143
+MoKo11-143,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,Filthy Tarkatan. The orphan turned assassin.,,N,MoKo11-142,MoKo11-144
+MoKo11-144,TIMEQUAKE / KOTAL KAHN,,Skarlet,"Better to thrive in Shao Kahn’s court than starve in the streets. You Osh-Tekk may practice blood magic, Kotal, but I am the master.",,N,MoKo11-143,MoKo11-145
+MoKo11-145,TIMEQUAKE / KOTAL KAHN,,,[KOTAL KAHN VS SKARLET],,Y,MoKo11-144,MoKo11-146
+MoKo11-146,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,Pride will be your downfall.,,N,MoKo11-145,MoKo11-147
+MoKo11-147,TIMEQUAKE / KOTAL KAHN,,Jade,Kotal!,,N,MoKo11-146,MoKo11-148
+MoKo11-148,TIMEQUAKE / KOTAL KAHN,,,[They kiss.],,Y,MoKo11-147,MoKo11-149
+MoKo11-149,TIMEQUAKE / KOTAL KAHN,,Jade,I thought you were dead! What happened to you?,,N,MoKo11-148,MoKo11-150
+MoKo11-150,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,"Shao Kahn betrayed me. Ambushed my legion. I was kept alive for Shang Tsung’s experiments. Only when he died, was I freed.",,N,MoKo11-149,MoKo11-151
+MoKo11-151,TIMEQUAKE / KOTAL KAHN,,Jade,Seeing you again makes it worth living this nightmare.,,N,MoKo11-150,MoKo11-152
+MoKo11-152,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,I will not lose you twice.,,N,MoKo11-151,MoKo11-153
+MoKo11-153,TIMEQUAKE / KOTAL KAHN,,,[Erron Black enters.],,Y,MoKo11-152,MoKo11-154
+MoKo11-154,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,"Go help the Earthrealmers. I will deal with this.  Your future self is ally, not enemy, Erron Black.",(to Erron) ,N,MoKo11-153,MoKo11-155
+MoKo11-155,TIMEQUAKE / KOTAL KAHN,,Erron Black,To hell with the future. I live in the moment.,,N,MoKo11-154,MoKo11-156
+MoKo11-156,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,"Given who you become, I would not have thought you so reckless.",,N,MoKo11-155,MoKo11-157
+MoKo11-157,TIMEQUAKE / KOTAL KAHN,,,[KOTAL KAHN VS ERRON BLACK],,Y,MoKo11-156,MoKo11-158
+MoKo11-158,TIMEQUAKE / KOTAL KAHN,,,"[Kotal goes to the arena, where mass battles between fighters take place. There he sees Shao Kahn.]",,Y,MoKo11-157,MoKo11-159
+MoKo11-159,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,I will have my throne!,,N,MoKo11-158,MoKo11-160
+MoKo11-160,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,Outworld rejected your pointless wars.,,N,MoKo11-159,MoKo11-161
+MoKo11-161,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,Empires must expand or die!,,N,MoKo11-160,MoKo11-162
+MoKo11-162,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,Your conquests served you alone not Outworld's people!,,N,MoKo11-161,MoKo11-163
+MoKo11-163,TIMEQUAKE / KOTAL KAHN,,,[KOTAL KAHN VS SHAO KAHN],,Y,MoKo11-162,MoKo11-164
+MoKo11-164,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,You are Kahn no more.,,N,MoKo11-163,MoKo11-165
+MoKo11-165,TIMEQUAKE / KOTAL KAHN,,,[A cloud of flies appears in the sky. Flies restrain the fighters and Kotal himself. Di'vorah appears from the portal.],,Y,MoKo11-164,MoKo11-166
+MoKo11-166,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,D'Vorah.,,N,MoKo11-165,MoKo11-167
+MoKo11-167,TIMEQUAKE / KOTAL KAHN,,D'Vorah,Shao Kahn! To me!,,N,MoKo11-166,MoKo11-168
+MoKo11-168,TIMEQUAKE / KOTAL KAHN,,,[Shao Kahn and his army leaves.],,Y,MoKo11-167,MoKo11-169
+MoKo11-169,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,I have not known stranger days.,,N,MoKo11-168,MoKo11-170
+MoKo11-170,TIMEQUAKE / KOTAL KAHN,,Raiden,"Kotal Kahn. I am Raiden, Protector of Earthrealm.",,N,MoKo11-169,MoKo11-171
+MoKo11-171,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,I know you.,,N,MoKo11-170,MoKo11-172
+MoKo11-172,TIMEQUAKE / KOTAL KAHN,,Raiden,We are acquainted in your era?,,N,MoKo11-171,MoKo11-173
+MoKo11-173,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,We were allies who became enemies.,,N,MoKo11-172,MoKo11-174
+MoKo11-174,TIMEQUAKE / KOTAL KAHN,,Raiden,"I am surprised, given our shared antipathy toward Shao Kahn.",,N,MoKo11-173,MoKo11-175
+MoKo11-175,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,Everything changed after your defeat of Shinnok.,,N,MoKo11-174,MoKo11-176
+MoKo11-176,TIMEQUAKE / KOTAL KAHN,,Liu Kang,Shinnok’s defeated?,,N,MoKo11-175,MoKo11-177
+MoKo11-177,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,"Our realms joined to fight him. But in victory, you were hardened. To protect Earthrealm, you lashed out at all realms you deemed threats.",,N,MoKo11-176,MoKo11-178
+MoKo11-178,TIMEQUAKE / KOTAL KAHN,,Raiden,That cannot be.,,N,MoKo11-177,MoKo11-179
+MoKo11-179,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,My Raiden wears Shinnok's Amulet as a symbol of his fury.,,N,MoKo11-178,MoKo11-180
+MoKo11-180,TIMEQUAKE / KOTAL KAHN,,Raiden,"Be assured, Kotal Kahn. I am not that Raiden. We have common cause. Both in solving this temporal crisis, and in defeating Shao Kahn.",,N,MoKo11-179,MoKo11-181
+MoKo11-181,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,Agreed.,,N,MoKo11-180,MoKo11-182
+MoKo11-182,TIMEQUAKE / KOTAL KAHN,,Raiden,"Liu Kang, Kung Lao, and I will return to Earthrealm and learn what temporal anomalies have occurred there. We must better understand the phenomenon we are experiencing.",,N,MoKo11-181,MoKo11-183
+MoKo11-183,TIMEQUAKE / KOTAL KAHN,,Kotal Kahn,I will have my scouts track Shao Kahn.,,N,MoKo11-182,MoKo11-184
+MoKo11-184,TIMEQUAKE / KOTAL KAHN,,Liu Kang (to Kitana),"So, this is goodbye.",,N,MoKo11-183,MoKo11-185
+MoKo11-185,TIMEQUAKE / KOTAL KAHN,,Kitana,"Only goodbye for now. I can't leave while Shao Kahn threatens Outworld. I must seek justice for what he did to my family, and to all Edenia.",,N,MoKo11-184,MoKo11-186
+MoKo11-186,TIMEQUAKE / KOTAL KAHN,,Liu Kang,"I will come back for you. To aid you, Princess.",,N,MoKo11-185,MoKo11-187
+MoKo11-187,TIMEQUAKE / KOTAL KAHN,,,"[Kitana hugs him. Raiden, Liu Kang and Kung Lao leaves. Meanwhile in Shao Kahn’s hideout.]",,Y,MoKo11-186,MoKo11-188
+MoKo11-188,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,"You evade my questions, D'Vorah. I routed your people. Burned this hive. Yet you aid me.",,N,MoKo11-187,MoKo11-189
+MoKo11-189,TIMEQUAKE / KOTAL KAHN,,Prisoner,"We can't trust her, Excellency. Kotal Kahn did, and she betrayed him to Shinnok.",,N,MoKo11-188,MoKo11-190
+MoKo11-190,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,"Kotal ""Kahn"" How is it I'm dead and he sits on my throne?",,N,MoKo11-189,MoKo11-191
+MoKo11-191,TIMEQUAKE / KOTAL KAHN,,Prisoner,"You tried merging Earthrealm into Outworld. The Elder Gods Intervened, and Raiden killed you. That’s when Mileena became Kahn.",,N,MoKo11-190,MoKo11-192
+MoKo11-192,TIMEQUAKE / KOTAL KAHN,,D’Vorah,"After This One killed your daughter, Kotal claimed the throne.",,N,MoKo11-191,MoKo11-193
+MoKo11-193,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,"You killed Mileena?! If this is true, you will die!",,N,MoKo11-192,MoKo11-194
+MoKo11-194,TIMEQUAKE / KOTAL KAHN,,,[Kronika and her servants appears.],,Y,MoKo11-193,MoKo11-195
+MoKo11-195,TIMEQUAKE / KOTAL KAHN,,Kronika,"D’Vorah is under my protection, Shao Kahn. As are you. I am Kronika.",,N,MoKo11-194,MoKo11-196
+MoKo11-196,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,The legends are true?,,N,MoKo11-195,MoKo11-197
+MoKo11-197,TIMEQUAKE / KOTAL KAHN,,Kronika,I am displeased with how history has unfolded.,,N,MoKo11-196,MoKo11-198
+MoKo11-198,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,So you broke time?,,N,MoKo11-197,MoKo11-199
+MoKo11-199,TIMEQUAKE / KOTAL KAHN,,Kronika,"I stopped time. I enlist all those who disdain the current course of history. By merging past and present, we may draw upon allies from both eras.",,N,MoKo11-198,MoKo11-200
+MoKo11-200,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,How will fighting your battles benefit me?,,N,MoKo11-199,MoKo11-201
+MoKo11-201,TIMEQUAKE / KOTAL KAHN,,Kronika,"I offer a greater empire in the New Era, Shao Kahn. Raiden will not exist to thwart you.",,N,MoKo11-200,MoKo11-202
+MoKo11-202,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,You can wipe Raiden from history?,,N,MoKo11-201,MoKo11-203
+MoKo11-203,TIMEQUAKE / KOTAL KAHN,,Kronika,"It is an immense task, requiring great power and effort. My Hourglass requires protection while I work. Will your Outworld armies defend it?",,N,MoKo11-202,MoKo11-204
+MoKo11-204,TIMEQUAKE / KOTAL KAHN,,Shao Kahn,They shall.,,N,MoKo11-203,MoKo11-205
+MoKo11-205,TIMEQUAKE / KOTAL KAHN,,,[The scene changes to Special Forces headquarters.],,Y,MoKo11-204,MoKo11-206
+MoKo11-206,TIMEQUAKE / KOTAL KAHN,,Johnny Cage,"I swear to god, I'm losing it. Can’t someone, anyone, explain to me what the hell is going on?!",,N,MoKo11-205,MoKo11-207
+MoKo11-207,TIMEQUAKE / KOTAL KAHN,,Young Johnny Cage,Right? I’ve been in the future for a whole hour and I haven’t seen one jetpack. Not one!,,N,MoKo11-206,MoKo11-208
+MoKo11-208,TIMEQUAKE / KOTAL KAHN,,,[Raiden enters.],,Y,MoKo11-207,MoKo11-209
+MoKo11-209,TIMEQUAKE / KOTAL KAHN,,Raiden,So it’s true I walked a darker path.,,N,MoKo11-208,MoKo11-210
+MoKo11-210,TIMEQUAKE / KOTAL KAHN,,Cassie Cage,"After Shinnok went down, you became a different person. Red lightning, black clothes. Authoritarian attitude adjustment.",,N,MoKo11-209,MoKo11-211
+MoKo11-211,TIMEQUAKE / KOTAL KAHN,,Johnny Cage,"Yeah, about that. What happened to Dark you? How come you're an only child and we got an evil twin?",,N,MoKo11-210,MoKo11-212
+MoKo11-212,TIMEQUAKE / KOTAL KAHN,,Raiden,"As an immortal, I exist outside the normal laws of time. That could explain why I am affected differently.",,N,MoKo11-211,MoKo11-213
+MoKo11-213,TIMEQUAKE / KOTAL KAHN,,Cassie Cage,Thanks.,,N,MoKo11-212,MoKo11-214
+MoKo11-214,TIMEQUAKE / KOTAL KAHN,,Young Jax Briggs,"Weird, isn't it? Not being in charge.",,N,MoKo11-213,MoKo11-215
+MoKo11-215,TIMEQUAKE / KOTAL KAHN,,Young Sonya Blade,That's what's weird?,,N,MoKo11-214,MoKo11-216
+MoKo11-216,TIMEQUAKE / KOTAL KAHN,,Young Jax Briggs,That. And having daughters our age.,,N,MoKo11-215,MoKo11-217
+MoKo11-217,TIMEQUAKE / KOTAL KAHN,,Young Sonya Blade,Look at her. How do I have a kid? With him?,,N,MoKo11-216,MoKo11-218
+MoKo11-218,TIMEQUAKE / KOTAL KAHN,,Young Jax Briggs,At least she’s not an actress.,,N,MoKo11-217,MoKo11-219
+MoKo11-219,TIMEQUAKE / KOTAL KAHN,,Young Johnny Cage,"C’mon, at least think about it. We each get points off the gross. Coming this summer... Johnny Cage. AND. Johnny Cage! In: ""Timequake""!",,N,MoKo11-218,MoKo11-220
+MoKo11-220,TIMEQUAKE / KOTAL KAHN,,Cassie Cage,Any thoughts on what we do next?,,N,MoKo11-219,MoKo11-221
+MoKo11-221,TIMEQUAKE / KOTAL KAHN,,Raiden,"For months, I have been receiving vague premonitions of the future. But none of them foretold this. I must confer with the Elder Gods. Liu Kang, Kung Lao. Please assist the Special Forces while I am gone.",,N,MoKo11-220,MoKo11-222
+MoKo11-222,TIMEQUAKE / KOTAL KAHN,,Liu Kang,"Yes, Lord Raiden.",,N,MoKo11-221,MoKo11-223
+MoKo11-223,TIMEQUAKE / KOTAL KAHN,,Jacqui Briggs,Follow me.,,N,MoKo11-222,MoKo11-224
+MoKo11-224,TIMEQUAKE / KOTAL KAHN,,Young Sonya Blade,Commander?,,N,MoKo11-223,MoKo11-225
+MoKo11-225,TIMEQUAKE / KOTAL KAHN,,Cassie Cage,"Yes, Mom. I mean, General! I mean --",,N,MoKo11-224,MoKo11-226
+MoKo11-226,TIMEQUAKE / KOTAL KAHN,,Young Sonya Blade,"This is strange for me, too.",,N,MoKo11-225,MoKo11-227
+MoKo11-227,TIMEQUAKE / KOTAL KAHN,,Cassie Cage,You have no idea.,,N,MoKo11-226,MoKo11-228
+MoKo11-228,TIMEQUAKE / KOTAL KAHN,,Young Sonya Blade,What?,,N,MoKo11-227,MoKo11-229
+MoKo11-229,TIMEQUAKE / KOTAL KAHN,,Cassie Cage,"How do I say this? This morning, ""we"" were on a mission and… And you gave your life to save it.",,N,MoKo11-228,MoKo11-230
+MoKo11-230,TIMEQUAKE / KOTAL KAHN,,Young Sonya Blade,Sonnuvabitch. Seriously?,,N,MoKo11-229,MoKo11-231
+MoKo11-231,TIMEQUAKE / KOTAL KAHN,,Cassie Cage,Yeah. And now here you are. Young enough to be my sister.,,N,MoKo11-230,MoKo11-232
+MoKo11-232,TIMEQUAKE / KOTAL KAHN,,Jacqui Briggs,"Cass, you need to see this! Sat feeds show a Netherrealm incursion at the Wu Shi Academy.",,N,MoKo11-231,MoKo11-233
+MoKo11-233,TIMEQUAKE / KOTAL KAHN,,Cassie Cage,Netherrealm? Taking out Shinnok's Temple was suposed to stop them.,,N,MoKo11-232,MoKo11-234
+MoKo11-234,TIMEQUAKE / KOTAL KAHN,,Jacqui Briggs,It’s gotta be the time anomaly.,,N,MoKo11-233,MoKo11-235
+MoKo11-235,TIMEQUAKE / KOTAL KAHN,,Liu Kang,We must help our Shaolin masters.,,N,MoKo11-234,MoKo11-236
+MoKo11-236,TIMEQUAKE / KOTAL KAHN,,Young Jax Briggs,"Why would the Netherrealm want to bust up your alma mater, Liu Kang?",,N,MoKo11-235,MoKo11-237
+MoKo11-237,TIMEQUAKE / KOTAL KAHN,,Liu Kang,The Dragon Grotto. It's underneath the Academy. Earthrealm’s Jinsel energy bubbles up in its springs.,,N,MoKo11-236,MoKo11-238
+MoKo11-238,TIMEQUAKE / KOTAL KAHN,,Cassie Cage,That’s no good. We’ve seen firsthand what happens when the Netherrealm screws wrth Earthrealm’s life force.,,N,MoKo11-237,MoKo11-239
+MoKo11-239,TIMEQUAKE / KOTAL KAHN,,Kung Lao,They will not reach the Grotto. It is protected by powerful magic. The deadliest traps. I am sure our counterparts from your era are already dealing with them.,,N,MoKo11-238,MoKo11-240
+MoKo11-240,TIMEQUAKE / KOTAL KAHN,,,"[Jacqui looks to Cassie with an awkward face, regarding of Liu Kang and Kung Lao’s future selves.]",,Y,MoKo11-239,MoKo11-241
+MoKo11-241,TIMEQUAKE / KOTAL KAHN,,Cassie Cage,"Kung Lao, Liu Kang. You might wanna sit down.",,N,MoKo11-240,MoKo11-242
+MoKo11-242,TIMEQUAKE / KOTAL KAHN,,,"[Liu Kang and Kung Lao realize there is something awfully tragic with their future selves, just as Cassie explains how they have fallen.]",,Y,MoKo11-241,MoKo11-243
+MoKo11-243,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[The legendary fighters walks to the Shaolin Temple.],,Y,MoKo11-242,MoKo11-244
+MoKo11-244,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,"I die in the Koluseum! You on a rooftop, fighting Lord Raiden? Our future, Liu Kang. It is insane!",,N,MoKo11-243,MoKo11-245
+MoKo11-245,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,Obsessing over it will not change it.,,N,MoKo11-244,MoKo11-246
+MoKo11-246,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,Neither will accepting our destiny as evil undead warlords.,,N,MoKo11-245,MoKo11-247
+MoKo11-247,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,I'm not. But we can't change a future we don’t fully understand. Lord Raiden will guide us.,,N,MoKo11-246,MoKo11-248
+MoKo11-248,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,Can we trust him? It appears he got us both killed!,,N,MoKo11-247,MoKo11-249
+MoKo11-249,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[They find a dead monk on the steps of the temple. Walking inside they see dozens.],,Y,MoKo11-248,MoKo11-250
+MoKo11-250,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,So many Shaolin! They died defending our sacred ground. The Netherrealm will pay.,,N,MoKo11-249,MoKo11-251
+MoKo11-251,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[They go further.],,Y,MoKo11-250,MoKo11-252
+MoKo11-252,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,Whoever came here knew how to disarm these traps.,,N,MoKo11-251,MoKo11-253
+MoKo11-253,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,Do you know how? The monks never taught me.,,N,MoKo11-252,MoKo11-254
+MoKo11-254,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,More likely you did not attend class. Watch for the pattern. And pick your moment…,,N,MoKo11-253,MoKo11-255
+MoKo11-255,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[Liu Kang jumps. Kung Lao stops the blades with his epic hat.],,Y,MoKo11-254,MoKo11-256
+MoKo11-256,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,Easy enough. What's next?,,N,MoKo11-255,MoKo11-257
+MoKo11-257,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,"Everything. Poison gas, shooting spears, flame jets --",,N,MoKo11-256,MoKo11-258
+MoKo11-258,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,How about we avoid those?,,N,MoKo11-257,MoKo11-259
+MoKo11-259,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[The room shuts firmly.],,Y,MoKo11-258,MoKo11-260
+MoKo11-260,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,I did not do that.,,N,MoKo11-259,MoKo11-261
+MoKo11-261,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Scorpion,I did.,,N,MoKo11-260,MoKo11-262
+MoKo11-262,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,Scorpion. Of course you survived the time-merger...,,N,MoKo11-261,MoKo11-263
+MoKo11-263,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Scorpion,You will not stop Kronika from restoring my family and clan.,,N,MoKo11-262,MoKo11-264
+MoKo11-264,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang," If Scorpion doesn’t kill us, these traps will. Find a way to shut them down!  Let's see whose fire burns hotter.",(to Kung Lao) (to Scorpion) ,N,MoKo11-263,MoKo11-265
+MoKo11-265,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[LIU KANG VS SCORPION],,Y,MoKo11-264,MoKo11-266
+MoKo11-266,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,"Your fire is out, Scorpion.",,N,MoKo11-265,MoKo11-267
+MoKo11-267,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,I can’t stop them!,,N,MoKo11-266,MoKo11-268
+MoKo11-268,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[The room begins to fill with poisonous gas. Scorpion leaves. The monks fall into a cage. Suddenly the gas sucks away.],,Y,MoKo11-267,MoKo11-269
+MoKo11-269,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,It’s stopped. Why?,,N,MoKo11-268,MoKo11-270
+MoKo11-270,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[Resurrected Jade and Scorpion enters.],,Y,MoKo11-269,MoKo11-271
+MoKo11-271,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Resurrected Jade,Our plans require that you live.,,N,MoKo11-270,MoKo11-272
+MoKo11-272,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,Jade. What happened to you?,,N,MoKo11-271,MoKo11-273
+MoKo11-273,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Resurrected Jade,"An untimely death. Like yours, due to Raiden’s incompetence.",,N,MoKo11-272,MoKo11-274
+MoKo11-274,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,You cannot turn us against him. We know about our deaths. They were caused by our mistakes.,,N,MoKo11-273,MoKo11-275
+MoKo11-275,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Resurrected Jade,"You have been deceived, Liu Kang. The truth is, Raiden murdered you.",,N,MoKo11-274,MoKo11-276
+MoKo11-276,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,"Lord Raiden may make mistakes, but he doesn't murder his followers.",,N,MoKo11-275,MoKo11-277
+MoKo11-277,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Resurrected Jade,"Is it not murder to send an ill-prepared warrior to his death? Raiden’s mistake cost your life, Kung Lao.",,N,MoKo11-276,MoKo11-278
+MoKo11-278,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[RESURRECTED JADE VS KUNG LAO],,Y,MoKo11-277,MoKo11-279
+MoKo11-279,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,"I like the ""real"" you better.",,N,MoKo11-278,MoKo11-280
+MoKo11-280,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,The Dragon Grotto's through there.,,N,MoKo11-279,MoKo11-281
+MoKo11-281,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,What if the next Revenants we have to fight are... us?,,N,MoKo11-280,MoKo11-282
+MoKo11-282,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,"Then we fight them, Kung Lao.",,N,MoKo11-281,MoKo11-283
+MoKo11-283,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[Meanwhile Raiden comes to the Elder Gods.],,Y,MoKo11-282,MoKo11-284
+MoKo11-284,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,Elder Gods. I have come to seek counsel. The realms are in crisis.,,N,MoKo11-283,MoKo11-285
+MoKo11-285,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Elder Gods,"The crisis is grave, indeed, Raiden. Every being will be erased in a temporal Armageddon, even we Elder Gods. Already our power weakens.",,N,MoKo11-284,MoKo11-286
+MoKo11-286,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,I will fight Cetrion. But how?,,N,MoKo11-285,MoKo11-287
+MoKo11-287,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Elder Gods,You must find Kronika’s Keep and gain control of her Hourglass. Only then will time's momentum be restored.,,N,MoKo11-286,MoKo11-288
+MoKo11-288,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,It will be done.,,N,MoKo11-287,MoKo11-289
+MoKo11-289,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Elder Gods,"Speak your mind, Raiden.",,N,MoKo11-288,MoKo11-290
+MoKo11-290,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,"Since this time-merger, I have learned about my future. That my champions fall. That I become a tyrant. If Kronika is defeated, will I be consigned to this grim fate?",,N,MoKo11-289,MoKo11-291
+MoKo11-291,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Elder Gods,The restoration of time will not predetermine your destiny. That is for you to shape.,,N,MoKo11-290,MoKo11-292
+MoKo11-292,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[Meanwhile the monks find their way into a secret cave. One of Kronika’s servants steals something that we don’t see.],,Y,MoKo11-291,MoKo11-293
+MoKo11-293,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,Is there any point to us asking you to put those back?,,N,MoKo11-292,MoKo11-294
+MoKo11-294,SHAOLIN MONKS / LIU KANG & KUNG LAO,,???,They said you'd come.,,N,MoKo11-293,MoKo11-295
+MoKo11-295,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,Who said?,,N,MoKo11-294,MoKo11-296
+MoKo11-296,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Resurrected Liu Kang,"Who do you think, Kung Lao? Welcome to your future. Courtesy of Raiden.",,N,MoKo11-295,MoKo11-297
+MoKo11-297,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,"Our future may be tragic, but it’s not Lord Raiden's fault. You’ve both been warped by Shinnok’s evil.",,N,MoKo11-296,MoKo11-298
+MoKo11-298,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Resurrected Kung Lao,"Shao Kahn snapped my neck in the arena. Raiden saw it coming, and did nothing!",,N,MoKo11-297,MoKo11-299
+MoKo11-299,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Resurrected Liu Kang,"I would have defeated Shao Kahn, but Raiden wanted the glory. His lightning cut me down.",,N,MoKo11-298,MoKo11-300
+MoKo11-300,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,No. I don't believe that!,,N,MoKo11-299,MoKo11-301
+MoKo11-301,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Resurrected Liu Kang,One day Raiden will betray you. Then you will believe.,,N,MoKo11-300,MoKo11-302
+MoKo11-302,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,"You spew Shinnok’s lies. You attacked Lord Raiden, and he defended himself. He did what he thought right to protect Earthrealm.",,N,MoKo11-301,MoKo11-303
+MoKo11-303,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Resurrected Liu Kang,Protect?! Raiden enslaves Earthrealm. How was I ever so blind as you?,,N,MoKo11-302,MoKo11-304
+MoKo11-304,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[LIU KANG VS RESURRECTED LIU KANG],,Y,MoKo11-303,MoKo11-305
+MoKo11-305,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,How did I get so deluded?,,N,MoKo11-304,MoKo11-306
+MoKo11-306,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,"Is it me, or could they be telling the truth?",,N,MoKo11-305,MoKo11-307
+MoKo11-307,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,Worry about it later. We have bigger problems.,,N,MoKo11-306,MoKo11-308
+MoKo11-308,SHAOLIN MONKS / LIU KANG & KUNG LAO,,???,"You should’ve listened to your Revenant counterparts. With this power, Kronika will remake history.",,N,MoKo11-307,MoKo11-309
+MoKo11-309,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[Kung Lao chops his head off with the hat.],,Y,MoKo11-308,MoKo11-310
+MoKo11-310,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,That was easy.,,N,MoKo11-309,MoKo11-311
+MoKo11-311,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[But the Sands of Time resurrect Kronika’s servant.],,Y,MoKo11-310,MoKo11-312
+MoKo11-312,SHAOLIN MONKS / LIU KANG & KUNG LAO,,???,"I, Geras, am a fixed point in time. With every death and rebirth, I grow stronger.",,N,MoKo11-311,MoKo11-313
+MoKo11-313,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang, The vials.  Sizing me up?,(to Kung Lao) (to Geras) ,N,MoKo11-312,MoKo11-314
+MoKo11-314,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Geras,"Kronika has a keen interest in you. It's why she recruited your revenant self. Serve her, she will bless you.",,N,MoKo11-313,MoKo11-315
+MoKo11-315,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[LIU KANG VS GERAS],,Y,MoKo11-314,MoKo11-316
+MoKo11-316,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Geras,"You Shaolin monks exceed your reputation. I respect your spirit, but Kronika’s will must be done.",,N,MoKo11-315,MoKo11-317
+MoKo11-317,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,"[He stops time, takes the vials and gives them to Kronika that appeared a second ago.]",,Y,MoKo11-316,MoKo11-318
+MoKo11-318,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Geras,It's dangerous to let them live.,,N,MoKo11-317,MoKo11-319
+MoKo11-319,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kronika,"If they die, their Revenant selves will cease to exist. We need them to defend the Keep. Yet again, Liu Kang, you've chosen the wrong destiny.",,N,MoKo11-318,MoKo11-320
+MoKo11-320,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[She teleports to Shao Kahn.],,Y,MoKo11-319,MoKo11-321
+MoKo11-321,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kronika,"I now have the energy to resculpt the Sands of Time. The Netherrealm's undead army will protect the Keep as I work. Shao Kahn, when will you deliver the Outworld army?",,N,MoKo11-320,MoKo11-322
+MoKo11-322,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Shao Kahn,Soon. It will be mine once Kotal is killed.,,N,MoKo11-321,MoKo11-323
+MoKo11-323,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kronika,"And what is your progress, Sektor?",,N,MoKo11-322,MoKo11-324
+MoKo11-324,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Sector,The Cyber Lin Kuei factory is modified to your specification. Production exceeds projections.,,N,MoKo11-323,MoKo11-325
+MoKo11-325,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[Raiden returns to the monks.],,Y,MoKo11-324,MoKo11-326
+MoKo11-326,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,Lord Raiden. What did the Elder Gods say?,,N,MoKo11-325,MoKo11-327
+MoKo11-327,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,"We must find Kronika. Wrest the control of history from her. If we succeed, our destiny can change.",,N,MoKo11-326,MoKo11-328
+MoKo11-328,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,"So what we were told is true? You were ""Involved"" in our deaths?",,N,MoKo11-327,MoKo11-329
+MoKo11-329,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,"Yes. Had the timeline continued, my decisions would have led to your deaths. But the Elder Gods assure me that such a future is not inevitable. This is but one of many possible timelines.",,N,MoKo11-328,MoKo11-330
+MoKo11-330,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Kung Lao,That is a lot to take on faith.,,N,MoKo11-329,MoKo11-331
+MoKo11-331,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,"Rest assured, Kung Lao. I am aware, now, of what may come. I will not bring harm to either of you. You have my vow.",,N,MoKo11-330,MoKo11-332
+MoKo11-332,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Liu Kang,"Thank you, Lord Raiden.",,N,MoKo11-331,MoKo11-333
+MoKo11-333,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,"We must find Kronika’s Keep and strike it, as hard and fast as we can muster, before all is lost.",,N,MoKo11-332,MoKo11-334
+MoKo11-334,SHAOLIN MONKS / LIU KANG & KUNG LAO,,,[They walk to Special Forces headquarters.],,Y,MoKo11-333,MoKo11-335
+MoKo11-335,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,What have you learned about Kronika's effect on Earthrealm?,,N,MoKo11-334,MoKo11-336
+MoKo11-336,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Cassie Cage,We’re tracking sites around the globe with major temporal anomalies. Picture’s still fuzzy...,,N,MoKo11-335,MoKo11-337
+MoKo11-337,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Johnny Cage,"Our kid's something, isn’t she?",,N,MoKo11-336,MoKo11-338
+MoKo11-338,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Young Sonya Blade,"Um... Cage, I m not your Sonya.",,N,MoKo11-337,MoKo11-339
+MoKo11-339,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Johnny Cage,Sorry. Too easy to forget.,,N,MoKo11-338,MoKo11-340
+MoKo11-340,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Cassie Cage,We’ve prioritized info that correlates attacks from the Netherrealm with time anomalies.,,N,MoKo11-339,MoKo11-341
+MoKo11-341,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,Helpful. But we have more to worry about than the Netherrealm.,,N,MoKo11-340,MoKo11-342
+MoKo11-342,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Cassie Cage,"Yeah, we do. Grandmaster Sub-Zero reports heavy losses to his Lin Kuei clan. The time merger has resurrected his old enemy, Sektor.",,N,MoKo11-341,MoKo11-343
+MoKo11-343,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,Sektor? Was he not the Grandmaster who years ago enslaved the Lin Kuei?,,N,MoKo11-342,MoKo11-344
+MoKo11-344,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Cassie Cage,That's him. He's reactivating and upgrading the same factory he built to convert the Lin Kuei into cyber killing machines.,,N,MoKo11-343,MoKo11-345
+MoKo11-345,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,Undoubtedly to construct new and more powerful Cyber Lin Kuei. Kronika may seek to co-opt them. What of Sub-Zero?,,N,MoKo11-344,MoKo11-346
+MoKo11-346,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Cassie Cage,Already on his way to shut down the factory. Grandmaster Hasashi is going with him.,,N,MoKo11-345,MoKo11-347
+MoKo11-347,SHAOLIN MONKS / LIU KANG & KUNG LAO,,Raiden,Grandmaster Hasashi? Hanzo Hasashi?,,N,MoKo11-346,MoKo11-348
+MoKo11-348,FIRE & ICE / SUB-ZERO & SCORPION,,,[Sub-Ziro examines the terrain on the way to the factory. Scorpion is silently approaching him with his hand on the sword.],,Y,MoKo11-347,MoKo11-349
+MoKo11-349,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,"Your hearing is failing, Sub-Zero.",,N,MoKo11-348,MoKo11-350
+MoKo11-350,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,"I recognized your footsteps, Hanzo.",,N,MoKo11-349,MoKo11-351
+MoKo11-351,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,Where's Sektor? I will not let him threaten my clan again.,,N,MoKo11-350,MoKo11-352
+MoKo11-352,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,"The old Cyber Lin Kuei factory was defunct, buried beneath this quarry -- until the time disruption. Now, Sektor's returned and reactivated it. He's budding an army by processing Lin Kuei warriors kidnapped from my temple.",,N,MoKo11-351,MoKo11-353
+MoKo11-353,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,I can see why you need me.,,N,MoKo11-352,MoKo11-354
+MoKo11-354,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,"We could enter through that tunnel, but a frontal assault would be...",,N,MoKo11-353,MoKo11-355
+MoKo11-355,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,Bloody.,,N,MoKo11-354,MoKo11-356
+MoKo11-356,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,"Needlessly dangerous. There’s another entrance, less populated.",,N,MoKo11-355,MoKo11-357
+MoKo11-357,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,And the rest of your plan?,,N,MoKo11-356,MoKo11-358
+MoKo11-358,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,We get help on the inside…,,N,MoKo11-357,MoKo11-359
+MoKo11-359,FIRE & ICE / SUB-ZERO & SCORPION,,,[They sneak into the factory and find piles of mutilated skinned corpses.],,Y,MoKo11-358,MoKo11-360
+MoKo11-360,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,We’ll avenge your clan.,,N,MoKo11-359,MoKo11-361
+MoKo11-361,FIRE & ICE / SUB-ZERO & SCORPION,,,[Cyrax and a woman enter. The woman turns on the machine that makes cyborgs.],,Y,MoKo11-360,MoKo11-362
+MoKo11-362,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,Cyrax is your inside man?,,N,MoKo11-361,MoKo11-363
+MoKo11-363,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,He was converted against his will. If we disable the behavior inhibitors that control him --,,N,MoKo11-362,MoKo11-364
+MoKo11-364,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,He will turn on Sektor.,,N,MoKo11-363,MoKo11-365
+MoKo11-365,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,All Cyber Lin Kuei are linked to a common network. Cyrax can shut them down from within.,,N,MoKo11-364,MoKo11-366
+MoKo11-366,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,Who is the woman?,,N,MoKo11-365,MoKo11-367
+MoKo11-367,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,I don't know Focus on disabling Cyrax. He’s the key.,,N,MoKo11-366,MoKo11-368
+MoKo11-368,FIRE & ICE / SUB-ZERO & SCORPION,,Cyrax,We require additional candidates for cyberization.,,N,MoKo11-367,MoKo11-369
+MoKo11-369,FIRE & ICE / SUB-ZERO & SCORPION,,Woman,"Once delivered, how long before the next generation is ready?",,N,MoKo11-368,MoKo11-370
+MoKo11-370,FIRE & ICE / SUB-ZERO & SCORPION,,,[Sub-Zero freezes the woman. Hanzo attacks Cyrax. The woman quickly cracks the icy cage.],,Y,MoKo11-369,MoKo11-371
+MoKo11-371,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,"Frost! I gave you a home. I was your mentor. Yet after all this, you ally with Sektor? He corrupted the Lin Kuei!",,N,MoKo11-370,MoKo11-372
+MoKo11-372,FIRE & ICE / SUB-ZERO & SCORPION,,Frost,"You corrupted our clan when you made peace with this Shirai Ryu filth! with Kronika’s help, I will restore the Lin Kuei’s honor.",,N,MoKo11-371,MoKo11-373
+MoKo11-373,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero, Keep Cyrax alive. We need him.  There’s no future in which you are fit to lead the Lin Kuei.,(to Hanzo) (to Frost) ,N,MoKo11-372,MoKo11-374
+MoKo11-374,FIRE & ICE / SUB-ZERO & SCORPION,,Frost,"You always doubted me, Sub-Zero. Held me back. Kronika sees my true potential.",,N,MoKo11-373,MoKo11-375
+MoKo11-375,FIRE & ICE / SUB-ZERO & SCORPION,,,[SUB-ZERO VS FROST],,Y,MoKo11-374,MoKo11-376
+MoKo11-376,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,"You deceive yourself, Frost.  The upgrade, Cyrax. Is this Kronika's doing?",(to Cyrax) ,N,MoKo11-375,MoKo11-377
+MoKo11-377,FIRE & ICE / SUB-ZERO & SCORPION,,Cyrax,"To better serve her, Sub Zero. We defend Kronika as she re-writes history.",,N,MoKo11-376,MoKo11-378
+MoKo11-378,FIRE & ICE / SUB-ZERO & SCORPION,,,[Cyrax activates other cyborgs.],,Y,MoKo11-377,MoKo11-379
+MoKo11-379,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,So you're nothing but pawns?,,N,MoKo11-378,MoKo11-380
+MoKo11-380,FIRE & ICE / SUB-ZERO & SCORPION,,Cyrax,We act to secure the Lin Kuei’s glory in the New Era.,,N,MoKo11-379,MoKo11-381
+MoKo11-381,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,Take the others.,,N,MoKo11-380,MoKo11-382
+MoKo11-382,FIRE & ICE / SUB-ZERO & SCORPION,,,[Scorpion teleports and quickly destroy the cyborgs.],,Y,MoKo11-381,MoKo11-383
+MoKo11-383,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,"You’ve been enslaved, Cyrax. First by Sektor, now by Kronika. It ends today.",,N,MoKo11-382,MoKo11-384
+MoKo11-384,FIRE & ICE / SUB-ZERO & SCORPION,,,[SUB-ZERO VS CYRAX],,Y,MoKo11-383,MoKo11-385
+MoKo11-385,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,You will be freed.,,N,MoKo11-384,MoKo11-386
+MoKo11-386,FIRE & ICE / SUB-ZERO & SCORPION,,,[He destroys Cyrax’s behavior inhibitors.],,Y,MoKo11-385,MoKo11-387
+MoKo11-387,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,Hurry before we face more Cyber Lin Kuei.,,N,MoKo11-386,MoKo11-388
+MoKo11-388,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,He'll need a moment to initialize.,,N,MoKo11-387,MoKo11-389
+MoKo11-389,FIRE & ICE / SUB-ZERO & SCORPION,,,[Someone punches Scorpion.],,Y,MoKo11-388,MoKo11-390
+MoKo11-390,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,Sektor? Show yourself!,,N,MoKo11-389,MoKo11-391
+MoKo11-391,FIRE & ICE / SUB-ZERO & SCORPION,,Noob Saibot,"Recognize me, little brother?",,N,MoKo11-390,MoKo11-392
+MoKo11-392,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,Bi-Han?!,,N,MoKo11-391,MoKo11-393
+MoKo11-393,FIRE & ICE / SUB-ZERO & SCORPION,,Noob Saibot,Yes. It is I.,,N,MoKo11-392,MoKo11-394
+MoKo11-394,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,"You were killed, swallowed in a storm of souls.",,N,MoKo11-393,MoKo11-395
+MoKo11-395,FIRE & ICE / SUB-ZERO & SCORPION,,Noob Saibot,Quan Chi’s creations do not die easily. Kronika offers me a new clan to lead. Its shadow will darken the realms.,,N,MoKo11-394,MoKo11-396
+MoKo11-396,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,I've beaten your brother before.,,N,MoKo11-395,MoKo11-397
+MoKo11-397,FIRE & ICE / SUB-ZERO & SCORPION,,Noob Saibot,Quan Chi unleashed your vengeance. Without him? You are weak.,,N,MoKo11-396,MoKo11-398
+MoKo11-398,FIRE & ICE / SUB-ZERO & SCORPION,,,[SCORPION VS NOOB SAIBOT],,Y,MoKo11-397,MoKo11-399
+MoKo11-399,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,My strength is more than vengeance.,,N,MoKo11-398,MoKo11-400
+MoKo11-400,FIRE & ICE / SUB-ZERO & SCORPION,,,[Cyrax reboots.],,Y,MoKo11-399,MoKo11-401
+MoKo11-401,FIRE & ICE / SUB-ZERO & SCORPION,,Cyrax,No. He ripped out my heart. Made me a machine.,,N,MoKo11-400,MoKo11-402
+MoKo11-402,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,"Your soul is intact, Cyrax. Trust me, I speak from experience.",,N,MoKo11-401,MoKo11-403
+MoKo11-403,FIRE & ICE / SUB-ZERO & SCORPION,,Cyrax,"Kuai Liang, is that you? You look so old. And Scorpion?",,N,MoKo11-402,MoKo11-404
+MoKo11-404,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,"We’ll explain later. For now, know we share the same goal: the Cyber Lin Kuei's destruction.",,N,MoKo11-403,MoKo11-405
+MoKo11-405,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,"We need your help, Cyrax.",,N,MoKo11-404,MoKo11-406
+MoKo11-406,FIRE & ICE / SUB-ZERO & SCORPION,,Cyrax,I can disable their communications network. It'll shut down this factory and every Cyber Lin Kuei connected to it.,,N,MoKo11-405,MoKo11-407
+MoKo11-407,FIRE & ICE / SUB-ZERO & SCORPION,,,"[Someone shoots a rocket at them, but Cyrax uses his net to catch it.]",,Y,MoKo11-406,MoKo11-408
+MoKo11-408,FIRE & ICE / SUB-ZERO & SCORPION,,Sektor,"Frost warned me that you two had become allies. I did not think you capable of such dishonor, Sub-Zero.",,N,MoKo11-407,MoKo11-409
+MoKo11-409,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,I'll stop Sektor. Help Cyrax.,,N,MoKo11-408,MoKo11-410
+MoKo11-410,FIRE & ICE / SUB-ZERO & SCORPION,,,[Sector shoots his flamethrowers at Scorpion but it seems to have no effect on him.],,Y,MoKo11-409,MoKo11-411
+MoKo11-411,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,You started this fire. Selling out your clan so Quan Chi would slaughter mine.,,N,MoKo11-410,MoKo11-412
+MoKo11-412,FIRE & ICE / SUB-ZERO & SCORPION,,Sektor,He should have killed you as he promised. Now I finish what he could not.,,N,MoKo11-411,MoKo11-413
+MoKo11-413,FIRE & ICE / SUB-ZERO & SCORPION,,,[SCORPION VS SEKTOR],,Y,MoKo11-412,MoKo11-414
+MoKo11-414,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,For Harumi and Satoshi.,,N,MoKo11-413,MoKo11-415
+MoKo11-415,FIRE & ICE / SUB-ZERO & SCORPION,,,[Meanwhile Cyrax gains access to the mainframe.],,Y,MoKo11-414,MoKo11-416
+MoKo11-416,FIRE & ICE / SUB-ZERO & SCORPION,,Cyrax,"I’m in. I’ll reformat the system drives and shut us all down. Goodbye, Kuai Liang.",,N,MoKo11-415,MoKo11-417
+MoKo11-417,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,It is not the end. I will find a way to restore you. Anything is possible. Hanzo and I are living proof.,,N,MoKo11-416,MoKo11-418
+MoKo11-418,FIRE & ICE / SUB-ZERO & SCORPION,,Cyrax,"Please, don’t bring me back as a machine. I can't live like this.",,N,MoKo11-417,MoKo11-419
+MoKo11-419,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,"Machine or man, you have a warrior’s soul. As long as I am Grandmaster, the Lin Kuei will welcome you.",,N,MoKo11-418,MoKo11-420
+MoKo11-420,FIRE & ICE / SUB-ZERO & SCORPION,,Cyrax,Then until we meet again.,,N,MoKo11-419,MoKo11-421
+MoKo11-421,FIRE & ICE / SUB-ZERO & SCORPION,,,"[Cyrax crushes giant cables and has a short circuit. Frost, Noob and Sektor leave.]",,Y,MoKo11-420,MoKo11-422
+MoKo11-422,FIRE & ICE / SUB-ZERO & SCORPION,,Hanzo Hasashi,They’ve escaped. We should pursue.,,N,MoKo11-421,MoKo11-423
+MoKo11-423,FIRE & ICE / SUB-ZERO & SCORPION,,Sub-Zero,First we speak with Raiden.,,N,MoKo11-422,MoKo11-424
+MoKo11-424,FIRE & ICE / SUB-ZERO & SCORPION,,,[Meanwhile at Kronika’s base.],,Y,MoKo11-423,MoKo11-425
+MoKo11-425,FIRE & ICE / SUB-ZERO & SCORPION,,Young Kano,Our lady Kronika’ll get all the service she needs. But I can't quote a fee until I know the job.,,N,MoKo11-424,MoKo11-426
+MoKo11-426,FIRE & ICE / SUB-ZERO & SCORPION,,Geras,You will see.,,N,MoKo11-425,MoKo11-427
+MoKo11-427,FIRE & ICE / SUB-ZERO & SCORPION,,,[They come to a room with a damaged Sektor on the table.],,Y,MoKo11-426,MoKo11-428
+MoKo11-428,FIRE & ICE / SUB-ZERO & SCORPION,,Geras,Can you restore him?,,N,MoKo11-427,MoKo11-429
+MoKo11-429,FIRE & ICE / SUB-ZERO & SCORPION,,Young Kano,"There’s some frame damage, Circuitry looks good. But looks like someone did a software Wipe. Fixing that won’t come cheap.",,N,MoKo11-428,MoKo11-430
+MoKo11-430,FIRE & ICE / SUB-ZERO & SCORPION,,Geras,"Once he is repaired, can he be replicated? Hundreds of times? Thousands?",,N,MoKo11-429,MoKo11-431
+MoKo11-431,FIRE & ICE / SUB-ZERO & SCORPION,,Young Kano," That’s a tall order. But anything’s possible, with the right help.",(to Erron) ,N,MoKo11-430,MoKo11-432
+MoKo11-432,FIRE & ICE / SUB-ZERO & SCORPION,,Geras,Serve Kronika and she will provide.,,N,MoKo11-431,MoKo11-433
+MoKo11-433,FIRE & ICE / SUB-ZERO & SCORPION,,,[Old Kano comes from the shadows.],,Y,MoKo11-432,MoKo11-434
+MoKo11-434,FIRE & ICE / SUB-ZERO & SCORPION,,Kano,"Take the deal. Trust me. Otherwise, who can you trust? You weren’t kidding. S’like a mirror, reflecting the past.",,N,MoKo11-433,MoKo11-435
+MoKo11-435,FIRE & ICE / SUB-ZERO & SCORPION,,Young Kano,How ‘bout that? Over fifty and still a ripper. (punches himself in the shoulder],,N,MoKo11-434,MoKo11-436
+MoKo11-436,FIRE & ICE / SUB-ZERO & SCORPION,,Erron Black,There’s still the matter of our fee.,,N,MoKo11-435,MoKo11-437
+MoKo11-437,FIRE & ICE / SUB-ZERO & SCORPION,,Kano,We get paid in the New Era. Kronika'll make sure the Black Dragon come out on top. Not only in the black market. In every market.,,N,MoKo11-436,MoKo11-438
+MoKo11-438,FIRE & ICE / SUB-ZERO & SCORPION,,Young Kano,"Right then, let’s get to business.",,N,MoKo11-437,MoKo11-439
+MoKo11-439,FIRE & ICE / SUB-ZERO & SCORPION,,,[Special Forces headquarters. Jacqui tries to call her dad.],,Y,MoKo11-438,MoKo11-440
+MoKo11-440,FIRE & ICE / SUB-ZERO & SCORPION,,Johnny Cage,"Reach your dad yet, kid?",,N,MoKo11-439,MoKo11-441
+MoKo11-441,FIRE & ICE / SUB-ZERO & SCORPION,,Jacqui Briggs,The network's still down. I hate being so far away. Dad must be climbing the walls.,,N,MoKo11-440,MoKo11-442
+MoKo11-442,FIRE & ICE / SUB-ZERO & SCORPION,,Johnny Cage,Be patient. You’ll get through.,,N,MoKo11-441,MoKo11-443
+MoKo11-443,FIRE & ICE / SUB-ZERO & SCORPION,,Jacqui Briggs,"I know my dad's still alive, but it's like I'm seeing a ghost.",,N,MoKo11-442,MoKo11-444
+MoKo11-444,FIRE & ICE / SUB-ZERO & SCORPION,,Johnny Cage,You and me both. But they aren't ghosts. They're definitely real.,,N,MoKo11-443,MoKo11-445
+MoKo11-445,FIRE & ICE / SUB-ZERO & SCORPION,,Jacqui Briggs,Can this get any more bizarre?,,N,MoKo11-444,MoKo11-446
+MoKo11-446,FIRE & ICE / SUB-ZERO & SCORPION,,,[Briggs Farm. Jax searching for his phone.],,Y,MoKo11-445,MoKo11-447
+MoKo11-447,FIRE & ICE / SUB-ZERO & SCORPION,,Jax Briggs,"Oh, come on... Damn it! Come on, come on…",,N,MoKo11-446,MoKo11-448
+MoKo11-448,FIRE & ICE / SUB-ZERO & SCORPION,,,[The call fails. He can’t call Jacqui. He goes mad and drinks himself to sleep. Kronika appears.],,Y,MoKo11-447,MoKo11-449
+MoKo11-449,FIRE & ICE / SUB-ZERO & SCORPION,,Kronika,Jackson Briggs. Do not fear. I have come to offer you a new life -- a better life.,,N,MoKo11-448,MoKo11-450
+MoKo11-450,FIRE & ICE / SUB-ZERO & SCORPION,,Jax Briggs,"That's awfully generous, seeing as we’ve never met.",,N,MoKo11-449,MoKo11-451
+MoKo11-451,FIRE & ICE / SUB-ZERO & SCORPION,,Kronika,"We have not met, but I know you. How valiantly you have served, how horribly you have suffered. That was not my plan for you.",,N,MoKo11-450,MoKo11-452
+MoKo11-452,FIRE & ICE / SUB-ZERO & SCORPION,,Jax Briggs,Your plan?,,N,MoKo11-451,MoKo11-453
+MoKo11-453,FIRE & ICE / SUB-ZERO & SCORPION,,Kronika,"You were to retire distinguished, not in disgrace. Years from now. General Jackson Briggs. More importantly, your daughter was not to serve, nor endure the same tragedies you have. Your home should be filled with grandchildren. Help me and it will be.",,N,MoKo11-452,MoKo11-454
+MoKo11-454,TRUTHS REVEALED / JADE,,Kotal Kahn,"The Tarkatans, long extinct, have also returned.",,N,MoKo11-453,MoKo11-455
+MoKo11-455,TRUTHS REVEALED / JADE,,Raiden,Shao Kahn will seek them out. He relies on their power.,,N,MoKo11-454,MoKo11-456
+MoKo11-456,TRUTHS REVEALED / JADE,,Jade,"Kotal’s scouts tracked a Tarkatan war party to the Kytinn’s Lost Hive, D’Vorah’s ancestral home. Her hand in Shao Kahn’s escape makes that our starting point.",,N,MoKo11-455,MoKo11-457
+MoKo11-457,TRUTHS REVEALED / JADE,,Raiden,Please advise me of what you learn. I must consult with the Elder Gods.,,N,MoKo11-456,MoKo11-458
+MoKo11-458,TRUTHS REVEALED / JADE,,,[He leaves. Kitana appears.],,Y,MoKo11-457,MoKo11-459
+MoKo11-459,TRUTHS REVEALED / JADE,,Kitana,When do we leave?,,N,MoKo11-458,MoKo11-460
+MoKo11-460,TRUTHS REVEALED / JADE,,Kotal Kahn,"Your duty lies elsewhere, Princess. I need you to enlist Queen Sheeva. Her support is critical, against both Kronika and Shao Kahn.",,N,MoKo11-459,MoKo11-461
+MoKo11-461,TRUTHS REVEALED / JADE,,Kitana,Surely you can--,,N,MoKo11-460,MoKo11-462
+MoKo11-462,TRUTHS REVEALED / JADE,,Kotal Kahn,Queen Sheeva does not trust me. No Shokan has Since my bloody battle with Goro.,,N,MoKo11-461,MoKo11-463
+MoKo11-463,TRUTHS REVEALED / JADE,,Jade,"Sheeva’s always respected your opinion more than anyone's. When she hears you support Kotal, she'll join us.",,N,MoKo11-462,MoKo11-464
+MoKo11-464,TRUTHS REVEALED / JADE,,Kitana,"If that is my duty, so be it.",,N,MoKo11-463,MoKo11-465
+MoKo11-465,TRUTHS REVEALED / JADE,,Kotal Kahn,"Thank you, Princess.",,N,MoKo11-464,MoKo11-466
+MoKo11-466,TRUTHS REVEALED / JADE,,,[He leaves.],,Y,MoKo11-465,MoKo11-467
+MoKo11-467,TRUTHS REVEALED / JADE,,Kitana,Are you my friend or his consort?,,N,MoKo11-466,MoKo11-468
+MoKo11-468,TRUTHS REVEALED / JADE,,Jade,"It was my idea, Kitana. It's in your best interest. Succeed with Sheeva, and Kotal will pledge his loyalty to you. There's no bond more sacred to an Osh-Tekk like him.",,N,MoKo11-467,MoKo11-469
+MoKo11-469,TRUTHS REVEALED / JADE,,,[Soon Jade and Kotal Kahn ride through the desert.],,Y,MoKo11-468,MoKo11-470
+MoKo11-470,TRUTHS REVEALED / JADE,,Jade,I remember when we could ride like this alone.,,N,MoKo11-469,MoKo11-471
+MoKo11-471,TRUTHS REVEALED / JADE,,Kotal Kahn,"My life has changed as Outworld’s Kahn. Thankfully, you have not.",,N,MoKo11-470,MoKo11-472
+MoKo11-472,TRUTHS REVEALED / JADE,,Jade,"You haven't changed much either, despite the years. You're still the same noble warrior I met in Shao Kahn's court. And now you're Kahn. I'm surprised no woman has claimed your bed and become your queen.",,N,MoKo11-471,MoKo11-473
+MoKo11-473,TRUTHS REVEALED / JADE,,Kotal Kahn,Many have tried.,,N,MoKo11-472,MoKo11-474
+MoKo11-474,TRUTHS REVEALED / JADE,,Jade,Yet they failed? Why?,,N,MoKo11-473,MoKo11-475
+MoKo11-475,TRUTHS REVEALED / JADE,,Kotal Kahn,None of them were you.,,N,MoKo11-474,MoKo11-476
+MoKo11-476,TRUTHS REVEALED / JADE,,Jade,"There are fresh tracks leading into the Hive. If Shao Kahn's in there, he'll be difficult to find. The tunnels are endless.",,N,MoKo11-475,MoKo11-477
+MoKo11-477,TRUTHS REVEALED / JADE,,Kotal Kahn,"Set fire to them. If he's hidden, he will be smoked out.",,N,MoKo11-476,MoKo11-478
+MoKo11-478,TRUTHS REVEALED / JADE,,Jade,"Kotal, we don't know who else is in there.",,N,MoKo11-477,MoKo11-479
+MoKo11-479,TRUTHS REVEALED / JADE,,,[An earthquake happens and an army of giant bugs appears. They take Jade underground.],,Y,MoKo11-478,MoKo11-480
+MoKo11-480,TRUTHS REVEALED / JADE,,Resurrected Jade,Hold her!,,N,MoKo11-479,MoKo11-481
+MoKo11-481,TRUTHS REVEALED / JADE,,,[Jade frees herself.],,Y,MoKo11-480,MoKo11-482
+MoKo11-482,TRUTHS REVEALED / JADE,,Jade,"By the Gods, it’s true? This is what I become?!",,N,MoKo11-481,MoKo11-483
+MoKo11-483,TRUTHS REVEALED / JADE,,Resurrected Jade,Blame your loyalty to Kitana. It led directly to our death.,,N,MoKo11-482,MoKo11-484
+MoKo11-484,TRUTHS REVEALED / JADE,,Jade,Then so be it. I would not trade Kitana's friendship for anything.,,N,MoKo11-483,MoKo11-485
+MoKo11-485,TRUTHS REVEALED / JADE,,Resurrected Jade,it is pitiful you choose servitude.,,N,MoKo11-484,MoKo11-486
+MoKo11-486,TRUTHS REVEALED / JADE,,Jade,"She and I fight side-by-side, against Shao Kahn. His oppression cannot stand!",,N,MoKo11-485,MoKo11-487
+MoKo11-487,TRUTHS REVEALED / JADE,,,[JADE VS RESURRECTED JADE],,Y,MoKo11-486,MoKo11-488
+MoKo11-488,TRUTHS REVEALED / JADE,,Jade,"When called for a higher purpose, we must serve.",,N,MoKo11-487,MoKo11-489
+MoKo11-489,TRUTHS REVEALED / JADE,,???,Ack-Na ! Kot-tek-hah!,,N,MoKo11-488,MoKo11-490
+MoKo11-490,TRUTHS REVEALED / JADE,,Kotal Kahn,"You will bleed for your betrayal, D’Vorah.",,N,MoKo11-489,MoKo11-491
+MoKo11-491,TRUTHS REVEALED / JADE,,D’Vorah,This One acts only for the Hive’s survival.,,N,MoKo11-490,MoKo11-492
+MoKo11-492,TRUTHS REVEALED / JADE,,,"[They fight and D’Vorah wins. She almost succeeds in feeding Kotal with her delicious maggots, like she did with Mileena in the previous game, but Jade interrupts the feast.]",,Y,MoKo11-491,MoKo11-493
+MoKo11-493,TRUTHS REVEALED / JADE,,Jade,"You'd best flee, D’Vorah. Kotal is mine.",,N,MoKo11-492,MoKo11-494
+MoKo11-494,TRUTHS REVEALED / JADE,,,[JADE VS D’VORAH],,Y,MoKo11-493,MoKo11-495
+MoKo11-495,TRUTHS REVEALED / JADE,,Jade,Wish to survive? Tell us where to find Shao Kahn.,,N,MoKo11-494,MoKo11-496
+MoKo11-496,TRUTHS REVEALED / JADE,,Kotal Kahn,Ghosts of my past. D’Vorah spoke the truth. We are outnumbered.,,N,MoKo11-495,MoKo11-497
+MoKo11-497,TRUTHS REVEALED / JADE,,Jade,Give me a few of your best soldiers. We’ll infiltrate the camp and search for Shao Kahn unseen.,,N,MoKo11-496,MoKo11-498
+MoKo11-498,TRUTHS REVEALED / JADE,,Kotal Kahn,What you propose is dangerous.,,N,MoKo11-497,MoKo11-499
+MoKo11-499,TRUTHS REVEALED / JADE,,Jade,Of course it is.,,N,MoKo11-498,MoKo11-500
+MoKo11-500,TRUTHS REVEALED / JADE,,,[She with a few warriors infiltrates Tarkatan camp.],,Y,MoKo11-499,MoKo11-501
+MoKo11-501,TRUTHS REVEALED / JADE,,Tarkatan 1,"Okot nara toka nit Ratash, oko nar?",,N,MoKo11-500,MoKo11-502
+MoKo11-502,TRUTHS REVEALED / JADE,,Tarkatan 2,Nar hartak latah ratk.,,N,MoKo11-501,MoKo11-503
+MoKo11-503,TRUTHS REVEALED / JADE,,Tarkatan 1,"Alk Tarkata aka ha, Tetakh.",,N,MoKo11-502,MoKo11-504
+MoKo11-504,TRUTHS REVEALED / JADE,,Tarkatan 2,No nakhut nay. Trakka tor no rakata.,,N,MoKo11-503,MoKo11-505
+MoKo11-505,TRUTHS REVEALED / JADE,,Tarkatan 1,Kabak takarwak hakta kaht? Tak pakar rah batahat.,,N,MoKo11-504,MoKo11-506
+MoKo11-506,TRUTHS REVEALED / JADE,,Tarkatan 3,Tor parkaht. Wak kaht nak Shao Kahn kolkat ha trabakar.,,N,MoKo11-505,MoKo11-507
+MoKo11-507,TRUTHS REVEALED / JADE,,Tarkatan 1,Wakt hakka turk. Wak rakata raynar Kotal khanak.,,N,MoKo11-506,MoKo11-508
+MoKo11-508,TRUTHS REVEALED / JADE,,Tarkatan 3,Nar oko papkhat.,,N,MoKo11-507,MoKo11-509
+MoKo11-509,TRUTHS REVEALED / JADE,,,[Jade and her warriors stumbles upon... a Tarkatan woman?],,Y,MoKo11-508,MoKo11-510
+MoKo11-510,TRUTHS REVEALED / JADE,,Tarkatan woman?,Toh ha na? Taka ha na aki Tarkata? Nay... Nay... Trakka ti!,,N,MoKo11-509,MoKo11-511
+MoKo11-511,TRUTHS REVEALED / JADE,,,[One of the warriors is ready to kill her but Jade stops him.],,Y,MoKo11-510,MoKo11-512
+MoKo11-512,TRUTHS REVEALED / JADE,,Jade,No.,,N,MoKo11-511,MoKo11-513
+MoKo11-513,TRUTHS REVEALED / JADE,,Tarkatan woman?,Parkah...,,N,MoKo11-512,MoKo11-514
+MoKo11-514,TRUTHS REVEALED / JADE,,Jade,It's all right. We won't harm you.,,N,MoKo11-513,MoKo11-515
+MoKo11-515,TRUTHS REVEALED / JADE,,Tarkatan woman?,Nay ti oto nokorta.,,N,MoKo11-514,MoKo11-516
+MoKo11-516,TRUTHS REVEALED / JADE,,Jade,We're looking for Shao Kahn.,,N,MoKo11-515,MoKo11-517
+MoKo11-517,TRUTHS REVEALED / JADE,,Tarkatan woman?,Shao Kahn? Pakta ray Shao Kahn?,,N,MoKo11-516,MoKo11-518
+MoKo11-518,TRUTHS REVEALED / JADE,,Jade,Please… We only need to…,,N,MoKo11-517,MoKo11-519
+MoKo11-519,TRUTHS REVEALED / JADE,,,[The camp rises in alarm.],,Y,MoKo11-518,MoKo11-520
+MoKo11-520,TRUTHS REVEALED / JADE,,Kotal Kahn,With me!,,N,MoKo11-519,MoKo11-521
+MoKo11-521,TRUTHS REVEALED / JADE,,,[Jade fights for her life until she met the prisoner. Meanwhile Kotal smashes the army of Tarkatan he was outnumbered for.],,Y,MoKo11-520,MoKo11-522
+MoKo11-522,TRUTHS REVEALED / JADE,,Jade,All these years and still you exploit others to rise above your station.,,N,MoKo11-521,MoKo11-523
+MoKo11-523,TRUTHS REVEALED / JADE,,Prisoner,"I have risen to my station Jade. Before Shao Kahn raised me up, Outworlders despised the Naknada. Now they fear us. Tell me that is not progress!",,N,MoKo11-522,MoKo11-524
+MoKo11-524,TRUTHS REVEALED / JADE,,,[JADE VS KOLLECTOR],,Y,MoKo11-523,MoKo11-525
+MoKo11-525,TRUTHS REVEALED / JADE,,Jade,Fear and respect are not equals.,,N,MoKo11-524,MoKo11-526
+MoKo11-526,TRUTHS REVEALED / JADE,,Kotal Kahn,Line them up. Execute them.,,N,MoKo11-525,MoKo11-527
+MoKo11-527,TRUTHS REVEALED / JADE,,,[Jade interrupts the executions.],,Y,MoKo11-526,MoKo11-528
+MoKo11-528,TRUTHS REVEALED / JADE,,Jade,"Kotal, this is cruel! Many didn’t fight us. There are children!",,N,MoKo11-527,MoKo11-529
+MoKo11-529,TRUTHS REVEALED / JADE,,Kotal Kahn,"You forget, in my time they joined Mileena in rebellion against me. These aren’t the same Tarkatans, Kotal. A better Kahn would offer them a warm hand, not cold steel.",,N,MoKo11-528,MoKo11-530
+MoKo11-530,TRUTHS REVEALED / JADE,,,[JADE VS KOTAL KAHN],,Y,MoKo11-529,MoKo11-531
+MoKo11-531,TRUTHS REVEALED / JADE,,Jade,"Your heart has hardened, Kotal.",,N,MoKo11-530,MoKo11-532
+MoKo11-532,TRUTHS REVEALED / JADE,,,[Shao Kahn and his generals enter. He takes a long for the pathetic Kahn that lies on the ground. We switch to Raiden that comes to the Elder Gods but their temple lies in ruins.],,Y,MoKo11-531,MoKo11-533
+MoKo11-533,TRUTHS REVEALED / JADE,,Raiden,It is too late.,,N,MoKo11-532,MoKo11-534
+MoKo11-534,TRUTHS REVEALED / JADE,,???,"Blame yourself for the Elder Gods' deaths, Raiden. Your actions have irrevocably altered Kronika’s golden balance of light and dark. Shinnok’s decapitation was the cap stone.",,N,MoKo11-533,MoKo11-535
+MoKo11-535,TRUTHS REVEALED / JADE,,Raiden,You are a paragon of virtue. You should wish evil vanished!,,N,MoKo11-534,MoKo11-536
+MoKo11-536,TRUTHS REVEALED / JADE,,???,I abide my mother's will.,,N,MoKo11-535,MoKo11-537
+MoKo11-537,TRUTHS REVEALED / JADE,,Raiden,You were begotten by Kronika.,,N,MoKo11-536,MoKo11-538
+MoKo11-538,TRUTHS REVEALED / JADE,,???,"As was my brother, Shinnok. The darkness to my light. Nature demands equilibrium. Balance is perfection. You have stepped out of your role, made that balance impossible. That's why the New Era holds no place for you.",,N,MoKo11-537,MoKo11-539
+MoKo11-539,TRUTHS REVEALED / JADE,,Raiden,You will not succeed.,,N,MoKo11-538,MoKo11-540
+MoKo11-540,TRUTHS REVEALED / JADE,,???,"Kotal Kahn is captured, Raiden. The combined might of Outworld and the Netherrealm will keep your forces at bay -- while my mother finishes her work.",,N,MoKo11-539,MoKo11-541
+MoKo11-541,TRUTHS REVEALED / JADE,,Raiden,Do not underestimate Earthrealm’s warriors.,,N,MoKo11-540,MoKo11-542
+MoKo11-542,TRUTHS REVEALED / JADE,,???,You are right to have been fond of these mortals. They were good souls.,,N,MoKo11-541,MoKo11-543
+MoKo11-543,TRUTHS REVEALED / JADE,,,[Meanwhile at Special Forces headquarters young Jax got new arms.],,Y,MoKo11-542,MoKo11-544
+MoKo11-544,TRUTHS REVEALED / JADE,,Young Jax Briggs,"Man. These arms are an upgrade. It’ll be payback time, next time I see Ermac.",,N,MoKo11-543,MoKo11-545
+MoKo11-545,TRUTHS REVEALED / JADE,,Jacqui Briggs,Oh I made sure he got his.,,N,MoKo11-544,MoKo11-546
+MoKo11-546,TRUTHS REVEALED / JADE,,Young Jax Briggs,I imagine 'future me' is out kicking ass with these right now.,,N,MoKo11-545,MoKo11-547
+MoKo11-547,TRUTHS REVEALED / JADE,,Jacqui Briggs,"Cassie told you that 'future you’ spent time as a Revenant, yeah?",,N,MoKo11-546,MoKo11-548
+MoKo11-548,TRUTHS REVEALED / JADE,,Young Jax Briggs,Sounded horrible. Can’t imagine becoming Shinnok's puppet But she says I come back from it.,,N,MoKo11-547,MoKo11-549
+MoKo11-549,TRUTHS REVEALED / JADE,,Jacqui Briggs,The experience haunted Dad. But then he -- you -- met Mom. She brought you back to life.,,N,MoKo11-548,MoKo11-550
+MoKo11-550,TRUTHS REVEALED / JADE,,Young Jax Briggs,The love of a good woman? Like the sound of that.,,N,MoKo11-549,MoKo11-551
+MoKo11-551,TRUTHS REVEALED / JADE,,Jacqui Briggs,"She was Dad's everything. She died last year. Ever since, Dad’s stayed on the farm. He feels safer there.",,N,MoKo11-550,MoKo11-552
+MoKo11-552,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,Here’s how you access incoming reports. Swipe here to crosscheck them with past reports. The software can suss out the deltas.,,N,MoKo11-551,MoKo11-553
+MoKo11-553,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Sonya Blade,Now that's progress.,,N,MoKo11-552,MoKo11-554
+MoKo11-554,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Johnny Cage,So I marry Lieutenant Princess over there? I always have had a thing for blondes. Ever since Suzie...,,N,MoKo11-553,MoKo11-555
+MoKo11-555,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young and Old,Donardo. Junior year.,,N,MoKo11-554,MoKo11-556
+MoKo11-556,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,"Take it from me, you didn’t miss much. That woman over there? She s the real deal.",,N,MoKo11-555,MoKo11-557
+MoKo11-557,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Johnny Cage,"Oh, I got eyes, brother. As Younger You, I solemnly swear to tap that at the earliest opportunity.",,N,MoKo11-556,MoKo11-558
+MoKo11-558,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[Everyone looks at Young Johnny.],,Y,MoKo11-557,MoKo11-559
+MoKo11-559,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Johnny Cage,What? it’s our destiny!,,N,MoKo11-558,MoKo11-560
+MoKo11-560,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage, Out!,(grabs him by the ear) ,N,MoKo11-559,MoKo11-561
+MoKo11-561,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Sonya Blade,How the hell do I ever sleep with that guy? Who’s your father. I can't believe I just said that.,,N,MoKo11-560,MoKo11-562
+MoKo11-562,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,"Look, my dad isn’t the Johnny you know. He. . Grew up. I like to think you rubbed off on him. As a kid, I looked up to both of you.",,N,MoKo11-561,MoKo11-563
+MoKo11-563,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Sonya Blade,My Dad -- your grandfather -- was my hero. Called me Private Pun’kin.,,N,MoKo11-562,MoKo11-564
+MoKo11-564,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,Huh. That’s what you called me. We should get back to work.,,N,MoKo11-563,MoKo11-565
+MoKo11-565,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Computer,Biometric verification required. ID verified -- General Sonya Blade.,,N,MoKo11-564,MoKo11-566
+MoKo11-566,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Sonya Blade,General Blade? Dad would be proud.,,N,MoKo11-565,MoKo11-567
+MoKo11-567,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[She gets to work. Johnny Cage meanwhile takes the younger self to some hangar.],,Y,MoKo11-566,MoKo11-568
+MoKo11-568,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Johnny Cage,"Untwist your panties, Older Me. I'm a star.",,N,MoKo11-567,MoKo11-569
+MoKo11-569,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,"This is a military operation, not a movie set.",,N,MoKo11-568,MoKo11-570
+MoKo11-570,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Johnny Cage,I'm only the best fighter here. But your daughter’s got me sitting at the kids table.,,N,MoKo11-569,MoKo11-571
+MoKo11-571,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,Our daughter is C.O. A little humility might earn her respect.,,N,MoKo11-570,MoKo11-572
+MoKo11-572,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Johnny Cage,"Dad always said, ""Hungry people eat lunch, humble people serve it.""",,N,MoKo11-571,MoKo11-573
+MoKo11-573,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,Dad was an asshole. Hollywood made us an even bigger one.,,N,MoKo11-572,MoKo11-574
+MoKo11-574,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[JOHNNY CAGE VS YOUNG JOHNNY CAGE],,Y,MoKo11-573,MoKo11-575
+MoKo11-575,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,An old man just kicked your ass.,,N,MoKo11-574,MoKo11-576
+MoKo11-576,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Johnny Cage,You got lucky.,,N,MoKo11-575,MoKo11-577
+MoKo11-577,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[We’re back to Sonya.],,Y,MoKo11-576,MoKo11-578
+MoKo11-578,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Sonya Blade,What?  You left me behind.,(to Cassie) ,N,MoKo11-577,MoKo11-579
+MoKo11-579,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,Excuse me?,,N,MoKo11-578,MoKo11-580
+MoKo11-580,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Sonya Blade,My final mission.,,N,MoKo11-579,MoKo11-581
+MoKo11-581,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,How did you – Shit. No. I'm not doing this. Not now. Not with you.,,N,MoKo11-580,MoKo11-582
+MoKo11-582,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Sonya Blade,"Dammit, Cassie. You abandoned me?",,N,MoKo11-581,MoKo11-583
+MoKo11-583,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,To save the company! That was my order.,,N,MoKo11-582,MoKo11-584
+MoKo11-584,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Sonya Blade,Who the hell gave you that order?!,,N,MoKo11-583,MoKo11-585
+MoKo11-585,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,"You did. Read the full report, Lieutenant.",,N,MoKo11-584,MoKo11-586
+MoKo11-586,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[Suddenly an alarm beeping.],,Y,MoKo11-585,MoKo11-587
+MoKo11-587,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,"Go to Condition Red! We’re under attack! Repeat, we're under attack!",,N,MoKo11-586,MoKo11-588
+MoKo11-588,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Johnny Cage,"Yippee-ki-yay, right?",,N,MoKo11-587,MoKo11-589
+MoKo11-589,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,Follow my lead.,,N,MoKo11-588,MoKo11-590
+MoKo11-590,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[An explosion happens. Erron Black and his people walking into the hanger. We switch to Kano and his army of clones. Sektor enters. He has new white-red armor and laser gun. Meanwhile Special Forces headquarters are preparing to fight back the intruders.],,Y,MoKo11-589,MoKo11-591
+MoKo11-591,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,"Oh, that's freaky like Friday.",,N,MoKo11-590,MoKo11-592
+MoKo11-592,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Johnny Cage,"They shot our face, Johnny. They shot. Our FACE.",,N,MoKo11-591,MoKo11-593
+MoKo11-593,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[He going berserk and start shooting randomly.],,Y,MoKo11-592,MoKo11-594
+MoKo11-594,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,He's gonna get us killed.,,N,MoKo11-593,MoKo11-595
+MoKo11-595,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[Young Johnny takes Erron’s man and our Johnny takes Erron himself.],,Y,MoKo11-594,MoKo11-596
+MoKo11-596,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,"Ooh! Funny way of saying howdy, partner.",,N,MoKo11-595,MoKo11-597
+MoKo11-597,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Erron Black,I was saying goodbye.,,N,MoKo11-596,MoKo11-598
+MoKo11-598,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,"Now why‘s a nice Texas boy like Erron Black in bed with the Black Dragon? Older You works for Kotal Kahn. He's one of the good guys, kinda.",,N,MoKo11-597,MoKo11-599
+MoKo11-599,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Erron Black,"When I pick sides, I pick a winner. Every time.",,N,MoKo11-598,MoKo11-600
+MoKo11-600,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[JOHNNY CAGE VS ERRON BLACK],,Y,MoKo11-599,MoKo11-601
+MoKo11-601,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,You chose... poorly. Cassie! Sonya!,,N,MoKo11-600,MoKo11-602
+MoKo11-602,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[He finds Cassie on the floor.],,Y,MoKo11-601,MoKo11-603
+MoKo11-603,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,"Breathe, kiddo.",,N,MoKo11-602,MoKo11-604
+MoKo11-604,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,They took Mom-- Sonya.,,N,MoKo11-603,MoKo11-605
+MoKo11-605,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,I’ll get her. Can we find out where they’ve gone?,,N,MoKo11-604,MoKo11-606
+MoKo11-606,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Jacqui Briggs,Tarmac B.,,N,MoKo11-605,MoKo11-607
+MoKo11-607,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,On it. Keep her safe.,,N,MoKo11-606,MoKo11-608
+MoKo11-608,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[Outside Sektor and his .],,Y,MoKo11-607,MoKo11-609
+MoKo11-609,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Sektor,Take her.,,N,MoKo11-608,MoKo11-610
+MoKo11-610,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,"[Johnny Cage appears on the damn tank. He rams the robots of Sektor and is going to crush him too, but Sektor has an aircraft stashed away. He sits on it and fires rockets at Cage’s tank. Johnny is evacuated and blows up his tank. Sektor’s aircraft lights up and he also has to evacuate.]",,Y,MoKo11-609,MoKo11-611
+MoKo11-611,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,Two can play that game.,,N,MoKo11-610,MoKo11-612
+MoKo11-612,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Sektor,Send another extraction vehicle.,,N,MoKo11-611,MoKo11-613
+MoKo11-613,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,"You won't be online long enough for your friends to make it, Tin-Head.",,N,MoKo11-612,MoKo11-614
+MoKo11-614,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Sektor,"Johnny Cage. Cyrax defeated you when you were younger and stronger. As I am his superior, I am yours.",,N,MoKo11-613,MoKo11-615
+MoKo11-615,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,"You’re forgetting the time I beat Shinnok, mano-a-mano. Oh, wait! You were dead when that happened.",,N,MoKo11-614,MoKo11-616
+MoKo11-616,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[JOHNNY CAGE VS SEKTOR],,Y,MoKo11-615,MoKo11-617
+MoKo11-617,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,Go back to the 90s. Who’s next?,,N,MoKo11-616,MoKo11-618
+MoKo11-618,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Kano,"I’m next, Hollywood.",,N,MoKo11-617,MoKo11-619
+MoKo11-619,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[Johnny kicks his nuts. In slow-mo.],,Y,MoKo11-618,MoKo11-620
+MoKo11-620,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,Shit. As if Throwback Me wasn’t bad enough.,,N,MoKo11-619,MoKo11-621
+MoKo11-621,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Kano,"Oh, it gets bloody worse. Sonya and your little girl… they’re gonna die. Right in front of your face.",,N,MoKo11-620,MoKo11-622
+MoKo11-622,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[JOHNNY CAGE VS YOUNG KANO],,Y,MoKo11-621,MoKo11-623
+MoKo11-623,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,No one threatens my family.  Oh! Motherf -,(someone shoots him in the leg) ,N,MoKo11-622,MoKo11-624
+MoKo11-624,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[Kano with Young Johnny Cage as a hostage appears.],,Y,MoKo11-623,MoKo11-625
+MoKo11-625,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Kano,"Well, well Got ourselves a full on generation swap here. Don’t think so. Between Ninja Mime and Lady Liberty, we’ve got all the leverage. We’re leaving.",,N,MoKo11-624,MoKo11-626
+MoKo11-626,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[An aircraft flies up from which a Young Kabal goes out and several robots.],,Y,MoKo11-625,MoKo11-627
+MoKo11-627,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Kano,Kabal. Go get my lesser half.,,N,MoKo11-626,MoKo11-628
+MoKo11-628,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Kabal,And the base?,,N,MoKo11-627,MoKo11-629
+MoKo11-629,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Kano,Taken care of.,,N,MoKo11-628,MoKo11-630
+MoKo11-630,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,"[He pushes a button on a detonator. Kano, Young Kabal takes Young Johnny and Young Sonya Blade and leaves. Cassie runs for the aircraft.]",,Y,MoKo11-629,MoKo11-631
+MoKo11-631,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Jacqui Briggs,Cassie! Don't!,,N,MoKo11-630,MoKo11-632
+MoKo11-632,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[She shoots a bug at the aircraft.],,Y,MoKo11-631,MoKo11-633
+MoKo11-633,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,Let’s go get them.,,N,MoKo11-632,MoKo11-634
+MoKo11-634,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,Anyone else hear that beeping?,,N,MoKo11-633,MoKo11-635
+MoKo11-635,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[It’s Sektor. He almost detonates. Raiden appears.],,Y,MoKo11-634,MoKo11-636
+MoKo11-636,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Raiden,Have I arrived too late?,,N,MoKo11-635,MoKo11-637
+MoKo11-637,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Johnny Cage,You’re back in the nick of time!,,N,MoKo11-636,MoKo11-638
+MoKo11-638,WAR ON THE HOMEFRONT / JOHNNY CAGE,,,[Raiden teleports the heroes to Scorpion’s dojo.],,Y,MoKo11-637,MoKo11-639
+MoKo11-639,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Young Jax Briggs,Now that's what I call a miracle.,,N,MoKo11-638,MoKo11-640
+MoKo11-640,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,"Yeah, Raiden. Thanks.",,N,MoKo11-639,MoKo11-641
+MoKo11-641,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Raiden,"Grand master Hasashi, I humbly request the Shirai Ryu's hospitality. My Sky Temple has been compromised. There is no safer place for us to gather.",,N,MoKo11-640,MoKo11-642
+MoKo11-642,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Hanzo Hasashi,Lord Raiden. Welcome to the Fire Garden.,,N,MoKo11-641,MoKo11-643
+MoKo11-643,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Cassie Cage,The Elder Gods are gone? Shinnok is Kronika's son? No wonder she sent the Black Dragon after me and Dad. We both kicked his ass.,,N,MoKo11-642,MoKo11-644
+MoKo11-644,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Raiden,It is not vengeance that drives Kronika. She restarts history to balance light and dark among the realms.,,N,MoKo11-643,MoKo11-645
+MoKo11-645,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Liu Kang,"What can we do, Lord Raiden?",,N,MoKo11-644,MoKo11-646
+MoKo11-646,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Raiden,Gather Earthrealm's forces. But that effort will be for naught if Kotal Kahn's armies cannot join us. Cetrion informed me that Shao Kahn has captured Kotal Kahn We must spare no effort to free him.,,N,MoKo11-645,MoKo11-647
+MoKo11-647,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Liu Kang,Kung Lao and I will go. We will rendezvous with Princess Kitana.,,N,MoKo11-646,MoKo11-648
+MoKo11-648,WAR ON THE HOMEFRONT / JOHNNY CAGE,,Raiden,Thank you both May the Elder Gods protect –  May you return victorious.,(he stops for a second) ,N,MoKo11-647,MoKo11-649
+MoKo11-649,COMING OF AGE / KITANA,,,[Meanwhile Kitana negotiates with Queen Sheeva.],,Y,MoKo11-648,MoKo11-650
+MoKo11-650,COMING OF AGE / KITANA,,Queen Sheeva,"You are passionate, Princess Kitana. But I am not persuaded.",,N,MoKo11-649,MoKo11-651
+MoKo11-651,COMING OF AGE / KITANA,,Kitana,"Queen Sheeva, haven’t your people fared better under Kotal Kahn than Shao Kahn?",,N,MoKo11-650,MoKo11-652
+MoKo11-652,COMING OF AGE / KITANA,,Queen Sheeva,"In some ways. But we can only guess which Kahn will prevail in this struggle. We gain no advantage, choosing sides now.",,N,MoKo11-651,MoKo11-653
+MoKo11-653,COMING OF AGE / KITANA,,Liu Kang,Princess!,,N,MoKo11-652,MoKo11-654
+MoKo11-654,COMING OF AGE / KITANA,,Kitana,Liu Kang? Why are you here?,,N,MoKo11-653,MoKo11-655
+MoKo11-655,COMING OF AGE / KITANA,,Liu Kang,"Kotal Kahn has been captured by the Tarkatans. We must act quickly, before he is executed.",,N,MoKo11-654,MoKo11-656
+MoKo11-656,COMING OF AGE / KITANA,,Queen Sheeva,My people will not rally to a Kahn held in chains.,,N,MoKo11-655,MoKo11-657
+MoKo11-657,COMING OF AGE / KITANA,,Kitana,"We have Earthrealm’s support, your Highness. With yours, we can guarantee victory.",,N,MoKo11-656,MoKo11-658
+MoKo11-658,COMING OF AGE / KITANA,,Queen Sheeva,"There is no path to Victory without the Tarkatans. If they can be swayed to Kotal Kahn, it would be to our advantage to join him.",,N,MoKo11-657,MoKo11-659
+MoKo11-659,COMING OF AGE / KITANA,,Kitana,"I will return, Queen Sheeva, with the Tarkatans at my side. Together we will march on Shao Kahn.",,N,MoKo11-658,MoKo11-660
+MoKo11-660,COMING OF AGE / KITANA,,,[Meanwhile Kotal Kahn is put in a cell.],,Y,MoKo11-659,MoKo11-661
+MoKo11-661,COMING OF AGE / KITANA,,Shao Khan,"What is it about Jade's blood that intrigues you, Skarlet?",,N,MoKo11-660,MoKo11-662
+MoKo11-662,COMING OF AGE / KITANA,,Skarlet,"Edenian blood is most sweet, your Excellency. It is also a rare commodity.",,N,MoKo11-661,MoKo11-663
+MoKo11-663,COMING OF AGE / KITANA,,Liu Kang,Where are they taking him?,,N,MoKo11-662,MoKo11-664
+MoKo11-664,COMING OF AGE / KITANA,,Kitana,"To the Koliseum, no doubt.",,N,MoKo11-663,MoKo11-665
+MoKo11-665,COMING OF AGE / KITANA,,Kung Lao,Then we attack now.,,N,MoKo11-664,MoKo11-666
+MoKo11-666,COMING OF AGE / KITANA,,Kitana,"We’ll never sway Baraka to Kotal's side by taking the offensive. We must turn Baraka first, then attack Shao Kahn together.",,N,MoKo11-665,MoKo11-667
+MoKo11-667,COMING OF AGE / KITANA,,Kung Lao,The Tarkatans won't grant an audience Their instinct will be to attack.,,N,MoKo11-666,MoKo11-668
+MoKo11-668,COMING OF AGE / KITANA,,Liu Kang,"Not to mention Jade. At the first Sign of trouble, they could kill her.",,N,MoKo11-667,MoKo11-669
+MoKo11-669,COMING OF AGE / KITANA,,Kitana,I have an idea.,,N,MoKo11-668,MoKo11-670
+MoKo11-670,COMING OF AGE / KITANA,,,[They go to the camp in disguise with Kitana as hostage.],,Y,MoKo11-669,MoKo11-671
+MoKo11-671,COMING OF AGE / KITANA,,Liu Kang (as Kotal warrior),Who is in charge here?,,N,MoKo11-670,MoKo11-672
+MoKo11-672,COMING OF AGE / KITANA,,,[The heroes enters Shao Kahn’s tent. Skarlet interrogates Jade with her blood magic.],,Y,MoKo11-671,MoKo11-673
+MoKo11-673,COMING OF AGE / KITANA,,Skarlet,Almost done. Then time to feast.,,N,MoKo11-672,MoKo11-674
+MoKo11-674,COMING OF AGE / KITANA,,,[Kitana and her guards walks in.],,Y,MoKo11-673,MoKo11-675
+MoKo11-675,COMING OF AGE / KITANA,,Skarlet,Princess Kitana?,,N,MoKo11-674,MoKo11-676
+MoKo11-676,COMING OF AGE / KITANA,,Liu Kang,Our gift for Shao Kahn. We Wish to join his fight against Kotal.,,N,MoKo11-675,MoKo11-677
+MoKo11-677,COMING OF AGE / KITANA,,Skarlet,"All those years, the Kahn’s high and mighty daughter. Now brought low by common soldiers. Have you learned, finally, that you’re no better than the rest of us?",,N,MoKo11-676,MoKo11-678
+MoKo11-678,COMING OF AGE / KITANA,,Liu Kang,She is for Shao Kahn. We demand to see Baraka.,,N,MoKo11-677,MoKo11-679
+MoKo11-679,COMING OF AGE / KITANA,,Skarlet,You won't be seeing anyone... Liu Kang.,,N,MoKo11-678,MoKo11-680
+MoKo11-680,COMING OF AGE / KITANA,,Tarkatan,Nor arka! (Grab them!],,N,MoKo11-679,MoKo11-681
+MoKo11-681,COMING OF AGE / KITANA,,,[The fight begins.],,Y,MoKo11-680,MoKo11-682
+MoKo11-682,COMING OF AGE / KITANA,,,[Skarlet runs out of the tent. Kitana runs after her.],,Y,MoKo11-681,MoKo11-683
+MoKo11-683,COMING OF AGE / KITANA,,Skarlet,"You betrayed your father, Kitana!",,N,MoKo11-682,MoKo11-684
+MoKo11-684,COMING OF AGE / KITANA,,Kitana,"I was Shao Kahn’s ‘daughter’ by conquest. He stole Edenia from its rightful ruler, the father I never knew.",,N,MoKo11-683,MoKo11-685
+MoKo11-685,COMING OF AGE / KITANA,,Skarlet,"Because your people, and your bloodline were weak.",,N,MoKo11-684,MoKo11-686
+MoKo11-686,COMING OF AGE / KITANA,,,[KITANA VS SKARLET],,Y,MoKo11-685,MoKo11-687
+MoKo11-687,COMING OF AGE / KITANA,,Kitana,"There is more to power than conquest, Skarlet.",,N,MoKo11-686,MoKo11-688
+MoKo11-688,COMING OF AGE / KITANA,,,"[Liu Kang, Kung Lao and Jade appears.]",,Y,MoKo11-687,MoKo11-689
+MoKo11-689,COMING OF AGE / KITANA,,Kung Lao,"As requested, zero casualties.",,N,MoKo11-688,MoKo11-690
+MoKo11-690,COMING OF AGE / KITANA,,Kitana,"Jade, are you all right? We must find Baraka quickly to save Kotal.",,N,MoKo11-689,MoKo11-691
+MoKo11-691,COMING OF AGE / KITANA,,Jade,"Baraka won’t join us. Kotal’s hate for the Tarkatans runs too deep. If I hadn’t stopped him, Kotal would've executed them all.",,N,MoKo11-690,MoKo11-692
+MoKo11-692,COMING OF AGE / KITANA,,,[Baraka and his army suddenly enters.],,Y,MoKo11-691,MoKo11-693
+MoKo11-693,COMING OF AGE / KITANA,,Baraka,Yes. Kotal has made his intentions plain.,,N,MoKo11-692,MoKo11-694
+MoKo11-694,COMING OF AGE / KITANA,,Kitana,"Baraka, please listen. No more Tarkatans need to die.",,N,MoKo11-693,MoKo11-695
+MoKo11-695,COMING OF AGE / KITANA,,Baraka,"Kotal Kahn threatens all Tarkatans. In the New Era, Shao Kahn will rule.",,N,MoKo11-694,MoKo11-696
+MoKo11-696,COMING OF AGE / KITANA,,,[KITANA VS BARAKA],,Y,MoKo11-695,MoKo11-697
+MoKo11-697,COMING OF AGE / KITANA,,Kitana,"Hear me, Baraka I speak truth. Jade, Liu Kang, Kung Lao. Stand down!",,N,MoKo11-696,MoKo11-698
+MoKo11-698,COMING OF AGE / KITANA,,Baraka,Khut! Nar kombat trakka! (Hold! Cease your kombat!) Speak. You’ve earned the chance.,,N,MoKo11-697,MoKo11-699
+MoKo11-699,COMING OF AGE / KITANA,,Kitana,"Shao Kahn has pitted Outworld’s peoples against one another for millennia. And for what? The honor of dying in his wars? We must fight for each other, Baraka, not with each other.",,N,MoKo11-698,MoKo11-700
+MoKo11-700,COMING OF AGE / KITANA,,Baraka,Kotal wants us dead. He said as much to my face.,,N,MoKo11-699,MoKo11-701
+MoKo11-701,COMING OF AGE / KITANA,,Kitana,"Aid us, and I’ll make sure you sit at Kotal's table. Which do you prefer, Baraka? To be Shao Kahn's slave? Or Kotal Kahn’s trusted ally?",,N,MoKo11-700,MoKo11-702
+MoKo11-702,COMING OF AGE / KITANA,,Baraka,"No one's ever made Tarkatans such an offer. But these are your words, not his.",,N,MoKo11-701,MoKo11-703
+MoKo11-703,COMING OF AGE / KITANA,,Kitana,Help me save Kotal Kahn. We'll ask him together.,,N,MoKo11-702,MoKo11-704
+MoKo11-704,COMING OF AGE / KITANA,,Baraka,"He offers less, I’ll slit his throat.",,N,MoKo11-703,MoKo11-705
+MoKo11-705,COMING OF AGE / KITANA,,Kitana,"If he offers less, Baraka, I’ll help you.",,N,MoKo11-704,MoKo11-706
+MoKo11-706,COMING OF AGE / KITANA,,,[We switch to the arena. Kotal sits in chains. Shao Kahn reads a speech to the people.],,Y,MoKo11-705,MoKo11-707
+MoKo11-707,COMING OF AGE / KITANA,,Shao Kahn,"You’ve suffered too long at this pretender’s hands. But I've returned, and I will save you from his madness! Only I can rebuild the empire. All realms will tremble before me! Outworld will again be conquerors, never the conquered!",,N,MoKo11-706,MoKo11-708
+MoKo11-708,COMING OF AGE / KITANA,,,"[He is preparing to crush the skull of Kotal, but the gate is knocked out with a bang, and Kitana and her people enter the arena.]",,Y,MoKo11-707,MoKo11-709
+MoKo11-709,COMING OF AGE / KITANA,,Shao Kahn,"Where’s this boldness been hiding, Kitana? Had you shown it before, I’d have had no need for Mileena.",,N,MoKo11-708,MoKo11-710
+MoKo11-710,COMING OF AGE / KITANA,,Kitana,"My ‘sister’ was an unholy monster. Exactly like you, ‘father’.",,N,MoKo11-709,MoKo11-711
+MoKo11-711,COMING OF AGE / KITANA,,,"[She attacks Shao Kahn, but the Prisoner interrupts their fight.]",,Y,MoKo11-710,MoKo11-712
+MoKo11-712,COMING OF AGE / KITANA,,The Prisoner,Ungrateful shrew. Born to privilege which you throw away.,,N,MoKo11-711,MoKo11-713
+MoKo11-713,COMING OF AGE / KITANA,,Kitana,Who are you to judge me?,,N,MoKo11-712,MoKo11-714
+MoKo11-714,COMING OF AGE / KITANA,,The Prisoner,"You have not known cold or hunger. If you had, you would value the gifts Shao Kahn gave you.",,N,MoKo11-713,MoKo11-715
+MoKo11-715,COMING OF AGE / KITANA,,,[KITANA VS KOLLECTOR],,Y,MoKo11-714,MoKo11-716
+MoKo11-716,COMING OF AGE / KITANA,,Kitana,Be grateful you still breathe.,,N,MoKo11-715,MoKo11-717
+MoKo11-717,COMING OF AGE / KITANA,,,[Shao Kahn fights Kotal.],,Y,MoKo11-716,MoKo11-718
+MoKo11-718,COMING OF AGE / KITANA,,Jade,Kotal!,,N,MoKo11-717,MoKo11-719
+MoKo11-719,COMING OF AGE / KITANA,,Kitana,Surrender or face the consequences.,,N,MoKo11-718,MoKo11-720
+MoKo11-720,COMING OF AGE / KITANA,,Shao Kahn,Surrender on the brink of victory? You re as feeble minded as Jerrod --,,N,MoKo11-719,MoKo11-721
+MoKo11-721,COMING OF AGE / KITANA,,Kitana,King Jerrod. The father you murdered and stole me from.,,N,MoKo11-720,MoKo11-722
+MoKo11-722,COMING OF AGE / KITANA,,Shao Kahn,"I wanted Jerrod’s wife, not his heir. I kept you only to appease your mother. Do not expect mercy this time.",,N,MoKo11-721,MoKo11-723
+MoKo11-723,COMING OF AGE / KITANA,,,[KITANA VS SHAO KAHN],,Y,MoKo11-722,MoKo11-724
+MoKo11-724,COMING OF AGE / KITANA,,Kitana,I’ll not inherit your cruelty.,,N,MoKo11-723,MoKo11-725
+MoKo11-725,COMING OF AGE / KITANA,,,[She unmasks him and slit his throat.],,Y,MoKo11-724,MoKo11-726
+MoKo11-726,COMING OF AGE / KITANA,,Kung Lao,She did it!,,N,MoKo11-725,MoKo11-727
+MoKo11-727,COMING OF AGE / KITANA,,Liu Kang,Of course she did.,,N,MoKo11-726,MoKo11-728
+MoKo11-728,COMING OF AGE / KITANA,,Jade,Do you feel anything?,,N,MoKo11-727,MoKo11-729
+MoKo11-729,COMING OF AGE / KITANA,,Kotal Kahn,Shao Kahn has crippled me. Left me defenseless.,,N,MoKo11-728,MoKo11-730
+MoKo11-730,COMING OF AGE / KITANA,,Jade,Not while I am by your side.,,N,MoKo11-729,MoKo11-731
+MoKo11-731,COMING OF AGE / KITANA,,Kotal Kahn,You would have me? Even with my hardened heart?,,N,MoKo11-730,MoKo11-732
+MoKo11-732,COMING OF AGE / KITANA,,Jade,I know your heart. It can change.,,N,MoKo11-731,MoKo11-733
+MoKo11-733,COMING OF AGE / KITANA,,Kitana,"It’s over, Kotal Kahn. The throne is secure.",,N,MoKo11-732,MoKo11-734
+MoKo11-734,COMING OF AGE / KITANA,,Kotal Kahn,"Thank you. Baraka, Sheeva. I have not served your peoples well. Yet still you aided me. I will not forget.",,N,MoKo11-733,MoKo11-735
+MoKo11-735,COMING OF AGE / KITANA,,Baraka,We don’t need charity. We will share in Outworld’s rule.,,N,MoKo11-734,MoKo11-736
+MoKo11-736,COMING OF AGE / KITANA,,Kotal Kahn,That is up to her now.,,N,MoKo11-735,MoKo11-737
+MoKo11-737,COMING OF AGE / KITANA,,Kitana,What?,,N,MoKo11-736,MoKo11-738
+MoKo11-738,COMING OF AGE / KITANA,,Kotal Kahn,"The throne is yours. You have united Outworld, Kitana Kahn.",,N,MoKo11-737,MoKo11-739
+MoKo11-739,COMING OF AGE / KITANA,,Kung Lao, She's now officially out of your league.,(to Liu Kang) ,N,MoKo11-738,MoKo11-740
+MoKo11-740,COMING OF AGE / KITANA,,Kitana,"I am humbled, Kotal. From this day on, may all our peoples fight together as one.",,N,MoKo11-739,MoKo11-741
+MoKo11-741,COMING OF AGE / KITANA,,,[Meanwhile at Scorpion’s dojo...],,Y,MoKo11-740,MoKo11-742
+MoKo11-742,COMING OF AGE / KITANA,,Raiden,"The news from Outworld is indeed hopeful. But the location of Kronika's Keep remains a mystery it is beyond the realms, and has proven to be beyond my sight.",,N,MoKo11-741,MoKo11-743
+MoKo11-743,COMING OF AGE / KITANA,,Hanzo Hasashi,"Do you know of Kharon, Raiden?",,N,MoKo11-742,MoKo11-744
+MoKo11-744,COMING OF AGE / KITANA,,Sub-Zero,"Kharon, of course.",,N,MoKo11-743,MoKo11-745
+MoKo11-745,COMING OF AGE / KITANA,,Raiden,Who is Kharon?,,N,MoKo11-744,MoKo11-746
+MoKo11-746,COMING OF AGE / KITANA,,Hanzo Hasashi,Master of the ancient ship of the dead. Sub-Zero and I met him during our time as Revenants.,,N,MoKo11-745,MoKo11-747
+MoKo11-747,COMING OF AGE / KITANA,,Sub-Zero,"He travels in the space beyond realms, transporting damned souls to the Netherrealm.",,N,MoKo11-746,MoKo11-748
+MoKo11-748,COMING OF AGE / KITANA,,Hanzo Hasashi,"If the Keep lies there, Kharon may know its location.",,N,MoKo11-747,MoKo11-749
+MoKo11-749,COMING OF AGE / KITANA,,Raiden,Would he help us?,,N,MoKo11-748,MoKo11-750
+MoKo11-750,COMING OF AGE / KITANA,,Hanzo Hasashi,"It is possible, but I cannot be sure.",,N,MoKo11-749,MoKo11-751
+MoKo11-751,COMING OF AGE / KITANA,,Raiden,I urge you both to investigate.,,N,MoKo11-750,MoKo11-752
+MoKo11-752,COMING OF AGE / KITANA,,Hanzo Hasashi,We will leave immediately.,,N,MoKo11-751,MoKo11-753
+MoKo11-753,COMING OF AGE / KITANA,,,[Scorpion and Sub-Zero leaves.],,Y,MoKo11-752,MoKo11-754
+MoKo11-754,COMING OF AGE / KITANA,,Cassie Cage,"Locking down Outworld's army is huge. But still, I’d feel better if we had more manpower.",,N,MoKo11-753,MoKo11-755
+MoKo11-755,COMING OF AGE / KITANA,,Raiden,The Shaolin will join us. Liu Kang and Kung Lao travel now to aid the monks’ preparations.,,N,MoKo11-754,MoKo11-756
+MoKo11-756,COMING OF AGE / KITANA,,Cassie Cage,Good. I'll be leaving soon to go after Johnny and Sonya.,,N,MoKo11-755,MoKo11-757
+MoKo11-757,COMING OF AGE / KITANA,,Young Jax Briggs,"I’ll go, too.",,N,MoKo11-756,MoKo11-758
+MoKo11-758,COMING OF AGE / KITANA,,Jacqui Briggs,We're both going.,,N,MoKo11-757,MoKo11-759
+MoKo11-759,COMING OF AGE / KITANA,,Cassie Cage,No. Raiden needs you for an intel op.,,N,MoKo11-758,MoKo11-760
+MoKo11-760,COMING OF AGE / KITANA,,Young Jax Briggs,We need to get Sonya back.,,N,MoKo11-759,MoKo11-761
+MoKo11-761,COMING OF AGE / KITANA,,Raiden,"Undoubtedly. But Kronika’s behavior makes it clear that, while mighty, she is not all-powerful. Otherwise why would she attempt to steal Jinsei?",,N,MoKo11-760,MoKo11-762
+MoKo11-762,COMING OF AGE / KITANA,,Jacqui Briggs,Think maybe she’s still budding strength?,,N,MoKo11-761,MoKo11-763
+MoKo11-763,COMING OF AGE / KITANA,,Raiden,A distinct probability.,,N,MoKo11-762,MoKo11-764
+MoKo11-764,COMING OF AGE / KITANA,,Young Jax Briggs,Then what’s her next move?,,N,MoKo11-763,MoKo11-765
+MoKo11-765,COMING OF AGE / KITANA,,Raiden,"With the Dragon Grotto’s Jinsei fountain sealed, there is no greater energy source in Earthrealm than the Well of Souls beneath Shang Tsung’s island.",,N,MoKo11-764,MoKo11-766
+MoKo11-766,COMING OF AGE / KITANA,,Jacqui Briggs,Then we'd better go check it out.,,N,MoKo11-765,MoKo11-767
+MoKo11-767,COMING OF AGE / KITANA,,Raiden,I regret that I cannot join you. I must keep Vigil for SIgl‘is of Kronika further tampering with time.,,N,MoKo11-766,MoKo11-768
+MoKo11-768,COMING OF AGE / KITANA,,Cassie Cage,We all have our duty.,,N,MoKo11-767,MoKo11-769
+MoKo11-769,COMING OF AGE / KITANA,,Raiden,"I am told you defeated Shinnok, Cassandra Cage. You will defeat the likes of Kano. But proceed with caution. If either Johnny or Sonya die, you will cease to exist. It will be beyond my power to save you.",,N,MoKo11-768,MoKo11-770
+MoKo11-770,FIGHT CLUB / SONYA BLADE,,,[Sonya wakes up on a fenced arena in some kind of warehouse. A crowd rages around.],,Y,MoKo11-769,MoKo11-771
+MoKo11-771,FIGHT CLUB / SONYA BLADE,,Loudspeaker,"Rise and shine, Sonya.",,N,MoKo11-770,MoKo11-772
+MoKo11-772,FIGHT CLUB / SONYA BLADE,,,[She's looking at her gear. Her weapons are gone.],,Y,MoKo11-771,MoKo11-773
+MoKo11-773,FIGHT CLUB / SONYA BLADE,,Young Kano,"Yeah, you won’t be needing that stuff, love. One thing we Black Dragon know, there’s no fun in a fair fight.",,N,MoKo11-772,MoKo11-774
+MoKo11-774,FIGHT CLUB / SONYA BLADE,,,[Some punk that appears to be Kabal enters.],,Y,MoKo11-773,MoKo11-775
+MoKo11-775,FIGHT CLUB / SONYA BLADE,,Young Kabal,So Sonya’s the skank who burns me?,,N,MoKo11-774,MoKo11-776
+MoKo11-776,FIGHT CLUB / SONYA BLADE,,Kano,"She more than burns you, Kabal. She goes black-ops on your arse. Shocks, knives, the bloody works. Patched you back together myself. Well, most of you.",,N,MoKo11-775,MoKo11-777
+MoKo11-777,FIGHT CLUB / SONYA BLADE,,Young Kabal,She’s dead.,,N,MoKo11-776,MoKo11-778
+MoKo11-778,FIGHT CLUB / SONYA BLADE,,Young Kano,Miss Law and Order really does that to him?,,N,MoKo11-777,MoKo11-779
+MoKo11-779,FIGHT CLUB / SONYA BLADE,,Kano,Nah. But now he’s motivated.,,N,MoKo11-778,MoKo11-780
+MoKo11-780,FIGHT CLUB / SONYA BLADE,,Young Kabal,Hope you’re ready for some pre-emptive vengeance.,,N,MoKo11-779,MoKo11-781
+MoKo11-781,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,"What the hell are you talking about, Kabal?",,N,MoKo11-780,MoKo11-782
+MoKo11-782,FIGHT CLUB / SONYA BLADE,,Young Kabal,"You, torturing me to get dirt on the Black Dragon.",,N,MoKo11-781,MoKo11-783
+MoKo11-783,FIGHT CLUB / SONYA BLADE,,,[YOUNG SONYA BLADE VS YOUNG KABAL],,Y,MoKo11-782,MoKo11-784
+MoKo11-784,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,"Don’t believe every rumor you hear. I’m done entertaining you clowns! Get in here, you cowards!",,N,MoKo11-783,MoKo11-785
+MoKo11-785,FIGHT CLUB / SONYA BLADE,,Kano," Tempting, love. But we think our next contender is a beaut…",(via loudspeaker) ,N,MoKo11-784,MoKo11-786
+MoKo11-786,FIGHT CLUB / SONYA BLADE,,,[Somebody who's been beaten up pretty badly is being dragged into the arena.],,Y,MoKo11-785,MoKo11-787
+MoKo11-787,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,Shit.,,N,MoKo11-786,MoKo11-788
+MoKo11-788,FIGHT CLUB / SONYA BLADE,,,[It appears to be Young Johnny Cage.],,Y,MoKo11-787,MoKo11-789
+MoKo11-789,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,I won’t fight him!,,N,MoKo11-788,MoKo11-790
+MoKo11-790,FIGHT CLUB / SONYA BLADE,,Kano," You’ll damn sure fight, or you’ll both die.",(via loudspeaker) ,N,MoKo11-789,MoKo11-791
+MoKo11-791,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,Cut the shit. You’ll kill us whether we fight or not!,,N,MoKo11-790,MoKo11-792
+MoKo11-792,FIGHT CLUB / SONYA BLADE,,Kano," Ah, you caught me love. But put on a good show, eh? It’ll be less painful.",(via loudspeaker) ,N,MoKo11-791,MoKo11-793
+MoKo11-793,FIGHT CLUB / SONYA BLADE,,Young Johnny Cage,C’mon. You’ve been dyin’ to hit me all day. Here’s your chance.,,N,MoKo11-792,MoKo11-794
+MoKo11-794,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,And give them the satisfaction of watching us fight? Like hell.,,N,MoKo11-793,MoKo11-795
+MoKo11-795,FIGHT CLUB / SONYA BLADE,,Young Johnny Cage,You said it: they’ll kill us whether we fight or not. Fighting buys us time to find a way out. So quit being a diva and hit me!,,N,MoKo11-794,MoKo11-796
+MoKo11-796,FIGHT CLUB / SONYA BLADE,,,[She hits him in the face and stomach. Johnny can barely stand on her feet.],,Y,MoKo11-795,MoKo11-797
+MoKo11-797,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,Take a dive!,,N,MoKo11-796,MoKo11-798
+MoKo11-798,FIGHT CLUB / SONYA BLADE,,Young Johnny Cage,No way. These people know a dive when they see one.,,N,MoKo11-797,MoKo11-799
+MoKo11-799,FIGHT CLUB / SONYA BLADE,,,"[Sonya swings for another punch, but suddenly the gate blows up. Cassie and her men breaking into the room guns blazing.]",,Y,MoKo11-798,MoKo11-800
+MoKo11-800,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,Three. Two.,,N,MoKo11-799,MoKo11-801
+MoKo11-801,FIGHT CLUB / SONYA BLADE,,,"[But… Erron Black blocks their way. He shoots Johnny in the shoulder. Erron cocks his revolver again to kill Johnny lying on the floor, but Sonya kicks him on the arm.]",,Y,MoKo11-800,MoKo11-802
+MoKo11-802,FIGHT CLUB / SONYA BLADE,,Erron Black,Now ain’t this a thrill. Bagging the legendary Sonya Blade.,,N,MoKo11-801,MoKo11-803
+MoKo11-803,FIGHT CLUB / SONYA BLADE,,,[YOUNG SONYA BLADE VS ERRON BLACK],,Y,MoKo11-802,MoKo11-804
+MoKo11-804,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,Lieutenant!,,N,MoKo11-803,MoKo11-805
+MoKo11-805,FIGHT CLUB / SONYA BLADE,,Cassie Cage,He needs a med evac. We’re gonna have to fight our way out to the rendezvous. You’ll need these.,,N,MoKo11-804,MoKo11-806
+MoKo11-806,FIGHT CLUB / SONYA BLADE,,,[They're taking Johnny and retreating. Cassie's with guns in both hands kills thugs like in a shooting gallery. Kano shows up with a nine-barrel machine gun.],,Y,MoKo11-805,MoKo11-807
+MoKo11-807,FIGHT CLUB / SONYA BLADE,,Kano,Where do you think you’re going?,,N,MoKo11-806,MoKo11-808
+MoKo11-808,FIGHT CLUB / SONYA BLADE,,,"[Kano starts shooting the area. Cassie, Sonya and Johnny hide behind the truck. He notices them and sends a few big-caliber greetings to Cassie's chest. Sonya wants to return the favor.]",,Y,MoKo11-807,MoKo11-809
+MoKo11-809,FIGHT CLUB / SONYA BLADE,,Cassie,No! It’s too dangerous!,,N,MoKo11-808,MoKo11-810
+MoKo11-810,FIGHT CLUB / SONYA BLADE,,,"[Sonya attacks Cano, jumping off a truck. They're exchanging punches. Young Kano comes.]",,Y,MoKo11-809,MoKo11-811
+MoKo11-811,FIGHT CLUB / SONYA BLADE,,Young Kano,"Best thing about this future, love? I’m alive, but you‘re dead as a doornail.",,N,MoKo11-810,MoKo11-812
+MoKo11-812,FIGHT CLUB / SONYA BLADE,,Kano,"Worst thing is, it’s those Netherrealm stiffs did you in. Shoulda been me.",,N,MoKo11-811,MoKo11-813
+MoKo11-813,FIGHT CLUB / SONYA BLADE,,Young Kano,Let s have ourselves a do-over.,,N,MoKo11-812,MoKo11-814
+MoKo11-814,FIGHT CLUB / SONYA BLADE,,,[Sonya kicks both their arses.],,Y,MoKo11-813,MoKo11-815
+MoKo11-815,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,"You might be alive in this future, but that can change.",,N,MoKo11-814,MoKo11-816
+MoKo11-816,FIGHT CLUB / SONYA BLADE,,,[YOUNG SONYA BLADE VS YOUNG KANO],,Y,MoKo11-815,MoKo11-817
+MoKo11-817,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,Let me give you a break.,,N,MoKo11-816,MoKo11-818
+MoKo11-818,FIGHT CLUB / SONYA BLADE,,,[She steps on his throat.],,Y,MoKo11-817,MoKo11-819
+MoKo11-819,FIGHT CLUB / SONYA BLADE,,Kano," Now this is a pickle. Can you break his neck faster than I can gut Pretty Boy?Don’t forget. It’s two-for-one. He dies, so does your little girl!",(with Johnny as hostage) ,N,MoKo11-818,MoKo11-820
+MoKo11-820,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,"Thanks, Kano.",,N,MoKo11-819,MoKo11-821
+MoKo11-821,FIGHT CLUB / SONYA BLADE,,Kano,For what?,,N,MoKo11-820,MoKo11-822
+MoKo11-822,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,For reminding me of the rules.,,N,MoKo11-821,MoKo11-823
+MoKo11-823,FIGHT CLUB / SONYA BLADE,,,[She pulls out a gun and shoots Young Kano in the head. Kano dies theatrically. Some time passes. Sonya bandages Johnny's wounds.],,Y,MoKo11-822,MoKo11-824
+MoKo11-824,FIGHT CLUB / SONYA BLADE,,Young Johnny Cage,"Sweet move. I’m totally stealing that one for Timequake. How about… dinner sometime? Y’know, to thank you for saving my life? And apologize for being, well, me. No pressure. No romance.",,N,MoKo11-823,MoKo11-825
+MoKo11-825,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,"Patience is a virtue, Cage. What is that?",,N,MoKo11-824,MoKo11-826
+MoKo11-826,FIGHT CLUB / SONYA BLADE,,,"[Geras, Kronika's henchmen shows up. The bullets do not cause him any damage. He kills soldiers one by one.]",,Y,MoKo11-825,MoKo11-827
+MoKo11-827,FIGHT CLUB / SONYA BLADE,,Young Johnny Cage,Who’s the special guest villain?,,N,MoKo11-826,MoKo11-828
+MoKo11-828,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,"Geras, Kronika’s goon. Allegedly, he can’t be killed.",,N,MoKo11-827,MoKo11-829
+MoKo11-829,FIGHT CLUB / SONYA BLADE,,Young Johnny Cage,I fought a dude like that in Fatal Infinity –hrnngh!!,,N,MoKo11-828,MoKo11-830
+MoKo11-830,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,Get him evac’ed. I’ll keep this thing occupied.,,N,MoKo11-829,MoKo11-831
+MoKo11-831,FIGHT CLUB / SONYA BLADE,,Geras,Sonya Blade. Mother of Cassie Cage.,,N,MoKo11-830,MoKo11-832
+MoKo11-832,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,"Yeah, what of it?",,N,MoKo11-831,MoKo11-833
+MoKo11-833,FIGHT CLUB / SONYA BLADE,,Geras,"Cassie Cage defeated Shinnok, son of Kronika. I am his mother’s vengeance.",,N,MoKo11-832,MoKo11-834
+MoKo11-834,FIGHT CLUB / SONYA BLADE,,,[YOUNG SONYA BLADE VS GERAS],,Y,MoKo11-833,MoKo11-835
+MoKo11-835,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,Stay away from my daughter.,,N,MoKo11-834,MoKo11-836
+MoKo11-836,FIGHT CLUB / SONYA BLADE,,,"[Unexpectedly, Cassie enters the battlefield on a forklift. She nails Geras to the wall.]",,Y,MoKo11-835,MoKo11-837
+MoKo11-837,FIGHT CLUB / SONYA BLADE,,Cassie Cage,Try coming back from this.,,N,MoKo11-836,MoKo11-838
+MoKo11-838,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,You okay?,,N,MoKo11-837,MoKo11-839
+MoKo11-839,FIGHT CLUB / SONYA BLADE,,Cassie Cage,I’ll be fine. I come from tough stock.,,N,MoKo11-838,MoKo11-840
+MoKo11-840,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,"Listen. What I said back at the base, about the mission. It wasn’t fair. You’re a damn fine soldier. I’m so proud, I can almost picture myself dating Johnny. Almost.",,N,MoKo11-839,MoKo11-841
+MoKo11-841,FIGHT CLUB / SONYA BLADE,,Cassie Cage,I wish I could go back. Do our last mission over.,,N,MoKo11-840,MoKo11-842
+MoKo11-842,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,"It wasn’t easy, finding out how I die--or, could die. But I re-read the file. You followed orders. Saved your squad. I’m just glad that my sacrifice saved Earthrealm – and you. Besides, you heard Raiden. Things’ll never go back to what they were. We all have to “choose our destiny”.",,N,MoKo11-841,MoKo11-843
+MoKo11-843,FIGHT CLUB / SONYA BLADE,,,[Geras's blood is starting to come together.],,Y,MoKo11-842,MoKo11-844
+MoKo11-844,FIGHT CLUB / SONYA BLADE,,Young Sonya Blade,Liu Kang and Kung Lao weren’t kidding about this guy…,,N,MoKo11-843,MoKo11-845
+MoKo11-845,FIGHT CLUB / SONYA BLADE,,Cassie Cage,"All squads withdraw! Evac, now!",,N,MoKo11-844,MoKo11-846
+MoKo11-846,FIGHT CLUB / SONYA BLADE,,,[Meanwhile...],,Y,MoKo11-845,MoKo11-847
+MoKo11-847,FIGHT CLUB / SONYA BLADE,,Kronika,"Geras failed. When he returns, I will strengthen him further for the final battle.",,N,MoKo11-846,MoKo11-848
+MoKo11-848,FIGHT CLUB / SONYA BLADE,,,[Resurrected Liu Kang approaches her.],,Y,MoKo11-847,MoKo11-849
+MoKo11-849,FIGHT CLUB / SONYA BLADE,,Kronika,Speak your mind.,,N,MoKo11-848,MoKo11-850
+MoKo11-850,FIGHT CLUB / SONYA BLADE,,Resurrected Liu Kang,"We’ve lost Shao Kahn, his Outworld army, and now the Black Dragon.",,N,MoKo11-849,MoKo11-851
+MoKo11-851,FIGHT CLUB / SONYA BLADE,,Kronika,"While Raiden’s allies have burned precious time fighting Kano and Shao Kahn, our most important work has continued, uninterrupted, on Shang Tsung’s island.",,N,MoKo11-850,MoKo11-852
+MoKo11-852,FIGHT CLUB / SONYA BLADE,,Resurrected Liu Kang,That island is in ruins. What could possibly--,,N,MoKo11-851,MoKo11-853
+MoKo11-853,FIGHT CLUB / SONYA BLADE,,Kronika,"Timecraft requires an abundance of raw temporal energy. Every mortal soul contains a lifetime of this power. Every hour, every minute, every second lived, is stored within.",,N,MoKo11-852,MoKo11-854
+MoKo11-854,FIGHT CLUB / SONYA BLADE,,Resurrected Liu Kang,Shang Tsung fed off souls. He collected them.,,N,MoKo11-853,MoKo11-855
+MoKo11-855,FIGHT CLUB / SONYA BLADE,,Kronika,"In his Well of Souls which remains, untouched, beneath his island. A destiny I crafted for Shang Tsung, in case I ever had need. Shang Tsung’s souls will be mine.",,N,MoKo11-854,MoKo11-856
+MoKo11-856,FIGHT CLUB / SONYA BLADE,,,[Resurrected Liu Kang smiles and bows.],,Y,MoKo11-855,MoKo11-857
+MoKo11-857,ALL IN THE FAMILY / JACQUI & JAX,,,[Young Jax and his daughter are sailing on a giant warship.],,Y,MoKo11-856,MoKo11-858
+MoKo11-858,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,How’s the view?,,N,MoKo11-857,MoKo11-859
+MoKo11-859,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,No sign yet of the mystical barrier you mentioned.,,N,MoKo11-858,MoKo11-860
+MoKo11-860,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"Oh, you’ll know it when it comes.",,N,MoKo11-859,MoKo11-861
+MoKo11-861,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,How you feeling?,,N,MoKo11-860,MoKo11-862
+MoKo11-862,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"For the first time in a while, in control. I got tossed into the deep end of this world of gods and monsters. But now, knowing my future, I feel like I’ve finally come up for air. Those bad things that happened to me... I mean, will happen to me? Like Raiden said, it’s gonna be different. Isn’t this good news?",,N,MoKo11-861,MoKo11-863
+MoKo11-863,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,"The things that happened to my Dad. That trauma he suffered. It’s why my parents met. They fell in love while he was in recovery. If they don’t happen, you and Mom may not meet. I may never be born.",,N,MoKo11-862,MoKo11-864
+MoKo11-864,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"Jacqui, I can’t pretend I get all this cosmic time stuff, but I do know you are here for a reason. You’re not just some random accident.",,N,MoKo11-863,MoKo11-865
+MoKo11-865,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,I hope so.,,N,MoKo11-864,MoKo11-866
+MoKo11-866,ALL IN THE FAMILY / JACQUI & JAX,,,[They come to the ruins of some island.],,Y,MoKo11-865,MoKo11-867
+MoKo11-867,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Shang Tsung’s island!,,N,MoKo11-866,MoKo11-868
+MoKo11-868,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"Here we go again. When I was here for the tournament, there were people everywhere. These guys looked a lot younger. Seems like only yesterday…",,N,MoKo11-867,MoKo11-869
+MoKo11-869,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,"Guess after Shang Tsung died, this place did, too. Nobody’s home. So much for needing stealth. Should’ve brought the whole squad.",,N,MoKo11-868,MoKo11-870
+MoKo11-870,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,Kinda hoping Raiden’s wrong about the Well of Souls. I don’t wanna be here longer than we--,,N,MoKo11-869,MoKo11-871
+MoKo11-871,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Multiple contacts!,,N,MoKo11-870,MoKo11-872
+MoKo11-872,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,How many?,,N,MoKo11-871,MoKo11-873
+MoKo11-873,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Two! But one of ‘em’s circling us real fast!,,N,MoKo11-872,MoKo11-874
+MoKo11-874,ALL IN THE FAMILY / JACQUI & JAX,,,[They're being attacked by the Resurrected Kabal and Jade.],,Y,MoKo11-873,MoKo11-875
+MoKo11-875,ALL IN THE FAMILY / JACQUI & JAX,,Resurrected Kabal,Kronika knew Raiden would send someone here.,,N,MoKo11-874,MoKo11-876
+MoKo11-876,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,Give me ten seconds with this guy.,,N,MoKo11-875,MoKo11-877
+MoKo11-877,ALL IN THE FAMILY / JACQUI & JAX,,Resurrected Kabal,Jax Briggs. We were partners under Quan Chi’s command. You’ll pm me again.,,N,MoKo11-876,MoKo11-878
+MoKo11-878,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,Got the wrong Jax. I haven’t been a Revenant. And I never will.,,N,MoKo11-877,MoKo11-879
+MoKo11-879,ALL IN THE FAMILY / JACQUI & JAX,,,[YOUNG JAX BRIGGS VS RESURRECTED KABAL],,Y,MoKo11-878,MoKo11-880
+MoKo11-880,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"Times are changing, Kabal.",,N,MoKo11-879,MoKo11-881
+MoKo11-881,ALL IN THE FAMILY / JACQUI & JAX,,,"[Meanwhile, Jacqui fights with Resurrected Jade. Jade wins and uses her staff to raise the dead monks.]",,Y,MoKo11-880,MoKo11-882
+MoKo11-882,ALL IN THE FAMILY / JACQUI & JAX,,Resurrected Jade,Rise in Shinnok’s name! You’ll not disturb Kronika’s work.,,N,MoKo11-881,MoKo11-883
+MoKo11-883,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Disturb? Try ending.,,N,MoKo11-882,MoKo11-884
+MoKo11-884,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,You’re done messing with the Well of Souls.,,N,MoKo11-883,MoKo11-885
+MoKo11-885,ALL IN THE FAMILY / JACQUI & JAX,,Resurrected Jade,"You’re not as strong as you think, Jax. As I recall, Sindel made quick work of you.",,N,MoKo11-884,MoKo11-886
+MoKo11-886,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,I’ll take the lady in green.,,N,MoKo11-885,MoKo11-887
+MoKo11-887,ALL IN THE FAMILY / JACQUI & JAX,,,"[Jacqui starts fighting with monks, often getting hit in the head.]",,Y,MoKo11-886,MoKo11-888
+MoKo11-888,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"Was a time when you knew who to fight for But between Quan Chi and Kronika, your mind ain’t right.",,N,MoKo11-887,MoKo11-889
+MoKo11-889,ALL IN THE FAMILY / JACQUI & JAX,,Resurrected Jade,"I joined Raiden against Shao Kahn. He led me to my doom. Now Raiden leads you there, too.",,N,MoKo11-888,MoKo11-890
+MoKo11-890,ALL IN THE FAMILY / JACQUI & JAX,,,[YOUNG JAX BRIGGS VS RESURRECTED JADE],,Y,MoKo11-889,MoKo11-891
+MoKo11-891,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,I’ll take my chances with Raiden.,,N,MoKo11-890,MoKo11-892
+MoKo11-892,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Enough dancing with the dead. Raiden said this Well of Souls would be underground.,,N,MoKo11-891,MoKo11-893
+MoKo11-893,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,This way.,,N,MoKo11-892,MoKo11-894
+MoKo11-894,ALL IN THE FAMILY / JACQUI & JAX,,,[They enter a dark cave. There are human skulls lying on the floor.],,Y,MoKo11-893,MoKo11-895
+MoKo11-895,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,This is Goro’s Lair?,,N,MoKo11-894,MoKo11-896
+MoKo11-896,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"Thankfully minus Goro. Shang Tsung kept me locked up here, back at my first tournament. Never thought I’d be back…",,N,MoKo11-895,MoKo11-897
+MoKo11-897,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Remember where a Well of Souls might be?,,N,MoKo11-896,MoKo11-898
+MoKo11-898,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,Couldn’t tell you. I was pretty beat up. It’s all a bit hazy.,,N,MoKo11-897,MoKo11-899
+MoKo11-899,ALL IN THE FAMILY / JACQUI & JAX,,,"[Soon they find, well… a well… of souls.]",,Y,MoKo11-898,MoKo11-900
+MoKo11-900,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,I’m guessing this is it.,,N,MoKo11-899,MoKo11-901
+MoKo11-901,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,That crown. Five bucks says it’s Kronika’s.,,N,MoKo11-900,MoKo11-902
+MoKo11-902,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,It’s drawing souls from the Well.,,N,MoKo11-901,MoKo11-903
+MoKo11-903,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,There’s no way that thing’s unguarded. Let’s grab-and-go before whoever’s on duty gets back.,,N,MoKo11-902,MoKo11-904
+MoKo11-904,ALL IN THE FAMILY / JACQUI & JAX,,Voice,I never left.,,N,MoKo11-903,MoKo11-905
+MoKo11-905,ALL IN THE FAMILY / JACQUI & JAX,,,[There's a short fight going on. Our heroes lose.],,Y,MoKo11-904,MoKo11-906
+MoKo11-906,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Who are you?,,N,MoKo11-905,MoKo11-907
+MoKo11-907,ALL IN THE FAMILY / JACQUI & JAX,,Noob Saibot,"A deathly shadow. In life, I was called Bi-Han.",,N,MoKo11-906,MoKo11-908
+MoKo11-908,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,And I should know who that is?,,N,MoKo11-907,MoKo11-909
+MoKo11-909,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"The first Sub-Zero. Scorpion ripped out his spine. Left it in a heap upstairs, in Shang Tsung’s old throne room.",,N,MoKo11-908,MoKo11-910
+MoKo11-910,ALL IN THE FAMILY / JACQUI & JAX,,Noob Saibot,An event the New Era will wipe from history.,,N,MoKo11-909,MoKo11-911
+MoKo11-911,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"Hang on, Jacqui. I got this.",,N,MoKo11-910,MoKo11-912
+MoKo11-912,ALL IN THE FAMILY / JACQUI & JAX,,Noob Saibot,Ermac was weak. He took your arms but did not finish you.,,N,MoKo11-911,MoKo11-913
+MoKo11-913,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,Got that right. I’m just that tough.,,N,MoKo11-912,MoKo11-914
+MoKo11-914,ALL IN THE FAMILY / JACQUI & JAX,,,[YOUNG JAX BRIGGS VS NOOB SAIBOT],,Y,MoKo11-913,MoKo11-915
+MoKo11-915,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,Guess Ermac’s not the only one who’s weak. C’mon. Let’s get that thing and get outta here.,,N,MoKo11-914,MoKo11-916
+MoKo11-916,ALL IN THE FAMILY / JACQUI & JAX,,,[Jacqui makes a brilliant decision to take the crown of the Kronika from the Well of Souls with her bare hands.],,Y,MoKo11-915,MoKo11-917
+MoKo11-917,ALL IN THE FAMILY / JACQUI & JAX,,Voice,"Jacqui, wait.",,N,MoKo11-916,MoKo11-918
+MoKo11-918,ALL IN THE FAMILY / JACQUI & JAX,,,[Jax comes out of the shadows.],,Y,MoKo11-917,MoKo11-919
+MoKo11-919,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,Mind. Blown.,,N,MoKo11-918,MoKo11-920
+MoKo11-920,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Dad? How’d you get here?,,N,MoKo11-919,MoKo11-921
+MoKo11-921,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,I’ll give you one guess.,,N,MoKo11-920,MoKo11-922
+MoKo11-922,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,"Dad, your -- your arms! Those look like Kronika’s design. What are you doing?",,N,MoKo11-921,MoKo11-923
+MoKo11-923,ALL IN THE FAMILY / JACQUI & JAX,,Jax Briggs,Giving you the life you deserve.,,N,MoKo11-922,MoKo11-924
+MoKo11-924,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,By destroying the universe?,,N,MoKo11-923,MoKo11-925
+MoKo11-925,ALL IN THE FAMILY / JACQUI & JAX,,Jax Briggs,"Restarting it, not destroying it. Being a Revenant. The years I lost, the things I did. Your Ma held me together. But I was never the father you needed.",,N,MoKo11-924,MoKo11-926
+MoKo11-926,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"You’re talking nonsense, man. You raised a fine daughter. She’s one helluva soldier.",,N,MoKo11-925,MoKo11-927
+MoKo11-927,ALL IN THE FAMILY / JACQUI & JAX,,Jax Briggs,"She shouldn’t have been a soldier! I never wanted you out there, taking those risks. If I hadn’t fallen apart, you wouldn’t have felt the need to enlist.",,N,MoKo11-926,MoKo11-928
+MoKo11-928,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,"That’s not why I do this, Dad!",,N,MoKo11-927,MoKo11-929
+MoKo11-929,ALL IN THE FAMILY / JACQUI & JAX,,Jax Briggs,Please. Give that crown to me. I don’t want to hurt anybody.,,N,MoKo11-928,MoKo11-930
+MoKo11-930,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,This is seriously messed up…,,N,MoKo11-929,MoKo11-931
+MoKo11-931,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"Hang back, kid. I know I wouldn’t want to fight my Dad. How ‘bout we keep this between me, myself, and I? Never thought I’d stoop so low.",,N,MoKo11-930,MoKo11-932
+MoKo11-932,ALL IN THE FAMILY / JACQUI & JAX,,Jax Briggs,You don’t know how bad it gets. Losing your arms was just the beginning.,,N,MoKo11-931,MoKo11-933
+MoKo11-933,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,"I know you suffered. You still do. But you don’t betray your unit, and you sure as hell don’t betray your family.",,N,MoKo11-932,MoKo11-934
+MoKo11-934,ALL IN THE FAMILY / JACQUI & JAX,,,[YOUNG JAX BRIGGS VS JAX BRIGGS],,Y,MoKo11-933,MoKo11-935
+MoKo11-935,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,There’s gotta be a way to make this right.,,N,MoKo11-934,MoKo11-936
+MoKo11-936,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,"He’s out, but he’ll recover How’re you?",,N,MoKo11-935,MoKo11-937
+MoKo11-937,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,Trippin’. You?,,N,MoKo11-936,MoKo11-938
+MoKo11-938,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Ditto. We can’t leave him. Let’s get him and the crown outta here.,,N,MoKo11-937,MoKo11-939
+MoKo11-939,ALL IN THE FAMILY / JACQUI & JAX,,,[They're taking the beaten Jax outside.],,Y,MoKo11-938,MoKo11-940
+MoKo11-940,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,If I never come back here it’ll be too soon.,,N,MoKo11-939,MoKo11-941
+MoKo11-941,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,I heard that.,,N,MoKo11-940,MoKo11-942
+MoKo11-942,ALL IN THE FAMILY / JACQUI & JAX,,,"[From heaven, like the goddamn Jesus, Cetrion comes down.]",,Y,MoKo11-941,MoKo11-943
+MoKo11-943,ALL IN THE FAMILY / JACQUI & JAX,,Cetrion,Mortals! Surrender Kronika’s crown and the elder Jackson Briggs. No harm will come to you.,,N,MoKo11-942,MoKo11-944
+MoKo11-944,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,"No deal. We know you betrayed the Elder Gods, Cetrion.",,N,MoKo11-943,MoKo11-945
+MoKo11-945,ALL IN THE FAMILY / JACQUI & JAX,,Cetrion,"Kronika must restore the balance that Raiden destroyed. Can you not see, he s the devil in these matters?",,N,MoKo11-944,MoKo11-946
+MoKo11-946,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,At least he’s the devil we know.,,N,MoKo11-945,MoKo11-947
+MoKo11-947,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Can we take an Elder God?,,N,MoKo11-946,MoKo11-948
+MoKo11-948,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,Cassie beat Shinnok.,,N,MoKo11-947,MoKo11-949
+MoKo11-949,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Only because the Cages are born with crazy magic powers.,,N,MoKo11-948,MoKo11-950
+MoKo11-950,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,Maybe we have our own magic.,,N,MoKo11-949,MoKo11-951
+MoKo11-951,ALL IN THE FAMILY / JACQUI & JAX,,,[He looks at Kronika’s crown at Jacqui’s belt.],,Y,MoKo11-950,MoKo11-952
+MoKo11-952,ALL IN THE FAMILY / JACQUI & JAX,,Cetrion,"Stand down, please. Resistance only ensures your suffering.",,N,MoKo11-951,MoKo11-953
+MoKo11-953,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,I can’t let you do-,,N,MoKo11-952,MoKo11-954
+MoKo11-954,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,I’m not discussing it.,,N,MoKo11-953,MoKo11-955
+MoKo11-955,ALL IN THE FAMILY / JACQUI & JAX,,Cetrion,"Your mind is too frail to Wield Kronika’s weapon. For your own safety, remove it!",,N,MoKo11-954,MoKo11-956
+MoKo11-956,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,It’s not time for safety. It’s time for action.,,N,MoKo11-955,MoKo11-957
+MoKo11-957,ALL IN THE FAMILY / JACQUI & JAX,,,[JACQUI BRIGGS VS CETRION],,Y,MoKo11-956,MoKo11-958
+MoKo11-958,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,"Eat your heart out, Cassie Cage.",,N,MoKo11-957,MoKo11-959
+MoKo11-959,ALL IN THE FAMILY / JACQUI & JAX,,,"[She's trying to take off the crown, but she's not getting anywhere. Jax approaches and, to our surprise, easily removes the crown. Apparently, the most powerful artifact has had no impact on the mind of an ordinary girl.]",,Y,MoKo11-958,MoKo11-960
+MoKo11-960,ALL IN THE FAMILY / JACQUI & JAX,,Cetrion,You were warned. Mere mortals cannot control the Crown. I did not wish to harm you. But now you have forced my hand…,,N,MoKo11-959,MoKo11-961
+MoKo11-961,ALL IN THE FAMILY / JACQUI & JAX,,,[She's making an earthquake. Jacqui falls into the abyss and barely grasps the ledge. The old Jax comes.],,Y,MoKo11-960,MoKo11-962
+MoKo11-962,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,The hell’re you doing’!,,N,MoKo11-961,MoKo11-963
+MoKo11-963,ALL IN THE FAMILY / JACQUI & JAX,,Cetrion,Give me the crown and I will spare her.,,N,MoKo11-962,MoKo11-964
+MoKo11-964,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Don’t! Don’t give it to her! GO!!,,N,MoKo11-963,MoKo11-965
+MoKo11-965,ALL IN THE FAMILY / JACQUI & JAX,,Cetrion,Her life is in your hands.,,N,MoKo11-964,MoKo11-966
+MoKo11-966,ALL IN THE FAMILY / JACQUI & JAX,,Jax Briggs,"Nobody here wants to hurt anyone. Now, please. Don’t let this happen to our girl.",,N,MoKo11-965,MoKo11-967
+MoKo11-967,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,Dammit!,,N,MoKo11-966,MoKo11-968
+MoKo11-968,ALL IN THE FAMILY / JACQUI & JAX,,,[He throws the crown to his old self.],,Y,MoKo11-967,MoKo11-969
+MoKo11-969,ALL IN THE FAMILY / JACQUI & JAX,,Jax Briggs,Now bring Jacqui back.,,N,MoKo11-968,MoKo11-970
+MoKo11-970,ALL IN THE FAMILY / JACQUI & JAX,,,[She closes the crack and moving Jacqui to the surface.],,Y,MoKo11-969,MoKo11-971
+MoKo11-971,ALL IN THE FAMILY / JACQUI & JAX,,Jacqui Briggs,Dad? How could you do this to me?!,,N,MoKo11-970,MoKo11-972
+MoKo11-972,ALL IN THE FAMILY / JACQUI & JAX,,Jax Briggs,"I’m not doing this to you, Jacqui. I’m doing it for you. I love you.",,N,MoKo11-971,MoKo11-973
+MoKo11-973,ALL IN THE FAMILY / JACQUI & JAX,,Cetrion,Kronika awaits our return.,,N,MoKo11-972,MoKo11-974
+MoKo11-974,ALL IN THE FAMILY / JACQUI & JAX,,,[They disappear.],,Y,MoKo11-973,MoKo11-975
+MoKo11-975,ALL IN THE FAMILY / JACQUI & JAX,,Young Jax Briggs,C’mon. This fight isn’t over.,,N,MoKo11-974,MoKo11-976
+MoKo11-976,ALL IN THE FAMILY / JACQUI & JAX,,,[Meanwhile...],,Y,MoKo11-975,MoKo11-977
+MoKo11-977,ALL IN THE FAMILY / JACQUI & JAX,,Kronika,"This will bring us our deliverance. Thank you, both of you. I sense apprehension, Jackson Briggs.",,N,MoKo11-976,MoKo11-978
+MoKo11-978,ALL IN THE FAMILY / JACQUI & JAX,,Jax Briggs,I’m not usually surrounded by so many friendly faces.,,N,MoKo11-977,MoKo11-979
+MoKo11-979,ALL IN THE FAMILY / JACQUI & JAX,,Kronika,"We are unlikely allies, united for a common cause. Worry not. Liu Kang, Kitana. Are the armies assembled?",,N,MoKo11-978,MoKo11-980
+MoKo11-980,ALL IN THE FAMILY / JACQUI & JAX,,Resurrected Liu Kang,They’re en route. Kitana and I will see that they arrive as planned.,,N,MoKo11-979,MoKo11-981
+MoKo11-981,ALL IN THE FAMILY / JACQUI & JAX,,Kronika,Excellent.,,N,MoKo11-980,MoKo11-982
+MoKo11-982,ALL IN THE FAMILY / JACQUI & JAX,,,[She puts the crown on her head.],,Y,MoKo11-981,MoKo11-983
+MoKo11-983,ALL IN THE FAMILY / JACQUI & JAX,,Kronika,"So many souls! So much time! As my strength gathers, the New Era draws ever closer!",,N,MoKo11-982,MoKo11-984
+MoKo11-984,ALL IN THE FAMILY / JACQUI & JAX,,,[At Scorpion’s dojo.],,Y,MoKo11-983,MoKo11-985
+MoKo11-985,ALL IN THE FAMILY / JACQUI & JAX,,Raiden,The report from Jacqueline Briggs. Her father’s actions have compromised our Situation gravely.,,N,MoKo11-984,MoKo11-986
+MoKo11-986,ALL IN THE FAMILY / JACQUI & JAX,,Cassie Cage,I know I can’t – I can’t believe he did this.,,N,MoKo11-985,MoKo11-987
+MoKo11-987,ALL IN THE FAMILY / JACQUI & JAX,,Raiden,"Even if we locate her Keep, Kronika’s power now likely exceeds the might of our combined forces.",,N,MoKo11-986,MoKo11-988
+MoKo11-988,ALL IN THE FAMILY / JACQUI & JAX,,Cassie Cage,Maybe we should rethink using Shinnok’s Amulet.,,N,MoKo11-987,MoKo11-989
+MoKo11-989,ALL IN THE FAMILY / JACQUI & JAX,,Raiden,"We cannot, Cassandra Cage.",,N,MoKo11-988,MoKo11-990
+MoKo11-990,ALL IN THE FAMILY / JACQUI & JAX,,Cassie Cage,I’ve seen what you can do with it. You held off the entire Netherrealm army. You weren’t even at full strength.,,N,MoKo11-989,MoKo11-991
+MoKo11-991,ALL IN THE FAMILY / JACQUI & JAX,,Raiden,"I dare not risk the temptations of its dark power. Even now it calls to me… Despite Kronika’s advantages, we must attack as soon as we know the Keep’s location.",,N,MoKo11-990,MoKo11-992
+MoKo11-992,ALL IN THE FAMILY / JACQUI & JAX,,Cassie Cage,It’s been hours since we heard from the Grandmasters. What’s the plan if they don’t come back?,,N,MoKo11-991,MoKo11-993
+MoKo11-993,ALL IN THE FAMILY / JACQUI & JAX,,Raiden,"They must, or else hope is lost.",,N,MoKo11-992,MoKo11-994
+MoKo11-994,TO HELL AND BACK / SCORPION,,,[We teleport to some cave. Scorpion and Sub-Zero are watching Cetrion leading an army of cyborgs.],,Y,MoKo11-993,MoKo11-995
+MoKo11-995,TO HELL AND BACK / SCORPION,,Hanso Hasashi,Those warriors must be headed for Kronika’s Keep.,,N,MoKo11-994,MoKo11-996
+MoKo11-996,TO HELL AND BACK / SCORPION,,Sub-Zero,Agreed. But why not use Kharon’s fleet? The bridge clearly taxes her power.,,N,MoKo11-995,MoKo11-997
+MoKo11-997,TO HELL AND BACK / SCORPION,,Hanso Hasashi,The fleet’s bound to Kharon. It sails only by his command. That it’s still moored suggests he won’t help Kronika.,,N,MoKo11-996,MoKo11-998
+MoKo11-998,TO HELL AND BACK / SCORPION,,Sub-Zero,In which case he may help us.,,N,MoKo11-997,MoKo11-999
+MoKo11-999,TO HELL AND BACK / SCORPION,,Hanso Hasashi,"It looks like Kharon is home, perhaps hosting some unwelcome guests. Return to Earthrealm. Tell the others we’ve found him. We’ll deploy as soon as I return.",,N,MoKo11-998,MoKo11-1000
+MoKo11-1000,TO HELL AND BACK / SCORPION,,Sub-Zero,Are you certain Kharon will aid us?,,N,MoKo11-999,MoKo11-1001
+MoKo11-1001,TO HELL AND BACK / SCORPION,,Hanso Hasashi,No. But he’s our best chance.,,N,MoKo11-1000,MoKo11-1002
+MoKo11-1002,TO HELL AND BACK / SCORPION,,,[Scorpion sneaks to Kharon’s hut. He's lying on a table wrapped in some kind of slurry.],,Y,MoKo11-1001,MoKo11-1003
+MoKo11-1003,TO HELL AND BACK / SCORPION,,D’vorah,"You should have aided Kronika, Kharon. Now you must suffer.",,N,MoKo11-1002,MoKo11-1004
+MoKo11-1004,TO HELL AND BACK / SCORPION,,Kharon,"I am immortal, D’Vorah. You cannot kill me.",,N,MoKo11-1003,MoKo11-1005
+MoKo11-1005,TO HELL AND BACK / SCORPION,,D’vorah,This One needs only render you unfit to ferry Kronika’s enemies.,,N,MoKo11-1004,MoKo11-1006
+MoKo11-1006,TO HELL AND BACK / SCORPION,,,[She screams as Scorpion grabs her with his legendary move.],,Y,MoKo11-1005,MoKo11-1007
+MoKo11-1007,TO HELL AND BACK / SCORPION,,Hanso Hasashi,"Get over here! First Shinnok, now Kronika. You fight for lost causes.",,N,MoKo11-1006,MoKo11-1008
+MoKo11-1008,TO HELL AND BACK / SCORPION,,D’vorah,This One ensures the Hive’s survival. You will not save the Shirai Ryu.,,N,MoKo11-1007,MoKo11-1009
+MoKo11-1009,TO HELL AND BACK / SCORPION,,,[SCORPION VS D’VORAH],,Y,MoKo11-1008,MoKo11-1010
+MoKo11-1010,TO HELL AND BACK / SCORPION,,Hanso Hasashi,The Shirai Ryu will not fall.,,N,MoKo11-1009,MoKo11-1011
+MoKo11-1011,TO HELL AND BACK / SCORPION,,,[Suddenly he gets hit... from himself.],,Y,MoKo11-1010,MoKo11-1012
+MoKo11-1012,TO HELL AND BACK / SCORPION,,Scorpion,Your clan of imposters will indeed fall.,,N,MoKo11-1011,MoKo11-1013
+MoKo11-1013,TO HELL AND BACK / SCORPION,,Hanso Hasashi,I’ve restored the Shirai Ryu. Built a clan that’s never been stronger.,,N,MoKo11-1012,MoKo11-1014
+MoKo11-1014,TO HELL AND BACK / SCORPION,,Scorpion,On a foundation of pretenders and outsiders! Kronika told me.,,N,MoKo11-1013,MoKo11-1015
+MoKo11-1015,TO HELL AND BACK / SCORPION,,,[Hanso kicks his ass.],,Y,MoKo11-1014,MoKo11-1016
+MoKo11-1016,TO HELL AND BACK / SCORPION,,Scorpion,"Without our original bloodlines, there is no Shirai Ryu. Our clan’s massacre extinguished them! Kronika will revive the true Shirai Ryu in the New Era.",,N,MoKo11-1015,MoKo11-1017
+MoKo11-1017,TO HELL AND BACK / SCORPION,,Hanso Hasashi,"Do not trust Kronika! She uses your anger to enslave you, as Quan Chi did both of us. I let go my rage, and it saved me. To save yourself, you must do the same.",,N,MoKo11-1016,MoKo11-1018
+MoKo11-1018,TO HELL AND BACK / SCORPION,,,[HANSO HASASHI VS SCORPION],,Y,MoKo11-1017,MoKo11-1019
+MoKo11-1019,TO HELL AND BACK / SCORPION,,Hanso Hasashi,"It’s past time you were freed. We both know what truly drives you. It’s not Shirai Ryu pride, it’s your wife and child.",,N,MoKo11-1018,MoKo11-1020
+MoKo11-1020,TO HELL AND BACK / SCORPION,,Scorpion,Harumi and Satoshi were stolen from me. Murdered. Seeing them again is all that matters.,,N,MoKo11-1019,MoKo11-1021
+MoKo11-1021,TO HELL AND BACK / SCORPION,,Hanso Hasashi,"We share this pain. I fought through Hell to end it. But Kronika’s New Era is not the remedy. She would resurrect Shinnok. The same devil who brought death to our family and clan. He cannot be allowed to return. When I revived the Shirai Ryu, I vowed our clan would ensure Earthrealm s protection. Help me keep that promise.",,N,MoKo11-1020,MoKo11-1022
+MoKo11-1022,TO HELL AND BACK / SCORPION,,,"[He's reaching out to Scorpion. Behind his back, D’vorah appears and pierces him with her “sprouts.”]",,Y,MoKo11-1021,MoKo11-1023
+MoKo11-1023,TO HELL AND BACK / SCORPION,,Hanso Hasashi,Poison--,,N,MoKo11-1022,MoKo11-1024
+MoKo11-1024,TO HELL AND BACK / SCORPION,,D’vorah,Kronika knew your past sins would distract you. Now This One ends your misery.,,N,MoKo11-1023,MoKo11-1025
+MoKo11-1025,TO HELL AND BACK / SCORPION,,,[Scorpion jumps in cuts off her “sprouts.”],,Y,MoKo11-1024,MoKo11-1026
+MoKo11-1026,TO HELL AND BACK / SCORPION,,Scorpion,Now you die.,,N,MoKo11-1025,MoKo11-1027
+MoKo11-1027,TO HELL AND BACK / SCORPION,,,[D’vorah creeps away.],,Y,MoKo11-1026,MoKo11-1028
+MoKo11-1028,TO HELL AND BACK / SCORPION,,Hanso Hasashi,Raiden is at the Fire Gardens. Enlist Kharon’s aid. Bring Raiden’s army to the Keep. You must!,,N,MoKo11-1027,MoKo11-1029
+MoKo11-1029,TO HELL AND BACK / SCORPION,,Scorpion,You have my word.,,N,MoKo11-1028,MoKo11-1030
+MoKo11-1030,TO HELL AND BACK / SCORPION,,Hanso Hasashi,"The new Shirai Ryu are worthy. It’s heart, not blood, that makes them warriors.",,N,MoKo11-1029,MoKo11-1031
+MoKo11-1031,TO HELL AND BACK / SCORPION,,,[He dies. The wind and sad music brings us back to the dojo.],,Y,MoKo11-1030,MoKo11-1032
+MoKo11-1032,TO HELL AND BACK / SCORPION,,Sub-Zero,"Your Shaolin masters, they’re ready?",,N,MoKo11-1031,MoKo11-1033
+MoKo11-1033,TO HELL AND BACK / SCORPION,,Young Liu Kang,They will fight until the last man.,,N,MoKo11-1032,MoKo11-1034
+MoKo11-1034,TO HELL AND BACK / SCORPION,,Sub-Zero,That is likely what it will take.,,N,MoKo11-1033,MoKo11-1035
+MoKo11-1035,TO HELL AND BACK / SCORPION,,Young Liu Kang,There will not be a fight if Kharon does not help us. Is there any word from Grandmaster Hasashi?,,N,MoKo11-1034,MoKo11-1036
+MoKo11-1036,TO HELL AND BACK / SCORPION,,Sub-Zero,"No. If we do not hear soon, I will return to the Netherrealm.",,N,MoKo11-1035,MoKo11-1037
+MoKo11-1037,TO HELL AND BACK / SCORPION,,,[Scorpion appears.],,Y,MoKo11-1036,MoKo11-1038
+MoKo11-1038,TO HELL AND BACK / SCORPION,,Young Liu Kang,Wrong Scorpion. This cannot be good.,,N,MoKo11-1037,MoKo11-1039
+MoKo11-1039,TO HELL AND BACK / SCORPION,,Sub-Zero,Get Raiden.,,N,MoKo11-1038,MoKo11-1040
+MoKo11-1040,TO HELL AND BACK / SCORPION,,Scorpion,"The Fire Gardens, rebuilt? The Shirai Ryu are indeed restored.",,N,MoKo11-1039,MoKo11-1041
+MoKo11-1041,TO HELL AND BACK / SCORPION,,Sub-Zero,"Why are you here, Scorpion? Where is Grandmaster Hasashi?",,N,MoKo11-1040,MoKo11-1042
+MoKo11-1042,TO HELL AND BACK / SCORPION,,Scorpion,He is dead.,,N,MoKo11-1041,MoKo11-1043
+MoKo11-1043,TO HELL AND BACK / SCORPION,,Sub-Zero,And now you have come to finish us.,,N,MoKo11-1042,MoKo11-1044
+MoKo11-1044,TO HELL AND BACK / SCORPION,,Scorpion,"I understand your mistrust, but I am here to assist you!",,N,MoKo11-1043,MoKo11-1045
+MoKo11-1045,TO HELL AND BACK / SCORPION,,Sub-Zero,I find that impossible to believe.,,N,MoKo11-1044,MoKo11-1046
+MoKo11-1046,TO HELL AND BACK / SCORPION,,,[SCORPION VS SUB-ZERO],,Y,MoKo11-1045,MoKo11-1047
+MoKo11-1047,TO HELL AND BACK / SCORPION,,Scorpion,You misunderstand my intentions.,,N,MoKo11-1046,MoKo11-1048
+MoKo11-1048,TO HELL AND BACK / SCORPION,,,"[He's struck by lightning, and flying off.]",,Y,MoKo11-1047,MoKo11-1049
+MoKo11-1049,TO HELL AND BACK / SCORPION,,Raiden,"Who sent you here, Scorpion?",,N,MoKo11-1048,MoKo11-1050
+MoKo11-1050,TO HELL AND BACK / SCORPION,,Scorpion,My future self is dead. I am here at his behest.,,N,MoKo11-1049,MoKo11-1051
+MoKo11-1051,TO HELL AND BACK / SCORPION,,Young Liu Kang,Grandmaster Hasashi sent you?,,N,MoKo11-1050,MoKo11-1052
+MoKo11-1052,TO HELL AND BACK / SCORPION,,Scorpion,I honor his dying wish. Kharon will ferry your armies to the isle of Kronika. We must leave at once.,,N,MoKo11-1051,MoKo11-1053
+MoKo11-1053,TO HELL AND BACK / SCORPION,,Raiden,Do you have proof of Kharon’s offer?,,N,MoKo11-1052,MoKo11-1054
+MoKo11-1054,TO HELL AND BACK / SCORPION,,Scorpion,Only my word.,,N,MoKo11-1053,MoKo11-1055
+MoKo11-1055,TO HELL AND BACK / SCORPION,,Raiden,"Your word is worthless. At the tournament, I trusted you to spare Bi-Han, and you betrayed me.",,N,MoKo11-1054,MoKo11-1056
+MoKo11-1056,TO HELL AND BACK / SCORPION,,Scorpion,A mistake born of rage. I seek redemption.,,N,MoKo11-1055,MoKo11-1057
+MoKo11-1057,TO HELL AND BACK / SCORPION,,Raiden,"Lies, Scorpion, you are a slave. And Kronika is your master.",,N,MoKo11-1056,MoKo11-1058
+MoKo11-1058,TO HELL AND BACK / SCORPION,,,[SCORPION VS RAIDEN],,Y,MoKo11-1057,MoKo11-1059
+MoKo11-1059,TO HELL AND BACK / SCORPION,,Scorpion,"Raiden, you must listen!",,N,MoKo11-1058,MoKo11-1060
+MoKo11-1060,TO HELL AND BACK / SCORPION,,Raiden,"Spout your falsehoods elsewhere, Scorpion! Kronika will not entrap us.",,N,MoKo11-1059,MoKo11-1061
+MoKo11-1061,TO HELL AND BACK / SCORPION,,Scorpion,It is no trap! Kharon awaits you in the Netherrealm.,,N,MoKo11-1060,MoKo11-1062
+MoKo11-1062,CUTTING THE STRINGS / RAIDEN,,Young Liu Kang,Lord Raiden! We should listen. He may be telling the truth.,,N,MoKo11-1061,MoKo11-1063
+MoKo11-1063,CUTTING THE STRINGS / RAIDEN,,Raiden,There is only one way to find out.,,N,MoKo11-1062,MoKo11-1064
+MoKo11-1064,CUTTING THE STRINGS / RAIDEN,,,[He takes Shinnok’s Amulet and hits Scorpion with its power.],,Y,MoKo11-1063,MoKo11-1065
+MoKo11-1065,CUTTING THE STRINGS / RAIDEN,,Raiden,"Now, Scorpion. The truth!",,N,MoKo11-1064,MoKo11-1066
+MoKo11-1066,CUTTING THE STRINGS / RAIDEN,,Young Liu Kang,"Raiden, stop this!",,N,MoKo11-1065,MoKo11-1067
+MoKo11-1067,CUTTING THE STRINGS / RAIDEN,,Raiden,"Step aside, Liu Kang.",,N,MoKo11-1066,MoKo11-1068
+MoKo11-1068,CUTTING THE STRINGS / RAIDEN,,Young Liu Kang,Put down the amulet! Its darkness is taking hold of you!,,N,MoKo11-1067,MoKo11-1069
+MoKo11-1069,CUTTING THE STRINGS / RAIDEN,,,[Raiden hits Liu Kang with the power of the amulet.],,Y,MoKo11-1068,MoKo11-1070
+MoKo11-1070,CUTTING THE STRINGS / RAIDEN,,Raiden,Our time has run out. I do what I must to save Earthrealm. Stay down!,,N,MoKo11-1069,MoKo11-1071
+MoKo11-1071,CUTTING THE STRINGS / RAIDEN,,Young Liu Kang,This is not the way. Scorpion is not the enemy this time.,,N,MoKo11-1070,MoKo11-1072
+MoKo11-1072,CUTTING THE STRINGS / RAIDEN,,Raiden,"Liu Kang, do not interfere!",,N,MoKo11-1071,MoKo11-1073
+MoKo11-1073,CUTTING THE STRINGS / RAIDEN,,,[RAIDEN VS YOUNG LIU KANG],,Y,MoKo11-1072,MoKo11-1074
+MoKo11-1074,CUTTING THE STRINGS / RAIDEN,,Raiden,"Do not force my hand, Liu Kang. The realms hang in the balance! To defend them, I must command order!",,N,MoKo11-1073,MoKo11-1075
+MoKo11-1075,CUTTING THE STRINGS / RAIDEN,,Young Liu Kang,"I thought it impossible, but the Revenants were right. You cannot be trusted.",,N,MoKo11-1074,MoKo11-1076
+MoKo11-1076,CUTTING THE STRINGS / RAIDEN,,Raiden,I do not need trust. I demand obedience!,,N,MoKo11-1075,MoKo11-1077
+MoKo11-1077,CUTTING THE STRINGS / RAIDEN,,Young Liu Kang,"Enough of your madness. If you must die, so be it.",,N,MoKo11-1076,MoKo11-1078
+MoKo11-1078,CUTTING THE STRINGS / RAIDEN,,Raiden,This-- This has happened before…,,N,MoKo11-1077,MoKo11-1079
+MoKo11-1079,CUTTING THE STRINGS / RAIDEN,,,[He sees a vision of the final battle with Shao Kahn.],,Y,MoKo11-1078,MoKo11-1080
+MoKo11-1080,CUTTING THE STRINGS / RAIDEN,,Raiden,"Liu Kang, do not interfere! You cannot fight Shao Kahn! Liu Kang, stop!",,N,MoKo11-1079,MoKo11-1081
+MoKo11-1081,CUTTING THE STRINGS / RAIDEN,,Young Liu Kang,"Enough of your madness. If you must die, so be it!",,N,MoKo11-1080,MoKo11-1082
+MoKo11-1082,CUTTING THE STRINGS / RAIDEN,,,"[They're fighting through a multitude of options for a possible future… We're back to the current time line, where Raiden manages to stop the fight.]",,Y,MoKo11-1081,MoKo11-1083
+MoKo11-1083,CUTTING THE STRINGS / RAIDEN,,Raiden," I have been a fool, Liu Kang. Kronika’s puppet. We only battle because she wills it. I must help him.",(bows) ,N,MoKo11-1082,MoKo11-1084
+MoKo11-1084,CUTTING THE STRINGS / RAIDEN,,,[He heals Scorpion and helps him to get up.],,Y,MoKo11-1083,MoKo11-1085
+MoKo11-1085,CUTTING THE STRINGS / RAIDEN,,Raiden,"I was wrong to doubt you. I, too, have been a slave to anger.",,N,MoKo11-1084,MoKo11-1086
+MoKo11-1086,CUTTING THE STRINGS / RAIDEN,,Young Liu Kang,"I do not understand, Lord Raiden. Your rage was caused by Kronika?",,N,MoKo11-1085,MoKo11-1087
+MoKo11-1087,CUTTING THE STRINGS / RAIDEN,,Raiden,"Yes. I succumbed to her influence. But then, our confrontation... It unlocked memories. Memories not only from this timeline, but from timelines that have come before.",,N,MoKo11-1086,MoKo11-1088
+MoKo11-1088,CUTTING THE STRINGS / RAIDEN,,Cassie Cage,Wait a sec. Timelines? Plural?,,N,MoKo11-1087,MoKo11-1089
+MoKo11-1089,CUTTING THE STRINGS / RAIDEN,,Raiden,"Kronika has restarted time on countless previous occasions, using each timeline to learn and to perfect her plan. The details of each timeline are different. But in each one, events conspire to bring Liu Kang and I into conflict. In each one, he dies. Only Kronika has such power to control time and fate.",,N,MoKo11-1088,MoKo11-1090
+MoKo11-1090,CUTTING THE STRINGS / RAIDEN,,Cassie Cage,I don’t get it. Why do that?,,N,MoKo11-1089,MoKo11-1091
+MoKo11-1091,CUTTING THE STRINGS / RAIDEN,,Raiden,"I do not know But be assured, Kronika will control us no longer.",,N,MoKo11-1090,MoKo11-1092
+MoKo11-1092,CUTTING THE STRINGS / RAIDEN,,,[A sandstorm rises and Kronika appears. Time stops its course.],,Y,MoKo11-1091,MoKo11-1093
+MoKo11-1093,CUTTING THE STRINGS / RAIDEN,,Kronika,"At long last, you see the pattern.",,N,MoKo11-1092,MoKo11-1094
+MoKo11-1094,CUTTING THE STRINGS / RAIDEN,,Raiden,"The pattern, but not the purpose. Why set me against Liu Kang?",,N,MoKo11-1093,MoKo11-1095
+MoKo11-1095,CUTTING THE STRINGS / RAIDEN,,Kronika,Is it not obvious? Your combined power threatens my vision for the timeline.,,N,MoKo11-1094,MoKo11-1096
+MoKo11-1096,CUTTING THE STRINGS / RAIDEN,,Raiden,Liu Kang and I will not be divided further by your machinations.,,N,MoKo11-1095,MoKo11-1097
+MoKo11-1097,CUTTING THE STRINGS / RAIDEN,,Kronika,"Oh, Raiden. Do you think this is the first time you made that vow? We have repeated this exact conversation so often, in so many timelines, I have lost count.",,N,MoKo11-1096,MoKo11-1098
+MoKo11-1098,CUTTING THE STRINGS / RAIDEN,,Raiden,This timeline will end differently.,,N,MoKo11-1097,MoKo11-1099
+MoKo11-1099,CUTTING THE STRINGS / RAIDEN,,Kronika,"We have played out all possible scenarios, Raiden. You cannot win. You are welcome to try, of course. But without Liu Kang by your side.",,N,MoKo11-1098,MoKo11-1100
+MoKo11-1100,CUTTING THE STRINGS / RAIDEN,,,[Liu Kang is kidnapped by Kronika via sand teleportation.],,Y,MoKo11-1099,MoKo11-1101
+MoKo11-1101,CUTTING THE STRINGS / RAIDEN,,Kronika,"Enjoy these final hours, Raiden. They are all you have.",,N,MoKo11-1100,MoKo11-1102
+MoKo11-1102,CUTTING THE STRINGS / RAIDEN,,,[Time is returning to normal.],,Y,MoKo11-1101,MoKo11-1103
+MoKo11-1103,CUTTING THE STRINGS / RAIDEN,,Cassie Cage,Liu Kang! Where is he?!,,N,MoKo11-1102,MoKo11-1104
+MoKo11-1104,CUTTING THE STRINGS / RAIDEN,,Raiden,"Kronika has taken him to her isle. We must leave immediately. To save the realms, we must save Liu Kang.",,N,MoKo11-1103,MoKo11-1105
+MoKo11-1105,CUTTING THE STRINGS / RAIDEN,,,[At Kronika’s hideout. Liu Kang is sitting chained up on a chair. He is guarded by armored Geras.],,Y,MoKo11-1104,MoKo11-1106
+MoKo11-1106,CUTTING THE STRINGS / RAIDEN,,Young Liu Kang,"A new look, just for me? You shouldn’t have. What do you want from me!",,N,MoKo11-1105,MoKo11-1107
+MoKo11-1107,CUTTING THE STRINGS / RAIDEN,,Kronika,You will aid in my protection.,,N,MoKo11-1106,MoKo11-1108
+MoKo11-1108,CUTTING THE STRINGS / RAIDEN,,Young Liu Kang,Not likely.,,N,MoKo11-1107,MoKo11-1109
+MoKo11-1109,CUTTING THE STRINGS / RAIDEN,,Resurrected Liu Kang,"I have mastered Shinnok’s sorcery. I will add your soul’s strength to mine, and finally avenge myself upon Raiden.",,N,MoKo11-1108,MoKo11-1110
+MoKo11-1110,CUTTING THE STRINGS / RAIDEN,,Kronika,"My friends, Raiden’s armies are coming. They will fight us, and they will lose.",,N,MoKo11-1109,MoKo11-1111
+MoKo11-1111,CUTTING THE STRINGS / RAIDEN,,,[We see Raiden and his army together with Kitana’s army sailing on Kharon's boat for the last battle.],,Y,MoKo11-1110,MoKo11-1112
+MoKo11-1112,CUTTING THE STRINGS / RAIDEN,,Kharon,Kronika’s isle lies beyond the fog.,,N,MoKo11-1111,MoKo11-1113
+MoKo11-1113,CUTTING THE STRINGS / RAIDEN,,,[But from the fog appears something else...],,Y,MoKo11-1112,MoKo11-1114
+MoKo11-1114,CUTTING THE STRINGS / RAIDEN,,Kharon,Battleships. My ferries cannot fight a war.,,N,MoKo11-1113,MoKo11-1115
+MoKo11-1115,CUTTING THE STRINGS / RAIDEN,,Raiden,"This fleet is under my protection.  If Kharon falls, our fleet cannot sail. Protect him at all costs.",(to his army) ,N,MoKo11-1114,MoKo11-1116
+MoKo11-1116,CUTTING THE STRINGS / RAIDEN,,,[Meanwhile on the battleship...],,Y,MoKo11-1115,MoKo11-1117
+MoKo11-1117,CUTTING THE STRINGS / RAIDEN,,Frost,Ramming speed!,,N,MoKo11-1116,MoKo11-1118
+MoKo11-1118,CUTTING THE STRINGS / RAIDEN,,,[Kronika’s army is sailing close to Kharon's ship. The battle with the cyborgs begins.],,Y,MoKo11-1117,MoKo11-1119
+MoKo11-1119,CUTTING THE STRINGS / RAIDEN,,Jax Briggs,"I don’t want to fight, but I’ve got to. For Jacqui’s sake and mine.",,N,MoKo11-1118,MoKo11-1120
+MoKo11-1120,CUTTING THE STRINGS / RAIDEN,,,[RAIDEN VS JAX BRIGGS],,Y,MoKo11-1119,MoKo11-1121
+MoKo11-1121,CUTTING THE STRINGS / RAIDEN,,Raiden,"Let me help you. Kronika’s promises to you are a cruel deception. She is the mother of Shinnok, the architect of your Revenant enslavement.",,N,MoKo11-1120,MoKo11-1122
+MoKo11-1122,CUTTING THE STRINGS / RAIDEN,,Jax Briggs,But-- No. She’s Cetrion’s mother.,,N,MoKo11-1121,MoKo11-1123
+MoKo11-1123,CUTTING THE STRINGS / RAIDEN,,Raiden,"Cetrion is Shinnok’s sister. In Kronika’s New Era, Shinnok will be the darkness to balance Cetrion’s light.",,N,MoKo11-1122,MoKo11-1124
+MoKo11-1124,CUTTING THE STRINGS / RAIDEN,,Jax Briggs,Which’ll only happen if the realms keep on fighting each other. What have I done? I’m a fool.,,N,MoKo11-1123,MoKo11-1125
+MoKo11-1125,CUTTING THE STRINGS / RAIDEN,,Raiden,It is not foolish to fight for your family’s betterment.,,N,MoKo11-1124,MoKo11-1126
+MoKo11-1126,CUTTING THE STRINGS / RAIDEN,,Jax Briggs,"I’m sorry, Raiden. I promise to make this right.",,N,MoKo11-1125,MoKo11-1127
+MoKo11-1127,CUTTING THE STRINGS / RAIDEN,,,[He's starting to fight the cyborgs. Geras appears.],,Y,MoKo11-1126,MoKo11-1128
+MoKo11-1128,CUTTING THE STRINGS / RAIDEN,,Geras,"I have died a thousand deaths to prepare for this battle. My defeat is impossible. Yours, inevitable.",,N,MoKo11-1127,MoKo11-1129
+MoKo11-1129,CUTTING THE STRINGS / RAIDEN,,,[RAIDEN VS GERAS],,Y,MoKo11-1128,MoKo11-1130
+MoKo11-1130,CUTTING THE STRINGS / RAIDEN,,Raiden,I will suffer you no more.,,N,MoKo11-1129,MoKo11-1131
+MoKo11-1131,CUTTING THE STRINGS / RAIDEN,,,[He's wrapping Geras in a chain.],,Y,MoKo11-1130,MoKo11-1132
+MoKo11-1132,CUTTING THE STRINGS / RAIDEN,,Geras,"Drowning cannot kill me, Raiden.",,N,MoKo11-1131,MoKo11-1133
+MoKo11-1133,CUTTING THE STRINGS / RAIDEN,,Raiden,That is unfortunate for you. The Sea of Blood is bottomless. You will fall forever.,,N,MoKo11-1132,MoKo11-1134
+MoKo11-1134,CUTTING THE STRINGS / RAIDEN,,,[Frost joins the fun.],,Y,MoKo11-1133,MoKo11-1135
+MoKo11-1135,CUTTING THE STRINGS / RAIDEN,,Frost,"Now do I have your attention, Raiden? The warriors sinking your fleet are under my command.",,N,MoKo11-1134,MoKo11-1136
+MoKo11-1136,CUTTING THE STRINGS / RAIDEN,,Raiden,"You have made a devil’s bargain with Kronika, Frost.",,N,MoKo11-1135,MoKo11-1137
+MoKo11-1137,CUTTING THE STRINGS / RAIDEN,,Frost,You ignored me my entire life. Kronika saw my talent from the start.,,N,MoKo11-1136,MoKo11-1138
+MoKo11-1138,CUTTING THE STRINGS / RAIDEN,,,[RAIDEN VS FROST],,Y,MoKo11-1137,MoKo11-1139
+MoKo11-1139,CUTTING THE STRINGS / RAIDEN,,Raiden,Envy and ambition consume you.,,N,MoKo11-1138,MoKo11-1140
+MoKo11-1140,CUTTING THE STRINGS / RAIDEN,,Sub-Zero,Such wasted potential.,,N,MoKo11-1139,MoKo11-1141
+MoKo11-1141,CUTTING THE STRINGS / RAIDEN,,Raiden,"The good she could have done, in command of these Cyber Lin Kuei.",,N,MoKo11-1140,MoKo11-1142
+MoKo11-1142,CUTTING THE STRINGS / RAIDEN,,Sub-Zero,"She commands them? Not Sektor? If so, she is linked to them. They follow her thoughts.",,N,MoKo11-1141,MoKo11-1143
+MoKo11-1143,CUTTING THE STRINGS / RAIDEN,,Raiden,Then let them follow her to defeat.,,N,MoKo11-1142,MoKo11-1144
+MoKo11-1144,CUTTING THE STRINGS / RAIDEN,,,[Raiden uses electricity to control Frost's brain. All the cyborgs are shut down.],,Y,MoKo11-1143,MoKo11-1145
+MoKo11-1145,CUTTING THE STRINGS / RAIDEN,,Jax Briggs,Candy ass bitch.,,N,MoKo11-1144,MoKo11-1146
+MoKo11-1146,CUTTING THE STRINGS / RAIDEN,,,[Meanwhile Resurrected Liu Kang consumes Young Liu Kang’s soul. Young Liu Kang dies.],,Y,MoKo11-1145,MoKo11-1147
+MoKo11-1147,CUTTING THE STRINGS / RAIDEN,,Resurrected Kitana,Raiden’s fleet nears our shores.,,N,MoKo11-1146,MoKo11-1148
+MoKo11-1148,CUTTING THE STRINGS / RAIDEN,,Resurrected Liu Kang,The two of you will command the army defending the beachhead.,,N,MoKo11-1147,MoKo11-1149
+MoKo11-1149,CUTTING THE STRINGS / RAIDEN,,Resurrected Kitana,Where will you be?,,N,MoKo11-1148,MoKo11-1150
+MoKo11-1150,CUTTING THE STRINGS / RAIDEN,,,[He smiles. Kharon's ships have almost reached the land.],,Y,MoKo11-1149,MoKo11-1151
+MoKo11-1151,CUTTING THE STRINGS / RAIDEN,,Kharon,LAND HO!,,N,MoKo11-1150,MoKo11-1152
+MoKo11-1152,CUTTING THE STRINGS / RAIDEN,,,[Resurrected Liu Kang is coming to the ship. He is met by Raiden.],,Y,MoKo11-1151,MoKo11-1153
+MoKo11-1153,CUTTING THE STRINGS / RAIDEN,,Raiden,"Time after time, Kronika’s schemes have pitted us against each other. That cycle must end, Liu Kang.",,N,MoKo11-1152,MoKo11-1154
+MoKo11-1154,CUTTING THE STRINGS / RAIDEN,,Resurrected Liu Kang,"This time, it will.",,N,MoKo11-1153,MoKo11-1155
+MoKo11-1155,CUTTING THE STRINGS / RAIDEN,,Raiden,Your power! Is this Kronika’s gift?,,N,MoKo11-1154,MoKo11-1156
+MoKo11-1156,CUTTING THE STRINGS / RAIDEN,,Resurrected Liu Kang,"A gift to myself, you could say.",,N,MoKo11-1155,MoKo11-1157
+MoKo11-1157,CUTTING THE STRINGS / RAIDEN,,Raiden,You stole your own soul Perverted your own nature!,,N,MoKo11-1156,MoKo11-1158
+MoKo11-1158,CUTTING THE STRINGS / RAIDEN,,Resurrected Liu Kang,"It’s a lesson you taught me, Raiden. To fight my enemies by any means necessary.",,N,MoKo11-1157,MoKo11-1159
+MoKo11-1159,CUTTING THE STRINGS / RAIDEN,,,[RAIDEN VS RESURRECTED LIU KANG],,Y,MoKo11-1158,MoKo11-1160
+MoKo11-1160,CUTTING THE STRINGS / RAIDEN,,Raiden,I have conquered the darkness within me. You must do the same.,,N,MoKo11-1159,MoKo11-1161
+MoKo11-1161,CUTTING THE STRINGS / RAIDEN,,Resurrected Liu Kang,Raiden! You will have to kill me.,,N,MoKo11-1160,MoKo11-1162
+MoKo11-1162,CUTTING THE STRINGS / RAIDEN,,Raiden,I would rather save you.,,N,MoKo11-1161,MoKo11-1163
+MoKo11-1163,CUTTING THE STRINGS / RAIDEN,,,"[He strikes him with powerful electricity. Young Liu Kang revives and realizes what Raiden is doing, thus teleport to the last location where Raiden and Resurrected were via lightning. Kronika seems shocked.]",,Y,MoKo11-1162,MoKo11-1164
+MoKo11-1164,END OF AN ERA / FIRE GOD LIU KANG,,,[Young Liu Kang has become a fire-electric creature.],,Y,MoKo11-1163,MoKo11-1165
+MoKo11-1165,END OF AN ERA / FIRE GOD LIU KANG,,Sub-Zero,Liu Kang?,,N,MoKo11-1164,MoKo11-1166
+MoKo11-1166,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,I am – and I am not.,,N,MoKo11-1165,MoKo11-1167
+MoKo11-1167,END OF AN ERA / FIRE GOD LIU KANG,,Jax Briggs,What happened to Raiden?,,N,MoKo11-1166,MoKo11-1168
+MoKo11-1168,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,"He is part of me. Bound to my soul. He made me a god. For now, at least.",,N,MoKo11-1167,MoKo11-1169
+MoKo11-1169,END OF AN ERA / FIRE GOD LIU KANG,,Kitana,A god? Incredible.,,N,MoKo11-1168,MoKo11-1170
+MoKo11-1170,END OF AN ERA / FIRE GOD LIU KANG,,Kung Lao,Now he’s out of her league.,,N,MoKo11-1169,MoKo11-1171
+MoKo11-1171,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,"My Revenant counterpart. I have absorbed his knowledge of the Keep, of Kronika’s plan. I know where to find the Hourglass. We can beat Kronika.",,N,MoKo11-1170,MoKo11-1172
+MoKo11-1172,END OF AN ERA / FIRE GOD LIU KANG,,Kronika,Out of desperation comes invention. I had not thought it possible for Raiden to surprise me. Our success is no longer certain. We must make haste.,,N,MoKo11-1171,MoKo11-1173
+MoKo11-1173,END OF AN ERA / FIRE GOD LIU KANG,,Kharon,Brace for impact!,,N,MoKo11-1172,MoKo11-1174
+MoKo11-1174,END OF AN ERA / FIRE GOD LIU KANG,,,[They land on the island of Kronika and start fighting countless demons. Old Jax also helps in the fight.],,Y,MoKo11-1173,MoKo11-1175
+MoKo11-1175,END OF AN ERA / FIRE GOD LIU KANG,,Jacqui Briggs,This mean you’re back?,,N,MoKo11-1174,MoKo11-1176
+MoKo11-1176,END OF AN ERA / FIRE GOD LIU KANG,,Jax Briggs,"This means I’m sorry, Jacqui. And hell yeah I’m back.",,N,MoKo11-1175,MoKo11-1177
+MoKo11-1177,END OF AN ERA / FIRE GOD LIU KANG,,,[The Fire God appears in the sky and crushes all the demons in one apocalyptic explosion.],,Y,MoKo11-1176,MoKo11-1178
+MoKo11-1178,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,Stand back.,,N,MoKo11-1177,MoKo11-1179
+MoKo11-1179,END OF AN ERA / FIRE GOD LIU KANG,,,[They're continuing their triumphant march to Kronika's chambers.],,Y,MoKo11-1178,MoKo11-1180
+MoKo11-1180,END OF AN ERA / FIRE GOD LIU KANG,,Resurrected Jade,Is the battle lost?,,N,MoKo11-1179,MoKo11-1181
+MoKo11-1181,END OF AN ERA / FIRE GOD LIU KANG,,Kronika,Victory is still at hand. The Hourglass is nearly ready. You will prevent Liu Kang’s interference. But you will require more assistance.,,N,MoKo11-1180,MoKo11-1182
+MoKo11-1182,END OF AN ERA / FIRE GOD LIU KANG,,,"[She uses some kind of frost magic. Meanwhile, The Fire God and his friends stands at the door.]",,Y,MoKo11-1181,MoKo11-1183
+MoKo11-1183,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,"Whatever happens, I am honored to fight at your Side.",,N,MoKo11-1182,MoKo11-1184
+MoKo11-1184,END OF AN ERA / FIRE GOD LIU KANG,,Kitana,"Likewise, Liu Kang.",,N,MoKo11-1183,MoKo11-1185
+MoKo11-1185,END OF AN ERA / FIRE GOD LIU KANG,,Kung Lao,"Me too, brother.",,N,MoKo11-1184,MoKo11-1186
+MoKo11-1186,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,May the Elder Gods protect us.,,N,MoKo11-1185,MoKo11-1187
+MoKo11-1187,END OF AN ERA / FIRE GOD LIU KANG,,,[He melts the door and they enter the room.],,Y,MoKo11-1186,MoKo11-1188
+MoKo11-1188,END OF AN ERA / FIRE GOD LIU KANG,,Kronika,"Liu Kang, God of Thunder and Fire. Combining with Raiden has the benefit of novelty. But it is also too little, too late.",,N,MoKo11-1187,MoKo11-1189
+MoKo11-1189,END OF AN ERA / FIRE GOD LIU KANG,,,[The time stops… and starts to go backwards.],,Y,MoKo11-1188,MoKo11-1190
+MoKo11-1190,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,Kitana! Kung Lao!,,N,MoKo11-1189,MoKo11-1191
+MoKo11-1191,END OF AN ERA / FIRE GOD LIU KANG,,Kronika,"Raiden’s gift shields you from the power of the Hourglass. Regardless --Your allies are gone, while mine remain to defend me. Finish him.",,N,MoKo11-1190,MoKo11-1192
+MoKo11-1192,END OF AN ERA / FIRE GOD LIU KANG,,,[The Fire God fights the resurrected trio.],,Y,MoKo11-1191,MoKo11-1193
+MoKo11-1193,END OF AN ERA / FIRE GOD LIU KANG,,Raiden, Earthrealm’s Jinsei flows within you. Let it fuel your fire.,(voice) ,N,MoKo11-1192,MoKo11-1194
+MoKo11-1194,END OF AN ERA / FIRE GOD LIU KANG,,,[The Fire God does flame on and push the resurrected away.],,Y,MoKo11-1193,MoKo11-1195
+MoKo11-1195,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,Now stand down. I have no wish to harm you.,,N,MoKo11-1194,MoKo11-1196
+MoKo11-1196,END OF AN ERA / FIRE GOD LIU KANG,,Resurrected Kitana,Harm me?! You already killed me! My fate was sealed the moment I joined you at Raiden’s side. It s a mistake I won’t repeat in the New Era.,,N,MoKo11-1195,MoKo11-1197
+MoKo11-1197,END OF AN ERA / FIRE GOD LIU KANG,,,[FIRE GOD LIU KANG VS RESURRECTED KITANA],,Y,MoKo11-1196,MoKo11-1198
+MoKo11-1198,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,Our bond was no mistake.,,N,MoKo11-1197,MoKo11-1199
+MoKo11-1199,END OF AN ERA / FIRE GOD LIU KANG,,Resurrected Kung Lao,Your ego knows no bounds.,,N,MoKo11-1198,MoKo11-1200
+MoKo11-1200,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,I did not ask for this. It was thrust upon me.,,N,MoKo11-1199,MoKo11-1201
+MoKo11-1201,END OF AN ERA / FIRE GOD LIU KANG,,Resurrected Kung Lao,"It should have been me, Liu Kang, from the beginning! Thanks to Kronika, it will be.",,N,MoKo11-1200,MoKo11-1202
+MoKo11-1202,END OF AN ERA / FIRE GOD LIU KANG,,,[FIRE GOD LIU KANG VS RESURRECTED KUNG LAO],,Y,MoKo11-1201,MoKo11-1203
+MoKo11-1203,END OF AN ERA / FIRE GOD LIU KANG,,Kronika,"Still, you are alive.",,N,MoKo11-1202,MoKo11-1204
+MoKo11-1204,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,"Yes, Kronika. You were right to fear mine and Raiden’s powers combined.",,N,MoKo11-1203,MoKo11-1205
+MoKo11-1205,END OF AN ERA / FIRE GOD LIU KANG,,Kronika,A demi-god’s power cannot rival that of an Elder God Cetrion!,,N,MoKo11-1204,MoKo11-1206
+MoKo11-1206,END OF AN ERA / FIRE GOD LIU KANG,,Cetrion,"As you wish, mother. You match me step for step.",,N,MoKo11-1205,MoKo11-1207
+MoKo11-1207,END OF AN ERA / FIRE GOD LIU KANG,,,[Fire God Liu Kang easily defeats Cetrion.],,Y,MoKo11-1206,MoKo11-1208
+MoKo11-1208,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,"Because your heart is not in the battle, Cetrion. You fight for your mother’s vision. But as a goddess of virtue you know that her desired balance is folly.",,N,MoKo11-1207,MoKo11-1209
+MoKo11-1209,END OF AN ERA / FIRE GOD LIU KANG,,Kronika,"Heed me, Cetrion. He lacks our vision and wisdom.",,N,MoKo11-1208,MoKo11-1210
+MoKo11-1210,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,Please. No virtue is served by condemning the realms to endless war.,,N,MoKo11-1209,MoKo11-1211
+MoKo11-1211,END OF AN ERA / FIRE GOD LIU KANG,,Cetrion,"The greatest virtue is abiding my mother’s will, Liu Kang. I cannot fail her.",,N,MoKo11-1210,MoKo11-1212
+MoKo11-1212,END OF AN ERA / FIRE GOD LIU KANG,,,[FIRE GOD LIU KANG VS CETRION],,Y,MoKo11-1211,MoKo11-1213
+MoKo11-1213,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,"Your heart betrays you, Cetrion.",,N,MoKo11-1212,MoKo11-1214
+MoKo11-1214,END OF AN ERA / FIRE GOD LIU KANG,,Cetrion,I have failed you.,,N,MoKo11-1213,MoKo11-1215
+MoKo11-1215,END OF AN ERA / FIRE GOD LIU KANG,,Kronika,"Dearest Cetrion, you have done admirably. Yet there is one final service to perform.",,N,MoKo11-1214,MoKo11-1216
+MoKo11-1216,END OF AN ERA / FIRE GOD LIU KANG,,Cetrion,"Yes, mother. I understand.",,N,MoKo11-1215,MoKo11-1217
+MoKo11-1217,END OF AN ERA / FIRE GOD LIU KANG,,,[She kills herself and Kronika absorbs her power.],,Y,MoKo11-1216,MoKo11-1218
+MoKo11-1218,END OF AN ERA / FIRE GOD LIU KANG,,Kronika,"You will be exalted in the New Era, Cetrion. And you Liu Kang, have failed. History rewinds, giving way to the New Era! The realms as you knew them are undone. Erased. You cannot save a future that no longer exists! There is only the New Era!",,N,MoKo11-1217,MoKo11-1219
+MoKo11-1219,END OF AN ERA / FIRE GOD LIU KANG,,,[FIRE GOD LIU KANG VS KRONIKA],,Y,MoKo11-1218,MoKo11-1220
+MoKo11-1220,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,The realms will not fight your endless wars.,,N,MoKo11-1219,MoKo11-1221
+MoKo11-1221,END OF AN ERA / FIRE GOD LIU KANG,,Kronika,"Fight me further, and your friends are lost. They have no future unless I create it.",,N,MoKo11-1220,MoKo11-1222
+MoKo11-1222,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,The future you offer is not worth living. It will not come to pass.,,N,MoKo11-1221,MoKo11-1223
+MoKo11-1223,END OF AN ERA / FIRE GOD LIU KANG,,,[FIRE GOD LIU KANG VS KRONIKA],,Y,MoKo11-1222,MoKo11-1224
+MoKo11-1224,END OF AN ERA / FIRE GOD LIU KANG,,,[After second win Fire God Liu Kang turns Kronika into a crystal and smashes it.],,Y,MoKo11-1223,MoKo11-1225
+MoKo11-1225,END OF AN ERA / FIRE GOD LIU KANG,,Raiden," Our work is finished, Liu Kang.",(voice) ,N,MoKo11-1224,MoKo11-1226
+MoKo11-1226,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,Lord Raiden.,,N,MoKo11-1225,MoKo11-1227
+MoKo11-1227,END OF AN ERA / FIRE GOD LIU KANG,,Raiden,"I am merely Raiden, now. You have proven worthy to take my place as Earthrealm’s new Protector, Lord Liu Kang.",,N,MoKo11-1226,MoKo11-1228
+MoKo11-1228,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,Where do we go from here?,,N,MoKo11-1227,MoKo11-1229
+MoKo11-1229,END OF AN ERA / FIRE GOD LIU KANG,,Raiden,The Sands of Time are yours to shape. You must return the Hourglass to the dawn of time and sculpt a new history. A better one.,,N,MoKo11-1228,MoKo11-1230
+MoKo11-1230,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,"The fate of all realms in my hands? Raiden, I cannot do this alone.",,N,MoKo11-1229,MoKo11-1231
+MoKo11-1231,END OF AN ERA / FIRE GOD LIU KANG,,Raiden,Yes. You will need a partner with whom you can share the eons.,,N,MoKo11-1230,MoKo11-1232
+MoKo11-1232,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,Kitana.,,N,MoKo11-1231,MoKo11-1233
+MoKo11-1233,END OF AN ERA / FIRE GOD LIU KANG,,Raiden,Your destinies have always been intertwined.,,N,MoKo11-1232,MoKo11-1234
+MoKo11-1234,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,"We are far in the past, but not so far that I cannot reach her.",,N,MoKo11-1233,MoKo11-1235
+MoKo11-1235,END OF AN ERA / FIRE GOD LIU KANG,,Raiden,"Return with her to the dawn of time. Sculpt the Hourglass’ sands to forge a better future. I look forward to meeting again, in the next timeline.",,N,MoKo11-1234,MoKo11-1236
+MoKo11-1236,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,Then I will not say goodbye.,,N,MoKo11-1235,MoKo11-1237
+MoKo11-1237,END OF AN ERA / FIRE GOD LIU KANG,,,[And he starts... creating.],,Y,MoKo11-1236,MoKo11-1238
+MoKo11-1238,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,Are you ready?,,N,MoKo11-1237,MoKo11-1239
+MoKo11-1239,END OF AN ERA / FIRE GOD LIU KANG,,Kitana,"Yes. But no matter how we sculpt the Sands, we cannot plan for every possibility. Mortals will make their own choices. New evils will arise.",,N,MoKo11-1238,MoKo11-1240
+MoKo11-1240,END OF AN ERA / FIRE GOD LIU KANG,,Fire God Liu Kang,"Each realm must choose its own destiny. Whatever those choices, we will face them together.",,N,MoKo11-1239,MoKo11-1241

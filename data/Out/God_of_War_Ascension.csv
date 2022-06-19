@@ -1,0 +1,192 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+GoofWaAs-1,﻿,,,[A beautiful and bright room turns into a dirty stinky hole with battered dishes and broken furniture.],,Y,,GoofWaAs-2
+GoofWaAs-2,﻿,,Kratos,I see only you.,,N,GoofWaAs-1,GoofWaAs-3
+GoofWaAs-3,﻿,,Shade,Good. You will need this skill for the path ahead.,,N,GoofWaAs-2,GoofWaAs-4
+GoofWaAs-4,﻿,,Kratos,And what path is that?,,N,GoofWaAs-3,GoofWaAs-5
+GoofWaAs-5,﻿,,Shade,"The path of freedom, Kratos.",,N,GoofWaAs-4,GoofWaAs-6
+GoofWaAs-6,﻿,,Kratos,Freedom?,,N,GoofWaAs-5,GoofWaAs-7
+GoofWaAs-7,﻿,,Shade,Yes. Freedom. Freedom from the furies who relentlessly hunt you in the name of Ares. And ultimately freedom from your bond to the god of war himself.,,N,GoofWaAs-6,GoofWaAs-8
+GoofWaAs-8,﻿,,Kratos,"Break an oath with a god? Ha. Of all the minds in question, mine is not the one to worry about.",,N,GoofWaAs-7,GoofWaAs-9
+GoofWaAs-9,﻿,,Shade,"You waver from sound mind to illusion in the beat of a heart. Is that any life for a great warrior? The furies are near. They cannot know I speak with you. I will draw them away. The truth waits for you in Delphi, Kratos. Seek the oracle.",,N,GoofWaAs-8,GoofWaAs-10
+GoofWaAs-10,﻿,,,[Kratos finds the cup with the flame of Ares.],,Y,GoofWaAs-9,GoofWaAs-11
+GoofWaAs-11,﻿,,Voice,"For those who seek the truth, the heat of Ares’ fire has no burn.",,N,GoofWaAs-10,GoofWaAs-12
+GoofWaAs-12,﻿,,,[Kratos finds the cup with the ice of Poseidon.],,Y,GoofWaAs-11,GoofWaAs-13
+GoofWaAs-13,﻿,,Voice,Take the ice of Poseidon and you will find your path.,,N,GoofWaAs-12,GoofWaAs-14
+GoofWaAs-14,﻿,,,"[He rises to a huge serpent temple, located high in the mountains. On the way he meets a pilgrim.]",,Y,GoofWaAs-13,GoofWaAs-15
+GoofWaAs-15,﻿,,Pilgrim,The offerings will please the oracle this time. I know it.,,N,GoofWaAs-14,GoofWaAs-16
+GoofWaAs-16,﻿,,,[He trips on ice and falls.],,Y,GoofWaAs-15,GoofWaAs-17
+GoofWaAs-17,﻿,,Pilgrim,"No, no, no! My gifts! She must have them all. It will have to be enough.",,N,GoofWaAs-16,GoofWaAs-18
+GoofWaAs-18,﻿,,,[Chimera flies in and grabs a pilgrim.],,Y,GoofWaAs-17,GoofWaAs-19
+GoofWaAs-19,﻿,,Pilgrim,Nooo. Help me! Someone please help me!,,N,GoofWaAs-18,GoofWaAs-20
+GoofWaAs-20,﻿,,,[And he dies. Kratos wasn’t lift a finger. He enters the temple.],,Y,GoofWaAs-19,GoofWaAs-21
+GoofWaAs-21,﻿,,Slave,Hurry! Before the Master approaches...,,N,GoofWaAs-20,GoofWaAs-22
+GoofWaAs-22,﻿,,Master,You! We have given you all you need for success and yet you still fail us! The statues were to be completed by now.,,N,GoofWaAs-21,GoofWaAs-23
+GoofWaAs-23,﻿,,Slave,It is a massive task you have set before us. Master my brothers they hey need food and rest.,,N,GoofWaAs-22,GoofWaAs-24
+GoofWaAs-24,﻿,,Master,You have not been asked to speak!,,N,GoofWaAs-23,GoofWaAs-25
+GoofWaAs-25,﻿,,,[Pierce slave’s head with his stuff.],,Y,GoofWaAs-24,GoofWaAs-26
+GoofWaAs-26,﻿,,Master,And who will be next? You! You! You there! You are now charged with the task of completing the statues...,,N,GoofWaAs-25,GoofWaAs-27
+GoofWaAs-27,﻿,,Slave 2,As you wish.,,N,GoofWaAs-26,GoofWaAs-28
+GoofWaAs-28,﻿,,Master,We hope your work is better than that of your friend here. We can no longer stand the sight of you. You make us sick.  worthless lot pathetic every last one of them.,(he descends on a moving platform down) ,N,GoofWaAs-27,GoofWaAs-29
+GoofWaAs-29,﻿,,,[Kratos finds a way to follow the Master.],,Y,GoofWaAs-28,GoofWaAs-30
+GoofWaAs-30,﻿,,Master,Place your offerings for Aletheia we will decide if they are worthy at our will.,,N,GoofWaAs-29,GoofWaAs-31
+GoofWaAs-31,﻿,,Kratos,I offer nothing.,,N,GoofWaAs-30,GoofWaAs-32
+GoofWaAs-32,﻿,,Master,"You presume to seek audience with the oracle and yet you bring no offerings? Bold. Stupid, but bold. Although, you must have good reason to seek the oracle caring such a mark. Return when you have brought appropriate sacrifice.",,N,GoofWaAs-31,GoofWaAs-33
+GoofWaAs-33,﻿,,Kratos,I have come to see the oracle and that is what I intend to do.,,N,GoofWaAs-32,GoofWaAs-34
+GoofWaAs-34,﻿,,Master,I would have liked to hear your story warrior. It is a shame you fail to see reason. Remove him.,,N,GoofWaAs-33,GoofWaAs-35
+GoofWaAs-35,﻿,,,[One glance of Kratos becomes enough for two slaves with spears to run away in fear.],,Y,GoofWaAs-34,GoofWaAs-36
+GoofWaAs-36,﻿,,Master,We have to find a better slave trader.,,N,GoofWaAs-35,GoofWaAs-37
+GoofWaAs-37,﻿,,,[The Master removes his cloak exposing the deformed child on his stomach. He uses magic to make himself younger and prepares for battle.],,Y,GoofWaAs-36,GoofWaAs-38
+GoofWaAs-38,﻿,,Deformed child,We will not tolerate your impudence. You will not see her!,,N,GoofWaAs-37,GoofWaAs-39
+GoofWaAs-39,﻿,,Master,We will see to it you do not live.,,N,GoofWaAs-38,GoofWaAs-40
+GoofWaAs-40,﻿,,Deformed child,"He gains, you idiot!",,N,GoofWaAs-39,GoofWaAs-41
+GoofWaAs-41,﻿,,Master,"I know he gains. Leave me be. I will take care of him. Arrogant fool! We will not be defeated... You maybe a great warrior, but you have no place in our temple. You will never see the oracle!",,N,GoofWaAs-40,GoofWaAs-42
+GoofWaAs-42,﻿,,,[The oracle sits nearby on her throne. As befits all self-respecting oracles she has no eyes. She seems to be asleep.],,Y,GoofWaAs-41,GoofWaAs-43
+GoofWaAs-43,﻿,,Deformed child,"My... Quite persistent, isn't he?",,N,GoofWaAs-42,GoofWaAs-44
+GoofWaAs-44,﻿,,Master,His persistence only means his death.,,N,GoofWaAs-43,GoofWaAs-45
+GoofWaAs-45,﻿,,Deformed child,"Why was he allowed entry to my temple. You are strong, but castor is unstoppable. You have sealed the oracle's fate. You will never know the truth.",,N,GoofWaAs-44,GoofWaAs-46
+GoofWaAs-46,﻿,,,[An earthquake occurs. The oracle falls from her throne into the abyss.],,Y,GoofWaAs-45,GoofWaAs-47
+GoofWaAs-47,﻿,,Master,They will torture me if I fail.,,N,GoofWaAs-46,GoofWaAs-48
+GoofWaAs-48,﻿,,,[Kratos defeats the Master and breaks the floor with his body. While they are flying down Kratos tears off the deformed child from the body of the Master.],,Y,GoofWaAs-47,GoofWaAs-49
+GoofWaAs-49,﻿,,Deformed child,I am but an innocent!,,N,GoofWaAs-48,GoofWaAs-50
+GoofWaAs-50,﻿,,,"[Kratos stepping on his head and breaking through it. Next he goes to the body of the Master and takes his amulet, the amulet of Uroboros. Then he comes to the body of the oracle, littered with stones.]",,Y,GoofWaAs-49,GoofWaAs-51
+GoofWaAs-51,﻿,,Kratos,Aletheia.,,N,GoofWaAs-50,GoofWaAs-52
+GoofWaAs-52,﻿,,Aletheia,The relic you carry has no effect on me.,,N,GoofWaAs-51,GoofWaAs-53
+GoofWaAs-53,﻿,,Kratos,Then I fear you are beyond aid.,,N,GoofWaAs-52,GoofWaAs-54
+GoofWaAs-54,﻿,,Aletheia,Do not worry. The situation before me is clear. I have waited for this day.,,N,GoofWaAs-53,GoofWaAs-55
+GoofWaAs-55,﻿,,,"[For a moment, Kratos sees mutilated body of his wife.]",,Y,GoofWaAs-54,GoofWaAs-56
+GoofWaAs-56,﻿,,Aletheia,"Your thoughts are clouded and your mind conflicted, warrior. I can feel it. You seek the truth?",,N,GoofWaAs-55,GoofWaAs-57
+GoofWaAs-57,﻿,,Kratos,Yes.,,N,GoofWaAs-56,GoofWaAs-58
+GoofWaAs-58,﻿,,Aletheia,"So be it. But remember, the truth always comes with a price.",,N,GoofWaAs-57,GoofWaAs-59
+GoofWaAs-59,﻿,,Shade,...Enemies… innocent... Kin... Your bond is complete. What’s done is done. It cannot be undone.,,N,GoofWaAs-58,GoofWaAs-60
+GoofWaAs-60,﻿,,Kratos,No.,,N,GoofWaAs-59,GoofWaAs-61
+GoofWaAs-61,﻿,,,[We return to Aletheia.],,Y,GoofWaAs-60,GoofWaAs-62
+GoofWaAs-62,﻿,,Aletheia,The furies infect your mind because you run from your oath to Ares. They will stop at nothing should you resist.,,N,GoofWaAs-61,GoofWaAs-63
+GoofWaAs-63,﻿,,Kratos,So the Shade speaks the truth.,,N,GoofWaAs-62,GoofWaAs-64
+GoofWaAs-64,﻿,,Aletheia,The intentions of Orkos are pure.,,N,GoofWaAs-63,GoofWaAs-65
+GoofWaAs-65,﻿,,Kratos,Orkos? But he is a Fury.,,N,GoofWaAs-64,GoofWaAs-66
+GoofWaAs-66,﻿,,Aletheia,"And he will play his part in time. My time grows short. To be free of the madness that infects you, you must defeat those who hold your bond with the god of war.",,N,GoofWaAs-65,GoofWaAs-67
+GoofWaAs-67,﻿,,Kratos,How can I defeat the furies. When all I see is illusion.,,N,GoofWaAs-66,GoofWaAs-68
+GoofWaAs-68,﻿,,Aletheia,"Across the sea, the lantern of Delos keeps the eyes of truth. Find the eyes and they will show you the path to freedom.",,N,GoofWaAs-67,GoofWaAs-69
+GoofWaAs-69,﻿,,,[Kratos takes on the ship sailing to Delos.],,Y,GoofWaAs-68,GoofWaAs-70
+GoofWaAs-70,﻿,,Kratos,"Only a coward hides himself, Orkos.",,N,GoofWaAs-69,GoofWaAs-71
+GoofWaAs-71,﻿,,Orkos,You know I am one of the furies who forged your bond. You would have killed me before I could even speak.,,N,GoofWaAs-70,GoofWaAs-72
+GoofWaAs-72,﻿,,Kratos,Then tell me. What have brought you to this betrayal of your own kind?,,N,GoofWaAs-71,GoofWaAs-73
+GoofWaAs-73,﻿,,Orkos,It was you... The injustice of your oath that made me doubt them… is it possible that through all your suffering. You still do not understand why you were chosen? Why Ares needed you? Why he still needs you?,,N,GoofWaAs-72,GoofWaAs-74
+GoofWaAs-74,﻿,,Kratos,Speak clearly!,,N,GoofWaAs-73,GoofWaAs-75
+GoofWaAs-75,﻿,,Orkos,"Oh Kratos... The god of war has been plotting for years. I was brought forth by the joining of the war god and the Fury queen. In rage and insanity, Ares hoped to conceive the perfect warrior… but I was only a disappointment to him… it was my mothers who spared me. They gave me the task of keeping the oaths. Although my burden was great I was determined to be of service those who said they loved me. But it was you, Kratos. It was the final task of your bond that made me question the actions of my family. I sought council with Aletheia. It was she who revealed to me the plot of Ares to overthrow Zeus. But he needed the perfect warrior. Ares molded you to take down the very walls of Olympus.",,N,GoofWaAs-74,GoofWaAs-76
+GoofWaAs-76,﻿,,Young Kratos,"Ares. Destroy my enemies, and my life is yours.",,N,GoofWaAs-75,GoofWaAs-77
+GoofWaAs-77,﻿,,Orkos,"To make you beholden only to him, Ares and my mothers devised three blood tasks. Spill the blood of your enemies… the blood of the innocent… the blood of your very own.",,N,GoofWaAs-76,GoofWaAs-78
+GoofWaAs-78,﻿,,Kratos,"The past is the past, Orkos.",,N,GoofWaAs-77,GoofWaAs-79
+GoofWaAs-79,﻿,,Orkos,A past you now seek to rectify.,,N,GoofWaAs-78,GoofWaAs-80
+GoofWaAs-80,﻿,,Kratos,And I will do so without the aid of a Fury.,,N,GoofWaAs-79,GoofWaAs-81
+GoofWaAs-81,﻿,,,[He disappears. Meantime Kratos goes to the high sea.],,Y,GoofWaAs-80,GoofWaAs-82
+GoofWaAs-82,﻿,,Narrator,"As Kratos looked upon the gem he realized all he need do was fight the forces that gnawed at his mind. His thoughts now clear, the warrior turned his rage to the remaining furies and their ultimate defeat.",,N,GoofWaAs-81,GoofWaAs-83
+GoofWaAs-83,PRESENT DAY,,,"[Kratos restores the destroyed part of the dungeon with his amulet. He enters a richly decorated room, in the corners of which stand soldiers in full armor. At the other end of the room, by the balcony, there is some kind of Captain.]",,Y,GoofWaAs-82,GoofWaAs-84
+GoofWaAs-84,PRESENT DAY,,Captain,"I have watched you over the years. When you were just a boy, I saw the signs. Even the loss of your brother did not sway your focus. The tragedy only improved you you honed your skills, and now, Kratos, you have fulfilled your promise of greatness. You served with honor.",,N,GoofWaAs-83,GoofWaAs-85
+GoofWaAs-85,PRESENT DAY,,,"[Captain takes the parade sword and prepares to transfer it to Kratos. Meanwhile, Kratos spots a ring with the omega symbol on the Captain's finger.]",,Y,GoofWaAs-84,GoofWaAs-86
+GoofWaAs-86,PRESENT DAY,,Captain,You brought glory to us all and today. You have earned your place among us as the greatest general Sparta has ever known.,,N,GoofWaAs-85,GoofWaAs-87
+GoofWaAs-87,PRESENT DAY,,,"[Kratos kicks him Leonidas style and its turns out that everything around was a mirage, and the Captain was a Fury.]",,Y,GoofWaAs-86,GoofWaAs-88
+GoofWaAs-88,PRESENT DAY,,Fury 2,So there is something you value more than ambition.,,N,GoofWaAs-87,GoofWaAs-89
+GoofWaAs-89,PRESENT DAY,,,"[She flies away. Kratos goes further and finds a mad Scribe, sitting in a cell.]",,Y,GoofWaAs-88,GoofWaAs-90
+GoofWaAs-90,PRESENT DAY,,Scribe,"This will definitely have to ago into the record... Record... Must record. Must record.… You're the Spartan that Orkos talked about, aren't you? Definitely need to get this down.",,N,GoofWaAs-89,GoofWaAs-91
+GoofWaAs-91,PRESENT DAY,,Kratos,What do you know of the oath keeper?,,N,GoofWaAs-90,GoofWaAs-92
+GoofWaAs-92,PRESENT DAY,,Scribe,"I know he paid for what he's done. They say he was the first marked one but his father didn't like the way he turned out. I know. I was the first man to be put here by the furies. See, I’ve been keeping a record. Orkos was born here. Then his mothers, they... They became... They used to be fair. Harsh, but fair had something to do with Ares, I imagine. The way they treated him... Their own son.",,N,GoofWaAs-91,GoofWaAs-93
+GoofWaAs-93,PRESENT DAY,,Kratos,That is no reason to betray your own.,,N,GoofWaAs-92,GoofWaAs-94
+GoofWaAs-94,PRESENT DAY,,Scribe,Betrayed his own... Sounds familiar but he did it because of you.,,N,GoofWaAs-93,GoofWaAs-95
+GoofWaAs-95,PRESENT DAY,,Kratos,I did not ask for his help.,,N,GoofWaAs-94,GoofWaAs-96
+GoofWaAs-96,PRESENT DAY,,Scribe,"But you received it, nonetheless. Didn't you Spartan? This will make a wonderful addition to the record.",,N,GoofWaAs-95,GoofWaAs-97
+GoofWaAs-97,PRESENT DAY,,,[Kratos leave and goes outside.],,Y,GoofWaAs-96,GoofWaAs-98
+GoofWaAs-98,PRESENT DAY,,Fury 2,"If neither pleasure of the flesh or glory will return you to us, then there is only one thing left. It matters not that you have my son’s toy. It is your heart that will betray you.",,N,GoofWaAs-97,GoofWaAs-99
+GoofWaAs-99,PRESENT DAY,,Narrator,"Kratos knew he was close. Close to a time when illusion would have no power over him. Close to the defeat of the furies and finally, close to the freedom he so desperately sought.",,N,GoofWaAs-98,GoofWaAs-100
+GoofWaAs-100,PRESENT DAY,TWO WEEKS EARLIER,,[Kratos continues his journey to Delos by ship.],,Y,GoofWaAs-99,GoofWaAs-101
+GoofWaAs-101,PRESENT DAY,TWO WEEKS EARLIER,Sailor 1,"The sooner we get past Delos, the happier I’ll be.",,N,GoofWaAs-100,GoofWaAs-102
+GoofWaAs-102,PRESENT DAY,TWO WEEKS EARLIER,Sailor 2,They say it is cursed. Too bad we can’t sail south of Delos.,,N,GoofWaAs-101,GoofWaAs-103
+GoofWaAs-103,PRESENT DAY,TWO WEEKS EARLIER,Sailor 1,They say the great Archimedes built that statue for Apollo! Why do we stop at this cursed island?,,N,GoofWaAs-102,GoofWaAs-104
+GoofWaAs-104,PRESENT DAY,TWO WEEKS EARLIER,,[Kratos leaves the ship.],,Y,GoofWaAs-103,GoofWaAs-105
+GoofWaAs-105,PRESENT DAY,TWO WEEKS EARLIER,Sailor 2,He's gone. Let us leave this wretched place. Quickly! Before we are cursed too!,,N,GoofWaAs-104,GoofWaAs-106
+GoofWaAs-106,PRESENT DAY,TWO WEEKS EARLIER,,"[She hastily leaves the port, but soon their ship is devoured by a sea monster. Kratos reconstructs part of the buildings on the island with the help of the amulet of Uroboros and goes further.]",,Y,GoofWaAs-105,GoofWaAs-107
+GoofWaAs-107,PRESENT DAY,TWO WEEKS EARLIER,Spartan soldier,"You leave an army in disarray. Return to us, general. Lead us to victory.",,N,GoofWaAs-106,GoofWaAs-108
+GoofWaAs-108,PRESENT DAY,TWO WEEKS EARLIER,Kratos,You do not exist. You are of my mind.,,N,GoofWaAs-107,GoofWaAs-109
+GoofWaAs-109,PRESENT DAY,TWO WEEKS EARLIER,Spartan soldier,"Return to your roots. Return to who you are, Spartan.",,N,GoofWaAs-108,GoofWaAs-110
+GoofWaAs-110,PRESENT DAY,TWO WEEKS EARLIER,Fury 2,We only mean to bring you home.,,N,GoofWaAs-109,GoofWaAs-111
+GoofWaAs-111,PRESENT DAY,TWO WEEKS EARLIER,,[The soldier and everything disappears like a mirage.],,Y,GoofWaAs-110,GoofWaAs-112
+GoofWaAs-112,PRESENT DAY,TWO WEEKS EARLIER,Kratos,My home is in Sparta!,,N,GoofWaAs-111,GoofWaAs-113
+GoofWaAs-113,PRESENT DAY,TWO WEEKS EARLIER,,"[He goes out and finds that Fury, whom he recently killed is alive.]",,Y,GoofWaAs-112,GoofWaAs-114
+GoofWaAs-114,PRESENT DAY,TWO WEEKS EARLIER,Fury,"Sister, show him what Sparta does to a traitor!",,N,GoofWaAs-113,GoofWaAs-115
+GoofWaAs-115,PRESENT DAY,TWO WEEKS EARLIER,,[She calls on several Spartan soldiers who are attacking Kratos.],,Y,GoofWaAs-114,GoofWaAs-116
+GoofWaAs-116,PRESENT DAY,TWO WEEKS EARLIER,Fury,Stop the fighting. Come home where you belong. All will be restored. We will do things my way!  out of my way! Let me show you how it's done!,(kills failed soldiers) ,N,GoofWaAs-115,GoofWaAs-117
+GoofWaAs-117,PRESENT DAY,TWO WEEKS EARLIER,,[Kratos defeats her and tears off her arm.],,Y,GoofWaAs-116,GoofWaAs-118
+GoofWaAs-118,PRESENT DAY,TWO WEEKS EARLIER,Fury,My arm! You will pay!,,N,GoofWaAs-117,GoofWaAs-119
+GoofWaAs-119,PRESENT DAY,TWO WEEKS EARLIER,Fury 2,Come sister. Together we will defeat this mongrel!,,N,GoofWaAs-118,GoofWaAs-120
+GoofWaAs-120,PRESENT DAY,TWO WEEKS EARLIER,,[Kratos wins again and brutally kills Fury 2.],,Y,GoofWaAs-119,GoofWaAs-121
+GoofWaAs-121,PRESENT DAY,TWO WEEKS EARLIER,Fury 3,"Enough! It is time Kratos. Return to your rightful place. Perhaps if you serve your purpose well, you will even end up on Olympus one day.",,N,GoofWaAs-120,GoofWaAs-122
+GoofWaAs-122,PRESENT DAY,TWO WEEKS EARLIER,Kratos,I will never serve Ares again.,,N,GoofWaAs-121,GoofWaAs-123
+GoofWaAs-123,PRESENT DAY,TWO WEEKS EARLIER,,"[Suddenly, Fury 2 is resurrected. Fury 1 also joins her sisters.]",,Y,GoofWaAs-122,GoofWaAs-124
+GoofWaAs-124,PRESENT DAY,TWO WEEKS EARLIER,Fury 3," Your methods fail us, Megaera. I will take care of him.  you will return!",(to Fury 1) (to Kratos) ,N,GoofWaAs-123,GoofWaAs-125
+GoofWaAs-125,PRESENT DAY,TWO WEEKS EARLIER,Kratos,Death first!,,N,GoofWaAs-124,GoofWaAs-126
+GoofWaAs-126,PRESENT DAY,TWO WEEKS EARLIER,Orkos,I should have done this a long time ago.,,N,GoofWaAs-125,GoofWaAs-127
+GoofWaAs-127,PRESENT DAY,TWO WEEKS EARLIER,Fury 3,Orkos? This is what you align with Spartan?,,N,GoofWaAs-126,GoofWaAs-128
+GoofWaAs-128,PRESENT DAY,TWO WEEKS EARLIER,Orkos,This time you will fail.,,N,GoofWaAs-127,GoofWaAs-129
+GoofWaAs-129,PRESENT DAY,TWO WEEKS EARLIER,,[He teleports along with Kratos.],,Y,GoofWaAs-128,GoofWaAs-130
+GoofWaAs-130,PRESENT DAY,TWO WEEKS EARLIER,Fury 3,"What have you done? You pathetic weakling. Find them! You will never reach the lantern, Spartan!",,N,GoofWaAs-129,GoofWaAs-131
+GoofWaAs-131,PRESENT DAY,TWO WEEKS EARLIER,,[Meanwhile...],,Y,GoofWaAs-130,GoofWaAs-132
+GoofWaAs-132,PRESENT DAY,TWO WEEKS EARLIER,Orkos,You will never reach the eyes now that my mothers know you are after them. This power helped me escape Hecatonchires.,,N,GoofWaAs-131,GoofWaAs-133
+GoofWaAs-133,PRESENT DAY,TWO WEEKS EARLIER,Kratos,And what will happen to you?,,N,GoofWaAs-132,GoofWaAs-134
+GoofWaAs-134,PRESENT DAY,TWO WEEKS EARLIER,,[Orkos creates oath stone for Kratos allowing him to make temporary clones of himself.],,Y,GoofWaAs-133,GoofWaAs-135
+GoofWaAs-135,PRESENT DAY,TWO WEEKS EARLIER,Orkos,"If you do not succeed, my fate is sealed regardless. Alecto has destroyed the only path that leads to the lantern, before I could have told you how to get to it, but... But now you will need to find a new way.",,N,GoofWaAs-134,GoofWaAs-136
+GoofWaAs-136,PRESENT DAY,TWO WEEKS EARLIER,,[Kratos restores a huge statue of a warrior and flies inside it.],,Y,GoofWaAs-135,GoofWaAs-137
+GoofWaAs-137,PRESENT DAY,TWO WEEKS EARLIER,Orkos,"Not much further now, Spartan. Inside there are the eyes of truth. The very same eyes my mothers ruthlessly pulled from Aletheia. When I learned of the plot between my parents to overthrow Olympus I could not believe Aletheia’s words. Then she showed me the truth that the god of war would bring down the very walls of Olympus. I knew I must stop them. Aletheia and I sought to warn Zeus but when Ares learned of our attempt, he sent my mothers after us. The eyes were brutally ripped from my beloved. She became a prisoner in her own temple. Ares and my mothers knew that if the eyes of truth we're hidden, then their wicked plot would not be revealed... And soon they would reign over the gods themselves. To keep their plan in motion, they need you back, Spartan. They will stop at nothing until you return to lord Ares.",,N,GoofWaAs-136,GoofWaAs-138
+GoofWaAs-138,PRESENT DAY,TWO WEEKS EARLIER,Kratos,Ares will have to find another to do his bidding.,,N,GoofWaAs-137,GoofWaAs-139
+GoofWaAs-139,PRESENT DAY,TWO WEEKS EARLIER,Orkos,I know you will set things right.,,N,GoofWaAs-138,GoofWaAs-140
+GoofWaAs-140,PRESENT DAY,TWO WEEKS EARLIER,,"[Kratos finds a way to open the cage and get the eyes of the truth, but trying to escape through the portal, it disappearing from his hands and returning to the cage. Suddenly Orkos and three sisters-furies appear...]",,Y,GoofWaAs-139,GoofWaAs-141
+GoofWaAs-141,PRESENT DAY,TWO WEEKS EARLIER,Orkos,"I am sorry, Spartan. When I learned that my mothers were close, I came to warn…",,N,GoofWaAs-140,GoofWaAs-142
+GoofWaAs-142,PRESENT DAY,TWO WEEKS EARLIER,,[Fury 2 kicks him in the back.],,Y,GoofWaAs-141,GoofWaAs-143
+GoofWaAs-143,PRESENT DAY,TWO WEEKS EARLIER,Fury 2,We have special plans for you my son.,,N,GoofWaAs-142,GoofWaAs-144
+GoofWaAs-144,PRESENT DAY,TWO WEEKS EARLIER,Alecto,All this effort and you still fail?,,N,GoofWaAs-143,GoofWaAs-145
+GoofWaAs-145,PRESENT DAY,TWO WEEKS EARLIER,,"[Kratos tries to attack the furies, but fails. Alecto takes the oath stone.]",,Y,GoofWaAs-144,GoofWaAs-146
+GoofWaAs-146,PRESENT DAY,TWO WEEKS EARLIER,Alecto,Come sisters. We will break him within the walls of Hecatonchires.,,N,GoofWaAs-145,GoofWaAs-147
+GoofWaAs-147,PRESENT DAY,TWO WEEKS EARLIER,Narrator,"Kratos found himself defeated and this time, no Olympian would come to his aid. Satisfied, the sisters returned home with their prize. Within the walls of their prison, they would delve into the broken warrior’s soul and entice Kratos back to his place as a servant of Ares.",,N,GoofWaAs-146,GoofWaAs-148
+GoofWaAs-148,PRESENT DAY,TWO WEEKS EARLIER,Alecto,It has been too long...,,N,GoofWaAs-147,GoofWaAs-149
+GoofWaAs-149,PRESENT DAY,TWO WEEKS EARLIER,Kratos,Never. Never again.,,N,GoofWaAs-148,GoofWaAs-150
+GoofWaAs-150,PRESENT DAY,TWO WEEKS EARLIER,,[Furies release Kratos. He is returning home. His dead daughter is sleeping on her bed. His dead wife approaches him. We see a ring on her finger with the symbol of omega.],,Y,GoofWaAs-149,GoofWaAs-151
+GoofWaAs-151,PRESENT DAY,TWO WEEKS EARLIER,Kratos,I have been away far too long.,,N,GoofWaAs-150,GoofWaAs-152
+GoofWaAs-152,PRESENT DAY,TWO WEEKS EARLIER,Kratos’ wife,You can see her in the morning... Come.,,N,GoofWaAs-151,GoofWaAs-153
+GoofWaAs-153,PRESENT DAY,TWO WEEKS EARLIER,,[They go to make love. Kratos notices a ring on her finger and pulls her away. Kratos' dead wife turns into Alecto.],,Y,GoofWaAs-152,GoofWaAs-154
+GoofWaAs-154,PRESENT DAY,TWO WEEKS EARLIER,Alecto,"In time you will forget. All that you have lost can be yours once again. (turns to Kratos’ wife) if this is what keeps you in service to lord Ares, then this is what you shall have.",,N,GoofWaAs-153,GoofWaAs-155
+GoofWaAs-155,PRESENT DAY,TWO WEEKS EARLIER,Kratos,It... It is not real.,,N,GoofWaAs-154,GoofWaAs-156
+GoofWaAs-156,PRESENT DAY,TWO WEEKS EARLIER,Alecto,"I can be your reality. The hard part is over, Spartan. You have committed the ultimate sacrifice. Offer yourself to us completely and you shall live in blissful illusion.",,N,GoofWaAs-155,GoofWaAs-157
+GoofWaAs-157,PRESENT DAY,TWO WEEKS EARLIER,,[He notices the eyes of truth on her belt and prepares an oath stone behind his back.],,Y,GoofWaAs-156,GoofWaAs-158
+GoofWaAs-158,PRESENT DAY,TWO WEEKS EARLIER,Kratos,Never!,,N,GoofWaAs-157,GoofWaAs-159
+GoofWaAs-159,PRESENT DAY,TWO WEEKS EARLIER,Alecto,Then let death be your reality.,,N,GoofWaAs-158,GoofWaAs-160
+GoofWaAs-160,PRESENT DAY,TWO WEEKS EARLIER,,"[She attacks him but Kratos uses the stone and dodges, stealing the eyes.]",,Y,GoofWaAs-159,GoofWaAs-161
+GoofWaAs-161,PRESENT DAY,TWO WEEKS EARLIER,Alecto,"What is the meaning of this? You have made a poor choice, Spartan.",,N,GoofWaAs-160,GoofWaAs-162
+GoofWaAs-162,PRESENT DAY,TWO WEEKS EARLIER,Fury 2,"A simple trinket will not defeat us, sister.",,N,GoofWaAs-161,GoofWaAs-163
+GoofWaAs-163,PRESENT DAY,TWO WEEKS EARLIER,Alecto,You defy me? You are but a mortal...,,N,GoofWaAs-162,GoofWaAs-164
+GoofWaAs-164,PRESENT DAY,TWO WEEKS EARLIER,,[She makes a barrier but Kratos uses the eyes and crushes it.],,Y,GoofWaAs-163,GoofWaAs-165
+GoofWaAs-165,PRESENT DAY,TWO WEEKS EARLIER,Fury 2,"You should have taken your offer, Kratos. Now you will pay for that mistake.",,N,GoofWaAs-164,GoofWaAs-166
+GoofWaAs-166,PRESENT DAY,TWO WEEKS EARLIER,Alecto,I am the queen of the furies.,,N,GoofWaAs-165,GoofWaAs-167
+GoofWaAs-167,PRESENT DAY,TWO WEEKS EARLIER,,"[It turns into something resembling three snakes biting each other. They begin to fight, and ultimately their battle goes to the sea. Kratos stands on the dilapidated remains of the ship.]",,Y,GoofWaAs-166,GoofWaAs-168
+GoofWaAs-168,PRESENT DAY,TWO WEEKS EARLIER,Fury 2,Let us see if your brothers will offer mercy.,,N,GoofWaAs-167,GoofWaAs-169
+GoofWaAs-169,PRESENT DAY,TWO WEEKS EARLIER,,"[Alecto turns into a gigantic creepy octopus. Kratos, using the ancient traditions of Japanese cuisine, turns it into sashimi. She turns back.]",,Y,GoofWaAs-168,GoofWaAs-170
+GoofWaAs-170,PRESENT DAY,TWO WEEKS EARLIER,Alecto,"You shame Sparta, oathbreaker!",,N,GoofWaAs-169,GoofWaAs-171
+GoofWaAs-171,PRESENT DAY,TWO WEEKS EARLIER,Fury 2,"You bring this curse on yourself!  you are not fit to be called a Spartan!  I lost everything because of you.  they were not there by chance, Kratos. (he snaps her neck]",(turns into Captain) (he hit her and she transforms to Kratos) (he hit her and she transforms to his wife then to the soothsayer from the first game) ,N,GoofWaAs-170,GoofWaAs-172
+GoofWaAs-172,PRESENT DAY,TWO WEEKS EARLIER,Alecto,You think you want truth but truth will only bring you pain.,,N,GoofWaAs-171,GoofWaAs-173
+GoofWaAs-173,PRESENT DAY,TWO WEEKS EARLIER,,[He furiously sticks both of his blades into her chest. Blood gushes like a fountain.],,Y,GoofWaAs-172,GoofWaAs-174
+GoofWaAs-174,PRESENT DAY,TWO WEEKS EARLIER,Alecto,My death will not free you from this madness.,,N,GoofWaAs-173,GoofWaAs-175
+GoofWaAs-175,PRESENT DAY,TWO WEEKS EARLIER,,[The temple collapses. Kratos returns home.],,Y,GoofWaAs-174,GoofWaAs-176
+GoofWaAs-176,PRESENT DAY,TWO WEEKS EARLIER,Orkos,"I would not have been strong enough to choose your path, Spartan.",,N,GoofWaAs-175,GoofWaAs-177
+GoofWaAs-177,PRESENT DAY,TWO WEEKS EARLIER,Kratos,Orkos.,,N,GoofWaAs-176,GoofWaAs-178
+GoofWaAs-178,PRESENT DAY,TWO WEEKS EARLIER,,[He shakes his hand.],,Y,GoofWaAs-177,GoofWaAs-179
+GoofWaAs-179,PRESENT DAY,TWO WEEKS EARLIER,Orkos,I would have taken what my mothers offered.,,N,GoofWaAs-178,GoofWaAs-180
+GoofWaAs-180,PRESENT DAY,TWO WEEKS EARLIER,Kratos,I would rather live in truth.,,N,GoofWaAs-179,GoofWaAs-181
+GoofWaAs-181,PRESENT DAY,TWO WEEKS EARLIER,Orkos,I fear you may come to regret those words. Lord Ares still holds your bond.,,N,GoofWaAs-180,GoofWaAs-182
+GoofWaAs-182,PRESENT DAY,TWO WEEKS EARLIER,Kratos,This cannot be.,,N,GoofWaAs-181,GoofWaAs-183
+GoofWaAs-183,PRESENT DAY,TWO WEEKS EARLIER,Orkos,Before you killed them my mothers once again made me your oath keeper. For you to be free. I must die by your hand.,,N,GoofWaAs-182,GoofWaAs-184
+GoofWaAs-184,PRESENT DAY,TWO WEEKS EARLIER,Kratos,I do not understand.,,N,GoofWaAs-183,GoofWaAs-185
+GoofWaAs-185,PRESENT DAY,TWO WEEKS EARLIER,Orkos,"If you do not release me, my father will retain power over you but even worse, I will live in eternal torture.",,N,GoofWaAs-184,GoofWaAs-186
+GoofWaAs-186,PRESENT DAY,TWO WEEKS EARLIER,Kratos,I have spilled enough innocent blood.,,N,GoofWaAs-185,GoofWaAs-187
+GoofWaAs-187,PRESENT DAY,TWO WEEKS EARLIER,Orkos,"There is no other way, Spartan! Destroy the oath, kill Ares, and have your revenge. I was never the warrior my father wanted me to be... But please, all I ask…  give me an honorable death.",(gives him his sword) ,N,GoofWaAs-186,GoofWaAs-188
+GoofWaAs-188,PRESENT DAY,TWO WEEKS EARLIER,,[Kratos pierces Orkos with the sword.],,Y,GoofWaAs-187,GoofWaAs-189
+GoofWaAs-189,PRESENT DAY,TWO WEEKS EARLIER,Narrator,"With the death of Orkos, the blood oath to Ares was finally broken and the painful truth rushes back to Kratos’ mind. The truth of the murder he committed. The slaughter of his wife and child. The carnage forged from his relentless ambition… surfaced in perfect clarity… and became the visions that would haunt him all of his days.",,N,GoofWaAs-188,GoofWaAs-190
+GoofWaAs-190,PRESENT DAY,TWO WEEKS EARLIER,,[Kratos burns his house.],,Y,GoofWaAs-189,GoofWaAs-191
+GoofWaAs-191,PRESENT DAY,TWO WEEKS EARLIER,Narrator,"Now, free of the furies madness, but still tortured by the truth of his past, Kratos left the only home he had ever known and set out to undo all that he had wrought.",,N,GoofWaAs-190,GoofWaAs-192

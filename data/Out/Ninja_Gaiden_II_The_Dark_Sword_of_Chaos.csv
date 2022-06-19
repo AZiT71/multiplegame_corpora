@@ -1,0 +1,172 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+NiGaIIThDaSwofCh-2,,,Ninja,Jaquio has been defeated.,,N,NiGaIIThDaSwofCh-1,NiGaIIThDaSwofCh-3
+NiGaIIThDaSwofCh-3,,,Evil Man,Just as I thought. What about the Ninja?,,N,NiGaIIThDaSwofCh-2,NiGaIIThDaSwofCh-4
+NiGaIIThDaSwofCh-4,,,Ninja,He knows nothing yet.,,N,NiGaIIThDaSwofCh-3,NiGaIIThDaSwofCh-5
+NiGaIIThDaSwofCh-5,,,Evil Man,Good. Continue the plan.,,N,NiGaIIThDaSwofCh-4,NiGaIIThDaSwofCh-6
+NiGaIIThDaSwofCh-6,,,Ninja,"What shall we do about the Ninja Dragon, sire?",,N,NiGaIIThDaSwofCh-5,NiGaIIThDaSwofCh-7
+NiGaIIThDaSwofCh-7,,,Evil Man,"Nothing. No further need for him. At least, not for now. Follow the plan exactly. Now, go.",,N,NiGaIIThDaSwofCh-6,NiGaIIThDaSwofCh-8
+NiGaIIThDaSwofCh-8,,,Ninja,Yes sire.,,N,NiGaIIThDaSwofCh-7,NiGaIIThDaSwofCh-9
+NiGaIIThDaSwofCh-9,,,,[Ninja leaves.],,Y,NiGaIIThDaSwofCh-8,NiGaIIThDaSwofCh-10
+NiGaIIThDaSwofCh-10,,,Evil Man," ... The time shall come... When the Gate of Darkness shall be cast open... All men shall kneel before me… All shall hail me, Ashtar, as their new master! HA HA HA HA...",(to himself) ,N,NiGaIIThDaSwofCh-9,NiGaIIThDaSwofCh-11
+NiGaIIThDaSwofCh-12,ACT-I,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-11,NiGaIIThDaSwofCh-13
+NiGaIIThDaSwofCh-13,ACT-I,,Ryu,Who ARE these thugs?,,N,NiGaIIThDaSwofCh-12,NiGaIIThDaSwofCh-14
+NiGaIIThDaSwofCh-14,ACT-I,,???,They told me you were good.,,N,NiGaIIThDaSwofCh-13,NiGaIIThDaSwofCh-15
+NiGaIIThDaSwofCh-15,ACT-I,,Ryu,Who's there?,,N,NiGaIIThDaSwofCh-14,NiGaIIThDaSwofCh-16
+NiGaIIThDaSwofCh-16,ACT-I,,???,"Go to the Tower of Lahja, if you want to save the girl.",,N,NiGaIIThDaSwofCh-15,NiGaIIThDaSwofCh-17
+NiGaIIThDaSwofCh-17,ACT-I,,Ryu,You mean...?,,N,NiGaIIThDaSwofCh-16,NiGaIIThDaSwofCh-18
+NiGaIIThDaSwofCh-18,ACT-I,,Man in sunglasses,"Yes... Irene. No time to lose, Hayabusa... Move it out.",,N,NiGaIIThDaSwofCh-17,NiGaIIThDaSwofCh-19
+NiGaIIThDaSwofCh-19,ACT-I,,Ryu,But who are you? What the...?,,N,NiGaIIThDaSwofCh-18,NiGaIIThDaSwofCh-20
+NiGaIIThDaSwofCh-20,ACT-I,,,"[Man in sunglasses take out a gun and shot, however, he was aiming not at Ryu, but at a zombie behind him.]",,Y,NiGaIIThDaSwofCh-19,NiGaIIThDaSwofCh-21
+NiGaIIThDaSwofCh-21,ACT-I,,Zombie,Aaargh...,,N,NiGaIIThDaSwofCh-20,NiGaIIThDaSwofCh-22
+NiGaIIThDaSwofCh-22,ACT-I,,Ryu,Who are you? What the...? Where'd he go?,,N,NiGaIIThDaSwofCh-21,NiGaIIThDaSwofCh-23
+NiGaIIThDaSwofCh-23,ACT-I,,Man in sunglasses, C'mon Hayabusa. You may be the only one who can beat them. But there's no chance unless you hurry.,(from the shadows) ,N,NiGaIIThDaSwofCh-22,NiGaIIThDaSwofCh-24
+NiGaIIThDaSwofCh-24,ACT-I,,Ryu,...The Tower of Lahja...,,N,NiGaIIThDaSwofCh-23,NiGaIIThDaSwofCh-25
+NiGaIIThDaSwofCh-25,ACT-II,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-24,NiGaIIThDaSwofCh-26
+NiGaIIThDaSwofCh-26,ACT-II,,,[Ryu defeat ninja boss.],,Y,NiGaIIThDaSwofCh-25,NiGaIIThDaSwofCh-27
+NiGaIIThDaSwofCh-27,ACT-II,,Ryu,You tried to ambush me. Who are you?,,N,NiGaIIThDaSwofCh-26,NiGaIIThDaSwofCh-28
+NiGaIIThDaSwofCh-28,ACT-II,,Boss,"We are tribesmen from the world of Chaos, lead by the Emperor of Darkness, Ashtar...",,N,NiGaIIThDaSwofCh-27,NiGaIIThDaSwofCh-29
+NiGaIIThDaSwofCh-29,ACT-II,,Ryu,Ashtar.,,N,NiGaIIThDaSwofCh-28,NiGaIIThDaSwofCh-30
+NiGaIIThDaSwofCh-30,ACT-II,,Boss,"The end of your life draws near, Ninja Dragon.",,N,NiGaIIThDaSwofCh-29,NiGaIIThDaSwofCh-31
+NiGaIIThDaSwofCh-31,ACT-II,,Ryu,...Ashtar... The Emperor of Darkness.,,N,NiGaIIThDaSwofCh-30,NiGaIIThDaSwofCh-32
+NiGaIIThDaSwofCh-32,ACT-III,,Ryu,I must find Irene before it's too late.,,N,NiGaIIThDaSwofCh-31,NiGaIIThDaSwofCh-33
+NiGaIIThDaSwofCh-33,ACT-III,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-32,NiGaIIThDaSwofCh-34
+NiGaIIThDaSwofCh-34,ACT-III,,Irene,Ryu...,,N,NiGaIIThDaSwofCh-33,NiGaIIThDaSwofCh-35
+NiGaIIThDaSwofCh-35,ACT-III,,Ryu,"Irene, are you all right?",,N,NiGaIIThDaSwofCh-34,NiGaIIThDaSwofCh-36
+NiGaIIThDaSwofCh-36,ACT-III,,Irene?,"I see you are still alive, Ninja.",,N,NiGaIIThDaSwofCh-35,NiGaIIThDaSwofCh-37
+NiGaIIThDaSwofCh-37,ACT-III,,Ryu,What the...?! ...!?,,N,NiGaIIThDaSwofCh-36,NiGaIIThDaSwofCh-38
+NiGaIIThDaSwofCh-38,ACT-III,,Ashtar,Take that!,,N,NiGaIIThDaSwofCh-37,NiGaIIThDaSwofCh-39
+NiGaIIThDaSwofCh-39,ACT-III,,,[He shot a ball of light at Ryu.],,Y,NiGaIIThDaSwofCh-38,NiGaIIThDaSwofCh-40
+NiGaIIThDaSwofCh-40,ACT-III,,Ryu,Aargh!,,N,NiGaIIThDaSwofCh-39,NiGaIIThDaSwofCh-41
+NiGaIIThDaSwofCh-41,ACT-III,,Ashtar,"Ha, ha, I find it hard to believe... that a weakling like you was able to defeat Jaquio.",,N,NiGaIIThDaSwofCh-40,NiGaIIThDaSwofCh-42
+NiGaIIThDaSwofCh-42,ACT-III,,Ryu,You... Ashtar! That sword...,,N,NiGaIIThDaSwofCh-41,NiGaIIThDaSwofCh-43
+NiGaIIThDaSwofCh-43,ACT-III,,Ashtar,"Some warrior you turned out to be. Die, little Ninja.",,N,NiGaIIThDaSwofCh-42,NiGaIIThDaSwofCh-44
+NiGaIIThDaSwofCh-44,ACT-III,,Irene,Noooooo...!,,N,NiGaIIThDaSwofCh-43,NiGaIIThDaSwofCh-45
+NiGaIIThDaSwofCh-45,ACT-III,,,[Someone shot Ashtar with a gun.],,Y,NiGaIIThDaSwofCh-44,NiGaIIThDaSwofCh-46
+NiGaIIThDaSwofCh-46,ACT-III,,Ashtar,"What the...? Who are you? How did you get in here, you sewer rat?",,N,NiGaIIThDaSwofCh-45,NiGaIIThDaSwofCh-47
+NiGaIIThDaSwofCh-47,ACT-III,,Man with sunglasses,Hand over the Sword and surrender. This tower is completely surrounded.,,N,NiGaIIThDaSwofCh-46,NiGaIIThDaSwofCh-48
+NiGaIIThDaSwofCh-48,ACT-III,,Ashtar,"Ha, ha ha, If you want the Sword, you'll have to follow me... into the Maze of Darkness.",,N,NiGaIIThDaSwofCh-47,NiGaIIThDaSwofCh-49
+NiGaIIThDaSwofCh-49,ACT-III,,Irene,RYU...!,,N,NiGaIIThDaSwofCh-48,NiGaIIThDaSwofCh-50
+NiGaIIThDaSwofCh-50,ACT-III,,Ryu,Irene!,,N,NiGaIIThDaSwofCh-49,NiGaIIThDaSwofCh-51
+NiGaIIThDaSwofCh-51,ACT-III,,,[Ashtar takes Irene and teleports.],,Y,NiGaIIThDaSwofCh-50,NiGaIIThDaSwofCh-52
+NiGaIIThDaSwofCh-52,ACT-IV,,Ryu,The sword... what is it?,,N,NiGaIIThDaSwofCh-51,NiGaIIThDaSwofCh-53
+NiGaIIThDaSwofCh-53,ACT-IV,,Man with sunglasses,"It's called the Sword of Chaos, grown out of the bone of the Demon. The same way your sword is supposed to come from the fang of the Dragon.",,N,NiGaIIThDaSwofCh-52,NiGaIIThDaSwofCh-54
+NiGaIIThDaSwofCh-54,ACT-IV,,Ryu,How can that be? How do you know...?,,N,NiGaIIThDaSwofCh-53,NiGaIIThDaSwofCh-55
+NiGaIIThDaSwofCh-55,ACT-IV,,Man with sunglasses,"The name's Robert. I'm with Special Intelligence, U.S. Army. We have to stop Ashtar before his sword reaches full strength... at any cost. Hurry, Ryu. Hit Ashtar in the underground maze.",,N,NiGaIIThDaSwofCh-54,NiGaIIThDaSwofCh-56
+NiGaIIThDaSwofCh-56,ACT-IV,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-55,NiGaIIThDaSwofCh-57
+NiGaIIThDaSwofCh-57,ACT-IV,,Ryu,What is he after? What does he want from me?,,N,NiGaIIThDaSwofCh-56,NiGaIIThDaSwofCh-58
+NiGaIIThDaSwofCh-58,ACT-IV,,Ashtar,"Hear me, Ninja.",,N,NiGaIIThDaSwofCh-57,NiGaIIThDaSwofCh-59
+NiGaIIThDaSwofCh-59,ACT-IV,,Ryu,...Ashtar!,,N,NiGaIIThDaSwofCh-58,NiGaIIThDaSwofCh-60
+NiGaIIThDaSwofCh-60,ACT-IV,,Ashtar,Come out and fight. Or the girl gets it.,,N,NiGaIIThDaSwofCh-59,NiGaIIThDaSwofCh-61
+NiGaIIThDaSwofCh-61,ACT-IV,,Irene,Don't do it Ryu. They'll kill you!,,N,NiGaIIThDaSwofCh-60,NiGaIIThDaSwofCh-62
+NiGaIIThDaSwofCh-62,ACT-IV,,Ashtar,"Show yourself. Or are you too much of a coward! Ha, ha, ha, ha...",,N,NiGaIIThDaSwofCh-61,NiGaIIThDaSwofCh-63
+NiGaIIThDaSwofCh-63,ACT-IV,,Ryu,"You fiend. Irene, I'll save you.",,N,NiGaIIThDaSwofCh-62,NiGaIIThDaSwofCh-64
+NiGaIIThDaSwofCh-64,ACT-V,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-63,NiGaIIThDaSwofCh-65
+NiGaIIThDaSwofCh-65,ACT-V,,Ashtar,"To the one who releases Darkness with the immortal blood, he shall receive the Power of the Almighty Evil. The legend shall come true. This earth shall fall into shadow and the demons of evil shall rule forever. Hm, hm, hm, hm... Ha, ha, ha, ha!",,N,NiGaIIThDaSwofCh-64,NiGaIIThDaSwofCh-66
+NiGaIIThDaSwofCh-66,ACT-V,,Ryu,"I'll get you, Ashtar!",,N,NiGaIIThDaSwofCh-65,NiGaIIThDaSwofCh-67
+NiGaIIThDaSwofCh-67,ACT-V,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-66,NiGaIIThDaSwofCh-68
+NiGaIIThDaSwofCh-68,ACT-V,,Ryu,"Show yourself, Ashtar!",,N,NiGaIIThDaSwofCh-67,NiGaIIThDaSwofCh-69
+NiGaIIThDaSwofCh-69,ACT-V,,Ashtar,"At last, the foolish little Ninja is ready to fight. Take the girl.",,N,NiGaIIThDaSwofCh-68,NiGaIIThDaSwofCh-70
+NiGaIIThDaSwofCh-70,ACT-V,,Irene,Ryu!,,N,NiGaIIThDaSwofCh-69,NiGaIIThDaSwofCh-71
+NiGaIIThDaSwofCh-71,ACT-V,,Ryu,Irene!,,N,NiGaIIThDaSwofCh-70,NiGaIIThDaSwofCh-72
+NiGaIIThDaSwofCh-72,ACT-V,,Ashtar,And take that!,,N,NiGaIIThDaSwofCh-71,NiGaIIThDaSwofCh-73
+NiGaIIThDaSwofCh-73,ACT-V,,,[He throws his sword at Irene.],,Y,NiGaIIThDaSwofCh-72,NiGaIIThDaSwofCh-74
+NiGaIIThDaSwofCh-74,ACT-V,,Irene,Ah... Ryu...,,N,NiGaIIThDaSwofCh-73,NiGaIIThDaSwofCh-75
+NiGaIIThDaSwofCh-75,ACT-V,,Ryu,Irene...!!,,N,NiGaIIThDaSwofCh-74,NiGaIIThDaSwofCh-76
+NiGaIIThDaSwofCh-76,ACT-V,,Irene,Ryu...,,N,NiGaIIThDaSwofCh-75,NiGaIIThDaSwofCh-77
+NiGaIIThDaSwofCh-77,ACT-V,,Ryu,Irene... Don't die.,,N,NiGaIIThDaSwofCh-76,NiGaIIThDaSwofCh-78
+NiGaIIThDaSwofCh-78,ACT-V,,Ashtar,"Ha, ha, ha, ha. See how the Sword of Chaos trembles with delight!",,N,NiGaIIThDaSwofCh-77,NiGaIIThDaSwofCh-79
+NiGaIIThDaSwofCh-79,ACT-V,,Robert,Oh no. They got Irene…,,N,NiGaIIThDaSwofCh-78,NiGaIIThDaSwofCh-80
+NiGaIIThDaSwofCh-80,ACT-V,,,[Ashtar shots a ball of light at Robert.],,Y,NiGaIIThDaSwofCh-79,NiGaIIThDaSwofCh-81
+NiGaIIThDaSwofCh-81,ACT-V,,Robert,Aaargh...,,N,NiGaIIThDaSwofCh-80,NiGaIIThDaSwofCh-82
+NiGaIIThDaSwofCh-83,ACT-V,,Ryu,"Robert, take care of Irene. Ashtar!",,N,NiGaIIThDaSwofCh-82,NiGaIIThDaSwofCh-84
+NiGaIIThDaSwofCh-84,ACT-V,,Ashtar,"So, your inner power is beginning to show itself eh? But you know you can never touch me with a sword so filled with hatred. Fool!",,N,NiGaIIThDaSwofCh-83,NiGaIIThDaSwofCh-85
+NiGaIIThDaSwofCh-85,ACT-V,,Ryu,"Enough of your games, Ashtar. This is between you and me.",,N,NiGaIIThDaSwofCh-84,NiGaIIThDaSwofCh-86
+NiGaIIThDaSwofCh-86,ACT-V,,Ashtar,You dare to do battle with Ashtar? Foolish Ninja. I'll show you just how powerless you really are.,,N,NiGaIIThDaSwofCh-85,NiGaIIThDaSwofCh-87
+NiGaIIThDaSwofCh-87,ACT-V,,,[Boss battle with Ashtar.],,Y,NiGaIIThDaSwofCh-86,NiGaIIThDaSwofCh-88
+NiGaIIThDaSwofCh-88,ACT-V,,Ashtar,"... Aaargh... The Force of Darkness shall soon awaken. No one will be able to stop it. Join forces, Shadow of Chaos. Swallow this world into Eternal Darkness…",,N,NiGaIIThDaSwofCh-87,NiGaIIThDaSwofCh-89
+NiGaIIThDaSwofCh-89,ACT-V,,,[He dissapears.],,Y,NiGaIIThDaSwofCh-88,NiGaIIThDaSwofCh-90
+NiGaIIThDaSwofCh-90,ACT-V,,Ryu,...,,N,NiGaIIThDaSwofCh-89,NiGaIIThDaSwofCh-91
+NiGaIIThDaSwofCh-91,ACT-VI,,Ryu,"Irene, are you all right?",,N,NiGaIIThDaSwofCh-90,NiGaIIThDaSwofCh-92
+NiGaIIThDaSwofCh-92,ACT-VI,,Irene,"Ryu, there's an altar... up ahead... somewhere... you must... destroy it.",,N,NiGaIIThDaSwofCh-91,NiGaIIThDaSwofCh-93
+NiGaIIThDaSwofCh-93,ACT-VI,,Ryu,I can't leave you here...,,N,NiGaIIThDaSwofCh-92,NiGaIIThDaSwofCh-94
+NiGaIIThDaSwofCh-94,ACT-VI,,Irene,I'll be all right. You are the only one who can do it... the only one who can stop them. Go... hurry.,,N,NiGaIIThDaSwofCh-93,NiGaIIThDaSwofCh-95
+NiGaIIThDaSwofCh-95,ACT-VI,,Ryu,"Alright... I'll go, Irene. But I'll come back for you as soon as I can. Hold on. Robert, take Irene and get out of here now.",,N,NiGaIIThDaSwofCh-94,NiGaIIThDaSwofCh-96
+NiGaIIThDaSwofCh-96,ACT-VI,,Robert,Be careful.,,N,NiGaIIThDaSwofCh-95,NiGaIIThDaSwofCh-97
+NiGaIIThDaSwofCh-97,ACT-VI,,Ryu,"You too, friend. Take care of her.",,N,NiGaIIThDaSwofCh-96,NiGaIIThDaSwofCh-98
+NiGaIIThDaSwofCh-98,ACT-VI,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-97,NiGaIIThDaSwofCh-99
+NiGaIIThDaSwofCh-99,ACT-VI,,,[Ryu finds the altar.],,Y,NiGaIIThDaSwofCh-98,NiGaIIThDaSwofCh-100
+NiGaIIThDaSwofCh-100,ACT-VI,,Ryu,...There.,,N,NiGaIIThDaSwofCh-99,NiGaIIThDaSwofCh-101
+NiGaIIThDaSwofCh-101,ACT-VI,,,[Meanwhile...],,Y,NiGaIIThDaSwofCh-100,NiGaIIThDaSwofCh-102
+NiGaIIThDaSwofCh-102,ACT-VI,,Irene,"Huff, huff.",,N,NiGaIIThDaSwofCh-101,NiGaIIThDaSwofCh-103
+NiGaIIThDaSwofCh-103,ACT-VI,,Robert,You all right? You wanna rest a while?,,N,NiGaIIThDaSwofCh-102,NiGaIIThDaSwofCh-104
+NiGaIIThDaSwofCh-104,ACT-VI,,Irene,No... I'm okay... What the...?,,N,NiGaIIThDaSwofCh-103,NiGaIIThDaSwofCh-105
+NiGaIIThDaSwofCh-105,ACT-VI,,,[A huge man appears from the darkness.],,Y,NiGaIIThDaSwofCh-104,NiGaIIThDaSwofCh-106
+NiGaIIThDaSwofCh-106,ACT-VI,,Irene,"Ah! Oh no, you... you're...",,N,NiGaIIThDaSwofCh-105,NiGaIIThDaSwofCh-107
+NiGaIIThDaSwofCh-107,ACT-VI,,Robert,Who the heck...!,,N,NiGaIIThDaSwofCh-106,NiGaIIThDaSwofCh-108
+NiGaIIThDaSwofCh-108,ACT-VI,,Man,"Hm, hm, hm, hm.",,N,NiGaIIThDaSwofCh-107,NiGaIIThDaSwofCh-109
+NiGaIIThDaSwofCh-109,ACT-VI,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-108,NiGaIIThDaSwofCh-110
+NiGaIIThDaSwofCh-110,ACT-VI,,,[After boss battle.],,Y,NiGaIIThDaSwofCh-109,NiGaIIThDaSwofCh-111
+NiGaIIThDaSwofCh-111,ACT-VI,,Ryu,I've fought this creature before. How could this be...?,,N,NiGaIIThDaSwofCh-110,NiGaIIThDaSwofCh-112
+NiGaIIThDaSwofCh-112,ACT-VI,,Robert,...Ooooh… ...Ryu...,,N,NiGaIIThDaSwofCh-111,NiGaIIThDaSwofCh-113
+NiGaIIThDaSwofCh-113,ACT-VI,,Ryu,Robert?! What happened? Are you all right?,,N,NiGaIIThDaSwofCh-112,NiGaIIThDaSwofCh-114
+NiGaIIThDaSwofCh-114,ACT-VI,,Robert,Ryu... they got Irene.,,N,NiGaIIThDaSwofCh-113,NiGaIIThDaSwofCh-115
+NiGaIIThDaSwofCh-115,ACT-VI,,Ryu,...!?,,N,NiGaIIThDaSwofCh-114,NiGaIIThDaSwofCh-116
+NiGaIIThDaSwofCh-116,ACT-VII,,Robert,"Ryu, if the Gate of Darkness is opened, the Tribe from the dark world will cause chaos. That'll be the end of all mankind. Hm? ...Listen!",,N,NiGaIIThDaSwofCh-115,NiGaIIThDaSwofCh-117
+NiGaIIThDaSwofCh-117,ACT-VII,,Ryu,They're coming again. And there are quite a few of them.,,N,NiGaIIThDaSwofCh-116,NiGaIIThDaSwofCh-118
+NiGaIIThDaSwofCh-118,ACT-VII,,Robert,"I'll stay here and hold them off. Ryu, you get going.",,N,NiGaIIThDaSwofCh-117,NiGaIIThDaSwofCh-119
+NiGaIIThDaSwofCh-119,ACT-VII,,Ryu,You're wounded. I can't leave you alone...,,N,NiGaIIThDaSwofCh-118,NiGaIIThDaSwofCh-120
+NiGaIIThDaSwofCh-120,ACT-VII,,Robert,Don't worry about me. Go! You're the only one who can stop their evil plan now. Now move!,,N,NiGaIIThDaSwofCh-119,NiGaIIThDaSwofCh-121
+NiGaIIThDaSwofCh-121,ACT-VII,,Ryu,"...I'll go, Robert...",,N,NiGaIIThDaSwofCh-120,NiGaIIThDaSwofCh-122
+NiGaIIThDaSwofCh-122,ACT-VII,,Robert,Don't forget to save the girl while you're at it. Go... get going!,,N,NiGaIIThDaSwofCh-121,NiGaIIThDaSwofCh-123
+NiGaIIThDaSwofCh-123,ACT-VII,,Ryu,Good luck.,,N,NiGaIIThDaSwofCh-122,NiGaIIThDaSwofCh-124
+NiGaIIThDaSwofCh-124,ACT-VII,,,[Ryu leaves.],,Y,NiGaIIThDaSwofCh-123,NiGaIIThDaSwofCh-125
+NiGaIIThDaSwofCh-125,ACT-VII,,Robert,"OK, you freaks. Come and get it! You're going to dream your worst nightmare. No one ever gets past old “Jungle Rat” Rob!",,N,NiGaIIThDaSwofCh-124,NiGaIIThDaSwofCh-126
+NiGaIIThDaSwofCh-126,ACT-VII,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-125,NiGaIIThDaSwofCh-127
+NiGaIIThDaSwofCh-127,ACT-VII,,Robert,"So... this is the end of the road, eh? It's dark... everything's getting cloudy. Ryu. Get'em... for me.",,N,NiGaIIThDaSwofCh-126,NiGaIIThDaSwofCh-128
+NiGaIIThDaSwofCh-128,ACT-VII,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-127,NiGaIIThDaSwofCh-129
+NiGaIIThDaSwofCh-129,ACT-VII,,Ryu,What's this place?... Irene!,,N,NiGaIIThDaSwofCh-128,NiGaIIThDaSwofCh-130
+NiGaIIThDaSwofCh-130,ACT-VII,,Irene,Ryu... Watch out! It's him...,,N,NiGaIIThDaSwofCh-129,NiGaIIThDaSwofCh-131
+NiGaIIThDaSwofCh-131,ACT-VII,,Ryu,Who?,,N,NiGaIIThDaSwofCh-130,NiGaIIThDaSwofCh-132
+NiGaIIThDaSwofCh-132,ACT-VII,,???,"It's been a long time, Ryu Hayabusa.",,N,NiGaIIThDaSwofCh-131,NiGaIIThDaSwofCh-133
+NiGaIIThDaSwofCh-133,ACT-VII,,Ryu,Who's there?!!,,N,NiGaIIThDaSwofCh-132,NiGaIIThDaSwofCh-134
+NiGaIIThDaSwofCh-134,ACT-VII,,Man,"Hm, hm, hm, hm...",,N,NiGaIIThDaSwofCh-133,NiGaIIThDaSwofCh-135
+NiGaIIThDaSwofCh-135,ACT-VII,,Ryu,...?! You – JAQUIO!! You are alive?!,,N,NiGaIIThDaSwofCh-134,NiGaIIThDaSwofCh-136
+NiGaIIThDaSwofCh-136,ACT-VII,,Jaquio,One can never destroy the Power of Evil. The spirit released after our battle flowed into my body. I am reborn. And I've got the dark Power of Evil.,,N,NiGaIIThDaSwofCh-135,NiGaIIThDaSwofCh-137
+NiGaIIThDaSwofCh-137,ACT-VII,,Ryu,...,,N,NiGaIIThDaSwofCh-136,NiGaIIThDaSwofCh-138
+NiGaIIThDaSwofCh-138,ACT-VII,,Jaquio,"The spirit you defeated before was nothing more than a pawn. Your battle served only to awaken the ancient, true Spirits of Evil. The Sword of Chaos simply sucks up your life force. And when the Sword of Chaos awakens, the Gate of Darkness shall be thrown open... And the demon shall come back to life.",,N,NiGaIIThDaSwofCh-137,NiGaIIThDaSwofCh-139
+NiGaIIThDaSwofCh-139,ACT-VII,,Ryu,What are you going to do with Irene?,,N,NiGaIIThDaSwofCh-138,NiGaIIThDaSwofCh-140
+NiGaIIThDaSwofCh-140,ACT-VII,,Jaquio,"Her life force shall be used to call up the demons. You shall awaken them, she shall call them back to earth. You should be proud. You two shall make the beginning of a new Age. The Age of Eternal Darkness! Hm, hm, hm, hm. Ha, ha, ha, ha.",,N,NiGaIIThDaSwofCh-139,NiGaIIThDaSwofCh-141
+NiGaIIThDaSwofCh-141,ACT-VII,,Ryu,Are you finished? I’ve had enough of your speeches. And I’ve had enough of YOU!,,N,NiGaIIThDaSwofCh-140,NiGaIIThDaSwofCh-142
+NiGaIIThDaSwofCh-142,ACT-VII,,Jaquio,"Then fight, Ninja Dragon – the last of your clan. Now, we shall decide whether Light or... Darkness is to be the true master!!",,N,NiGaIIThDaSwofCh-141,NiGaIIThDaSwofCh-143
+NiGaIIThDaSwofCh-143,ACT-VII,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-142,NiGaIIThDaSwofCh-144
+NiGaIIThDaSwofCh-144,ACT-VII,,,[After fight with Jaquio.],,Y,NiGaIIThDaSwofCh-143,NiGaIIThDaSwofCh-145
+NiGaIIThDaSwofCh-145,ACT-VII,,Ryu,...Irene...,,N,NiGaIIThDaSwofCh-144,NiGaIIThDaSwofCh-146
+NiGaIIThDaSwofCh-146,ACT-VII,,Irene,...Ryu...,,N,NiGaIIThDaSwofCh-145,NiGaIIThDaSwofCh-147
+NiGaIIThDaSwofCh-147,ACT-VII,,Ryu,"Are you all right, Irene?",,N,NiGaIIThDaSwofCh-146,NiGaIIThDaSwofCh-148
+NiGaIIThDaSwofCh-148,ACT-VII,,Irene,...We've got to... destroy this altar... Ryu!,,N,NiGaIIThDaSwofCh-147,NiGaIIThDaSwofCh-149
+NiGaIIThDaSwofCh-149,ACT-VII,,Ryu,The Sword! The Sword has been awakened by the blood of Jacquio!,,N,NiGaIIThDaSwofCh-148,NiGaIIThDaSwofCh-150
+NiGaIIThDaSwofCh-150,ACT-VII,,Irene,...Ryu!!,,N,NiGaIIThDaSwofCh-149,NiGaIIThDaSwofCh-151
+NiGaIIThDaSwofCh-151,ACT-VII,,Ryu,...Irene.,,N,NiGaIIThDaSwofCh-150,NiGaIIThDaSwofCh-152
+NiGaIIThDaSwofCh-152,ACT-VII,,Irene,Ryu...,,N,NiGaIIThDaSwofCh-151,NiGaIIThDaSwofCh-153
+NiGaIIThDaSwofCh-153,ACT-VII,,Ryu,Ireeeeene!!,,N,NiGaIIThDaSwofCh-152,NiGaIIThDaSwofCh-154
+NiGaIIThDaSwofCh-154,ACT-VII,,,[The Gates is opening...],,Y,NiGaIIThDaSwofCh-153,NiGaIIThDaSwofCh-155
+NiGaIIThDaSwofCh-156,ACT-VII,,Ryu,YOU?!,,N,NiGaIIThDaSwofCh-155,NiGaIIThDaSwofCh-157
+NiGaIIThDaSwofCh-157,ACT-VII,,Man,Hmmm... Urrrrgh...,,N,NiGaIIThDaSwofCh-156,NiGaIIThDaSwofCh-158
+NiGaIIThDaSwofCh-158,ACT-VII,,Ryu,What the...,,N,NiGaIIThDaSwofCh-157,NiGaIIThDaSwofCh-159
+NiGaIIThDaSwofCh-159,ACT-VII,,,[GAMEPLAY],,Y,NiGaIIThDaSwofCh-158,NiGaIIThDaSwofCh-160
+NiGaIIThDaSwofCh-160,ACT-VII,,,[After boss fight.],,Y,NiGaIIThDaSwofCh-159,NiGaIIThDaSwofCh-161
+NiGaIIThDaSwofCh-161,ACT-VII,,Ryu,Huff... huff. Is this finally the end of it all? How do I fight such an enemy? Father. Sword of the Dragon Clan. Give me strength. Demon! You're mine. Taste the true power of the Dragon Sword!,,N,NiGaIIThDaSwofCh-160,NiGaIIThDaSwofCh-162
+NiGaIIThDaSwofCh-162,ACT-VII,,,[After phase 2.],,Y,NiGaIIThDaSwofCh-161,NiGaIIThDaSwofCh-163
+NiGaIIThDaSwofCh-163,ACT-VII,,Ryu,Irene... Ireeeeene!! Uhhhhh. Uuuuuuooohhh!,,N,NiGaIIThDaSwofCh-162,NiGaIIThDaSwofCh-164
+NiGaIIThDaSwofCh-164,ACT-VII,,,[Chaos Sword shatters. The Altar is crumbling.],,Y,NiGaIIThDaSwofCh-163,NiGaIIThDaSwofCh-165
+NiGaIIThDaSwofCh-165,ACT-VII,,Ryu,Irene... I'm so sorry. My clan... defeating the demons... none of that matters... now that you're gone…,,N,NiGaIIThDaSwofCh-164,NiGaIIThDaSwofCh-166
+NiGaIIThDaSwofCh-166,ACT-VII,,,[Dragon Sword flashes.],,Y,NiGaIIThDaSwofCh-165,NiGaIIThDaSwofCh-167
+NiGaIIThDaSwofCh-167,ACT-VII,,Ryu,Wh... ? The Sword! The Dragon Sword... ...? What the...,,N,NiGaIIThDaSwofCh-166,NiGaIIThDaSwofCh-168
+NiGaIIThDaSwofCh-168,ACT-VII,,Irene,Mmm... oh...,,N,NiGaIIThDaSwofCh-167,NiGaIIThDaSwofCh-169
+NiGaIIThDaSwofCh-169,ACT-VII,,Ryu,...?!!! Irene!,,N,NiGaIIThDaSwofCh-168,NiGaIIThDaSwofCh-170
+NiGaIIThDaSwofCh-170,ACT-VII,,Irene,"Ryu... ? Oh, Ryu!",,N,NiGaIIThDaSwofCh-169,NiGaIIThDaSwofCh-171
+NiGaIIThDaSwofCh-171,ACT-VII,,Ryu,It's a miracle!... Irene.,,N,NiGaIIThDaSwofCh-170,NiGaIIThDaSwofCh-172
+NiGaIIThDaSwofCh-172,ACT-VII,,Irene,Ryu. What... what happened to me? I feel like I've been dreaming... for a long time.,,N,NiGaIIThDaSwofCh-171,NiGaIIThDaSwofCh-173
+NiGaIIThDaSwofCh-173,ACT-VII,,Ryu,"It's all right... it's over. It's all over, Irene. The Darkness is gone.",,N,NiGaIIThDaSwofCh-172,NiGaIIThDaSwofCh-174
+NiGaIIThDaSwofCh-174,ACT-VII,,Irene,"Oh, Ryu… then… it's true. The part about... you and I... isn't it?",,N,NiGaIIThDaSwofCh-173,NiGaIIThDaSwofCh-175
+NiGaIIThDaSwofCh-175,ACT-VII,,Ryu,"Yes, Irene. Look, can you see how beautiful our world is, Irene? And it'll stay like this... forever.",,N,NiGaIIThDaSwofCh-174,NiGaIIThDaSwofCh-176

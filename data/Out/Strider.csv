@@ -1,0 +1,62 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+St-1,﻿KAZAKH,,,[GAMEPLAY],,Y,,St-2
+St-2,FILE NO. 1 ACQUIRED,,,[GAMEPLAY],,Y,St-1,St-3
+St-3,FILE NO. 1 ACQUIRED,,,[test],,Y,St-2,St-4
+St-4,FILE NO. 1 ACQUIRED,,ENEMY COMMANDER,Please wait. A Kain is up there and the commander has the key. You'll find it if you analyze this. Please let me go.,,N,St-3,St-5
+St-5,FILE NO. 1 ANALYZED,,NINJA,"I'm Ryuzaki, a strider. I left my attack-boots in China. Please find them.",,N,St-4,St-6
+St-6,FILE NO. 2 ANALYZED,,ENEMY COMMANDER,Vice commander? It's me. I' ll go to Egypt via phantom train. Don't lose the prisoner.,,N,St-5,St-7
+St-7,EGYPT,,,[GAMEPLAY],,Y,St-6,St-8
+St-8,AQUA-BOOTS ACQUIRED,,,[GAMEPLAY],,Y,St-7,St-9
+St-9,AQUA-BOOTS ACQUIRED,,ENEMY COMMANDER,"Why do striders have to disturb us?… Oh, ok. I' ll give this to you. Please don't kill me.",,N,St-8,St-10
+St-10,KAZAKH 2,,,[GAMEPLAY],,Y,St-9,St-11
+St-11,KAZAKH 2,,MOTORCYCLIST,"So, you are Hiryu. Let me see striders' power.",,N,St-10,St-12
+St-12,KAZAKH 2,,,[GAMEPLAY],,Y,St-11,St-13
+St-13,KAZAKH 2,,HIRYU,Kain! Wake up! No response. I guess I have to bring him back to the base.,,N,St-12,St-14
+St-14,FILE NO. 3 ANALYZED,,KAIN,Something awful is happening. The Zain project… should be interrupted. The chief in Japan might know something helpful.,,N,St-13,St-15
+St-15,JAPAN,,SAMURAI,"Under orders of the Vice Director, we can't let you pass here. We shall kill anyone who comes close!",,N,St-14,St-16
+St-16,JAPAN,,,[GAMEPLAY],,Y,St-15,St-17
+St-17,JAPAN,,SCIENTIST,I'll fix your cipher so that you can shoot plasma.,,N,St-16,St-18
+St-18,JAPAN,,,[GAMEPLAY],,Y,St-17,St-19
+St-19,JAPAN,,MONK,"You've gotten stronger, Hiryu. Take this with you.",,N,St-18,St-20
+St-20,FILE NO. 4 ANALYZED,,MONK,Hiryu. Zain is a dreadful weapon created by the Syndicate. It penetrates into your mind and makes you crazy. Hurry! There is one in China!,,N,St-19,St-21
+St-21,FILE NO. 4 ANALYZED,,KAIN,"Ha, ha, ha… Hiryu! You'll be sent to your grave by me mr. Kain! Die!",,N,St-20,St-22
+St-22,FILE NO. 4 ANALYZED,,HIRYU,Same. My sister was the same when she lost mind… Zain! I'll destroy you 'til the last circuit! Sheena! Please take care of Kain.,,N,St-21,St-23
+St-23,CHINA,,,[GAMEPLAY],,Y,St-22,St-24
+St-24,CHINA,,SCIENTIST,Did you go to my room? The Key No. 4 should be at Kazakh.,,N,St-23,St-25
+St-25,CHINA,,,[GAMEPLAY],,Y,St-24,St-26
+St-26,KAZAKH 3,,,[GAMEPLAY],,Y,St-25,St-27
+St-27,KEY NO. 4 ACQUIRED,,,[GAMEPLAY],,Y,St-26,St-28
+St-28,CHINA 2,,,[GAMEPLAY],,Y,St-27,St-29
+St-29,ATTACK-BOOTS ACQUIRED,,,[GAMEPLAY],,Y,St-28,St-30
+St-30,THE BASE 4,,SHEENA,"Hiryu! Kain escaped when I took my eyes off of him? He seemed to be in his right mind, but his wound is not healed!",,N,St-29,St-31
+St-31,KAZAKH 4,,,[GAMEPLAY],,Y,St-30,St-32
+St-32,FILE NO. 5 ANALYZED,,COMMANDER-IN-CHIEF,"Commander-in-Chief mr. Faceas Clay, we, the Strider Matic Unit, will protect the Zain in Africa.",,N,St-31,St-33
+St-33,AFRICA,,,[GAMEPLAY],,Y,St-32,St-34
+St-34,FILE NO. 6 ANALYZED,,MAN,I'm Faceas Clay. I have an appointment with Matic in Los Angeles. Take care of things when I'm gone.,,N,St-33,St-35
+St-35,FILE NO. 6 ANALYZED,,HIRYU,Sheena! Sheena! Where did she go?,,N,St-34,St-36
+St-36,LOS ANGELES,,,[GAMEPLAY],,Y,St-35,St-37
+St-37,LOS ANGELES,,SHEENA,Hiryu! Please defeat Matic! ..get... revenge for… me!,,N,St-36,St-38
+St-38,LOS ANGELES,,,[GAMEPLAY],,Y,St-37,St-39
+St-39,LOS ANGELES,,CLAY,Ha! You fools! This tempered glass can't be broken by human power. You should have sided with me as Matic did.,,N,St-38,St-40
+St-40,LOS ANGELES,,,[HIRYU BROKE THE GLASS AND ATTACKS CLAY.],,Y,St-39,St-41
+St-41,LOS ANGELES,,CLAY,THAT CAN'T BE TRUE! YOU... MONSTER!,,N,St-40,St-42
+St-42,AUSTRALIA,,,[GAMEPLAY],,Y,St-41,St-43
+St-43,AUSTRALIA,,RYUZAKI,Go after Matic! It's all his scheme!,,N,St-42,St-44
+St-44,AUSTRALIA,,,[GAMEPLAY],,Y,St-43,St-45
+St-45,AUSTRALIA,,MATIC,Stupid! It doesn't do any good to destroy Zain's terminals as long good as there exists the main tree.,,N,St-44,St-46
+St-46,AUSTRALIA,,,[HIRYU DESTROYS ALL TERMINALS AND IT’S PROTECTORS.],,Y,St-45,St-47
+St-47,THE BASE 5,,KAIN,"H... Hiryu... I tried to catch Matic, but... I.. failed. Hurry! He... he is... At the Red Dragon!",,N,St-46,St-48
+St-48,RED DRAGON,,,[GAMEPLAY],,Y,St-47,St-49
+St-49,RED DRAGON,,MATIC,"Hiryu. You've done well so far. But, you can't defeat Matic the Vice Director of the Striders. Ha, ha, ha,…",,N,St-48,St-50
+St-50,RED DRAGON,,,[GAMEPLAY],,Y,St-49,St-51
+St-51,RED DRAGON,,SCIENTIST,"Matic is in the room over there. However, we can't open this unless we destroy two systems somewhere.",,N,St-50,St-52
+St-52,RED DRAGON,,,[GAMEPLAY],,Y,St-51,St-53
+St-53,RED DRAGON,,SHIELDED ENEMY,You traitor! You shall die here!,,N,St-52,St-54
+St-54,RED DRAGON,,,[GAMEPLAY],,Y,St-53,St-55
+St-55,RED DRAGON,,SCIENTIST,"The main tree, Yugdesiral, is a demon's weapon. Watch out, Hiryu!",,N,St-54,St-56
+St-56,RED DRAGON,,,[GAMEPLAY],,Y,St-55,St-57
+St-57,RED DRAGON,,MATIC,Welcome to our Red Dragon. We'll dance on your grave.,,N,St-56,St-58
+St-58,RED DRAGON,,,[GAMEPLAY],,Y,St-57,St-59
+St-59,RED DRAGON,,ENEMY NINJA,"You made it, Hiryu. I'll turn you into the rust of my Cipher!",,N,St-58,St-60
+St-60,RED DRAGON,,,[GAMEPLAY],,Y,St-59,St-61
+St-61,RED DRAGON,,,[BOSS FIGHT WITH MATIC.],,Y,St-60,St-62

@@ -1,0 +1,397 @@
+﻿Row_ID,Chapter,Time/Location,Speaker,Text,Action,Comment_flg,Prev_Row_ID,Next_Row_ID
+Sp-2,,,Dr. Otto Octavius,"Technology is the light that can cut through the darkness. When humanity conforms to a single truth, a truth based in technical progress and scientific method, we will be unstoppable. I, doctor Otto Octavius, vow as a scientist and businessman that my duties to humankind will be fulfilled. Thank you. Thank you.",,N,Sp-1,Sp-3
+Sp-3,,,,[The crowd applauds.],,Y,Sp-2,Sp-4
+Sp-4,,,Peter Parker,"Yeah nice words Octavius. If these executives knew you the way I do, I wonder if they'd be so quick to applaud.",,N,Sp-3,Sp-5
+Sp-5,,,Eddie Brock,Just keep shooting Eddie. When J. Jonah Jameson sees these photos my career is going be right back on track.,,N,Sp-4,Sp-6
+Sp-6,,,,"[Meanwhile, behind the scenes ...]",,Y,Sp-5,Sp-7
+Sp-7,,,Security Guard 1,"Check one, where's your twenty?",,N,Sp-6,Sp-8
+Sp-8,,,Security Guard 2,"Dispatch H, all is…",,N,Sp-7,Sp-9
+Sp-9,,,,"[The guard is dragged away. The figure, shrouded in darkness, adroitly takes out the other guards.]",,Y,Sp-8,Sp-10
+Sp-10,,,Dr. Otto Octavius,"Who dares? Face me coward, face a worthy foe. Spider-man?",,N,Sp-9,Sp-11
+Sp-11,,,,[Spider-man comes on the scene.],,Y,Sp-10,Sp-12
+Sp-12,,,Peter Parker,"Last time I checked, I was Spider-man.",,N,Sp-11,Sp-13
+Sp-13,,,Eddie Brock,"Spider-man, what's he doing?",,N,Sp-12,Sp-14
+Sp-14,,,,[He apparently steals the invention of Octavius.],,Y,Sp-13,Sp-15
+Sp-15,,,Peter Parker,Gotta get into my costume and take out this imposter. Can't get free of this crowd.,,N,Sp-14,Sp-16
+Sp-16,,,Eddie Brock,Can't get a shot. Jameson would pay any price to get this kind of dirt on Spider-man.,,N,Sp-15,Sp-17
+Sp-17,,,,"[Rushing through the crowd, Peter accidentally run into Eddie.]",,Y,Sp-16,Sp-18
+Sp-18,,,Peter Parker,That was Eddie Brock.,,N,Sp-17,Sp-19
+Sp-19,,,Eddie Brock,"Who the? He looked familiar. Whatever, stay focused. He's stealing Octavuis' device. Oh no, he sees me.",,N,Sp-18,Sp-20
+Sp-20,,,,[The impostor Spider-man shoots a web in Eddie's camera and smashes it.],,Y,Sp-19,Sp-21
+Sp-21,,,Eddie Brock,"My camera, noooooo. Ah it's over, it's all over. I blew it again, I can hear Jameson's voice already.",,N,Sp-20,Sp-22
+Sp-22,,,Imaginary J Jonah Jameson,"Brock, you loser. If I had given a real photographer that job I would finally have the evidence to send Spider-man away forever. You're through Brock. When I am done with you, you won't be able to get a job taking wedding pictures in Siberia.",,N,Sp-21,Sp-23
+Sp-23,,,Eddie Brock,"I tried to fight it, can't fight him anymore.",,N,Sp-22,Sp-24
+Sp-24,,,,[Eddie turns to Venom.],,Y,Sp-23,Sp-25
+Sp-25,,,Venom,"Again innocence falls prey to the evil of Spider-man. Rest easy Brock, Venom is here, and if it's the last thing we ever do, Jameson and the insect are going pay.",,N,Sp-24,Sp-26
+Sp-26,,,,[Meanwhile in the secret laboratory...],,Y,Sp-25,Sp-27
+Sp-27,,,Doctor Octopus,"Phase one complete, let us begin phase two.",,N,Sp-26,Sp-28
+Sp-28,,,Carnage,Hehehehehe yes it begins hahahahaha very soon.,,N,Sp-27,Sp-29
+Sp-29,,,,"[Out of the open pipes, a dense green gas emerges, covering the city to the roofs.]",,Y,Sp-28,Sp-30
+Sp-30,,,Doctor Octopus and Carnage,Hahahahahahahaha.,,N,Sp-29,Sp-31
+Sp-32,,,,"[The camera flies over the city, immersed in fog. In background, we hear the voice of Stan Lee.]",,Y,Sp-31,Sp-33
+Sp-33,,,Stan Lee,"Welcome true believers and newcomers alike! Spider-man co-creator Stan Lee here. Once again we find our hero Peter Parker, better known around the world is the amazing Spider-man and the heat and trouble. But this is just the beginning Spidey fans! So get ready for a true superhero action thriller, packed to the brim with throws and chills, twists and turns! More super villains that you can shoot a web at, and, of course, nonstop web-slinging, wall-crawling action!",,N,Sp-32,Sp-34
+Sp-34,,,,"[The camera focuses on one of the buildings where we meet our hero, Spider-man and his friend - Black Cat.]",,Y,Sp-33,Sp-35
+Sp-35,,,Black Cat,"Hey, spider!",,N,Sp-34,Sp-36
+Sp-36,,,Spider-man,"Hey, Black Cat! What's going on?",,N,Sp-35,Sp-37
+Sp-37,,,Black Cat,I know there's been some trouble but the banks being robbed and they've got hostages! Use your spidey compass to get to the bank quickly.,,N,Sp-36,Sp-38
+Sp-38,,,Spider-man,"Thanks, Cat.",,N,Sp-37,Sp-39
+Sp-39,,,,[Spidey starts walking through the roof.],,Y,Sp-38,Sp-40
+Sp-40,,,Black Cat,Hey Spider-man! Come over here. When the building is close enough you can swing to it. Press the Jump Button and then press and hold the R2 button while in the air to swing.,,N,Sp-39,Sp-41
+Sp-41,,,Spider-man,"What's up, Cat?",,N,Sp-40,Sp-42
+Sp-42,,,Black Cat,Spidey! That's a web cartridge. You can carry up to 10 of them.,,N,Sp-41,Sp-43
+Sp-43,,,Spider-man,Spider sense tingling... That's going on here?,,N,Sp-42,Sp-44
+Sp-44,,,,[Spidey sees an armed thug.],,Y,Sp-43,Sp-45
+Sp-45,,,Black Cat,"Hold it, Spider! He doesn't look friendly. You can kick, punch or use your web attack to get pass.",,N,Sp-44,Sp-46
+Sp-46,,,Spider-man,I doubt that it hurts me more that it hurts you.,,N,Sp-45,Sp-47
+Sp-47,,,,[On the next building...],,Y,Sp-46,Sp-48
+Sp-48,,,Spider-man,"Wow, police choppers.",,N,Sp-47,Sp-49
+Sp-49,,,Black Cat,Can't believe they shot down those police choppers.,,N,Sp-48,Sp-50
+Sp-50,,,Spider-man,"Yeah, just my luck. I'll probably get blamed for that too. Is that the bank ahead?",,N,Sp-49,Sp-51
+Sp-51,,,Black Cat,"Yes, but be careful, Spider. I saw the chopper dropping off armed robbers on top of the bank.",,N,Sp-50,Sp-52
+Sp-52,,,Spider-man,"Thanks for the heads up, Cat.",,N,Sp-51,Sp-53
+Sp-53,,,Spider-man,I bet I can get into the bank through the top of this building! Cat was right. It's the Jade syndicate.,,N,Sp-52,Sp-54
+Sp-54,,,,[After beating up all the thugs...],,Y,Sp-53,Sp-55
+Sp-55,,,Spider-man,That's the last one. Hope the hostages is still all right.,,N,Sp-54,Sp-56
+Sp-56,,,,[Spidey jumps into the bank.],,Y,Sp-55,Sp-57
+Sp-57,,,Spider-man,"Oh, I hope they don't mind if I make a quick deposit.",,N,Sp-56,Sp-58
+Sp-58,,,,[He kicks some ass.],,Y,Sp-57,Sp-59
+Sp-59,,,Spider-man,"I doubt that really hurt me more than it hurt you. Ha ha ha! They do have hostages! Have to make sure they don't get hurt. Looks like that room there controls the security doors, locked from the inside. There's gotta be another way in. It looks like these switches can open the security doors. Huh, going down… Mind if i drop in?",,N,Sp-58,Sp-60
+Sp-60,,,Thug,That's going on up there?,,N,Sp-59,Sp-61
+Sp-61,,,Spider-man,"Hah... I make this look easy. Oh, more hostages and a bomb! I have to be really careful here. Huh... big safe.",,N,Sp-60,Sp-62
+Sp-62,,,Thug,They're messing with us! Start the timer on the bomb and take out all the hostages.,,N,Sp-61,Sp-63
+Sp-63,,,Spider-man,"The robbers have been taken care of but what can I do about the bomb? Think, Spidey, think!",,N,Sp-62,Sp-64
+Sp-64,,,Spider-man,"Not this time, guys!",,N,Sp-63,Sp-65
+Sp-65,,,Stan Lee,"Oh-oh, Spidey, Scorpion's headed out for old J. Jonah Jameson from day one, blaming Jameson for being stuck in his scorpion suit. Spidey had better get there quickly or JJJ may end up in the obituaries of his own paper.",,N,Sp-64,Sp-66
+Sp-66,,,Spider-man,Follow my spidey compass.,,N,Sp-65,Sp-67
+Sp-67,,,J Jonah,"Get away, Gargan!",,N,Sp-66,Sp-68
+Sp-68,,,Scorpion,Your time is running out!,,N,Sp-67,Sp-69
+Sp-69,,,Thug,"Hey, keep your eyes open. The sooner we take out Spider-man the sooner the boss pays us.",,N,Sp-68,Sp-70
+Sp-70,,,Spider-man (after beating a thug),"Oh, yeah! Hope Jonah is still alive.",,N,Sp-69,Sp-71
+Sp-71,,,Spider-man (after beating a thug),Easy as pie.,,N,Sp-70,Sp-72
+Sp-72,,,Spider-man (after beating a thug),"Huh, I'm sorry about that.",,N,Sp-71,Sp-73
+Sp-73,,,,[Spidey gets to the Daily Bugle building on time.],,Y,Sp-72,Sp-74
+Sp-74,,,J. Jonah,"Listen Gargan, it's a new millennium! Lots of high tech there. Maybe some way we can get you out of that suit.",,N,Sp-73,Sp-75
+Sp-75,,,Scorpion,You put me in this suit! Now I'm going to make you pay.,,N,Sp-74,Sp-76
+Sp-76,,,J Jonah,Get over it Gargan!,,N,Sp-75,Sp-77
+Sp-77,,,Scorpion,You ruin my life so now I'll end yours.,,N,Sp-76,Sp-78
+Sp-78,,,Spider-man,"Leave them alone, chuckles!",,N,Sp-77,Sp-79
+Sp-79,,,Scorpion,"Butt out, webhead.",,N,Sp-78,Sp-80
+Sp-80,,,J Jonah,Spider-man! I asked for the police and I get this?,,N,Sp-79,Sp-81
+Sp-81,,,,[Spider-man fights Scorpion.],,Y,Sp-80,Sp-82
+Sp-82,,,Spider-man,"That'll be OK. Oh, you want some more?",,N,Sp-81,Sp-83
+Sp-83,,,,[J Jonah finds a moment to escape.],,Y,Sp-82,Sp-84
+Sp-84,,,J Jonah,I'm out of here.,,N,Sp-83,Sp-85
+Sp-85,,,,"[Scorpion tries to follow J. Jonah, but Spidey finish him off.]",,Y,Sp-84,Sp-86
+Sp-86,,,J Jonah,I don't know what you're trying to pull by saving my life but it won't work.,,N,Sp-85,Sp-87
+Sp-87,,,Spider-man,Oh you're just too clever for me JJ.,,N,Sp-86,Sp-88
+Sp-88,,,,[The police appears.],,Y,Sp-87,Sp-89
+Sp-89,,,J Jonah,"There he is officers, a man behind the science Expo heist. Shoot him now! Shoot him!",,N,Sp-88,Sp-90
+Sp-90,,,Spider-man,JJ out of the wheel. I mean it this time!,,N,Sp-89,Sp-91
+Sp-91,,,,[Spidey escape through the window. On the roof of one of the buildings he meets Daredevil.],,Y,Sp-90,Sp-92
+Sp-92,,,Daredevil,"Hold it Spider-man! I don't want to believe that you pulled off the heist today, but I've got to make sure.",,N,Sp-91,Sp-93
+Sp-93,,,Spider-man,"Daredevil, I haven't got time to explain.",,N,Sp-92,Sp-94
+Sp-94,,,Daredevil,Just tell me your side of it. I'll know if you're lying.,,N,Sp-93,Sp-95
+Sp-95,,,Spider-man,How am I supposed to know you're the real Daredevil?,,N,Sp-94,Sp-96
+Sp-96,,,Daredevil,What?,,N,Sp-95,Sp-97
+Sp-97,,,Spider-man,"Listen, it's true a Spider-man made off with Octavius's new invention, but not the Spider-man, not me. Somebody's framed me. Why? I don't know yet and if New York's finest catch me it may be too late.",,N,Sp-96,Sp-98
+Sp-98,,,Daredevil,Well then you'd better get going. NYPD is coming fast.,,N,Sp-97,Sp-99
+Sp-99,,,Spider-man,That's it? You believe me?,,N,Sp-98,Sp-100
+Sp-100,,,Daredevil,I don't have to believe you I know you aren't lying.,,N,Sp-99,Sp-101
+Sp-101,,,Spider-man,But how?,,N,Sp-100,Sp-102
+Sp-102,,,Daredevil,Let's just say you've got your superpowers and I've got mine. I'll spread the word about your innocence. Not that it'll help with the cops. Good luck.,,N,Sp-101,Sp-103
+Sp-103,,,Spider-man,This one I haven't... Oh-oh...,,N,Sp-102,Sp-104
+Sp-104,,,,[A police helicopter appears behind Spidey’s back. Spidey run for his life.],,Y,Sp-103,Sp-105
+Sp-105,,,Helicopter pilot,"Stay there you are, Spider-man!",,N,Sp-104,Sp-106
+Sp-106,,,Spider-man,You have the wrong guy!,,N,Sp-105,Sp-107
+Sp-107,,,,[The helicopter start shooting and firing rockets.],,Y,Sp-106,Sp-108
+Sp-108,,,Spider-man,That was close!,,N,Sp-107,Sp-109
+Sp-109,,,Helicopter pilot,Stand there you are and put you hands behind your head!,,N,Sp-108,Sp-110
+Sp-110,,,,[Spidey gets to the building and climbs it. The helicopter continues to fire.],,Y,Sp-109,Sp-111
+Sp-111,,,Spider-man,Wow!,,N,Sp-110,Sp-112
+Sp-112,,,Helicopter pilot,Hold right there!,,N,Sp-111,Sp-113
+Sp-113,,,Spider-man,These guys are relentless!,,N,Sp-112,Sp-114
+Sp-114,,,Helicopter pilot,"Where is he? He moves too fast! Where did he go? Got him in my sights. Taking the shot. Ah, negative one shot!",,N,Sp-113,Sp-115
+Sp-115,,,Spider-man,Don’t stop now Spidey!,,N,Sp-114,Sp-116
+Sp-116,,,,[Spidey climbs onto the building and continues to run away from the helicopter.],,Y,Sp-115,Sp-117
+Sp-117,,,Spider-man,"Wow! Stealing isn’t my style! Moving! Moving! Moving! Man, Mary Jane was right. I need to stay home today. Whoa!",,N,Sp-116,Sp-118
+Sp-118,,,,[Spidey gets to a huge metal building and climbs on it.],,Y,Sp-117,Sp-119
+Sp-119,,,Spider-man,Enough with the shooting already!,,N,Sp-118,Sp-120
+Sp-120,,,Helicopter pilot,"Where'd he go? Taking the shot. Ah, negative one shot!",,N,Sp-119,Sp-121
+Sp-121,,,Spider-man,How tall is this thing?,,N,Sp-120,Sp-122
+Sp-122,,,Helicopter pilot,He moves too fast!,,N,Sp-121,Sp-123
+Sp-123,,,Spider-man,Looks like I’m on my way out.,,N,Sp-122,Sp-124
+Sp-124,,,,"[Spidey climbs onto the concrete block hanged on a hawser, but the helicopter fires a missile into it. The block falls, but Spidey manages to release a web and jump on the near building.]",,Y,Sp-123,Sp-125
+Sp-125,,,Spider-man,"“Monsters infest sewers!”. Ha-ha, yeah. Keep movin’, Spidey!",,N,Sp-124,Sp-126
+Sp-126,,,Pilot,Impact! The transmitter tower.,,N,Sp-125,Sp-127
+Sp-127,,,Spider-man,"Hey, you're gonna pay for that tower? Spider-sense tinkling... One more step and that's load of web fluid sticking you to that wall!",,N,Sp-126,Sp-128
+Sp-128,,,Black Cat,"Well, it's not the most romantic proposition I've ever had",,N,Sp-127,Sp-129
+Sp-129,,,Spider-man,"Black Cat? Oh, I'm so glad it's you.",,N,Sp-128,Sp-130
+Sp-130,,,Black Cat,"Good to see you too big boy, but you got a problem. Venom's got control of the jumbotron in Times Square. He's been ranting for hours with a message for you.",,N,Sp-129,Sp-131
+Sp-131,,,Spider-man,Venom's ugly face on that big screen? Now that's scary.,,N,Sp-130,Sp-132
+Sp-132,,,Black Cat,That's not all. Rhinos on a rampage over Omnitech as well.,,N,Sp-131,Sp-133
+Sp-133,,,Spider-man,"What is this? The bad guys Olympics? Look, Times Square is on the way to Omnitech. Let's find out what Venom is up to then we'll tackle Rhino.",,N,Sp-132,Sp-134
+Sp-134,,,Venom,"Hahahaha! The Venom marathon continues on the biggest TV in New York. We shoot now to the whole big rotten apple here, people! Hahaha.",,N,Sp-133,Sp-135
+Sp-135,,,Spider-man,Sad thing he’ll probably get his own talk show for this.,,N,Sp-134,Sp-136
+Sp-136,,,Venom,"So we've got this beautiful brunette here. You know her, she's one of those famous bimbos. We have decided that this poor little lassie has 24 hours to live. 24 hours! Oh, by the way her name is Mary Jane Parker! Hahaha!",,N,Sp-135,Sp-137
+Sp-137,,,Spider-man,No! Mary Jane…,,N,Sp-136,Sp-138
+Sp-138,,,Venom,"So just in case someone… yeah you know who it could be… if any of you tight wearing freaks out there wanna save little Miss Fashion Model, then... bring it on! Meanwhile, new yorkers, the venom marathon will continue!",,N,Sp-137,Sp-139
+Sp-139,,,Black Cat,"Listen, I realize what this means… forget about helping me.",,N,Sp-138,Sp-140
+Sp-140,,,Spider-man,"Rhino by yourself? Thanks cat but no thanks. look being Spider-man has given me a lot and taken a lot away, but one thing never changes. My responsibility to use my powers for others before myself, no matter what the cost. There are innocent people at Omnitech and they need our help right now. I won't let them down. Then I'll stop Venom. And this time… it’ll be the last time.",,N,Sp-139,Sp-141
+Sp-141,RHINO’S RAMPAGE,,Spider-man,We're too late! That makes two major technology heists in two days.,,N,Sp-140,Sp-142
+Sp-142,RHINO’S RAMPAGE,,Black Cat,That makes one question… There’s Rhino? Ugh!,,N,Sp-141,Sp-143
+Sp-143,RHINO’S RAMPAGE,,Spider-man,CAT!,,N,Sp-142,Sp-144
+Sp-144,RHINO’S RAMPAGE,,Rhino,Well… Isn’t it a bug boy?,,N,Sp-143,Sp-145
+Sp-145,RHINO’S RAMPAGE,,Stan Lee,"Oh, boy, Spidey fans, the Black Cat is out! Rhinos looking to take Spidey down as well!",,N,Sp-144,Sp-146
+Sp-146,RHINO’S RAMPAGE,,,[Spidey fights Rhino and defeats him.],,Y,Sp-145,Sp-147
+Sp-147,RHINO’S RAMPAGE,,Spider-man,"Oh-oh, spider sense tingling... the boys in blue again. Better hide. Best seat in the house. Octavius! What's he doing here?",,N,Sp-146,Sp-148
+Sp-148,RHINO’S RAMPAGE,,Octavius,"Please, stand back officers. Allow me.",,N,Sp-147,Sp-149
+Sp-149,RHINO’S RAMPAGE,,Spider-man,"Doc Ock helping the police? Maybe he is reformed. Ock’s taking care of Rhino. I need to find out what happened to Black Cat. This is a job for Peter Parker, not Spider-man.",,N,Sp-148,Sp-150
+Sp-150,RHINO’S RAMPAGE,,,[Next scene. Peter sees as the Black Cat is taken away by an ambulance.],,Y,Sp-149,Sp-151
+Sp-151,RHINO’S RAMPAGE,,Peter Parker,"Hey, wait. Cat! It's Peter.",,N,Sp-150,Sp-152
+Sp-152,RHINO’S RAMPAGE,,Back Cat,Peter… You gotta help me… They’re not really parame…,,N,Sp-151,Sp-153
+Sp-153,RHINO’S RAMPAGE,,Unseen driver,Perfect… perfect…,,N,Sp-152,Sp-154
+Sp-154,RHINO’S RAMPAGE,,Strange man on passenger seat,Yeees!,,N,Sp-153,Sp-155
+Sp-155,ENTER VENOM,,Spider-man,"Well, that's my story Johnny.",,N,Sp-154,Sp-156
+Sp-156,ENTER VENOM,,Human Torch,Looks like you're in a lot of trouble. You'll find Venom.,,N,Sp-155,Sp-157
+Sp-157,ENTER VENOM,,Spider-man,But how? venom is invisible to my spider-sense.,,N,Sp-156,Sp-158
+Sp-158,ENTER VENOM,,Human Torch,"Knowing your luck Venom will find you. Have faith, Spidey!",,N,Sp-157,Sp-159
+Sp-159,ENTER VENOM,,Spider-man,Or could she be... Gotta find her! I don’t have a choice.,,N,Sp-158,Sp-160
+Sp-160,ENTER VENOM,,Venom,"Hahahahaha! Well, well, well, what a wuss! Hey, wanna race? Parker hates it then I’ve got the drop on him!",,N,Sp-159,Sp-161
+Sp-161,ENTER VENOM,,Spider-man,I hate then he gets the drop on me!,,N,Sp-160,Sp-162
+Sp-162,ENTER VENOM,,Venom,"Hurry up, Parker!",,N,Sp-161,Sp-163
+Sp-163,ENTER VENOM,,Spider-man,"Move it Spidey, move it! Gotta keep moving. Got to keep up!",,N,Sp-162,Sp-164
+Sp-164,ENTER VENOM,,Venom,"Quit slacking, boy! Come on, Parker!",,N,Sp-163,Sp-165
+Sp-165,ENTER VENOM,,Spider-man,Look out lady!,,N,Sp-164,Sp-166
+Sp-166,ENTER VENOM,,Lady,Oh my goodness!,,N,Sp-165,Sp-167
+Sp-167,ENTER VENOM,,Venom,"Out of my way nerd! Eeh, watch that first step Parker, it's a doozy!",,N,Sp-166,Sp-168
+Sp-168,ENTER VENOM,,Spider-man,"Oh, my head! Look out lady!",,N,Sp-167,Sp-169
+Sp-169,ENTER VENOM,,Lady,Oh my goodness!,,N,Sp-168,Sp-170
+Sp-170,ENTER VENOM,,Spider-man,"No, sorry, I didn’t see your thing. Can't lose him!",,N,Sp-169,Sp-171
+Sp-171,ENTER VENOM,,Venom,"If you wanna fight, follow me. Where’d spider-wuss go? SPIDER-WUSS! Come out and play! Tag!",,N,Sp-170,Sp-172
+Sp-172,ENTER VENOM,,Spider-man,"Come back here, Venom! Where are you?",,N,Sp-171,Sp-173
+Sp-173,ENTER VENOM,,Venom,"Now you see me, now you don't. Not too far, Spider! Spidey, where are you?",,N,Sp-172,Sp-174
+Sp-174,ENTER VENOM,,Spider-man,Got something for you!,,N,Sp-173,Sp-175
+Sp-175,ENTER VENOM,,,[Spidey defeats Venom. He opens a manhole and escape to sewers.],,Y,Sp-174,Sp-176
+Sp-176,ENTER VENOM,,Venom,Laying down on the job? Heh heh heh.,,N,Sp-175,Sp-177
+Sp-177,ENTER VENOM,,Spider-man,"Where's my wife you symbiote freak! You can run Venom, but you can't hide! Those things... These guys must be leftovers from one of the Lizard's experiments. I'm trapped! I'm sorry guys, am I late for the party?",,N,Sp-176,Sp-178
+Sp-178,ENTER VENOM,,,[He walks to a huge door. Venom is on the other side of it.],,Y,Sp-177,Sp-179
+Sp-179,ENTER VENOM,,Spider-man,Open this door!,,N,Sp-178,Sp-180
+Sp-180,ENTER VENOM,,Venom,Who is thiiiiis? Ha ha ha!,,N,Sp-179,Sp-181
+Sp-181,ENTER VENOM,,,[The door opens. Spidey continue to pursue Venom to the subway.],,Y,Sp-180,Sp-182
+Sp-182,ENTER VENOM,,Venom,"Hang on, Parker! Mary Jane's at the next stop.",,N,Sp-181,Sp-183
+Sp-183,ENTER VENOM,,,[Spidey fighting the lizards at the top of a train. Suddenly Venom appears behind his back.],,Y,Sp-182,Sp-184
+Sp-184,ENTER VENOM,,Venom,Mwahahaha!,,N,Sp-183,Sp-185
+Sp-185,ENTER VENOM,,Spider-man,Oh no!,,N,Sp-184,Sp-186
+Sp-186,ENTER VENOM,,,[Venom hit him in the face. Spidey flies back into the sewers.],,Y,Sp-185,Sp-187
+Sp-187,ENTER VENOM,,Venom,"You've got to stop FALLING for us, Parker!",,N,Sp-186,Sp-188
+Sp-188,ENTER VENOM,,Spider-man,Where am I now? What do we have here? Oh great...,,N,Sp-187,Sp-189
+Sp-189,ENTER VENOM,,Venom,Hohoho!,,N,Sp-188,Sp-190
+Sp-190,ENTER VENOM,,Spider-man,Looks like I'd better time this right.,,N,Sp-189,Sp-191
+Sp-191,ENTER VENOM,,Venom," Coming through! Stop sweating in here, Parker!  Tasty!",(hits Spidey from behind) (grabs and licks him) ,N,Sp-190,Sp-192
+Sp-192,ENTER VENOM,,Spider-man,Lizard! I knew it!,,N,Sp-191,Sp-193
+Sp-193,ENTER VENOM,,Lizard,Spider-man! Venom has imprisoned me and has taken my lair. Now he used my lizardman against you.,,N,Sp-192,Sp-194
+Sp-194,ENTER VENOM,,Spider-man,No.,,N,Sp-193,Sp-195
+Sp-195,ENTER VENOM,,Lizard,She also imprisoned that Parker woman.,,N,Sp-194,Sp-196
+Sp-196,ENTER VENOM,,Spider-man,Where is she?,,N,Sp-195,Sp-197
+Sp-197,ENTER VENOM,,Lizard,"She's in the lair at the end of the maze. There is only one way to get there. Go back along this tunnel and cross over to waterways. At the third waterway go right. Follow it around the corners, past the machinery, skip the first tunnel intersection then go right at the next one. You will find the woman there.",,N,Sp-196,Sp-198
+Sp-198,ENTER VENOM,,Spider-man,"Thanks, Lizard.",,N,Sp-197,Sp-199
+Sp-199,ENTER VENOM,,Venom,"Aha! Ugh, you're hot, baby! My, my, my... said the spider to the... smaller spider!",,N,Sp-198,Sp-200
+Sp-200,ENTER VENOM,,,[Spidey finds Lizard's Laur occupied by Venom and hear the screams of his wife.],,Y,Sp-199,Sp-201
+Sp-201,ENTER VENOM,,Mary Jane,Heeelp! Is anybody there?,,N,Sp-200,Sp-202
+Sp-202,ENTER VENOM,,Spider-man,Mary Jane!,,N,Sp-201,Sp-203
+Sp-203,ENTER VENOM,,Mary Jane,"Help me, please!",,N,Sp-202,Sp-204
+Sp-204,ENTER VENOM,,Venom,You made it.,,N,Sp-203,Sp-205
+Sp-205,ENTER VENOM,,Spider-man,Venom!,,N,Sp-204,Sp-206
+Sp-206,ENTER VENOM,,Venom,I’d like you see your wifey... but she’s in the bed right now!,,N,Sp-205,Sp-207
+Sp-207,ENTER VENOM,,,[Venom pull the switch with his web. The water in Mary Jane’s cell begin to rise.],,Y,Sp-206,Sp-208
+Sp-208,ENTER VENOM,,Mary Jane,Aah! Ahh! No! Please!,,N,Sp-207,Sp-209
+Sp-209,ENTER VENOM,,Venom,"So, what do you say… Spongy? Let's finish this.",,N,Sp-208,Sp-210
+Sp-210,ENTER VENOM,,,[A tense fight begins! Mary Jane's life hangs in the balance.],,Y,Sp-209,Sp-211
+Sp-211,ENTER VENOM,,Venom,Brains! Yummy! Not too far little spider!,,N,Sp-210,Sp-212
+Sp-212,ENTER VENOM,,Spider-man, Gross!,(licked by Venom) ,N,Sp-211,Sp-213
+Sp-213,ENTER VENOM,,Venom,"Get back here!  Oh, Spider-man help me, I'm drowning!",(mocking Spidey) ,N,Sp-212,Sp-214
+Sp-214,ENTER VENOM,,,[Finally Spidey defeat his sworn enemy.],,Y,Sp-213,Sp-215
+Sp-215,ENTER VENOM,,Spider-man,"Why, Venom, why? Why do you come back?! (hits him]",,N,Sp-214,Sp-216
+Sp-216,ENTER VENOM,,Venom,You should know Spider-man. The heist at the Science Expo… you are the bad guy this time!,,N,Sp-215,Sp-217
+Sp-217,ENTER VENOM,,Spider-man,"You idiot!  Think, Eddie, think! Back to that day.... I was with you in the crowd! The imposter Spider-man was on stage, he burned both of us! And now we’re playing against each other.",(hits him) ,N,Sp-216,Sp-218
+Sp-218,ENTER VENOM,,Venom,"You are right, Parker…",,N,Sp-217,Sp-219
+Sp-219,ENTER VENOM,,,[The chain that holds Mary Jane breaks.],,Y,Sp-218,Sp-220
+Sp-220,ENTER VENOM,,Spider-man,Mary Jane!,,N,Sp-219,Sp-221
+Sp-221,ENTER VENOM,,Venom,"I've got ya! You and your wife are innocent, Parker. Our bad.",,N,Sp-220,Sp-222
+Sp-222,ENTER VENOM,,Spider-man,Our bad? OUR BAD?! I'm gonna kill you!,,N,Sp-221,Sp-223
+Sp-223,ENTER VENOM,,Mary Jane,"Peter Parker! Just get me out of here, NOW!",,N,Sp-222,Sp-224
+Sp-224,ENTER VENOM,,Venom,"Bummer. You're in the doghouse now, dude.",,N,Sp-223,Sp-225
+Sp-225,ENTER VENOM,,Spider-man,"Coming, honey!",,N,Sp-224,Sp-226
+Sp-226,ENTER VENOM,,,[Next scene. Roofs.],,Y,Sp-225,Sp-227
+Sp-227,ENTER VENOM,,Spider-man,"So... we’re partners… but only for now! After we bust those tech thieves, It's payback time for kidnapping my wife.",,N,Sp-226,Sp-228
+Sp-228,ENTER VENOM,,Venom,Geez… one simple mistake. We said we're sorry.,,N,Sp-227,Sp-229
+Sp-229,ENTER VENOM,,Spider-man,Whatever... now… the impostor was a shapeshifter. That means it was Mysterio or the Chameleon.,,N,Sp-228,Sp-230
+Sp-230,ENTER VENOM,,Venom,Hey! Chameleon was OUR idea! We’re thought of that!,,N,Sp-229,Sp-231
+Sp-231,ENTER VENOM,,Spider-man,Think of this Einstein. Who could've wanted to steal Octavius' technology?,,N,Sp-230,Sp-232
+Sp-232,ENTER VENOM,,Venom,"Oooh oh, we know, we know.",,N,Sp-231,Sp-233
+Sp-233,ENTER VENOM,,Spider-man,Who?,,N,Sp-232,Sp-234
+Sp-234,ENTER VENOM,,Venom,The Submariner.,,N,Sp-233,Sp-235
+Sp-235,ENTER VENOM,,Spider-man,Submariner? Get serious will ya.,,N,Sp-234,Sp-236
+Sp-236,ENTER VENOM,,Venom,The mighty Thor.,,N,Sp-235,Sp-237
+Sp-237,ENTER VENOM,,Spider-man,Are you out of your mind? Don't answer that.,,N,Sp-236,Sp-238
+Sp-238,ENTER VENOM,,Venom,Galactus.,,N,Sp-237,Sp-239
+Sp-239,ENTER VENOM,,Spider-man,Forget it Eddie. I need Jameson's help on this. We're going to the Bugle.,,N,Sp-238,Sp-240
+Sp-240,ENTER VENOM,,Venom,Jameson? We hate Jameson.,,N,Sp-239,Sp-241
+Sp-241,ENTER VENOM,,Spider-man,"You bonehead, we're not going to see Jameson, we're going to use his computer database.",,N,Sp-240,Sp-242
+Sp-242,ENTER VENOM,,Venom,Oooooh are we going surf the web?,,N,Sp-241,Sp-243
+Sp-243,ENTER VENOM,,Spider-man,"Let's just go, okay?",,N,Sp-242,Sp-244
+Sp-244,THE INVASION,,,[Spidey and Venom swings to the Bugle.],,Y,Sp-243,Sp-245
+Sp-245,THE INVASION,,Spider-man,"Here it is, the records room.",,N,Sp-244,Sp-246
+Sp-246,THE INVASION,,Venom,"Surf the web, surf the web.",,N,Sp-245,Sp-247
+Sp-247,THE INVASION,,Spider-man,"Shut up Brock, we don't have time.",,N,Sp-246,Sp-248
+Sp-248,THE INVASION,,Venom,Parker wait. Could it be?,,N,Sp-247,Sp-249
+Sp-249,THE INVASION,,Spider-man,Could what?,,N,Sp-248,Sp-250
+Sp-250,THE INVASION,,Venom,"Yes, we sense our other.",,N,Sp-249,Sp-251
+Sp-251,THE INVASION,,Spider-man,"Who, sense who?",,N,Sp-250,Sp-252
+Sp-252,THE INVASION,,Venom,"It's our other, the symbiote known as Carnage. We must stop him.",,N,Sp-251,Sp-253
+Sp-253,THE INVASION,,Spider-man,Now?!,,N,Sp-252,Sp-254
+Sp-254,THE INVASION,,Venom,"Yes, now. We have no choice.",,N,Sp-253,Sp-255
+Sp-255,THE INVASION,,,[Venom breaks a window and leaves.],,Y,Sp-254,Sp-256
+Sp-256,THE INVASION,,Spider-man,"Great. Make more noise, I'm only breaking and entering here. Spider sense tingling, now what? Spidey whoever's behind all this, symbiotes.",,N,Sp-255,Sp-257
+Sp-257,THE INVASION,,,"[He sees some purple, ooze like creatures.]",,Y,Sp-256,Sp-258
+Sp-258,THE INVASION,,Spider-man,This symbiotes must be looking for humans hosts...,,N,Sp-257,Sp-259
+Sp-259,THE INVASION,,Stan Lee,"Plunging in the battle with symbiotes other than Carnage and Venom? And hostages? Oh, webhead got his work cut out for him today!",,N,Sp-258,Sp-260
+Sp-260,THE INVASION,,Spider-man,Never seen the place this empty.,,N,Sp-259,Sp-261
+Sp-261,THE INVASION,,Hostage 1,I've got to get out of here!,,N,Sp-260,Sp-262
+Sp-262,THE INVASION,,Spider-man,Oh yeah... I bet there are no symbiote in here either... If you turn on the air-conditioning the fan will break me free.,,N,Sp-261,Sp-263
+Sp-263,THE INVASION,,Hostage 2,Thank you for saving me!,,N,Sp-262,Sp-264
+Sp-264,THE INVASION,,,[All hostages are saved.],,Y,Sp-263,Sp-265
+Sp-265,THE INVASION,,Spider-man,These symbiotes are everywhere! They seem to be coming from the basement...,,N,Sp-264,Sp-266
+Sp-266,THE INVASION,,,[Spidey jump into an elevator shaft.],,Y,Sp-265,Sp-267
+Sp-267,THE INVASION,,Spider-man,"There they'll coming from?! The elevator stopped... Ah, the elevator starting again. I'd better try the other door. Oh, a simbiote generator! So this is how the symbiotes are being created. There's one down. Just one more. Adding this to my webbing will make it burn. I think if this is the last one. But there is more downstairs. My trap webbing doesn't seem to work on these guys. I've got to find out what's going on downstairs.",,N,Sp-266,Sp-268
+Sp-268,THE INVASION,,,[He open a door a gets to the basement.],,Y,Sp-267,Sp-269
+Sp-269,THE INVASION,,Spider-man,"The basement of the Daily Bugle. Whoever's controlling the generator has got to be down here. That's cool. It's not the heat, it's the humidity. Whoa, where'd he come from?",,N,Sp-268,Sp-270
+Sp-270,THE INVASION,,,[Spidey destroys all the generators.],,Y,Sp-269,Sp-271
+Sp-271,THE INVASION,,Spider-man,Hey! The impostor!,,N,Sp-270,Sp-272
+Sp-272,THE INVASION,,Impostor,Hey! The impostor!,,N,Sp-271,Sp-273
+Sp-273,THE INVASION,,Spider-man,Come back here! That's the guy who framed me. And the one who stole the technology!,,N,Sp-272,Sp-274
+Sp-274,THE INVASION,,,[He chases the impostor to the next room.],,Y,Sp-273,Sp-275
+Sp-275,THE INVASION,,Spider-man,"I gotta say, you look just like me except you're more angry back alley than friendly neighborhood.",,N,Sp-274,Sp-276
+Sp-276,THE INVASION,,Impostor Spider-man,"Ooh, for decades I've wanted to shut that mouth of yours. Finally, that time is upon me…",,N,Sp-275,Sp-277
+Sp-277,THE INVASION,,,[Transforms into giant version of Mysterio.],,Y,Sp-276,Sp-278
+Sp-278,THE INVASION,,Mysterio,"...and now I will crush you once and for all! Hahahahaha! Now, little spider, you will die!",,N,Sp-277,Sp-279
+Sp-279,THE INVASION,,Spider-man,"Heh, is it too late for us to be friends?",,N,Sp-278,Sp-280
+Sp-280,THE INVASION,,Mysterio,"Welcome to your nightmare, Spider-man!",,N,Sp-279,Sp-281
+Sp-281,THE INVASION,,Spider-man,These glowing conduits is the source of his power. I need to get rid of them all with my web to take him out.,,N,Sp-280,Sp-282
+Sp-282,THE INVASION,,Mysterio,You shall not escape me!,,N,Sp-281,Sp-283
+Sp-283,THE INVASION,,Spider-man,"Ohh, look at me look at me! I am the master of illusion!",,N,Sp-282,Sp-284
+Sp-284,THE INVASION,,Mysterio,"Oh, careful now! You are no match for me. You think you've beaten me? Think again, Spider-man!",,N,Sp-283,Sp-285
+Sp-285,THE INVASION,,Spider-man,"That will burst your bubble, Mysterio! Well, Mysterio… the bigger they are, the harder they fall! You working for the wrong people, Mysterio!",,N,Sp-284,Sp-286
+Sp-286,THE INVASION,,,[Mysterio defeated.],,Y,Sp-285,Sp-287
+Sp-287,THE INVASION,,Mysterio,Nooooooooooo!!,,N,Sp-286,Sp-288
+Sp-288,THE INVASION,,,[Spidey grabs him and lift over the floor.],,Y,Sp-287,Sp-289
+Sp-289,THE INVASION,,Spider-man,"Right now you're thinking, if only you'd taken that giant act to Vegas instead.",,N,Sp-288,Sp-290
+Sp-290,THE INVASION,,Mysterio,"Curse your endless babble, Spider-man!",,N,Sp-289,Sp-291
+Sp-291,THE INVASION,,Spider-man,Speaking of babble… let's hear it. Who's behind all this?,,N,Sp-290,Sp-292
+Sp-292,THE INVASION,,Mysterio,"I'll never tell you. Mysterio may be defeated, but the symbiote invasion cannot be stopped.",,N,Sp-291,Sp-293
+Sp-293,THE INVASION,,Spider-man,Symbiote invasion… there are more of them?!,,N,Sp-292,Sp-294
+Sp-294,THE INVASION,,Mysterio,"You fool, there will be more than you can imagine. That fog which blankets the city is preparing everyone in New York for symbiosis.",,N,Sp-293,Sp-295
+Sp-295,THE INVASION,,Spider-man,You're the fool Mysterio. Where are they coming from?,,N,Sp-294,Sp-296
+Sp-296,THE INVASION,,Mysterio,"Go then, on the waterfront, warehouse 65, the secret passage. If only I could watch them destroy you.",,N,Sp-295,Sp-297
+Sp-297,THE INVASION,,Spider-man,"Whoever your boss is, he's off his rocker. No one can control the symbiotes.",,N,Sp-296,Sp-298
+Sp-298,THE INVASION,,Mysterio,Correction. No one before now.,,N,Sp-297,Sp-299
+Sp-299,THE INVASION,,Spider-man,"Spare me the propaganda. Okay, this isn't a game Mysterio. The symbiotes will destroy everything in their path unless I can stop them.",,N,Sp-298,Sp-300
+Sp-300,TO TRAP A SPIDER,,,[Someone appears to be watching Spidey from the roofs...],,Y,Sp-299,Sp-301
+Sp-301,TO TRAP A SPIDER,,Voice 1,I'm here Frank. What's up?,,N,Sp-300,Sp-302
+Sp-302,TO TRAP A SPIDER,,Voice 2,"Spider-man's here, Microchip.",,N,Sp-301,Sp-303
+Sp-303,TO TRAP A SPIDER,,Microchip,What range?,,N,Sp-302,Sp-304
+Sp-304,TO TRAP A SPIDER,,Punisher,"One hundred yards maybe, easy shot.",,N,Sp-303,Sp-305
+Sp-305,TO TRAP A SPIDER,,Microchip,"Very funny, Frank.",,N,Sp-304,Sp-306
+Sp-306,TO TRAP A SPIDER,,Punisher,"Eh, he spotted me. But how could he? I lost him.",,N,Sp-305,Sp-307
+Sp-307,TO TRAP A SPIDER,,Microchip,What happened?,,N,Sp-306,Sp-308
+Sp-308,TO TRAP A SPIDER,,Punisher,He took out my scope.,,N,Sp-307,Sp-309
+Sp-309,TO TRAP A SPIDER,,Spider-man,Hey tough guy. Sorry about that expensive lens... Punisher.,,N,Sp-308,Sp-310
+Sp-310,TO TRAP A SPIDER,,Punisher,"Something tells me we have the same objective here. That's the place, warehouse 65. We can team up, you cover my back.",,N,Sp-309,Sp-311
+Sp-311,TO TRAP A SPIDER,,Spider-man,"Huh, no thanks mister death wish. I'd like to keep the body count low if you don't mind.",,N,Sp-310,Sp-312
+Sp-312,TO TRAP A SPIDER,,Punisher,Fair enough.,,N,Sp-311,Sp-313
+Sp-313,TO TRAP A SPIDER,,Spider-man,Punisher's guns can't solve this problem. Gotta play this one my way.,,N,Sp-312,Sp-314
+Sp-314,TO TRAP A SPIDER,,Stan Lee,"Ah, the cliche seedy waterfront warehouse. Although I'm guessing that this particular warehouse has a bit more in store for the webhead than even he can imagine.",,N,Sp-313,Sp-315
+Sp-315,TO TRAP A SPIDER,,Spider-man,"Oooh... more symbiotes. Looks like the old Spidey luck is holding out. Looks like I've got to clean this place up too. Haven't been using this Spider Armor much before... Could be useful here. Aha! A secret passage. More generators! I'll have to go. That's it for the generators. Time to get to the BOTTOM of this! Enormous ventilation shaft... There must be something big down there. I like to concrete the dripping water, very nice. Spider Sense tingling! Ah, the old, trusty Spider Armor... I think this is it.",,N,Sp-314,Sp-316
+Sp-316,TO TRAP A SPIDER,,,[He jumps down the vent shaft.],,Y,Sp-315,Sp-317
+Sp-317,TO TRAP A SPIDER,,Spider-man,"Ohh, what a rash! The hell are we? You've got to be kidding... Okay, recap. A couple hundred of feet underwater, electrified floors and walls AND there's these turrets pointing straight at me! Uh-huh, my day just keeps getting better and better! Hey, you could put someone's eye out with that. Who built this place? I'm getting a feeling somebody doesn't want me here. The heating bill for this place must be enormous. Okay! Quit shooting the lasers! What is this place? This must be where the fog is coming from. Who is behind all this? Looked! Let's the door number two. We have a winner.",,N,Sp-316,Sp-318
+Sp-318,TO TRAP A SPIDER,,,[Inside the room he sees the Black Cat. She sits in an electric cage.],,Y,Sp-317,Sp-319
+Sp-319,TO TRAP A SPIDER,,Black Cat,Spider-man! I'm so happy to see you.,,N,Sp-318,Sp-320
+Sp-320,TO TRAP A SPIDER,,Spider-man,Black Cat? What are you do... who's behind... what's going on here?!,,N,Sp-319,Sp-321
+Sp-321,TO TRAP A SPIDER,,Black Cat,Your guess is as good as mine. The guys in the ambulance must have drugged me because the next thing I knew I woke up here. You've got to get me out of here.,,N,Sp-320,Sp-322
+Sp-322,TO TRAP A SPIDER,,Spider-man,"Okay, Cat, but how?",,N,Sp-321,Sp-323
+Sp-323,TO TRAP A SPIDER,,Black Cat,"If you can somehow shut down the power, I can escape.",,N,Sp-322,Sp-324
+Sp-324,TO TRAP A SPIDER,,Spider-man,You've got it Cat.,,N,Sp-323,Sp-325
+Sp-325,TO TRAP A SPIDER,,,[He enters the control room.],,Y,Sp-324,Sp-326
+Sp-326,TO TRAP A SPIDER,,Spider-man,"Bingo! If I read this right, this panel controls the exhaust ports. If I can jam the exhaust ports without stopping the flow of fog it'll be like a banana in a tailpipe. That ought to blow the power too!",,N,Sp-325,Sp-327
+Sp-327,TO TRAP A SPIDER,,,[Spidey begins to block the pipes with flaps...],,Y,Sp-326,Sp-328
+Sp-328,TO TRAP A SPIDER,,Spider-man,"Step in the right direction, but not enough pressure. Almost! Sucker is ready to blow! Yes, that does it!",,N,Sp-327,Sp-329
+Sp-329,TO TRAP A SPIDER,,,[The fog pipes explodes. Electricity turns off and the Black Cat gets out of the cage.],,Y,Sp-328,Sp-330
+Sp-330,TO TRAP A SPIDER,,Black Cat,"Thanks, Spider. Whatever you did it worked.",,N,Sp-329,Sp-331
+Sp-331,TO TRAP A SPIDER,,Spider-man,"Hey, what else is the Spider-man for? You go get some help, Cat. I'll find out who's behind all this.",,N,Sp-330,Sp-332
+Sp-332,TO TRAP A SPIDER,,Black Cat,You got it. I'll be back.,,N,Sp-331,Sp-333
+Sp-333,TO TRAP A SPIDER,,,[He walks into a nearby door.],,Y,Sp-332,Sp-334
+Sp-334,TO TRAP A SPIDER,,Voice,Hehehehehe.,,N,Sp-333,Sp-335
+Sp-335,TO TRAP A SPIDER,,Spider-man,"Listen, whoever you are, no one can control the symbiotes, no one.",,N,Sp-334,Sp-336
+Sp-336,TO TRAP A SPIDER,,Voice,"I need not control the symbiotes, Spider-man.",,N,Sp-335,Sp-337
+Sp-337,TO TRAP A SPIDER,,Spider-man,Doc Ock?,,N,Sp-336,Sp-338
+Sp-338,TO TRAP A SPIDER,,Doctor Octopus,"We will work as one. It's a new world. Humanity needs the skills that my technology will get them, symbiosis is the only way.",,N,Sp-337,Sp-339
+Sp-339,TO TRAP A SPIDER,,Spider-man,I should've known a reformed Doc Ock was too good to be true.,,N,Sp-338,Sp-340
+Sp-340,TO TRAP A SPIDER,,Doctor Octopus,A perfect world order. Those who cannot share my vision will be crushed by it.,,N,Sp-339,Sp-341
+Sp-341,TO TRAP A SPIDER,,Venom,Speaking of crushed.,,N,Sp-340,Sp-342
+Sp-342,TO TRAP A SPIDER,,Spider-man,Huh?,,N,Sp-341,Sp-343
+Sp-343,TO TRAP A SPIDER,,Venom,"It's showtime, freaks. Oooh, I smell bad symbiote and it ain't me.",,N,Sp-342,Sp-344
+Sp-344,TO TRAP A SPIDER,,Carnage,"Bring it on, grandpa.",,N,Sp-343,Sp-345
+Sp-345,TO TRAP A SPIDER,,,[They begin to fight each other.],,Y,Sp-344,Sp-346
+Sp-346,TO TRAP A SPIDER,,Spider-man,Alone at last.,,N,Sp-345,Sp-347
+Sp-347,TO TRAP A SPIDER,,Doctor Octopus,Let us end this Spider-man.,,N,Sp-346,Sp-348
+Sp-348,TO TRAP A SPIDER,,,[They start to fight.],,Y,Sp-347,Sp-349
+Sp-349,TO TRAP A SPIDER,,Doctor Octopus,"You'll never get past my barriers, Spider-man.",,N,Sp-348,Sp-350
+Sp-350,TO TRAP A SPIDER,,Spider-man,He's right! I need to find some way to draw power away from the shields. Yes! These shields draw power from his. But I need to draw more power!,,N,Sp-349,Sp-351
+Sp-351,TO TRAP A SPIDER,,Doctor Octopus,Whatever you will try is useless against my command.,,N,Sp-350,Sp-352
+Sp-352,TO TRAP A SPIDER,,Spider-man,"It's working! One more should do it. That's it! Time to pay the piper off! Uh-huh, looks like his shield is regenerating.",,N,Sp-351,Sp-353
+Sp-353,TO TRAP A SPIDER,,Doctor Octopus,"You will never destroy me! What are you doing? Stop that! Oh, I am defeated! The end, this plan.",,N,Sp-352,Sp-354
+Sp-354,TO TRAP A SPIDER,,Spider-man,"One down, one to go. I wonder how Venom's doing.",,N,Sp-353,Sp-355
+Sp-355,TO TRAP A SPIDER,,Venom,Arrrrrrr.,,N,Sp-354,Sp-356
+Sp-356,TO TRAP A SPIDER,,Spider-man,"Eddie, are you alright? Talk to me, wake up Brock.",,N,Sp-355,Sp-357
+Sp-357,TO TRAP A SPIDER,,Venom,"Look out Parker, behind you.",,N,Sp-356,Sp-358
+Sp-358,TO TRAP A SPIDER,,Spider-man,What'd you say?,,N,Sp-357,Sp-359
+Sp-359,TO TRAP A SPIDER,,Carnage,Ahahahahaha.,,N,Sp-358,Sp-360
+Sp-360,TO TRAP A SPIDER,,Spider-man,That's a sonic bubble in the middle of the room. This the only two things symbiotes hate - fire and sonics. I’m guessing Ock build this just in case Carnage tried to double-cross him.,,N,Sp-359,Sp-361
+Sp-361,TO TRAP A SPIDER,,Carnage,What color do you bleed Spider-man?,,N,Sp-360,Sp-362
+Sp-362,TO TRAP A SPIDER,,Spider-man,"Your plan is doomed, Carnage. Hey! Not enough for ya? I took care of Doc Ock… now I took care of you! Once I stop you, I stop your evil plan.",,N,Sp-361,Sp-363
+Sp-363,TO TRAP A SPIDER,,Carnage,Aahh! The pain! THE PAIN!!,,N,Sp-362,Sp-364
+Sp-364,TO TRAP A SPIDER,,Spider-man,"You are a born loser Cletus Cassidy. Like I told Mysterio, no one can control the symbiotes, no one I've met anyway.",,N,Sp-363,Sp-365
+Sp-365,TO TRAP A SPIDER,,,[Cletus’ symbiote lurked in a drainpipe.],,Y,Sp-364,Sp-366
+Sp-366,TO TRAP A SPIDER,,Spider-man,"Take a breather Spidey, it's over. Well just another day in the life... woah. What the?",,N,Sp-365,Sp-367
+Sp-367,TO TRAP A SPIDER,,,[Mechanical tentacles drag him down the floor.],,Y,Sp-366,Sp-368
+Sp-368,TO TRAP A SPIDER,,Spider-man,Is that Ock?,,N,Sp-367,Sp-369
+Sp-369,TO TRAP A SPIDER,,,[It looks like the symbiote has merged with unconscious Octavius.],,Y,Sp-368,Sp-370
+Sp-370,TO TRAP A SPIDER,,Spider-man,It’s gonna blow! I’ve got to get out of here!,,N,Sp-369,Sp-371
+Sp-371,TO TRAP A SPIDER,,,[He begins to destroy the laboratory in rage. Spidey runs to the exit. Monster Ock chasing him.],,Y,Sp-370,Sp-372
+Sp-372,TO TRAP A SPIDER,,Monster Ock,DIE!!,,N,Sp-371,Sp-373
+Sp-373,TO TRAP A SPIDER,,Spider-man,"Stay away from me! Getting closer to the surface. Level three... it’s two to go. Crushes this very building… Can't shake him! He breathing down my neck! Back off! Level two! Almost there. Level one! I'm the home stretch, baby!",,N,Sp-372,Sp-374
+Sp-374,TO TRAP A SPIDER,,,[Spidey manage to swing out of the exploding laboratory.],,Y,Sp-373,Sp-375
+Sp-375,TO TRAP A SPIDER,,Spider-man,"Move it, move it. Oh no... Ock. After all that, it was the symbiote that saved Ock. You've gotta be kidding. A perfect end to a perfect day. Huh, what the?",,N,Sp-374,Sp-376
+Sp-376,TO TRAP A SPIDER,,,"[The plane arrives with Venom, Captain America and the Black Cat on board.]",,Y,Sp-375,Sp-377
+Sp-377,TO TRAP A SPIDER,,Venom,Grab on.,,N,Sp-376,Sp-378
+Sp-378,TO TRAP A SPIDER,,Captain America,"It's a good thing Black Cat gave me a call, son.",,N,Sp-377,Sp-379
+Sp-379,TO TRAP A SPIDER,,Spider-man,Looks like just in time.,,N,Sp-378,Sp-380
+Sp-380,TO TRAP A SPIDER,,Venom,"Hey Spidey, can you get us Captain America's autograph?",,N,Sp-379,Sp-381
+Sp-381,TO TRAP A SPIDER,,Spider-man,Oh brother.,,N,Sp-380,Sp-382
+Sp-382,TO TRAP A SPIDER,,,[Next scene. Superheroes are playing poker...],,Y,Sp-381,Sp-383
+Sp-383,TO TRAP A SPIDER,,Captain America,"Punisher, do you have any threes?",,N,Sp-382,Sp-384
+Sp-384,TO TRAP A SPIDER,,Punisher,"Go fish. So nice of you to join us for once, Spidey.",,N,Sp-383,Sp-385
+Sp-385,TO TRAP A SPIDER,,Spider-man,"Oh I'm sorry, I was out saving the world. Beating you guys at cards out of be pretty easy.",,N,Sp-384,Sp-386
+Sp-386,TO TRAP A SPIDER,,Daredevil,Your spider sense won't save you here.,,N,Sp-385,Sp-387
+Sp-387,TO TRAP A SPIDER,,Punisher,"Look who's talking Daredevil, you've been looking at my cards all night.",,N,Sp-386,Sp-388
+Sp-388,TO TRAP A SPIDER,,Daredevil,"I don't need to look at your cards Punisher, your bluffs are so obvious.",,N,Sp-387,Sp-389
+Sp-389,TO TRAP A SPIDER,,Captain America,"Okay, Okay, let's keep this a nice friendly clean game.",,N,Sp-388,Sp-390
+Sp-390,TO TRAP A SPIDER,,Punisher,"Uh, who keeps inviting this guy?",,N,Sp-389,Sp-391
+Sp-391,TO TRAP A SPIDER,,Spider-man,Hey will you guys keep it down?,,N,Sp-390,Sp-392
+Sp-392,TO TRAP A SPIDER,,Human Torch (dancing),"Hey! Loosen up kids, I'm on fire.",,N,Sp-391,Sp-393
+Sp-393,TO TRAP A SPIDER,,,[Meanwhile supervillians are get that they deserved! Prison.],,Y,Sp-392,Sp-394
+Sp-394,TO TRAP A SPIDER,,Scorpion,"Wait, hold on, time out. All of you guys were working together and you still couldn't take down Spider-man?",,N,Sp-393,Sp-395
+Sp-395,TO TRAP A SPIDER,,Mysterio,"Ha it's not my fault. Doc Ock's plan was horrible, everyone knows you can't control the symbiotes.",,N,Sp-394,Sp-396
+Sp-396,TO TRAP A SPIDER,,Rhino,"Hey wait, so I'm a Rhino, You're a Scorpion, and he's an Octopus. What's a Mysterio?",,N,Sp-395,Sp-397
+Sp-397,TO TRAP A SPIDER,,Scorpion,"So Rhino, you got any threes?",,N,Sp-396,Sp-398
+Sp-398,TO TRAP A SPIDER,,Rhino,"Uh hey hey I got a bingo. Haha, you guys think you're so smart but I won. Ha who's your daddy, Doc Ock? Hahaha victory is mine. You're always laughing at me but who's crying now, huh? Wait a minute, I made a mistake.",,N,Sp-397,Sp-399
